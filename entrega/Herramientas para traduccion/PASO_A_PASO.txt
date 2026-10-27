@@ -14,8 +14,8 @@ YAKUZA 5 REMASTERED - TRADUCCION AL ESPANOL - REGISTRO PASO A PASO
    como CSV en UTF-16.
 6. Formato .msg descifrado a mano (big endian): registros de 12 bytes con largo, posicion del texto y "funciones"
    (pausas, colores, fin) que guardan posiciones de letra. Lector: herramientas/msg_y5.py.
-7. Laboratorio D:\Y5_lab (para probar sin tocar el juego de Steam ni sumar logros/horas): Yakuza5.exe sin SteamStub
-   (Steamless) + steam_appid.txt = 480 (Steam lo ve como "Spacewar"); carpetas de datos enlazadas (uniones y enlaces
+7. Laboratorio D:\Y5_lab (para probar sin tocar el juego de Steam): copia aparte del juego;
+   carpetas de datos enlazadas (uniones y enlaces
    duros) al juego real; un archivo modificado se pone con "y5lab.sh poner" (borra el enlace y copia, nunca escribe encima).
    Ajustes del laboratorio aparte (AppData\SEGA\Yakuza5 se guarda y se devuelve al cerrar). Ventana 1280x720.
 8. PRUEBA 1 (20-10): subtitle.par rearmado con ParTool "add" y un CSV cambiado -> el juego muestra el español con tildes
