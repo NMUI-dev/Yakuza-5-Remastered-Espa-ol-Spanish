@@ -1,0 +1,122 @@
+{
+ "textura": "pausepar_pause_en/picture/takara/2d_jm_takarac_01",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    52,
+    72,
+    186,
+    89
+   ],
+   "en": "in a town with falling snow.",
+   "ocr": "in a town with fallingsnow.",
+   "es": "en un pueblo donde caía la nieve.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 134,
+   "dejar": true
+  },
+  {
+   "caja": [
+    56,
+    96,
+    209,
+    112
+   ],
+   "en": "le of an intersection for a mon",
+   "ocr": "leofan interscction fora mom",
+   "es": "en medio de un cruce durante un momento",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 153,
+   "dejar": true
+  },
+  {
+   "caja": [
+    61,
+    108,
+    210,
+    125
+   ],
+   "en": "center of the road, as if I were",
+   "ocr": "center of the road.as if I were",
+   "es": "centro de la calle, como si estuviera",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 149,
+   "dejar": true
+  },
+  {
+   "caja": [
+    62,
+    122,
+    92,
+    137
+   ],
+   "en": "orns.",
+   "ocr": "DIT1S,",
+   "es": "esquinas.",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 30,
+   "dejar": true
+  },
+  {
+   "caja": [
+    69,
+    144,
+    214,
+    161
+   ],
+   "en": "ok a left. It brought me to a b",
+   "ocr": "okaleft.ltbroughtme to ab",
+   "es": "giré a la izquierda. Me llevó a una curva",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 145,
+   "dejar": true
+  },
+  {
+   "caja": [
+    70,
+    157,
+    210,
+    173
+   ],
+   "en": "nd continued along my way fo",
+   "ocr": "idcontinuedalongmywayfo",
+   "es": "y continué por mi camino para",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 140,
+   "dejar": true
+  },
+  {
+   "caja": [
+    168,
+    182,
+    192,
+    195
+   ],
+   "en": "that",
+   "ocr": "hat",
+   "es": "eso",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 24,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: lo hace el PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

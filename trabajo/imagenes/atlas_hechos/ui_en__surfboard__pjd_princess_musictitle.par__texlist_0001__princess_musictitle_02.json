@@ -1,0 +1,86 @@
+{
+ "textura": "ui_en/surfboard/pjd_princess_musictitle.par/texlist_0001/princess_musictitle_02",
+ "fuente": "segoeui.ttf",
+ "margen": 6,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    21,
+    50,
+    493,
+    109
+   ],
+   "en": "Because I Have You",
+   "es": "",
+   "fuente": "consolab.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 460,
+   "dejar": true
+  },
+  {
+   "caja": [
+    21,
+    176,
+    493,
+    244
+   ],
+   "en": "Because I Have You",
+   "es": "",
+   "fuente": "consolab.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 460,
+   "dejar": true
+  },
+  {
+   "caja": [
+    0,
+    437,
+    300,
+    467
+   ],
+   "en": "Lyrics by Ryosuke Horii",
+   "es": "Letra de Ryosuke Horii",
+   "fuente": "consolab.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 288
+  },
+  {
+   "caja": [
+    0,
+    477,
+    400,
+    507
+   ],
+   "en": "Music by Mitsuharu Fukuyama",
+   "es": "Música de Mitsuharu Fukuyama",
+   "fuente": "consolab.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 318
+  }
+ ]
+}

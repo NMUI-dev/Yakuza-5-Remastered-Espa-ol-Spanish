@@ -1,0 +1,1017 @@
+[
+{
+"id": 32952,
+"en": "Good. Um, I have to confess, I actually had some I could've shared with you... But I wanted to see if you were determined enough to scrounge some up yourself.",
+"ctx": "diálogo uid00690010"
+},
+{
+"id": 32953,
+"en": "Heh, so you were testin' me?",
+"ctx": "diálogo uid00690010"
+},
+{
+"id": 32954,
+"en": "Sorry about that. But at least now I know that you're the real deal.",
+"ctx": "diálogo uid00690010"
+},
+{
+"id": 32955,
+"en": "Glad I passed. Ya got the map ready?",
+"ctx": "diálogo uid00690010"
+},
+{
+"id": 32956,
+"en": "Sure do.",
+"ctx": "diálogo uid00690010"
+},
+{
+"id": 32957,
+"en": "I only drew the basic geography of the place, but it's enough to keep you from getting lost. Stick to the mountain's trailhead today⑬that's plenty to start with.",
+"ctx": "diálogo uid00690010"
+},
+{
+"id": 32958,
+"en": "Ya think Okudera-han's around there?",
+"ctx": "diálogo uid00690010"
+},
+{
+"id": 32959,
+"en": "Yeah, probably. I don't think he'd go further than that. Not without a good reason, anyway.",
+"ctx": "diálogo uid00690010"
+},
+{
+"id": 32960,
+"en": "It's nothing. Like I said, the trailhead area should be enough for you today. The rest of the map's just in case you go back some other time.",
+"ctx": "diálogo uid00690010"
+},
+{
+"id": 32961,
+"en": "I recommend you add your own notes, like about landmarks and stuff. There's no better guide than the one you make yourself!",
+"ctx": "diálogo uid00690010"
+},
+{
+"id": 32962,
+"en": "First things first. Look here on the map.",
+"ctx": "diálogo uid00690010"
+},
+{
+"id": 32963,
+"en": "That's the trailhead closest to the village. That's where you start ascending.",
+"ctx": "diálogo uid00690010"
+},
+{
+"id": 32964,
+"en": "And you should take that path when you're coming back as well.",
+"ctx": "diálogo uid00690010"
+},
+{
+"id": 32965,
+"en": "The winding blue line is <Color:7>Mato River<Color:Default>.",
+"ctx": "diálogo uid00690010"
+},
+{
+"id": 32966,
+"en": "Just work your way up along it, and you won't get lost. Yeah, definitely stay near the river for now.",
+"ctx": "diálogo uid00690010"
+},
+{
+"id": 32967,
+"en": "Got it. 'Preciate all you've done, Sakurai-han.",
+"ctx": "diálogo uid00690010"
+},
+{
+"id": 32968,
+"en": "Well, I definitely can't do anything more! So are you planning to leave now? Or do you need time to get ready?",
+"ctx": "diálogo uid00690010"
+},
+{
+"id": 32969,
+"en": "While I'm drawing the map, why don't you try scrounging up some food? If you explain your situation, someone might give you what little they have to spare.",
+"ctx": "diálogo uid00690010"
+},
+{
+"id": 32970,
+"en": "You're not really going up to the mountain, are you?",
+"ctx": "diálogo uid00690010"
+},
+{
+"id": 32971,
+"en": "Take my advice⑬go back home.",
+"ctx": "diálogo uid00690010"
+},
+{
+"id": 32972,
+"en": "Fine, I won't go up.",
+"ctx": "diálogo uid00690010 + diálogo uid01690021"
+},
+{
+"id": 32973,
+"en": "Oh. Interesting. After everything Okudera-san told me, I was expecting you to be someone with a spine of steel, who wouldn't care what I had to say.",
+"ctx": "diálogo uid00690010 + diálogo uid01690021"
+},
+{
+"id": 32974,
+"en": "But instead, you're wise. You're choosing the safer option.",
+"ctx": "diálogo uid00690010 + diálogo uid01690021"
+},
+{
+"id": 32975,
+"en": "I hafta go up there. I owe my life to Okudera⑬I can't just leave 'im alone in a blizzard. Gotta ask ya not to stand in my way.",
+"ctx": "diálogo uid00690010 + diálogo uid01690021"
+},
+{
+"id": 32976,
+"en": "Wow. Y'know... you're just like he said.",
+"ctx": "diálogo uid00690010 + diálogo uid01690021"
+},
+{
+"id": 32977,
+"en": "Yeah. Here's something else that Okudera-san said to me:",
+"ctx": "diálogo uid00690010 + diálogo uid01690021"
+},
+{
+"id": 32978,
+"en": "\"Saejima won't listen if you try to stop him. But, try anyway. And then help him so at least he won't come blundering in blindly.\"",
+"ctx": "diálogo uid00690010 + diálogo uid01690021"
+},
+{
+"id": 32979,
+"en": "Okudera-han said that?",
+"ctx": "diálogo uid00690010 + diálogo uid01690021"
+},
+{
+"id": 32980,
+"en": "Yeah. He knew you wouldn't give up. And neither of us wants you to rush into this not knowing up from down.",
+"ctx": "diálogo uid00690010 + diálogo uid01690021"
+},
+{
+"id": 32981,
+"en": "Alright. So what do I do?",
+"ctx": "diálogo uid00690010 + diálogo uid01690021"
+},
+{
+"id": 32982,
+"en": "First, your clothing. Hm... Actually, what you're wearing right now should be good enough. After all, it's not like you'll be hunting or anything.",
+"ctx": "diálogo uid00690010 + diálogo uid01690021"
+},
+{
+"id": 32983,
+"en": "Been good against the cold so far.",
+"ctx": "diálogo uid00690010"
+},
+{
+"id": 32984,
+"en": "So that only leaves two things: food for emergencies, and a good map.",
+"ctx": "diálogo uid00690010 + diálogo uid01690021"
+},
+{
+"id": 32985,
+"en": "How do I get those?",
+"ctx": "diálogo uid00690010 + diálogo uid01690021"
+},
+{
+"id": 32986,
+"en": "I'll draw you a map. But food might be a problem. It's hard enough for the villagers to just feed themselves.",
+"ctx": "diálogo uid00690010 + diálogo uid01690021"
+},
+{
+"id": 32987,
+"en": "I b'lieve that...",
+"ctx": "diálogo uid00690010 + diálogo uid01690021"
+},
+{
+"id": 32988,
+"en": "While I'm drawing the map, why don't you try scrounging up some food?",
+"ctx": "diálogo uid00690010 + diálogo uid01690021"
+},
+{
+"id": 32989,
+"en": "If you explain your situation, someone might give you what little they have to spare.",
+"ctx": "diálogo uid00690010 + diálogo uid01690021"
+},
+{
+"id": 32990,
+"en": "Okay. I'll give it a try.",
+"ctx": "diálogo uid00690010 + diálogo uid01690021"
+},
+{
+"id": 32991,
+"en": "I guess you'll be going into the wild again... Please be careful.",
+"ctx": "diálogo uid00690011"
+},
+{
+"id": 32992,
+"en": "How did your hunt go?",
+"ctx": "diálogo uid00690011"
+},
+{
+"id": 32993,
+"en": "Thanks to you, I think I can make a go of it⑬'preciate yer help.",
+"ctx": "diálogo uid00690011"
+},
+{
+"id": 32994,
+"en": "In fact, I'd like to repay my debt to ya. Here, take this.",
+"ctx": "diálogo uid00690011"
+},
+{
+"id": 32995,
+"en": "Oh wow, you saved some for us?",
+"ctx": "diálogo uid00690011"
+},
+{
+"id": 32996,
+"en": "Yeah. Bein' in debt doesn't sit well with me. Not sure if that's enough, though.",
+"ctx": "diálogo uid00690011"
+},
+{
+"id": 32997,
+"en": "Oh, no, this is plenty. Thank you.",
+"ctx": "diálogo uid00690011"
+},
+{
+"id": 32998,
+"en": "I'll do that. Thanks.",
+"ctx": "diálogo uid00690011"
+},
+{
+"id": 32999,
+"en": "I made some snares. Are you ready for the mountain?",
+"ctx": "diálogo uid00690047"
+},
+{
+"id": 33000,
+"en": "All right, let's leave now.",
+"ctx": "diálogo uid00690047"
+},
+{
+"id": 33001,
+"en": "Good. We'll go trapping, then. For rabbits. That's the best food for Baba.",
+"ctx": "diálogo uid00690047"
+},
+{
+"id": 33002,
+"en": "I'm sorry, Aniki. I wish you didn't have to do so much for me.",
+"ctx": "diálogo uid00690047"
+},
+{
+"id": 33003,
+"en": "I made some snares. Are you ready for the mountain, Saejima?",
+"ctx": "diálogo uid00690047"
+},
+{
+"id": 33004,
+"en": "(He's right. Gotta go see Nishina's wife.)",
+"ctx": "diálogo uid00690047"
+},
+{
+"id": 33005,
+"en": "Rabbits? Ain't much meat on those, is there? Why not try for deer?",
+"ctx": "diálogo uid00690047"
+},
+{
+"id": 33006,
+"en": "Rabbit meat is more tender. It'll be easier for Baba to digest.",
+"ctx": "diálogo uid00690047"
+},
+{
+"id": 33007,
+"en": "The fur will be useful as well.",
+"ctx": "diálogo uid00690047"
+},
+{
+"id": 33008,
+"en": "Ah. Sounds good, then.",
+"ctx": "diálogo uid00690047 + diálogo uid01690021"
+},
+{
+"id": 33009,
+"en": "Go on and take care of your business. I'll make some rabbit snares.",
+"ctx": "diálogo uid00690047"
+},
+{
+"id": 33010,
+"en": "*sigh* I'm just really sorry, Aniki...",
+"ctx": "diálogo uid00690049"
+},
+{
+"id": 33011,
+"en": "Hey, Aniki.",
+"ctx": "diálogo uid00690049"
+},
+{
+"id": 33012,
+"en": "Just take yer time restin' up. Got that?",
+"ctx": "diálogo uid00690049"
+},
+{
+"id": 33013,
+"en": "Welcome back, Aniki. Ugh, I feel rotten for being the reason you have to go hunting in the cold...",
+"ctx": "diálogo uid00690049"
+},
+{
+"id": 33014,
+"en": "This is all my fault. I'm so sorry.",
+"ctx": "diálogo uid00690049"
+},
+{
+"id": 33015,
+"en": "It's nothin' to apologize for. All ya gotta do is get better.",
+"ctx": "diálogo uid00690049"
+},
+{
+"id": 33016,
+"en": "Dang, you're pretty good. I hate to admit it, but you win.",
+"ctx": "diálogo uid0069012f"
+},
+{
+"id": 33017,
+"en": "Received a <Color:8>1,000 yen<Color:Default> tip from the audience.",
+"ctx": "diálogo uid0069012f + diálogo uid00690131 …"
+},
+{
+"id": 33018,
+"en": "Received a <Color:8>2,000 yen<Color:Default> tip from the audience.",
+"ctx": "diálogo uid0069012f + diálogo uid00690131 …"
+},
+{
+"id": 33019,
+"en": "Received a <Color:8>4,000 yen<Color:Default> tip from the audience.",
+"ctx": "diálogo uid0069012f + diálogo uid00690131 …"
+},
+{
+"id": 33020,
+"en": "Received a <Color:8>6,000 yen<Color:Default> tip from the audience.",
+"ctx": "diálogo uid0069012f + diálogo uid00690131 …"
+},
+{
+"id": 33021,
+"en": "You've got some pretty good moves, but you're still green.",
+"ctx": "diálogo uid0069012f"
+},
+{
+"id": 33022,
+"en": "Received a <Color:8>500 yen<Color:Default> tip from the audience.",
+"ctx": "diálogo uid0069012f + diálogo uid00690131 …"
+},
+{
+"id": 33023,
+"en": "What? You wanna have a dance battle or something?",
+"ctx": "diálogo uid0069012f"
+},
+{
+"id": 33024,
+"en": "No, not really.",
+"ctx": "diálogo uid0069012f + diálogo uid00690139 …"
+},
+{
+"id": 33025,
+"en": "Hmph. That's too bad. It would've been a good match-up.",
+"ctx": "diálogo uid0069012f"
+},
+{
+"id": 33026,
+"en": "Hmm, I dunno. You look kinda worn out. We'd better not.",
+"ctx": "diálogo uid0069012f"
+},
+{
+"id": 33027,
+"en": "Yes, if it's not too much trouble.",
+"ctx": "diálogo uid0069012f"
+},
+{
+"id": 33028,
+"en": "All right, let's do this!",
+"ctx": "diálogo uid0069012f"
+},
+{
+"id": 33029,
+"en": "Wow! Your dancing is amazing! Could you teach me to move like that?",
+"ctx": "diálogo uid00690131"
+},
+{
+"id": 33030,
+"en": "Hey, don't be sad. All you have to do is practice more, and you'll be great in no time!",
+"ctx": "diálogo uid00690131"
+},
+{
+"id": 33031,
+"en": "A dance battle? You really wanna!?",
+"ctx": "diálogo uid00690131"
+},
+{
+"id": 33032,
+"en": "I'm sorry. Could we do it some other time?",
+"ctx": "diálogo uid00690131"
+},
+{
+"id": 33033,
+"en": "Ugh! You've got to be kidding!",
+"ctx": "diálogo uid00690131"
+},
+{
+"id": 33034,
+"en": "You know, maybe we shouldn't. You look tired.",
+"ctx": "diálogo uid00690131"
+},
+{
+"id": 33035,
+"en": "Yes, if you wouldn't mind!",
+"ctx": "diálogo uid00690131"
+},
+{
+"id": 33036,
+"en": "I'd love to!",
+"ctx": "diálogo uid00690131"
+},
+{
+"id": 33037,
+"en": "Yikes, you're too good. I'm no match for you.",
+"ctx": "diálogo uid00690133"
+},
+{
+"id": 33038,
+"en": "Heheh, I won. Whew! If you're ever looking for another battle, come see me again!",
+"ctx": "diálogo uid00690133"
+},
+{
+"id": 33039,
+"en": "Heeey, looking for a battle?",
+"ctx": "diálogo uid00690133"
+},
+{
+"id": 33040,
+"en": "Actually, I just remembered something I have to do.",
+"ctx": "diálogo uid00690133"
+},
+{
+"id": 33041,
+"en": "Ha! I only take on opponents who can put up a good fight. You look like you need to go back to sleep.",
+"ctx": "diálogo uid00690133"
+},
+{
+"id": 33042,
+"en": "Looking for a battle?",
+"ctx": "diálogo uid00690133"
+},
+{
+"id": 33043,
+"en": "Yes! Let's do this.",
+"ctx": "diálogo uid00690133"
+},
+{
+"id": 33044,
+"en": "Heheh. This'll be fun.",
+"ctx": "diálogo uid00690133"
+},
+{
+"id": 33045,
+"en": "Your skills are quite formidable. Congratulations, you just became my newest rival.",
+"ctx": "diálogo uid00690135"
+},
+{
+"id": 33046,
+"en": "Tch. Is that really all you've got? Looks like I overestimated you.",
+"ctx": "diálogo uid00690135"
+},
+{
+"id": 33047,
+"en": "You dance, don't you? Are you prepared to battle?",
+"ctx": "diálogo uid00690135"
+},
+{
+"id": 33048,
+"en": "No, not at the moment.",
+"ctx": "diálogo uid00690135"
+},
+{
+"id": 33049,
+"en": "Frightened? Hehe.",
+"ctx": "diálogo uid00690135"
+},
+{
+"id": 33050,
+"en": "Oh... I admire you for pushing yourself, but you gotta take a break every now and then, you know?",
+"ctx": "diálogo uid00690135"
+},
+{
+"id": 33051,
+"en": "Oh. Yeah, maybe you're right.",
+"ctx": "diálogo uid00690135"
+},
+{
+"id": 33052,
+"en": "Sure, if you wouldn't mind.",
+"ctx": "diálogo uid00690135"
+},
+{
+"id": 33053,
+"en": "Not at all. I'm curious to see what you've got.",
+"ctx": "diálogo uid00690135"
+},
+{
+"id": 33054,
+"en": "Oh, darn. I lost. Those moves of yours are really polished.",
+"ctx": "diálogo uid00690137"
+},
+{
+"id": 33055,
+"en": "Looks like I win this time. I hope you'll ask me again soon!",
+"ctx": "diálogo uid00690137"
+},
+{
+"id": 33056,
+"en": "Your expression is telling me you want to face off in a dance battle. Is that right?",
+"ctx": "diálogo uid00690137"
+},
+{
+"id": 33057,
+"en": "What!? My expression wasn't telling you that!",
+"ctx": "diálogo uid00690137"
+},
+{
+"id": 33058,
+"en": "Liar! It most certainly was!",
+"ctx": "diálogo uid00690137"
+},
+{
+"id": 33059,
+"en": "Ah, no can do! You can't dance when you're that tired. You might hurt yourself!",
+"ctx": "diálogo uid00690137"
+},
+{
+"id": 33060,
+"en": "Oh. I guess you're right.",
+"ctx": "diálogo uid00690137"
+},
+{
+"id": 33061,
+"en": "Hehe. Is it that easy to tell?",
+"ctx": "diálogo uid00690137"
+},
+{
+"id": 33062,
+"en": "Yup. It's written all over your face that you want to dance, and you want to dance now!",
+"ctx": "diálogo uid00690137"
+},
+{
+"id": 33063,
+"en": "Wow! I didn't know there was anybody as good as you around!",
+"ctx": "diálogo uid00690139"
+},
+{
+"id": 33064,
+"en": "Sheesh, you weren't what I expected at all. I'm a little disappointed, to tell the truth.",
+"ctx": "diálogo uid00690139"
+},
+{
+"id": 33065,
+"en": "Wait. Don't tell me you're looking for a dance battle...",
+"ctx": "diálogo uid00690139"
+},
+{
+"id": 33066,
+"en": "No, I'm not.",
+"ctx": "diálogo uid00690139"
+},
+{
+"id": 33067,
+"en": "Oh. My mistake.",
+"ctx": "diálogo uid00690139"
+},
+{
+"id": 33068,
+"en": "Sheesh, when you're all wrung out like that? You'd better get some rest first.",
+"ctx": "diálogo uid00690139"
+},
+{
+"id": 33069,
+"en": "Oh, okay. I guess you're right.",
+"ctx": "diálogo uid00690139"
+},
+{
+"id": 33070,
+"en": "I am, actually. Would you mind?",
+"ctx": "diálogo uid00690139"
+},
+{
+"id": 33071,
+"en": "Of course not! Plus, you look like you'd put up a good fight.",
+"ctx": "diálogo uid00690139"
+},
+{
+"id": 33072,
+"en": "Gosh, you beat me. Ugh, no fair! You're way too good!",
+"ctx": "diálogo uid0069013b"
+},
+{
+"id": 33073,
+"en": "Woo hoo! I won! Thanks for a great battle!",
+"ctx": "diálogo uid0069013b"
+},
+{
+"id": 33074,
+"en": "I'm in the mood to dance! How about you!?",
+"ctx": "diálogo uid0069013b"
+},
+{
+"id": 33075,
+"en": "I'm sorry. I'm actually a little busy right now.",
+"ctx": "diálogo uid0069013b"
+},
+{
+"id": 33076,
+"en": "Aww. That's not fun.",
+"ctx": "diálogo uid0069013b"
+},
+{
+"id": 33077,
+"en": "Oh, wait a minute. You seem really tired. Let's do it some other time!",
+"ctx": "diálogo uid0069013b"
+},
+{
+"id": 33078,
+"en": "All right. Some other time, then.",
+"ctx": "diálogo uid0069013b"
+},
+{
+"id": 33079,
+"en": "Okay, let's do it!",
+"ctx": "diálogo uid0069013b"
+},
+{
+"id": 33080,
+"en": "Woo hoo! This is gonna be good!",
+"ctx": "diálogo uid0069013b"
+},
+{
+"id": 33081,
+"en": "You've got moves I've never even seen before! I've learned so much!",
+"ctx": "diálogo uid0069013d"
+},
+{
+"id": 33082,
+"en": "That was super fun. Let's do it again sometime!",
+"ctx": "diálogo uid0069013d"
+},
+{
+"id": 33083,
+"en": "I'm looking for an opponent! Any takers?",
+"ctx": "diálogo uid0069013d"
+},
+{
+"id": 33084,
+"en": "Well, come back if you change your mind!",
+"ctx": "diálogo uid0069013d"
+},
+{
+"id": 33085,
+"en": "Hey, hold up. You're going to need a lotta energy if you want to take me on!",
+"ctx": "diálogo uid0069013d"
+},
+{
+"id": 33086,
+"en": "I'm looking for a dance opponent! Are you volunteering?",
+"ctx": "diálogo uid0069013d"
+},
+{
+"id": 33087,
+"en": "Yes, let's do it.",
+"ctx": "diálogo uid0069013d"
+},
+{
+"id": 33088,
+"en": "All right! Here we go!",
+"ctx": "diálogo uid0069013d"
+},
+{
+"id": 33089,
+"en": "I lost!? I guess I need to practice more!",
+"ctx": "diálogo uid0069013f"
+},
+{
+"id": 33090,
+"en": "Hehe. You tried your best, but you just weren't ready to go up against somebody like me.",
+"ctx": "diálogo uid0069013f"
+},
+{
+"id": 33091,
+"en": "So, what is it? You looking to battle?",
+"ctx": "diálogo uid0069013f"
+},
+{
+"id": 33092,
+"en": "No, not especially.",
+"ctx": "diálogo uid0069013f + diálogo uid00690559"
+},
+{
+"id": 33093,
+"en": "Oh. Fine then.",
+"ctx": "diálogo uid0069013f"
+},
+{
+"id": 33094,
+"en": "Is this some kind of joke? You can't challenge me when you're exhausted like that! Come back when you're rested up!",
+"ctx": "diálogo uid0069013f"
+},
+{
+"id": 33095,
+"en": "Yes! Would you be my opponent?",
+"ctx": "diálogo uid0069013f"
+},
+{
+"id": 33096,
+"en": "Hehe. I'll try not to beat you too badly.",
+"ctx": "diálogo uid0069013f"
+},
+{
+"id": 33097,
+"en": "Whoa! You look so meek and innocent, I'd have never guessed you'd be so good!",
+"ctx": "diálogo uid00690141"
+},
+{
+"id": 33098,
+"en": "All right, I won! Sorry, but I just couldn't afford to lose that one.",
+"ctx": "diálogo uid00690141"
+},
+{
+"id": 33099,
+"en": "Do you want to have a dance battle? I'd be happy to take you on.",
+"ctx": "diálogo uid00690141"
+},
+{
+"id": 33100,
+"en": "All right. Come back soon!",
+"ctx": "diálogo uid00690141"
+},
+{
+"id": 33101,
+"en": "Hold on. On second thought, you look pretty beat. You should go and rest up.",
+"ctx": "diálogo uid00690141"
+},
+{
+"id": 33102,
+"en": "Oh. All right.",
+"ctx": "diálogo uid00690141"
+},
+{
+"id": 33103,
+"en": "All right. Let's do it!",
+"ctx": "diálogo uid00690141"
+},
+{
+"id": 33104,
+"en": "Sorry, but I don't think we'd make a good match. You either gotta find somebody else, or come back after you've had more practice.",
+"ctx": "diálogo uid00690141"
+},
+{
+"id": 33105,
+"en": "Wow! You're amazing! You win, for sure!",
+"ctx": "diálogo uid00690143"
+},
+{
+"id": 33106,
+"en": "Well, you win some, you lose some. You can always try again next time!",
+"ctx": "diálogo uid00690143"
+},
+{
+"id": 33107,
+"en": "Huh? You trying to challenge me?",
+"ctx": "diálogo uid00690143"
+},
+{
+"id": 33108,
+"en": "Oh. Well, come on back if you ever want to!",
+"ctx": "diálogo uid00690143"
+},
+{
+"id": 33109,
+"en": "Listen, we've got an unwritten rule that you only challenge somebody when you're well-rested and ready to put up a good fight.",
+"ctx": "diálogo uid00690143"
+},
+{
+"id": 33110,
+"en": "Oh, okay. I'll keep that in mind next time.",
+"ctx": "diálogo uid00690143"
+},
+{
+"id": 33111,
+"en": "I am. What do you say?",
+"ctx": "diálogo uid00690143"
+},
+{
+"id": 33112,
+"en": "I say, absolutely! I welcome all challengers!",
+"ctx": "diálogo uid00690143"
+},
+{
+"id": 33113,
+"en": "Darn it. I lost. I feel so... sad.",
+"ctx": "diálogo uid00690145"
+},
+{
+"id": 33114,
+"en": "Whew! I'm on top of the world now!",
+"ctx": "diálogo uid00690145"
+},
+{
+"id": 33115,
+"en": "Aww, I wanna dance with somebody real bad, but I don't think you and I would be a good match.",
+"ctx": "diálogo uid00690145"
+},
+{
+"id": 33116,
+"en": "Ah, I wanna dance with somebody so bad I can taste it! You! Wanna dance?",
+"ctx": "diálogo uid00690145"
+},
+{
+"id": 33117,
+"en": "I'm sorry. I don't feel like it right now.",
+"ctx": "diálogo uid00690145"
+},
+{
+"id": 33118,
+"en": "Ugh! I'm just itching to dance!",
+"ctx": "diálogo uid00690145"
+},
+{
+"id": 33119,
+"en": "Oh, but you're not ready to dance. You look like you could keel over any second, in fact.",
+"ctx": "diálogo uid00690145"
+},
+{
+"id": 33120,
+"en": "Hm. I guess I should probably take a break.",
+"ctx": "diálogo uid00690145"
+},
+{
+"id": 33121,
+"en": "Yes, let's dance together!",
+"ctx": "diálogo uid00690145"
+},
+{
+"id": 33122,
+"en": "Really? Yes, let's go!",
+"ctx": "diálogo uid00690145"
+},
+{
+"id": 33123,
+"en": "A single game of pool will be 800 yen.",
+"ctx": "diálogo uid0069021f + diálogo uid00690220 …"
+},
+{
+"id": 33124,
+"en": "Let's play a game of pool!",
+"ctx": "diálogo uid0069021f"
+},
+{
+"id": 33125,
+"en": "(Hinata wants to shoot some pool.)",
+"ctx": "diálogo uid0069021f"
+},
+{
+"id": 33126,
+"en": "Hehe. I won't go easy on you!",
+"ctx": "diálogo uid0069021f"
+},
+{
+"id": 33127,
+"en": "Aww, guess it's a draw. But I'll beat y'next time!",
+"ctx": "diálogo uid0069021f"
+},
+{
+"id": 33128,
+"en": "That was wicked fun! Call me again sometime! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid0069021f + diálogo uid00690220 …"
+},
+{
+"id": 33129,
+"en": "You're really good, Akiyama-san! I'm kinda surprised!",
+"ctx": "diálogo uid0069021f + diálogo uid0133087a"
+},
+{
+"id": 33130,
+"en": "That was super fun! But I gotta get back to Osaka now. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid0069021f"
+},
+{
+"id": 33131,
+"en": "That was loads of fun! Gimme a call again sometime! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid0069021f + diálogo uid00690220 …"
+},
+{
+"id": 33132,
+"en": "That was so much fun! I need to get back home now, though. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid0069021f"
+},
+{
+"id": 33133,
+"en": "That was so much fun! Please give me a call again sometime! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid0069021f"
+},
+{
+"id": 33134,
+"en": "That was so much fun! I must be on my way back to Nagoya, now. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid0069021f"
+},
+{
+"id": 33135,
+"en": "That was so much fun! Please do call me again sometime! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid0069021f + diálogo uid00690302 …"
+},
+{
+"id": 33136,
+"en": "Puzzle Pool is a fun and simple game for one player.\nYou'll be faced with various table setups, the goal being to sink a target ball into the designated pocket in a single shot.",
+"ctx": "diálogo uid0069021f + diálogo uid00690220 …"
+},
+{
+"id": 33137,
+"en": "There are 8 stages in total and you can attempt one stage per play.\nThe game starts at Stage 1 and advances to the next when cleared.\n\nYou have five attempts per game.",
+"ctx": "diálogo uid0069021f + diálogo uid00690220 …"
+},
+{
+"id": 33138,
+"en": "Hit the cue ball (white) in order to sink the target ball (red) into the designated pocket.\n\nIf you don't sink it in one shot, or sink it in the wrong pocket, you will lose one attempt.",
+"ctx": "diálogo uid0069021f + diálogo uid00690220 …"
+},
+{
+"id": 33139,
+"en": "You also lose an attempt if the cue ball hits a foul ball (black).\nYou will clear the stage if you can pocket the target ball before you run out of attempts.",
+"ctx": "diálogo uid0069021f + diálogo uid00690220 …"
+},
+{
+"id": 33140,
+"en": "It is not a foul if the cue ball or target ball hits an assist ball (yellow).\nYou do not need to sink assist balls. Try using assist balls if you are stuck on a shot⑬it may be the very key to your success.",
+"ctx": "diálogo uid0069021f + diálogo uid00690220 …"
+},
+{
+"id": 33141,
+"en": "Very well, sir. By the way, are you familiar with Puzzle Pool?",
+"ctx": "diálogo uid0069021f + diálogo uid00690220 …"
+},
+{
+"id": 33142,
+"en": "Puzzle Pool?",
+"ctx": "diálogo uid0069021f + diálogo uid00690220 …"
+},
+{
+"id": 33143,
+"en": "It's a single-player version of pool. It's a fun and simple game that even inexperienced players can enjoy.",
+"ctx": "diálogo uid0069021f + diálogo uid00690220 …"
+},
+{
+"id": 33144,
+"en": "The goal is to sink a target ball into the designated pocket with a single shot, on a table set up with different challenges.",
+"ctx": "diálogo uid0069021f + diálogo uid00690220 …"
+},
+{
+"id": 33145,
+"en": "Ah, I see.",
+"ctx": "diálogo uid0069021f + diálogo uid00690220 …"
+},
+{
+"id": 33146,
+"en": "I highly recommend giving it a try at least once, sir.",
+"ctx": "diálogo uid0069021f + diálogo uid00690220 …"
+},
+{
+"id": 33147,
+"en": "Enjoy, sir.",
+"ctx": "diálogo uid0069021f + diálogo uid00690220 …"
+},
+{
+"id": 33148,
+"en": "Very well, sir. One of our staff can go over the rules in more detail.",
+"ctx": "diálogo uid0069021f + diálogo uid00690220 …"
+},
+{
+"id": 33149,
+"en": "Y'gotta be kiddin' me! Y'called me all the way out to Tokyo just to play some pool!?",
+"ctx": "diálogo uid0069021f"
+},
+{
+"id": 33150,
+"en": "Sorry to keep y'waiting! Go easy on me, okay?",
+"ctx": "diálogo uid0069021f"
+},
+{
+"id": 33151,
+"en": "Sure. Shall we get started?",
+"ctx": "diálogo uid0069021f + diálogo uid00690220 …"
+},
+{
+"id": 33152,
+"en": "Sorry to keep you waiting! I used to come here all the time back when I was working in Tokyo.",
+"ctx": "diálogo uid0069021f"
+},
+{
+"id": 33153,
+"en": "That so? Well, wanna get goin'?",
+"ctx": "diálogo uid0069021f"
+},
+{
+"id": 33154,
+"en": "Ya called up a student who's busy lookin' for a job all the way out in Osaka, just to play pool? If this is a joke, I ain't laughin'.",
+"ctx": "diálogo uid0069021f"
+}
+]

@@ -1,0 +1,56 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_h_egao.par/texlist/2d_yk_egao00",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    288,
+    88,
+    432,
+    176
+   ],
+   "en": "no",
+   "ocr": "See",
+   "es": "",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 140,
+   "dejar": true
+  },
+  {
+   "caja": [
+    331,
+    130,
+    536,
+    261
+   ],
+   "en": "You Smile",
+   "ocr": "You Smile",
+   "es": "",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 201,
+   "dejar": true
+  },
+  {
+   "caja": [
+    108,
+    138,
+    288,
+    254
+   ],
+   "en": "Love to",
+   "ocr": "Love to",
+   "es": "",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 176,
+   "dejar": true
+  }
+ ]
+}

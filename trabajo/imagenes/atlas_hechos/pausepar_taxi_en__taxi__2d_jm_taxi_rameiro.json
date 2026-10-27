@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_taxi_en/taxi/2d_jm_taxi_rameiro",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    5,
+    6,
+    672,
+    123
+   ],
+   "en": "THE SPANGLED METEOR",
+   "ocr": "THE SPANGLED METEOR ",
+   "es": "EL METEORO CENTELLEANTE ",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 663
+  }
+ ]
+}

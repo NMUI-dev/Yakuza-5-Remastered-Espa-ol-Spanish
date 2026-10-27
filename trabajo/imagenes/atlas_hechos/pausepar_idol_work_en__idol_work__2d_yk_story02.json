@@ -1,0 +1,41 @@
+{
+ "textura": "pausepar_idol_work_en/idol_work/2d_yk_story02",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    15,
+    6,
+    241,
+    40
+   ],
+   "en": "Princess League",
+   "ocr": "Princess League",
+   "es": "Princess League",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 222,
+   "dejar": true
+  },
+  {
+   "caja": [
+    4,
+    121,
+    227,
+    154
+   ],
+   "en": "Finals Round",
+   "ocr": "Finals Round",
+   "es": "Ronda final",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 219
+  }
+ ]
+}

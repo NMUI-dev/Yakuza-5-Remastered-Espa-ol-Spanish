@@ -1,0 +1,38 @@
+{
+ "textura": "pausepar_pause_en/picture/caption/2d_jm_ac_a1_l_oribie",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    273,
+    28,
+    752,
+    147
+   ],
+   "en": "HEAD FOR",
+   "ocr": "HEAD FOR",
+   "es": "VE A",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 475
+  },
+  {
+   "caja": [
+    328,
+    110,
+    701,
+    225
+   ],
+   "en": "OLIVIER",
+   "ocr": "OLIVIER",
+   "es": "OLIVIER",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 369
+  }
+ ]
+}

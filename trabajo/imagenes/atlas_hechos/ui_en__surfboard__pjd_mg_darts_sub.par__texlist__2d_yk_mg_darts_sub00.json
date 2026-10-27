@@ -1,0 +1,192 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_darts_sub.par/texlist/2d_yk_mg_darts_sub00",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    12,
+    375,
+    243,
+    407
+   ],
+   "en": "DARTS & RESULTS",
+   "ocr": "DARTS&RESULTS",
+   "es": "DARDOS Y RESULTADOS",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 226,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 16
+  },
+  {
+   "caja": [
+    8,
+    801,
+    239,
+    833
+   ],
+   "en": "DARTS & RESULTS",
+   "ocr": "DARTS&RESULTS",
+   "es": "DARDOS Y RESULTADOS",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 226,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 16
+  },
+  {
+   "caja": [
+    17,
+    19,
+    305,
+    75
+   ],
+   "en": "COUNT-UP",
+   "ocr": "COUNT-UP",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 284
+  },
+  {
+   "caja": [
+    461,
+    46,
+    634,
+    93
+   ],
+   "en": "CRICKET",
+   "ocr": "CRICKET",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 169
+  },
+  {
+   "caja": [
+    136,
+    89,
+    246,
+    119
+   ],
+   "en": "ROUND",
+   "ocr": "ROUND",
+   "es": "RONDA",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "der",
+   "ancho_max": 104,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 21
+  },
+  {
+   "caja": [
+    135,
+    116,
+    241,
+    147
+   ],
+   "en": "SCORE",
+   "ocr": "SCORE",
+   "es": "PUNTOS",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "der",
+   "ancho_max": 104,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 21
+  },
+  {
+   "caja": [
+    486,
+    381,
+    685,
+    410
+   ],
+   "en": "DARTS & RESULTS",
+   "ocr": "DARTS&RESULTS",
+   "es": "DARDOS Y RESULTADOS",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 195,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 16
+  },
+  {
+   "caja": [
+    170,
+    521,
+    254,
+    543
+   ],
+   "en": "ROUND",
+   "es": "RONDA",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "der",
+   "ancho_max": 82,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 16
+  },
+  {
+   "caja": [
+    170,
+    541,
+    254,
+    564
+   ],
+   "en": "SCORE",
+   "es": "PUNTOS",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "der",
+   "ancho_max": 82,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 16
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "textura": "pausepar_tougijyo_en/2d_jm_gp_twin",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    226,
+    38,
+    804,
+    125
+   ],
+   "en": "TWIN DRAGON",
+   "ocr": "TWIN DRAGON",
+   "es": "GRAN PREMIO",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 574
+  },
+  {
+   "caja": [
+    264,
+    117,
+    774,
+    220
+   ],
+   "en": "GRAND PRIX",
+   "ocr": "GRAND PRIX",
+   "es": "DRAGÓN GEMELO",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 506
+  }
+ ]
+}

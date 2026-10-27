@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_sa3",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    121,
+    152,
+    379,
+    228
+   ],
+   "en": "I'm back!!",
+   "ocr": "Imback!!",
+   "es": "¡¡Ya volví!!",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 254
+  }
+ ]
+}

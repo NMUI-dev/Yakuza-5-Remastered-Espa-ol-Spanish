@@ -1,0 +1,42 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_taiko_game.par/texlist_0001/taiko_game_08",
+ "fuente": "segoeuib.ttf",
+ "margen": 0,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    768,
+    781,
+    1008,
+    869
+   ],
+   "en": "Not Cle",
+   "ocr": "Not Cle",
+   "es": "No supe",
+   "fuente": "LilitaOne-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "der",
+   "ancho_max": 230,
+   "alto": 54,
+   "margen": 4
+  },
+  {
+   "caja": [
+    806,
+    893,
+    964,
+    981
+   ],
+   "en": "ared",
+   "ocr": "ared",
+   "es": "rado",
+   "fuente": "LilitaOne-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 150,
+   "alto": 54,
+   "margen": 4
+  }
+ ]
+}

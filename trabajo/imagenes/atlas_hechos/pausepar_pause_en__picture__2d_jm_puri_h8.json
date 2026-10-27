@@ -1,0 +1,38 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_h8",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    28,
+    189,
+    469,
+    220
+   ],
+   "en": "I'd like to ride the Ferris wheel",
+   "ocr": "withsomeonesomeday",
+   "es": "Me gustaría subir a la noria",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 356
+  },
+  {
+   "caja": [
+    23,
+    220,
+    383,
+    250
+   ],
+   "en": "with someone someday",
+   "ocr": "withsomeonesomeday",
+   "es": "con alguien algún día",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 356
+  }
+ ]
+}

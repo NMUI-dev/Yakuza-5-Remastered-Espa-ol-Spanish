@@ -1,0 +1,92 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_airhockey.par/texlist/2d_ky_airhockey_00",
+ "fuente": "times.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    6,
+    47,
+    100,
+    64
+   ],
+   "en": "Heat Gauge",
+   "es": "Barra de Heat",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 90,
+   "color": [
+    16,
+    205,
+    230
+   ],
+   "alto": 15
+  },
+  {
+   "caja": [
+    426,
+    80,
+    490,
+    110
+   ],
+   "en": "Rally",
+   "es": "Racha",
+   "fuente": "timesbi.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 62,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     1
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    251,
+    203,
+    340,
+    238
+   ],
+   "en": "Look",
+   "es": "Mirar",
+   "fuente": "times.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 84
+  },
+  {
+   "caja": [
+    405,
+    203,
+    503,
+    238
+   ],
+   "en": "Focus",
+   "es": "Enfoque",
+   "fuente": "times.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 96
+  }
+ ]
+}

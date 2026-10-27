@@ -1,0 +1,36 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_si7",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    50,
+    189,
+    447,
+    223
+   ],
+   "en": "now is the winter",
+   "ocr": "destitution",
+   "es": "Ahora es el invierno",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro"
+  },
+  {
+   "caja": [
+    50,
+    223,
+    447,
+    253
+   ],
+   "en": "of my destitution",
+   "ocr": "destitution",
+   "es": "de mi desamparo",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro"
+  }
+ ]
+}

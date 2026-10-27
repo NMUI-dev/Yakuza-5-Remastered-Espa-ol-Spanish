@@ -1,0 +1,38 @@
+{
+ "textura": "pausepar_tougijyo_en/2d_jm_gp_break",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    293,
+    37,
+    746,
+    124
+   ],
+   "en": "BREAKOUT",
+   "ocr": "BREAKOUT",
+   "es": "GRAN PREMIO",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 449
+  },
+  {
+   "caja": [
+    264,
+    116,
+    774,
+    221
+   ],
+   "en": "GRAND PRIX",
+   "ocr": "GRAND PRIX",
+   "es": "DE ESCAPE",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 506
+  }
+ ]
+}

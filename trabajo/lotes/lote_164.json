@@ -1,0 +1,937 @@
+[
+{
+"id": 36248,
+"en": "Right now, war is about to break out between Tojo and Omi.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36249,
+"en": "Daigo told me the seventh Omi chairman isn't long for this world. And those two are the ones who made the peace agreement.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36250,
+"en": "Exactly. If the seventh chairman dies, war between the east and west is pretty much guaranteed.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36251,
+"en": "That's why some of the high-ranking Tojo guys went around drumming up support. They went to Fukuoka, Sapporo, and Nagoya, and talked to the local yakuza there.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36252,
+"en": "Lieutenant Azumi went to Nagoya, Majima-san took Sapporo, and Chairman Dojima went to Fukuoka.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36253,
+"en": "But then Daigo went missing in Fukuoka...",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36254,
+"en": "Because of the betrayal... by Aoyama and Morinaga.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36255,
+"en": "Right. Their original plan was for Chairman Dojima to be executed, along with Madarame, the head of the Yamagasa Family.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36256,
+"en": "But that plan failed. And after Chairman Dojima and Madarame both escaped, Aoyama-san shifted gears.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36257,
+"en": "He had some ideas of his own?",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36258,
+"en": "Oh, yeah. With Chairman Dojima missing, he tried to take over the Tojo.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36259,
+"en": "But taking over was never the real mission that Aoyama-san and Morinaga were tasked with.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36260,
+"en": "Quite the opposite. The real mission was to sell out the Tojo.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36261,
+"en": "Sell it out? Hm. I think I can guess who the buyer was.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36262,
+"en": "Yep. The Omi Alliance.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36263,
+"en": "Aoyama and Morinaga were in bed with the Omi all along.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36264,
+"en": "Damn those guys...",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36265,
+"en": "They had two objectives.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36266,
+"en": "The first was to assassinate the Tojo leadership, like Chairman Dojima and Majima-san. The other objective was⑬",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36267,
+"en": "Me.",
+"ctx": "diálogo uid01020aff + diálogo uid01330403"
+},
+{
+"id": 36268,
+"en": "Yes. They were going to monitor former members, like you and Saejima-san, and lure you back to Tokyo.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36269,
+"en": "Once you arrived, the next step was to do you in, of course.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36270,
+"en": "But why make Tokyo their killing floor?",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36271,
+"en": "They didn't need to do it here. In fact, it would've been easier to deal with everyone separately.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36272,
+"en": "No, it did have to be here. As far as the Omi Alliance is concerned, the Tojo Clan is built upon two legendary yakuza guys.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36273,
+"en": "Kazuma Kiryu and Taiga Saejima. The Dragon of Dojima, and the slayer of eighteen.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36274,
+"en": "Removing the two of you would bring the Tojo Clan to its knees.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36275,
+"en": "By killing us both in Tokyo, they thought the whole clan would just be theirs for the taking.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36276,
+"en": "Yes, but not to exterminate it⑬to lead it.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36277,
+"en": "Do you see? They wanted more than Tojo turf. They wanted Tojo soldiers.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36278,
+"en": "All 30,000. That's why they wanted to avoid an all-out war.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36279,
+"en": "Why kill their own future recruits?",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36280,
+"en": "Is Saejima already on his way to Tokyo?",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36281,
+"en": "Probably. I was with him up until we broke out of prison.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36282,
+"en": "Sounds like you know each other pretty well. You two become close friends or something?",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36283,
+"en": "Well. You tend to bond when you do time together. Of course, I was planted there as part of the plan.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36284,
+"en": "I was under the orders of the Omi Alliance, just like Aoyama and Morinaga.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36285,
+"en": "My role was to break Saejima-san out of prison, and make sure he was motivated to investigate Majima-san's death.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36286,
+"en": "After the break-out, things were going according to plan. But somewhere along the way, I... Um, I...",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36287,
+"en": "Saejima won you over, huh?",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36288,
+"en": "...By the time we split up, I felt like I'd follow him anywhere.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36289,
+"en": "That's why I'm here, talking to you and spilling the beans.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36290,
+"en": "But whose beans are they?",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36291,
+"en": "You say Omi is behind it, but their captain Watase didn't seem to know anything.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36292,
+"en": "To understand that, you have to know what's happening on the Omi side of things.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36293,
+"en": "I know that the factions are vying for the top spot.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36294,
+"en": "Okay, then. Moving on...",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36295,
+"en": "After hearing that the seventh chairman was about to die, three families in the alliance began maneuvering for the throne.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36296,
+"en": "The Watase Family, led by Captain Masaru Watase, is based in northern Osaka. They have the most muscle.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36297,
+"en": "Lieutenant Hiroshi Takachi has his power base in Hyogo, and the seventh chairman trusts him greatly.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36298,
+"en": "And Naoki Katsuya heads Ousaka Enterprises, which has built an empire out of industrial waste disposal in southern Osaka.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36299,
+"en": "Of the three, Watase is supposed to be the most likely successor.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36300,
+"en": "And yet, Watase isn't the type to get his hands dirty like this.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36301,
+"en": "Meanwhile, Takachi died in Nagoya. That only leaves one person.",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36302,
+"en": "Yes. The guy behind all of this, who hired me, Aoyama, and Morinaga... That guy is⑬",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36303,
+"en": "(Nobody's here. Maybe they're not open yet.)",
+"ctx": "diálogo uid01020aff"
+},
+{
+"id": 36304,
+"en": "(Place hasn't changed a bit. <Color:7>The Florist's Residence<Color:Default> should be over the bridge.)",
+"ctx": "diálogo uid01020b0e"
+},
+{
+"id": 36305,
+"en": "It's been a long time, Saejima.",
+"ctx": "diálogo uid01020b12"
+},
+{
+"id": 36306,
+"en": "The Florist of Sai. You're lookin' well.",
+"ctx": "diálogo uid01020b12"
+},
+{
+"id": 36307,
+"en": "I heard that you got yourself into yet another snafu. Alas.",
+"ctx": "diálogo uid01020b12"
+},
+{
+"id": 36308,
+"en": "It wasn't enough to break out of Okinawa? Had to escape Abashiri, too?",
+"ctx": "diálogo uid01020b12"
+},
+{
+"id": 36309,
+"en": "I see nothin' gets past ya.",
+"ctx": "diálogo uid01020b12"
+},
+{
+"id": 36310,
+"en": "Bet ya even know why I'm here.",
+"ctx": "diálogo uid01020b12"
+},
+{
+"id": 36311,
+"en": "I'd venture to say it has something to do with the yakuza conflicts flaring up all over the country.",
+"ctx": "diálogo uid01020b12"
+},
+{
+"id": 36312,
+"en": "And I presume <Italic>you</Italic> would like to know why Goro Majima is six feet under.",
+"ctx": "diálogo uid01020b12"
+},
+{
+"id": 36313,
+"en": "Am I right?",
+"ctx": "diálogo uid01020b12"
+},
+{
+"id": 36314,
+"en": "Yeah, ya saved us both a lotta time. And I'm in a hurry⑬I already got a lead on the culprit.",
+"ctx": "diálogo uid01020b12"
+},
+{
+"id": 36315,
+"en": "Oh, is that so?",
+"ctx": "diálogo uid01020b12"
+},
+{
+"id": 36316,
+"en": "Lookin' for a guy named Morinaga. He was Daigo's bodyguard in the Tojo.",
+"ctx": "diálogo uid01020b12"
+},
+{
+"id": 36317,
+"en": "Morinaga, huh?",
+"ctx": "diálogo uid01020b12"
+},
+{
+"id": 36318,
+"en": "Word on the street is he showed up in Kamurocho a few days ago, then went straight inta hidin'.",
+"ctx": "diálogo uid01020b12"
+},
+{
+"id": 36319,
+"en": "I wanna know where he's at.",
+"ctx": "diálogo uid01020b12"
+},
+{
+"id": 36320,
+"en": "Don't worry⑬I'll pay ya a fair price.",
+"ctx": "diálogo uid01020b12"
+},
+{
+"id": 36321,
+"en": "Heh. Funny that you're asking about him.",
+"ctx": "diálogo uid01020b12"
+},
+{
+"id": 36322,
+"en": "I had another visitor earlier today... He also wanted to know where Morinaga was.",
+"ctx": "diálogo uid01020b12"
+},
+{
+"id": 36323,
+"en": "What!? ...Who?",
+"ctx": "diálogo uid01020b12"
+},
+{
+"id": 36324,
+"en": "Normally, I wouldn't tell you.",
+"ctx": "diálogo uid01020b12"
+},
+{
+"id": 36325,
+"en": "But it's your lucky day. I'm willing to make an exception.",
+"ctx": "diálogo uid01020b12"
+},
+{
+"id": 36326,
+"en": "You know the <Color:7>Underground Coliseum<Color:Default>? Head on over there.",
+"ctx": "diálogo uid01020b12"
+},
+{
+"id": 36327,
+"en": "(The <Color:7>Underground Coliseum<Color:Default>? That's in Purgatory.)",
+"ctx": "diálogo uid01020b12"
+},
+{
+"id": 36328,
+"en": "So that's what happened.",
+"ctx": "diálogo uid01020b1e + diálogo uid01091a57"
+},
+{
+"id": 36329,
+"en": "Yeah. Never imagined I'd be cast aside by Morinaga-aniki.",
+"ctx": "diálogo uid01020b1e"
+},
+{
+"id": 36330,
+"en": "I mean... how could he do this to me? I'm his sworn brother!",
+"ctx": "diálogo uid01020b1e"
+},
+{
+"id": 36331,
+"en": "And then concocting this traitorous plan... after protecting Chairman Dojima for so long.",
+"ctx": "diálogo uid01020b1e"
+},
+{
+"id": 36332,
+"en": "Really? He never said a word to you 'bout what he was plannin'?",
+"ctx": "diálogo uid01020b1e"
+},
+{
+"id": 36333,
+"en": "Not one fucking word. After he got shot by Aoyama at Yamagasa headquarters, I took him to the hospital, just like Kiryu-san told me to.",
+"ctx": "diálogo uid01020b1e"
+},
+{
+"id": 36334,
+"en": "He was in critical condition and scheduled for surgery. But when I showed up the next day, he was gone.",
+"ctx": "diálogo uid01020b1e"
+},
+{
+"id": 36335,
+"en": "He'd left a note for me.",
+"ctx": "diálogo uid01020b1e"
+},
+{
+"id": 36336,
+"en": "Yeah. And it hardly even said anything. It just said, \"Get away. Go back to Tokyo.\" I was confused as hell.",
+"ctx": "diálogo uid01020b1e"
+},
+{
+"id": 36337,
+"en": "I wandered around Fukuoka looking for him. And then the next day, I heard Aoyama was dead.",
+"ctx": "diálogo uid01020b1e"
+},
+{
+"id": 36338,
+"en": "Shot by Morinaga, no less.",
+"ctx": "diálogo uid01020b1e"
+},
+{
+"id": 36339,
+"en": "That's when I knew he'd abandoned me. And everything we stood for.",
+"ctx": "diálogo uid01020b1e"
+},
+{
+"id": 36340,
+"en": "We were so tight... even at the beginning, when we had nothing. We worked our way up together. I just don't get it.",
+"ctx": "diálogo uid01020b1e"
+},
+{
+"id": 36341,
+"en": "Is that why you're lookin' for 'im? Wanna know why he turned his back on ya?",
+"ctx": "diálogo uid01020b1e"
+},
+{
+"id": 36342,
+"en": "Yes... But now I'll never know.",
+"ctx": "diálogo uid01020b1e"
+},
+{
+"id": 36343,
+"en": "That information broker agreed to tell me only if I won my fight.",
+"ctx": "diálogo uid01020b1e"
+},
+{
+"id": 36344,
+"en": "But then he said he couldn't trust a guy who's willing to kill in the ring.",
+"ctx": "diálogo uid01020b1e"
+},
+{
+"id": 36345,
+"en": "It's all messed up... Just like this shit with Morinaga-aniki. I don't know what to do, or think, anymore.",
+"ctx": "diálogo uid01020b1e"
+},
+{
+"id": 36346,
+"en": "It's fucked up.",
+"ctx": "diálogo uid01020b1e"
+},
+{
+"id": 36347,
+"en": "Hm? You all right, man?",
+"ctx": "diálogo uid01020b1e"
+},
+{
+"id": 36348,
+"en": "No. It's fucked up.",
+"ctx": "diálogo uid01020b1e"
+},
+{
+"id": 36349,
+"en": "The bond between sworn brothers is sacred. It ain't like some piddlin' schoolboy shit.",
+"ctx": "diálogo uid01020b1e"
+},
+{
+"id": 36350,
+"en": "Yeah. What, you think I don't know that?",
+"ctx": "diálogo uid01020b1e"
+},
+{
+"id": 36351,
+"en": "Aizawa's yer name, right?",
+"ctx": "diálogo uid01020b1e"
+},
+{
+"id": 36352,
+"en": "Still got some fight left in ya?",
+"ctx": "diálogo uid01020b1e"
+},
+{
+"id": 36353,
+"en": "Look at this guy.",
+"ctx": "diálogo uid01020b1e"
+},
+{
+"id": 36354,
+"en": "*huff* *huff*",
+"ctx": "diálogo uid01020b1e + diálogo uid01091caf …"
+},
+{
+"id": 36355,
+"en": "Who the hell is he?",
+"ctx": "diálogo uid01020b1e"
+},
+{
+"id": 36356,
+"en": "His name's Aizawa. Another bodyguard for Daigo Dojima. Plus, he was Morinaga's man.",
+"ctx": "diálogo uid01020b1e"
+},
+{
+"id": 36357,
+"en": "Morinaga's man?",
+"ctx": "diálogo uid01020b1e"
+},
+{
+"id": 36358,
+"en": "What's with all the cash?",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36359,
+"en": "It's for you, if you agree to my proposal.",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36360,
+"en": "300 million yen to cover what you loaned to Park-san, plus an extra 200 million for your trouble.",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36361,
+"en": "500 mil, huh? That much for pulling out of a concert at the Japan Dome?",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36362,
+"en": "That's right. Haruka Sawamura's debut, scheduled for the day after tomorrow...",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36363,
+"en": "Just make sure it's dead.",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36364,
+"en": "It'll be easy. I already spoke with the event organizer.",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36365,
+"en": "You won't have to worry about ticket cancellation fees or anything.",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36366,
+"en": "Osaka Talent will cover it all.",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36367,
+"en": "So all this money will go directly to us?",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36368,
+"en": "Yes, to spend as you see fit. But if you're at a loss for ideas...",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36369,
+"en": "There's always Haruka Sawamura's future living expenses to consider.",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36370,
+"en": "And why do you think she'll need the money?",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36371,
+"en": "Well, bowing out of this concert won't exactly earn her a good reputation in the industry.",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36372,
+"en": "Nobody will want to work with the girl who couldn't handle her first big chance. She'll have to give up on her career.",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36373,
+"en": "Such lengths... just to crush a teenage girl's dreams?",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36374,
+"en": "That's not why I'm doing this. I just don't want her to play a concert there right now.",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36375,
+"en": "If she gets up on that stage, she might... Well...",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36376,
+"en": "Never mind. This is simply a business transaction.",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36377,
+"en": "It's a strategic move to stop her from gaining ground on our preferred idols, T-Set. That group is our most promising act.",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36378,
+"en": "There will still be a concert. But T-Set will perform in Haruka's place.",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36379,
+"en": "Just imagine the fanfare when Osaka Talent's best young idols make their debut at the Dome. It's great marketing.",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36380,
+"en": "Was that a yes? Are you accepting my offer?",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36381,
+"en": "You're a strange one, Katsuya-san.",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36382,
+"en": "The more I hear you talk, the less I understand you.",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36383,
+"en": "You're a good actor, though. One of the best I've seen.",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36384,
+"en": "But I still don't see you as the bad guy you make yourself out to be.",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36385,
+"en": "Oh, really? So all the nefarious things I've done in Osaka⑬they strike you as not that bad?",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36386,
+"en": "Oh, they strike me as vile. But it still seems like the real monster is Kanai⑬he was the one pulling the strings.",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36387,
+"en": "In fact, he was acting by himself, wasn't he?",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36388,
+"en": "When I first met you in your office at Osaka Talent, we talked about Park-san.",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36389,
+"en": "Even now, I still remember the look you had on your face.",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36390,
+"en": "What look?",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36391,
+"en": "A look of real emotion⑬a crack in the facade of an actor who's played a thousand roles.",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36392,
+"en": "See, I expected you to <Italic>pretend</Italic> to be sad. But you seemed genuinely sad. And angry.",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36393,
+"en": "I have to admit, it made me very curious about you, Katsuya-san.",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36394,
+"en": "Enough stalling. What is your answer?",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36395,
+"en": "I refuse. Obviously. It was Park-san's dream for Haruka to perform at the Dome.",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36396,
+"en": "For the sake of a dead woman you're willing to make an enemy out of us? Not just Osaka Talent, but all of Ousaka Enterprises?",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36397,
+"en": "Without hesitation.",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36398,
+"en": "Be seeing you, then.",
+"ctx": "diálogo uid01020b26"
+},
+{
+"id": 36399,
+"en": "Okay, so the Kuroha Family was in league with the Nagoya Family. They rigged games with the Wyverns and the Gigants player Sawada...",
+"ctx": "diálogo uid01020b2a"
+},
+{
+"id": 36400,
+"en": "Man... I didn't expect to hear Daigo Dojima's name associated with any of this.",
+"ctx": "diálogo uid01020b2a"
+},
+{
+"id": 36401,
+"en": "I was surprised that you even knew Dojima-kun.",
+"ctx": "diálogo uid01020b2a"
+},
+{
+"id": 36402,
+"en": "Small world, huh? Then again, we do run in the same circles.",
+"ctx": "diálogo uid01020b2a"
+},
+{
+"id": 36403,
+"en": "All right, you've convinced me. I'll help you out. But first...",
+"ctx": "diálogo uid01020b2a"
+},
+{
+"id": 36404,
+"en": "Why stop the show? You said something about lives in danger?",
+"ctx": "diálogo uid01020b2a"
+},
+{
+"id": 36405,
+"en": "Uh... I don't really know the details, to be honest. But Sawada said the Kuroha were going to pull something at the concert.",
+"ctx": "diálogo uid01020b2a"
+},
+{
+"id": 36406,
+"en": "Sawada the Gigants pitcher?",
+"ctx": "diálogo uid01020b2a"
+},
+{
+"id": 36407,
+"en": "Yeah. He was in line to take over the Nagoya, so he's wise to Kuroha plans.",
+"ctx": "diálogo uid01020b2a"
+},
+{
+"id": 36408,
+"en": "You're sure his info is reliable? And you do realize we can't do anything if we don't know their plan?",
+"ctx": "diálogo uid01020b2a"
+},
+{
+"id": 36409,
+"en": "My guess is a bomb.",
+"ctx": "diálogo uid01020b2a"
+},
+{
+"id": 36410,
+"en": "Maybe. Have you told the police?",
+"ctx": "diálogo uid01020b2a"
+},
+{
+"id": 36411,
+"en": "Several times. They don't believe my story.",
+"ctx": "diálogo uid01020b2a"
+},
+{
+"id": 36412,
+"en": "Of course not. You don't have any evidence.",
+"ctx": "diálogo uid01020b2a"
+},
+{
+"id": 36413,
+"en": "That's why the only way to stop them is to cancel the concert!",
+"ctx": "diálogo uid01020b2a"
+},
+{
+"id": 36414,
+"en": "And you want 300 million to pay the cancellation fee. Man, first Katsuya, now you. Everyone wants this show canceled!",
+"ctx": "diálogo uid01020b2a"
+},
+{
+"id": 36415,
+"en": "Oh, you mean Katsuya of Ousaka Enterprises?",
+"ctx": "diálogo uid01020b2a"
+},
+{
+"id": 36416,
+"en": "Yeah. Funny thing is, both Kuroha and Ousaka are Omi Alliance. So why is one planning to do something at the concert, and the other is trying to shut it down?",
+"ctx": "diálogo uid01020b2a"
+},
+{
+"id": 36417,
+"en": "Infighting, you think? But why?",
+"ctx": "diálogo uid01020b2a"
+},
+{
+"id": 36418,
+"en": "Some kind of struggle over the leadership change.",
+"ctx": "diálogo uid01020b2a"
+},
+{
+"id": 36419,
+"en": "The current chairman is Kuroha, but apparently he's gonna be out of the picture any day now.",
+"ctx": "diálogo uid01020b2a"
+},
+{
+"id": 36420,
+"en": "Kuroha might be trying to consolidate power before the chairman bites the big one, and maybe Katsuya wants to stop them so that he himself can take over.",
+"ctx": "diálogo uid01020b2a"
+},
+{
+"id": 36421,
+"en": "Makes sense.",
+"ctx": "diálogo uid01020b2a + diálogo uid0133037c …"
+},
+{
+"id": 36422,
+"en": "It's still just conjecture. But now I get why you wanna stop the concert. So...",
+"ctx": "diálogo uid01020b2a"
+},
+{
+"id": 36423,
+"en": "What's your plan for that 20 mil you said could wait until later? It better not be more debt, man. You should've paid that all off when you got the reward from Dojima-san.",
+"ctx": "diálogo uid01020b2a"
+},
+{
+"id": 36424,
+"en": "I don't want to do that.",
+"ctx": "diálogo uid01020b2a"
+},
+{
+"id": 36425,
+"en": "Dojima-kun's already given me another crack at my dream. That's more than enough reward.",
+"ctx": "diálogo uid01020b2a"
+},
+{
+"id": 36426,
+"en": "I never should have taken the twenty million yen.",
+"ctx": "diálogo uid01020b2a"
+},
+{
+"id": 36427,
+"en": "Wait, so you wanna go into debt again so you can return the 20 mil to Dojima-san? That's stupid!",
+"ctx": "diálogo uid01020b2a"
+},
+{
+"id": 36428,
+"en": "No need to insult me...",
+"ctx": "diálogo uid01020b2a"
+},
+{
+"id": 36429,
+"en": "Tch, well, I guess your heart's in the right place.",
+"ctx": "diálogo uid01020b2a"
+},
+{
+"id": 36430,
+"en": "I knew there was something odd about that sum. Anyway...",
+"ctx": "diálogo uid01020b2a"
+},
+{
+"id": 36431,
+"en": "I get the picture now.",
+"ctx": "diálogo uid01020b2a"
+},
+{
+"id": 36432,
+"en": "Yeah, I wouldn't be surprised if all these events were linked somehow.",
+"ctx": "diálogo uid01020b2a"
+},
+{
+"id": 36433,
+"en": "Me neither.",
+"ctx": "diálogo uid01020b2a"
+},
+{
+"id": 36434,
+"en": "There's just one problem.",
+"ctx": "diálogo uid01020b2a"
+}
+]

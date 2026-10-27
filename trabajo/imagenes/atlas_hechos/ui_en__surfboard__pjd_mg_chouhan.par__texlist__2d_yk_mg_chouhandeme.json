@@ -1,0 +1,25 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_chouhan.par/texlist/2d_yk_mg_chouhandeme",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    24,
+    26,
+    400,
+    47
+   ],
+   "en": "Roll History",
+   "ocr": "Roll History",
+   "es": "Historial de tiradas ►",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 370,
+   "alto": 17
+  }
+ ]
+}

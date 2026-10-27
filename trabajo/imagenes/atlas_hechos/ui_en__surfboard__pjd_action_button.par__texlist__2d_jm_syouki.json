@@ -1,0 +1,109 @@
+{
+ "textura": "ui_en/surfboard/pjd_action_button.par/texlist/2d_jm_syouki",
+ "fuente": "timesbd.ttf",
+ "margen": 1,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    290,
+    420,
+    386
+   ],
+   "en": "Feel the Heat!",
+   "es": "¡Siente el Heat!",
+   "fuente": "times.ttf",
+   "alin": "centro",
+   "efecto": "estilo",
+   "ancho_max": 408,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     248,
+     235
+    ],
+    "contorno": null,
+    "brillo": [
+     255,
+     205,
+     130
+    ]
+   }
+  },
+  {
+   "caja": [
+    0,
+    412,
+    238,
+    480
+   ],
+   "en": "Feel the Heat!",
+   "es": "¡Siente el Heat!",
+   "fuente": "times.ttf",
+   "alin": "centro",
+   "efecto": "estilo",
+   "ancho_max": 222,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     248,
+     235
+    ],
+    "contorno": null,
+    "brillo": [
+     255,
+     205,
+     130
+    ]
+   }
+  },
+  {
+   "caja": [
+    256,
+    408,
+    462,
+    484
+   ],
+   "en": "Feel the Heat!",
+   "es": "¡Siente el Heat!",
+   "fuente": "times.ttf",
+   "alin": "centro",
+   "efecto": "borroso",
+   "alto": 18,
+   "radio": 5,
+   "ancho_max": 196,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     248,
+     235
+    ],
+    "contorno": null,
+    "brillo": [
+     255,
+     205,
+     130
+    ]
+   },
+   "dejar": true,
+   "nota": "desenfoque vertical en rayas del original: el kit solo hace gaussiano; ilegible en ambos idiomas"
+  }
+ ],
+ "ceñido": true
+}

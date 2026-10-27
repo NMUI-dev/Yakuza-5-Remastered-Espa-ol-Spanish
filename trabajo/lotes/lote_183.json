@@ -1,0 +1,932 @@
+[
+{
+"id": 40278,
+"en": "Yeah, but things at home are kinda tense.",
+"ctx": "diálogo uid010c0162"
+},
+{
+"id": 40279,
+"en": "Try to be considerate. I know that sounds obvious, but things are going to be a little rough for your brother.",
+"ctx": "diálogo uid010c0162"
+},
+{
+"id": 40280,
+"en": "That's true. Plus, I think my brother at least has an idea of what he wants to do.",
+"ctx": "diálogo uid010c0162"
+},
+{
+"id": 40281,
+"en": "In that case, your family should do what they can to support his dreams. It won't help if the people around him are negative.",
+"ctx": "diálogo uid010c0162"
+},
+{
+"id": 40282,
+"en": "But won't that put more pressure on him if he doesn't meet our expectations?",
+"ctx": "diálogo uid010c0162"
+},
+{
+"id": 40283,
+"en": "Maybe, but it's better than just ignoring the issue. If he feels like no one cares about him, then he'll have no reason to try.",
+"ctx": "diálogo uid010c0162"
+},
+{
+"id": 40284,
+"en": "I guess that's a good point.",
+"ctx": "diálogo uid010c0162"
+},
+{
+"id": 40285,
+"en": "Oh, this sucks! Why do I have to be the one to always worry about these things?",
+"ctx": "diálogo uid010c0162"
+},
+{
+"id": 40286,
+"en": "Because you're a responsible sister.",
+"ctx": "diálogo uid010c0162"
+},
+{
+"id": 40287,
+"en": "Leave things be. If you make too big of a deal about it, it's likely to come across as overbearing.",
+"ctx": "diálogo uid010c0162"
+},
+{
+"id": 40288,
+"en": "In that case, you're better off keeping out of his business until he's figured things out on his own.",
+"ctx": "diálogo uid010c0162"
+},
+{
+"id": 40289,
+"en": "If he's got strong ambitions, he might rebel against anyone who tries to tell him what to do.",
+"ctx": "diálogo uid010c0162"
+},
+{
+"id": 40290,
+"en": "For now, he's going to keep his part-time job. It has nothing to do with his dream, but it's at least better than not working at all.",
+"ctx": "diálogo uid010c0162"
+},
+{
+"id": 40291,
+"en": "And some people are able to move up from part-time to full-time work. Maybe he'll decide to do that.",
+"ctx": "diálogo uid010c0162"
+},
+{
+"id": 40292,
+"en": "Ugh, dreams can be a real pain, huh?",
+"ctx": "diálogo uid010c0162"
+},
+{
+"id": 40293,
+"en": "What about yourself? I can't imagine being a hostess is a full time career.",
+"ctx": "diálogo uid010c0162"
+},
+{
+"id": 40294,
+"en": "Well, yeah. That's what makes it tough. Finding a \"real\" job is next to impossible these days.",
+"ctx": "diálogo uid010c0162"
+},
+{
+"id": 40295,
+"en": "Well, I wouldn't say it's impossible.",
+"ctx": "diálogo uid010c0162"
+},
+{
+"id": 40296,
+"en": "Alright, geez. You don't have to be so nitpicky!",
+"ctx": "diálogo uid010c0162"
+},
+{
+"id": 40297,
+"en": "Oh! Maybe you can talk to my brother, Kiryu-san! You've got tons of life experience, and you'd probably get through to him better than I could!",
+"ctx": "diálogo uid010c0162"
+},
+{
+"id": 40298,
+"en": "I guess that's true enough. Bring him along with you next time.",
+"ctx": "diálogo uid010c0162"
+},
+{
+"id": 40299,
+"en": "Welcome. Can I start you off with something to drink?",
+"ctx": "diálogo uid010c0162 + diálogo uid0133089f"
+},
+{
+"id": 40300,
+"en": "(This is Virtua Fighter MVJC pachinko machine number 3. Maybe I should give it a try.)",
+"ctx": "diálogo uid010c060e"
+},
+{
+"id": 40301,
+"en": "(No, let's not.)",
+"ctx": "diálogo uid010c060e + diálogo uid010c060f …"
+},
+{
+"id": 40302,
+"en": "(I'm too broke to play. I need at least 1,000 yen.)",
+"ctx": "diálogo uid010c060e + diálogo uid010c060f …"
+},
+{
+"id": 40303,
+"en": "(Sure, why not?)",
+"ctx": "diálogo uid010c060e + diálogo uid010c060f …"
+},
+{
+"id": 40304,
+"en": "(This is Virtua Fighter MVJC pachinko machine number 6. Maybe I should give it a try.)",
+"ctx": "diálogo uid010c060f"
+},
+{
+"id": 40305,
+"en": "(This is Virtua Fighter MVJC pachinko machine number 9. Maybe I should give it a try.)",
+"ctx": "diálogo uid010c0610"
+},
+{
+"id": 40306,
+"en": "(This is Virtua Fighter MVJC pachinko machine number 11. Maybe I should give it a try.)",
+"ctx": "diálogo uid010c0611"
+},
+{
+"id": 40307,
+"en": "(This is Virtua Fighter MVJC pachinko machine number 13. Maybe I should give it a try.)",
+"ctx": "diálogo uid010c0612"
+},
+{
+"id": 40308,
+"en": "(This is Virtua Fighter MVJC pachinko machine number 22. Maybe I should give it a try.)",
+"ctx": "diálogo uid010c0613"
+},
+{
+"id": 40309,
+"en": "(This is Virtua Fighter MVJC pachinko machine number 18. Maybe I should give it a try.)",
+"ctx": "diálogo uid010c0614"
+},
+{
+"id": 40310,
+"en": "(This is Virtua Fighter MVJC pachinko machine number 20. Maybe I should give it a try.)",
+"ctx": "diálogo uid010c0615"
+},
+{
+"id": 40311,
+"en": "(This is Virtua Fighter MVJC pachinko machine number 23. Maybe I should give it a try.)",
+"ctx": "diálogo uid010c0616"
+},
+{
+"id": 40312,
+"en": "(This is Virtua Fighter MVJC pachinko machine number 26. Maybe I should give it a try.)",
+"ctx": "diálogo uid010c0617"
+},
+{
+"id": 40313,
+"en": "(This is Virtua Fighter MVJC pachinko machine number 30. Maybe I should give it a try.)",
+"ctx": "diálogo uid010c0618"
+},
+{
+"id": 40314,
+"en": "(This is CR Aladdin Destiny EX pachinko machine number 58. Maybe I should give it a try.)",
+"ctx": "diálogo uid010c0619"
+},
+{
+"id": 40315,
+"en": "(This is CR Aladdin Destiny EX pachinko machine number 66. Maybe I should give it a try.)",
+"ctx": "diálogo uid010c061a"
+},
+{
+"id": 40316,
+"en": "(This is CR Aladdin Destiny EX pachinko machine number 68. Maybe I should give it a try.)",
+"ctx": "diálogo uid010c061b"
+},
+{
+"id": 40317,
+"en": "(This is CR Aladdin Destiny EX pachinko machine number 72. Maybe I should give it a try.)",
+"ctx": "diálogo uid010c061c"
+},
+{
+"id": 40318,
+"en": "(This is CR Aladdin Destiny EX pachinko machine number 75. Maybe I should give it a try.)",
+"ctx": "diálogo uid010c061d"
+},
+{
+"id": 40319,
+"en": "(This is CR Aladdin Destiny EX pachinko machine number 79. Maybe I should give it a try.)",
+"ctx": "diálogo uid010c061e"
+},
+{
+"id": 40320,
+"en": "(This is CR Aladdin Destiny EX pachinko machine number 82. Maybe I should give it a try.)",
+"ctx": "diálogo uid010c061f"
+},
+{
+"id": 40321,
+"en": "(This is CR Aladdin Destiny EX pachinko machine number 86. Maybe I should give it a try.)",
+"ctx": "diálogo uid010c0620"
+},
+{
+"id": 40322,
+"en": "(This is CR Aladdin Destiny EX pachinko machine number 88. Maybe I should give it a try.)",
+"ctx": "diálogo uid010c0621"
+},
+{
+"id": 40323,
+"en": "(This is CR Aladdin Destiny EX pachinko machine number 93. Maybe I should give it a try.)",
+"ctx": "diálogo uid010c0622"
+},
+{
+"id": 40324,
+"en": "(This is CR Aladdin Destiny EX pachinko machine number 60. Maybe I should give it a try.)",
+"ctx": "diálogo uid010c062e"
+},
+{
+"id": 40325,
+"en": "Let's get going, then.",
+"ctx": "diálogo uid010c0673"
+},
+{
+"id": 40326,
+"en": "Yeah. Oh, Nakajima-san wanted me t'give ya a few driving tips while we're at it.",
+"ctx": "diálogo uid010c0673"
+},
+{
+"id": 40327,
+"en": "Bet I'm the last guy ya wanna hear advice from, but just indulge an old man.",
+"ctx": "diálogo uid010c0673"
+},
+{
+"id": 40328,
+"en": "Not at all. I appreciate it.",
+"ctx": "diálogo uid010c0673"
+},
+{
+"id": 40329,
+"en": "All right, off we go!",
+"ctx": "diálogo uid010c0673"
+},
+{
+"id": 40330,
+"en": "Thanks. Y'really saved my skin there.",
+"ctx": "diálogo uid010c067f"
+},
+{
+"id": 40331,
+"en": "My pleasure. Your advice was very helpful.",
+"ctx": "diálogo uid010c067f"
+},
+{
+"id": 40332,
+"en": "I'm glad. If there's ever anythin' else I can help with, just say the word.",
+"ctx": "diálogo uid010c067f"
+},
+{
+"id": 40333,
+"en": "Good luck out there.",
+"ctx": "diálogo uid010c067f + diálogo uid010d0017"
+},
+{
+"id": 40334,
+"en": "Oh, there's a taxi.",
+"ctx": "diálogo uid010c067f"
+},
+{
+"id": 40335,
+"en": "You taking passengers?",
+"ctx": "diálogo uid010c067f"
+},
+{
+"id": 40336,
+"en": "Sure, get in.",
+"ctx": "diálogo uid010c067f"
+},
+{
+"id": 40337,
+"en": "Sorry for the wait. I'm here from Nagasu Taxi.",
+"ctx": "diálogo uid010c0680"
+},
+{
+"id": 40338,
+"en": "Oh, no worries. I'd like to go to <Color:22>Ose Bridge<Color:Default>, please!",
+"ctx": "diálogo uid010c0680"
+},
+{
+"id": 40339,
+"en": "(She's quite attractive. But...)",
+"ctx": "diálogo uid010c0680"
+},
+{
+"id": 40340,
+"en": "(She has a huge nose hair sticking out!)",
+"ctx": "diálogo uid010c0680"
+},
+{
+"id": 40341,
+"en": "Hm? Is something wrong?",
+"ctx": "diálogo uid010c0680"
+},
+{
+"id": 40342,
+"en": "Oh, no. I was just nosing⑬ <Italic>noticing</Italic> something. Please, get in.",
+"ctx": "diálogo uid010c0680"
+},
+{
+"id": 40343,
+"en": "Nice day, isn't it?",
+"ctx": "diálogo uid010c0683"
+},
+{
+"id": 40344,
+"en": "It is.",
+"ctx": "diálogo uid010c0683 + diálogo uid010c0699"
+},
+{
+"id": 40345,
+"en": "(...She really has no idea there's a nose hair dangling right above her upper lip. What should I do?)",
+"ctx": "diálogo uid010c0683"
+},
+{
+"id": 40346,
+"en": "I notice you have a little nose hair poking out there.",
+"ctx": "diálogo uid010c0683"
+},
+{
+"id": 40347,
+"en": "<Italic>Excuse me</Italic>? That is so rude. Haven't you ever heard of <Italic>tact</Italic>?",
+"ctx": "diálogo uid010c0683"
+},
+{
+"id": 40348,
+"en": "(You don't need to get so angry. I was only trying to help.)",
+"ctx": "diálogo uid010c0683"
+},
+{
+"id": 40349,
+"en": "Anyway, I've got a date today, so I'd appreciate it if you didn't bother me.",
+"ctx": "diálogo uid010c0683"
+},
+{
+"id": 40350,
+"en": "(...If she plans on attracting anyone at all, she needs to be aware of her nostril situation.)",
+"ctx": "diálogo uid010c0683"
+},
+{
+"id": 40351,
+"en": "(But she'll only think I'm making fun of her again unless I try something more subtle.)",
+"ctx": "diálogo uid010c0683"
+},
+{
+"id": 40352,
+"en": "Got some kind of special occasion today?",
+"ctx": "diálogo uid010c0683"
+},
+{
+"id": 40353,
+"en": "Oh, thanks for asking! Actually, I'm going on my very first date!",
+"ctx": "diálogo uid010c0683"
+},
+{
+"id": 40354,
+"en": "Is that right?",
+"ctx": "diálogo uid010c0683 + diálogo uid011302ef …"
+},
+{
+"id": 40355,
+"en": "Hehe, yeah. I was never really the popular girl in school.",
+"ctx": "diálogo uid010c0683"
+},
+{
+"id": 40356,
+"en": "But I gathered up the courage to ask this guy I like out to dinner, and he said yes!",
+"ctx": "diálogo uid010c0683"
+},
+{
+"id": 40357,
+"en": "Then you're off to a good start.",
+"ctx": "diálogo uid010c0683"
+},
+{
+"id": 40358,
+"en": "Aww, thanks!",
+"ctx": "diálogo uid010c0683"
+},
+{
+"id": 40359,
+"en": "So, I did a little research into the things he likes, and I bought myself a new outfit, complete with complementing purse!",
+"ctx": "diálogo uid010c0683"
+},
+{
+"id": 40360,
+"en": "I think I'm good to go, but I'm still a bit nervous, it being my first date and all.",
+"ctx": "diálogo uid010c0683"
+},
+{
+"id": 40361,
+"en": "I can be a bit scatterbrained sometimes, so I hope I haven't forgotten anything.",
+"ctx": "diálogo uid010c0683"
+},
+{
+"id": 40362,
+"en": "(So she's going on a date, huh? Better point out that nose hair after all.)",
+"ctx": "diálogo uid010c0683"
+},
+{
+"id": 40363,
+"en": "(But, I wouldn't want to crush her confidence, either. I think I should use some subtlety here.)",
+"ctx": "diálogo uid010c0683"
+},
+{
+"id": 40364,
+"en": "(I should just keep my mouth shut... Hope I can still concentrate on driving.)",
+"ctx": "diálogo uid010c0683"
+},
+{
+"id": 40365,
+"en": "Ooh, I hope my date goes well! ♪ I spent hours picking out clothes and doing my hair...",
+"ctx": "diálogo uid010c0683"
+},
+{
+"id": 40366,
+"en": "Um... Do you think I look all right?",
+"ctx": "diálogo uid010c0683"
+},
+{
+"id": 40367,
+"en": "Oh, uh, of course.",
+"ctx": "diálogo uid010c0683"
+},
+{
+"id": 40368,
+"en": "(So she's going on a date. I'd better not ignore that nose hair, then.)",
+"ctx": "diálogo uid010c0683"
+},
+{
+"id": 40369,
+"en": "(At the same time, I wouldn't want to crush her confidence, either. Subtlety would work best here.)",
+"ctx": "diálogo uid010c0683"
+},
+{
+"id": 40370,
+"en": "Good luck with that date of yours. You're welcome to put the\nfinishing touches on your makeup in here if you want.",
+"ctx": "diálogo uid010c0683"
+},
+{
+"id": 40371,
+"en": "Do you take me for that kind of woman?",
+"ctx": "diálogo uid010c0683"
+},
+{
+"id": 40372,
+"en": "(Uh...?)",
+"ctx": "diálogo uid010c0683"
+},
+{
+"id": 40373,
+"en": "You know, those ladies who do their makeup in public, like when they're on the train.",
+"ctx": "diálogo uid010c0683"
+},
+{
+"id": 40374,
+"en": "It's just gross to do it in front of people like that. That's why I never carry around makeup or a mirror.",
+"ctx": "diálogo uid010c0683"
+},
+{
+"id": 40375,
+"en": "(What if I pointed the rearview mirror at her... real casually?)",
+"ctx": "diálogo uid010c0683"
+},
+{
+"id": 40376,
+"en": "(I think she noticed.)",
+"ctx": "diálogo uid010c0683"
+},
+{
+"id": 40377,
+"en": "Here's the fare! Take this tip as well.",
+"ctx": "diálogo uid010c0684"
+},
+{
+"id": 40378,
+"en": "Yes. Thank you for, um... yeah!",
+"ctx": "diálogo uid010c0684"
+},
+{
+"id": 40379,
+"en": "No problem. I hope your date goes well.",
+"ctx": "diálogo uid010c0684"
+},
+{
+"id": 40380,
+"en": "Me too! Wish me luck!",
+"ctx": "diálogo uid010c0684"
+},
+{
+"id": 40381,
+"en": "Here's the fare. And, uh... thanks for everything!",
+"ctx": "diálogo uid010c0684"
+},
+{
+"id": 40382,
+"en": "To be honest, I think you need to learn how to be more respectful toward women. That behavior back there was shameful.",
+"ctx": "diálogo uid010c0684"
+},
+{
+"id": 40383,
+"en": "I apologize for any misunderstandings I may have caused.",
+"ctx": "diálogo uid010c0684"
+},
+{
+"id": 40384,
+"en": "Yeah, well. Goodbye.",
+"ctx": "diálogo uid010c0684"
+},
+{
+"id": 40385,
+"en": "I'm here from Nagasu Taxi. You called?",
+"ctx": "diálogo uid010c0685"
+},
+{
+"id": 40386,
+"en": "(He must be fresh out of university. Wonder why he looks so exhausted.)",
+"ctx": "diálogo uid010c0685"
+},
+{
+"id": 40387,
+"en": "Yeah, I need to go to <Color:22>Chikuzengawa Street<Color:Default>.",
+"ctx": "diálogo uid010c0685"
+},
+{
+"id": 40388,
+"en": "Then let's be on our way.",
+"ctx": "diálogo uid010c0685"
+},
+{
+"id": 40389,
+"en": "Could you, uh, just leave the meter on and drive around a bit?",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40390,
+"en": "They monitor salespeople like me using GPS these days, so we always have to be out toiling away. Can't just kill extra time at a café.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40391,
+"en": "You're not supposed to be killing time. At your age, you're supposed to be working hard.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40392,
+"en": "...You ever worked in sales, driver?",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40393,
+"en": "Then you have no idea what you're talking about! My job is no walk in the park!",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40394,
+"en": "Don't assume you can lecture people just because you're older.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40395,
+"en": "(...I think I made him angry. Better watch what I say to him from now on.)",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40396,
+"en": "I apologize. I didn't mean to offend you.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40397,
+"en": "Ah, don't sweat it. I'm probably just a little riled up...",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40398,
+"en": "Truth is, I've only been at this job six months and I'm already thinking about leaving.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40399,
+"en": "The company you work for sounds pretty harsh.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40400,
+"en": "I can't believe they'd run you into the ground like that.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40401,
+"en": "Sounds like a real hellhole.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40402,
+"en": "Well, it's not <Italic>that</Italic> bad...",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40403,
+"en": "I appreciate you hearing me out and all, but badmouthing my company isn't helping, okay?",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40404,
+"en": "It's a pretty prestigious place, and I only got in after passing some really hard exams.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40405,
+"en": "Oh. Sorry, I didn't mean...",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40406,
+"en": "That's okay. But, that being said, I'm already thinking of leaving, in spite of all the trouble I went through.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40407,
+"en": "You must be really tired. I've never worked in sales myself, but I hear it's pretty tough.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40408,
+"en": "Thanks for understanding. Feels good to talk to someone who actually gets me.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40409,
+"en": "Hey, you mind if I get a few things off my chest? Seems like you might know what I'm talking about.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40410,
+"en": "Thanks, I appreciate it.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40411,
+"en": "The truth is, I've only been at this job six months and I'm already thinking about leaving.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40412,
+"en": "I was hoping to get assigned to planning or production, but they had to go put me in sales...",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40413,
+"en": "I have absolutely no interest in this kind of work. It's a real struggle to get motivated, if you know what I mean.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40414,
+"en": "All I think about these days are ways to avoid doing my job.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40415,
+"en": "At this rate, I'd be better off quitting, don't you think?",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40416,
+"en": "If the job doesn't interest you, then why don't you leave?",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40417,
+"en": "Yeah, that's what I was thinking! Quitting is the best move, right?",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40418,
+"en": "I think so. You only live once, so you should do something that keeps your interest.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40419,
+"en": "You're absolutely right! Thanks for the advice!",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40420,
+"en": "The same goes for you, huh? You always wanted to drive a taxi?",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40421,
+"en": "Wait, so this isn't your dream job?",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40422,
+"en": "...Now that you mention it, no.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40423,
+"en": "Well that kind of undermines your point...",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40424,
+"en": "No, I think once you join a company, you should stick with it until you retire.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40425,
+"en": "But the thought of having to keep doing this boring job for decades makes me cringe.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40426,
+"en": "There are some things you can only learn through perseverance, like patience and willpower.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40427,
+"en": "Patience and willpower? I'll admit I don't have either of those things right now.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40428,
+"en": "Huh, then maybe sticking with this job is best after all. How long have you been in your line of work?",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40429,
+"en": "Uh... I switched to driving taxis six months ago.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40430,
+"en": "What about your last job?",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40431,
+"en": "I... had to quit.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40432,
+"en": "Hey, what happened to patience and willpower?",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40433,
+"en": "That kind of undermines your point, you know.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40434,
+"en": "If there's another job you'd rather do, I think it's fine to leave.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40435,
+"en": "That's a fair point. But that's also kind of the problem.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40436,
+"en": "I can't really think of anything I'd rather do.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40437,
+"en": "Do you know of any good jobs out there?",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40438,
+"en": "Hmm, what kind of work do you enjoy?",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40439,
+"en": "Heh, if I knew that, I'd have already switched jobs.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40440,
+"en": "Say, do you like the job you're doing now, as a driver?",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40441,
+"en": "Yeah, it's actually pretty interesting.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40442,
+"en": "Huh, you're lucky you found a job you like. Maybe I'll try driving a taxi as well.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40443,
+"en": "But I enjoy it because I take it seriously.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40444,
+"en": "As long as you have the right attitude, you can make any job interesting.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40445,
+"en": "That's... enlightening. Perhaps if I take my sales position more seriously, I'll end up enjoying it.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40446,
+"en": "Right. Maybe try making your decision after you've given it a little more effort.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40447,
+"en": "You're right! I guess how you approach your work determines whether or not you find it rewarding.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40448,
+"en": "Then... Dang, I shouldn't be wasting time here. I've got a job to do!",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40449,
+"en": "No, it's incredibly boring.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40450,
+"en": "Then, is it that everyone's working a job they hate because\nthey have to, not because they want to?",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40451,
+"en": "Hmm. Maybe I should just force myself to keep doing this thankless job.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40452,
+"en": "Even then... I'd still be just as depressed. *sigh* Why's life gotta be so hard?",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40453,
+"en": "I've never really thought about it.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40454,
+"en": "Oh really...",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40455,
+"en": "Huh, maybe it's naive of me to think that work can be both interesting and rewarding.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40456,
+"en": "I guess I'll just do my best to keep calm and carry on. Best not to overanalyze things, right?",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40457,
+"en": "Thanks for sharing your wisdom. Even if it was sort of a\nharsh life lesson.",
+"ctx": "diálogo uid010c0687"
+},
+{
+"id": 40458,
+"en": "Hey, thanks for the ride! I'm ready to give it another shot!",
+"ctx": "diálogo uid010c0688"
+},
+{
+"id": 40459,
+"en": "(Good to see that he's cheered up.)",
+"ctx": "diálogo uid010c0688"
+},
+{
+"id": 40460,
+"en": "Here's the fare. Let me add a little something on top!",
+"ctx": "diálogo uid010c0688"
+},
+{
+"id": 40461,
+"en": "All right, time to get some work done!",
+"ctx": "diálogo uid010c0688"
+},
+{
+"id": 40462,
+"en": "Here's the fare.",
+"ctx": "diálogo uid010c0688 + diálogo uid010c08a2 …"
+},
+{
+"id": 40463,
+"en": "Guess I'll get some work done, eh?",
+"ctx": "diálogo uid010c0688"
+}
+]

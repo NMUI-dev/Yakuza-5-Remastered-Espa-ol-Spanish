@@ -1,0 +1,400 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_mn_mgs_roulette",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    967,
+    85,
+    1079,
+    119
+   ],
+   "en": "Controls",
+   "ocr": "Controls",
+   "es": "Controles",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 108,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1192,
+    107,
+    1502,
+    137
+   ],
+   "en": "R2 Button",
+   "ocr": "MoveResultSheet",
+   "es": "Botón R2",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 310,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1285,
+    138,
+    1329,
+    164
+   ],
+   "en": "Move Result Sheet",
+   "ocr": "Bet:",
+   "es": "Mover hoja de RESULTADO",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 44,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1289,
+    153,
+    1512,
+    182
+   ],
+   "en": "Bet:",
+   "ocr": "Retrieve thechipsyoubet",
+   "es": "Apuesta:",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 223,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1192,
+    171,
+    1356,
+    197
+   ],
+   "en": "Retrieve the chips you bet",
+   "ocr": "R1 Button",
+   "es": "Recupera las Fichas que apostaste",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 164,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1290,
+    186,
+    1495,
+    213
+   ],
+   "en": "No bet:",
+   "ocr": "Betthesame amountas",
+   "es": "Sin apuesta:",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 205,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1290,
+    203,
+    1433,
+    229
+   ],
+   "en": "Bet the same amount as",
+   "ocr": "thepreviousbet",
+   "es": "Aposta la misma cantidad que",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 143,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1201,
+    229,
+    1515,
+    263
+   ],
+   "en": "the previous bet",
+   "ocr": "DisplayItemScreen",
+   "es": "la apuesta anterior",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 314,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1200,
+    266,
+    1381,
+    298
+   ],
+   "en": "△ Button",
+   "ocr": "Confirm",
+   "es": "Botón △",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 181,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1201,
+    298,
+    1347,
+    335
+   ],
+   "en": "Display Item Screen",
+   "ocr": "Button",
+   "es": "Mostrar pantalla de objetos",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 146,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1201,
+    336,
+    1465,
+    366
+   ],
+   "en": "◀ Button",
+   "ocr": "EndBet/Cancel",
+   "es": "Botón ◀",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 264,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1147,
+    373,
+    1388,
+    402
+   ],
+   "en": "Confirm",
+   "ocr": "OPTIONSButton",
+   "es": "Confirmar",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 241,
+   "dejar": true
+  },
+  {
+   "caja": [
+    609,
+    123,
+    762,
+    156
+   ],
+   "en": "Change View",
+   "ocr": "Change View",
+   "es": "Cambiar vista",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 149,
+   "dejar": true
+  },
+  {
+   "caja": [
+    760,
+    125,
+    853,
+    155
+   ],
+   "en": "L2 Button",
+   "ocr": "L2Button",
+   "es": "Botón L2",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 89,
+   "dejar": true
+  },
+  {
+   "caja": [
+    549,
+    160,
+    761,
+    191
+   ],
+   "en": "Player/History Info",
+   "ocr": "Player/HistoryInfo",
+   "es": "Información del Jugador/Historial",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 208,
+   "dejar": true
+  },
+  {
+   "caja": [
+    762,
+    162,
+    853,
+    188
+   ],
+   "en": "L1 Button",
+   "ocr": "L1 Button",
+   "es": "Botón L1",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 87,
+   "dejar": true
+  },
+  {
+   "caja": [
+    613,
+    231,
+    761,
+    261
+   ],
+   "en": "Move Cursor",
+   "ocr": "Move Cursor",
+   "es": "Mover cursor",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 144,
+   "dejar": true
+  },
+  {
+   "caja": [
+    765,
+    225,
+    857,
+    250
+   ],
+   "en": "Directional",
+   "ocr": "Directional",
+   "es": "Direccional",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 88,
+   "dejar": true
+  },
+  {
+   "caja": [
+    774,
+    242,
+    849,
+    270
+   ],
+   "en": "Buttons",
+   "ocr": "Buttons",
+   "es": "Botones",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 71,
+   "dejar": true
+  },
+  {
+   "caja": [
+    613,
+    336,
+    764,
+    367
+   ],
+   "en": "Move Cursor",
+   "ocr": "Move Cursor",
+   "es": "Mover cursor",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 147,
+   "dejar": true
+  },
+  {
+   "caja": [
+    760,
+    337,
+    848,
+    364
+   ],
+   "en": "Left Stick",
+   "ocr": "Left Stick",
+   "es": "Joystick izq.",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 84,
+   "dejar": true
+  },
+  {
+   "caja": [
+    600,
+    370,
+    762,
+    402
+   ],
+   "en": "Exit Minigame",
+   "ocr": "Exit Minigame",
+   "es": "Salir del minijuego",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 158,
+   "dejar": true
+  },
+  {
+   "caja": [
+    763,
+    374,
+    912,
+    399
+   ],
+   "en": "Touch Pad Button",
+   "ocr": "Touch Pad Button",
+   "es": "Botón del panel táctil",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 145,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: vale la versión del PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

@@ -1,0 +1,431 @@
+{
+ "textura": "ui_en/surfboard/pjd_tougi_mode_select02.par/texlist/2d_jm_tougi_menu",
+ "fuente": "georgiab.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    104,
+    184,
+    136
+   ],
+   "en": "Maximum Grand Prix",
+   "es": "GP Máximo",
+   "fuente": "georgiab.ttf",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 178,
+   "mediana": false,
+   "alto": 13
+  },
+  {
+   "caja": [
+    0,
+    136,
+    184,
+    168
+   ],
+   "en": "Twin Dragon Grand Prix",
+   "es": "GP Dragón Gemelo",
+   "fuente": "georgiab.ttf",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 178,
+   "mediana": false,
+   "alto": 17
+  },
+  {
+   "caja": [
+    0,
+    168,
+    184,
+    200
+   ],
+   "en": "Weapon Master Grand Prix",
+   "es": "GP Maestro de Armas",
+   "fuente": "georgiab.ttf",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 178,
+   "mediana": false,
+   "alto": 17
+  },
+  {
+   "caja": [
+    0,
+    200,
+    184,
+    232
+   ],
+   "en": "Street Fight Grand Prix",
+   "es": "GP Pelea Callejera",
+   "fuente": "georgiab.ttf",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 178,
+   "mediana": false,
+   "alto": 17
+  },
+  {
+   "caja": [
+    0,
+    232,
+    184,
+    264
+   ],
+   "en": "???",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    184,
+    104,
+    368,
+    136
+   ],
+   "en": "Limited Berserk",
+   "es": "Furia Limitada",
+   "fuente": "georgiab.ttf",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 178,
+   "mediana": false,
+   "alto": 13
+  },
+  {
+   "caja": [
+    184,
+    136,
+    368,
+    168
+   ],
+   "en": "King of Kings",
+   "es": "Rey de Reyes",
+   "fuente": "georgiab.ttf",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 178,
+   "mediana": false,
+   "alto": 17
+  },
+  {
+   "caja": [
+    184,
+    168,
+    368,
+    200
+   ],
+   "en": "Deathmatch 100",
+   "es": "Duelo Mortal 100",
+   "fuente": "georgiab.ttf",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 178,
+   "mediana": false,
+   "alto": 13
+  },
+  {
+   "caja": [
+    184,
+    200,
+    368,
+    232
+   ],
+   "en": "Breakout Grand Prix",
+   "es": "GP de Escape",
+   "fuente": "georgiab.ttf",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 178,
+   "mediana": false,
+   "alto": 13
+  },
+  {
+   "caja": [
+    184,
+    232,
+    368,
+    264
+   ],
+   "en": "Ranked Arena Grand Prix",
+   "es": "GP Arena Clasificatoria",
+   "fuente": "georgiab.ttf",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 178,
+   "mediana": false,
+   "alto": 13
+  },
+  {
+   "caja": [
+    184,
+    392,
+    368,
+    424
+   ],
+   "en": "Legendary Arena Grand Prix",
+   "es": "GP Arena Legendaria",
+   "fuente": "georgiab.ttf",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 178,
+   "mediana": false,
+   "alto": 17
+  },
+  {
+   "caja": [
+    184,
+    424,
+    368,
+    456
+   ],
+   "en": "Heat Bomber Grand Prix",
+   "es": "GP Bombardero Heat",
+   "fuente": "georgiab.ttf",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 178,
+   "mediana": false,
+   "alto": 13
+  },
+  {
+   "caja": [
+    376,
+    80,
+    456,
+    112
+   ],
+   "en": "Yes",
+   "es": "Sí",
+   "fuente": "georgiab.ttf",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 74,
+   "mediana": false,
+   "alto": 15
+  },
+  {
+   "caja": [
+    376,
+    112,
+    456,
+    144
+   ],
+   "en": "No",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    380,
+    146,
+    452,
+    168
+   ],
+   "en": "Record",
+   "es": "Récord",
+   "fuente": "georgiab.ttf",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 66,
+   "mediana": false,
+   "alto": 15
+  },
+  {
+   "caja": [
+    343,
+    266,
+    460,
+    296
+   ],
+   "en": "NEXT LEVEL",
+   "es": "SIG. NIVEL",
+   "fuente": "segoeui.ttf",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 112,
+   "mediana": false,
+   "efecto": "nada"
+  },
+  {
+   "caja": [
+    380,
+    296,
+    422,
+    316
+   ],
+   "en": "Exit",
+   "es": "Salir",
+   "fuente": "georgiab.ttf",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 36,
+   "mediana": false,
+   "alto": 12
+  },
+  {
+   "caja": [
+    360,
+    320,
+    440,
+    352
+   ],
+   "en": "Participate",
+   "es": "Participar",
+   "fuente": "georgiab.ttf",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 74,
+   "mediana": false,
+   "alto": 16
+  },
+  {
+   "caja": [
+    388,
+    400,
+    507,
+    424
+   ],
+   "en": "Titles Earned",
+   "es": "Títulos ganados",
+   "fuente": "georgiab.ttf",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 115,
+   "mediana": false,
+   "alto": 13
+  },
+  {
+   "caja": [
+    385,
+    424,
+    485,
+    452
+   ],
+   "en": "NEXT Fame",
+   "es": "SIG. Fama",
+   "fuente": "georgiab.ttf",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 96,
+   "mediana": false,
+   "alto": 13
+  },
+  {
+   "caja": [
+    186,
+    464,
+    279,
+    496
+   ],
+   "en": "opponent",
+   "es": "oponente",
+   "fuente": "verdana.ttf",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 89,
+   "mediana": false,
+   "alto": 16
+  },
+  {
+   "caja": [
+    296,
+    464,
+    356,
+    496
+   ],
+   "en": "NEW",
+   "es": "NUEVO",
+   "fuente": "segoeuib.ttf",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 56,
+   "mediana": false,
+   "alto": 11
+  }
+ ],
+ "copiado_de": "ui_en__surfboard__pjd_tougi.par__texlist__2d_jm_tougi_menu"
+}

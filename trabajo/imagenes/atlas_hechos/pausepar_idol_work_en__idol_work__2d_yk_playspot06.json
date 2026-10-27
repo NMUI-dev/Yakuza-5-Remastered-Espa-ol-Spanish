@@ -1,0 +1,25 @@
+{
+ "textura": "pausepar_idol_work_en/idol_work/2d_yk_playspot06",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    44,
+    64,
+    176,
+    159
+   ],
+   "en": "FISHING FEVER OSAKA EDITION",
+   "ocr": "三味 FISHINGFEVER",
+   "es": "PESCA FEVER EDICIÓN OSAKA",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 132,
+   "dejar": true
+  }
+ ]
+}

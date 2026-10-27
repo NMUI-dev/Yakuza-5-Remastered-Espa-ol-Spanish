@@ -1,0 +1,127 @@
+{
+ "textura": "pausepar_pause_en/picture/mail/2d_yk_kamiyama_hk",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    13,
+    4,
+    118,
+    33
+   ],
+   "en": "Now open",
+   "ocr": "Nowopen",
+   "es": "Ahora abierto",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 105,
+   "dejar": true
+  },
+  {
+   "caja": [
+    13,
+    23,
+    152,
+    61
+   ],
+   "en": "in Tsukimino!",
+   "ocr": "inTsukimino!",
+   "es": "en Tsukimino!",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 139,
+   "dejar": true
+  },
+  {
+   "caja": [
+    16,
+    47,
+    202,
+    88
+   ],
+   "en": "Come by and have",
+   "ocr": "Comeby and have",
+   "es": "Ven a pasar a",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 186,
+   "dejar": true
+  },
+  {
+   "caja": [
+    16,
+    78,
+    88,
+    115
+   ],
+   "en": "a look!",
+   "ocr": "a look!",
+   "es": "¡Mirar!",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 72,
+   "dejar": true
+  },
+  {
+   "caja": [
+    134,
+    204,
+    220,
+    253
+   ],
+   "en": "Super deal",
+   "ocr": "Super deals!",
+   "es": "Súper reparto",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 82,
+   "dejar": true
+  },
+  {
+   "caja": [
+    150,
+    218,
+    245,
+    271
+   ],
+   "en": "Super deals!",
+   "ocr": "Super deals!",
+   "es": "¡Súper repartos!",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 91,
+   "dejar": true
+  },
+  {
+   "caja": [
+    74,
+    274,
+    238,
+    303
+   ],
+   "en": "KamiyamaWORKS",
+   "ocr": "KamiyamaWoRKS",
+   "es": "Kamiyama WoRKS",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 160,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: lo hace el PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

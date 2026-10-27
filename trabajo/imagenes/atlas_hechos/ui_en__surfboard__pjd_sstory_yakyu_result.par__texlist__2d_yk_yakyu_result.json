@@ -1,0 +1,113 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_yakyu_result.par/texlist/2d_yk_yakyu_result",
+ "fuente": "timesbi.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    95,
+    411,
+    269,
+    477
+   ],
+   "en": "Victory",
+   "ocr": "Victory",
+   "es": "Victoria",
+   "fuente": "timesbi.ttf",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 170
+  },
+  {
+   "caja": [
+    19,
+    19,
+    347,
+    134
+   ],
+   "en": "Victory",
+   "ocr": "Victory",
+   "es": "Victoria",
+   "fuente": "timesbi.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 324,
+   "alto": 95,
+   "estilo": {
+    "arriba": [
+     255,
+     252,
+     235
+    ],
+    "abajo": [
+     225,
+     190,
+     120
+    ],
+    "contorno": [
+     [
+      120,
+      80,
+      30
+     ],
+     3
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    26,
+    149,
+    313,
+    246
+   ],
+   "en": "Defeat",
+   "ocr": "Defeat",
+   "es": "Derrota",
+   "fuente": "timesbi.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 283,
+   "alto": 95,
+   "estilo": {
+    "arriba": [
+     250,
+     252,
+     255
+    ],
+    "abajo": [
+     175,
+     195,
+     225
+    ],
+    "contorno": [
+     [
+      50,
+      70,
+      110
+     ],
+     3
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    15,
+    277,
+    351,
+    401
+   ],
+   "en": "Victory",
+   "ocr": "Victory",
+   "es": "",
+   "fuente": "timesbi.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 332,
+   "dejar": true
+  }
+ ]
+}

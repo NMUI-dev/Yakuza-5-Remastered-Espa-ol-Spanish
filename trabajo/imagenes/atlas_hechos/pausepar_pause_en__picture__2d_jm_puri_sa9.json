@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_sa9",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    59,
+    158,
+    455,
+    226
+   ],
+   "en": "I'm Saejima-nyan",
+   "ocr": "Im Saejima-nyan",
+   "es": "Soy Saejima-nyan",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 392
+  }
+ ]
+}

@@ -1,0 +1,832 @@
+[
+{
+"id": 22070,
+"en": "Maybe I gotta advertise more, or spruce up my stand or somethin'? I tell ya, I'm stumped!",
+"ctx": "diálogo uid000c0cc1"
+},
+{
+"id": 22071,
+"en": "If only people would try a bite, they'd be hooked, I'm sure.",
+"ctx": "diálogo uid000c0cc1 + diálogo uid010c0cc2"
+},
+{
+"id": 22072,
+"en": "Ya think so? That's awfully kind of ya to say. Thank you, Haruka-chan!",
+"ctx": "diálogo uid000c0cc1"
+},
+{
+"id": 22073,
+"en": "Hey, if ya ever get a chance, maybe you can talk this place up on TV!",
+"ctx": "diálogo uid000c0cc1"
+},
+{
+"id": 22074,
+"en": "Oh, I don't know. I don't get many chances to say whatever I want on TV...",
+"ctx": "diálogo uid000c0cc1"
+},
+{
+"id": 22075,
+"en": "Ha ha! I was just pullin' your leg. You're an idol, after all. It's not like you're a comedian or anything!",
+"ctx": "diálogo uid000c0cc1"
+},
+{
+"id": 22076,
+"en": "Hey, I know! Wanna be my \"manager for a day\"? If you'd do that for me, I can't tell ya how much I'd appreciate it!",
+"ctx": "diálogo uid000c0cc1"
+},
+{
+"id": 22077,
+"en": "Manager for a day? What would I do?",
+"ctx": "diálogo uid000c0cc1"
+},
+{
+"id": 22078,
+"en": "Hmm. I dunno. Just stand in front of the shop, maybe? That oughta do the trick!",
+"ctx": "diálogo uid000c0cc1"
+},
+{
+"id": 22079,
+"en": "You really think that'll get customers to buy takoyaki?",
+"ctx": "diálogo uid000c0cc1"
+},
+{
+"id": 22080,
+"en": "Hell yeah it would! I know I'd stop for some takoyaki if a cute idol like you was hawkin' it!",
+"ctx": "diálogo uid000c0cc1"
+},
+{
+"id": 22081,
+"en": "Well, then... How about a handshake event?",
+"ctx": "diálogo uid000c0cc1 + diálogo uid010c0cc2"
+},
+{
+"id": 22082,
+"en": "I can shake hands with people who buy some takoyaki.",
+"ctx": "diálogo uid000c0cc1"
+},
+{
+"id": 22083,
+"en": "Huh? You'd really do that for me?",
+"ctx": "diálogo uid000c0cc1 + diálogo uid010c0cc2"
+},
+{
+"id": 22084,
+"en": "Of course! Oh, but wait. I'd better check with my agency to make sure it's all right. I don't think they'll have any objections, though.",
+"ctx": "diálogo uid000c0cc1"
+},
+{
+"id": 22085,
+"en": "It'd be awesome if ya could!",
+"ctx": "diálogo uid000c0cc1"
+},
+{
+"id": 22086,
+"en": "They said yes. They thought it was a great idea to help out a local business.",
+"ctx": "diálogo uid000c0cc1"
+},
+{
+"id": 22087,
+"en": "They did!? That's fantastic! I'll start gettin' ready right away, then!",
+"ctx": "diálogo uid000c0cc1"
+},
+{
+"id": 22088,
+"en": "And I'll change into my work outfit!",
+"ctx": "diálogo uid000c0cc1 + diálogo uid010c0cc2"
+},
+{
+"id": 22089,
+"en": "Hi! Welcome! Get yer pipin' hot takoyaki here!",
+"ctx": "diálogo uid000c0cc1"
+},
+{
+"id": 22090,
+"en": "(Magutako, huh? Maybe I can tell Tatsuya about this place.)",
+"ctx": "diálogo uid000c0cc1"
+},
+{
+"id": 22091,
+"en": "Thank you kindly! Come again, y'hear?",
+"ctx": "diálogo uid000c0cc1"
+},
+{
+"id": 22092,
+"en": "Ah, well! Buy somethin' next time, y'hear?",
+"ctx": "diálogo uid000c0cc1"
+},
+{
+"id": 22093,
+"en": "Thank you kindly! Come again, hear?",
+"ctx": "diálogo uid000c0cc1"
+},
+{
+"id": 22094,
+"en": "This is my favorite place, see? It's out in the open but still kind of secluded. It's the best.",
+"ctx": "diálogo uid000c0cc9"
+},
+{
+"id": 22095,
+"en": "What'll I have for lunch? Gotta spice things up. Somethin' different every day, y'know?",
+"ctx": "diálogo uid000c0cca"
+},
+{
+"id": 22096,
+"en": "We're in Osaka. We can't leave without trying their okonomiyaki, am I right?",
+"ctx": "diálogo uid000c0ccb"
+},
+{
+"id": 22097,
+"en": "Nice try. Okonomiyaki is certainly a signature dish, but a real Osakan cognoscenti goes for kushikatsu.",
+"ctx": "diálogo uid000c0ccb"
+},
+{
+"id": 22098,
+"en": "How would you know? This is your first time in Osaka!",
+"ctx": "diálogo uid000c0ccb"
+},
+{
+"id": 22099,
+"en": "I'm stuffed past full. Urp. Osaka's got too many great places to eat, I tell ya.",
+"ctx": "diálogo uid000c0ccd"
+},
+{
+"id": 22100,
+"en": "Whoa! Wow! I can't believe I'm finally seeing this! I'm really here! Woohoo!",
+"ctx": "diálogo uid000c0ccf"
+},
+{
+"id": 22101,
+"en": "Come on! You got enough photos already, don't you?",
+"ctx": "diálogo uid000c0ccf"
+},
+{
+"id": 22102,
+"en": "Dang it, what's taking Takkun? I can't wait to crack open some crab legs.",
+"ctx": "diálogo uid000c0cd0"
+},
+{
+"id": 22103,
+"en": "According to my calculations, the odds of picking up a girl today are... 32 percent!",
+"ctx": "diálogo uid000c0cd1"
+},
+{
+"id": 22104,
+"en": "You did the right thing dumping that jerk. Come on, cheer up. You're better off without him.",
+"ctx": "diálogo uid000c0cd2"
+},
+{
+"id": 22105,
+"en": "Actually, I'm over him. I have two new guys to keep me company.",
+"ctx": "diálogo uid000c0cd2"
+},
+{
+"id": 22106,
+"en": "What!? Two!?",
+"ctx": "diálogo uid000c0cd2"
+},
+{
+"id": 22107,
+"en": "One day, I'm gonna date a cute doll like that.",
+"ctx": "diálogo uid000c0cd5"
+},
+{
+"id": 22108,
+"en": "Doll? You in some kinda noir film? But don't let me discourage ya.",
+"ctx": "diálogo uid000c0cd5"
+},
+{
+"id": 22109,
+"en": "Wow, look! It's a river!",
+"ctx": "diálogo uid000c0cd6"
+},
+{
+"id": 22110,
+"en": "Really? You don't watch Princess League? You just have to! Haruka-chan is gonna be huge, you watch! She's got talent and cuteness in spades!",
+"ctx": "diálogo uid000c0cd9"
+},
+{
+"id": 22111,
+"en": "I haven't been watching TV much at all.",
+"ctx": "diálogo uid000c0cd9"
+},
+{
+"id": 22112,
+"en": "Please! I'll buy ya some Magutako takoyaki. Just don't tell Ma, all right? Come on, son!",
+"ctx": "diálogo uid000c0cdb"
+},
+{
+"id": 22113,
+"en": "Are you kiddin'? I can't tell Mama. I can't tell anyone you had those kinds of videos, Pop! Makes me wanna throw up.",
+"ctx": "diálogo uid000c0cdb"
+},
+{
+"id": 22114,
+"en": "Every day's the same. I'm bored, bored, bored. Ain't there any excitement to be had?",
+"ctx": "diálogo uid000c0cdc"
+},
+{
+"id": 22115,
+"en": "Today's a good day! I can't lose, even when I try! Wahaha!",
+"ctx": "diálogo uid000c0cdd"
+},
+{
+"id": 22116,
+"en": "T-Set's the duo to watch. Their prissy bitchiness will make them stars!",
+"ctx": "diálogo uid000c0cde"
+},
+{
+"id": 22117,
+"en": "Hmm... Coffee? Or tea? Life is one decision after another.",
+"ctx": "diálogo uid000c0cdf"
+},
+{
+"id": 22118,
+"en": "Let's see... Where's \"How to Become a Can-Do Gal\"? Don't they have it in stock yet?",
+"ctx": "diálogo uid000c0ce0"
+},
+{
+"id": 22119,
+"en": "I hate everything! The president reamed me, the old lady's cooking is a biohazard, and it's frickin' cold again! Get me outta here!",
+"ctx": "diálogo uid000c0ce1"
+},
+{
+"id": 22120,
+"en": "Oh, cheer up, boss. We'll chug a couple beers and piss away our worries. Sound good?",
+"ctx": "diálogo uid000c0ce1"
+},
+{
+"id": 22121,
+"en": "Going on a date. Waiting for my girl now.",
+"ctx": "diálogo uid000c0ce3"
+},
+{
+"id": 22122,
+"en": "I'm gonna do it! I'm gonna clean myself up and get me a job.",
+"ctx": "diálogo uid000c0ce4"
+},
+{
+"id": 22123,
+"en": "Yes, Kiyohiko! I'm so glad you're finally getting it together. Is there anything I can do to help?",
+"ctx": "diálogo uid000c0ce4"
+},
+{
+"id": 22124,
+"en": "Huh? Well, at least a suit, shirt, tie, shoes, and a briefcase to start. I need all that for interviews, right?",
+"ctx": "diálogo uid000c0ce4"
+},
+{
+"id": 22125,
+"en": "No doubt, y'know? It's all about Ginji and Hidemaru.",
+"ctx": "diálogo uid000c0ce7"
+},
+{
+"id": 22126,
+"en": "Yeah, for sure. Still, I think Hidemaru can be top for a change, can't he?",
+"ctx": "diálogo uid000c0ce7"
+},
+{
+"id": 22127,
+"en": "No way! You're sayin' Ginji's a bottom? Like that'll happen! Wake up, girl!",
+"ctx": "diálogo uid000c0ce7"
+},
+{
+"id": 22128,
+"en": "You're no man if ya don't go for it now. C'mon, man up! Be a man!",
+"ctx": "diálogo uid000c0cf7"
+},
+{
+"id": 22129,
+"en": "No, I'm gonna pass. Let's go back to the hotel.",
+"ctx": "diálogo uid000c0cf7"
+},
+{
+"id": 22130,
+"en": "Gotta line up again tomorrow morning. Choosin' the right pachinko machine's half the battle!",
+"ctx": "diálogo uid000c0cf9"
+},
+{
+"id": 22131,
+"en": "That was delicious! Where are we going next?",
+"ctx": "diálogo uid000c0cfb"
+},
+{
+"id": 22132,
+"en": "We did okonomiyaki, kushikatsu... Oh! We need to do takoyaki! We still have a lot of Osaka to eat through.",
+"ctx": "diálogo uid000c0cfb"
+},
+{
+"id": 22133,
+"en": "Bored and free. Someone play with me... And... post to timeline.",
+"ctx": "diálogo uid000c0cfc"
+},
+{
+"id": 22134,
+"en": "Ugh. Of course the guy to respond immediately is the class creep.",
+"ctx": "diálogo uid000c0cfc"
+},
+{
+"id": 22135,
+"en": "A couple of trucks crashed. But no one's hurt, by the look of things.",
+"ctx": "diálogo uid000c0d10"
+},
+{
+"id": 22136,
+"en": "Help! Someone call the police!",
+"ctx": "diálogo uid000c0d10"
+},
+{
+"id": 22137,
+"en": "(The police are comin'. Better make myself scarce.)",
+"ctx": "diálogo uid000c0d10"
+},
+{
+"id": 22138,
+"en": "Roooar!",
+"ctx": "diálogo uid000c0d10"
+},
+{
+"id": 22139,
+"en": "What the⑬!",
+"ctx": "diálogo uid000c0d10"
+},
+{
+"id": 22140,
+"en": "Oh, my gosh! Bear! A bear came out of the truck!",
+"ctx": "diálogo uid000c0d10"
+},
+{
+"id": 22141,
+"en": "It's a bear from the zoo! Everyone run! Call the police!",
+"ctx": "diálogo uid000c0d10"
+},
+{
+"id": 22142,
+"en": "Bear! Everyone, move! Run!",
+"ctx": "diálogo uid000c0d10"
+},
+{
+"id": 22143,
+"en": "Someone...",
+"ctx": "diálogo uid000c0d10"
+},
+{
+"id": 22144,
+"en": "Hey! Over here!",
+"ctx": "diálogo uid000c0d10 + diálogo uid0169031b"
+},
+{
+"id": 22145,
+"en": "This one's like a teddy bear compared to Yama-oroshi.",
+"ctx": "diálogo uid000c0d10"
+},
+{
+"id": 22146,
+"en": "Hey, you! Get away! What are you thinking?",
+"ctx": "diálogo uid000c0d10"
+},
+{
+"id": 22147,
+"en": "You...",
+"ctx": "diálogo uid000c0d10 + diálogo uid0102071d"
+},
+{
+"id": 22148,
+"en": "Heh, bring it on. I don't mind ya!",
+"ctx": "diálogo uid000c0d10"
+},
+{
+"id": 22149,
+"en": "Bookstores are great. Just browsin' puts a little bounce in my step.",
+"ctx": "diálogo uid000c0d13"
+},
+{
+"id": 22150,
+"en": "So archaic and inefficient. Just get yourself an e-reader. You can download anything you want to read without leaving home.",
+"ctx": "diálogo uid000c0d13"
+},
+{
+"id": 22151,
+"en": "It's convenient, all right. But it's missin' something called soul, and I don't think you can send that over the tubes.",
+"ctx": "diálogo uid000c0d13"
+},
+{
+"id": 22152,
+"en": "The air's so damn dry it drives me nuts. This day and age, a guy has to take care of his skin.",
+"ctx": "diálogo uid000c0d18"
+},
+{
+"id": 22153,
+"en": "All right! I'm gonna ask Sanae-chan out. No one can stamp out this fiery passion of mine!",
+"ctx": "diálogo uid000c0d19"
+},
+{
+"id": 22154,
+"en": "Actually, well, Sanae and me, we're... Uh, never mind.",
+"ctx": "diálogo uid000c0d19"
+},
+{
+"id": 22155,
+"en": "I can't. I dunno any new songs that are popular nowadays. You guys go on to karaoke without me.",
+"ctx": "diálogo uid000c0d1c"
+},
+{
+"id": 22156,
+"en": "Come on, it'll be okay! They're all lookin' forward to seein' ya.",
+"ctx": "diálogo uid000c0d1c"
+},
+{
+"id": 22157,
+"en": "Urp! *hic* Had a couple too many drinks. The doctor says I shouldn't, but fuggem.",
+"ctx": "diálogo uid000c0d2c"
+},
+{
+"id": 22158,
+"en": "We're takin' the town tonight! We are shotgunnin' beers till the cows come home! Ride along, deputy!",
+"ctx": "diálogo uid000c0d31"
+},
+{
+"id": 22159,
+"en": "Uh, but boss... I think we have a meeting first thing tomorrow...",
+"ctx": "diálogo uid000c0d31"
+},
+{
+"id": 22160,
+"en": "So, you said there's gonna be babes by the busload tonight, huh? Oh, I can't wait!",
+"ctx": "diálogo uid000c0d3c"
+},
+{
+"id": 22161,
+"en": "Yeah, uh-huh, we just got here. What!? They couldn't make it!?",
+"ctx": "diálogo uid000c0d3c"
+},
+{
+"id": 22162,
+"en": "I see people dancin' around on the street a lot these days. What the heck's that about?",
+"ctx": "diálogo uid000c0d43"
+},
+{
+"id": 22163,
+"en": "You and me, let's square off in a dance battle! Heh, just jokin'. That's like the \"in\" thing now, ain't it?",
+"ctx": "diálogo uid000c0d44"
+},
+{
+"id": 22164,
+"en": "Ya know how static electricity can zap ya when you open a door, say? You can avoid gettin' zapped by grabbin' the door handle real quick.",
+"ctx": "diálogo uid000c0d45"
+},
+{
+"id": 22165,
+"en": "Didja hear? There's a new moneylender in town. People say they make loans with no interest!",
+"ctx": "diálogo uid000c0d46"
+},
+{
+"id": 22166,
+"en": "No way! That's gonzo. Like, off the rails! I'll take 300 million yen, then!",
+"ctx": "diálogo uid000c0d46"
+},
+{
+"id": 22167,
+"en": "She's never gonna notice me anyway. My feelings aren't gonna reach her no matter how I yearn.",
+"ctx": "diálogo uid000c0d48"
+},
+{
+"id": 22168,
+"en": "That's defeatist thinkin'. If ya don't have a dream, it can't come true. Hold onto your dream. Maybe one day, ya know?",
+"ctx": "diálogo uid000c0d48"
+},
+{
+"id": 22169,
+"en": "Ya think!? That rekindles my hope, man. One of these days, Haruka Sawamura-chan's gonna notice me!",
+"ctx": "diálogo uid000c0d48"
+},
+{
+"id": 22170,
+"en": "Wait, you're in love with an idol!?",
+"ctx": "diálogo uid000c0d48"
+},
+{
+"id": 22171,
+"en": "Please, please, please, make me handsome. Make me handsome. Oh, please...",
+"ctx": "diálogo uid000c0d4a"
+},
+{
+"id": 22172,
+"en": "I got rejected on another job interview. It's my tenth in a row. Maybe I'm just not cut out for this whole employment thing.",
+"ctx": "diálogo uid000c0d4c"
+},
+{
+"id": 22173,
+"en": "I heard my doorbell, so I answered the door right away... but there was no one there. It had to have been a ghost.",
+"ctx": "diálogo uid000c0d4d"
+},
+{
+"id": 22174,
+"en": "Don't be silly. You just imagined it. Or it's just electrical trouble.",
+"ctx": "diálogo uid000c0d4d"
+},
+{
+"id": 22175,
+"en": "Let's ride the Ferris wheel! It would be the perfect end to our date.",
+"ctx": "diálogo uid000c0d50"
+},
+{
+"id": 22176,
+"en": "Not happening. Look how high it is! I'll wait for you down here if you want.",
+"ctx": "diálogo uid000c0d50"
+},
+{
+"id": 22177,
+"en": "Yeah! Work's finally done. Tonight, I shall party all night in the park!",
+"ctx": "diálogo uid000c0d51"
+},
+{
+"id": 22178,
+"en": "Don't worry about the last train. You can stay at my place.",
+"ctx": "diálogo uid000c0d52"
+},
+{
+"id": 22179,
+"en": "No, I should go. I'm not feeling all that well tonight.",
+"ctx": "diálogo uid000c0d52"
+},
+{
+"id": 22180,
+"en": "You always say that! What is wrong with you?",
+"ctx": "diálogo uid000c0d52"
+},
+{
+"id": 22181,
+"en": "You can't tell me what to do! Who can go without a drink, I ask you? In this day and age!? Who!?",
+"ctx": "diálogo uid000c0d54"
+},
+{
+"id": 22182,
+"en": "You're never on time. Have you ever come when you said you would?",
+"ctx": "diálogo uid000c0d56"
+},
+{
+"id": 22183,
+"en": "I'm sorry! I was so excited about seeing you, I couldn't fall asleep, and then I overslept!",
+"ctx": "diálogo uid000c0d56"
+},
+{
+"id": 22184,
+"en": "It's so cold. Today's the sort of day when hot meat buns really hit the spot.",
+"ctx": "diálogo uid000c0d57"
+},
+{
+"id": 22185,
+"en": "Come on, let's go here next!",
+"ctx": "diálogo uid000c0d58"
+},
+{
+"id": 22186,
+"en": "Nah, I'm tapped out. I blew the last of my spending money already. I'm done for the rest of the month.",
+"ctx": "diálogo uid000c0d58"
+},
+{
+"id": 22187,
+"en": "I'm not letting you go home tonight. And I'm not letting you sleep either!",
+"ctx": "diálogo uid000c0d61"
+},
+{
+"id": 22188,
+"en": "Oh, yes, please!",
+"ctx": "diálogo uid000c0d61 + diálogo uid010c0df1"
+},
+{
+"id": 22189,
+"en": "I knew this place would be full of couples this time of year, but... Dammit! I'm so jealous!",
+"ctx": "diálogo uid000c0d65"
+},
+{
+"id": 22190,
+"en": "I think I lost my way. It's kind of scary walking around here by myself.",
+"ctx": "diálogo uid000c0d6a"
+},
+{
+"id": 22191,
+"en": "Can't you decide yet? I'm starvin'!",
+"ctx": "diálogo uid000c0d6e"
+},
+{
+"id": 22192,
+"en": "Hold on! I'm searchin' review sites for places that are rated highly but aren't too expensive. Just hold your horses.",
+"ctx": "diálogo uid000c0d6e"
+},
+{
+"id": 22193,
+"en": "Look, even a burger will do now!",
+"ctx": "diálogo uid000c0d6e"
+},
+{
+"id": 22194,
+"en": "I can't stop coughing. *cough* Was it because I didn't wash my hands or gargle when I got home yesterday?",
+"ctx": "diálogo uid000c0d6f"
+},
+{
+"id": 22195,
+"en": "We might not be able to go out to eat much once I get married.",
+"ctx": "diálogo uid000c0d72"
+},
+{
+"id": 22196,
+"en": "Oh, don't say that! That would be terrible. Can you maybe break your engagement and marry me instead?",
+"ctx": "diálogo uid000c0d72"
+},
+{
+"id": 22197,
+"en": "Haha. That's an option.",
+"ctx": "diálogo uid000c0d72"
+},
+{
+"id": 22198,
+"en": "Smokers are your modern-day pariahs. It's our own damned fault, too. There are too many ill-mannered dolts who ruin our reputation.",
+"ctx": "diálogo uid000c0d84"
+},
+{
+"id": 22199,
+"en": "What's there to worry about when we got massage parlors? Take a load off, get your rocks off. How would guys live without 'em?",
+"ctx": "diálogo uid000c0d85"
+},
+{
+"id": 22200,
+"en": "I want to leave everything behind and go off to Okinawa. That's paradise!",
+"ctx": "diálogo uid000c0d86"
+},
+{
+"id": 22201,
+"en": "Sounds good. I'll book time off this summer.",
+"ctx": "diálogo uid000c0d86"
+},
+{
+"id": 22202,
+"en": "What are you sayin'? I'm going this weekend.",
+"ctx": "diálogo uid000c0d86"
+},
+{
+"id": 22203,
+"en": "People put kids down for being immature, but it's those new and immature ideas that are going to shape the future. That's what I think.",
+"ctx": "diálogo uid000c0d88"
+},
+{
+"id": 22204,
+"en": "Feelin' lucky? How 'bout a game of cho-han? Wait a sec,  you ain't got no chips. Go buy some at the front, then come see me.",
+"ctx": "diálogo uid000c0d8a"
+},
+{
+"id": 22205,
+"en": "How about some cho-han? Feel like a game today?",
+"ctx": "diálogo uid000c0d8a"
+},
+{
+"id": 22206,
+"en": "Well, all right. I hope you'll play next time!",
+"ctx": "diálogo uid000c0d8a"
+},
+{
+"id": 22207,
+"en": "Whaddaya wanna know?",
+"ctx": "diálogo uid000c0d8a"
+},
+{
+"id": 22208,
+"en": "Cho-han is a gambling game where players predict whether the total value of two dice rolls will end up odd or even.",
+"ctx": "diálogo uid000c0d8a"
+},
+{
+"id": 22209,
+"en": "The payout is based on how much you and the other players wagered.",
+"ctx": "diálogo uid000c0d8a"
+},
+{
+"id": 22210,
+"en": "You can bet on what number will show on one of the two dice.\nIf you guess right, you can earn even more chips by simply guessing odd or even.",
+"ctx": "diálogo uid000c0d8a"
+},
+{
+"id": 22211,
+"en": "You can also bet on which numbers will show on both dice.\nIf you guess right, you get all of the money in the current pot.",
+"ctx": "diálogo uid000c0d8a + diálogo uid0110030a"
+},
+{
+"id": 22212,
+"en": "When playing against the house, you will guess either odd or even. Guess right, and you win twice the amount of chips you bet.\nYou can roll up to five times.",
+"ctx": "diálogo uid000c0d8a"
+},
+{
+"id": 22213,
+"en": "Some of the other players might be on a roll. Others may be on a terrible losing streak, or having just average luck.",
+"ctx": "diálogo uid000c0d8a"
+},
+{
+"id": 22214,
+"en": "If you can identify who has a hot hand, you can tag along with your bets. However, luck never holds⑬a steady winner may suddenly turn stone cold.",
+"ctx": "diálogo uid000c0d8a"
+},
+{
+"id": 22215,
+"en": "Hey, now. If you want to play <Color:8>cee-lo<Color:Default>, you'll be needing more wooden tags.",
+"ctx": "diálogo uid000c0d8b"
+},
+{
+"id": 22216,
+"en": "The minimum bet is ten tags. You can play after you buy some more wooden tags.",
+"ctx": "diálogo uid000c0d8b"
+},
+{
+"id": 22217,
+"en": "How about some <Color:8>cee-lo<Color:Default>? Can I interest you in a game?",
+"ctx": "diálogo uid000c0d8b"
+},
+{
+"id": 22218,
+"en": "Uncle Kaz! See if you can <Color:8>win 1,000 points or more at cee-lo<Color:Default>. I like seeing you win.",
+"ctx": "diálogo uid000c0d8b"
+},
+{
+"id": 22219,
+"en": "(Haruka wants me to <Color:8>win 1,000 points or more at cee-lo<Color:Default>.)",
+"ctx": "diálogo uid000c0d8b"
+},
+{
+"id": 22220,
+"en": "No? Roll with us some other time, then.",
+"ctx": "diálogo uid000c0d8b"
+},
+{
+"id": 22221,
+"en": "Yeah? You're in?",
+"ctx": "diálogo uid000c0d8b"
+},
+{
+"id": 22222,
+"en": "Come on over here then.",
+"ctx": "diálogo uid000c0d8b"
+},
+{
+"id": 22223,
+"en": "No? Another time, then.",
+"ctx": "diálogo uid000c0d8b"
+},
+{
+"id": 22224,
+"en": "Come on over here, then.",
+"ctx": "diálogo uid000c0d8b"
+},
+{
+"id": 22225,
+"en": "Having ice cream while toasty in a kotatsu... That's decadence you can only enjoy in winter.",
+"ctx": "diálogo uid000c0d8c"
+},
+{
+"id": 22226,
+"en": "I know exactly where you're comin' from. There's a sense of guilty pleasure that makes it even sweeter.",
+"ctx": "diálogo uid000c0d8c"
+},
+{
+"id": 22227,
+"en": "One of these days, we're gonna speed around in a flashy, roarin' muscle car, babe.",
+"ctx": "diálogo uid000c0d8e"
+},
+{
+"id": 22228,
+"en": "If we're going to get married and have kids, a minivan's the ideal choice. We want a boy and a girl, right?",
+"ctx": "diálogo uid000c0d8e"
+},
+{
+"id": 22229,
+"en": "That dress will look good on you. Get your boyfriend to buy it!",
+"ctx": "diálogo uid000c0d90"
+},
+{
+"id": 22230,
+"en": "You think so? But I can't expect him to come up with this kind of money. Maybe I'll ask sugar daddy number three...",
+"ctx": "diálogo uid000c0d90"
+},
+{
+"id": 22231,
+"en": "Three? Wow, you're something else.",
+"ctx": "diálogo uid000c0d90"
+},
+{
+"id": 22232,
+"en": "Change your mind, Suzuki-san? Come on, let's go out and do some sea fishing.",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22233,
+"en": "That could be fun. I'm up for some fishing as long as you've got room. Can you spare a fishing rod and some bait?",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22234,
+"en": "You got <Color:8>Mentaiko Bun<Color:Default>.",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22235,
+"en": "Whoops. I've got three pieces of bait to give you, but it doesn't look like you have space for them.",
+"ctx": "diálogo uid000c0d9c"
+}
+]

@@ -1,0 +1,77 @@
+{
+ "textura": "pausepar_pause_en/item/treasure_map4_unite_l",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    17,
+    226,
+    502,
+    252
+   ],
+   "en": "How many telephone booths are there in Tsukimino?",
+   "ocr": "How many telephone booths are there in Tsukimino?",
+   "es": "¿Cuántas cabinas telefónicas hay en Tsukimino?",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 461,
+   "color": [
+    45,
+    30,
+    15
+   ],
+   "lama_umbral": 40,
+   "lama_dila": 4
+  },
+  {
+   "caja": [
+    17,
+    252,
+    502,
+    278
+   ],
+   "en": "Each booth counts, even though it may share a roof with another.",
+   "ocr": "Each booth counts, even though it may share a roof with another.",
+   "es": "Cada cabina cuenta, aunque comparta un techo con otra.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 481,
+   "color": [
+    45,
+    30,
+    15
+   ],
+   "lama_umbral": 40,
+   "lama_dila": 4
+  },
+  {
+   "caja": [
+    160,
+    381,
+    374,
+    414
+   ],
+   "en": "State your answer here.",
+   "ocr": "Stateyouranswerhere.",
+   "es": "Indica tu respuesta aquí.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 202,
+   "color": [
+    45,
+    30,
+    15
+   ],
+   "lama_umbral": 40,
+   "lama_dila": 4
+  }
+ ]
+}

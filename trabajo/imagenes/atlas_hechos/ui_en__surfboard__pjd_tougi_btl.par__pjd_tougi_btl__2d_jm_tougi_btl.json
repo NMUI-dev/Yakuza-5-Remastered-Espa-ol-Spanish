@@ -1,0 +1,152 @@
+{
+ "textura": "ui_en/surfboard/pjd_tougi_btl.par/pjd_tougi_btl/2d_jm_tougi_btl",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    64,
+    64,
+    88
+   ],
+   "en": "Attack",
+   "es": "Ataque",
+   "fuente": "segoeui.ttf",
+   "alin": "centro",
+   "ancho_max": 56,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      20,
+      40,
+      30
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "alto": 16
+  },
+  {
+   "caja": [
+    64,
+    64,
+    128,
+    88
+   ],
+   "en": "Defense",
+   "es": "Defensa",
+   "fuente": "segoeui.ttf",
+   "alin": "centro",
+   "ancho_max": 56,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      20,
+      40,
+      30
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "alto": 15
+  },
+  {
+   "caja": [
+    1,
+    88,
+    65,
+    112
+   ],
+   "en": "Team",
+   "es": "Equipo",
+   "fuente": "segoeui.ttf",
+   "alin": "centro",
+   "ancho_max": 56,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      20,
+      40,
+      30
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "alto": 16
+  },
+  {
+   "caja": [
+    65,
+    88,
+    129,
+    112
+   ],
+   "en": "Free",
+   "es": "Libre",
+   "fuente": "segoeui.ttf",
+   "alin": "centro",
+   "ancho_max": 56,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      20,
+      40,
+      30
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "alto": 15
+  }
+ ]
+}

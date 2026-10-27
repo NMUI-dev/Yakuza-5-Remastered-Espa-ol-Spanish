@@ -1,0 +1,2082 @@
+[
+{
+"id": 11650,
+"en": "All Substories Complete!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11651,
+"en": "defeating the Amon Clan and",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11652,
+"en": "completing all the",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11653,
+"en": "substories! Well done!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11654,
+"en": "Restaurants Complete!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11655,
+"en": "completing all restaurants!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11656,
+"en": "Hostess Clubs Complete!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11657,
+"en": "You have won the hearts of",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11658,
+"en": "all the hostesses.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11659,
+"en": "Congratulations!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11660,
+"en": "Kamurocho Lockers Complete!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11661,
+"en": "opening all the coin",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11662,
+"en": "lockers in Kamurocho!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11663,
+"en": "Sotenbori Lockers Complete!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11664,
+"en": "lockers in Sotenbori!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11665,
+"en": "Garbage Pickup Complete!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11666,
+"en": "completing all the garbage",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11667,
+"en": "pickup missions!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11668,
+"en": "Prize Tickets Complete!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11669,
+"en": "completing all the prize",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11670,
+"en": "tickets!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11671,
+"en": "Treasure Hunts Complete!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11672,
+"en": "completing all the treasure",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11673,
+"en": "hunts!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11674,
+"en": "Tourist Spots Complete!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11675,
+"en": "completing all the tourist",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11676,
+"en": "spots!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11677,
+"en": "Exploration Complete!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11678,
+"en": "completing all the city",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11679,
+"en": "exploration tasks!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11680,
+"en": "Equipment Mods Complete!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11681,
+"en": "completing all Kamiyama",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11682,
+"en": "Works modifications!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11683,
+"en": "Heat Actions Complete!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11684,
+"en": "completing all Heat Actions!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11685,
+"en": "Tatsuya Training Complete!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11686,
+"en": "completing all of Tatsuya's",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11687,
+"en": "training!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11688,
+"en": "Minamida Training Complete!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11689,
+"en": "completing IF8!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11690,
+"en": "Sosuke Training Complete!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11691,
+"en": "completing all of Sosuke's",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11692,
+"en": "Tendo Training Complete!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11693,
+"en": "completing all of Tendo's",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11694,
+"en": "Ayanokoji Training Complete!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11695,
+"en": "completing all of",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11696,
+"en": "Ayanokoji's training!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11697,
+"en": "Saigo Training Complete!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11698,
+"en": "completing all of Saigo's",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11699,
+"en": "All Training Complete!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11700,
+"en": "completing training with",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11701,
+"en": "all of the masters!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11702,
+"en": "Well done!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11703,
+"en": "Coliseum Complete!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11704,
+"en": "completing the Coliseum!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11705,
+"en": "Victory Road Complete!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11706,
+"en": "completing Victory Road!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11707,
+"en": "Minigames Complete!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11708,
+"en": "completing all of the",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11709,
+"en": "minigames!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11710,
+"en": "Excellent work!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11711,
+"en": "Ultimate Match Complete!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11712,
+"en": "completing Ultimate",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11713,
+"en": "Match!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11714,
+"en": "To warriors on the warpath",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11715,
+"en": "To those of you looking to",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11716,
+"en": "best a rival, win back the",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11717,
+"en": "girl, or launch a raid",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11718,
+"en": "on an enemy's turf...",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11719,
+"en": "Announcing the opening of",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11720,
+"en": "Kamiyama Works Tsukimino,",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11721,
+"en": "supporting the needs of all",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11722,
+"en": "you warriors out there!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11723,
+"en": "We have a wide range of",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11724,
+"en": "weapons and equipment",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11725,
+"en": "available! Come take a look.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11726,
+"en": "Kamiyama Works Sotenbori,",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11727,
+"en": "Kamiyama Works Kineicho,",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11728,
+"en": "The ultimate weaponry",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11729,
+"en": "The headquarters of Kamiyama",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11730,
+"en": "Works is open for business in Kamurocho!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11731,
+"en": "We're here to meet all your",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11732,
+"en": "needs for the toughest battles.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11733,
+"en": "Want to defeat your rivals?",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11734,
+"en": "Want to beat them to a pulp?",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11735,
+"en": "Come and see what we have",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11736,
+"en": "Yakuza Info Center",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11737,
+"en": "Info",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11738,
+"en": "Thank you for playing the",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11739,
+"en": "TGS demo version of",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11740,
+"en": "Yakuza 5.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11741,
+"en": "This demo allows you to",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11742,
+"en": "try out a range of",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11743,
+"en": "establishments and gameplay.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11744,
+"en": "Note that you can only",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11745,
+"en": "freely explore a limited",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11746,
+"en": "number of areas in this",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11747,
+"en": "Haven't seen you around",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11748,
+"en": "Hey, Shinada! I haven't seen",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11749,
+"en": "you around lately.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11750,
+"en": "You haven't been skipping out",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11751,
+"en": "on your baseball training, have you?",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11752,
+"en": "Listen, come see me at",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11753,
+"en": "the First Shot bar sometime.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11754,
+"en": "Playing any baseball?",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11755,
+"en": "I ran into a guy who was",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11756,
+"en": "looking for you.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11757,
+"en": "He wanted to talk baseball",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11758,
+"en": "with you.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11759,
+"en": "Word is you can contact",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11760,
+"en": "him through the batting",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11761,
+"en": "center. Talk to the staff",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11762,
+"en": "there. They should know.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11763,
+"en": "Kiryu Side Story Complete!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11764,
+"en": "completing your Side Story!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11765,
+"en": "Saejima Side Story Complete!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11766,
+"en": "Haruka Side Story Complete!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11767,
+"en": "Shinada Side Story Complete!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11768,
+"en": "New baseball gear",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11769,
+"en": "At the bar, they were saying",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11770,
+"en": "the pawn shop in Kineicho",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11771,
+"en": "just got in some new",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11772,
+"en": "baseball gear.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11773,
+"en": "Go take a look if you're",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11774,
+"en": "Ukai",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11775,
+"en": "Come on over!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11776,
+"en": "Hi there! This is Ukai",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11777,
+"en": "over at the Cochins Cup",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11778,
+"en": "Classic.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11779,
+"en": "I'm hoping you can raise",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11780,
+"en": "the bar for this race,",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11781,
+"en": "We're still at West Honjincho",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11782,
+"en": "Street, so come back",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11783,
+"en": "whenever you want!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11784,
+"en": "Hey, man.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11785,
+"en": "Thanks for the treat",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11786,
+"en": "earlier. I thought I",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11787,
+"en": "should send an email to",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11788,
+"en": "let you know how I felt.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11789,
+"en": "If you ever get fed up, try",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11790,
+"en": "knocking back a few drinks.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11791,
+"en": "Apparently, fighting drunk is",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11792,
+"en": "something else completely.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11793,
+"en": "I'm too young to try it.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11794,
+"en": "Get liquored up and see if",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11795,
+"en": "you can pull off some moves.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11796,
+"en": "Training!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11797,
+"en": "How's the training going,",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11798,
+"en": "I told you to go do some",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11799,
+"en": "fishing at Mid Square, right?",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11800,
+"en": "Once you catch something,",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11801,
+"en": "head to the First Shot bar",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11802,
+"en": "to let me know!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11803,
+"en": "M Store Staff",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11804,
+"en": "M Store Online Opening",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11805,
+"en": "Thank you for using the",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11806,
+"en": "M Store.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11807,
+"en": "We have now started an",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11808,
+"en": "online service that lets",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11809,
+"en": "you order from your phone.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11810,
+"en": "Your order can be shipped to",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11811,
+"en": "your home, or you can pick",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11812,
+"en": "it up at a convenience store.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11813,
+"en": "Give it a try!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 11814,
+"en": "sai,smr",
+"ctx": "menú/texto scenario2"
+},
+{
+"id": 11815,
+"en": "大人数攻撃率UPタイマー",
+"ctx": "menú/texto scenario2"
+},
+{
+"id": 11816,
+"en": "EncountダンスBTLチュートリアル",
+"ctx": "menú/texto scenario2"
+},
+{
+"id": 11817,
+"en": "EncountダンスBTL後",
+"ctx": "menú/texto scenario2"
+},
+{
+"id": 11818,
+"en": "d：BARクレスト付近",
+"ctx": "menú/texto scenario2"
+},
+{
+"id": 11819,
+"en": "d：BARクレスト付近（遥）",
+"ctx": "menú/texto scenario2"
+},
+{
+"id": 11820,
+"en": "d：BARクレスト前２",
+"ctx": "menú/texto scenario2"
+},
+{
+"id": 11821,
+"en": "BAR牛島で話を聞く",
+"ctx": "menú/texto scenario2"
+},
+{
+"id": 11822,
+"en": "d：事故HACT後に鍼灸院到着",
+"ctx": "menú/texto scenario2"
+},
+{
+"id": 11823,
+"en": "d：魔王inc付近",
+"ctx": "menú/texto scenario2"
+},
+{
+"id": 11824,
+"en": "魔王incBTL",
+"ctx": "menú/texto scenario2"
+},
+{
+"id": 11825,
+"en": "魔王incBTL後",
+"ctx": "menú/texto scenario2"
+},
+{
+"id": 11826,
+"en": "魔王inc社長から話を聞く",
+"ctx": "menú/texto scenario2"
+},
+{
+"id": 11827,
+"en": "DREAM-LINE結成",
+"ctx": "menú/texto scenario2"
+},
+{
+"id": 11828,
+"en": "PADVパチンコ確認用",
+"ctx": "menú/texto scenario2"
+},
+{
+"id": 11829,
+"en": "バッティングセンター（EASY）",
+"ctx": "menú/texto scenario2"
+},
+{
+"id": 11830,
+"en": "バッティングセンター（NORMAL）",
+"ctx": "menú/texto scenario2"
+},
+{
+"id": 11831,
+"en": "バッティングセンター（HARD）",
+"ctx": "menú/texto scenario2"
+},
+{
+"id": 11832,
+"en": "バッティングセンター（EX-HARD）",
+"ctx": "menú/texto scenario2"
+},
+{
+"id": 11833,
+"en": "YOKOにプレゼントライブ",
+"ctx": "menú/texto scenario2"
+},
+{
+"id": 11834,
+"en": "IF8ロードバトルタイマー",
+"ctx": "menú/texto scenario2"
+},
+{
+"id": 11835,
+"en": "syh,skg,sog,sdg",
+"ctx": "menú/texto scenario2"
+},
+{
+"id": 11836,
+"en": "テストエンカウント部屋（ADV）",
+"ctx": "menú/texto scenario2"
+},
+{
+"id": 11837,
+"en": "テストエンカウント部屋２（ADV）",
+"ctx": "menú/texto scenario2"
+},
+{
+"id": 11838,
+"en": "Fukubiki",
+"ctx": "menú/texto scenario_state"
+},
+{
+"id": 11839,
+"en": "CoopTEST",
+"ctx": "menú/texto scenario_state"
+},
+{
+"id": 11840,
+"en": "Common",
+"ctx": "menú/texto scenario_state"
+},
+{
+"id": 11841,
+"en": "Battle",
+"ctx": "menú/texto scenario_state"
+},
+{
+"id": 11842,
+"en": "Exp",
+"ctx": "menú/texto scenario_state"
+},
+{
+"id": 11843,
+"en": "Hact",
+"ctx": "menú/texto scenario_state"
+},
+{
+"id": 11844,
+"en": "Colosseum",
+"ctx": "menú/texto scenario_state"
+},
+{
+"id": 11845,
+"en": "Sisyo",
+"ctx": "menú/texto scenario_state"
+},
+{
+"id": 11846,
+"en": "Tenkei",
+"ctx": "menú/texto scenario_state"
+},
+{
+"id": 11847,
+"en": "OnlineShop",
+"ctx": "menú/texto scenario_state"
+},
+{
+"id": 11848,
+"en": "Misc",
+"ctx": "menú/texto scenario_state"
+},
+{
+"id": 11849,
+"en": "Ultimate",
+"ctx": "menú/texto scenario_state + tabla ultimate|CATEGORY"
+},
+{
+"id": 11850,
+"en": "Onedari",
+"ctx": "menú/texto scenario_state"
+},
+{
+"id": 11851,
+"en": "Taiken",
+"ctx": "menú/texto scenario_state"
+},
+{
+"id": 11852,
+"en": "StageBefore",
+"ctx": "menú/texto scenario_state"
+},
+{
+"id": 11853,
+"en": "Stage",
+"ctx": "menú/texto scenario_state"
+},
+{
+"id": 11854,
+"en": "StageOption",
+"ctx": "menú/texto scenario_state"
+},
+{
+"id": 11855,
+"en": "Last",
+"ctx": "menú/texto scenario_state"
+},
+{
+"id": 11856,
+"en": "VictoryRoad人数",
+"ctx": "tabla EncountTable_1|CATEGORY + tabla EncountTable_2|CATEGORY …"
+},
+{
+"id": 11857,
+"en": "スーツヤクザEXP",
+"ctx": "tabla EncountTable_1|CATEGORY + tabla EncountTable_2|CATEGORY …"
+},
+{
+"id": 11858,
+"en": "チンピラEXP",
+"ctx": "tabla EncountTable_1|CATEGORY + tabla EncountTable_2|CATEGORY …"
+},
+{
+"id": 11859,
+"en": "ギャングEXP",
+"ctx": "tabla EncountTable_1|CATEGORY + tabla EncountTable_2|CATEGORY …"
+},
+{
+"id": 11860,
+"en": "ホストEXP",
+"ctx": "tabla EncountTable_1|CATEGORY + tabla EncountTable_2|CATEGORY …"
+},
+{
+"id": 11861,
+"en": "メタルヤクザEXP",
+"ctx": "tabla EncountTable_1|CATEGORY + tabla EncountTable_2|CATEGORY …"
+},
+{
+"id": 11862,
+"en": "スペシャルエンカウンターEXP",
+"ctx": "tabla EncountTable_1|CATEGORY + tabla EncountTable_2|CATEGORY …"
+},
+{
+"id": 11863,
+"en": "ザコEXP",
+"ctx": "tabla EncountTable_1|CATEGORY + tabla EncountTable_2|CATEGORY …"
+},
+{
+"id": 11864,
+"en": "2Shot：G1+G2",
+"ctx": "tabla drive_camera|NAME"
+},
+{
+"id": 11865,
+"en": "2Shot：D+G1",
+"ctx": "tabla drive_camera|NAME"
+},
+{
+"id": 11866,
+"en": "2Shot：D+G1口元",
+"ctx": "tabla drive_camera|NAME"
+},
+{
+"id": 11867,
+"en": "2Shot：D+G2",
+"ctx": "tabla drive_camera|NAME"
+},
+{
+"id": 11868,
+"en": "3Shot",
+"ctx": "tabla drive_camera|NAME"
+},
+{
+"id": 11869,
+"en": "TALK01窓の外を見る古道",
+"ctx": "tabla drive_camera|NAME"
+},
+{
+"id": 11870,
+"en": "Perfect Service",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11871,
+"en": "Good Service",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11872,
+"en": "Bad Service",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11873,
+"en": "Passenger Ignored",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11874,
+"en": "Perfect Service 2",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11875,
+"en": "Good Service 2",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11876,
+"en": "Bad Service 2",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11877,
+"en": "Passenger Ignored 2",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11878,
+"en": "Very Happy (Speed)",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11879,
+"en": "Happy (Speed)",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11880,
+"en": "Unhappy (Speed)",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11881,
+"en": "Very Happy (Safety)",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11882,
+"en": "Happy (Safety)",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11883,
+"en": "Unhappy (Safety)",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11884,
+"en": "Repositioning",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11885,
+"en": "Sudden Acceleration",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11886,
+"en": "Sudden Braking",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11887,
+"en": "Sudden Swerve",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11888,
+"en": "Leaving the Road",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11889,
+"en": "Contact",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11890,
+"en": "Pedestrian Warning",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11891,
+"en": "Driving Wrong Way",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11892,
+"en": "Turning With Signal",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11893,
+"en": "Turning Without Signal",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11894,
+"en": "Unnecessary Signal",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11895,
+"en": "Coming to Full Stop",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11896,
+"en": "Failure to Stop",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11897,
+"en": "Stopping at Red Light",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11898,
+"en": "Ignoring Traffic Light",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11899,
+"en": "Avoiding Sudden Hazard",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11900,
+"en": "20 Sec. Safe Driving",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11901,
+"en": "No Repositioning",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11902,
+"en": "Quick Arrival",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11903,
+"en": "Early Arrival",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11904,
+"en": "On-Time Arrival",
+"ctx": "tabla drive_city_redpen|ACTION"
+},
+{
+"id": 11905,
+"en": "Devil Killer Watanabe",
+"ctx": "tabla drive_rival|NAME"
+},
+{
+"id": 11906,
+"en": "Koji Kiyokawa",
+"ctx": "tabla drive_rival|NAME"
+},
+{
+"id": 11907,
+"en": "Tomoaki Muramatsu",
+"ctx": "tabla drive_rival|NAME"
+},
+{
+"id": 11908,
+"en": "Cool Yoshimi",
+"ctx": "tabla drive_rival|NAME"
+},
+{
+"id": 11909,
+"en": "Gentle Nakamura",
+"ctx": "tabla drive_rival|NAME"
+},
+{
+"id": 11910,
+"en": "Devil Takamura",
+"ctx": "tabla drive_rival|NAME"
+},
+{
+"id": 11911,
+"en": "Yuzo Wada",
+"ctx": "tabla drive_rival|NAME"
+},
+{
+"id": 11912,
+"en": "Toru Onisaka",
+"ctx": "tabla drive_rival|NAME"
+},
+{
+"id": 11913,
+"en": "Eitatsu Furumichi",
+"ctx": "tabla drive_rival|NAME"
+},
+{
+"id": 11914,
+"en": "Pursuers",
+"ctx": "tabla drive_rival|NAME"
+},
+{
+"id": 11915,
+"en": "Abductor",
+"ctx": "tabla drive_rival|NAME"
+},
+{
+"id": 11916,
+"en": "Spangled Meteor",
+"ctx": "tabla drive_rival|NAME"
+},
+{
+"id": 11917,
+"en": "Gofer",
+"ctx": "tabla drive_rival|NICK_NAME"
+},
+{
+"id": 11918,
+"en": "Loose Cannon",
+"ctx": "tabla drive_rival|NICK_NAME"
+},
+{
+"id": 11919,
+"en": "Undutiful Son",
+"ctx": "tabla drive_rival|NICK_NAME"
+},
+{
+"id": 11920,
+"en": "Brutal Devil Killer",
+"ctx": "tabla drive_rival|NICK_NAME"
+},
+{
+"id": 11921,
+"en": "Taxi Racer",
+"ctx": "tabla drive_rival|NICK_NAME"
+},
+{
+"id": 11922,
+"en": "Brainy Devil Killer",
+"ctx": "tabla drive_rival|NICK_NAME"
+},
+{
+"id": 11923,
+"en": "No. 2 Devil Killer",
+"ctx": "tabla drive_rival|NICK_NAME"
+},
+{
+"id": 11924,
+"en": "Devil Killers Leader",
+"ctx": "tabla drive_rival|NICK_NAME"
+},
+{
+"id": 11925,
+"en": "Musketeer?",
+"ctx": "tabla drive_rival|NICK_NAME"
+},
+{
+"id": 11926,
+"en": "Legendary Racer",
+"ctx": "tabla drive_rival|NICK_NAME"
+},
+{
+"id": 11927,
+"en": "Musketeer",
+"ctx": "tabla drive_rival|NICK_NAME"
+},
+{
+"id": 11928,
+"en": "Coutand Security",
+"ctx": "tabla drive_rival|NICK_NAME"
+},
+{
+"id": 11929,
+"en": "Nagasu Dealer",
+"ctx": "tabla drive_rival|NICK_NAME"
+},
+{
+"id": 11930,
+"en": "Nagasugai Crook",
+"ctx": "tabla drive_rival|NICK_NAME"
+},
+{
+"id": 11931,
+"en": "Vixen Zeroes Leader",
+"ctx": "tabla drive_rival|NICK_NAME"
+},
+{
+"id": 11932,
+"en": "TEXT+PICT",
+"ctx": "tabla drive_tutorial|TYPE"
+},
+{
+"id": 11933,
+"en": "Talking To Clients",
+"ctx": "tabla drive_tutorial|TITLE"
+},
+{
+"id": 11934,
+"en": "Driving Tips",
+"ctx": "tabla drive_tutorial|TITLE"
+},
+{
+"id": 11935,
+"en": "Turbo Boosts",
+"ctx": "tabla drive_tutorial|TITLE"
+},
+{
+"id": 11936,
+"en": "Racing Heat Actions",
+"ctx": "tabla drive_tutorial|TITLE"
+},
+{
+"id": 11937,
+"en": "Accelerating",
+"ctx": "tabla drive_tutorial|TITLE"
+},
+{
+"id": 11938,
+"en": "Red Lights and Braking",
+"ctx": "tabla drive_tutorial|TITLE"
+},
+{
+"id": 11939,
+"en": "Traffic Lights",
+"ctx": "tabla drive_tutorial|TITLE"
+},
+{
+"id": 11940,
+"en": "No Entry Areas",
+"ctx": "tabla drive_tutorial|TITLE"
+},
+{
+"id": 11941,
+"en": "Drifting",
+"ctx": "tabla drive_tutorial|TITLE"
+},
+{
+"id": 11942,
+"en": "Destinations",
+"ctx": "tabla drive_tutorial|TITLE"
+},
+{
+"id": 11943,
+"en": "Stopping",
+"ctx": "tabla drive_tutorial|TITLE"
+},
+{
+"id": 11944,
+"en": "Signaling",
+"ctx": "tabla drive_tutorial|TITLE"
+},
+{
+"id": 11945,
+"en": "Pursuit Missions",
+"ctx": "tabla drive_tutorial|TITLE"
+},
+{
+"id": 11946,
+"en": "Escape Missions",
+"ctx": "tabla drive_tutorial|TITLE"
+},
+{
+"id": 11947,
+"en": "Hauling a Food Stall",
+"ctx": "tabla drive_tutorial|TITLE"
+},
+{
+"id": 11948,
+"en": "Free Races and Free Driving",
+"ctx": "tabla drive_tutorial|TITLE"
+},
+{
+"id": 11949,
+"en": "Sometimes while driving a passenger, they may strike up a conversation with you. Press <Action:Button_Circle@Drive_Taxi>, <Action:Button_Triangle@Drive_Taxi>, or <Action:Button_Square@Drive_Taxi> to answer them. If you select the answer that best fits the situation, the passenger will have a better impression of you. The icon at the top right of the screen indicates how the passenger feels about you at the current moment.",
+"ctx": "tabla drive_tutorial|TEXT"
+},
+{
+"id": 11950,
+"en": "\nSometimes while driving, you will see penalties appear on the right side of the screen. The following are subject to penalties and affect the passenger's impression of you, so drive carefully:\n-Sudden acceleration　　　-Rule violations (stop signs) \n-Sudden hazards　　　　　　-Leaving the road\n-Sudden braking　　　　　　-Ignoring red lights\n-Driving the wrong way　　　-Striking an object\n-Sudden swerving　　　　　-Turning without signaling",
+"ctx": "tabla drive_tutorial|TEXT"
+},
+{
+"id": 11951,
+"en": "When the blue gauge to the left of the speedometer fills up, you can press <Action:Button_Cross@Drive_Race> to use your turbo boost. Turbo power builds up gradually over time. While using turbo boosts, you can accelerate beyond the usual limit, so time your boosts appropriately.",
+"ctx": "tabla drive_tutorial|TEXT"
+},
+{
+"id": 11952,
+"en": "Sometimes an icon like the one above will appear on the screen. This means you have a chance to trigger a Racing Heat Action. These can be triggered on blue sections in the map on the lower left. There are a variety of Racing Heat Actions that are triggered in different ways. Use them well to gain the upper hand. <Action:Button_R2@Drive_Race> appears when a Racing Heat Action is about to end. Your speed will drop unless you keep holding down the button, so take care.",
+"ctx": "tabla drive_tutorial|TEXT"
+},
+{
+"id": 11953,
+"en": "You can drive forward using <Action:Button_R2@Drive_Taxi>. If you press it too quickly you will accelerate suddenly, upsetting your passengers, so take it easy when accelerating.",
+"ctx": "tabla drive_tutorial|TEXT"
+},
+{
+"id": 11954,
+"en": "You must stop at red lights. If you drive through one, you will suffer a heavy penalty. Use <Action:Button_L2@Drive_Taxi> to brake. Just like with the accelerator, if you press it too quickly, you will brake suddenly and upset your passengers. It is best to slow down as gradually as you can before stopping.",
+"ctx": "tabla drive_tutorial|TEXT"
+},
+{
+"id": 11955,
+"en": "You must stop at red lights. If you drive through one, you will suffer a heavy penalty.",
+"ctx": "tabla drive_tutorial|TEXT"
+},
+{
+"id": 11956,
+"en": "<Sign:8> marks indicate that no entry is allowed. You cannot drive your car into these areas. If you attempt to enter them, your position will be reset, and you will suffer a heavy penalty.",
+"ctx": "tabla drive_tutorial|TEXT"
+},
+{
+"id": 11957,
+"en": "Hold <Action:Button_LS_Left@Drive_Race> or <Action:Button_LS_Right@Drive_Race> while holding down <Action:Button_Circle@Drive_Race> to drift. You will continue to drift while <Action:Button_Circle> is held down, so use this skillfully to take corners quicker. If you drift for a set amount of time, you will receive a speed boost after you finish drifting.",
+"ctx": "tabla drive_tutorial|TEXT"
+},
+{
+"id": 11958,
+"en": "When your destination appears on the screen, stop on top of it. Take care not to drive past it.",
+"ctx": "tabla drive_tutorial|TEXT"
+},
+{
+"id": 11959,
+"en": "You must come to a full stop wherever there are stop markings on the road. Drive safely to improve your passenger's impression of you.",
+"ctx": "tabla drive_tutorial|TEXT"
+},
+{
+"id": 11960,
+"en": "When turning left or right, you should signal first. Use <Action:Button_DPad_Left@Drive_Taxi> when turning left, and <Action:Button_DPad_Right@Drive_Taxi> when turning right. You receive points for signaling when turning, so be sure not to forget.",
+"ctx": "tabla drive_tutorial|TEXT"
+},
+{
+"id": 11961,
+"en": "You must come to a full stop wherever there are stop markings on the road. Drive safely to improve your customer's impression of you. Use <Action:Button_L2@Drive_Taxi> to brake. Just like with the accelerator, if you press it too quickly, you will brake suddenly and upset your passengers. It is best to slow down as gradually as you can before stopping.",
+"ctx": "tabla drive_tutorial|TEXT"
+},
+{
+"id": 11962,
+"en": "Victory Conditions:\nUnlike regular races, you win this race by overtaking the other car within the time limit.\n\nLoss Conditions:\nYou lose if time runs out or if the other car gets too far ahead.",
+"ctx": "tabla drive_tutorial|TEXT"
+},
+{
+"id": 11963,
+"en": "Victory Conditions:\nYou win if you aren't overtaken within the time limit.\n\nLoss Conditions:\nYou lose if the other car overtakes you even once.",
+"ctx": "tabla drive_tutorial|TEXT"
+},
+{
+"id": 11964,
+"en": "Haul the food stall to the goal. Unlike regular taxi missions, there are no penalties for:\n\n-Sudden acceleration\n-Sudden braking\n-Sudden swerving\n-Turning without signaling\n\nBecause there is no conversation, you also won't receive bonus points for choosing answers. You will be able to focus on getting the food stall to the goal safely.",
+"ctx": "tabla drive_tutorial|TEXT"
+},
+{
+"id": 11965,
+"en": "You are free to drive where you like.\n\nWhen you want to go back, press the <Action:Button_Touchpad@Drive_Race> button followed by <Action:Button_Triangle@UI> button to return to the office.",
+"ctx": "tabla drive_tutorial|TEXT"
+},
+{
+"id": 11966,
+"en": "<Action:Button_R2@Drive_Taxi>: Accelerate",
+"ctx": "tabla drive_tutorial|BUTTON"
+},
+{
+"id": 11967,
+"en": "<Action:Button_L2@Drive_Taxi>: Brake",
+"ctx": "tabla drive_tutorial|BUTTON"
+},
+{
+"id": 11968,
+"en": "<Action:Button_DPad_Left@Drive_Taxi><Action:Button_DPad_Right@Drive_Taxi>: Directional Signals",
+"ctx": "tabla drive_tutorial|BUTTON"
+},
+{
+"id": 11969,
+"en": "Huff... Huff...",
+"ctx": "tabla response_chase|POPUP"
+},
+{
+"id": 11970,
+"en": "Augh!",
+"ctx": "tabla response_chase|POPUP + diálogo uid010c0699"
+},
+{
+"id": 11971,
+"en": "Wait! Saejima!",
+"ctx": "tabla response_chase|POPUP"
+},
+{
+"id": 11972,
+"en": "Stop!",
+"ctx": "tabla response_chase|POPUP + diálogo uid01460037 …"
+},
+{
+"id": 11973,
+"en": "Dammit! Ugh...",
+"ctx": "tabla response_chase|POPUP"
+},
+{
+"id": 11974,
+"en": "Ow!",
+"ctx": "tabla response_chase|POPUP + diálogo uid004900ab …"
+},
+{
+"id": 11975,
+"en": "Hey, wait!",
+"ctx": "tabla response_chase|POPUP + diálogo uid01020d63 …"
+},
+{
+"id": 11976,
+"en": "Santa, wait!",
+"ctx": "tabla response_chase|POPUP"
+},
+{
+"id": 11977,
+"en": "Santa!",
+"ctx": "tabla response_chase|POPUP"
+},
+{
+"id": 11978,
+"en": "Whee!",
+"ctx": "tabla response_chase|POPUP + frase de acompañante/calle STID_ST_SAPPORO"
+},
+{
+"id": 11979,
+"en": "Grah!",
+"ctx": "tabla response_chase|POPUP"
+},
+{
+"id": 11980,
+"en": "Leave me alone!",
+"ctx": "tabla response_chase|POPUP"
+},
+{
+"id": 11981,
+"en": "That hurt!",
+"ctx": "tabla response_chase|POPUP"
+},
+{
+"id": 11982,
+"en": "Ugh!",
+"ctx": "tabla response_chase|POPUP + diálogo uid01020432 …"
+},
+{
+"id": 11983,
+"en": "Oof!",
+"ctx": "tabla response_chase|POPUP + diálogo uid010c0818"
+},
+{
+"id": 11984,
+"en": "Hah!",
+"ctx": "tabla response_chase|POPUP + frase de acompañante/calle STID_ST_KAMURO"
+},
+{
+"id": 11985,
+"en": "Hup!",
+"ctx": "tabla response_chase|POPUP"
+},
+{
+"id": 11986,
+"en": "Come on!",
+"ctx": "tabla response_chase|POPUP + tabla response_roulette|POPUP …"
+},
+{
+"id": 11987,
+"en": "Gah!",
+"ctx": "tabla response_chase|POPUP + diálogo uid010c0a70 …"
+},
+{
+"id": 11988,
+"en": "Hey there.",
+"ctx": "tabla response_roulette|POPUP + diálogo uid0002064f …"
+},
+{
+"id": 11989,
+"en": "Let's play.",
+"ctx": "tabla response_roulette|POPUP"
+},
+{
+"id": 11990,
+"en": "Oh, yeah!",
+"ctx": "tabla response_roulette|POPUP"
+},
+{
+"id": 11991,
+"en": "I won.",
+"ctx": "tabla response_roulette|POPUP + diálogo uid0107096a …"
+},
+{
+"id": 11992,
+"en": "Lost that one.",
+"ctx": "tabla response_roulette|POPUP"
+},
+{
+"id": 11993,
+"en": "Sitting this one out.",
+"ctx": "tabla response_roulette|POPUP"
+},
+{
+"id": 11994,
+"en": "This is a sure bet!",
+"ctx": "tabla response_roulette|POPUP"
+},
+{
+"id": 11995,
+"en": "I'll go with this!",
+"ctx": "tabla response_roulette|POPUP"
+},
+{
+"id": 11996,
+"en": "Hello.",
+"ctx": "tabla response_roulette|POPUP + menú/texto ai_popup …"
+},
+{
+"id": 11997,
+"en": "I lost...",
+"ctx": "tabla response_roulette|POPUP + menú/texto ai_popup …"
+},
+{
+"id": 11998,
+"en": "Here's my bet.",
+"ctx": "tabla response_roulette|POPUP"
+},
+{
+"id": 11999,
+"en": "How about this?",
+"ctx": "tabla response_roulette|POPUP"
+},
+{
+"id": 12000,
+"en": "Here goes!",
+"ctx": "tabla response_roulette|POPUP"
+},
+{
+"id": 12001,
+"en": "Time to spin!",
+"ctx": "tabla response_roulette|POPUP"
+},
+{
+"id": 12002,
+"en": "That's quite a bet, <!--Name-->-san.",
+"ctx": "tabla response_roulette|POPUP"
+},
+{
+"id": 12003,
+"en": "You should try again, <!--Name-->-san.",
+"ctx": "tabla response_roulette|POPUP"
+},
+{
+"id": 12004,
+"en": "Wassup!",
+"ctx": "tabla response_roulette|POPUP"
+},
+{
+"id": 12005,
+"en": "I'm outta here.",
+"ctx": "tabla response_roulette|POPUP"
+},
+{
+"id": 12006,
+"en": "Game on!",
+"ctx": "tabla response_roulette|POPUP + diálogo uid01100305 …"
+},
+{
+"id": 12007,
+"en": "Booyah!",
+"ctx": "tabla response_roulette|POPUP"
+},
+{
+"id": 12008,
+"en": "I won, man!",
+"ctx": "tabla response_roulette|POPUP"
+},
+{
+"id": 12009,
+"en": "Man, I lost...",
+"ctx": "tabla response_roulette|POPUP"
+},
+{
+"id": 12010,
+"en": "Meh...",
+"ctx": "tabla response_roulette|POPUP"
+},
+{
+"id": 12011,
+"en": "Right here!",
+"ctx": "tabla response_roulette|POPUP + menú/texto ai_popup"
+},
+{
+"id": 12012,
+"en": "I'm going with this.",
+"ctx": "tabla response_roulette|POPUP"
+},
+{
+"id": 12013,
+"en": "Shall we begin?",
+"ctx": "tabla response_roulette|POPUP + diálogo uid000211d4 …"
+},
+{
+"id": 12014,
+"en": "Here we go.",
+"ctx": "tabla response_roulette|POPUP"
+},
+{
+"id": 12015,
+"en": "Victory!",
+"ctx": "tabla response_roulette|POPUP"
+},
+{
+"id": 12016,
+"en": "Defeat...",
+"ctx": "tabla response_roulette|POPUP"
+},
+{
+"id": 12017,
+"en": "I'll sit this one out.",
+"ctx": "tabla response_roulette|POPUP"
+},
+{
+"id": 12018,
+"en": "This is the one!",
+"ctx": "tabla response_roulette|POPUP"
+},
+{
+"id": 12019,
+"en": "Here's my wager.",
+"ctx": "tabla response_roulette|POPUP"
+},
+{
+"id": 12020,
+"en": "Let's get started.",
+"ctx": "tabla response_roulette|POPUP + diálogo uid0107095d …"
+},
+{
+"id": 12021,
+"en": "Okay, let's go.",
+"ctx": "tabla response_roulette|POPUP + diálogo uid0013033b"
+},
+{
+"id": 12022,
+"en": "That's how it goes.",
+"ctx": "tabla response_roulette|POPUP"
+},
+{
+"id": 12023,
+"en": "What the...?",
+"ctx": "tabla response_roulette|POPUP"
+},
+{
+"id": 12024,
+"en": "Now, here's my bet.",
+"ctx": "tabla response_roulette|POPUP"
+},
+{
+"id": 12025,
+"en": "This game's on!",
+"ctx": "tabla response_roulette|POPUP"
+},
+{
+"id": 12026,
+"en": "Let's play!",
+"ctx": "tabla response_roulette|POPUP"
+},
+{
+"id": 12027,
+"en": "I'm leaving!",
+"ctx": "tabla response_roulette|POPUP"
+},
+{
+"id": 12028,
+"en": "Boo!",
+"ctx": "tabla response_roulette|POPUP + frase de acompañante/calle STID_ST_KAMURO"
+},
+{
+"id": 12029,
+"en": "I'll bet next time.",
+"ctx": "tabla response_roulette|POPUP"
+},
+{
+"id": 12030,
+"en": "That should do it.",
+"ctx": "tabla response_roulette|POPUP"
+},
+{
+"id": 12031,
+"en": "Sawamura",
+"ctx": "tabla roulette_npc|LAST_NAME"
+},
+{
+"id": 12032,
+"en": "Kid",
+"ctx": "tabla roulette_npc|LAST_NAME"
+},
+{
+"id": 12033,
+"en": "Kameda",
+"ctx": "tabla roulette_npc|LAST_NAME"
+},
+{
+"id": 12034,
+"en": "Mitsushita",
+"ctx": "tabla roulette_npc|LAST_NAME"
+},
+{
+"id": 12035,
+"en": "Nakata",
+"ctx": "tabla roulette_npc|LAST_NAME"
+},
+{
+"id": 12036,
+"en": "Kazuma",
+"ctx": "tabla roulette_npc|FIRST_NAME"
+},
+{
+"id": 12037,
+"en": "Shun",
+"ctx": "tabla roulette_npc|FIRST_NAME"
+},
+{
+"id": 12038,
+"en": "Taiga",
+"ctx": "tabla roulette_npc|FIRST_NAME"
+},
+{
+"id": 12039,
+"en": "Tatsuo",
+"ctx": "tabla roulette_npc|FIRST_NAME"
+},
+{
+"id": 12040,
+"en": "Dealer",
+"ctx": "tabla roulette_npc|FIRST_NAME"
+},
+{
+"id": 12041,
+"en": "Kyuta",
+"ctx": "tabla roulette_npc|FIRST_NAME"
+},
+{
+"id": 12042,
+"en": "Tsuruji",
+"ctx": "tabla roulette_npc|FIRST_NAME"
+},
+{
+"id": 12043,
+"en": "Tsuneo",
+"ctx": "tabla roulette_npc|FIRST_NAME"
+},
+{
+"id": 12044,
+"en": "Kyami",
+"ctx": "tabla roulette_npc|FIRST_NAME"
+},
+{
+"id": 12045,
+"en": "Taichi Suzuki",
+"ctx": "tabla tenkei_blog|PROFILE"
+},
+{
+"id": 12046,
+"en": "Anonymous",
+"ctx": "tabla tenkei_blog|PROFILE"
+},
+{
+"id": 12047,
+"en": "<Sign:0>入力でメールを閲覧できます。",
+"ctx": "tabla tenkei_blog|EXP"
+},
+{
+"id": 12048,
+"en": "<Sign:0>入力で彫り物を閲覧できます。",
+"ctx": "tabla tenkei_blog|EXP"
+},
+{
+"id": 12049,
+"en": "What a revelation!",
+"ctx": "tabla tenkei_blog|TITLE"
+},
+{
+"id": 12050,
+"en": "Pushin' it too hard",
+"ctx": "tabla tenkei_blog|TITLE"
+},
+{
+"id": 12051,
+"en": "Sotenbori Madonna",
+"ctx": "tabla tenkei_blog|TITLE"
+},
+{
+"id": 12052,
+"en": "A poor imitation",
+"ctx": "tabla tenkei_blog|TITLE"
+},
+{
+"id": 12053,
+"en": "A major contender!",
+"ctx": "tabla tenkei_blog|TITLE"
+},
+{
+"id": 12054,
+"en": "Taken at a taxi stand in Nagasugai. This shot shows a taxi driver helping out a girl being chased by a stalker. The driver looked like an odd character, but he sure saved the day.",
+"ctx": "tabla tenkei_blog|TEXT"
+},
+{
+"id": 12055,
+"en": "Street performers gotta have all kinds of acts, like breathing fire and throwing knives. How'd this guy get invited to the snow festival anyway? He's gotta go train or come up with ideas or something like that.",
+"ctx": "tabla tenkei_blog|TEXT"
+},
+{
+"id": 12056,
+"en": "Here's Ulala-san showing off an amazing move. She was saying she's from a town near Sotenbori. It's pretty impressive how she can pull off something that dramatic.",
+"ctx": "tabla tenkei_blog|TEXT"
+},
+{
+"id": 12057,
+"en": "These guys got their just desserts for using dirty tricks against a rival. Business needs to be fair. Restaurants should compete on flavor alone. I feel sorry for the staff forced to follow orders like that, though.",
+"ctx": "tabla tenkei_blog|TEXT"
+},
+{
+"id": 12058,
+"en": "I gave him some tips on batting, but I couldn't believe my eyes when I saw this happen! If he can hit a home run like this, maybe he can go pro! Oh, but I guess curveballs are going to be a problem.",
+"ctx": "tabla tenkei_blog|TEXT"
+},
+{
+"id": 12059,
+"en": "Really?",
+"ctx": "tabla tsukkomi|TSUKKOMI + tabla tsukkomi|TSUKKOMI_FULL …"
+},
+{
+"id": 12060,
+"en": "Ya don't say?",
+"ctx": "tabla tsukkomi|TSUKKOMI + tabla tsukkomi|TSUKKOMI_FULL"
+},
+{
+"id": 12061,
+"en": "Wow!",
+"ctx": "tabla tsukkomi|TSUKKOMI + tabla tsukkomi|TSUKKOMI_FULL …"
+},
+{
+"id": 12062,
+"en": "Nice!",
+"ctx": "tabla tsukkomi|TSUKKOMI + tabla tsukkomi|TSUKKOMI_FULL …"
+},
+{
+"id": 12063,
+"en": "That's called getting jumped!",
+"ctx": "tabla tsukkomi|TSUKKOMI + tabla tsukkomi|TSUKKOMI_FULL"
+},
+{
+"id": 12064,
+"en": "I'm on the edge of my seat!",
+"ctx": "tabla tsukkomi|TSUKKOMI + tabla tsukkomi|TSUKKOMI_FULL"
+},
+{
+"id": 12065,
+"en": "More like punching bag!",
+"ctx": "tabla tsukkomi|TSUKKOMI + tabla tsukkomi|TSUKKOMI_FULL"
+}
+]

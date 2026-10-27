@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_pause_en/picture/caption/2d_jm_bc_ss_gyangu",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    167,
+    76,
+    864,
+    179
+   ],
+   "en": "GANG MEMBERS",
+   "ocr": "GANG MEMBERS",
+   "es": "MIEMBROS DE LA PANDILLA",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 693
+  }
+ ]
+}

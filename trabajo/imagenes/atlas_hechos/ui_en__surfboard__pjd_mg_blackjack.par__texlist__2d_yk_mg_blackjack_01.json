@@ -1,0 +1,366 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_blackjack.par/texlist/2d_yk_mg_blackjack_01",
+ "fuente": "times.ttf",
+ "margen": 1,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    48,
+    66,
+    300,
+    92
+   ],
+   "en": "CHIPS",
+   "es": "FICHAS",
+   "fuente": "timesi.ttf",
+   "fondo": "lama",
+   "alin": "izq",
+   "sangria": 16,
+   "alto": 18,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     190,
+     172,
+     95
+    ],
+    "abajo": [
+     150,
+     121,
+     35
+    ],
+    "contorno": [
+     [
+      57,
+      58,
+      49
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "ancho_max": 230
+  },
+  {
+   "caja": [
+    48,
+    94,
+    300,
+    118
+   ],
+   "en": "BET",
+   "es": "APUESTA",
+   "fuente": "timesi.ttf",
+   "fondo": "lama",
+   "alin": "izq",
+   "sangria": 16,
+   "alto": 17,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     190,
+     172,
+     95
+    ],
+    "abajo": [
+     150,
+     121,
+     35
+    ],
+    "contorno": [
+     [
+      57,
+      58,
+      49
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "ancho_max": 230
+  },
+  {
+   "caja": [
+    77,
+    156,
+    230,
+    186
+   ],
+   "en": "DEALER",
+   "es": "",
+   "dejar": true,
+   "nota": "el juego mantiene Dealer"
+  },
+  {
+   "caja": [
+    10,
+    231,
+    161,
+    270
+   ],
+   "en": "BUST!",
+   "es": "¡SE PASÓ!",
+   "fuente": "timesbi.ttf",
+   "alin": "centro",
+   "alto": 33,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     247,
+     113,
+     140
+    ],
+    "abajo": [
+     189,
+     12,
+     16
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     2
+    ],
+    "brillo": null
+   },
+   "ancho_max": 147
+  },
+  {
+   "caja": [
+    168,
+    231,
+    281,
+    270
+   ],
+   "en": "WIN",
+   "es": "GANAS",
+   "fuente": "timesbi.ttf",
+   "alin": "centro",
+   "alto": 33,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     247,
+     101,
+     247
+    ],
+    "abajo": [
+     255,
+     150,
+     255
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     2
+    ],
+    "brillo": null
+   },
+   "ancho_max": 110
+  },
+  {
+   "caja": [
+    12,
+    278,
+    142,
+    318
+   ],
+   "en": "LOSE",
+   "es": "PIERDES",
+   "fuente": "timesbi.ttf",
+   "alin": "centro",
+   "alto": 33,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     90,
+     142,
+     247
+    ],
+    "abajo": [
+     186,
+     199,
+     231
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     2
+    ],
+    "brillo": null
+   },
+   "ancho_max": 127
+  },
+  {
+   "caja": [
+    146,
+    278,
+    304,
+    318
+   ],
+   "en": "DRAW",
+   "es": "EMPATE",
+   "fuente": "timesbi.ttf",
+   "alin": "centro",
+   "alto": 33,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     186,
+     191,
+     206
+    ],
+    "abajo": [
+     241,
+     243,
+     247
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     2
+    ],
+    "brillo": null
+   },
+   "ancho_max": 154
+  },
+  {
+   "caja": [
+    51,
+    380,
+    201,
+    411
+   ],
+   "en": "BET LIMIT",
+   "es": "LÍM. DE APUESTA",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "alin": "centro",
+   "alto": 15,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     247,
+     247,
+     255
+    ],
+    "abajo": [
+     206,
+     199,
+     255
+    ],
+    "contorno": [
+     [
+      167,
+      164,
+      183
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "ancho_max": 144
+  },
+  {
+   "caja": [
+    34,
+    416,
+    100,
+    449
+   ],
+   "en": "MIN",
+   "es": "MÍN",
+   "fuente": "timesbi.ttf",
+   "fondo": "lama",
+   "alin": "izq",
+   "sangria": 3,
+   "alto": 18,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     190,
+     172,
+     95
+    ],
+    "abajo": [
+     150,
+     121,
+     35
+    ],
+    "contorno": [
+     [
+      57,
+      58,
+      49
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "ancho_max": 60
+  },
+  {
+   "caja": [
+    34,
+    446,
+    100,
+    479
+   ],
+   "en": "MAX",
+   "es": "MÁX",
+   "fuente": "timesbi.ttf",
+   "fondo": "lama",
+   "alin": "izq",
+   "sangria": 3,
+   "alto": 18,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     190,
+     172,
+     95
+    ],
+    "abajo": [
+     150,
+     121,
+     35
+    ],
+    "contorno": [
+     [
+      57,
+      58,
+      49
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "ancho_max": 60
+  },
+  {
+   "caja": [
+    349,
+    384,
+    430,
+    410
+   ],
+   "en": "TOTAL",
+   "es": "",
+   "dejar": true,
+   "nota": "TOTAL es igual en español"
+  }
+ ],
+ "ceñido": true
+}

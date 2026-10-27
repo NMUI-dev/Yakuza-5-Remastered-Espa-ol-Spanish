@@ -1,0 +1,3182 @@
+[
+{
+"id": 8837,
+"en": "Grunt 14",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8838,
+"en": "Grunt 15",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8839,
+"en": "Grunt 16",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8840,
+"en": "Grunt 17",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8841,
+"en": "Grunt 18",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8842,
+"en": "Grunt 19",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8843,
+"en": "Grunt 20",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8844,
+"en": "Sub Scenario: The Mysterious Hitter",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8845,
+"en": "Sub Scenario: Help my Daddy",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8846,
+"en": "Sub Scenario: Ex-Professional Coach",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8847,
+"en": "Sub Scenario: Miracle Pitcher Kid 1",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8848,
+"en": "Sub Scenario: Miracle Pitcher Kid 2",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8849,
+"en": "Sub Scenario: Miracle Pitcher Kid 3",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8850,
+"en": "Sub Scenario: How to Use a Bat",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8851,
+"en": "Sub Scenario: Ball Magnet Bancho",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8852,
+"en": "Sub Scenario: Dreams and Reality 1",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8853,
+"en": "Sub Scenario: Dreams and Reality 2",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8854,
+"en": "Sub Scenario: Sake",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8855,
+"en": "Batting Center Challenger Sub Scenario",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8856,
+"en": "Sub Scenario: To Be a First Class Batter",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8857,
+"en": "Sub Scenario: Operation Phobia",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8858,
+"en": "Sub Scenario: Chosen for the Spring Nationals",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8859,
+"en": "Sub Scenario: Working Behind the Scenes",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8860,
+"en": "Sub Scenario: Additional Missions",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8861,
+"en": "Shirakawa: Reunion",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8862,
+"en": "What is 1+2+3+3?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8863,
+"en": "What is (27-7)÷4?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8864,
+"en": "What is 16-3*4?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8865,
+"en": "What is 1+2+7+5-6?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8866,
+"en": "What is (2+19)÷7?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8867,
+"en": "What is 14÷(9-2)?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8868,
+"en": "What is 7*3-12?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8869,
+"en": "What is (13-9)*2?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8870,
+"en": "What is 3*3-2*2*2?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8871,
+"en": "What is 3*2÷6+3?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8872,
+"en": "What is 5-4+6-4+4?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8873,
+"en": "What is 3+2*(3-1)?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8874,
+"en": "What is 1*2+3-4+5?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8875,
+"en": "What is 10÷2+3-4?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8876,
+"en": "What is (1+3)*6÷3",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8877,
+"en": "What is (54-34)÷4?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8878,
+"en": "What is 3+21÷7?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8879,
+"en": "What is 1+2+3-4+5",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8880,
+"en": "What is 2*2*2-5?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8881,
+"en": "What is 4+5+7-12?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8882,
+"en": "What is 2*3*4÷6?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8883,
+"en": "What is 3+24÷3-4?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8884,
+"en": "What is 6*3+4-21?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8885,
+"en": "What is 5+6-7+8-9?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8886,
+"en": "What is 6*2-6÷3-6?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8887,
+"en": "What is 2*3*4-8-7?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8888,
+"en": "What is 67-21-41?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8889,
+"en": "What is (31-27)*2?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8890,
+"en": "What is 58-38-19?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8891,
+"en": "What is 32-9-8-7?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8892,
+"en": "What is 8+14+9-25?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8893,
+"en": "What is 26-125÷5?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8894,
+"en": "What is (9+7+8)÷3?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8895,
+"en": "What is (8+7+9)÷4?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8896,
+"en": "What is 12-4+18-17?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8897,
+"en": "What is 11-4-8+5?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8898,
+"en": "What is 5-3+6+4-7?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8899,
+"en": "What is 3*(14-11)?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8900,
+"en": "What is 4-2+4-5+6?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8901,
+"en": "What is 42÷(13+8)?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8902,
+"en": "What is 24-9-7-6?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8903,
+"en": "What is 28-15-2*6?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8904,
+"en": "What is 15÷(8-3)-1?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8905,
+"en": "What is (4-2)*7÷2?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8906,
+"en": "What is (4+12)÷4?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8907,
+"en": "What is 36-8-7-15?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8908,
+"en": "What is 6+9-8+7-6?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8909,
+"en": "What is 4*4-3*3?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8910,
+"en": "What is 5*5-4*4?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8911,
+"en": "What is 13-8+5-9?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8912,
+"en": "What is 3*3*3-19?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8913,
+"en": "What is 32÷4÷2÷2?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8914,
+"en": "What is 3+4*3-11?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8915,
+"en": "What is 4*(8-6)-3?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8916,
+"en": "What is 3-4+5-6+7?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8917,
+"en": "What is 120÷24-1?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8918,
+"en": "What is 13-7+5-9?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8919,
+"en": "What is 19-6-4*3?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8920,
+"en": "What is 10*7-8*8?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8921,
+"en": "What is 3*5-3*4?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8922,
+"en": "What is 83-48-27?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8923,
+"en": "What is (19+23)÷7?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8924,
+"en": "What is 3*12÷9*2?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8925,
+"en": "What is 4+5*4-3*5?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8926,
+"en": "What is 100-24*4",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8927,
+"en": "What is 48÷8-6÷2?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8928,
+"en": "What is 48-27-13?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8929,
+"en": "What is 48÷(13-7)?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8930,
+"en": "What is 56-34-17?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8931,
+"en": "What is 30-14-8-5?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8932,
+"en": "What is 64-38-24?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8933,
+"en": "What is 36-17-6-9?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8934,
+"en": "What is 9+13-20+3?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8935,
+"en": "What is 54-16-32?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8936,
+"en": "What is 100-23*4?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8937,
+"en": "What is 53-18-26?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8938,
+"en": "What is 54-28-3*8?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8939,
+"en": "What is 120-84-32?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8940,
+"en": "What is 56÷14+2?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8941,
+"en": "What is 6*2÷4-6÷3?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8942,
+"en": "What is 3*4*5÷6-5?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8943,
+"en": "What is 240÷6÷8?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8944,
+"en": "What is 360÷8÷9?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8945,
+"en": "What is 54÷6-27÷9?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8946,
+"en": "What is 42÷3÷2-5?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8947,
+"en": "What is 240÷15÷4?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8948,
+"en": "What is 240÷16-13?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8949,
+"en": "What is 36÷4*2-9?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8950,
+"en": "What is 48÷6*3÷8?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8951,
+"en": "What is 5*5*5-120?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8952,
+"en": "What is 4*4*4-56?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8953,
+"en": "What is 24-6*4+6?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8954,
+"en": "What is 12÷2*6-29?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8955,
+"en": "What is 36÷12*2-2?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8956,
+"en": "What is 60÷2-12*2?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8957,
+"en": "What is 8*2÷4-6÷3?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8958,
+"en": "What is 24÷4*3-15?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8959,
+"en": "What is 6*6*6-211?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8960,
+"en": "What is 7*7-6*6-5?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8961,
+"en": "What is 600÷5÷24?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8962,
+"en": "What is 81-8*8-16?",
+"ctx": "tabla battingkamuro|QUESTION"
+},
+{
+"id": 8963,
+"en": "Yeeeah, baby!",
+"ctx": "tabla bakuto_en|MSG01"
+},
+{
+"id": 8964,
+"en": "Heh...",
+"ctx": "tabla bakuto_en|MSG01 + tabla bakuto_en|MSG04 …"
+},
+{
+"id": 8965,
+"en": "Hehehe.",
+"ctx": "tabla bakuto_en|MSG01 + menú/texto mail …"
+},
+{
+"id": 8966,
+"en": "Yeah baby!",
+"ctx": "tabla bakuto_en|MSG01"
+},
+{
+"id": 8967,
+"en": "Ahahaha!",
+"ctx": "tabla bakuto_en|MSG01 + tabla bakuto_en|MSG04 …"
+},
+{
+"id": 8968,
+"en": "Awww...",
+"ctx": "tabla bakuto_en|MSG02"
+},
+{
+"id": 8969,
+"en": "No way!",
+"ctx": "tabla bakuto_en|MSG02 + menú/texto mail …"
+},
+{
+"id": 8970,
+"en": "Damn it...",
+"ctx": "tabla bakuto_en|MSG02 + diálogo uid000c0ed5 …"
+},
+{
+"id": 8971,
+"en": "That's just great...",
+"ctx": "tabla bakuto_en|MSG02"
+},
+{
+"id": 8972,
+"en": "Hell no!",
+"ctx": "tabla bakuto_en|MSG02"
+},
+{
+"id": 8973,
+"en": "For real!?",
+"ctx": "tabla bakuto_en|MSG02 + diálogo uid01340022"
+},
+{
+"id": 8974,
+"en": "Pretty good!",
+"ctx": "tabla bakuto_en|MSG03"
+},
+{
+"id": 8975,
+"en": "Niiiice!",
+"ctx": "tabla bakuto_en|MSG03"
+},
+{
+"id": 8976,
+"en": "Wow...",
+"ctx": "tabla bakuto_en|MSG03 + menú/texto ai_popup …"
+},
+{
+"id": 8977,
+"en": "Well done.",
+"ctx": "tabla bakuto_en|MSG03"
+},
+{
+"id": 8978,
+"en": "Wow, impressive...",
+"ctx": "tabla bakuto_en|MSG03"
+},
+{
+"id": 8979,
+"en": "Aw...",
+"ctx": "tabla bakuto_en|MSG03 + menú/texto ai_popup"
+},
+{
+"id": 8980,
+"en": "Oh man!",
+"ctx": "tabla bakuto_en|MSG03"
+},
+{
+"id": 8981,
+"en": "Awww yes!",
+"ctx": "tabla bakuto_en|MSG03"
+},
+{
+"id": 8982,
+"en": "Choke!",
+"ctx": "tabla bakuto_en|MSG04"
+},
+{
+"id": 8983,
+"en": "My, my...",
+"ctx": "tabla bakuto_en|MSG04"
+},
+{
+"id": 8984,
+"en": "Don't worry...",
+"ctx": "tabla bakuto_en|MSG04"
+},
+{
+"id": 8985,
+"en": "Lame...",
+"ctx": "tabla bakuto_en|MSG04"
+},
+{
+"id": 8986,
+"en": "No sweat, bro.",
+"ctx": "tabla bakuto_en|MSG04"
+},
+{
+"id": 8987,
+"en": "Whoa...",
+"ctx": "tabla bakuto_en|MSG04 + diálogo uid00160088 …"
+},
+{
+"id": 8988,
+"en": "Gotta be even!",
+"ctx": "tabla bakuto_en|MSG05"
+},
+{
+"id": 8989,
+"en": "Even!",
+"ctx": "tabla bakuto_en|MSG05"
+},
+{
+"id": 8990,
+"en": "Even.",
+"ctx": "tabla bakuto_en|MSG05"
+},
+{
+"id": 8991,
+"en": "E-Even!",
+"ctx": "tabla bakuto_en|MSG05"
+},
+{
+"id": 8992,
+"en": "Bet it's even.",
+"ctx": "tabla bakuto_en|MSG05"
+},
+{
+"id": 8993,
+"en": "Odd, right?",
+"ctx": "tabla bakuto_en|MSG06"
+},
+{
+"id": 8994,
+"en": "Odd!",
+"ctx": "tabla bakuto_en|MSG06"
+},
+{
+"id": 8995,
+"en": "Odd.",
+"ctx": "tabla bakuto_en|MSG06"
+},
+{
+"id": 8996,
+"en": "O-Odd!",
+"ctx": "tabla bakuto_en|MSG06"
+},
+{
+"id": 8997,
+"en": "Bet it's odd.",
+"ctx": "tabla bakuto_en|MSG06"
+},
+{
+"id": 8998,
+"en": "My money's on odd!",
+"ctx": "tabla bakuto_en|MSG06"
+},
+{
+"id": 8999,
+"en": "Scorpionfish",
+"ctx": "tabla fishing_fish|NAME"
+},
+{
+"id": 9000,
+"en": "Grilled Onigiri",
+"ctx": "tabla fishing_item|NAME + tabla fishing_river_item|NAME"
+},
+{
+"id": 9001,
+"en": "Miso Katsu Lunch Set ",
+"ctx": "tabla fishing_item|NAME + tabla fishing_river_item|NAME"
+},
+{
+"id": 9002,
+"en": "Spicy Fish Roe Bun",
+"ctx": "tabla fishing_item|NAME + tabla fishing_river_item|NAME"
+},
+{
+"id": 9003,
+"en": "Mugwort",
+"ctx": "tabla fishing_item|NAME + tabla fishing_river_item|NAME"
+},
+{
+"id": 9004,
+"en": "Limited Millenium Tower Burger",
+"ctx": "tabla fishing_item|NAME + tabla fishing_river_item|NAME"
+},
+{
+"id": 9005,
+"en": "Chicken Wings",
+"ctx": "tabla fishing_item|NAME + tabla fishing_river_item|NAME"
+},
+{
+"id": 9006,
+"en": "Shrimp Tempura Onigiri",
+"ctx": "tabla fishing_item|NAME + tabla fishing_river_item|NAME"
+},
+{
+"id": 9007,
+"en": "Pan-Fried Gyoza Lunch Set",
+"ctx": "tabla fishing_river_item|NAME"
+},
+{
+"id": 9008,
+"en": "Till the end, you'll be by my side\nThat's the promise that you made that day",
+"ctx": "tabla Kimiiru|LIVE_WORD_STR"
+},
+{
+"id": 9009,
+"en": "Me and you, staring at the sky\nAs a solitary cloud pass by",
+"ctx": "tabla Kimiiru|LIVE_WORD_STR"
+},
+{
+"id": 9010,
+"en": "It reminded me of you, that smile I won't forget",
+"ctx": "tabla Kimiiru|LIVE_WORD_STR"
+},
+{
+"id": 9011,
+"en": "Someday soon maybe, I'll finally be\nused to being alone...",
+"ctx": "tabla Kimiiru|LIVE_WORD_STR"
+},
+{
+"id": 9012,
+"en": "But until that day comes,\nI'll spend my time wishing you were here next to me",
+"ctx": "tabla Kimiiru|LIVE_WORD_STR"
+},
+{
+"id": 9013,
+"en": "I'm gonna make it\nStronger than ever before, you'll see",
+"ctx": "tabla Kimiiru|LIVE_WORD_STR"
+},
+{
+"id": 9014,
+"en": "I don't care how long it'll take",
+"ctx": "tabla Kimiiru|LIVE_WORD_STR"
+},
+{
+"id": 9015,
+"en": "I wanna show you\nHow much everything you did means to me",
+"ctx": "tabla Kimiiru|LIVE_WORD_STR"
+},
+{
+"id": 9016,
+"en": "This dream'll come true\nNo matter how hard I have to try",
+"ctx": "tabla Kimiiru|LIVE_WORD_STR"
+},
+{
+"id": 9017,
+"en": "I don't know where you are, but I know you can see",
+"ctx": "tabla Kimiiru|LIVE_WORD_STR"
+},
+{
+"id": 9018,
+"en": "I'm not crying because\nYou're always here in my heart",
+"ctx": "tabla Kimiiru|LIVE_WORD_STR"
+},
+{
+"id": 9019,
+"en": "After the long journey",
+"ctx": "tabla Kimiiru|LIVE_WORD_STR"
+},
+{
+"id": 9020,
+"en": "My dream is finally almost in my reach",
+"ctx": "tabla Kimiiru|LIVE_WORD_STR"
+},
+{
+"id": 9021,
+"en": "Just another few steps\nAnd I'll be there showing you a brand new me",
+"ctx": "tabla Kimiiru|LIVE_WORD_STR"
+},
+{
+"id": 9022,
+"en": "I'm gonna make it\nImpossible as it might seem to be",
+"ctx": "tabla Kimiiru|LIVE_WORD_STR"
+},
+{
+"id": 9023,
+"en": "I can finish what I have to do",
+"ctx": "tabla Kimiiru|LIVE_WORD_STR"
+},
+{
+"id": 9024,
+"en": "Because I have you\nIn my heart supporting my every move",
+"ctx": "tabla Kimiiru|LIVE_WORD_STR"
+},
+{
+"id": 9025,
+"en": "We're not together\nI don't know how far away you are",
+"ctx": "tabla Kimiiru|LIVE_WORD_STR"
+},
+{
+"id": 9026,
+"en": "But there's one thing that keeps me going inside",
+"ctx": "tabla Kimiiru|LIVE_WORD_STR"
+},
+{
+"id": 9027,
+"en": "I'm not lonely because\nYou're always here in my heart",
+"ctx": "tabla Kimiiru|LIVE_WORD_STR"
+},
+{
+"id": 9028,
+"en": "Fading faster than scribbles on the pavement\nShould I just give in?",
+"ctx": "tabla Konnanjanai|LIVE_WORD_STR"
+},
+{
+"id": 9029,
+"en": "\"Is this what you want?\"\n\"Are you good enough?\"",
+"ctx": "tabla Konnanjanai|LIVE_WORD_STR"
+},
+{
+"id": 9030,
+"en": "It's all I see when I look in the mirror\nI can't escape, my own reflection",
+"ctx": "tabla Konnanjanai|LIVE_WORD_STR"
+},
+{
+"id": 9031,
+"en": "When my tears won't dry\nWanna just not even try\nI'll find the strength inside",
+"ctx": "tabla Konnanjanai|LIVE_WORD_STR"
+},
+{
+"id": 9032,
+"en": "Hope is all it takes to remake\nYour dreams into reality",
+"ctx": "tabla Konnanjanai|LIVE_WORD_STR"
+},
+{
+"id": 9033,
+"en": "So don't let it slip away!",
+"ctx": "tabla Konnanjanai|LIVE_WORD_STR"
+},
+{
+"id": 9034,
+"en": "Are you ready? Go!\nIt's your time to show",
+"ctx": "tabla Konnanjanai|LIVE_WORD_STR"
+},
+{
+"id": 9035,
+"en": "That you're so much more than they could know",
+"ctx": "tabla Konnanjanai|LIVE_WORD_STR"
+},
+{
+"id": 9036,
+"en": "Hold your head up high!\nSpread your wings and fly!",
+"ctx": "tabla Konnanjanai|LIVE_WORD_STR"
+},
+{
+"id": 9037,
+"en": "Just a bit of hope and you'll be shining",
+"ctx": "tabla Konnanjanai|LIVE_WORD_STR"
+},
+{
+"id": 9038,
+"en": "It's all up to me!\nJust you wait and see!",
+"ctx": "tabla Konnanjanai|LIVE_WORD_STR"
+},
+{
+"id": 9039,
+"en": "This star is gonna shine so bright it hurts\nAnd I will prove to you",
+"ctx": "tabla Konnanjanai|LIVE_WORD_STR"
+},
+{
+"id": 9040,
+"en": "That I can be, so much more than what you see right now",
+"ctx": "tabla Konnanjanai|LIVE_WORD_STR"
+},
+{
+"id": 9041,
+"en": "Are you on the brink? Want to give it up?\nThen let me start this over from the top!",
+"ctx": "tabla Konnanjanai|LIVE_WORD_STR"
+},
+{
+"id": 9042,
+"en": "You're too young to think, back on what you did",
+"ctx": "tabla Konnanjanai|LIVE_WORD_STR"
+},
+{
+"id": 9043,
+"en": "Questioning your every last decision",
+"ctx": "tabla Konnanjanai|LIVE_WORD_STR"
+},
+{
+"id": 9044,
+"en": "Whenever you fall, just get up and go",
+"ctx": "tabla Konnanjanai|LIVE_WORD_STR"
+},
+{
+"id": 9045,
+"en": "No matter how many times it takes",
+"ctx": "tabla Konnanjanai|LIVE_WORD_STR"
+},
+{
+"id": 9046,
+"en": "Your dream will come true, I promise you\nHold your head up high and run to it",
+"ctx": "tabla Konnanjanai|LIVE_WORD_STR"
+},
+{
+"id": 9047,
+"en": "You just need to believe",
+"ctx": "tabla Konnanjanai|LIVE_WORD_STR"
+},
+{
+"id": 9048,
+"en": "That you can be, so much more than what we see right now",
+"ctx": "tabla Konnanjanai|LIVE_WORD_STR"
+},
+{
+"id": 9049,
+"en": "A bird without wings, can no longer fly\nThat's what your twisted love has turned me into",
+"ctx": "tabla Loneliness|LIVE_WORD_STR"
+},
+{
+"id": 9050,
+"en": "I just can't escape\nAs hard as I try",
+"ctx": "tabla Loneliness|LIVE_WORD_STR"
+},
+{
+"id": 9051,
+"en": "Your smile it cuts me in two, in its sorrow",
+"ctx": "tabla Loneliness|LIVE_WORD_STR"
+},
+{
+"id": 9052,
+"en": "What can I do to change myself\nSo that you'll look at me, like you look at her?",
+"ctx": "tabla Loneliness|LIVE_WORD_STR"
+},
+{
+"id": 9053,
+"en": "What can I do to change the past",
+"ctx": "tabla Loneliness|LIVE_WORD_STR"
+},
+{
+"id": 9054,
+"en": "So that you'll embrace me\nAs tightly as you always used to?",
+"ctx": "tabla Loneliness|LIVE_WORD_STR"
+},
+{
+"id": 9055,
+"en": "Caught up in a loop of loneliness\nNever gonna find my way out",
+"ctx": "tabla Loneliness|LIVE_WORD_STR"
+},
+{
+"id": 9056,
+"en": "I'm trying to catch you in the frame\nBut you keep slipping away",
+"ctx": "tabla Loneliness|LIVE_WORD_STR"
+},
+{
+"id": 9057,
+"en": "Caught up in a loop, pain and regret\njust won't let me find my way out",
+"ctx": "tabla Loneliness|LIVE_WORD_STR"
+},
+{
+"id": 9058,
+"en": "I can't catch myself within the frame\nIt's too painfully blurry",
+"ctx": "tabla Loneliness|LIVE_WORD_STR"
+},
+{
+"id": 9059,
+"en": "The day's gonna come, that these tears I shed\nwill make you look back at what we could have been",
+"ctx": "tabla Loneliness|LIVE_WORD_STR"
+},
+{
+"id": 9060,
+"en": "The day's gonna come, that you finally see\nJust how many wounds that I bear",
+"ctx": "tabla Loneliness|LIVE_WORD_STR"
+},
+{
+"id": 9061,
+"en": "Maki",
+"ctx": "tabla dance_battle|NAME"
+},
+{
+"id": 9062,
+"en": "Mahiro",
+"ctx": "tabla dance_battle|NAME"
+},
+{
+"id": 9063,
+"en": "Nori",
+"ctx": "tabla dance_battle|NAME"
+},
+{
+"id": 9064,
+"en": "Mikoto",
+"ctx": "tabla dance_battle|NAME"
+},
+{
+"id": 9065,
+"en": "Wakana",
+"ctx": "tabla dance_battle|NAME"
+},
+{
+"id": 9066,
+"en": "Aya",
+"ctx": "tabla dance_battle|NAME"
+},
+{
+"id": 9067,
+"en": "Nanase",
+"ctx": "tabla dance_battle|NAME"
+},
+{
+"id": 9068,
+"en": "Tomoka",
+"ctx": "tabla dance_battle|NAME"
+},
+{
+"id": 9069,
+"en": "Momoko",
+"ctx": "tabla dance_battle|NAME"
+},
+{
+"id": 9070,
+"en": "Chisato",
+"ctx": "tabla dance_battle|NAME"
+},
+{
+"id": 9071,
+"en": "Judy",
+"ctx": "tabla dance_battle|NAME"
+},
+{
+"id": 9072,
+"en": "Atsuko",
+"ctx": "tabla dance_battle|NAME + tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9073,
+"en": "Shinobu",
+"ctx": "tabla dance_battle|NAME"
+},
+{
+"id": 9074,
+"en": "Kayo",
+"ctx": "tabla dance_battle|NAME"
+},
+{
+"id": 9075,
+"en": "Emily",
+"ctx": "tabla dance_battle|NAME"
+},
+{
+"id": 9076,
+"en": "Ririka",
+"ctx": "tabla dance_battle|NAME"
+},
+{
+"id": 9077,
+"en": "Momiyama",
+"ctx": "tabla dance_battle|NAME"
+},
+{
+"id": 9078,
+"en": "Ulala",
+"ctx": "tabla dance_battle|NAME"
+},
+{
+"id": 9079,
+"en": "Akari",
+"ctx": "tabla dance_battle|NAME + menú/texto mail"
+},
+{
+"id": 9080,
+"en": "Opponent_01 ",
+"ctx": "tabla dance_battle|NAME"
+},
+{
+"id": 9081,
+"en": "Hideki",
+"ctx": "tabla dance_battle|NAME + tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9082,
+"en": "Hide",
+"ctx": "tabla dance_battle|NAME"
+},
+{
+"id": 9083,
+"en": "Old Woman",
+"ctx": "tabla dance_battle|NAME"
+},
+{
+"id": 9084,
+"en": "Kurata",
+"ctx": "tabla dance_battle|NAME"
+},
+{
+"id": 9085,
+"en": "Ayumi",
+"ctx": "tabla dance_battle|NAME"
+},
+{
+"id": 9086,
+"en": "Asuka",
+"ctx": "tabla dance_battle|NAME"
+},
+{
+"id": 9087,
+"en": "Komaki",
+"ctx": "tabla dance_battle|NAME"
+},
+{
+"id": 9088,
+"en": "Akina",
+"ctx": "tabla dance_battle|NAME"
+},
+{
+"id": 9089,
+"en": "Miyu",
+"ctx": "tabla dance_battle|NAME + tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9090,
+"en": "Aito",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9091,
+"en": "Aoi",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9092,
+"en": "Aozora",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9093,
+"en": "Akitaka",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9094,
+"en": "Akitoshi",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9095,
+"en": "Akinori",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9096,
+"en": "Akira",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9097,
+"en": "Asahi",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9098,
+"en": "Atsushi",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9099,
+"en": "Atsuhiko",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9100,
+"en": "Atomu",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9101,
+"en": "Ayato",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9102,
+"en": "Arata",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9103,
+"en": "Ikuo",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9104,
+"en": "Ikufumi",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9105,
+"en": "Isao",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9106,
+"en": "Isamu",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9107,
+"en": "Ippei",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9108,
+"en": "Ippo",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9109,
+"en": "Eichi",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9110,
+"en": "Eiji",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9111,
+"en": "Eisuke",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9112,
+"en": "Eizo",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9113,
+"en": "Eita",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9114,
+"en": "Ozora",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9115,
+"en": "Osamu",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9116,
+"en": "Kaito",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9117,
+"en": "Kakeru",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9118,
+"en": "Kazushi",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9119,
+"en": "Kazutaka",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9120,
+"en": "Kazutoshi",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9121,
+"en": "Kazunari",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9122,
+"en": "Kazuhiro",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME + tabla tougijyo_participant|NAME …"
+},
+{
+"id": 9123,
+"en": "Katsutoshi",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9124,
+"en": "Katsuhiro",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9125,
+"en": "Kyosuke",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9126,
+"en": "Kuniyoshi",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9127,
+"en": "Keigo",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9128,
+"en": "Keisuke",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9129,
+"en": "Keitaro",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9130,
+"en": "Genki",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9131,
+"en": "Koji",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9132,
+"en": "Sachio",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9133,
+"en": "Shu",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9134,
+"en": "Shunichi",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9135,
+"en": "Junpei",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9136,
+"en": "Shinichi",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9137,
+"en": "Seiichi",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9138,
+"en": "Seiya",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9139,
+"en": "Daisuke",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9140,
+"en": "Daichi",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9141,
+"en": "Takamasa",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9142,
+"en": "Takuzo",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9143,
+"en": "Takumi",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9144,
+"en": "Tadashi",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9145,
+"en": "Tadahiro",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9146,
+"en": "Tsunehiro",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9147,
+"en": "Tsuyoshi",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9148,
+"en": "Tokio",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9149,
+"en": "Toshiyasu",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9150,
+"en": "Tomotaro",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9151,
+"en": "Narikazu",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9152,
+"en": "Nobutomo",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9153,
+"en": "Noboru",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9154,
+"en": "Noritaka",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9155,
+"en": "Hayato",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9156,
+"en": "Hisao",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9157,
+"en": "Hidetoshi",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9158,
+"en": "Hiromitsu",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9159,
+"en": "Hiromu",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9160,
+"en": "Fumikazu",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9161,
+"en": "Fumiya",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9162,
+"en": "Bunichi",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9163,
+"en": "Masao",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9164,
+"en": "Masatsugu",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9165,
+"en": "Mamoru",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9166,
+"en": "Michihiro",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9167,
+"en": "Mitsuhiko",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9168,
+"en": "Motoki",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9169,
+"en": "Motoyuki",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9170,
+"en": "Yasuto",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9171,
+"en": "Yasuhisa",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9172,
+"en": "Yudai",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9173,
+"en": "Yutaka",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9174,
+"en": "Yota",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9175,
+"en": "Yoshiki",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9176,
+"en": "Yoshihiro",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9177,
+"en": "Yoshiyasu",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9178,
+"en": "Yoshiyuki",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9179,
+"en": "Yoshiro",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9180,
+"en": "Rikuo",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9181,
+"en": "Ryoichi",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9182,
+"en": "Ryoya",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9183,
+"en": "Rintaro",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9184,
+"en": "Reiichi",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9185,
+"en": "Reiji",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9186,
+"en": "Leo",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9187,
+"en": "Renya",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9188,
+"en": "Wataru",
+"ctx": "tabla dance_battle_male_name|DANCER_NAME"
+},
+{
+"id": 9189,
+"en": "Body Shake",
+"ctx": "tabla dance_battle_skill|NAME"
+},
+{
+"id": 9190,
+"en": "Heart Shake",
+"ctx": "tabla dance_battle_skill|NAME"
+},
+{
+"id": 9191,
+"en": "Passion Shake",
+"ctx": "tabla dance_battle_skill|NAME"
+},
+{
+"id": 9192,
+"en": "Orbital Laser",
+"ctx": "tabla dance_battle_skill|NAME"
+},
+{
+"id": 9193,
+"en": "Fired Up",
+"ctx": "tabla dance_battle_skill|NAME"
+},
+{
+"id": 9194,
+"en": "Hot Stuff",
+"ctx": "tabla dance_battle_skill|NAME"
+},
+{
+"id": 9195,
+"en": "Red Hot",
+"ctx": "tabla dance_battle_skill|NAME"
+},
+{
+"id": 9196,
+"en": "Pressure",
+"ctx": "tabla dance_battle_skill|NAME"
+},
+{
+"id": 9197,
+"en": "High Pressure",
+"ctx": "tabla dance_battle_skill|NAME"
+},
+{
+"id": 9198,
+"en": "Mega Pressure",
+"ctx": "tabla dance_battle_skill|NAME"
+},
+{
+"id": 9199,
+"en": "Irritate",
+"ctx": "tabla dance_battle_skill|NAME"
+},
+{
+"id": 9200,
+"en": "Incite",
+"ctx": "tabla dance_battle_skill|NAME"
+},
+{
+"id": 9201,
+"en": "Provoke",
+"ctx": "tabla dance_battle_skill|NAME"
+},
+{
+"id": 9202,
+"en": "Energy Charge",
+"ctx": "tabla dance_battle_skill|NAME"
+},
+{
+"id": 9203,
+"en": "Energy Spike",
+"ctx": "tabla dance_battle_skill|NAME"
+},
+{
+"id": 9204,
+"en": "Energy Overdrive",
+"ctx": "tabla dance_battle_skill|NAME"
+},
+{
+"id": 9205,
+"en": "Uplift",
+"ctx": "tabla dance_battle_skill|NAME"
+},
+{
+"id": 9206,
+"en": "Exhilarate",
+"ctx": "tabla dance_battle_skill|NAME"
+},
+{
+"id": 9207,
+"en": "Gutsy",
+"ctx": "tabla dance_battle_skill|NAME"
+},
+{
+"id": 9208,
+"en": "Fearless",
+"ctx": "tabla dance_battle_skill|NAME"
+},
+{
+"id": 9209,
+"en": "Earn a few bonus points during a dance battle.",
+"ctx": "tabla dance_battle_skill|EXPLANATION"
+},
+{
+"id": 9210,
+"en": "Earn a bunch of bonus points during a dance battle.",
+"ctx": "tabla dance_battle_skill|EXPLANATION"
+},
+{
+"id": 9211,
+"en": "Earn major bonus points during a dance battle.",
+"ctx": "tabla dance_battle_skill|EXPLANATION"
+},
+{
+"id": 9212,
+"en": "Give an energetic dance battle performance that slightly lowers the health of your opponents by throwing them off rhythm.",
+"ctx": "tabla dance_battle_skill|EXPLANATION"
+},
+{
+"id": 9213,
+"en": "Give a powerful dance battle performance that dramatically lowers the health of your opponents by throwing them off rhythm.",
+"ctx": "tabla dance_battle_skill|EXPLANATION"
+},
+{
+"id": 9214,
+"en": "Deal major damage to your opponent's health and Heat.",
+"ctx": "tabla dance_battle_skill|EXPLANATION"
+},
+{
+"id": 9215,
+"en": "Deliver minor damage to your opponent's health during a dance battle.",
+"ctx": "tabla dance_battle_skill|EXPLANATION"
+},
+{
+"id": 9216,
+"en": "Deliver damage to your opponent's health during a dance battle.",
+"ctx": "tabla dance_battle_skill|EXPLANATION"
+},
+{
+"id": 9217,
+"en": "Deliver major damage to your opponent's health during a dance battle.",
+"ctx": "tabla dance_battle_skill|EXPLANATION"
+},
+{
+"id": 9218,
+"en": "Deliver minor damage to your opponent's Heat during a dance battle.",
+"ctx": "tabla dance_battle_skill|EXPLANATION"
+},
+{
+"id": 9219,
+"en": "Deliver damage to your opponent's Heat during a dance battle.",
+"ctx": "tabla dance_battle_skill|EXPLANATION"
+},
+{
+"id": 9220,
+"en": "Deliver major damage to your opponent's Heat during a dance battle.",
+"ctx": "tabla dance_battle_skill|EXPLANATION"
+},
+{
+"id": 9221,
+"en": "Recover a little of your health during a dance battle.",
+"ctx": "tabla dance_battle_skill|EXPLANATION"
+},
+{
+"id": 9222,
+"en": "Recover some of your health during a dance battle.",
+"ctx": "tabla dance_battle_skill|EXPLANATION"
+},
+{
+"id": 9223,
+"en": "Recover a lot of your health during a dance battle.",
+"ctx": "tabla dance_battle_skill|EXPLANATION"
+},
+{
+"id": 9224,
+"en": "Boost your Spirits by one level.",
+"ctx": "tabla dance_battle_skill|EXPLANATION"
+},
+{
+"id": 9225,
+"en": "Boost your Spirits by two levels.",
+"ctx": "tabla dance_battle_skill|EXPLANATION"
+},
+{
+"id": 9226,
+"en": "Lower your opponent's Spirits by one level.",
+"ctx": "tabla dance_battle_skill|EXPLANATION"
+},
+{
+"id": 9227,
+"en": "Lower your opponent's Spirits by two levels.",
+"ctx": "tabla dance_battle_skill|EXPLANATION"
+},
+{
+"id": 9228,
+"en": "ライブバトル_loneliness loop",
+"ctx": "tabla live_btl_AI|MISSION + tabla live_btl_point|MISSION"
+},
+{
+"id": 9229,
+"en": "ライブバトル_loneliness loop_EASY",
+"ctx": "tabla live_btl_AI|MISSION"
+},
+{
+"id": 9230,
+"en": "レッスンKONNANじゃないっ！EASY",
+"ctx": "tabla live_event|MISSION"
+},
+{
+"id": 9231,
+"en": "レッスンKONNANじゃないっ！NORMAL",
+"ctx": "tabla live_event|MISSION"
+},
+{
+"id": 9232,
+"en": "レッスンKONNANじゃないっ！HARD",
+"ctx": "tabla live_event|MISSION"
+},
+{
+"id": 9233,
+"en": "レッスンloneliness loop EASY",
+"ctx": "tabla live_event|MISSION"
+},
+{
+"id": 9234,
+"en": "レッスンloneliness loop NORMAL",
+"ctx": "tabla live_event|MISSION"
+},
+{
+"id": 9235,
+"en": "レッスンloneliness loop HARD",
+"ctx": "tabla live_event|MISSION"
+},
+{
+"id": 9236,
+"en": "レッスンキミハイルカラ EASY",
+"ctx": "tabla live_event|MISSION"
+},
+{
+"id": 9237,
+"en": "レッスンキミハイルカラ NORMAL",
+"ctx": "tabla live_event|MISSION"
+},
+{
+"id": 9238,
+"en": "レッスンキミハイルカラ HARD",
+"ctx": "tabla live_event|MISSION"
+},
+{
+"id": 9239,
+"en": "Pegasus",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9240,
+"en": "Quicklee",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9241,
+"en": "Cockadoodle Doom",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9242,
+"en": "Crispy",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9243,
+"en": "Big Papa",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9244,
+"en": "Run Like the Wind",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9245,
+"en": "Wingman",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9246,
+"en": "The Devourer",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9247,
+"en": "Yoneda",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9248,
+"en": "The Scrambler",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9249,
+"en": "Bullet",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9250,
+"en": "Karaage Kid",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9251,
+"en": "Starting Line",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9252,
+"en": "Speedy Joe",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9253,
+"en": "Croque Monsieur",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9254,
+"en": "Jimbo",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9255,
+"en": "Teriyaki",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9256,
+"en": "Drumstick",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9257,
+"en": "The Crusher",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9258,
+"en": "Monte Cristo",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9259,
+"en": "Fastfoot",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9260,
+"en": "Oatmeal",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9261,
+"en": "Ol' Grassy",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9262,
+"en": "Pigeon",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9263,
+"en": "The Destroyer",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9264,
+"en": "Lonestar",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9265,
+"en": "Chick Out of Hell",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9266,
+"en": "Daikon",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9267,
+"en": "Chicken Stew",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9268,
+"en": "Beast",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9269,
+"en": "Bon Voyage",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9270,
+"en": "Last Chance",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9271,
+"en": "Dark Meat",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9272,
+"en": "Nugget VI",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9273,
+"en": "Trigger",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9274,
+"en": "Haystack",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9275,
+"en": "The Grim Reaper",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9276,
+"en": "Nagoya Nightmare",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9277,
+"en": "Cluckin' Around",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9278,
+"en": "Jeremy",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9279,
+"en": "Ivan the Terrible",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9280,
+"en": "Godbeak",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9281,
+"en": "Pillows",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9282,
+"en": "Satin",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9283,
+"en": "Ten Yen Terror",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9284,
+"en": "Chicken Noodle",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9285,
+"en": "Super Spicy",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9286,
+"en": "Quetzalcoatl",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9287,
+"en": "Deerhorn",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9288,
+"en": "Hiro",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9289,
+"en": "Mack Attack",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9290,
+"en": "Ponytail",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9291,
+"en": "Benjamin Flash",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9292,
+"en": "Kung Pao",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9293,
+"en": "Fuzzy",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9294,
+"en": "Five O'Clock Shadow",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9295,
+"en": "Nemesis",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9296,
+"en": "The General",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9297,
+"en": "Peanut",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9298,
+"en": "Ankle Breaker",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9299,
+"en": "Miso",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9300,
+"en": "Fowl Play",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9301,
+"en": "Be Mine",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9302,
+"en": "Hinai",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9303,
+"en": "Tofu",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9304,
+"en": "Napoleon",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9305,
+"en": "Imperial",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9306,
+"en": "Justice",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9307,
+"en": "Dreamin' of You",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9308,
+"en": "Kiritanpo",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9309,
+"en": "Little Runner",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9310,
+"en": "Ball Joint",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9311,
+"en": "Coop de Grace",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9312,
+"en": "Ribbon",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9313,
+"en": "Swordsman",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9314,
+"en": "Saturn",
+"ctx": "tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 9315,
+"en": "Sakura",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9316,
+"en": "Nabe",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9317,
+"en": "Shizuka",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9318,
+"en": "Yuzu",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9319,
+"en": "Attila",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9320,
+"en": "Georgina",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9321,
+"en": "Yuko",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9322,
+"en": "Mermaid",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9323,
+"en": "Autumn Dew",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9324,
+"en": "Wasabi",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9325,
+"en": "Best in Show",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9326,
+"en": "Debutante",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9327,
+"en": "Esmeralda",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9328,
+"en": "Fairy Dust",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9329,
+"en": "Olivia",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9330,
+"en": "Justine",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9331,
+"en": "Mathilda",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9332,
+"en": "Fab",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9333,
+"en": "Iris",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9334,
+"en": "Battleaxe",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9335,
+"en": "Sweetbeak",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9336,
+"en": "Anastasia",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9337,
+"en": "Apple",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9338,
+"en": "Croque Madame",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9339,
+"en": "Momma",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9340,
+"en": "Icicle Paulie",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9341,
+"en": "Zen",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9342,
+"en": "Oolong",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9343,
+"en": "Ocean Breeze",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9344,
+"en": "Sunshine",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9345,
+"en": "Cinnamon Roll",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9346,
+"en": "Pink Eye",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9347,
+"en": "Darling",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9348,
+"en": "Buttercup",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9349,
+"en": "Lindsey",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9350,
+"en": "Monika",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9351,
+"en": "Petunia",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9352,
+"en": "Guardian",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9353,
+"en": "Sally",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9354,
+"en": "Empty Nester",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9355,
+"en": "Ai",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9356,
+"en": "Isha",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9357,
+"en": "Diamond",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9358,
+"en": "Chamomile",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9359,
+"en": "Mina",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9360,
+"en": "Matriarch",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9361,
+"en": "Mint Julip",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9362,
+"en": "Ruby",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9363,
+"en": "Fumiko",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9364,
+"en": "Flan",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9365,
+"en": "Sayako",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9366,
+"en": "Magdalena",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9367,
+"en": "Adriana",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9368,
+"en": "Ginger",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9369,
+"en": "Dorothy",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9370,
+"en": "Jade",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9371,
+"en": "Emerald",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9372,
+"en": "Angel Tears",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9373,
+"en": "Nutmeg",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9374,
+"en": "Supernova",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9375,
+"en": "Airi",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9376,
+"en": "Marinara",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9377,
+"en": "Rena",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9378,
+"en": "Rebecca",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9379,
+"en": "Helen Helena",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9380,
+"en": "Josephine",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9381,
+"en": "Sunrise",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9382,
+"en": "Samantha",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9383,
+"en": "Diva",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9384,
+"en": "Medusa",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9385,
+"en": "Haley",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9386,
+"en": "Shio",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9387,
+"en": "Duchess",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9388,
+"en": "Peaches",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9389,
+"en": "Chashu",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9390,
+"en": "Mariah",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9391,
+"en": "Makoto",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9392,
+"en": "Priestess",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9393,
+"en": "Rika",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9394,
+"en": "Shrine Maiden",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9395,
+"en": "Atlanta",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9396,
+"en": "Sumi",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9397,
+"en": "Celestia",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9398,
+"en": "★ Shizuna",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9399,
+"en": "★ Aphrodite",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9400,
+"en": "★ Mobius",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9401,
+"en": "★ Himiko",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9402,
+"en": "★ Artemis",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9403,
+"en": "★ Mercurius",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9404,
+"en": "★ Her Majesty",
+"ctx": "tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 9405,
+"en": "PLAYER_MODE_CHEER ",
+"ctx": "tabla motion_bakamitai|モ� + tabla motion_get_to_the_top|モ� …"
+},
+{
+"id": 9406,
+"en": "PLAYER_MODE_SING_WAIT ",
+"ctx": "tabla motion_bakamitai|モ� + tabla motion_get_to_the_top|モ� …"
+},
+{
+"id": 9407,
+"en": "PLAYER_MODE_SING_GOOD ",
+"ctx": "tabla motion_bakamitai|モ� + tabla motion_get_to_the_top|モ� …"
+},
+{
+"id": 9408,
+"en": "PLAYER_MODE_SING_NORMAL ",
+"ctx": "tabla motion_bakamitai|モ� + tabla motion_get_to_the_top|モ� …"
+},
+{
+"id": 9409,
+"en": "PARTNER_MODE_CHEER ",
+"ctx": "tabla motion_bakamitai|モ� + tabla motion_get_to_the_top|モ� …"
+},
+{
+"id": 9410,
+"en": "PARTNER_MODE_SING_WAIT ",
+"ctx": "tabla motion_bakamitai|モ� + tabla motion_get_to_the_top|モ� …"
+},
+{
+"id": 9411,
+"en": "PARTNER_MODE_SING_GOOD ",
+"ctx": "tabla motion_bakamitai|モ� + tabla motion_get_to_the_top|モ� …"
+},
+{
+"id": 9412,
+"en": "PARTNER_MODE_SING_NORMAL ",
+"ctx": "tabla motion_bakamitai|モ� + tabla motion_get_to_the_top|モ� …"
+},
+{
+"id": 9413,
+"en": "Ice Walk",
+"ctx": "tabla ability_snow|SKILL_NAME"
+},
+{
+"id": 9414,
+"en": "Snowman",
+"ctx": "tabla ability_snow|SKILL_NAME"
+},
+{
+"id": 9415,
+"en": "Spotter",
+"ctx": "tabla ability_snow|SKILL_NAME"
+},
+{
+"id": 9416,
+"en": "Stealth",
+"ctx": "tabla ability_snow|SKILL_NAME"
+},
+{
+"id": 9417,
+"en": "Deadeye",
+"ctx": "tabla ability_snow|SKILL_NAME"
+},
+{
+"id": 9418,
+"en": "Mastery",
+"ctx": "tabla ability_snow|SKILL_NAME"
+},
+{
+"id": 9419,
+"en": "Boost snow walking speed",
+"ctx": "tabla ability_snow|SKILL_EXPLANATION"
+},
+{
+"id": 9420,
+"en": "Cut blizzard health loss",
+"ctx": "tabla ability_snow|SKILL_EXPLANATION"
+},
+{
+"id": 9421,
+"en": "See animals on minimap",
+"ctx": "tabla ability_snow|SKILL_EXPLANATION"
+},
+{
+"id": 9422,
+"en": "Boost camo in crouch",
+"ctx": "tabla ability_snow|SKILL_EXPLANATION"
+},
+{
+"id": 9423,
+"en": "Boost aim/decrease health loss",
+"ctx": "tabla ability_snow|SKILL_EXPLANATION"
+},
+{
+"id": 9424,
+"en": "La Seine",
+"ctx": "tabla caba_profile|CLUB + tabla caba_profile|ROMAN_NAME"
+},
+{
+"id": 9425,
+"en": "Rose Hip",
+"ctx": "tabla caba_profile|CLUB + tabla caba_profile|ROMAN_NAME"
+},
+{
+"id": 9426,
+"en": "Prime",
+"ctx": "tabla caba_profile|CLUB + tabla caba_profile|ROMAN_NAME"
+},
+{
+"id": 9427,
+"en": "Club Eden",
+"ctx": "tabla caba_profile|CLUB + tabla caba_profile|ROMAN_NAME"
+},
+{
+"id": 9428,
+"en": "Elise",
+"ctx": "tabla caba_profile|CLUB + tabla caba_profile|ROMAN_NAME …"
+},
+{
+"id": 9429,
+"en": "July 3",
+"ctx": "tabla caba_profile|BIRTHDAY"
+},
+{
+"id": 9430,
+"en": "November 17",
+"ctx": "tabla caba_profile|BIRTHDAY"
+},
+{
+"id": 9431,
+"en": "September 21",
+"ctx": "tabla caba_profile|BIRTHDAY"
+},
+{
+"id": 9432,
+"en": "June 21",
+"ctx": "tabla caba_profile|BIRTHDAY"
+},
+{
+"id": 9433,
+"en": "February 14",
+"ctx": "tabla caba_profile|BIRTHDAY"
+},
+{
+"id": 9434,
+"en": "Cancer",
+"ctx": "tabla caba_profile|CONSTELLATION + tabla caba_tsuku_profile|CONSTELLATION"
+},
+{
+"id": 9435,
+"en": "Scorpio",
+"ctx": "tabla caba_profile|CONSTELLATION"
+},
+{
+"id": 9436,
+"en": "Virgo",
+"ctx": "tabla caba_profile|CONSTELLATION"
+},
+{
+"id": 9437,
+"en": "Gemini",
+"ctx": "tabla caba_profile|CONSTELLATION"
+},
+{
+"id": 9438,
+"en": "Aquarius",
+"ctx": "tabla caba_profile|CONSTELLATION"
+},
+{
+"id": 9439,
+"en": "Curry & Rice, Potatoes",
+"ctx": "tabla caba_profile|FAVORITE"
+},
+{
+"id": 9440,
+"en": "Sea Urchin, Chocolate",
+"ctx": "tabla caba_profile|FAVORITE"
+},
+{
+"id": 9441,
+"en": "Kushikatsu, Chicken Karaage",
+"ctx": "tabla caba_profile|FAVORITE"
+},
+{
+"id": 9442,
+"en": "Miso Cutlet, Sweets",
+"ctx": "tabla caba_profile|FAVORITE"
+},
+{
+"id": 9443,
+"en": "Horumon, Shellfish",
+"ctx": "tabla caba_profile|FAVORITE"
+},
+{
+"id": 9444,
+"en": "Natto, Tonkotsu Ramen",
+"ctx": "tabla caba_profile|HATE"
+},
+{
+"id": 9445,
+"en": "Fresh Whipped Cream, Fish",
+"ctx": "tabla caba_profile|HATE"
+},
+{
+"id": 9446,
+"en": "Tomatoes, Peppers",
+"ctx": "tabla caba_profile|HATE"
+},
+{
+"id": 9447,
+"en": "You got Riku's business card.",
+"ctx": "tabla caba_profile|EXPLANATION + diálogo uid01340015"
+},
+{
+"id": 9448,
+"en": "Riku is going to see a man named Subaru. I should head to the south parking lot of Chikuzengawa Street.",
+"ctx": "tabla caba_profile|EXPLANATION"
+},
+{
+"id": 9449,
+"en": "Someone grabbed Riku and sped off. I'd better hurry and follow that car.",
+"ctx": "tabla caba_profile|EXPLANATION"
+},
+{
+"id": 9450,
+"en": "I've cornered Subaru. I need to beat him quick and save Riku.",
+"ctx": "tabla caba_profile|EXPLANATION"
+},
+{
+"id": 9451,
+"en": "I wonder if Riku is doing well. Maybe I should go check out how she's doing?",
+"ctx": "tabla caba_profile|EXPLANATION"
+},
+{
+"id": 9452,
+"en": "I had an amazing time with Riku, and can happily say we've grown close.",
+"ctx": "tabla caba_profile|EXPLANATION"
+},
+{
+"id": 9453,
+"en": "You got Kaguya's business card.",
+"ctx": "tabla caba_profile|EXPLANATION"
+},
+{
+"id": 9454,
+"en": "Kaguya's headin' to that audition. I should go show her my support. Think she said she's at the Bridie at Tsukimino Street intersection. ",
+"ctx": "tabla caba_profile|EXPLANATION"
+},
+{
+"id": 9455,
+"en": "I got nothing against this guy, but if he's gonna get in the way of her dreams, then he's gotta be stopped!",
+"ctx": "tabla caba_profile|EXPLANATION"
+},
+{
+"id": 9456,
+"en": "I wonder how the audition went. Guess I'll stop by the club.",
+"ctx": "tabla caba_profile|EXPLANATION"
+},
+{
+"id": 9457,
+"en": "I had an amazing time with Kaguya, and can happily say we've grown close.",
+"ctx": "tabla caba_profile|EXPLANATION"
+},
+{
+"id": 9458,
+"en": "You got Honoka's business card.",
+"ctx": "tabla caba_profile|EXPLANATION + diálogo uid01340024"
+},
+{
+"id": 9459,
+"en": "I got a call from Honoka-chan, but I couldn't quite understand what she was saying...",
+"ctx": "tabla caba_profile|EXPLANATION"
+},
+{
+"id": 9460,
+"en": "Apparently Honoka-chan's lost her voice, and right before her test to boot. Maybe the pharmacy has something that could help.",
+"ctx": "tabla caba_profile|EXPLANATION"
+},
+{
+"id": 9461,
+"en": "Apparently there's something called the \"legendary lozenge.\" Someone in Ashitaba Park might have it.",
+"ctx": "tabla caba_profile|EXPLANATION"
+},
+{
+"id": 9462,
+"en": "I saw a man that might know something. Gotta figure out a way to buy that lozenge off him.",
+"ctx": "tabla caba_profile|EXPLANATION"
+},
+{
+"id": 9463,
+"en": "Okay, drugs was the wrong approach. I'll have to try talking to him again.",
+"ctx": "tabla caba_profile|EXPLANATION"
+},
+{
+"id": 9464,
+"en": "I wonder how her test went. I guess I should go ask.",
+"ctx": "tabla caba_profile|EXPLANATION"
+},
+{
+"id": 9465,
+"en": "I had an amazing time with Honoka, and can happily say we've grown close.",
+"ctx": "tabla caba_profile|EXPLANATION"
+},
+{
+"id": 9466,
+"en": "You got Shion's business card.",
+"ctx": "tabla caba_profile|EXPLANATION"
+},
+{
+"id": 9467,
+"en": "Sounds like Shion-chan has a stalker. I have to get to Kume Boulevard, quick!",
+"ctx": "tabla caba_profile|EXPLANATION"
+},
+{
+"id": 9468,
+"en": "I'm not letting this creep get away!",
+"ctx": "tabla caba_profile|EXPLANATION"
+},
+{
+"id": 9469,
+"en": "Never knew Shion-chan had such a rough past... Maybe I'll find her at her special place.",
+"ctx": "tabla caba_profile|EXPLANATION"
+},
+{
+"id": 9470,
+"en": "I wonder if Shion-chan is doing okay after all that. I should go see her.",
+"ctx": "tabla caba_profile|EXPLANATION"
+},
+{
+"id": 9471,
+"en": "I had an amazing time with Shion, and can happily say we've grown close.",
+"ctx": "tabla caba_profile|EXPLANATION"
+},
+{
+"id": 9472,
+"en": "You got Hinata Osaki's business card.",
+"ctx": "tabla caba_profile|EXPLANATION"
+}
+]

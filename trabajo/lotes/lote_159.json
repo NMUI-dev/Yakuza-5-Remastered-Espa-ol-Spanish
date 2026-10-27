@@ -1,0 +1,992 @@
+[
+{
+"id": 35243,
+"en": "You handed over <Color:8>Mystery Item<Color:Default>.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35244,
+"en": "(Okay, that's done. I can talk to the old-timer now.)",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35245,
+"en": "You got <Color:8>Mystery Item<Color:Default>.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35246,
+"en": "Oh. Not good?",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35247,
+"en": "Basically, no one claimed they saw Baba do it, but nobody said he didn't, either.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35248,
+"en": "Oh. Hm.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35249,
+"en": "But doesn't it mean the guards can't prove he's the perp?",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35250,
+"en": "Well, I wouldn't count on that.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35251,
+"en": "No?",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35252,
+"en": "The victim himself said Baba stabbed him. So that's direct evidence right there.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35253,
+"en": "Direct evidence?",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35254,
+"en": "Yes, that's directly observing a crime happening. See, it's different from circumstantial evidence, which is observing something that logically indicates a crime is happening, or did.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35255,
+"en": "Thanks for the mystery novel advice, but can we talk about what's important? Like whether the victim's account is enough to prove Baba's guilt?",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35256,
+"en": "By itself, it's not enough. But paired with the fact that Baba-chan was holding the bloody chisel...",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35257,
+"en": "See, that's a piece of circumstantial evidence, and a damn strong one. It perfectly backs up the direct evidence of the eyewitness testimony.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35258,
+"en": "Himura, where'd you learn all this?",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35259,
+"en": "Baba said he didn't do it. Doncha believe 'im?",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35260,
+"en": "Yeah, we gotta believe Baba. The victim and his bunch are lying!",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35261,
+"en": "Naturally, that's a possibility.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35262,
+"en": "But, there's nothing to back up that assertion.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35263,
+"en": "(Damn...)",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35264,
+"en": "So, that's it? There's nothing we can do?",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35265,
+"en": "Well, there is one way...",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35266,
+"en": "Rather than trying to prove Baba-chan didn't do it...",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35267,
+"en": "We look for evidence that the woodworking crew is lying.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35268,
+"en": "How do we do that?",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35269,
+"en": "With the chisel.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35270,
+"en": "It had to be provided by either the victim himself or his pals.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35271,
+"en": "Because, I mean, it's a woodworking tool. Where would Baba-chan even get it? He's not in the woodworking crew.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35272,
+"en": "Baba could've taken the weapon from them.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35273,
+"en": "Sure. But that theory is pretty shaky.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35274,
+"en": "Because at the scene, the victim claimed Baba-chan just stabbed him out of the blue.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35275,
+"en": "\"Out of the blue\" is not a phrase you would use if the weapon was taken from you or your friends.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35276,
+"en": "It's a phrase that implies the weapon was already in Baba-chan's possession.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35277,
+"en": "So, we still gotta find out where the chisel came from, then prove there was no way Baba coulda got his hands on it.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35278,
+"en": "Yes! If we can prove that, it'll refute the victim's statement.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35279,
+"en": "And of course, strengthen the argument that Baba-chan wasn't the perp.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35280,
+"en": "Himura?",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35281,
+"en": "Why do you know so much about evidence and all?",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35282,
+"en": "Uh... Well, I'd appreciate it if you could keep this on the down low...",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35283,
+"en": "But you see, I was, uh... I used to be a detective with the Hokkaido Prefectural Police. Homicide, even.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35284,
+"en": "What's a detective doin' behind bars?",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35285,
+"en": "Well, given the job, there's always... temptation.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35286,
+"en": "I just... you know... got swept up in just a little teeny bit of corruption, is all.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35287,
+"en": "And you didn't tell us.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35288,
+"en": "Oshima, my job was finding and arresting criminals.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35289,
+"en": "What do you think these inmates would do to me if they knew I used to be their enemy?",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35290,
+"en": "Yeah, good point.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35291,
+"en": "It was just bribery. Heh. To be honest, my term's so short I thought there was a good chance I'd get out of here without anyone ever finding out about my background.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35292,
+"en": "But now I've got a cellmate in deep trouble... a kid I break bread with every day. I can't just stand by and watch him go down.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35293,
+"en": "I get it. And... hey, I think I've got some respect for you, even if you are a cop.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35294,
+"en": "The quickest way out of this mess is finding out where the chisel came from.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35295,
+"en": "Okay. So we ask around about that.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35296,
+"en": "Right. Let's split up and do some legwork.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35297,
+"en": "Hah. Spoken like a true detective.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35298,
+"en": "I'm getting pumped! Let's do this!",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35299,
+"en": "This is bad!",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35300,
+"en": "Baba-chan wouldn't do something like that!",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35301,
+"en": "Of course not! He just submitted his request for parole.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35302,
+"en": "No one in his position would do anything that might extend his sentence.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35303,
+"en": "So true...",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35304,
+"en": "Saejima, what do you make of this?",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35305,
+"en": "(Prison's a rough place, is what I make of it.)",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35306,
+"en": "There's too much that we don't know.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35307,
+"en": "Why don't we ask around to see if anyone can fill us in?",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35308,
+"en": "(Treatment took longer than I thought.)",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35309,
+"en": "(Baba-chan wasn't in the cell block. Is he out in the exercise yard?)",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35310,
+"en": "Heheh...",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35311,
+"en": "Those guys are in the woodworking crew.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35312,
+"en": "You know what we want. The crew chief wants to see you.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35313,
+"en": "Who are these guys, Saejima-aniki?",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35314,
+"en": "Stay out of this.",
+"ctx": "diálogo uid0102071d + diálogo uid0102072b"
+},
+{
+"id": 35315,
+"en": "You got some kid you're trying to hide? Oh, if it isn't your little cellmate!",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35316,
+"en": "I get it. You're recruiting soldiers⑬nice, young ones you can turn into obedient little drones.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35317,
+"en": "Not another word about the kid. I'm the one you want.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35318,
+"en": "Fine, then. Come on.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35319,
+"en": "(Huh, so Baba-chan's a killer. He seemed like such a friendly kid. Who woulda thought?)",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35320,
+"en": "(Where'd I see Baba-chan? On a bench up ahead, maybe.)",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35321,
+"en": "(Guess they don't cancel rec time no matter how cold it is.)",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35322,
+"en": "(Let's see... Anyone I know around?)",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35323,
+"en": "Your meal.",
+"ctx": "diálogo uid0102072b"
+},
+{
+"id": 35324,
+"en": "Something stopping you?",
+"ctx": "diálogo uid0102072b"
+},
+{
+"id": 35325,
+"en": "Deputy Warden... Why're ya here?",
+"ctx": "diálogo uid0102072b"
+},
+{
+"id": 35326,
+"en": "Answer my question. What's stopping you?",
+"ctx": "diálogo uid0102072b"
+},
+{
+"id": 35327,
+"en": "Nothin'. Just can't force nothin' down right now.",
+"ctx": "diálogo uid0102072b"
+},
+{
+"id": 35328,
+"en": "I don't mean the food. I mean Kugihara.",
+"ctx": "diálogo uid0102072b"
+},
+{
+"id": 35329,
+"en": "I know his men have been assaulting you. Why have you kept silent about it?",
+"ctx": "diálogo uid0102072b"
+},
+{
+"id": 35330,
+"en": "Do you think that being a model prisoner will get you out on parole sooner?",
+"ctx": "diálogo uid0102072b"
+},
+{
+"id": 35331,
+"en": "Don't count on it. In my penitentiary, no one who brings disorder is a model prisoner, even if he brings it unwillingly.",
+"ctx": "diálogo uid0102072b"
+},
+{
+"id": 35332,
+"en": "...That's especially true for those who plan to return to the underworld upon their release.",
+"ctx": "diálogo uid0102072b"
+},
+{
+"id": 35333,
+"en": "(...How does he know that?)",
+"ctx": "diálogo uid0102072b"
+},
+{
+"id": 35334,
+"en": "However, I'm also a prison officer. I can't turn a blind eye to physical attacks on an inmate under my care.",
+"ctx": "diálogo uid0102072b"
+},
+{
+"id": 35335,
+"en": "I can take steps to ensure you're kept away from Kugihara's gang.",
+"ctx": "diálogo uid0102072b"
+},
+{
+"id": 35336,
+"en": "(Ya think you're some guardian angel, eh?)",
+"ctx": "diálogo uid0102072b"
+},
+{
+"id": 35337,
+"en": "If you request it, I can keep you in solitary for the duration of your term.",
+"ctx": "diálogo uid0102072b"
+},
+{
+"id": 35338,
+"en": "All it would take is for me to inform the warden that you show no sign of remorse.",
+"ctx": "diálogo uid0102072b"
+},
+{
+"id": 35339,
+"en": "If I stay in solitary, the gang might go after the other guys in my cell.",
+"ctx": "diálogo uid0102072b"
+},
+{
+"id": 35340,
+"en": "So, you think they're your friends just because you share a cell.",
+"ctx": "diálogo uid0102072b"
+},
+{
+"id": 35341,
+"en": "Nah, nothin' like that. But I know if it ain't me, it'll be them gettin' beat. And they can't take it like I can. They'll end up leavin' prison feet-first.",
+"ctx": "diálogo uid0102072b"
+},
+{
+"id": 35342,
+"en": "Me, I can take being Kugihara's toy.",
+"ctx": "diálogo uid0102072b"
+},
+{
+"id": 35343,
+"en": "So you think you're saving others by serving yourself up? You think you're some guardian angel?",
+"ctx": "diálogo uid0102072b"
+},
+{
+"id": 35344,
+"en": "(...Me and this guy might be more alike than I wanna admit.)",
+"ctx": "diálogo uid0102072b"
+},
+{
+"id": 35345,
+"en": "I hate to break it to ya, but their only target is you.",
+"ctx": "diálogo uid0102072b"
+},
+{
+"id": 35346,
+"en": "Kugihara likes to cause trouble, but he's not stupid enough to assault just any random inmate.",
+"ctx": "diálogo uid0102072b"
+},
+{
+"id": 35347,
+"en": "So you're not accomplishing anything by putting up with such treatment.",
+"ctx": "diálogo uid0102072b"
+},
+{
+"id": 35348,
+"en": "Are ya done?",
+"ctx": "diálogo uid0102072b"
+},
+{
+"id": 35349,
+"en": "When you're finished eating, I'll let you out.",
+"ctx": "diálogo uid0102072b"
+},
+{
+"id": 35350,
+"en": "That's the only thing you want from me, isn't it?",
+"ctx": "diálogo uid0102072b"
+},
+{
+"id": 35351,
+"en": "What'd I tell you? Wasn't that a good way to lift your spirits?",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35352,
+"en": "Hah. All your stories have the stench of fresh, steaming bullshit.",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35353,
+"en": "Hey, all of it's true! Honest!",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35354,
+"en": "And besides, if you're going to fantasize you might as well make it a story with some sparkle, am I right?",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35355,
+"en": "After all, it'll be years before we can wine, dine, and be merry outside this place.",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35356,
+"en": "(I agree, Oshima.)",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35357,
+"en": "They can't keep us from enjoying life. Not when we know we'll get out of here someday.",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35358,
+"en": "That's why I'm okay with being here, paying my debt to society. We can put up with it as long as we keep dreaming about a tomorrow outside these walls.",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35359,
+"en": "All the fun in the world is waiting for us out there. We need to make amends so that we deserve it.",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35360,
+"en": "Don't you think that's a healthier way for us to think?",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35361,
+"en": "(It's somethin'.)",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35362,
+"en": "You're right. Being here does not define us.",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35363,
+"en": "We all had lives before, and we'll have them after. In the end, we'll die on the outside, on our own terms.",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35364,
+"en": "We should all be thinking about what we want to do when we're out.",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35365,
+"en": "Um, Saejima-san, I...",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35366,
+"en": "Welcome back! I didn't expect such a quick return from solitary.",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35367,
+"en": "Yeah. Not sure why, but the deputy warden just let me out.",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35368,
+"en": "Wait, you can't possibly mean⑬Kosaka!?",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35369,
+"en": "That doesn't sound right. He always comes down hard on inmates.",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35370,
+"en": "Well, I don't know the man's mind. All I know is he don't like yakuza. Made it clear I wasn't gettin' parole.",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35371,
+"en": "Now that sounds more like him.",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35372,
+"en": "He probably knows you're a big shot, and he's trying to discourage you from using prison as just another place to expand your network.",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35373,
+"en": "Even though Saejima foolishly wants to be in solitary. Hahaha! It's a crazy world. Don't you think, Baba-chan?",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35374,
+"en": "What's wrong? Hope you're not changing your mind.",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35375,
+"en": "You're still gonna apply for a new hearing tomorrow, right?",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35376,
+"en": "Your parole cancellation probably isn't official yet. There's still time.",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35377,
+"en": "If you go and demonstrate remorse, they might still let you out.",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35378,
+"en": "Hey, why we gotta put up with all the whimpering and shit!? Come on man, Saejima-san's back!",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35379,
+"en": "Why get all down in the dumps just 'cause Baba-chan wants to mope around? Let's talk about something enjoyable.",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35380,
+"en": "I know something!",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35381,
+"en": "A map?",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35382,
+"en": "This is a map of Sapporo's Tsukimino area.",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35383,
+"en": "It sure is. Everyone look at it and switch your minds over to the day when you can walk out of here and go anywhere in Tsukimino you want.",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35384,
+"en": "Switch our minds over?",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35385,
+"en": "Yeah. It's called image training.",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35386,
+"en": "You use your imagination, so that in your mind you're off having a good time in Tsukimino.",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35387,
+"en": "What good is that? It's like a children's game. Actually, it's stupider.",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35388,
+"en": "Lighten up, Pops. Come on, it'll be a welcome change from these dreary surroundings. Right, Saejima-san? You'll do it, huh?",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35389,
+"en": " Come on, Baba! You need it the most!",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35390,
+"en": "Good. Everyone ready? I want you to picture the streets of Tsukimino in your mind.",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35391,
+"en": "Don't know Tsukimino that well, actually. Can't picture it.",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35392,
+"en": "Huh? Right, you're not from the north. Well then, how about we try this? Listen.",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35393,
+"en": "I'll tell you a story from when I was there. Saejima-san, you just imagine the situations I describe as if you were me.",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35394,
+"en": "At the end you'll feel like it all really happened to you.",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35395,
+"en": "Hm. All right...",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35396,
+"en": "Okay, here we go.",
+"ctx": "diálogo uid0102072e"
+},
+{
+"id": 35397,
+"en": "We not goin' to solitary?",
+"ctx": "diálogo uid01020754"
+},
+{
+"id": 35398,
+"en": "Why didn't you stop?",
+"ctx": "diálogo uid01020754"
+},
+{
+"id": 35399,
+"en": "That fight. Why didn't you stop?",
+"ctx": "diálogo uid01020754"
+},
+{
+"id": 35400,
+"en": "Funny thing. Short while ago, ya asked why I <Italic>wasn't</Italic> fightin'. Remember?",
+"ctx": "diálogo uid01020754"
+},
+{
+"id": 35401,
+"en": "Your parole application. I spent the last few days writing it.",
+"ctx": "diálogo uid01020754"
+},
+{
+"id": 35402,
+"en": "Why? Ya said ya don't let yakuza out.",
+"ctx": "diálogo uid01020754"
+},
+{
+"id": 35403,
+"en": "A week ago, the warden received this postcard here.",
+"ctx": "diálogo uid01020754"
+},
+{
+"id": 35404,
+"en": "It's a formal notice expelling you from the Tojo Clan.",
+"ctx": "diálogo uid01020754"
+},
+{
+"id": 35405,
+"en": "This penitentiary's purpose is to reform those who have committed crimes.",
+"ctx": "diálogo uid01020754"
+},
+{
+"id": 35406,
+"en": "Inmates who demonstrate sufficient reformation can expect reductions in their sentences.",
+"ctx": "diálogo uid01020754"
+},
+{
+"id": 35407,
+"en": "Parole is one such reduction.",
+"ctx": "diálogo uid01020754"
+},
+{
+"id": 35408,
+"en": "If an inmate is associated with yakuza, his most effective means of proving he is reformed is to renounce all associations with organized crime.",
+"ctx": "diálogo uid01020754"
+},
+{
+"id": 35409,
+"en": "And... it appears this applies to your case.",
+"ctx": "diálogo uid01020754"
+},
+{
+"id": 35410,
+"en": "I know you were going to be named captain when you got out.",
+"ctx": "diálogo uid01020754"
+},
+{
+"id": 35411,
+"en": "Two years ago, when you arrived here, the police included a note in your file.",
+"ctx": "diálogo uid01020754"
+},
+{
+"id": 35412,
+"en": "They recommended that your future promotion be kept secret from the other inmates.",
+"ctx": "diálogo uid01020754"
+},
+{
+"id": 35413,
+"en": "Three years... just for assault. There are only two reasons why someone would serve that kind of time for such a minor charge.",
+"ctx": "diálogo uid01020754"
+},
+{
+"id": 35414,
+"en": "One: you were set up by a hostile third party, specifically so you'd be forced to leave your organization.",
+"ctx": "diálogo uid01020754"
+},
+{
+"id": 35415,
+"en": "Or two: you chose to tidy up your affairs... for the sake of that very organization.",
+"ctx": "diálogo uid01020754"
+},
+{
+"id": 35416,
+"en": "All these beatings in prison, and you didn't defend yourself because you just wanted to return to the clan as soon as you could. Am I correct?",
+"ctx": "diálogo uid01020754"
+},
+{
+"id": 35417,
+"en": "I'm expelled. It's pointless now.",
+"ctx": "diálogo uid01020754"
+},
+{
+"id": 35418,
+"en": "I'm going to overlook what happened today.",
+"ctx": "diálogo uid01020754"
+},
+{
+"id": 35419,
+"en": "The relevant factor is that you are no longer yakuza. There's no need for you to continue suffering here.",
+"ctx": "diálogo uid01020754"
+},
+{
+"id": 35420,
+"en": "What? You're crying?",
+"ctx": "diálogo uid01020754"
+},
+{
+"id": 35421,
+"en": "Hey! Quiet!",
+"ctx": "diálogo uid01020758"
+},
+{
+"id": 35422,
+"en": "Well... I guess it is leisure time... but don't be loud! Or I'll hand out demerits.",
+"ctx": "diálogo uid01020758"
+},
+{
+"id": 35423,
+"en": "Sorry, sir!",
+"ctx": "diálogo uid01020758"
+},
+{
+"id": 35424,
+"en": "Saejima. Baba.",
+"ctx": "diálogo uid01020758"
+},
+{
+"id": 35425,
+"en": "Both of you come with me. We need to go over the work you did the other day.",
+"ctx": "diálogo uid01020758"
+},
+{
+"id": 35426,
+"en": "Uh, yes sir.",
+"ctx": "diálogo uid01020758"
+},
+{
+"id": 35427,
+"en": "Come on, Saejima. Get up.",
+"ctx": "diálogo uid01020758"
+},
+{
+"id": 35428,
+"en": "Aniki.",
+"ctx": "diálogo uid01020758 + diálogo uid010207c6"
+},
+{
+"id": 35429,
+"en": "Himura-san!",
+"ctx": "diálogo uid01020765"
+},
+{
+"id": 35430,
+"en": "Hey, I was a homicide detective, remember?",
+"ctx": "diálogo uid01020765"
+},
+{
+"id": 35431,
+"en": "My tales of glory aren't full of as much bullshit as you all seem to think!",
+"ctx": "diálogo uid01020765"
+},
+{
+"id": 35432,
+"en": "By the way, Oshima-san is dealing with the deputy warden. It might be dicey, but at least you shouldn't get any trouble from him while you make your getaway.",
+"ctx": "diálogo uid01020765"
+},
+{
+"id": 35433,
+"en": "Dead serious. Haha, Oshima, that rascally old geezer... You know how he'd hoard meds and pass them to other inmates?",
+"ctx": "diálogo uid01020765"
+},
+{
+"id": 35434,
+"en": "Turns out that's a habit left over from his brief time as a doctor. Who the heck moves on from being a doctor, then ends up in prison?",
+"ctx": "diálogo uid01020765"
+},
+{
+"id": 35435,
+"en": "Boy, you never can know someone, eh?",
+"ctx": "diálogo uid01020765"
+},
+{
+"id": 35436,
+"en": "Whatever past any of you have, I'm just relieved we're getting out!",
+"ctx": "diálogo uid01020765"
+},
+{
+"id": 35437,
+"en": "That's right. You guys need to go. I'll call the authorities and play dumb when they arrive.",
+"ctx": "diálogo uid01020765"
+},
+{
+"id": 35438,
+"en": "Don't get caught if you can help it!",
+"ctx": "diálogo uid01020765"
+},
+{
+"id": 35439,
+"en": "What about you and Oshima-san?",
+"ctx": "diálogo uid01020765"
+},
+{
+"id": 35440,
+"en": "You know us⑬we're gonna be good boys and serve out our prison sentences.",
+"ctx": "diálogo uid01020765"
+}
+]

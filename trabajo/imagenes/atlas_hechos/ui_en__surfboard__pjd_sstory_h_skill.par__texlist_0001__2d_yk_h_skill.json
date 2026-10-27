@@ -1,0 +1,159 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_h_skill.par/texlist_0001/2d_yk_h_skill",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    2,
+    2,
+    156,
+    16
+   ],
+   "en": "SKILL SETTINGS",
+   "es": "AJUSTES DE HABILIDAD",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 150,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    150,
+    2,
+    272,
+    16
+   ],
+   "en": "HEAT NAME",
+   "es": "NOMBRE DEL HEAT",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 120,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    82,
+    17,
+    208,
+    31
+   ],
+   "en": "HEAT LIST",
+   "es": "LISTA DE HEAT",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 124,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    2,
+    184,
+    224,
+    198
+   ],
+   "en": "DANCE HEAT SETTINGS",
+   "es": "AJUSTES DE HEAT DE BAILE",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 220,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    388,
+    2,
+    434,
+    28
+   ],
+   "en": "Back",
+   "es": "Atrás",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 44,
+   "alto": 10,
+   "color": [
+    175,
+    175,
+    175
+   ]
+  },
+  {
+   "caja": [
+    420,
+    320,
+    463,
+    346
+   ],
+   "en": "Back",
+   "es": "Atrás",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 41,
+   "alto": 10,
+   "color": [
+    175,
+    175,
+    175
+   ]
+  },
+  {
+   "caja": [
+    420,
+    348,
+    460,
+    372
+   ],
+   "en": "Back",
+   "es": "Atrás",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 38,
+   "alto": 10,
+   "color": [
+    175,
+    175,
+    175
+   ]
+  },
+  {
+   "caja": [
+    225,
+    98,
+    297,
+    120
+   ],
+   "en": "CLOSED",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 70,
+   "dejar": true
+  }
+ ]
+}

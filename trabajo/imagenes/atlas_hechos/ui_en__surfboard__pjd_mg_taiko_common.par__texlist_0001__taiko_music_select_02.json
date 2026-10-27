@@ -1,0 +1,125 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_taiko_common.par/texlist_0001/taiko_music_select_02",
+ "fuente": "segoeuib.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    347,
+    304,
+    443,
+    368
+   ],
+   "en": "1st",
+   "es": "1.º",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 90
+  },
+  {
+   "caja": [
+    352,
+    389,
+    450,
+    448
+   ],
+   "en": "2nd",
+   "es": "2.º",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 92
+  },
+  {
+   "caja": [
+    333,
+    456,
+    445,
+    510
+   ],
+   "en": "3rd",
+   "es": "3.º",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 106
+  },
+  {
+   "caja": [
+    430,
+    740,
+    622,
+    790
+   ],
+   "en": "1st Song",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 186,
+   "dejar": true
+  },
+  {
+   "caja": [
+    430,
+    822,
+    650,
+    868
+   ],
+   "en": "2nd Song",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 214,
+   "dejar": true
+  },
+  {
+   "caja": [
+    40,
+    80,
+    76,
+    211
+   ],
+   "en": "Easy",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 30,
+   "dejar": true
+  },
+  {
+   "caja": [
+    137,
+    77,
+    180,
+    268
+   ],
+   "en": "Normal",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 37,
+   "dejar": true
+  },
+  {
+   "caja": [
+    237,
+    80,
+    280,
+    218
+   ],
+   "en": "Hard",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 37,
+   "dejar": true
+  }
+ ]
+}

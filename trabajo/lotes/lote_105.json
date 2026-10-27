@@ -1,0 +1,727 @@
+[
+{
+"id": 25597,
+"en": "Yes, but dancing. I'm more likely to bust a hip than a move.",
+"ctx": "diálogo uid0013085c"
+},
+{
+"id": 25598,
+"en": "Oh, sorry to bother you. I'll just be going now.",
+"ctx": "diálogo uid0013085c"
+},
+{
+"id": 25599,
+"en": "No, young lady, wait. I will simply adjust my style to match yours.",
+"ctx": "diálogo uid0013085c"
+},
+{
+"id": 25600,
+"en": "All martial arts include dance-like techniques for toying with your opponent.",
+"ctx": "diálogo uid0013085c"
+},
+{
+"id": 25601,
+"en": "After all, fighting and dancing have much in common. I should be up to the challenge.",
+"ctx": "diálogo uid0013085c"
+},
+{
+"id": 25602,
+"en": "You go, Gramps! Oh man, this is gonna be sweet!",
+"ctx": "diálogo uid0013085c"
+},
+{
+"id": 25603,
+"en": "This is no laughing matter, Sosuke. You might even learn something if you pay attention.",
+"ctx": "diálogo uid0013085c"
+},
+{
+"id": 25604,
+"en": "Are you kidding me!? This is the kinda stuff that gets millions of hits on the internet!",
+"ctx": "diálogo uid0013085c"
+},
+{
+"id": 25605,
+"en": "Never mind. Let's just get started.",
+"ctx": "diálogo uid0013085c"
+},
+{
+"id": 25606,
+"en": "Let's eat!",
+"ctx": "diálogo uid00130bd4 + diálogo uid00130bd8 …"
+},
+{
+"id": 25607,
+"en": "Oh, this is good!",
+"ctx": "diálogo uid00130bd4 + diálogo uid00130bda …"
+},
+{
+"id": 25608,
+"en": "The suspense is killing me.",
+"ctx": "diálogo uid00130bd6"
+},
+{
+"id": 25609,
+"en": "Hey, this is good!",
+"ctx": "diálogo uid00130bd6"
+},
+{
+"id": 25610,
+"en": "This is amazing! Really tasty!",
+"ctx": "diálogo uid00130bd8"
+},
+{
+"id": 25611,
+"en": "Hmm... I can't decide.",
+"ctx": "diálogo uid00130bdc + diálogo uid00130be6"
+},
+{
+"id": 25612,
+"en": "That is great! It really is!",
+"ctx": "diálogo uid00130bdc"
+},
+{
+"id": 25613,
+"en": "Well, let's eat!",
+"ctx": "diálogo uid00130bdf"
+},
+{
+"id": 25614,
+"en": "Oh, wow! This is really good!",
+"ctx": "diálogo uid00130bdf + diálogo uid00130bec"
+},
+{
+"id": 25615,
+"en": "Now that's what I call delicious!",
+"ctx": "diálogo uid00130be6"
+},
+{
+"id": 25616,
+"en": "What do you recommend here?",
+"ctx": "diálogo uid00130be7"
+},
+{
+"id": 25617,
+"en": "Now that's tasty! I'm impressed! It almost moved me to tears!",
+"ctx": "diálogo uid00130be7"
+},
+{
+"id": 25618,
+"en": "Okay, I'll leave it up to you. Surprise me!",
+"ctx": "diálogo uid00130be9"
+},
+{
+"id": 25619,
+"en": "Oh, wow, good choice!",
+"ctx": "diálogo uid00130be9"
+},
+{
+"id": 25620,
+"en": "Well, shall we dig in?",
+"ctx": "diálogo uid00130bea + diálogo uid00130beb"
+},
+{
+"id": 25621,
+"en": "Hey, this is really good!",
+"ctx": "diálogo uid00130beb"
+},
+{
+"id": 25622,
+"en": "Mmm... What a great aroma!",
+"ctx": "diálogo uid00130bec"
+},
+{
+"id": 25623,
+"en": "Okay, here goes!",
+"ctx": "diálogo uid00130bed"
+},
+{
+"id": 25624,
+"en": "(Hm? Is that Tatsuya?)",
+"ctx": "diálogo uid00130bee + diálogo uid00130c02"
+},
+{
+"id": 25625,
+"en": "Welcome to Tatsuya's Three-Minute Kitchen Hack! Today, we're visiting the food stall mecca of Nagasugai, Fukuoka!",
+"ctx": "diálogo uid00130bee"
+},
+{
+"id": 25626,
+"en": "This show is all about having celebrity chef Tatsuya help new and struggling eateries across Japan by coming up with new dishes!",
+"ctx": "diálogo uid00130bee + diálogo uid00130c02 …"
+},
+{
+"id": 25627,
+"en": "In this episode, we're paying a visit to Todagawa-san, owner of an old-school food stall that's on the outs with the young crowd.",
+"ctx": "diálogo uid00130bee"
+},
+{
+"id": 25628,
+"en": "Todagawa-san, we heard you were having trouble attracting younger customers.",
+"ctx": "diálogo uid00130bee"
+},
+{
+"id": 25629,
+"en": "That's right. We mainly serve simple dishes for which Hakata is famous, such as mizutaki, but the younger crowd ain't interested.",
+"ctx": "diálogo uid00130bee"
+},
+{
+"id": 25630,
+"en": "Thought maybe we could come up with a new dish that could attract young people.",
+"ctx": "diálogo uid00130bee"
+},
+{
+"id": 25631,
+"en": "So you want to come up with a mizutaki dish that young people could love, too? Sounds like a tough challenge!",
+"ctx": "diálogo uid00130bee"
+},
+{
+"id": 25632,
+"en": "Well, Tatsuya-san, let's hear what you came up with!",
+"ctx": "diálogo uid00130bee + diálogo uid00130c02 …"
+},
+{
+"id": 25633,
+"en": "Okay, wait for it... I'm calling my new dish \"Cream Stew Style Mizutaki Zosui\"!",
+"ctx": "diálogo uid00130bee"
+},
+{
+"id": 25634,
+"en": "You've done it again, Tatsuya-san! Could you tell us a little more about your new creation?",
+"ctx": "diálogo uid00130bee + diálogo uid00130c02 …"
+},
+{
+"id": 25635,
+"en": "Sure. It's a mizutaki dish prepared like a stew with white sauce and plenty of black pepper.",
+"ctx": "diálogo uid00130bee"
+},
+{
+"id": 25636,
+"en": "You can also enjoy it carbonara style with an egg on top. It's sure to be a hit with the younger crowd, especially the ladies.",
+"ctx": "diálogo uid00130bee"
+},
+{
+"id": 25637,
+"en": "Sounds like a feast for the eyes and mouth. Gotta hand it to ya, Tatsuya-san, I would've never come up with anythin' like that. How'd ya do it?",
+"ctx": "diálogo uid00130bee"
+},
+{
+"id": 25638,
+"en": "When I first came here, I asked a certain person to recommend different eateries. I was quite inspired by all the new places I ate at.",
+"ctx": "diálogo uid00130bee"
+},
+{
+"id": 25639,
+"en": "And there you have it! Another hit dish courtesy of Tatsuya-san! Cream Stew Style Mizutaki Zosui is now available anytime at Todagawa-san's food stall!",
+"ctx": "diálogo uid00130bee"
+},
+{
+"id": 25640,
+"en": "We hope our viewers will come give it a try! Until next time! Bon appétit!",
+"ctx": "diálogo uid00130bee + diálogo uid00130c02 …"
+},
+{
+"id": 25641,
+"en": "(They're serving Tatsuya's new dish at that food stall over there. Maybe I'll give it a try when I have some time.)",
+"ctx": "diálogo uid00130bee"
+},
+{
+"id": 25642,
+"en": "Tatsuya's new dish \"Cream Stew Style Mizutaki Zosui\" has been added to Senbo's menu.",
+"ctx": "diálogo uid00130bee"
+},
+{
+"id": 25643,
+"en": "Welcome to Tatsuya's Three-Minute Kitchen Hack! Today's show is coming to you from Tsukimino, Sapporo!",
+"ctx": "diálogo uid00130c02"
+},
+{
+"id": 25644,
+"en": "And here's who we'll be visiting today!",
+"ctx": "diálogo uid00130c02"
+},
+{
+"id": 25645,
+"en": "It's the manager of Café Alps Tsukimino! It seems he's having trouble attracting more customers to his newly opened café.",
+"ctx": "diálogo uid00130c02"
+},
+{
+"id": 25646,
+"en": "Please, tell us more about your situation.",
+"ctx": "diálogo uid00130c02 + diálogo uid00130c09 …"
+},
+{
+"id": 25647,
+"en": "Yes, well, Café Alps is a venerable coffee shop that got its start in Kamurocho, Tokyo, but a new CEO was recently appointed.",
+"ctx": "diálogo uid00130c02 + diálogo uid00130c10"
+},
+{
+"id": 25648,
+"en": "He's quite the entrepreneur. He wants to expand nationwide, and the Tsukimino location is just the opening salvo. Unfortunately...",
+"ctx": "diálogo uid00130c02"
+},
+{
+"id": 25649,
+"en": "I've failed to attract many customers. But if we had a local dish popular with the people of Sapporo, maybe we could stir up some business.",
+"ctx": "diálogo uid00130c02"
+},
+{
+"id": 25650,
+"en": "I see... So you want to attract more customers at your Tsukimino location by offering a local dish. Sounds like a tough challenge!",
+"ctx": "diálogo uid00130c02"
+},
+{
+"id": 25651,
+"en": "Okay, wait for it... I'm calling my new dish Coconut Milk & Bouillon Soup Curry Pasta!",
+"ctx": "diálogo uid00130c02"
+},
+{
+"id": 25652,
+"en": "Sure. It's the perfect fusion of old-school coffee shop pasta and the soup curry the people of Tsukimino know and love.",
+"ctx": "diálogo uid00130c02"
+},
+{
+"id": 25653,
+"en": "The sweetness of slow-fried onions and the deep flavor of minced chicken make it really special.",
+"ctx": "diálogo uid00130c02"
+},
+{
+"id": 25654,
+"en": "Lots of fresh cream and coconut milk guarantee that it is creamy and mild.",
+"ctx": "diálogo uid00130c02"
+},
+{
+"id": 25655,
+"en": "And my special blend of spices gives it some heat and a refreshing fragrance.",
+"ctx": "diálogo uid00130c02"
+},
+{
+"id": 25656,
+"en": "Wow, you're a genius, Tatsuya-san! No one else could have come up with something like that!",
+"ctx": "diálogo uid00130c02"
+},
+{
+"id": 25657,
+"en": "Well, I might never have if it hadn't been for a certain someone who recommended a number of great Tsukimino eateries to me.",
+"ctx": "diálogo uid00130c02"
+},
+{
+"id": 25658,
+"en": "I guess you could say you need good input to get good output. I, for one, like my new creation. I hope you all will like it, too!",
+"ctx": "diálogo uid00130c02"
+},
+{
+"id": 25659,
+"en": "And there you have it! Another hit dish courtesy of Tatsuya-san! Coconut Milk & Bouillon Soup Curry Pasta is now available here anytime!",
+"ctx": "diálogo uid00130c02"
+},
+{
+"id": 25660,
+"en": "(They got Tatsuya's new dish over at Café Alps Tsukimino. I'll go try it when I have time.)",
+"ctx": "diálogo uid00130c02"
+},
+{
+"id": 25661,
+"en": "Tatsuya's new dish \"Coconut Milk & Bouillon Soup Curry Pasta\" has been added to Café Alps Tsukimino's menu.",
+"ctx": "diálogo uid00130c02"
+},
+{
+"id": 25662,
+"en": "(Ah... Isn't that Tatsuya-san?)",
+"ctx": "diálogo uid00130c09"
+},
+{
+"id": 25663,
+"en": "Welcome to Tatsuya's Three-Minute Kitchen Hack! Today's show is coming to you from Sotenbori, Osaka.",
+"ctx": "diálogo uid00130c09"
+},
+{
+"id": 25664,
+"en": "In this episode, we'll be speaking with the manager of Montblanc Coffee, a new entrant in the hotly contested market for sweets lovers.",
+"ctx": "diálogo uid00130c09"
+},
+{
+"id": 25665,
+"en": "Sotenbori is known for stiff competition in sweets. Only the best of the best can make it in this extremely discerning market.",
+"ctx": "diálogo uid00130c09"
+},
+{
+"id": 25666,
+"en": "Our other locations are quite popular, so we thought Sotenbori was the next step. We didn't realize how tough it would be here.",
+"ctx": "diálogo uid00130c09"
+},
+{
+"id": 25667,
+"en": "If only we had a new breakthrough dish...",
+"ctx": "diálogo uid00130c09"
+},
+{
+"id": 25668,
+"en": "Hmmm... And just what sort of dish are you hoping for?",
+"ctx": "diálogo uid00130c09"
+},
+{
+"id": 25669,
+"en": "Well, our menu tends to skew too much toward unorthodox fare, so we'd love a suggestion of something more on the classic side.",
+"ctx": "diálogo uid00130c09"
+},
+{
+"id": 25670,
+"en": "I see. So you want something more classic to appeal to the customers in a tough market?",
+"ctx": "diálogo uid00130c09"
+},
+{
+"id": 25671,
+"en": "Okay, wait for it... I'm calling my new dish Madame Teruka's egg baumkuchen!",
+"ctx": "diálogo uid00130c09"
+},
+{
+"id": 25672,
+"en": "Sure. This simple, yet irresistible masterpiece doesn't skimp on the eggs. Their delicious flavor really shines through.",
+"ctx": "diálogo uid00130c09"
+},
+{
+"id": 25673,
+"en": "Rich, fresh eggs and the sweet milk from Jersey cows are combined in perfect harmony with natural vanilla beans.",
+"ctx": "diálogo uid00130c09"
+},
+{
+"id": 25674,
+"en": "This exquisite cake is then baked up soft and moist with no artificial flavors or colors added.",
+"ctx": "diálogo uid00130c09"
+},
+{
+"id": 25675,
+"en": "Wow... I've probably had baumkuchen hundreds of times, but this is on a whole other level. You're a genius, Tatsuya-san!",
+"ctx": "diálogo uid00130c09"
+},
+{
+"id": 25676,
+"en": "Well, I might never have come up with this if it weren't for the eateries a certain young lady introduced me to.",
+"ctx": "diálogo uid00130c09"
+},
+{
+"id": 25677,
+"en": "I think you can sense the warmth this cake has. That's her adorable, sweet, and helpful nature shining through.",
+"ctx": "diálogo uid00130c09"
+},
+{
+"id": 25678,
+"en": "Are we talking about a girlfriend here, Tatsuya-san? You sure have a way with the ladies!",
+"ctx": "diálogo uid00130c09"
+},
+{
+"id": 25679,
+"en": "No, no. Don't go getting the wrong idea now!",
+"ctx": "diálogo uid00130c09"
+},
+{
+"id": 25680,
+"en": "Well, it looks like we have another hit on our hands today! Madame Teruka's egg baumkuchen is now available anytime right here!",
+"ctx": "diálogo uid00130c09"
+},
+{
+"id": 25681,
+"en": "(They're serving Tatsuya's new dish! I think I'll go give it a try when I have some time.)",
+"ctx": "diálogo uid00130c09"
+},
+{
+"id": 25682,
+"en": "Tatsuya's new creation \"Madame Teruka's egg baumkuchen\" has been added to Montblanc Coffee's menu.",
+"ctx": "diálogo uid00130c09"
+},
+{
+"id": 25683,
+"en": "(Wait... Is that Tatsuya?)",
+"ctx": "diálogo uid00130c10"
+},
+{
+"id": 25684,
+"en": "Welcome to Tatsuya's Three-Minute Kitchen Hack! Today, we're coming to you from Kineicho, Nagoya.",
+"ctx": "diálogo uid00130c10"
+},
+{
+"id": 25685,
+"en": "In this episode, we'll be speaking with the manager of Café Alps Kineicho about his new location's difficulties in attracting customers.",
+"ctx": "diálogo uid00130c10"
+},
+{
+"id": 25686,
+"en": "He's pretty ambitious and wants to expand across Japan. He started with Tsukimino, and now there's this Kineicho location, too. Unfortunately...",
+"ctx": "diálogo uid00130c10"
+},
+{
+"id": 25687,
+"en": "Business hasn't been very good. But if we had a local dish that the people of Kineicho liked, maybe we could win over more customers.",
+"ctx": "diálogo uid00130c10"
+},
+{
+"id": 25688,
+"en": "I see... So you want to attract more customers at your Kineicho shop by offering a local dish.",
+"ctx": "diálogo uid00130c10"
+},
+{
+"id": 25689,
+"en": "Okay, wait for it... I'm calling my new dish Bolognese Ankake Spaghetti with Hatcho Miso!",
+"ctx": "diálogo uid00130c10"
+},
+{
+"id": 25690,
+"en": "Sure. Nagoya is known for its miso and ankake spaghetti, so I thought, why not combine the two for a bit of fusion magic?",
+"ctx": "diálogo uid00130c10"
+},
+{
+"id": 25691,
+"en": "I use ground chicken and hatcho miso to create a bolognese-style ankake sauce. I also add burdock to subtly ramp up the flavor factor.",
+"ctx": "diálogo uid00130c10"
+},
+{
+"id": 25692,
+"en": "Then there's the flavorful heat of the aged broad bean chili paste I add, along with domestic beef fat to make it even richer.",
+"ctx": "diálogo uid00130c10"
+},
+{
+"id": 25693,
+"en": "That sounds amazing. The people of Nagoya are going to eat that up... literally! How did you ever come up with such a masterpiece!?",
+"ctx": "diálogo uid00130c10"
+},
+{
+"id": 25694,
+"en": "Well, I might never have if it weren't for the eateries a certain someone introduced me to.",
+"ctx": "diálogo uid00130c10 + diálogo uid00130c17"
+},
+{
+"id": 25695,
+"en": "And there you have it! Another hit dish courtesy of Tatsuya-san! Bolognese Ankake Spaghetti with Hatcho Miso is now available anytime right here!",
+"ctx": "diálogo uid00130c10"
+},
+{
+"id": 25696,
+"en": "(They have Tatsuya's new dish over at Café Alps Kineicho. Maybe I'll go check it out when I have some money.)",
+"ctx": "diálogo uid00130c10"
+},
+{
+"id": 25697,
+"en": "Tatsuya's new dish \"Bolognese Ankake Spaghetti with Hatcho Miso\" has been added to Café Alps Kineicho's menu.",
+"ctx": "diálogo uid00130c10"
+},
+{
+"id": 25698,
+"en": "(Hm...? Isn't that Tatsuya?)",
+"ctx": "diálogo uid00130c17"
+},
+{
+"id": 25699,
+"en": "Welcome to Tatsuya's Three-Minute Kitchen Hack! Today, we're coming to you from Kamurocho, Tokyo!",
+"ctx": "diálogo uid00130c17"
+},
+{
+"id": 25700,
+"en": "In this episode, we'll be speaking with the manager of Kanrai, a yakiniku restaurant here in Kamurocho.",
+"ctx": "diálogo uid00130c17"
+},
+{
+"id": 25701,
+"en": "Our restaurant has been a long-time favorite of local yakiniku fans, but business has been slowing on account of the bad economy.",
+"ctx": "diálogo uid00130c17"
+},
+{
+"id": 25702,
+"en": "We'd love a good idea for an original dish that could jump start business. Otherwise, I'm afraid it's going to be a slow, downward spiral.",
+"ctx": "diálogo uid00130c17"
+},
+{
+"id": 25703,
+"en": "I see... So you'd like an original dish for your yakiniku restaurant. Sounds like a tough challenge!",
+"ctx": "diálogo uid00130c17"
+},
+{
+"id": 25704,
+"en": "Okay, wait for it... I'm calling my new dish Sundubu Jjigae with Sauce Américaine!",
+"ctx": "diálogo uid00130c17"
+},
+{
+"id": 25705,
+"en": "Sure. It's my own spin on jigae soup, that old standard dish you'll find at any yakiniku joint.",
+"ctx": "diálogo uid00130c17"
+},
+{
+"id": 25706,
+"en": "My version brings together sweet seafood, rich shellfish, and exquisite sauce américaine. It's like an explosion of flavor in your mouth!",
+"ctx": "diálogo uid00130c17"
+},
+{
+"id": 25707,
+"en": "Plenty of fresh cream and coconut powder give it a creamy, mild flavor that's hard to resist.",
+"ctx": "diálogo uid00130c17"
+},
+{
+"id": 25708,
+"en": "Wow! You took a classic menu item and really made it your own. I love it! But how did you ever come up with such a masterpiece!?",
+"ctx": "diálogo uid00130c17"
+},
+{
+"id": 25709,
+"en": "And there you have it! Another hit dish courtesy of Tatsuya-san! Sundubu Jjigae with Sauce Américaine is now available anytime right here!",
+"ctx": "diálogo uid00130c17"
+},
+{
+"id": 25710,
+"en": "(Looks like they have a new dish from Tatsuya over at Kanrai. I should go try it sometime.)",
+"ctx": "diálogo uid00130c17"
+},
+{
+"id": 25711,
+"en": "Tatsuya's new dish \"Sundubu Jjigae with Sauce Américaine\" has been added to Kanrai's menu.",
+"ctx": "diálogo uid00130c17"
+},
+{
+"id": 25712,
+"en": "(Haven't seen Tendo since he vanished. Wonder how the old guy's doin'.)",
+"ctx": "diálogo uid00130c4c"
+},
+{
+"id": 25713,
+"en": "(That was some pretty weird stuff that went down, but lookin' back, I gotta admit that it was actually kinda fun.)",
+"ctx": "diálogo uid00130c4c"
+},
+{
+"id": 25714,
+"en": "(Well, no point worryin' about him. Anyone who can do freaky stuff like that can take care of himself.)",
+"ctx": "diálogo uid00130c4c"
+},
+{
+"id": 25715,
+"en": "Someone there?",
+"ctx": "diálogo uid00130c4c"
+},
+{
+"id": 25716,
+"en": "I heard that! Who farted!?",
+"ctx": "diálogo uid00130c4c"
+},
+{
+"id": 25717,
+"en": "Come on out, old man. No need to hide.",
+"ctx": "diálogo uid00130c4c"
+},
+{
+"id": 25718,
+"en": "Forgive me, Saejima. You see, I was busy getting some things ready.",
+"ctx": "diálogo uid00130c4c"
+},
+{
+"id": 25719,
+"en": "Yeah? What kind of things?",
+"ctx": "diálogo uid00130c4c"
+},
+{
+"id": 25720,
+"en": "Oh, umm... Yes, about that....",
+"ctx": "diálogo uid00130c4c"
+},
+{
+"id": 25721,
+"en": "Well? Out with it, already.",
+"ctx": "diálogo uid00130c4c"
+},
+{
+"id": 25722,
+"en": "Very well. I suppose you deserve an explanation.",
+"ctx": "diálogo uid00130c4c"
+},
+{
+"id": 25723,
+"en": "You know that magic I performed for you? It's nothing more than parlor tricks.",
+"ctx": "diálogo uid00130c4c"
+},
+{
+"id": 25724,
+"en": "Tricks? You mean like sleight of hand or something?",
+"ctx": "diálogo uid00130c4c"
+},
+{
+"id": 25725,
+"en": "Just so. You see, I was a magician back in my younger days.",
+"ctx": "diálogo uid00130c4c"
+},
+{
+"id": 25726,
+"en": "I performed under the name Tendo Oshida, and my, how I used to pack the house!",
+"ctx": "diálogo uid00130c4c"
+},
+{
+"id": 25727,
+"en": "I've actually heard of you! Had no idea you were famous, old man.",
+"ctx": "diálogo uid00130c4c"
+},
+{
+"id": 25728,
+"en": "Well, back in the day, anyway.",
+"ctx": "diálogo uid00130c4c"
+},
+{
+"id": 25729,
+"en": "The crowds adored me before the bubble burst, but once the economy went south, so did my career. I eventually ended up out here.",
+"ctx": "diálogo uid00130c4c"
+},
+{
+"id": 25730,
+"en": "If you can do magic like that, why hide away in this godforsaken place?",
+"ctx": "diálogo uid00130c4c"
+},
+{
+"id": 25731,
+"en": "You see, I've always been fond of big, bold magic tricks. And I always wanted a place where I could try them out whenever an idea popped into my head.",
+"ctx": "diálogo uid00130c4c"
+},
+{
+"id": 25732,
+"en": "You know that shrine? Just between us, the whole place is packed with my high-tech magic gear.",
+"ctx": "diálogo uid00130c4c"
+},
+{
+"id": 25733,
+"en": "Ah, now everything finally makes sense. But there's still one more thing that's been buggin' me.",
+"ctx": "diálogo uid00130c4c"
+},
+{
+"id": 25734,
+"en": "All those offerings... What'd you do with 'em?",
+"ctx": "diálogo uid00130c4c"
+},
+{
+"id": 25735,
+"en": "Ah, yes... Well...",
+"ctx": "diálogo uid00130c4c"
+},
+{
+"id": 25736,
+"en": "Wait a second. Are you tellin' me it was all for your own personal benefit?",
+"ctx": "diálogo uid00130c4c"
+},
+{
+"id": 25737,
+"en": "He vanished again. He's got a habit of doin' that when he's put on the spot.",
+"ctx": "diálogo uid00130c4c"
+},
+{
+"id": 25738,
+"en": "Aw, whatever. Take care, old man.",
+"ctx": "diálogo uid00130c4c"
+},
+{
+"id": 25739,
+"en": "Yeah, kind of. You were asking for a job at the Hawaiian pub, right?",
+"ctx": "diálogo uid0016001f"
+},
+{
+"id": 25740,
+"en": "Oh! Are they going to hire me?",
+"ctx": "diálogo uid0016001f"
+},
+{
+"id": 25741,
+"en": "No, not by a longshot. The manager and I were curious as to why a girl so young wants a job so sleazy.",
+"ctx": "diálogo uid0016001f"
+}
+]

@@ -1,0 +1,38 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_k6",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    165,
+    155,
+    512,
+    212
+   ],
+   "en": "Now serving",
+   "ocr": "noodles",
+   "es": "Ahora servimos",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 184
+  },
+  {
+   "caja": [
+    165,
+    212,
+    512,
+    256
+   ],
+   "en": "cold noodles",
+   "ocr": "noodles",
+   "es": "fideos fríos",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 184
+  }
+ ]
+}

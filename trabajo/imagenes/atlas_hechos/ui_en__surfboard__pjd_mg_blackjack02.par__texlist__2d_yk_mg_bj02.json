@@ -1,0 +1,78 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_blackjack02.par/texlist/2d_yk_mg_bj02",
+ "fuente": "timesbi.ttf",
+ "margen": 0,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    28,
+    20,
+    486,
+    82
+   ],
+   "en": "One-on-One Mode",
+   "es": "Modo uno a uno",
+   "fuente": "timesbi.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 450,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     245,
+     245,
+     245
+    ],
+    "contorno": [
+     [
+      25,
+      25,
+      25
+     ],
+     2
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    28,
+    114,
+    486,
+    182
+   ],
+   "en": "High-Stakes Mode",
+   "es": "Modo apuestas altas",
+   "fuente": "timesbi.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 450,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     245,
+     245,
+     245
+    ],
+    "contorno": [
+     [
+      25,
+      25,
+      25
+     ],
+     2
+    ],
+    "brillo": null
+   }
+  }
+ ]
+}

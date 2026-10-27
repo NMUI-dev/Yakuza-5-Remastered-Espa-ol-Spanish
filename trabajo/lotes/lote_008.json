@@ -1,0 +1,3247 @@
+[
+{
+"id": 1878,
+"en": "Bowl on a competition show featuring all-out battles between idols.",
+"ctx": "tabla idol_work|NOTE"
+},
+{
+"id": 1879,
+"en": "Play darts on a competition show featuring all-out battles between idols.",
+"ctx": "tabla idol_work|NOTE"
+},
+{
+"id": 1880,
+"en": "Play air hockey on a competition show featuring all-out battles between idols.",
+"ctx": "tabla idol_work|NOTE"
+},
+{
+"id": 1881,
+"en": "Try river fishing on a fishing show that visits popular spots around the country.",
+"ctx": "tabla idol_work|NOTE"
+},
+{
+"id": 1882,
+"en": "Try the UFO Catcher on a variety show.",
+"ctx": "tabla idol_work|NOTE"
+},
+{
+"id": 1883,
+"en": "Appear on \"Love to See You Smile,\" one of Soten TV's flagship shows.",
+"ctx": "tabla idol_work|NOTE"
+},
+{
+"id": 1884,
+"en": "Appear on a game show that will test intermediate knowledge of Sotenbori.",
+"ctx": "tabla idol_work|NOTE"
+},
+{
+"id": 1885,
+"en": "Appear on a game show that will test advanced knowledge of Sotenbori.",
+"ctx": "tabla idol_work|NOTE"
+},
+{
+"id": 1886,
+"en": "Appear on a special edition of Sotenbori Love Check Quiz with general questions.",
+"ctx": "tabla idol_work|NOTE"
+},
+{
+"id": 1887,
+"en": "Take part in a handshake event put on by Soten Town, a local info magazine.",
+"ctx": "tabla idol_work|NOTE"
+},
+{
+"id": 1888,
+"en": "Perform \"So Much More!\" at a mini-concert hosted by Soten Town.",
+"ctx": "tabla idol_work|NOTE"
+},
+{
+"id": 1889,
+"en": "Perform \"Loneliness Loop\" at a mini-concert hosted by Soten Town.",
+"ctx": "tabla idol_work|NOTE"
+},
+{
+"id": 1890,
+"en": "Take part in a jazz dance event hosted by Soten Town, a town info magazine.",
+"ctx": "tabla idol_work|NOTE"
+},
+{
+"id": 1891,
+"en": "An interview with Kiss Kiss, a fashion magazine aimed at teens and pre-teens.",
+"ctx": "tabla idol_work|NOTE"
+},
+{
+"id": 1892,
+"en": "An interview with TV Smash, a magazine focusing on TV personalities and shows.",
+"ctx": "tabla idol_work|NOTE"
+},
+{
+"id": 1893,
+"en": "An interview with Beginner, a magazine that gives audition information.",
+"ctx": "tabla idol_work|NOTE"
+},
+{
+"id": 1894,
+"en": "An interview with Sensual Gentleman, a men's magazine that covers racy topics.",
+"ctx": "tabla idol_work|NOTE"
+},
+{
+"id": 1895,
+"en": "An interview with Gossip Gals, a hard-hitting gossip magazine.",
+"ctx": "tabla idol_work|NOTE"
+},
+{
+"id": 1896,
+"en": "A handshake event hosted by Dyna Chair to garner fans.",
+"ctx": "tabla idol_work|NOTE"
+},
+{
+"id": 1897,
+"en": "A handshake event hosted by Dyna Chair to garner more fans.",
+"ctx": "tabla idol_work|NOTE"
+},
+{
+"id": 1898,
+"en": "A handshake event hosted by Dyna Chair to garner even more fans.",
+"ctx": "tabla idol_work|NOTE"
+},
+{
+"id": 1899,
+"en": "Perform \"So Much More!\" to garner fans.",
+"ctx": "tabla idol_work|NOTE"
+},
+{
+"id": 1900,
+"en": "Perform \"Loneliness Loop\" to garner more fans.",
+"ctx": "tabla idol_work|NOTE"
+},
+{
+"id": 1901,
+"en": "Perform \"Because I Have You\" to garner even more fans.",
+"ctx": "tabla idol_work|NOTE"
+},
+{
+"id": 1902,
+"en": "An idol dance event to garner fans.",
+"ctx": "tabla idol_work|NOTE"
+},
+{
+"id": 1903,
+"en": "An idol dance event to garner even more fans.",
+"ctx": "tabla idol_work|NOTE"
+},
+{
+"id": 1904,
+"en": "Soten TV",
+"ctx": "tabla idol_work|CLIENT"
+},
+{
+"id": 1905,
+"en": "Haruka Sawamura Fan Club",
+"ctx": "tabla idol_work|CLIENT"
+},
+{
+"id": 1906,
+"en": "Soten TV Prod.",
+"ctx": "tabla idol_work|CLIENT"
+},
+{
+"id": 1907,
+"en": "Ioka, Soten TV",
+"ctx": "tabla idol_work|CLIENT"
+},
+{
+"id": 1908,
+"en": "Uda, Merch. Assoc.",
+"ctx": "tabla idol_work|CLIENT"
+},
+{
+"id": 1909,
+"en": "Soten Town",
+"ctx": "tabla idol_work|CLIENT"
+},
+{
+"id": 1910,
+"en": "Kiss Kiss",
+"ctx": "tabla idol_work|CLIENT + tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 1911,
+"en": "TV Smash",
+"ctx": "tabla idol_work|CLIENT"
+},
+{
+"id": 1912,
+"en": "Beginner",
+"ctx": "tabla idol_work|CLIENT + menú/texto string_tbl"
+},
+{
+"id": 1913,
+"en": "Sensual Gentleman",
+"ctx": "tabla idol_work|CLIENT"
+},
+{
+"id": 1914,
+"en": "Gossip Gals",
+"ctx": "tabla idol_work|CLIENT"
+},
+{
+"id": 1915,
+"en": "Dyna Chair",
+"ctx": "tabla idol_work|CLIENT"
+},
+{
+"id": 1916,
+"en": "180 People",
+"ctx": "tabla idol_work|FAN"
+},
+{
+"id": 1917,
+"en": "50 People",
+"ctx": "tabla idol_work|FAN"
+},
+{
+"id": 1918,
+"en": "80 People",
+"ctx": "tabla idol_work|FAN"
+},
+{
+"id": 1919,
+"en": "90 People",
+"ctx": "tabla idol_work|FAN"
+},
+{
+"id": 1920,
+"en": "140 People",
+"ctx": "tabla idol_work|FAN"
+},
+{
+"id": 1921,
+"en": "210 People",
+"ctx": "tabla idol_work|FAN"
+},
+{
+"id": 1922,
+"en": "270 People",
+"ctx": "tabla idol_work|FAN"
+},
+{
+"id": 1923,
+"en": "350 People",
+"ctx": "tabla idol_work|FAN"
+},
+{
+"id": 1924,
+"en": "150 People",
+"ctx": "tabla idol_work|FAN"
+},
+{
+"id": 1925,
+"en": "250 People",
+"ctx": "tabla idol_work|FAN"
+},
+{
+"id": 1926,
+"en": "330 People",
+"ctx": "tabla idol_work|FAN"
+},
+{
+"id": 1927,
+"en": "480 People",
+"ctx": "tabla idol_work|FAN"
+},
+{
+"id": 1928,
+"en": "640 People",
+"ctx": "tabla idol_work|FAN"
+},
+{
+"id": 1929,
+"en": "800 People",
+"ctx": "tabla idol_work|FAN"
+},
+{
+"id": 1930,
+"en": "200 People",
+"ctx": "tabla idol_work|FAN"
+},
+{
+"id": 1931,
+"en": "100 People",
+"ctx": "tabla idol_work|FAN"
+},
+{
+"id": 1932,
+"en": "120 People",
+"ctx": "tabla idol_work|FAN"
+},
+{
+"id": 1933,
+"en": "450 People",
+"ctx": "tabla idol_work|FAN"
+},
+{
+"id": 1934,
+"en": "550 People",
+"ctx": "tabla idol_work|FAN"
+},
+{
+"id": 1935,
+"en": "650 People",
+"ctx": "tabla idol_work|FAN"
+},
+{
+"id": 1936,
+"en": "750 People",
+"ctx": "tabla idol_work|FAN"
+},
+{
+"id": 1937,
+"en": "850 People",
+"ctx": "tabla idol_work|FAN"
+},
+{
+"id": 1938,
+"en": "340 People",
+"ctx": "tabla idol_work|FAN"
+},
+{
+"id": 1939,
+"en": "400 People",
+"ctx": "tabla idol_work|FAN"
+},
+{
+"id": 1940,
+"en": "490 People",
+"ctx": "tabla idol_work|FAN"
+},
+{
+"id": 1941,
+"en": "240 People",
+"ctx": "tabla idol_work|FAN"
+},
+{
+"id": 1942,
+"en": "420 People",
+"ctx": "tabla idol_work|FAN"
+},
+{
+"id": 1943,
+"en": "170 People",
+"ctx": "tabla idol_work|FAN"
+},
+{
+"id": 1944,
+"en": "220 People",
+"ctx": "tabla idol_work|FAN"
+},
+{
+"id": 1945,
+"en": "280 People",
+"ctx": "tabla idol_work|FAN"
+},
+{
+"id": 1946,
+"en": "130 People",
+"ctx": "tabla idol_work|FAN"
+},
+{
+"id": 1947,
+"en": "300 People",
+"ctx": "tabla idol_work|FAN"
+},
+{
+"id": 1948,
+"en": "160 People",
+"ctx": "tabla idol_work|FAN"
+},
+{
+"id": 1949,
+"en": "american_sack ",
+"ctx": "tabla item|ID"
+},
+{
+"id": 1950,
+"en": "DartsCard01",
+"ctx": "tabla item|ID"
+},
+{
+"id": 1951,
+"en": "DartsCard02",
+"ctx": "tabla item|ID"
+},
+{
+"id": 1952,
+"en": "DartsCard03",
+"ctx": "tabla item|ID"
+},
+{
+"id": 1953,
+"en": "DartsCard04",
+"ctx": "tabla item|ID"
+},
+{
+"id": 1954,
+"en": "DartsCard05",
+"ctx": "tabla item|ID"
+},
+{
+"id": 1955,
+"en": "DartsCard06",
+"ctx": "tabla item|ID"
+},
+{
+"id": 1956,
+"en": "DartsCard07",
+"ctx": "tabla item|ID"
+},
+{
+"id": 1957,
+"en": "DartsCard08",
+"ctx": "tabla item|ID"
+},
+{
+"id": 1958,
+"en": "DartsCard09",
+"ctx": "tabla item|ID"
+},
+{
+"id": 1959,
+"en": "DartsCard10",
+"ctx": "tabla item|ID"
+},
+{
+"id": 1960,
+"en": "DartsCard11",
+"ctx": "tabla item|ID"
+},
+{
+"id": 1961,
+"en": "DartsCard12",
+"ctx": "tabla item|ID"
+},
+{
+"id": 1962,
+"en": "DartsCard13",
+"ctx": "tabla item|ID"
+},
+{
+"id": 1963,
+"en": "DartsCard14",
+"ctx": "tabla item|ID"
+},
+{
+"id": 1964,
+"en": "DartsCard15",
+"ctx": "tabla item|ID"
+},
+{
+"id": 1965,
+"en": "DartsCard16",
+"ctx": "tabla item|ID"
+},
+{
+"id": 1966,
+"en": "Toughness Light",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 1967,
+"en": "Toughness Z",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 1968,
+"en": "Toughness ZZ",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 1969,
+"en": "Toughness Emperor",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 1970,
+"en": "Toughness Infinity",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 1971,
+"en": "Tauriner",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 1972,
+"en": "Tauriner +",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 1973,
+"en": "Tauriner ++",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 1974,
+"en": "Tauriner Maximum",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 1975,
+"en": "Staminan Light",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 1976,
+"en": "Staminan X",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 1977,
+"en": "Staminan XX",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 1978,
+"en": "Staminan Royale",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 1979,
+"en": "Staminan Spark",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 1980,
+"en": "AppStim RX",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 1981,
+"en": "Ointment",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 1982,
+"en": "Diehard Drink",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 1983,
+"en": "Diehard MAX",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 1984,
+"en": "Super Turmeric No. 1",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 1985,
+"en": "Daikoku Black Sesame Kinako",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 1986,
+"en": "Daikoku Okinawan Black Sugar Candy",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 1987,
+"en": "Ginger Quince",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 1988,
+"en": "Extreme Lemon",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 1989,
+"en": "Extreme Lemon Sticks",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 1990,
+"en": "Haruka's Candy",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 1991,
+"en": "Haruka's Chocolate",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 1992,
+"en": "Haruka's Lunch",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 1993,
+"en": "Haruka's First-Aid Kit",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 1994,
+"en": "Shoyu Ramen",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 1995,
+"en": "Miso Ramen",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 1996,
+"en": "Tonkotsu Ramen",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 1997,
+"en": "Shio Ramen",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 1998,
+"en": "Squid Yakisoba",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 1999,
+"en": "Extra Large Sauce Yakisoba",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2000,
+"en": "Soup Harusame: Wonton",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2001,
+"en": "Soup Harusame: Egg",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2002,
+"en": "Soup Harusame: Tan Tan Noodles",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2003,
+"en": "Soup Harusame: Jjigae",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2004,
+"en": "Soup Harusame: Seaweed Veggie",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2005,
+"en": "Soup Harusame: Chinese Chicken",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2006,
+"en": "Soup Harusame: Hot & Sour",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2007,
+"en": "Soup Harusame: Champon",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2008,
+"en": "Kaori Ajiwau Kun Salt Ramen",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2009,
+"en": "JANJAN Yakisoba Koku Sauce",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2010,
+"en": "Wakame Ramen Sesame Soy Sauce",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2011,
+"en": "Wonton Ramen",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2012,
+"en": "Sparkling Cola",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2013,
+"en": "Jasmine Tea",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2014,
+"en": "Soy Sauce Noodles",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2015,
+"en": "Curry Noodles",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2016,
+"en": "Seafood Noodles",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2017,
+"en": "Kizamiage Udon",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2018,
+"en": "Seicofresh 1L Hokkaido Milk",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2019,
+"en": "Kita no Yutaka",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2020,
+"en": "Pocket Tissues",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2021,
+"en": "Oden Soup",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2022,
+"en": "Seaweed Onigiri",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2023,
+"en": "Tuna Onigiri",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2024,
+"en": "Salmon Onigiri",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2025,
+"en": "Grilled Onigiri with Butter",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2026,
+"en": "Grilled Onigiri with Miso",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2027,
+"en": "Tonkotsu Onigiri",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2028,
+"en": "Sauce Onigiri",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2029,
+"en": "Bento Lunch Set",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2030,
+"en": "Bento Lunch Set (Pork)",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2031,
+"en": "Zangi Lunch Set",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2032,
+"en": "Miso Katsu Lunch Set",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2033,
+"en": "Okonomiyaki Lunch Set",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2034,
+"en": "Pan-fried Gyoza Lunch Set",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME"
+},
+{
+"id": 2035,
+"en": "Club Sandwich",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2036,
+"en": "Tuna & Egg Sandwich",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2037,
+"en": "Special Yakisoba",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2038,
+"en": "Steamed Bun",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2039,
+"en": "Bean Paste Bun",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2040,
+"en": "Yakisoba Bun",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2041,
+"en": "Buttery Potato Bun",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2042,
+"en": "Eel Bun",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2043,
+"en": "Takoyaki Bun",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2044,
+"en": "Mentaiko Bun",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2045,
+"en": "Sake",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2046,
+"en": "Milk",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2047,
+"en": "Dog Food",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2048,
+"en": "Sushi Set",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2049,
+"en": "Wormwood",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2050,
+"en": "Catnip Stick",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2051,
+"en": "Miso Paste Cucumber",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2052,
+"en": "Yakitori",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2053,
+"en": "Makeup Remover",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2054,
+"en": "Legendary Drinker of Ryukyu",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2055,
+"en": "BOSS Rainbow Mountain Blend",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2056,
+"en": "BOSS Light Sugar",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2057,
+"en": "BOSS Black",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2058,
+"en": "Suntory Oolong Tea",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2059,
+"en": "Suntory Black Oolong Tea",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2060,
+"en": "Suntory Mineral Water (S. Alps)",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2061,
+"en": "Suntory Mineral Water (Okudaisen)",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2062,
+"en": "Suntory Mineral Water (Aso)",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2063,
+"en": "Iyemon Cha (Green Tea)",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2064,
+"en": "Iyemon Rich (Green Tea)",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2065,
+"en": "C.C. Lemon",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2066,
+"en": "GREEN DAKARA",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2067,
+"en": "Dekavita C",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2068,
+"en": "Vitamin Water",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2069,
+"en": "Orangina",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2070,
+"en": "Gomamugi Cha",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2071,
+"en": "The Premium Malt's",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2072,
+"en": "Kinmugi",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2073,
+"en": "Kaku Highball (Can)",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2074,
+"en": "Calori (Mediterranean Lemon)",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2075,
+"en": "Expired Lunch Set",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2076,
+"en": "Monogrammed Bag",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2077,
+"en": "French Cologne",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2078,
+"en": "French Perfume",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2079,
+"en": "Italian Cologne",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2080,
+"en": "Italian Perfume",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2081,
+"en": "French Scarf",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2082,
+"en": "French Wallet",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2083,
+"en": "Italian Scarf",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2084,
+"en": "Italian Wallet",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2085,
+"en": "French Handbag",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2086,
+"en": "Italian Shoulder Bag",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2087,
+"en": "Swiss Watch",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2088,
+"en": "Asian Digital Watch",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2089,
+"en": "Japanese Diver's Watch",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2090,
+"en": "French Haute Couture Dress",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2091,
+"en": "French Prêt-à-Porter Dress",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2092,
+"en": "Italian Women's Suit",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2093,
+"en": "Italian Women's Watch",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2094,
+"en": "Italian Necklace",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2095,
+"en": "Caviar Skin Bag",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2096,
+"en": "Italian Ring",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2097,
+"en": "Italian Men's Necklace",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2098,
+"en": "Gold Bracelet",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2099,
+"en": "Silver Bracelet",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2100,
+"en": "Jeweled Earrings",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2101,
+"en": "Gold Earrings",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2102,
+"en": "Leather Strap",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2103,
+"en": "Silver Strap",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2104,
+"en": "Italian Boots",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2105,
+"en": "French Sandals",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2106,
+"en": "Italian Belt",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2107,
+"en": "British Women's Coat",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2108,
+"en": "Pink Blouse",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2109,
+"en": "Leopard Print Coat",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2110,
+"en": "White Sweater",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2111,
+"en": "Black Pants",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2112,
+"en": "Leopard Print Miniskirt",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2113,
+"en": "Gray Flared Skirt",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2114,
+"en": "Handbag",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2115,
+"en": "Leopard Print Pumps",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2116,
+"en": "Short Black Boots",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2117,
+"en": "Long Camel-colored Boots",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2118,
+"en": "Blended Coffee",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2119,
+"en": "Blue Mountain",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2120,
+"en": "Mocha",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2121,
+"en": "Earl Grey Tea",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2122,
+"en": "Strawberry Parfait",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2123,
+"en": "Chocolate Parfait",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2124,
+"en": "Cake Set",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2125,
+"en": "Toast Set",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2126,
+"en": "Sandwich Set",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2127,
+"en": "Original Beef Curry",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2128,
+"en": "Beef Rice",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2129,
+"en": "Beef Rice (L)",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2130,
+"en": "Bibimbap",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2131,
+"en": "Bibimbap (L)",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2132,
+"en": "Original Spicy Curry",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2133,
+"en": "Original Spicy Curry (L)",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2134,
+"en": "Beef Curry",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2135,
+"en": "Grilled Chicken Bowl",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2136,
+"en": "Grilled Chicken Bowl (L)",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2137,
+"en": "Beef Yakiniku Meal",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2138,
+"en": "Kalbi Yakiniku Meal",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2139,
+"en": "Demitama Hamburg Steak Meal",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2140,
+"en": "Pork Yakiniku Meal",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2141,
+"en": "Ginger Pork Meal",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2142,
+"en": "Grilled Chicken Meal",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2143,
+"en": "Beef Rice Lunch Set",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2144,
+"en": "Beef Rice Lunch Set (L)",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2145,
+"en": "The Premium Malt's Draft",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2146,
+"en": "The Kaku Highball",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2147,
+"en": "Yamazaki Highball",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2148,
+"en": "Hakushu Mori Kaoru Highball",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2149,
+"en": "Fresh Grapefruit Juice Highball",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2150,
+"en": "Coke Highball",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2151,
+"en": "Oolong Tea",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2152,
+"en": "Absolutely Tasty Takoyaki",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2153,
+"en": "Cheese & Fish Roe Takoyaki",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2154,
+"en": "Spring Onion Takoyaki",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2155,
+"en": "Octopus Basil Appetizer",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2156,
+"en": "Galician-style Octopus",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2157,
+"en": "Octopus & Avocado with Yuzu Pepper",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2158,
+"en": "Sauce Yakisoba",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2159,
+"en": "Smile Burger Set",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2160,
+"en": "Smile Cheeseburger Set",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2161,
+"en": "Teriyaki Smile Burger Set",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2162,
+"en": "King Smile Burger Set",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2163,
+"en": "Tuna Burger Set",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2164,
+"en": "Braised Pork Burger Set",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2165,
+"en": "Smile Shake",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2166,
+"en": "Limited Millennium Tower Burger",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2167,
+"en": "Kyushu Tonkotsu Ramen",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2168,
+"en": "Stewed Pork Tonkotsu Ramen",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2169,
+"en": "Chashu Tonkotsu Ramen",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2170,
+"en": "Mentaiko Tonkotsu Ramen",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2171,
+"en": "Kyushu Tonkotsu Tsukemen",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2172,
+"en": "Chashu Rice Bowl",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2173,
+"en": "Miso Motsunabe",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2174,
+"en": "Shoyu Motsunabe",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2175,
+"en": "Shabu-shabu Motsunabe",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2176,
+"en": "Motsuyaki",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2177,
+"en": "Pickled Motsu",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2178,
+"en": "Chashu Ramen",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2179,
+"en": "Fried Ramen",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2180,
+"en": "Fried Rice",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2181,
+"en": "Grilled Pig's Feet",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2182,
+"en": "Original Hakata Tonkotsu Ramen",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2183,
+"en": "Original Wonton Ramen",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2184,
+"en": "Homestyle Gyoza",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2185,
+"en": "Stir-fried Vegetables",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2186,
+"en": "Aji Course",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2187,
+"en": "Hana Course",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2188,
+"en": "Kinka Course",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2189,
+"en": "Hanamidori Mizutaki",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2190,
+"en": "Mizutaki Karaage",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2191,
+"en": "Hanamidori Meatballs with Special Sauce",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2192,
+"en": "Collagen Salad",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2193,
+"en": "Collagen Pudding",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2194,
+"en": "Bluefin Pink Fatty Tuna",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2195,
+"en": "Bluefin Fatty Tuna",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2196,
+"en": "Bluefin Tuna",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2197,
+"en": "Seared Bluefin Tuna",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2198,
+"en": "Salmon",
+"ctx": "tabla item|NAME + menú/texto string_tbl …"
+},
+{
+"id": 2199,
+"en": "Squid",
+"ctx": "tabla item|NAME + menú/texto string_tbl …"
+},
+{
+"id": 2200,
+"en": "Shima-aji",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2201,
+"en": "Mackerel",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2202,
+"en": "Ikura",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2203,
+"en": "Engawa",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2204,
+"en": "Botan Shrimp",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2205,
+"en": "Akagai",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2206,
+"en": "Uni",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2207,
+"en": "Choice Saltwater Eel",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2208,
+"en": "Maguro Zanmai",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2209,
+"en": "Chef's Special",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2210,
+"en": "Scallop",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2211,
+"en": "Snow Crab",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2212,
+"en": "Special Sushi Zanmai",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2213,
+"en": "Hokkai Sushi Set",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2214,
+"en": "Special A Set",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2215,
+"en": "Prime Chirashi Rice Bowl",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2216,
+"en": "Dragon Seafood Rice Bowl",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2217,
+"en": "Cheese & Fish Roe Zosui",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2218,
+"en": "Genkai Tai Zosui",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2219,
+"en": "Special Zosui",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2220,
+"en": "Stamina Zosui",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2221,
+"en": "Kake Udon",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2222,
+"en": "Tsukimi Udon",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2223,
+"en": "Kakiage Udon",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2224,
+"en": "Burdock Tempura Udon",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2225,
+"en": "Maruten Udon",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2226,
+"en": "Beef Udon",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2227,
+"en": "Shrimp Tempura Udon",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2228,
+"en": "Meat & Burdock Tempura Udon",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2229,
+"en": "Kashiwa Chicken Onigiri (2)",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2230,
+"en": "Salted Mackerel",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2231,
+"en": "Kashiwa Chicken",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2232,
+"en": "Shrimp Tempura Musubi",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2233,
+"en": "Eel",
+"ctx": "tabla item|NAME + menú/texto string_tbl …"
+},
+{
+"id": 2234,
+"en": "Okaka",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2235,
+"en": "Spicy Fish Roe",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2236,
+"en": "Mustard Greens",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2237,
+"en": "Japanese Turnip & Dried Fish",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2238,
+"en": "Yamazaki 1984",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2239,
+"en": "Yamazaki 25 Years",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2240,
+"en": "Yamazaki 12 Years",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2241,
+"en": "Hakushu 12 Years",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2242,
+"en": "The Macallan 1946",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2243,
+"en": "The Macallan 30 Years",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2244,
+"en": "The Macallan 12 Years",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2245,
+"en": "Laphroaig 10 Years",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2246,
+"en": "White Bowmore 43 Years",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2247,
+"en": "Bowmore 12 Years",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2248,
+"en": "Glenfiddich 12 Years",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2249,
+"en": "Hibiki 30 Years",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2250,
+"en": "Hibiki 17 Years",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2251,
+"en": "Kakubin",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2252,
+"en": "Torys Extra",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2253,
+"en": "Suntory Old Whisky",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2254,
+"en": "Ballantine's 30 Years",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2255,
+"en": "Ballantine's 17 Years",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2256,
+"en": "Ballantine's Finest",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2257,
+"en": "Jack Daniel's",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2258,
+"en": "Early Times",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2259,
+"en": "Suntory Brandy V.S.O.P",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2260,
+"en": "Courvoisier XO",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2261,
+"en": "Carlsberg",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2262,
+"en": "Kyogetsu Green",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2263,
+"en": "Suntory Kuromaru Shochu",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2264,
+"en": "Beefeater",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2265,
+"en": "Skyy Vodka",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2266,
+"en": "Suntory Rum Gold",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2267,
+"en": "Herradura Tequila Plata",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2268,
+"en": "Yamazaki 18 Years",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2269,
+"en": "The Macallan 10 Years",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2270,
+"en": "For Deletion",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2271,
+"en": "Cutie Girl Figure",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2272,
+"en": "SR Love Shine Figure",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2273,
+"en": "Pretty Girl Figure",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2274,
+"en": "SR Love Master Figure",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2275,
+"en": "Cutie Girl NEO",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2276,
+"en": "Chestnut the Squirrel (Blue)",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2277,
+"en": "Bun-chan the Java Sparrow (White)",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2278,
+"en": "Chestnut the Squirrel (Red)",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2279,
+"en": "Bun-chan the Java Sparrow (Pink)",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2280,
+"en": "Jumbo Chestnut",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2281,
+"en": "Jumbo Bun-chan",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2282,
+"en": "Hito-nyan (Happy)",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2283,
+"en": "Hito-nyan (Normal)",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2284,
+"en": "Hito-nyan (Disappointed)",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2285,
+"en": "AiAi",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2286,
+"en": "MeeMee",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2287,
+"en": "Baby",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2288,
+"en": "GonGon",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2289,
+"en": "Donpen-kun Stuffed Toy",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2290,
+"en": "Don-chan Stuffed Toy",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2291,
+"en": "Nico Nico TV-chan",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2292,
+"en": "Hatsune Miku Figure",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2293,
+"en": "Opa-Opa Figure",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2294,
+"en": "Robo Figure",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2295,
+"en": "Mobo Figure",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2296,
+"en": "Ulala Figure",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2297,
+"en": "Morolian Figure (Yellow)",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2298,
+"en": "Morolian Figure (Red)",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2299,
+"en": "Morolian Figure (Pink)",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2300,
+"en": "Morolian Figure (Blue)",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2301,
+"en": "Morolian Figure (Green)",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2302,
+"en": "Morolian Figure (Purple)",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2303,
+"en": "NiGHTS Figure",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2304,
+"en": "Dragon Figure",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2305,
+"en": "Kamaitachi Utility Knife",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2306,
+"en": "Seal of the Dragon",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2307,
+"en": "Super Resilient Resin",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2308,
+"en": "Durable Cloth",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2309,
+"en": "Fitness Gear",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2310,
+"en": "High-grade Platinum",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2311,
+"en": "Magnetized Metal",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2312,
+"en": "Battery",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2313,
+"en": "Lighter Oil",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2314,
+"en": "Eye of the Dragon",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2315,
+"en": "Chili Pepper",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2316,
+"en": "Sacred Wood",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2317,
+"en": "Mystery Stone",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2318,
+"en": "Large Blow-up Doll",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2319,
+"en": "Rubber Ball",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2320,
+"en": "Block of Brass",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2321,
+"en": "SSS Gunpowder",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2322,
+"en": "Gravity Converter",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2323,
+"en": "Super High-voltage Battery",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2324,
+"en": "Mystery Liquid",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2325,
+"en": "Chunk of Wood (Ash)",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2326,
+"en": "Small Motor",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2327,
+"en": "Cherry Tree Branch",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2328,
+"en": "Dragon Fang",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2329,
+"en": "Dragon Scale",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2330,
+"en": "Dragon Tail",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2331,
+"en": "Dragon Talon",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2332,
+"en": "Pearl",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2333,
+"en": "Aji Mentaiko 240 g (Regular)",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2334,
+"en": "Aji Mentaiko 240 g (Mild)",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2335,
+"en": "Hot Emperor 230 g",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2336,
+"en": "Aji Mentaiko \"Fukkoku\" 240 g",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2337,
+"en": "Hakata Burabura 12 pcs.",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2338,
+"en": "Meika Tsurunoko 11 pcs.",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2339,
+"en": "Niwaka Senbei",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2340,
+"en": "Hanamidori Mentaiko Mustard Greens",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2341,
+"en": "Chocolate Potato Chips",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2342,
+"en": "Shiroi Koibito 18 pcs.",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2343,
+"en": "Corn Chocolate 28 pcs.",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2344,
+"en": "Sapporo Agricultural College Cookies",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2345,
+"en": "KariKari Mada Aru?",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2346,
+"en": "Juicy Tebasaki Senbei",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2347,
+"en": "Yamamotoya Honten Miso Udon Stew",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2348,
+"en": "Ryoguchiya Korekiyo Sennari 8 pcs.",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2349,
+"en": "Yukari Golden Rounds 10 pcs.",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2350,
+"en": "Aoyagi Sweet Rice Cake 5 pcs.",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2351,
+"en": "Kushikatsu Daruma Deep-fried Squid",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2352,
+"en": "551 Horai Pork Buns 4 pcs.",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2353,
+"en": "Secret Soy Sauce-flavored Takoyaki",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2354,
+"en": "Tsuruhashi Fugetsu Pork Okonomiyaki",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2355,
+"en": "Osaka no Aji Honpo Okonomiyaki",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2356,
+"en": "Salted Beef Tongue",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2357,
+"en": "Grade-A Salted Beef Tongue",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2358,
+"en": "Kalbi",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2359,
+"en": "Grade-A Kalbi",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2360,
+"en": "Sirloin",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2361,
+"en": "Grade-A Sirloin",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2362,
+"en": "Harami",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2363,
+"en": "Grade-A Harami",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2364,
+"en": "Horumon-yaki",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2365,
+"en": "Seafood Platter",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2366,
+"en": "Kimchi Combo",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2367,
+"en": "Stone-roasted Bibimbap",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2368,
+"en": "Spicy Beef Soup",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2369,
+"en": "Grilled Garlic",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2370,
+"en": "Tamago",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2371,
+"en": "Maguro",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2372,
+"en": "Amaebi",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2373,
+"en": "Fatty Mackerel",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2374,
+"en": "Namatako",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2375,
+"en": "Hirame",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2376,
+"en": "Kinmedai",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2377,
+"en": "Otoro",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2378,
+"en": "Awabi",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2379,
+"en": "Whole Sea Eel",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2380,
+"en": "Mozzarella Cheese Caprese",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2381,
+"en": "Octopus Carpaccio",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2382,
+"en": "Avocado & Shrimp Salad",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2383,
+"en": "Hawaiian Pork Sausage",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2384,
+"en": "Burdock Fries",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2385,
+"en": "Spicy Potatoes",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2386,
+"en": "Whey-fed Parma Pork Chorizo",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2387,
+"en": "Mixed Pizza with Extra Cheese",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2388,
+"en": "Fish & Chips",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2389,
+"en": "Gin Buck",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2390,
+"en": "Tequila Rickey With Lime",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2391,
+"en": "Campari Rickey",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2392,
+"en": "Kahlua Black Rickey",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2393,
+"en": "Kaku-XL Highball",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2394,
+"en": "Light Kaku-XL Highball",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2395,
+"en": "Brandy & Tonic Orange Spritzer",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2396,
+"en": "Bronze Macallan Highball",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2397,
+"en": "Copper Yamazaki Highball",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2398,
+"en": "Eggplant Bacon Spaghetti",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2399,
+"en": "Shrimp & Tomato Spaghetti",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2400,
+"en": "Pesto Shrimp and Avocado",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2401,
+"en": "Spicy Mentaiko Spaghetti",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2402,
+"en": "Carbonara with Coddled Egg",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2403,
+"en": "Sea Urchin Cream Sauce Spaghetti",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2404,
+"en": "Komatsuna Salad & Bacon Pepperoncino",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2405,
+"en": "Blood Orange Juice",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2406,
+"en": "Hot Coffee",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2407,
+"en": "Americano",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2408,
+"en": "Café Latte",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2409,
+"en": "Cappuccino",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2410,
+"en": "Royal Milk Tea",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2411,
+"en": "Espresso",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2412,
+"en": "Organic Soybean Yose Dofu",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2413,
+"en": "Yakitori Platter (5 skewers)",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2414,
+"en": "Negima Skewers (2)",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2415,
+"en": "Ginza Deep-fried Chicken",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2416,
+"en": "Organic Daikon Salad",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2417,
+"en": "Sashimi Platter (4 kinds)",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2418,
+"en": "Charcoal-grilled Smelt Fish with Roe",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2419,
+"en": "Avocado & Shrimp Fresh Spring Rolls",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2420,
+"en": "Osaka-style Grilled Cabbage",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2421,
+"en": "Chicken Stock Chazuke",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2422,
+"en": "Kinako Ice Cream",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2423,
+"en": "My Stew",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2424,
+"en": "Draft Beer (M)",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2425,
+"en": "Fresh-squeezed Lemon Sour",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2426,
+"en": "Umeshu Sour",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2427,
+"en": "Oolong High",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2428,
+"en": "Umeshu on the Rocks with Lemon",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2429,
+"en": "Fresh-squeezed Orange & Mandarin Sour",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2430,
+"en": "Black Highball",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2431,
+"en": "Gin and Tonic",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2432,
+"en": "Moscow Mule",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2433,
+"en": "Cassis Oolong",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2434,
+"en": "Skeyder",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2435,
+"en": "Chuder",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2436,
+"en": "Dragon Soda",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2437,
+"en": "Pork Okonomiyaki",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2438,
+"en": "Shrimp Okonomiyaki",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2439,
+"en": "Shrimp & Squid Okonomiyaki",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2440,
+"en": "Beef & Green Onion Okonomiyaki",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2441,
+"en": "Potato, Mochi, & Cheese Okonomiyaki",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2442,
+"en": "Pork Kimchi Okonomiyaki",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2443,
+"en": "Fugetsuyaki",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2444,
+"en": "Pork Modanyaki",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2445,
+"en": "Shrimp Modanyaki",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2446,
+"en": "Fugetsuyaki (Modan)",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2447,
+"en": "Tonpei Yaki",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2448,
+"en": "Yakisoba",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2449,
+"en": "Tecchiri Nabe",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2450,
+"en": "Deluxe Tecchiri Nabe",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2451,
+"en": "Tessa",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2452,
+"en": "Fugu Tempura",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2453,
+"en": "Deep-fried Fugu",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2454,
+"en": "Fugu Meal",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2455,
+"en": "Dojima Set",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2456,
+"en": "Senba Set",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2457,
+"en": "Yokobori Set",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2458,
+"en": "Torafugu \"Benten\" Course",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2459,
+"en": "Torafugu \"Daikoku\" Course",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2460,
+"en": "Torafugu \"Ebisu\" Course",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2461,
+"en": "Torafugu \"Hotei\" Course",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2462,
+"en": "Ramen",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2463,
+"en": "Soup of the Day",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2464,
+"en": "Sashimi Platter",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2465,
+"en": "Hokkori Kaiseki",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2466,
+"en": "Hannari Kaiseki",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2467,
+"en": "Snow Crab Course",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2468,
+"en": "Matsutake Set",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2469,
+"en": "Grilled Marbled Wagyu",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2470,
+"en": "Original Kushikatsu",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2471,
+"en": "Quail Eggs",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2472,
+"en": "Squid Tentacles",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2473,
+"en": "Asparagus",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2474,
+"en": "Onion",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2475,
+"en": "Bamboo Shoot",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2476,
+"en": "Octopus",
+"ctx": "tabla item|NAME + menú/texto string_tbl …"
+},
+{
+"id": 2477,
+"en": "Whiting",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2478,
+"en": "Lotus Root",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2479,
+"en": "White Welsh Onion",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2480,
+"en": "Tsukune",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2481,
+"en": "Hearty Pumpkin",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2482,
+"en": "Garlic Chicken",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2483,
+"en": "Wild Shrimp",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2484,
+"en": "Mentaiko",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2485,
+"en": "Tulip Deep-fried Chicken Wings",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2486,
+"en": "Sotenbori Set",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2487,
+"en": "Hoganji Set",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2488,
+"en": "Crab Nabe",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2489,
+"en": "Crab Shabu-shabu",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2490,
+"en": "Crab Amiyaki (2 kinds)",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2491,
+"en": "Raw Crab Sushi",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2492,
+"en": "Red King Crab Sushi",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2493,
+"en": "Crab Sushi Platter",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2494,
+"en": "Crab Nabe \"Shiosai\" Course",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2495,
+"en": "Crab Nabe \"Yuzuru\" Course",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2496,
+"en": "Crab Nabe \"Maihime\" Course",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2497,
+"en": "Crab Kaiseki \"Seifuu\" Course",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2498,
+"en": "Crab Kaiseki \"Hakutsuyu\" Course",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2499,
+"en": "Crab Kaiseki \"Shoto\"",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2500,
+"en": "Crab Kaiseki \"Jusanya\"",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2501,
+"en": "Fatty Tuna Tenmi Sushi",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2502,
+"en": "Fatty Tuna Sushi",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2503,
+"en": "Bluefin Tuna Sushi Platter",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2504,
+"en": "Choice Sushi Set",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2505,
+"en": "Sushi Feast",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2506,
+"en": "Seasonal Sashimi & Sushi Feast",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2507,
+"en": "Chitose Kaiseki Course",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2508,
+"en": "Nishiki Kaiseki Course",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2509,
+"en": "Fresh Deep-fried Horse Mackerel",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2510,
+"en": "Tabletop Broiled Vinegared Mackerel",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2511,
+"en": "Organic Vegetable Salad",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2512,
+"en": "Special Homemade Gyoza",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2513,
+"en": "Homemade Ice Cream Bread",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2514,
+"en": "Stone-cooked Fried Rice with Ankake Sauce",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2515,
+"en": "Mentaiko, Potato, and Mayo Pizza",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2516,
+"en": "Octopus with Wasabi & Cucumber",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2517,
+"en": "Fried Chicken Wings with Yummy Sauce",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2518,
+"en": "Seared Bonito Carpaccio",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2519,
+"en": "Dango & Green Tea Ice Cream",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2520,
+"en": "Yuzu Honey Sour",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2521,
+"en": "Kishu Nanko Plum Sour",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2522,
+"en": "Umeshu on the Rocks",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2523,
+"en": "Sakura Tree Fizz",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2524,
+"en": "Kaku Highball",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2525,
+"en": "Cassis & Orange",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2526,
+"en": "Watami Special Shochu (Bottle)",
+"ctx": "tabla item|NAME"
+}
+]

@@ -1,0 +1,70 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_button_bb",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    44,
+    2,
+    180,
+    30
+   ],
+   "en": "Previous Page",
+   "es": "Anterior",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "centro",
+   "ancho_max": 130
+  },
+  {
+   "caja": [
+    244,
+    1,
+    324,
+    30
+   ],
+   "en": "Back",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "centro",
+   "ancho_max": 72,
+   "nota": "boton de 60 px con borde claro: el alto medido se dispara y Atras sale deforme en 3 pruebas",
+   "dejar": true
+  },
+  {
+   "caja": [
+    343,
+    2,
+    450,
+    30
+   ],
+   "en": "Next Page",
+   "es": "Siguiente",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "centro",
+   "ancho_max": 101
+  }
+ ]
+}

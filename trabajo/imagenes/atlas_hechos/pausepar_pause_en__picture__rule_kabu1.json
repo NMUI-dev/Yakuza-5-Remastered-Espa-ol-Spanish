@@ -1,0 +1,196 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_kabu1",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    428,
+    10,
+    598,
+    43
+   ],
+   "en": "Oicho-kabu",
+   "ocr": "Oicho-kabu",
+   "es": "Oicho-kabu",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 166,
+   "dejar": true
+  },
+  {
+   "caja": [
+    104,
+    66,
+    382,
+    100
+   ],
+   "en": "How to Play: Rules",
+   "ocr": "·HowtoPlay:Rules",
+   "es": "Cómo JUGAR:Reglas",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 274,
+   "dejar": true
+  },
+  {
+   "caja": [
+    142,
+    131,
+    716,
+    163
+   ],
+   "en": "Four cards are dealt face-up onto the table.",
+   "ocr": "Four cards are dealt face-up onto the table.",
+   "es": "Se reparten cuatro cartas boca arriba sobre la mesa.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 570,
+   "dejar": true
+  },
+  {
+   "caja": [
+    142,
+    182,
+    702,
+    216
+   ],
+   "en": "Each player selects one card from the four",
+   "ocr": "Each player selects one card from the four",
+   "es": "Cada Jugador elige una Carta de las Cuatro.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 556,
+   "dejar": true
+  },
+  {
+   "caja": [
+    142,
+    211,
+    779,
+    240
+   ],
+   "en": "on the table as the card that they will use to bet.",
+   "ocr": "on the table as the card that they will use to bet.",
+   "es": "La Carta que usarán para apostar se coloca sobre la mesa.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 633,
+   "dejar": true
+  },
+  {
+   "caja": [
+    142,
+    260,
+    800,
+    295
+   ],
+   "en": "Next, each player receives an additional card from",
+   "ocr": "Next, each player receives an additional card from",
+   "es": "A continuación, cada jugador recibe una carta adicional del",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 654,
+   "dejar": true
+  },
+  {
+   "caja": [
+    141,
+    285,
+    271,
+    321
+   ],
+   "en": "the deck.",
+   "ocr": "the deck.",
+   "es": "mazo.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 126,
+   "dejar": true
+  },
+  {
+   "caja": [
+    142,
+    338,
+    848,
+    373
+   ],
+   "en": "Players aside from the dealer may face the showdown",
+   "ocr": "Players aside from the dealer may face the showdown",
+   "es": "Los jugadores que no son el repartidor pueden confrontar al repartidor",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 702,
+   "dejar": true
+  },
+  {
+   "caja": [
+    142,
+    366,
+    783,
+    397
+   ],
+   "en": "with two cards, or choose to draw a third card to",
+   "ocr": "with two cards, or choose to draw a third card to",
+   "es": "con dos Cartas, o Elegir Empate con una tercera Carta para",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 637,
+   "dejar": true
+  },
+  {
+   "caja": [
+    141,
+    391,
+    749,
+    424
+   ],
+   "en": "face the showdown with a total of three cards.",
+   "ocr": "face the showdown with a total of three cards.",
+   "es": "Debes enfrentar el Duelo con un Total de Tres Cartas.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 604,
+   "dejar": true
+  },
+  {
+   "caja": [
+    143,
+    444,
+    857,
+    475
+   ],
+   "en": "Players who choose a third card draw it from the deck.",
+   "ocr": "Players who choose a third card draw it from the deck.",
+   "es": "Los jugadores que elijan una tercera carta la roban del mazo.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 710,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: lo hace el PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

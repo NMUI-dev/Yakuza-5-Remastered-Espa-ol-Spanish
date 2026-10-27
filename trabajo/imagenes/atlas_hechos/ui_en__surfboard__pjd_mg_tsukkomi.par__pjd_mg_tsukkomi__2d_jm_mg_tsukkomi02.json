@@ -1,0 +1,129 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_tsukkomi.par/pjd_mg_tsukkomi/2d_jm_mg_tsukkomi02",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    360,
+    0,
+    496,
+    56
+   ],
+   "en": "laughs",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 132,
+   "dejar": true
+  },
+  {
+   "caja": [
+    362,
+    56,
+    512,
+    80
+   ],
+   "en": "RESULTS",
+   "es": "RESULTADOS",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 146,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     240,
+     240,
+     240
+    ],
+    "contorno": [
+     [
+      20,
+      20,
+      20
+     ],
+     2
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    362,
+    80,
+    512,
+    104
+   ],
+   "en": "Laughter Gauge",
+   "es": "Medidor de risas",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 146,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     240,
+     240,
+     240
+    ],
+    "contorno": [
+     [
+      20,
+      20,
+      20
+     ],
+     1
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    40,
+    466,
+    230,
+    510
+   ],
+   "en": "Bad timing",
+   "es": "Mal momento",
+   "fuente": "georgiab.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 186,
+   "estilo": {
+    "arriba": [
+     60,
+     150,
+     255
+    ],
+    "abajo": [
+     10,
+     90,
+     225
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     3
+    ],
+    "brillo": null
+   },
+   "alto": 23
+  }
+ ]
+}

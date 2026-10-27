@@ -1,0 +1,877 @@
+[
+{
+"id": 43684,
+"en": "Okay, got it. Actually, I was hoping to see that pitch again.",
+"ctx": "diálogo uid010c0a59"
+},
+{
+"id": 43685,
+"en": "Why would you want to do that? Oh, whatever. Let's just get started.",
+"ctx": "diálogo uid010c0a59"
+},
+{
+"id": 43686,
+"en": "Yeowch!",
+"ctx": "diálogo uid010c0a59"
+},
+{
+"id": 43687,
+"en": "Hey, watch where you're⑬ Huh?",
+"ctx": "diálogo uid010c0a59"
+},
+{
+"id": 43688,
+"en": "What the... It's gone! My phone!",
+"ctx": "diálogo uid010c0a59"
+},
+{
+"id": 43689,
+"en": "Heheh. Gotcha again!",
+"ctx": "diálogo uid010c0a59"
+},
+{
+"id": 43690,
+"en": "You! Gimme back my phone!",
+"ctx": "diálogo uid010c0a59"
+},
+{
+"id": 43691,
+"en": "Yeah right! You really think I'm gonna just hand it over?",
+"ctx": "diálogo uid010c0a59"
+},
+{
+"id": 43692,
+"en": "Lemme guess. You wanna challenge me again?",
+"ctx": "diálogo uid010c0a59"
+},
+{
+"id": 43693,
+"en": "Yup! And this time, you'll need a miracle to hit it!",
+"ctx": "diálogo uid010c0a59"
+},
+{
+"id": 43694,
+"en": "Why do you have to be such a rotten rascal? Can't you just ask me to bat against you?",
+"ctx": "diálogo uid010c0a59"
+},
+{
+"id": 43695,
+"en": "Don't go talking down to me just 'cause you're a grown-up. If you can't hit my new pitch, I'm keeping this janky old phone.",
+"ctx": "diálogo uid010c0a59"
+},
+{
+"id": 43696,
+"en": "What is your problem, kid? Don't think you can blackmail me into doing whatever you want.",
+"ctx": "diálogo uid010c0a59"
+},
+{
+"id": 43697,
+"en": "Aww, you don't wanna bat? Okay. I'll just have to make a bunch of international calls on your phone, then. Where should I start first?",
+"ctx": "diálogo uid010c0a59"
+},
+{
+"id": 43698,
+"en": "Wait, no, don't do that! Do you have any idea how expensive that gets!? Fine, I'll take you on! I'll even say please!",
+"ctx": "diálogo uid010c0a59"
+},
+{
+"id": 43699,
+"en": "Good answer. Okay then, it'll be the same rules as last time. If you can get three hits out of ten pitches, you win.",
+"ctx": "diálogo uid010c0a59"
+},
+{
+"id": 43700,
+"en": "All right. So, what's your miracle pitch this time? Another curveball? A slider?",
+"ctx": "diálogo uid010c0a59"
+},
+{
+"id": 43701,
+"en": "Nope! Let's not spoil the fun. You ready to go?",
+"ctx": "diálogo uid010c0a59"
+},
+{
+"id": 43702,
+"en": "No way. You even hit my Tomafork Mark 9!? Arrrrgh! This sucks!",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43703,
+"en": "Hey, kid. Kenta, right? Which little league do you play for?",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43704,
+"en": "Why, what's it to ya!?",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43705,
+"en": "I've never seen a kid throw a forkball with that kind of dip. You must have some crazy coach.",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43706,
+"en": "Take me to your coach right now. I need to chew this guy out, and fast.",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43707,
+"en": "Your coach is insane for letting a kid throw pitches like those. He's making you wreck your shoulder!",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43708,
+"en": "That's common knowledge for young players! What's your coach thinking? Take me to him right now.",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43709,
+"en": "Why are you so mad? It's none of your business anyway!",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43710,
+"en": "I'm concerned over your condition. I don't want you ending up out of the game for good.",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43711,
+"en": "...You mean you're worried about me?",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43712,
+"en": "Yeah. So tell me who your coach is. He needs a good, long lecture.",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43713,
+"en": "...I don't have one.",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43714,
+"en": "How is that possible?",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43715,
+"en": "Look, I'm not with any team! I don't play for anyone!",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43716,
+"en": "You sure about that?",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43717,
+"en": "Okay, I have to go now, bye!",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43718,
+"en": "Yo, awesome batter dude.",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43719,
+"en": "Well if it isn't Kotetsu the blogger. What's up?",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43720,
+"en": "Just ran into your nephew at the door. He said to give you this. It's a reward for hitting his miracle pitch, he said.",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43721,
+"en": "You got a <Color:8>Collateral Damage Belt<Color:Default>.",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43722,
+"en": "Oh, okay... Thanks.",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43723,
+"en": "Something happen? The kid was crying.",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43724,
+"en": "Let's just say he's going through something complicated.",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43725,
+"en": "What do you mean? He's your nephew, right? But, on second\nthought, it's cool. I shouldn't be going around prying into\nother people's business.",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43726,
+"en": "You got 800 experience points.",
+"ctx": "diálogo uid010c0a67 + diálogo uid010c0ab4 …"
+},
+{
+"id": 43727,
+"en": "Too bad! Looks like my miracle pitch beat <Italic>you</Italic>! Again!",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43728,
+"en": "Okay, gotta go, buh-bye!",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43729,
+"en": "(Dangit! Beat by a kid again!)",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43730,
+"en": "I'm concerned about your condition. I don't want you ending up out of the game for good.",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43731,
+"en": "You mean... you're worried about me?",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43732,
+"en": "Just ran into your nephew at the door. He said to give you these.",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43733,
+"en": "Said it's your phone and a reward for hitting his miracle pitch.",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43734,
+"en": "Oh, okay. Thanks.",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43735,
+"en": "Too bad! Even a famous local batter can't get past my Tomafork Mark 9!",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43736,
+"en": "But you're not all that bad. Lemme practice on you again some other time, okay? Buh-bye now!",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43737,
+"en": "(How'd he make his pitches sink like that? That's one crazy kid...)",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43738,
+"en": "Yo, awesome batter dude. Your nephew gave me your phone. Said I should return it to you.",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43739,
+"en": "Uh, okay. Thanks.",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43740,
+"en": "(Where'd this kid learn to pitch? If he keeps throwing like that, he'll only end up injured later down the line...)",
+"ctx": "diálogo uid010c0a67"
+},
+{
+"id": 43741,
+"en": "Hey! Been waiting for ya!",
+"ctx": "diálogo uid010c0a70"
+},
+{
+"id": 43742,
+"en": "You again, miracle pitch kid? Hey, give me back that... uh... that coupon.",
+"ctx": "diálogo uid010c0a70"
+},
+{
+"id": 43743,
+"en": "I know, I know. But if you want it back... Do I really need to explain?",
+"ctx": "diálogo uid010c0a70"
+},
+{
+"id": 43744,
+"en": "Another miracle pitch duel? What was it? Panty Flash Mark 12?",
+"ctx": "diálogo uid010c0a70"
+},
+{
+"id": 43745,
+"en": "Mm-hm! If you can get three hits out of ten pitches, you win. If you can't, I win.",
+"ctx": "diálogo uid010c0a70"
+},
+{
+"id": 43746,
+"en": "Wait a minute. This must mean...",
+"ctx": "diálogo uid010c0a70"
+},
+{
+"id": 43747,
+"en": "Heheh. Gotcha times three!",
+"ctx": "diálogo uid010c0a70"
+},
+{
+"id": 43748,
+"en": "I knew it was you! All right, Kenta, what'd you swipe this time?",
+"ctx": "diálogo uid010c0a70"
+},
+{
+"id": 43749,
+"en": "No... It couldn't be... It's gone! My massage parlor coupon!\nNow how am I supposed to get my ham handled for half off!?",
+"ctx": "diálogo uid010c0a70"
+},
+{
+"id": 43750,
+"en": "Huh. I don't know what that is, but it sounds important.",
+"ctx": "diálogo uid010c0a70"
+},
+{
+"id": 43751,
+"en": "It's a ticket to the land of dreams for any man. But you're too young. Give it back!",
+"ctx": "diálogo uid010c0a70"
+},
+{
+"id": 43752,
+"en": "If you want this back... Do you really need me to explain the rest?",
+"ctx": "diálogo uid010c0a70"
+},
+{
+"id": 43753,
+"en": "No, I guess not. You want to challenge me with another of your miracle pitches, right?",
+"ctx": "diálogo uid010c0a70"
+},
+{
+"id": 43754,
+"en": "You got it. Okay then, to the batting cage! You won't be hitting my miracle pitch today!",
+"ctx": "diálogo uid010c0a70"
+},
+{
+"id": 43755,
+"en": "Wait a second. Are you still throwing those crazy breaking balls?",
+"ctx": "diálogo uid010c0a70"
+},
+{
+"id": 43756,
+"en": "Didn't I tell you? A kid like you shouldn't be throwing those. Wait till you finish growing. You really could wreck yourself.",
+"ctx": "diálogo uid010c0a70"
+},
+{
+"id": 43757,
+"en": "Yeah, yeah⑬fine! Besides, I said miracle pitch. I didn't say anything about a breaking ball.",
+"ctx": "diálogo uid010c0a70"
+},
+{
+"id": 43758,
+"en": "Oh is that so?",
+"ctx": "diálogo uid010c0a70"
+},
+{
+"id": 43759,
+"en": "Yup. Today I'll be throwing... a fastball. And since you're such a party pooper, I'll even throw it like a kid!",
+"ctx": "diálogo uid010c0a70"
+},
+{
+"id": 43760,
+"en": "Can you <Italic>handle</Italic> that, mister? Sure ya can.",
+"ctx": "diálogo uid010c0a70"
+},
+{
+"id": 43761,
+"en": "Okay, okay. But now we're talking about a little kid's fastball. Where's the miracle in that?",
+"ctx": "diálogo uid010c0a70"
+},
+{
+"id": 43762,
+"en": "How about waiting until you see me throw? 'Cause this... is my trump card.",
+"ctx": "diálogo uid010c0a70"
+},
+{
+"id": 43763,
+"en": "The rules are the same as before. If you can get three hits out of ten pitches, you win.",
+"ctx": "diálogo uid010c0a70"
+},
+{
+"id": 43764,
+"en": "Nooo... Even my disappearing Panty Flash Mark 12 got whacked into oblivion!",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43765,
+"en": "(It's true. The ball did seem to flicker out of view. This kid's a freak!)",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43766,
+"en": "I can't do this! I can't think of any more miracle pitches that would get you.",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43767,
+"en": "Say, Kenta. You mentioned you weren't with a team. Why is that?",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43768,
+"en": "Because. Even if I join a team, there won't be anyone who can hit my stuff. It'll be boring.",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43769,
+"en": "You sure about that? I'll bet you actually wish you had other kids to play with. That's what made you cry before, right?",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43770,
+"en": "What am I s'posed to do? We keep moving around, and I'm always at some new school... I can never make any friends.",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43771,
+"en": "That's why it's easier to be by myself. Even if I join a team, it's not gonna work out. I know it.",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43772,
+"en": "I was that way too, you know. I didn't have many friends, either. It sure was scary joining a team for the first time.",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43773,
+"en": "Really? Even for a big guy like you?",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43774,
+"en": "Yeah. To be honest, I still had plenty of trouble after\njoining the team, too. Getting along with people is always\ngonna be tricky.",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43775,
+"en": "You get into any fights?",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43776,
+"en": "All the time. Had lots of bad experiences, too. But you know what? Chasing after a ball with all your teammates is more fun than you think.",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43777,
+"en": "You bet. That's the best part of baseball, that team aspect.\nAt least I think so.",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43778,
+"en": "Come on, try joining a team. All right?",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43779,
+"en": "But... Do you think I can really make it?",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43780,
+"en": "Sure you can. In a team, the people who put in an honest effort earn the greatest respect.",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43781,
+"en": "Besides, you throw some ridiculous pitches⑬and I mean that in a good way. Be confident! Okay?",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43782,
+"en": "...All right. Yeah. I'll do it!",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43783,
+"en": "But, remember, go easy on breaking balls. Those'll only\nrip your joints straight outta their sockets!",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43784,
+"en": "Haha, I'll take your word for it. And... thanks. For everything. Here, you can have this.",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43785,
+"en": "Buh-bye!",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43786,
+"en": "See you! ...Uh, wait a second. Listen, where's that coupon you took?",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43787,
+"en": "Oh, that paper thingy? I think I lost it somewhere.",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43788,
+"en": "Aww, c'mon! That's no way to repay a favor. What'd you do with my dream ticket?",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43789,
+"en": "Woohoo! Looky what I got myself here! Didn't expect to find one of these babies at a batting center!",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43790,
+"en": "What? Hey! That's mine!",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43791,
+"en": "Half off! What a bargain! No time to waste! To the red lights of Kineicho I go!",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43792,
+"en": "Hey! Don't just leave me hanging!",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43793,
+"en": "My ticket... To the land where dreams come true...",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43794,
+"en": "I don't know what that was, but cheer up, big guy. When I become a pro, I'll get you those coupons by the stack! Just wait!",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43795,
+"en": "Heh. Okay, fair enough. That's something else to dream about.",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43796,
+"en": "Too bad! So much for beating my miracle pitch.",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43797,
+"en": "'Kay, that's all I needed. See ya again! Buh-bye!",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43798,
+"en": "(Gah! The brat still has my coupon!)",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43799,
+"en": "Too bad, so sad! That's my disappearing miracle pitch, Panty Flash Mark 12.",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43800,
+"en": "What a name...",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43801,
+"en": "Now, I can see you have potential, so I guess I could pitch against you again sometime. But for now, it's buh-bye!",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43802,
+"en": "Hey! My massage coupon! Come on, it's totally wasted in the hands of a kid...",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43803,
+"en": "Dammit all. I must win it back at all costs!",
+"ctx": "diálogo uid010c0a79"
+},
+{
+"id": 43804,
+"en": "Oh, it's you. Are you still buffing your bat like a good little boy?",
+"ctx": "diálogo uid010c0a7e"
+},
+{
+"id": 43805,
+"en": "I'm feeling like another match. How about a home run derby?",
+"ctx": "diálogo uid010c0a7e"
+},
+{
+"id": 43806,
+"en": "I'll go into the cage for twenty pitches. You go in for the same count next. If you hit more homers, you win.",
+"ctx": "diálogo uid010c0a7e"
+},
+{
+"id": 43807,
+"en": "If we're tied, you win. Though I'm gonna crush you anyway. All right, let's do this!",
+"ctx": "diálogo uid010c0a7e"
+},
+{
+"id": 43808,
+"en": "Whew. Smacked seven again. How lucky of me.",
+"ctx": "diálogo uid010c0a7e"
+},
+{
+"id": 43809,
+"en": "Your turn. You need to bat at least seven out of twenty. That's home runs, if you get me. Think you got what it takes?",
+"ctx": "diálogo uid010c0a7e"
+},
+{
+"id": 43810,
+"en": "Oh, I know I do. It's showtime!",
+"ctx": "diálogo uid010c0a7e"
+},
+{
+"id": 43811,
+"en": "All right, I'm going up to bat first. I'll go for twenty\npitches, then you do the same. Whoever hits more home runs\nwins the contest.",
+"ctx": "diálogo uid010c0a7e"
+},
+{
+"id": 43812,
+"en": "Got it. Oh, but what if we're tied?",
+"ctx": "diálogo uid010c0a7e"
+},
+{
+"id": 43813,
+"en": "Might as well just give you that win⑬I'm gonna crush you anyway. Let me show you how it's done.",
+"ctx": "diálogo uid010c0a7e"
+},
+{
+"id": 43814,
+"en": "Whew. Seven. Not bad.",
+"ctx": "diálogo uid010c0a7e"
+},
+{
+"id": 43815,
+"en": "Well, you do have decent form. That's why you're the Tokai Wonderkid, I guess.",
+"ctx": "diálogo uid010c0a7e"
+},
+{
+"id": 43816,
+"en": "Oh, I got it all right. It's showtime!",
+"ctx": "diálogo uid010c0a7e"
+},
+{
+"id": 43817,
+"en": "What the fuck!? This piece of shit's useless!",
+"ctx": "diálogo uid010c0a7e"
+},
+{
+"id": 43818,
+"en": "(What's this now?)",
+"ctx": "diálogo uid010c0a7e"
+},
+{
+"id": 43819,
+"en": "<Italic>Fuck!</Italic> <Italic>You</Italic>! Stupid fucking bat. Can't even hit a goddamn ball!",
+"ctx": "diálogo uid010c0a7e"
+},
+{
+"id": 43820,
+"en": "(Geez, taking it out on a bat? How dense can you get?)",
+"ctx": "diálogo uid010c0a7e"
+},
+{
+"id": 43821,
+"en": "Come on, fellas. Don't do that to the equipment. It's not the bat's fault⑬you probably just suck.",
+"ctx": "diálogo uid010c0a7e"
+},
+{
+"id": 43822,
+"en": "Huh? And who the fuck are you? You work here?",
+"ctx": "diálogo uid010c0a7e"
+},
+{
+"id": 43823,
+"en": "Nope, just a customer.",
+"ctx": "diálogo uid010c0a7e"
+},
+{
+"id": 43824,
+"en": "A customer? And you think you can lecture us? Step the fuck outside, big man.",
+"ctx": "diálogo uid010c0a7e"
+},
+{
+"id": 43825,
+"en": "*knock* *knock* *knock*",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43826,
+"en": "Hello? Is anyone home? I thought I'd just come by to greet my new neighbor.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43827,
+"en": "(Did someone move in next door?)",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43828,
+"en": "(Just have to stay quiet...)",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43829,
+"en": "...Nobody home, huh? Oh well.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43830,
+"en": "(That's all it takes? I should pretend I'm not home more often.)",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43831,
+"en": "Oh, hello there. I'm with the Nagasu Times, and I'd like to offer you a great deal on a newspaper subscription!",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43832,
+"en": "What? I thought you were here because you moved in.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43833,
+"en": "No, you just moved in, right? So I came to welcome you into the neighborhood!",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43834,
+"en": "I've been living here six months.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43835,
+"en": "Oh, you have? Huh, I didn't know that. I thought you must be a new resident.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43836,
+"en": "In any case, I'd be more than happy to get you signed up with our paper. How about I give you a free trial for the first month? Cancellation fees may still apply.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43837,
+"en": "So you're actually selling newspapers? And you use that moving in line to get people to open the door?",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43838,
+"en": "Hey, don't make it sound like I'm a criminal. I did say hi, didn't I? Now, all I need is your signature, and you'll be waking up to that fresh newspaper smell in no time!",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43839,
+"en": "No way. Try that scheme on someone else.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43840,
+"en": "Oh, but... It's not that easy, you know. What with the proliferation of the internet and all, nobody reads the paper anymore. The medium's in danger of dying, friend.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43841,
+"en": "Our goal at the Nagasu Times is to support more local news, so it would really help your community if you decided to join the cause. Besides, all your neighbors said yes.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43842,
+"en": "Don't be a sore thumb. Come on. Is there any way I could get you to reconsider?",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43843,
+"en": "Okay, you sold me. I'll sign up.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43844,
+"en": "Oh, you will? That's great! Let's make it a six-month subscription, shall we?",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43845,
+"en": "What? I thought you said I could try it out free for a month.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43846,
+"en": "Well, you might as well go with at least six months, paid. It'd save you the trouble of renewing. Plus you get a better deal that way.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43847,
+"en": "Oh, how about I throw in some detergent as well? Would that sweeten the deal? Nothing like waking up to a pile of clean clothes and the morning paper, am I right!?",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43848,
+"en": "Get out of here. I won't say it again.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43849,
+"en": "What's with the attitude, bro? Is that any way to talk to a guest?",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43850,
+"en": "Hmph. You worm your way into someone's home, and now you're talking manners?",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43851,
+"en": "You watch your mouth, asshole. I don't take any bullshit from guys like you! Apologize to me right now! Do it!",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43852,
+"en": "Must be tough, huh?",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43853,
+"en": "I'm glad you can see this from our point of view. So, shall we work out your subscription?",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43854,
+"en": "What? I didn't say I'd subscribe. I just said it must be tough on you.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43855,
+"en": "Well, shit. You could have been a bit more clear about that. Are you trying to make a fool out of me?",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43856,
+"en": "No, I changed my mind.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43857,
+"en": "Huh? You can't just change your mind like that! Aren't you a man of your word?",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43858,
+"en": "You're the one who said a month to begin with. How about you keep your word as well?",
+"ctx": "diálogo uid010c0a82"
+}
+]

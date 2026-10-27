@@ -1,0 +1,69 @@
+﻿AVISO
+=====
+
+Este mod NO está hecho con fines comerciales. Es un trabajo hecho con amor para la comunidad y los amigos.
+
+ESTÁ PROHIBIDO VENDER este mod, cualquiera de sus partes o cualquier cosa hecha a partir de él.
+Es gratis: si alguien te lo ha cobrado, te han engañado.
+
+Todo lo que aparece aquí tiene su copyright y pertenece a sus dueños (la lista completa está más abajo).
+
+Respeta al usuario y al jugador.
+
+Este trabajo fue realizado con IA y supervisado por un humano a tiempo completo.
+Solo fue probado en la versión de Steam de Yakuza 5 Remastered. En otras versiones o tiendas puede no funcionar.
+Si encuentras cualquier error, ve al lugar donde lo descargaste y avisa de qué falla.
+Sé lo más específico posible: qué juego y versión del mod, qué estabas haciendo, qué mando usabas
+y qué pasó. ¡Gracias por ayudar!
+
+¡Gracias por jugar y probar el mod!
+
+--------------------------------------------------------------------------------
+
+Este es un mod no oficial hecho por fanáticos y sin fines de lucro. Todos los derechos, marcas registradas
+y personajes pertenecen exclusivamente a la empresa correspondiente. No poseo ni reclamo ningún derecho
+sobre su propiedad intelectual.
+
+No está afiliado, patrocinado ni aprobado por ninguna de las empresas nombradas aquí.
+Necesitas tu propia copia original de cada juego para usarlo.
+
+--------------------------------------------------------------------------------
+
+VERSIONES CON LAS QUE SE PROBÓ
+==============================
+
+  Yakuza 5 Remastered (Steam, appid 1105510, build 6407471), con el idioma del juego en inglés.
+
+  Sistema: Windows 11. Si tu juego tiene otra versión (por ejemplo tras una actualización), la traducción
+  puede fallar: al avisar de un error, di qué versión tienes.
+
+--------------------------------------------------------------------------------
+
+DE QUIÉN ES CADA COSA
+=====================
+
+JUEGO
+
+  Yakuza 5 Remastered
+    © SEGA. SEGA, el logotipo de SEGA, Yakuza y Ryu Ga Gotoku son marcas comerciales o registradas de
+    SEGA Corporation. Personajes, textos originales, escenarios, música y sonidos son suyos.
+    Esta traducción parte del texto inglés oficial del juego.
+
+HERRAMIENTAS USADAS PARA HACER LA TRADUCCIÓN (no van incluidas en el instalador)
+
+  ParTool                    Herramienta de la comunidad para los archivos .par de los juegos Ryu Ga Gotoku.
+  reARMP (Ret-HZ)            Herramienta de la comunidad para las tablas ARMP.
+  Python y Pillow            Python Software Foundation (licencia PSF); Pillow (licencia HPND).
+  OpenCV                     Licencia Apache 2.0.
+  LaMa                       Borrado del texto inglés en las imágenes (licencia Apache 2.0).
+  texconv                    Microsoft (licencia MIT), compresión de texturas.
+
+MANDOS Y PLATAFORMAS (solo se nombran para indicar compatibilidad)
+
+  PlayStation, DualSense y DualShock son marcas comerciales de Sony Interactive Entertainment Inc.
+  Xbox es una marca comercial del grupo de empresas Microsoft.
+  Nintendo Switch es una marca comercial de Nintendo.
+  Steam, Steam Controller y Steam Deck son marcas comerciales de Valve Corporation.
+  Windows es una marca comercial del grupo de empresas Microsoft.
+
+Las demás marcas y nombres pertenecen a sus respectivos dueños.

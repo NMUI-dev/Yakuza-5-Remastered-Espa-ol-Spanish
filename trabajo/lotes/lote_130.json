@@ -1,0 +1,1107 @@
+[
+{
+"id": 29759,
+"en": "Really? I hope I'll see you back at the club.",
+"ctx": "diálogo uid00340048"
+},
+{
+"id": 29760,
+"en": "Hey, Honoka-chan.",
+"ctx": "diálogo uid00340049"
+},
+{
+"id": 29761,
+"en": "Sorry to keep ya waitin'!",
+"ctx": "diálogo uid00340049 + diálogo uid00690302"
+},
+{
+"id": 29762,
+"en": "It's all good. Want to get going?",
+"ctx": "diálogo uid00340049"
+},
+{
+"id": 29763,
+"en": "I had loads of fun!",
+"ctx": "diálogo uid00340049 + frase de acompañante/calle STID_MG_ANAN …"
+},
+{
+"id": 29764,
+"en": "Right, I gotta get home. See ya at the club.",
+"ctx": "diálogo uid00340049"
+},
+{
+"id": 29765,
+"en": "I love it! Thanks!",
+"ctx": "diálogo uid00340049"
+},
+{
+"id": 29766,
+"en": "Uh... Thanks. C'mon, where are we goin' next?",
+"ctx": "diálogo uid00340049"
+},
+{
+"id": 29767,
+"en": "Thank you! C'mon then, where are we goin' next?",
+"ctx": "diálogo uid00340049"
+},
+{
+"id": 29768,
+"en": "You came to a store like this and ya ain't even gonna buy anythin'? Ya cheapskate.",
+"ctx": "diálogo uid00340049"
+},
+{
+"id": 29769,
+"en": "That was super tasty!",
+"ctx": "diálogo uid00340049"
+},
+{
+"id": 29770,
+"en": "But I wanted that...",
+"ctx": "diálogo uid00340049"
+},
+{
+"id": 29771,
+"en": "That was super tasty! Thanks for treatin' me!",
+"ctx": "diálogo uid00340049"
+},
+{
+"id": 29772,
+"en": "C'mon, where are we goin' next?",
+"ctx": "diálogo uid00340049"
+},
+{
+"id": 29773,
+"en": "Yer so stingy, Akiyama-san!",
+"ctx": "diálogo uid00340049"
+},
+{
+"id": 29774,
+"en": "You're really good at this, Akiyama-san! I'm kinda surprised!",
+"ctx": "diálogo uid00340049"
+},
+{
+"id": 29775,
+"en": "That was fun! Let's come back sometime.",
+"ctx": "diálogo uid00340049"
+},
+{
+"id": 29776,
+"en": "Ya tone deaf or somethin', Akiyama-san?",
+"ctx": "diálogo uid00340049"
+},
+{
+"id": 29777,
+"en": "I wanted this! Thanks, Akiyama-san!",
+"ctx": "diálogo uid00340049"
+},
+{
+"id": 29778,
+"en": "I win! C'mon, where are we goin' next?",
+"ctx": "diálogo uid00340049"
+},
+{
+"id": 29779,
+"en": "It's a draw! C'mon, where are we goin' next?",
+"ctx": "diálogo uid00340049"
+},
+{
+"id": 29780,
+"en": "That was fun! You're good at this, Akiyama-san!",
+"ctx": "diálogo uid00340049"
+},
+{
+"id": 29781,
+"en": "Those came out real good!",
+"ctx": "diálogo uid00340049"
+},
+{
+"id": 29782,
+"en": "Ehhh, this batch was a bust.",
+"ctx": "diálogo uid00340049"
+},
+{
+"id": 29783,
+"en": "Ya serious!? But this was a perfect opportunity.",
+"ctx": "diálogo uid00340049"
+},
+{
+"id": 29784,
+"en": "I thought since we came all this way, we'd get some pictures. Ya don't gotta be shy, y'know.",
+"ctx": "diálogo uid00340049"
+},
+{
+"id": 29785,
+"en": "That was fun! Ya really got into it there, Akiyama-san!",
+"ctx": "diálogo uid00340049"
+},
+{
+"id": 29786,
+"en": "Yer really good at this, Akiyama-san! I'm kinda surprised!",
+"ctx": "diálogo uid00340049"
+},
+{
+"id": 29787,
+"en": "Wow, I can't believe it's a draw! Next time I'm definitely gonna win, though!",
+"ctx": "diálogo uid00340049"
+},
+{
+"id": 29788,
+"en": "But I wanted to play...",
+"ctx": "diálogo uid00340049"
+},
+{
+"id": 29789,
+"en": "This was fun! Let's do it again sometime!",
+"ctx": "diálogo uid00340049"
+},
+{
+"id": 29790,
+"en": "Sorry, I got this thing. I gotta run for today.",
+"ctx": "diálogo uid00340049"
+},
+{
+"id": 29791,
+"en": "Then hurry it up!",
+"ctx": "diálogo uid00340049"
+},
+{
+"id": 29792,
+"en": "I see. I'll see ya back at the club, okay?",
+"ctx": "diálogo uid00340049"
+},
+{
+"id": 29793,
+"en": "Hey, Shion-chan!",
+"ctx": "diálogo uid0034004a + diálogo uid0046004f"
+},
+{
+"id": 29794,
+"en": "Shall we get going?",
+"ctx": "diálogo uid0034004a"
+},
+{
+"id": 29795,
+"en": "I had such a lovely time!",
+"ctx": "diálogo uid0034004a"
+},
+{
+"id": 29796,
+"en": "Me too!",
+"ctx": "diálogo uid0034004a + diálogo uid01340030 …"
+},
+{
+"id": 29797,
+"en": "I need to head home now. I'll see you at the club.",
+"ctx": "diálogo uid0034004a"
+},
+{
+"id": 29798,
+"en": "Oh, I love it! Thank you!",
+"ctx": "diálogo uid0034004a"
+},
+{
+"id": 29799,
+"en": "Oh, thank you. Now then, where shall we go next?",
+"ctx": "diálogo uid0034004a"
+},
+{
+"id": 29800,
+"en": "Thank you! Now then, where shall we go next?",
+"ctx": "diálogo uid0034004a"
+},
+{
+"id": 29801,
+"en": "Honestly, why did we even come in here? I'm so embarrassed.",
+"ctx": "diálogo uid0034004a"
+},
+{
+"id": 29802,
+"en": "That was delicious! Thank you for treating me.",
+"ctx": "diálogo uid0034004a"
+},
+{
+"id": 29803,
+"en": "Now then, where shall we go next?",
+"ctx": "diálogo uid0034004a"
+},
+{
+"id": 29804,
+"en": "That didn't taste good at all! Take me somewhere else, please.",
+"ctx": "diálogo uid0034004a"
+},
+{
+"id": 29805,
+"en": "That was decent enough. Now then, where shall we go next?",
+"ctx": "diálogo uid0034004a"
+},
+{
+"id": 29806,
+"en": "How remarkable, it's a draw! I'll be sure to win next time!",
+"ctx": "diálogo uid0034004a + diálogo uid00690220 …"
+},
+{
+"id": 29807,
+"en": "But I wanted to play pool with you, Shinada-san.",
+"ctx": "diálogo uid0034004a"
+},
+{
+"id": 29808,
+"en": "That was so much fun! We simply must do it again sometime!",
+"ctx": "diálogo uid0034004a"
+},
+{
+"id": 29809,
+"en": "But I wanted to play Taiko No Tatsujin with you, Shinada-san.",
+"ctx": "diálogo uid0034004a"
+},
+{
+"id": 29810,
+"en": "We took some lovely photos!",
+"ctx": "diálogo uid0034004a"
+},
+{
+"id": 29811,
+"en": "Oh dear, this batch didn't turn out well at all.",
+"ctx": "diálogo uid0034004a"
+},
+{
+"id": 29812,
+"en": "Are we not going to do this? But it's the perfect opportunity.",
+"ctx": "diálogo uid0034004a"
+},
+{
+"id": 29813,
+"en": "But I wanted to take pictures with you. Please don't be so shy.",
+"ctx": "diálogo uid0034004a"
+},
+{
+"id": 29814,
+"en": "That was fun! You like this sort of thing, don't you, Shinada-san?",
+"ctx": "diálogo uid0034004a"
+},
+{
+"id": 29815,
+"en": "Oh, I wanted this! Thank you, Shinada-san!",
+"ctx": "diálogo uid0034004a"
+},
+{
+"id": 29816,
+"en": "I win! Now then, we shall we go next?",
+"ctx": "diálogo uid0034004a"
+},
+{
+"id": 29817,
+"en": "It's a draw! Now then, where shall we go next?",
+"ctx": "diálogo uid0034004a"
+},
+{
+"id": 29818,
+"en": "Oh, but I wanted that. What a shame.",
+"ctx": "diálogo uid0034004a"
+},
+{
+"id": 29819,
+"en": "That was fun! You're very talented, Shinada-san!",
+"ctx": "diálogo uid0034004a"
+},
+{
+"id": 29820,
+"en": "That was fun! I need to practice more.",
+"ctx": "diálogo uid0034004a"
+},
+{
+"id": 29821,
+"en": "But I wanted to hear you sing, Shinada-san.",
+"ctx": "diálogo uid0034004a"
+},
+{
+"id": 29822,
+"en": "My apologies, but something has come up. I need to be on my way.",
+"ctx": "diálogo uid0034004a"
+},
+{
+"id": 29823,
+"en": "Are you sure? We should be on our way then.",
+"ctx": "diálogo uid0034004a"
+},
+{
+"id": 29824,
+"en": "I see. Then can I expect to see you back at the club?",
+"ctx": "diálogo uid0034004a"
+},
+{
+"id": 29825,
+"en": "Hey there, Hinata.",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29826,
+"en": "Shall we be on our way?",
+"ctx": "diálogo uid0034004b + diálogo uid010c0816"
+},
+{
+"id": 29827,
+"en": "I had a lot of fun!",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29828,
+"en": "Okay, I should head on home. See you later!",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29829,
+"en": "I'll take good care of it! Thank you so much!",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29830,
+"en": "Oh, uh, thanks. Where are we off to next?",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29831,
+"en": "Thank you! Come on, where are we off to next?",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29832,
+"en": "Oh, but I didn't really want that.",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29833,
+"en": "Oh, I've been wanting this! Thank you so much! Come on, where are we off to next?",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29834,
+"en": "Oh, uh, thanks. So where are we off to next?",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29835,
+"en": "Aren't you embarrassed about not buying me anything?",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29836,
+"en": "You're really good at this, Kiryu-san! I gotta give you props.",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29837,
+"en": "Wow, I can't believe it was a tie! I'm gonna win next time!",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29838,
+"en": "Aww, I wanted to play darts.",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29839,
+"en": "That was lots of fun! Let's do it again sometime!",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29840,
+"en": "That was really tasty! Thanks so much for treating me!",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29841,
+"en": "Where are we off to next?",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29842,
+"en": "Oh, but I was hungry.",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29843,
+"en": "Oh eww, that was nasty. Let's go to the next place already.",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29844,
+"en": "That wasn't too bad! Come on, where are we off to next?",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29845,
+"en": "But I was hungry.",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29846,
+"en": "You're really good at that, Kiryu-san! I'm kind of surprised!",
+"ctx": "diálogo uid0034004b + diálogo uid0069021f"
+},
+{
+"id": 29847,
+"en": "Aww, I wanted to play pool.",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29848,
+"en": "That was lots of fun! I'm going to have to practice so I can get better!",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29849,
+"en": "You're really good at this, Kiryu-san. I'm kind of surprised!",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29850,
+"en": "Yay, I win! Looks like you gotta practice some more, Kiryu-san!",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29851,
+"en": "Aww, but I wanted to play.",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29852,
+"en": "Oh, these came out really good!",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29853,
+"en": "Bleh, these didn't turn out that great, huh?",
+"ctx": "diálogo uid0034004b + diálogo uid010c0c23"
+},
+{
+"id": 29854,
+"en": "What? We're stopping?",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29855,
+"en": "I wanted to take a photo together. You don't have to be so shy about it.",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29856,
+"en": "That was lots of fun! You've sure got some nice moves, Kiryu-san!",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29857,
+"en": "Oh, I wanted this! Thank you so much, Kiryu-san!",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29858,
+"en": "Yay, I win! Come on, where are we off to next?",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29859,
+"en": "Guess it's a tie! Come on, where are we off to next?",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29860,
+"en": "Aww, but I wanted that.",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29861,
+"en": "That was lots of fun! You're pretty good at that, Kiryu-san!",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29862,
+"en": "You're really good at this, Kiryu-san! I'm kind of surprised!",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29863,
+"en": "Well, I guess singing isn't everything.",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29864,
+"en": "That was fun! We should come back here again sometime!",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29865,
+"en": "I can't believe this! Are you trying to mess with me or something?",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29866,
+"en": "Aww, but I wanted to go bowling.",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29867,
+"en": "A game of air hockey after a soak in the hot spring would be so awesome. I can't believe you can't appreciate how awesome that is.",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29868,
+"en": "Shoot, I'm sorry, but something came up. I need to be on my way home.",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29869,
+"en": "Okay then, let's get going.",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29870,
+"en": "Oh, okay. See you later!",
+"ctx": "diálogo uid0034004b"
+},
+{
+"id": 29871,
+"en": "I'm gonna sing my heart out!",
+"ctx": "diálogo uid0036005f"
+},
+{
+"id": 29872,
+"en": "Now, what to sing... <Color:255,200,200,255>\"Ring\"<Color:Default> is always a good one.",
+"ctx": "diálogo uid0036005f"
+},
+{
+"id": 29873,
+"en": "That was a blast. <Color:255,200,200,255>⑮<Color:Default> And you really got the party started, %s-san!",
+"ctx": "diálogo uid0036005f"
+},
+{
+"id": 29874,
+"en": "Now I wanna hear you sing, %s-san. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid0036005f"
+},
+{
+"id": 29875,
+"en": "Sure, I'm game.",
+"ctx": "diálogo uid0036005f + diálogo uid00360063"
+},
+{
+"id": 29876,
+"en": "Hehe, <Color:255,200,200,255>⑮<Color:Default> I can't wait, %s-san. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid0036005f"
+},
+{
+"id": 29877,
+"en": "No, I think I'll pass.",
+"ctx": "diálogo uid0036005f + diálogo uid00360063 …"
+},
+{
+"id": 29878,
+"en": "Really? Aww, I wanted to hear you sing, %s-san...",
+"ctx": "diálogo uid0036005f + diálogo uid00360060"
+},
+{
+"id": 29879,
+"en": "Wow, that was rough...",
+"ctx": "diálogo uid0036005f"
+},
+{
+"id": 29880,
+"en": "That felt great! <Color:255,200,200,255>⑮<Color:Default> And you really helped me get into it, %s-san.",
+"ctx": "diálogo uid0036005f"
+},
+{
+"id": 29881,
+"en": "Hehe. <Color:255,200,200,255>⑮<Color:Default> Can't wait to hear you sing, %s-san. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid0036005f"
+},
+{
+"id": 29882,
+"en": "That was great! You really know how to belt out a tune, Kiryu-san.",
+"ctx": "diálogo uid0036005f"
+},
+{
+"id": 29883,
+"en": "I have my moments.",
+"ctx": "diálogo uid0036005f"
+},
+{
+"id": 29884,
+"en": "Well, that was... umm... different.",
+"ctx": "diálogo uid0036005f"
+},
+{
+"id": 29885,
+"en": "I couldn't take my eyes off you. <Color:255,200,200,255>⑮<Color:Default> You're an amazin' singer, Kiryu-san!",
+"ctx": "diálogo uid0036005f"
+},
+{
+"id": 29886,
+"en": "Karaoke with Saejima-san! This is going to be great. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid00360060"
+},
+{
+"id": 29887,
+"en": "Hm, what should I sing? I've been listening to <Color:255,200,200,255>\"Rouge of Love\" <Color:Default>a lot lately. Maybe I should go with that. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid00360060"
+},
+{
+"id": 29888,
+"en": "That was so much fun. And I didn't expect you to be so into it, %s-san. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid00360060"
+},
+{
+"id": 29889,
+"en": "Now I want to hear <Italic>you</Italic> sing, %s-san. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid00360060"
+},
+{
+"id": 29890,
+"en": "All right, I'll do it.",
+"ctx": "diálogo uid00360060"
+},
+{
+"id": 29891,
+"en": "Haha, that's the spirit! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid00360060"
+},
+{
+"id": 29892,
+"en": "Nah, I'm gonna pass.",
+"ctx": "diálogo uid00360060"
+},
+{
+"id": 29893,
+"en": "That was so hard to sing.",
+"ctx": "diálogo uid00360060"
+},
+{
+"id": 29894,
+"en": "Yeah? Guess I kinda screwed up those interjections. Even had Majima teach me how to do 'em, too...",
+"ctx": "diálogo uid00360060"
+},
+{
+"id": 29895,
+"en": "That felt awesome. You sure know how to light a lady's fire, %s-san. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid00360060"
+},
+{
+"id": 29896,
+"en": "Wow, that was pretty good, Saejima-san. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid00360060"
+},
+{
+"id": 29897,
+"en": "You think?",
+"ctx": "diálogo uid00360060 + diálogo uid01020d87"
+},
+{
+"id": 29898,
+"en": "You, uh, really put your heart into it!",
+"ctx": "diálogo uid00360060"
+},
+{
+"id": 29899,
+"en": "I could listen to you sing forever! And I love watching your Adam's apple. It's so sexy. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid00360060"
+},
+{
+"id": 29900,
+"en": "Leave the vocal performance to me!",
+"ctx": "diálogo uid00360061"
+},
+{
+"id": 29901,
+"en": "Now, to pick a song... I know! <Color:255,200,200,255>\"Ring.\" <Color:Default>Don't ya just love that one? <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid00360061"
+},
+{
+"id": 29902,
+"en": "That was so much fun. <Color:255,200,200,255>⑮<Color:Default> And you really got my blood pumpin', %s-san.",
+"ctx": "diálogo uid00360061"
+},
+{
+"id": 29903,
+"en": "Why don't you give it a try, %s-san. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid00360061"
+},
+{
+"id": 29904,
+"en": "Sure, I suppose I could sing one.",
+"ctx": "diálogo uid00360061"
+},
+{
+"id": 29905,
+"en": "Can't wait to hear you sing, %s-san. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid00360061"
+},
+{
+"id": 29906,
+"en": "No thanks, I think I'll pass.",
+"ctx": "diálogo uid00360061"
+},
+{
+"id": 29907,
+"en": "Aw, you're no fun, %s-san.",
+"ctx": "diálogo uid00360061"
+},
+{
+"id": 29908,
+"en": "You made it really hard to sing.",
+"ctx": "diálogo uid00360061"
+},
+{
+"id": 29909,
+"en": "That felt so good! You sure know how to get the party started, %s.",
+"ctx": "diálogo uid00360061"
+},
+{
+"id": 29910,
+"en": "You should sing one, too, %s-san. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid00360061"
+},
+{
+"id": 29911,
+"en": "You nailed it, Akiyama-san! I knew you'd have an awesome voice. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid00360061"
+},
+{
+"id": 29912,
+"en": "Nice of you to say.",
+"ctx": "diálogo uid00360061"
+},
+{
+"id": 29913,
+"en": "That was interesting in its own special way.",
+"ctx": "diálogo uid00360061"
+},
+{
+"id": 29914,
+"en": "That wasn't much of a compliment...",
+"ctx": "diálogo uid00360061"
+},
+{
+"id": 29915,
+"en": "Wish I could listen to you sing forever. You sing like a pro, %s-san.",
+"ctx": "diálogo uid00360061"
+},
+{
+"id": 29916,
+"en": "Aw, shucks.",
+"ctx": "diálogo uid00360061"
+},
+{
+"id": 29917,
+"en": "Karaoke alone, just the two of us... This is so exciting. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid00360062"
+},
+{
+"id": 29918,
+"en": "I can't decide what to sing. Hmm... Maybe I'll try <Color:255,200,200,255>\"Rouge of Love.\" <Color:Default> <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid00360062"
+},
+{
+"id": 29919,
+"en": "That was so much fun. You're quite the mood-maker, aren't you, %s-san?",
+"ctx": "diálogo uid00360062"
+},
+{
+"id": 29920,
+"en": "Can I hear you sing now, %s-san?",
+"ctx": "diálogo uid00360062"
+},
+{
+"id": 29921,
+"en": "Sure thing!",
+"ctx": "diálogo uid00360062 + diálogo uid01340015 …"
+},
+{
+"id": 29922,
+"en": "I can't wait to hear you sing, %s. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid00360062"
+},
+{
+"id": 29923,
+"en": "I think I'll take a rain check on that.",
+"ctx": "diálogo uid00360062"
+},
+{
+"id": 29924,
+"en": "Oh, that's too bad. I really wanted to hear you sing, %s-san.",
+"ctx": "diálogo uid00360062"
+},
+{
+"id": 29925,
+"en": "That was really difficult to sing.",
+"ctx": "diálogo uid00360062"
+},
+{
+"id": 29926,
+"en": "That felt incredible. <Color:255,200,200,255>⑮<Color:Default> I've never seen anyone nail the interjections like that.",
+"ctx": "diálogo uid00360062"
+},
+{
+"id": 29927,
+"en": "%s-san, how about you try a song now?",
+"ctx": "diálogo uid00360062"
+},
+{
+"id": 29928,
+"en": "I can't wait to hear you sing, %s-san. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid00360062"
+},
+{
+"id": 29929,
+"en": "That was really really good! You looked so cool, too. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid00360062"
+},
+{
+"id": 29930,
+"en": "You ain't seen nothing yet!",
+"ctx": "diálogo uid00360062"
+},
+{
+"id": 29931,
+"en": "I guess singing's not your thing, Shinada-san.",
+"ctx": "diálogo uid00360062"
+},
+{
+"id": 29932,
+"en": "Was I really that bad?",
+"ctx": "diálogo uid00360062"
+},
+{
+"id": 29933,
+"en": "I could listen to that forever. <Color:255,200,200,255>⑮<Color:Default> You're quite the singer, aren't you, %s-san? <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid00360062"
+},
+{
+"id": 29934,
+"en": "Well, I do take pride in my singing.",
+"ctx": "diálogo uid00360062"
+},
+{
+"id": 29935,
+"en": "Okay, let's get this party started!",
+"ctx": "diálogo uid00360063"
+},
+{
+"id": 29936,
+"en": "I've been practicing this one lately. It's called <Color:255,200,200,255>\"Get to the Top!\" <Color:Default><Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid00360063"
+},
+{
+"id": 29937,
+"en": "That was so much fun! And you really livened things up, %s-san.",
+"ctx": "diálogo uid00360063"
+},
+{
+"id": 29938,
+"en": "Okay, now it's your turn! Let me hear you sing, %s-san. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid00360063"
+},
+{
+"id": 29939,
+"en": "Oh, this is going to be great, %s-san! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid00360063"
+},
+{
+"id": 29940,
+"en": "What? Then why'd we even come here?",
+"ctx": "diálogo uid00360063"
+},
+{
+"id": 29941,
+"en": "I could barely sing. If you're going to do that, you should try to do it right.",
+"ctx": "diálogo uid00360063"
+},
+{
+"id": 29942,
+"en": "That felt great! <Color:255,200,200,255>⑮<Color:Default> You did a super job spicing things up, %s-san!",
+"ctx": "diálogo uid00360063"
+},
+{
+"id": 29943,
+"en": "That was great! I bet you practice a lot, don't you, Kiryu-san? <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid00360063"
+},
+{
+"id": 29944,
+"en": "Oh, you're done? Okay, time for the next song.",
+"ctx": "diálogo uid00360063"
+},
+{
+"id": 29945,
+"en": "I could listen to you forever. <Color:255,200,200,255>⑮<Color:Default> I don't need to sing anymore, so you go ahead!",
+"ctx": "diálogo uid00360063"
+},
+{
+"id": 29946,
+"en": "Heh, well, thank you.",
+"ctx": "diálogo uid00360063"
+},
+{
+"id": 29947,
+"en": "(Okay, what should I do?)",
+"ctx": "diálogo uid0036046b"
+},
+{
+"id": 29948,
+"en": "I love doing karaoke with you, Uncle Kaz! So, what're you gonna sing today?",
+"ctx": "diálogo uid00360476"
+},
+{
+"id": 29949,
+"en": "Hmm... I can't decide what I want you to sing, Uncle Kaz. There're just too many good songs.",
+"ctx": "diálogo uid00360476"
+},
+{
+"id": 29950,
+"en": "What about you, Haruka? I want to hear you sing, too.",
+"ctx": "diálogo uid00360476"
+},
+{
+"id": 29951,
+"en": "Okay! I'll give it my best shot!",
+"ctx": "diálogo uid00360476"
+},
+{
+"id": 29952,
+"en": "I think I'll pass this time...",
+"ctx": "diálogo uid00360476"
+},
+{
+"id": 29953,
+"en": "Uncle Kaz?",
+"ctx": "diálogo uid00360476"
+},
+{
+"id": 29954,
+"en": "Sorry about that. My throat's not doing so well today.",
+"ctx": "diálogo uid00360476"
+},
+{
+"id": 29955,
+"en": "I think I'll pass today...",
+"ctx": "diálogo uid00360476"
+},
+{
+"id": 29956,
+"en": "I nailed that one thanks to you, Uncle Kaz!",
+"ctx": "diálogo uid00360476"
+},
+{
+"id": 29957,
+"en": "Heh, always glad to help.",
+"ctx": "diálogo uid00360476"
+},
+{
+"id": 29958,
+"en": "Uncle Kaz, you made it really hard to sing...",
+"ctx": "diálogo uid00360476"
+},
+{
+"id": 29959,
+"en": "Sorry... I just wanted to help.",
+"ctx": "diálogo uid00360476"
+},
+{
+"id": 29960,
+"en": "Heh, don't mention it.",
+"ctx": "diálogo uid00360476"
+},
+{
+"id": 29961,
+"en": "Did y'know that spicy fish roe is good for your looks?",
+"ctx": "diálogo uid00460001"
+},
+{
+"id": 29962,
+"en": "Spicy fish roe? That's a new one.",
+"ctx": "diálogo uid00460001"
+},
+{
+"id": 29963,
+"en": "Oh, you bet! Fish roe is real rich in vitamin E. It's darn good for the skin and has anti-aging properties to boot.",
+"ctx": "diálogo uid00460001"
+},
+{
+"id": 29964,
+"en": "You don't say.",
+"ctx": "diálogo uid00460001 + diálogo uid00490142 …"
+},
+{
+"id": 29965,
+"en": "And I ain't done yet. The capsaicin in the chili peppers breaks down fatty acids, so it's even higher in probiotics than yogurt is.",
+"ctx": "diálogo uid00460001"
+},
+{
+"id": 29966,
+"en": "Best of all, it pairs perfectly with white rice, so if y'eat some every day, yer skin'll be perfect!",
+"ctx": "diálogo uid00460001"
+},
+{
+"id": 29967,
+"en": "(Spicy fish roe has some unusual properties. Maybe I'll talk about it at the cabaret club.)",
+"ctx": "diálogo uid00460001"
+},
+{
+"id": 29968,
+"en": "I don't like tonkotsu 'cause it's too heavy. I prefer foods on the lighter side.",
+"ctx": "diálogo uid00460002"
+},
+{
+"id": 29969,
+"en": "Why don't ya try tomato tonkotsu then? That oughta suit your palate fine.",
+"ctx": "diálogo uid00460002"
+},
+{
+"id": 29970,
+"en": "Tomato tonkotsu? What in the world is that?",
+"ctx": "diálogo uid00460002"
+},
+{
+"id": 29971,
+"en": "It's tonkotsu ramen that's topped with tomato and basil. Lotsa women like yourself love it.",
+"ctx": "diálogo uid00460002"
+},
+{
+"id": 29972,
+"en": "The richness of the tonkotsu broth is reduced, making it kinda Italian-like.",
+"ctx": "diálogo uid00460002"
+},
+{
+"id": 29973,
+"en": "It also don't smell like tonkotsu, so y'could eat it quite easily.",
+"ctx": "diálogo uid00460002"
+},
+{
+"id": 29974,
+"en": "They really got somethin' like that? I'd sure love t'get my hands on some!",
+"ctx": "diálogo uid00460002"
+},
+{
+"id": 29975,
+"en": "(Tomato tonkotsu for women, huh? Maybe I could talk about that at the cabaret club.)",
+"ctx": "diálogo uid00460002"
+},
+{
+"id": 29976,
+"en": "Hey, do y'think my skin's gotten a bit more smooth and shiny-like, lately?",
+"ctx": "diálogo uid00460004"
+},
+{
+"id": 29977,
+"en": "Now that y'mention it, yeah, it kinda does. Have y'been getting some sorta skin treatment?",
+"ctx": "diálogo uid00460004"
+},
+{
+"id": 29978,
+"en": "Not really. I just been eatin' chicken mizutaki a whole heckuva lot!",
+"ctx": "diálogo uid00460004"
+},
+{
+"id": 29979,
+"en": "Really? But how's that help make your skin better?",
+"ctx": "diálogo uid00460004"
+}
+]

@@ -1,0 +1,230 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_mn_mgs_roulette03",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    967,
+    85,
+    1079,
+    119
+   ],
+   "en": "Controls",
+   "ocr": "Controls",
+   "es": "Controles",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 108,
+   "dejar": true
+  },
+  {
+   "caja": [
+    611,
+    124,
+    762,
+    156
+   ],
+   "en": "Change View",
+   "ocr": "Change View",
+   "es": "Cambiar vista",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 147,
+   "dejar": true
+  },
+  {
+   "caja": [
+    759,
+    126,
+    853,
+    153
+   ],
+   "en": "L2 Button",
+   "ocr": "L2Button",
+   "es": "Botón L2",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 90,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1192,
+    126,
+    1437,
+    155
+   ],
+   "en": "Change View",
+   "ocr": "ChangeView",
+   "es": "Cambiar vista",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 245,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1192,
+    160,
+    1437,
+    189
+   ],
+   "en": "Fast Forward",
+   "ocr": "FastForward",
+   "es": "Adelante rápido",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 245,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1201,
+    234,
+    1284,
+    259
+   ],
+   "en": "O Button",
+   "ocr": "OButton",
+   "es": "Botón O",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 79,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1289,
+    231,
+    1455,
+    262
+   ],
+   "en": "Confirm/Throw",
+   "ocr": "Confirm/Throw",
+   "es": "Confirmar/Lanzar",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 162,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1202,
+    303,
+    1284,
+    329
+   ],
+   "en": "Button",
+   "ocr": "X Button",
+   "es": "Botón",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 78,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1288,
+    302,
+    1371,
+    333
+   ],
+   "en": "Cancel",
+   "ocr": "Cancel",
+   "es": "Cancelar",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 79,
+   "dejar": true
+  },
+  {
+   "caja": [
+    599,
+    369,
+    763,
+    402
+   ],
+   "en": "Exit Minigame",
+   "ocr": "Exit Minigame",
+   "es": "Salir del minijuego",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 160,
+   "dejar": true
+  },
+  {
+   "caja": [
+    765,
+    374,
+    913,
+    399
+   ],
+   "en": "Touch Pad Button",
+   "ocr": "Touch Pad Button",
+   "es": "Botón del panel táctil",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 144,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1146,
+    371,
+    1284,
+    400
+   ],
+   "en": "OPTIONS Button",
+   "ocr": "OPTIONSButton",
+   "es": "Botón OPTIONS",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 134,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1288,
+    371,
+    1388,
+    403
+   ],
+   "en": "Controls",
+   "ocr": "Controls",
+   "es": "Controles",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 96,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: vale la versión del PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

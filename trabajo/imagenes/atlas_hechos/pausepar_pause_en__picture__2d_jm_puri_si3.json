@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_si3",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    38,
+    145,
+    485,
+    256
+   ],
+   "en": "I heard there's good massage parlors here",
+   "ocr": "Iheardtheresgood massage",
+   "es": "He oído que aquí hay buenos salones de masaje",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 447
+  }
+ ]
+}

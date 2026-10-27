@@ -1,0 +1,777 @@
+[
+{
+"id": 50899,
+"en": "You're <Italic>still</Italic> insulting us? That's it, you are definitely getting an ass-kicking. Final decision.",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50900,
+"en": "(Oof, don't want to get caught up in this mess... Methinks it's time to shuffle on out of here.)",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50901,
+"en": "Halt! Halt, I say! Ergh... Pardon! You there! Impoverished-looking fellow!",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50902,
+"en": "...Who, me?",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50903,
+"en": "Yes, you! Look! This is your chance to make a name for yourself!",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50904,
+"en": "Make a name for myself? What are you talking about?",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50905,
+"en": "Oh, for goodness sake, just come help me.",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50906,
+"en": "Who the hell are you? You with this nutjob?",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50907,
+"en": "Whoa, whoa, whoa! Keep me out of this. I'm just a peaceful,\nordinary citizen who happened to walk by.",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50908,
+"en": "You hear that? Says he's not interested.",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50909,
+"en": "Oh, he's just playing coy! When in fact, he's my loyal minion!",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50910,
+"en": "Hey! I'm not a minion...",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50911,
+"en": "Ah, screw it! I don't give a crap either way! I'm kicking your ass first!",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50912,
+"en": "Huh? Please tell me you're kidding...",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50913,
+"en": "Nope. Gonna kick your ass. Here it comes!",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50914,
+"en": "Dude, what is up with your frickin' clothes? And those eyebrows! You look like the ghost of an old lady!",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50915,
+"en": "For real! This clown probably got lost on his way to the circus! Hahaha!",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50916,
+"en": "Silence, peasant. I have half a mind to banish you ignorant\nbuffoons on the spot. Now begone, you blustering eyesores!",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50917,
+"en": "...The fuck? Were you just talking back at us? Oh, I'm steamed, man.",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50918,
+"en": "Oooooh, you steamed him good. Steamed him like a steamed clam. You shouldn't have done that, dude. Now he's gonna make you pay.",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50919,
+"en": "(Is that supposed to be a shakedown? What is this world\ncoming to... Gotta admit, the guy does look weird, though.)",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50920,
+"en": "(We already came here. We should hit up a different place.)",
+"ctx": "diálogo uid0133067f"
+},
+{
+"id": 50921,
+"en": "(This is a nice spot here.)",
+"ctx": "diálogo uid01330686 + diálogo uid01330688 …"
+},
+{
+"id": 50922,
+"en": "(Yeah, this is a good shot.)",
+"ctx": "diálogo uid01330686 + diálogo uid01330688 …"
+},
+{
+"id": 50923,
+"en": "(This scenery looks pretty good.)",
+"ctx": "diálogo uid01330690"
+},
+{
+"id": 50924,
+"en": "(This shot ain't bad.)",
+"ctx": "diálogo uid01330690 + diálogo uid01330692 …"
+},
+{
+"id": 50925,
+"en": "(This is a nice spot.)",
+"ctx": "diálogo uid01330692 + diálogo uid01330694 …"
+},
+{
+"id": 50926,
+"en": "(This photo looks great!)",
+"ctx": "diálogo uid0133069a + diálogo uid0133069c …"
+},
+{
+"id": 50927,
+"en": "(Interesting scenery here.)",
+"ctx": "diálogo uid013306a3"
+},
+{
+"id": 50928,
+"en": "(Okay, that shot looks good.)",
+"ctx": "diálogo uid013306a4 + diálogo uid013306a6 …"
+},
+{
+"id": 50929,
+"en": "(Gunrhein. It's a shooting game. 100 yen to play. Do I want to play?)",
+"ctx": "diálogo uid013306b7"
+},
+{
+"id": 50930,
+"en": "(Looks like Haruka wants me to <Color:8>clear two stages or more in Gunrhein<Color:Default>.)",
+"ctx": "diálogo uid013306b7"
+},
+{
+"id": 50931,
+"en": "\nGunrhein is a shooting game in which you pilot an invincible fighter craft to defend your base units from waves of enemies.",
+"ctx": "diálogo uid013306b7 + diálogo uid01330731 …"
+},
+{
+"id": 50932,
+"en": "\nWhile your fighter is invincible, your base units are destroyed upon contact with an enemy. If all base units are destroyed, the game is over.",
+"ctx": "diálogo uid013306b7"
+},
+{
+"id": 50933,
+"en": "\nYour fighter can't attack enemies. Instead, it can set cannons. The cannons fire beams automatically to shoot down enemies.",
+"ctx": "diálogo uid013306b7"
+},
+{
+"id": 50934,
+"en": "\nOnce set, a cannon fires until it runs out of energy. It can't rotate⑬it is set in place based on the fighter's position and direction at the time of placement. Place them well to meet oncoming enemies effectively.",
+"ctx": "diálogo uid013306b7"
+},
+{
+"id": 50935,
+"en": "\nA cannon does not use energy while its beam is hitting enemies. Its energy drains if its beam is firing at nothing. If the energy dwindles to nothing, the cannon flashes red before disappearing.",
+"ctx": "diálogo uid013306b7"
+},
+{
+"id": 50936,
+"en": "\nIf the beams of multiple cannons are overlaid, they combine as a more powerful beam. If the button is held down before the cannon is placed, its beam is also intensified.",
+"ctx": "diálogo uid013306b7"
+},
+{
+"id": 50937,
+"en": "\nComplete five stages to clear the game.",
+"ctx": "diálogo uid013306b7"
+},
+{
+"id": 50938,
+"en": "(Virtua Fighter 2.1 on the easy setting for 100 yen. Do I want to play?)",
+"ctx": "diálogo uid013306c1 + diálogo uid013306c3"
+},
+{
+"id": 50939,
+"en": "(Gunrhein. Looks like some kind of shooter, and 100 yen to play. Do I want to give it a go?)",
+"ctx": "diálogo uid01330731 + diálogo uid01330732 …"
+},
+{
+"id": 50940,
+"en": "\nWhile your fighter is invincible, your base units are destroyed upon contact with an enemy. If you lose all of your base units, you lose.",
+"ctx": "diálogo uid01330731 + diálogo uid01330732 …"
+},
+{
+"id": 50941,
+"en": "\nYour fighter can't attack enemies. Instead, it places cannons. These cannons fire beam weapons automatically to shoot down enemies.",
+"ctx": "diálogo uid01330731 + diálogo uid01330732 …"
+},
+{
+"id": 50942,
+"en": "\nOnce set, a cannon fires until it runs out of energy. It can't rotate⑬it is set in place based on the fighter's position and direction at the time of placement. Determine the best strategy to effectively shoot down enemy units!",
+"ctx": "diálogo uid01330731 + diálogo uid01330732 …"
+},
+{
+"id": 50943,
+"en": "\nA cannon's energy only drains if its beam is not hitting enemies. If a cannon loses all of its energy, it will flash red, then disappear.",
+"ctx": "diálogo uid01330731 + diálogo uid01330732 …"
+},
+{
+"id": 50944,
+"en": "\nWhen the beams of two or more cannons cross, they combine into a more powerful beam. You can intensify beam weapons by holding down the button before placing a cannon.",
+"ctx": "diálogo uid01330731 + diálogo uid01330732 …"
+},
+{
+"id": 50945,
+"en": "\nComplete five stages to beat the game.",
+"ctx": "diálogo uid01330731 + diálogo uid01330745"
+},
+{
+"id": 50946,
+"en": "\nClear five stages to beat the game.",
+"ctx": "diálogo uid01330732"
+},
+{
+"id": 50947,
+"en": "(A UFO Catcher. Hmm. There aren't any prizes inside it. Maybe I can get an attendant to refill it.)",
+"ctx": "diálogo uid01330733 + diálogo uid01330734 …"
+},
+{
+"id": 50948,
+"en": "(A UFO Catcher, I see. There aren't any prizes left inside, though. Maybe someone on staff can refill it.)",
+"ctx": "diálogo uid01330733 + diálogo uid01330734 …"
+},
+{
+"id": 50949,
+"en": "(It's a UFO Catcher, but there ain't any prizes in it. Maybe an employee can fill it back up again.)",
+"ctx": "diálogo uid01330733 + diálogo uid01330734 …"
+},
+{
+"id": 50950,
+"en": "(A UFO Catcher, huh? I don't see any prizes in there, though. I'll have to get an attendant to refill it.)",
+"ctx": "diálogo uid01330733 + diálogo uid01330734 …"
+},
+{
+"id": 50951,
+"en": "(A UFO Catcher. But there are no prizes in it. Maybe I should ask an employee to fill it back up.)",
+"ctx": "diálogo uid01330733 + diálogo uid01330734 …"
+},
+{
+"id": 50952,
+"en": "(A UFO Catcher. Three tries for 500 yen. But I don't have the money.)",
+"ctx": "diálogo uid01330733 + diálogo uid01330734 …"
+},
+{
+"id": 50953,
+"en": "(A UFO Catcher, hmm? Three tries, 500 yen. Unfortunately, I don't have the money.)",
+"ctx": "diálogo uid01330733 + diálogo uid01330734 …"
+},
+{
+"id": 50954,
+"en": "(A UFO Catcher. Three tries for 500 yen. I ain't got the cash.)",
+"ctx": "diálogo uid01330733 + diálogo uid01330734 …"
+},
+{
+"id": 50955,
+"en": "(A UFO Catcher, hmm? Three tries, 500 yen. But I don't have the money.)",
+"ctx": "diálogo uid01330733 + diálogo uid01330734 …"
+},
+{
+"id": 50956,
+"en": "(A UFO Catcher. Three tries for 500 yen. But I don't have enough money on me.)",
+"ctx": "diálogo uid01330733 + diálogo uid01330734 …"
+},
+{
+"id": 50957,
+"en": "(A UFO Catcher. Hmm. There aren't any prizes left inside. Maybe someone on staff can refill it.)",
+"ctx": "diálogo uid01330737 + diálogo uid01330738 …"
+},
+{
+"id": 50958,
+"en": "(A UFO Catcher, I see. There aren't any prizes left inside. Maybe someone on staff can refill it.)",
+"ctx": "diálogo uid01330737 + diálogo uid01330738 …"
+},
+{
+"id": 50959,
+"en": "(A UFO Catcher, huh? I don't see any prizes in there though. I'll have to get an attendant to refill it.)",
+"ctx": "diálogo uid01330737 + diálogo uid01330738 …"
+},
+{
+"id": 50960,
+"en": "(A UFO Catcher. Three tries for 500 yen. I don't got the cash.)",
+"ctx": "diálogo uid01330737 + diálogo uid01330738 …"
+},
+{
+"id": 50961,
+"en": "(A UFO Catcher, huh? Three tries for 500 yen? I don't have the money for it.)",
+"ctx": "diálogo uid01330737 + diálogo uid01330738 …"
+},
+{
+"id": 50962,
+"en": "(Oh right. Coach told me to go grab a dragon from the UFO Catcher.)",
+"ctx": "diálogo uid01330738"
+},
+{
+"id": 50963,
+"en": "(Hakataso, huh? I could tell Tatsuya about this place.)",
+"ctx": "diálogo uid0133073d"
+},
+{
+"id": 50964,
+"en": "(Hango Zosui Yama, huh? I could tell Tatsuya about this place.)",
+"ctx": "diálogo uid0133073e"
+},
+{
+"id": 50965,
+"en": "Oh, I love Taiko No Tatsujin! <Color:255,200,200,255>⑮<Color:Default>\nLet's play against each other!",
+"ctx": "diálogo uid01330746"
+},
+{
+"id": 50966,
+"en": "(A two-player game is 200 yen.)",
+"ctx": "diálogo uid01330746 + diálogo uid01330747"
+},
+{
+"id": 50967,
+"en": "That was wicked fun! Call me again sometime, okay? <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid01330746 + diálogo uid01330747"
+},
+{
+"id": 50968,
+"en": "That was a lot of fun! Please give me a call whenever you'd like! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid01330746"
+},
+{
+"id": 50969,
+"en": "That was such fun! Please do call me again sometime! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid01330746"
+},
+{
+"id": 50970,
+"en": "That was such fun! Well, I must be on my way back to Tokyo now. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid01330746"
+},
+{
+"id": 50971,
+"en": "(Taiko No Tatsujin? It's 100 yen for a single player game. Maybe I should give it try.)",
+"ctx": "diálogo uid01330746"
+},
+{
+"id": 50972,
+"en": "Uncle Kaz, see if you can <Color:8>get at least 250,000 points in \"Nijiiro Yumeiro Taikoiro,\" on Normal difficulty!<Color:Default>",
+"ctx": "diálogo uid01330746"
+},
+{
+"id": 50973,
+"en": "(Haruka wants to see me <Color:8>clear \"Nijiiro Yumeiro Taikoiro\" with at least 250,000 points, on Normal difficulty<Color:Default>.)",
+"ctx": "diálogo uid01330746"
+},
+{
+"id": 50974,
+"en": "All right! Good luck, Uncle Kaz!",
+"ctx": "diálogo uid01330746"
+},
+{
+"id": 50975,
+"en": "(Taiko No Tatsujin? It's 100 yen for a single player game and 200 for a two-player game. Maybe I should give it try.)\n　 \n　 ",
+"ctx": "diálogo uid01330746 + diálogo uid01330747 …"
+},
+{
+"id": 50976,
+"en": "(Sure, let's give it a shot.)",
+"ctx": "diálogo uid01330746 + diálogo uid01330747 …"
+},
+{
+"id": 50977,
+"en": "All right, I'll play with Haruka.",
+"ctx": "diálogo uid01330746 + diálogo uid01330747 …"
+},
+{
+"id": 50978,
+"en": "Sorry to keep ya waitin'! <Color:255,200,200,255>⑮<Color:Default> I'm gonna rock this game, just y'watch!",
+"ctx": "diálogo uid01330746"
+},
+{
+"id": 50979,
+"en": "Sorry to keep you waiting! I can definitely see you as a Taiko No Tatsujin person, Saejima-san. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid01330746 + diálogo uid01330748 …"
+},
+{
+"id": 50980,
+"en": "Sorry for the wait! This was so out of the blue, Akiyama-san. Did ya not wanna play all alone?",
+"ctx": "diálogo uid01330746"
+},
+{
+"id": 50981,
+"en": "Apologies for the delay, Shinada-san! This was just so out of the blue. I'm afraid I'm not very good at video games, but I'll give it my best.",
+"ctx": "diálogo uid01330746 + diálogo uid01330748 …"
+},
+{
+"id": 50982,
+"en": "It'll be fine! I'll teach you! <Color:255,200,200,255>⑮<Color:Default> Come on, want to get started?",
+"ctx": "diálogo uid01330746"
+},
+{
+"id": 50983,
+"en": "Sorry for the wait! I'm really good at rhythm games, just so you know! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid01330746 + diálogo uid01330748 …"
+},
+{
+"id": 50984,
+"en": "Let's have us a Taiko No Tatsujin match! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid01330747"
+},
+{
+"id": 50985,
+"en": "(It's 200 yen for a two-player game.)",
+"ctx": "diálogo uid01330747 + diálogo uid01330748 …"
+},
+{
+"id": 50986,
+"en": "(Okay, let's play a game.)",
+"ctx": "diálogo uid01330747"
+},
+{
+"id": 50987,
+"en": "(Maybe not right now.)",
+"ctx": "diálogo uid01330747"
+},
+{
+"id": 50988,
+"en": "That was wicked fun! I'm headin' back to Tokyo now! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid01330747"
+},
+{
+"id": 50989,
+"en": "That was quite fun! Please call me again whenever you'd like! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid01330747"
+},
+{
+"id": 50990,
+"en": "(Taiko No Tatsujin? It's 100 yen for a single-player game. Maybe I should give it a try.)",
+"ctx": "diálogo uid01330747 + diálogo uid0133087a"
+},
+{
+"id": 50991,
+"en": "Sorry to keep y'waiting! <Color:255,200,200,255>⑮<Color:Default> I'm gonna rock this game, just you watch!",
+"ctx": "diálogo uid01330747 + diálogo uid01330748 …"
+},
+{
+"id": 50992,
+"en": "Let's have a Taiko No Tatsujin match!",
+"ctx": "diálogo uid01330748 + diálogo uid01330749"
+},
+{
+"id": 50993,
+"en": "I don't have the money.",
+"ctx": "diálogo uid01330748"
+},
+{
+"id": 50994,
+"en": "(Taiko No Tatsujin? It's 100 yen for a single-player game. Maybe I should give it try.)",
+"ctx": "diálogo uid01330748"
+},
+{
+"id": 50995,
+"en": "Y'gotta be kiddin' me! Y'called me all the way out to Tokyo jus' to play Taiko No Tatsujin!?",
+"ctx": "diálogo uid01330748 + diálogo uid01330749"
+},
+{
+"id": 50996,
+"en": "Yes. It's more fun with two players. Want to get started?",
+"ctx": "diálogo uid01330748"
+},
+{
+"id": 50997,
+"en": "(200 yen for a two-player match, huh?)",
+"ctx": "diálogo uid01330748 + diálogo uid01330749"
+},
+{
+"id": 50998,
+"en": "Ya called up a student who's busy lookin' for a job all the way out in Osaka, just to play Taiko No Tatsujin? This some kinda joke?",
+"ctx": "diálogo uid01330748 + diálogo uid01330749"
+},
+{
+"id": 50999,
+"en": "Sorry for the wait! This was just kinda sudden, Akiyama-san. Did ya not wanna play all alone?",
+"ctx": "diálogo uid01330748 + diálogo uid01330749 …"
+},
+{
+"id": 51000,
+"en": "It'll be fine! I'll teach you! Come on, want to get started?",
+"ctx": "diálogo uid01330748 + diálogo uid01330749 …"
+},
+{
+"id": 51001,
+"en": "(I should call up Hinata.)",
+"ctx": "diálogo uid01330748 + diálogo uid0133087a"
+},
+{
+"id": 51002,
+"en": "(Taiko No Tatsujin, eh? It's 100 yen for a single-player game. Maybe I'll give it try.)",
+"ctx": "diálogo uid01330749"
+},
+{
+"id": 51003,
+"en": "It's more fun with two players. Want to get started?",
+"ctx": "diálogo uid01330749"
+},
+{
+"id": 51004,
+"en": "(Curry Shop S. This place oughta get Tatsuya's attention.)",
+"ctx": "diálogo uid0133074a"
+},
+{
+"id": 51005,
+"en": "(Pro Course. This is where I belong. 300 yen a go, huh? Should I go for it?)",
+"ctx": "diálogo uid0133077c"
+},
+{
+"id": 51006,
+"en": "Just as in Shinada's batting showdowns in his Side Story, the bat has a Swing Cursor with four impact ranges that are assigned to four buttons. Move the Swing Cursor to position an impact range, and then press its button to swing.",
+"ctx": "diálogo uid0133077c"
+},
+{
+"id": 51007,
+"en": "Hit the ball at a giant plate to break it. The harder the hit, the greater the damage to the plate. Score points by breaking off chunks. You must score 800 points to clear the course.",
+"ctx": "diálogo uid0133077c"
+},
+{
+"id": 51008,
+"en": "Destroying the plate reveals the image underneath. Try hitting as hard as possible to efficiently break the obscuring plate.",
+"ctx": "diálogo uid0133077c"
+},
+{
+"id": 51009,
+"en": "(The Pro Course is 300 yen, but I can't afford it right now... Bummer.)",
+"ctx": "diálogo uid0133077c"
+},
+{
+"id": 51010,
+"en": "(Pro Course? Is that for professional players or something? Bet it's too tough for me.)",
+"ctx": "diálogo uid0133077c"
+},
+{
+"id": 51011,
+"en": "Can't touch this, Shinada!",
+"ctx": "diálogo uid013307a7 + diálogo uid013307a9 …"
+},
+{
+"id": 51012,
+"en": "No hard feelings, but you're about to get smoked!",
+"ctx": "diálogo uid013307a7 + diálogo uid013307a9 …"
+},
+{
+"id": 51013,
+"en": "My whole life depends on this! Here goes!",
+"ctx": "diálogo uid013307a7 + diálogo uid013307a9 …"
+},
+{
+"id": 51014,
+"en": "Gonna write a sexy article about this one?",
+"ctx": "diálogo uid013307a7 + diálogo uid013307a9 …"
+},
+{
+"id": 51015,
+"en": "I'm not losing to the likes of you! Get ready!",
+"ctx": "diálogo uid013307a7 + diálogo uid013307a9"
+},
+{
+"id": 51016,
+"en": "Get ready, Shinada! We're settling the score, once and for all!",
+"ctx": "diálogo uid013307a7 + diálogo uid013307a9"
+},
+{
+"id": 51017,
+"en": "(If I'm gonna win it in one hit, it pretty much has to be a homer. Okay... Gotta focus!)",
+"ctx": "diálogo uid013307a8 + diálogo uid013307aa …"
+},
+{
+"id": 51018,
+"en": "This is it!",
+"ctx": "diálogo uid013307a8 + diálogo uid013307aa …"
+},
+{
+"id": 51019,
+"en": "Eat this, punk!",
+"ctx": "diálogo uid013307a8 + diálogo uid013307aa …"
+},
+{
+"id": 51020,
+"en": "It's miracle time!",
+"ctx": "diálogo uid013307a8 + diálogo uid013307aa …"
+},
+{
+"id": 51021,
+"en": "Wake up and smell the beanball!",
+"ctx": "diálogo uid013307a8 + diálogo uid013307aa …"
+},
+{
+"id": 51022,
+"en": "Okay! Here we go!",
+"ctx": "diálogo uid013307a8 + diálogo uid013307aa …"
+},
+{
+"id": 51023,
+"en": "En garde!",
+"ctx": "diálogo uid013307a8 + diálogo uid013307aa …"
+},
+{
+"id": 51024,
+"en": "All right. Get ready!",
+"ctx": "diálogo uid013307a8 + diálogo uid013307aa …"
+},
+{
+"id": 51025,
+"en": "Hmph. From the top of the big leagues to bottom-feeding\ntitty mags... You certainly fell from grace, Shinada.",
+"ctx": "diálogo uid013307ab"
+},
+{
+"id": 51026,
+"en": "Cut the chatter and pitch, Kurosaki. This is the last time I'm putting up with you.",
+"ctx": "diálogo uid013307ab"
+},
+{
+"id": 51027,
+"en": "If you can't hit these pitches, you're done for in my eyes. Unless you can prove me wrong!",
+"ctx": "diálogo uid013307ab"
+},
+{
+"id": 51028,
+"en": "Then I'll do just that!",
+"ctx": "diálogo uid013307ab"
+},
+{
+"id": 51029,
+"en": "(They've got a 200 yen sale today... My one shot at redemption!)",
+"ctx": "diálogo uid013307b1"
+},
+{
+"id": 51030,
+"en": "Hello! Nightlife Magazine here!",
+"ctx": "diálogo uid013307b3"
+},
+{
+"id": 51031,
+"en": "Welco⑬ Oh, it's just Ta-chan. What gives? You're late for your interview.",
+"ctx": "diálogo uid013307b3"
+},
+{
+"id": 51032,
+"en": "Yeah, I'm aware. Sorry 'bout that, boss.",
+"ctx": "diálogo uid013307b3"
+},
+{
+"id": 51033,
+"en": "It's just that I'm getting calls from everywhere!\nPeople want coverage here, new girl shows up there...\nI'm swamped like a crapper at a curry buffet!",
+"ctx": "diálogo uid013307b3"
+},
+{
+"id": 51034,
+"en": "But not to worry. Today I vow to mold Milky-chan's\nmature muffins into gravure goldmines!",
+"ctx": "diálogo uid013307b3"
+},
+{
+"id": 51035,
+"en": "The thing is... Milky's taking time off, effective immediately.",
+"ctx": "diálogo uid013307b3"
+},
+{
+"id": 51036,
+"en": "Huh? She's out today? Why?",
+"ctx": "diálogo uid013307b3"
+},
+{
+"id": 51037,
+"en": "Damned if I know.",
+"ctx": "diálogo uid013307b3"
+},
+{
+"id": 51038,
+"en": "You're the manager!",
+"ctx": "diálogo uid013307b3"
+},
+{
+"id": 51039,
+"en": "Yeah, and getting too personal with these broads burns me\nthe hell out.",
+"ctx": "diálogo uid013307b3"
+},
+{
+"id": 51040,
+"en": "'Sides, women in their forties go through all sorts of wild\nmutations. Could be the hot flashes got her.",
+"ctx": "diálogo uid013307b3"
+},
+{
+"id": 51041,
+"en": "I'm serious here! If I don't get her story in by tonight,\nwe'll never make it to the printers!",
+"ctx": "diálogo uid013307b3"
+},
+{
+"id": 51042,
+"en": "Shoot, I thought you knew Milky-chan inside and out. Not even a euphemism.",
+"ctx": "diálogo uid013307b3"
+},
+{
+"id": 51043,
+"en": "Why drag her out if you've already sampled her goods?\nMake up some good ol' fashioned bullshit.",
+"ctx": "diálogo uid013307b3"
+},
+{
+"id": 51044,
+"en": "That's an absolute, flat-out no! I am meeting Milky-chan\nhere, in person, today, no matter what!",
+"ctx": "diálogo uid013307b3"
+},
+{
+"id": 51045,
+"en": "How am I supposed to pull a live interview out of my ass?\nMy article would literally read like crap.",
+"ctx": "diálogo uid013307b3"
+},
+{
+"id": 51046,
+"en": "This guy, always mixing business with pleasure just 'cause\nhe can expense it. Didn't you just run a feature on Milky\nnot too long ago?",
+"ctx": "diálogo uid013307b3"
+},
+{
+"id": 51047,
+"en": "Which brings me to my next point. I heard you ran into some\nissues with the last photo you used?",
+"ctx": "diálogo uid013307b3"
+},
+{
+"id": 51048,
+"en": "Oh, yeah, about that. So the feature I did with Milky-chan got\nour editorial office a ton of bad press...",
+"ctx": "diálogo uid013307b3"
+},
+{
+"id": 51049,
+"en": "What'd you expect? That photo was from back in her glory\ndays. Sad to say, she's gone a tad sour since then.",
+"ctx": "diálogo uid013307b3"
+},
+{
+"id": 51050,
+"en": "Well, she insisted. Said I just had to use this photo.",
+"ctx": "diálogo uid013307b3"
+},
+{
+"id": 51051,
+"en": "Yeah, but... how long ago was it taken?",
+"ctx": "diálogo uid013307b3"
+},
+{
+"id": 51052,
+"en": "Quite a ways back. So yeah, I got reamed pretty hard by the editor-in-chief.",
+"ctx": "diálogo uid013307b3"
+},
+{
+"id": 51053,
+"en": "He told me I'm gone for good if I don't come up with\nsomething current for the month.",
+"ctx": "diálogo uid013307b3"
+}
+]

@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_h1",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    135,
+    176,
+    376,
+    238
+   ],
+   "en": "Cute pose",
+   "ocr": "Cutepose",
+   "es": "Pose linda",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 237
+  }
+ ]
+}

@@ -1,0 +1,802 @@
+[
+{
+"id": 26028,
+"en": "Relax your mind... Clear your thoughts... Unload yourself...  This is a one-of-a-kind experience that people desperately need, especially in dark times like these.",
+"ctx": "diálogo uid00160049"
+},
+{
+"id": 26029,
+"en": "Nah, maybe some other time. I'm broke enough as it is.",
+"ctx": "diálogo uid00160049"
+},
+{
+"id": 26030,
+"en": "Nah, maybe some other time.",
+"ctx": "diálogo uid00160049"
+},
+{
+"id": 26031,
+"en": "In closing, I ask you to take a look around you. If you feel like making Kineicho⑬no, all of Nagoya⑬a better place, then please vote Shozo Matsukane on election day!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26032,
+"en": "This concludes my talk. Thank you all for your time and consideration!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26033,
+"en": "Don't forget to vote, my friends! Sow a seed into the future!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26034,
+"en": "...Wait, what the heck?",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26035,
+"en": "It seems that no one bothered to stick around.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26036,
+"en": "Ooh, I'm sorry about that. I kept screwing up and saying the wrong things.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26037,
+"en": "No, that's quite all right. I'm the one who begged you to do this. No need to apologize. That's just how things go sometimes.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26038,
+"en": "So, what now? Are you going to keep going with your streetcorner speeches?",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26039,
+"en": "Hmm. I don't know. Doing this solo is disheartening.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26040,
+"en": "Hey, boss! I'm sorry I'm so late!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26041,
+"en": "Looks like someone beat me to the endorsement speech.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26042,
+"en": "I wanted to go first!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26043,
+"en": "Huh? What's with all these people...?",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26044,
+"en": "Everyone... You guys actually came to support me?",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26045,
+"en": "Are you kidding? Of course we did! You've been so good to me for years.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26046,
+"en": "Matsukane-san, I'm sorry for being so abrupt on the phone. It took me a while to pencil in some free time.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26047,
+"en": "Allow me to lend a hand as well.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26048,
+"en": "I guess you're not so alone after all, are you? There goes my first impression.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26049,
+"en": "It's a blessing, that's for sure. Now I really can't let you guys down.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26050,
+"en": "But, Ta-chan, you were the one that was there when I was down on myself the most.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26051,
+"en": "If you hadn't come through for me, I probably would have lost all hope.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26052,
+"en": "Aww, why thank you. Makes me feel a little less awful about botching things up.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26053,
+"en": "I'm serious, Ta-chan. I really appreciate what you did for me!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26054,
+"en": "Goodness me! Look at all these people!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26055,
+"en": "Keep at it!",
+"ctx": "diálogo uid00160088 + frase de acompañante/calle STID_ST_NAGOYA"
+},
+{
+"id": 26056,
+"en": "Ya sure got my vote!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26057,
+"en": "See you at Shachoko sometime!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26058,
+"en": "If your ramen's as good as your campaign, then I'm sold!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26059,
+"en": "You did it, Ta-chan! You made this a huge success!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26060,
+"en": "Hehe, I kinda did, didn't I? Guess anything's worth a try.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26061,
+"en": "Your endorsement speech was truly magnificent! That's some hidden talent you have.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26062,
+"en": "Aww, you're too kind. Now you're just inflating my ego.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26063,
+"en": "It's no flattery⑬that's some gift of persuasion you have there. Truly, I'm in your debt.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26064,
+"en": "Unfortunately, I am on a campaign now, so I can't legally offer you any reward. I feel terrible about it, but⑬",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26065,
+"en": "Oh, no worries, man! I'm just glad I could help out.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26066,
+"en": "It looks like you found someone perfect already.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26067,
+"en": "Wait... You don't mean me, do you?",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26068,
+"en": "Who else? That was a better endorsement speech than I could have ever hoped for.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26069,
+"en": "Let me take a shot at it, too. I'll try to match it just as good! And I'll put extra emphasis on how great of a manager you are!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26070,
+"en": "I, too, would like to speak on your behalf.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26071,
+"en": "Then make that three!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26072,
+"en": "What can I say, I'm a lucky guy. I'm going to have to dig down deep so I don't let you people down.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26073,
+"en": "But, Ta-chan, you're the one who really put me back on track. Thank you!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26074,
+"en": "Oh, Ta-chan! Just the man I wanted to see.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26075,
+"en": "You wanted to see <Italic>me</Italic>? I thought you were gonna find someone to endorse you. What happened to that?",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26076,
+"en": "That's just it. Nobody would come out. They all said they were too busy to help.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26077,
+"en": "Ouch. Guess you're not very popular, are you? Isn't that kind of a problem for a politician?",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26078,
+"en": "Boy, that is really not what I needed to hear right now.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26079,
+"en": "Haha, it was just a joke. Someone's gotta lighten the mood.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26080,
+"en": "Ta-chan, things are getting desperate here. I hate to impose, but can you do an endorsement speech for me?",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26081,
+"en": "Huh? Me, give a speech? What, are you nuts? You know I can't do that.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26082,
+"en": "I'm begging you, please. I'll explain my policies right now. Oh, and throw in some wonderful qualities about me as well.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26083,
+"en": "Uh. Like what?",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26084,
+"en": "Oh, come on, there's so many. Don't you remember? When you were flat broke, I'd give you big portions for the price of a regular bowl.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26085,
+"en": "Did... that ever actually happen?",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26086,
+"en": "Happened all the time! Come on, Ta-chan, be of some help. I simply cannot stand it anymore! Being out here alone is so... so horrible...",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26087,
+"en": "You don't have to cry about it, you know. No one's forcing you to do this.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26088,
+"en": "Granted, yes, that's true...",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26089,
+"en": "Besides, who's going to listen if I do make a speech? An endorsement only works if it's someone famous.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26090,
+"en": "I tried to ask people like that, but each one turned me down.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26091,
+"en": "Maybe if you just start speaking with a fiery fervor, people will automatically assume you're someone famous! And then they'll stop and listen!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26092,
+"en": "Yeah, doubt that.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26093,
+"en": "No, I'm sure it'll happen. You're my only hope! It's either this, or my career as a politician is doomed!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26094,
+"en": "Oh, all right. You've always been good to me, so I guess I owe you one. Let's see what I can do.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26095,
+"en": "You mean you'll help me? Really? You're the man, Ta-chan!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26096,
+"en": "Don't go expecting too much. You and I both know it's a longshot.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26097,
+"en": "Duly noted.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26098,
+"en": "Okey-doke. So, I should talk about what a great guy you are while simultaneously promoting your platform, right?",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26099,
+"en": "You don't have to put it so bluntly, but yeah, that's the gist of it.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26100,
+"en": "So what is your platform, anyway?",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26101,
+"en": "Well, I'm an advocate of three key policies: tax cuts, job creation, and childcare support. You could say they're the three pillars of my political philosophy.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26102,
+"en": "Got it. Have you thought of how you're going to achieve all that?",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26103,
+"en": "Of course I have. I'm not just doing this political thing on a whim. It's a bit lengthy, but let me fill you in on these policies.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26104,
+"en": "First, tax cuts. My primary focus is to reduce the residence tax. We'll make up for the deficit with transfers from the national treasury.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26105,
+"en": "By cutting wasteful government spending, we can systematically reduce the tax burden on all of our citizens.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26106,
+"en": "That will spur consumer spending in their local communities,\nwhich in turn will stimulate growth nationwide.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26107,
+"en": "Wow. That sounds like an actual policy!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26108,
+"en": "Next, job creation. This also involves tax cuts. By reducing corporate taxes in Nagoya, we'll attract more businesses to the area.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26109,
+"en": "But the more money you make, the more taxes you pay. As a result, companies try to move their operations to tax havens offshore.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26110,
+"en": "However, if all the rich were to flee Japan, the burden would fall on the rest of us. And eventually it would come full circle.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26111,
+"en": "That's why I strongly believe reducing the tax burden on companies and the wealthy will revitalize Nagoya's economy and result in new jobs.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26112,
+"en": "Okay, got it. So it's not always bad to give the rich a break. Go figure.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26113,
+"en": "Third is childcare support. In order to raise the birthrate to sustainable levels, the government needs to do its part to help child-rearing families.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26114,
+"en": "I'm proposing that the child tax benefit be increased, with the difference to come from higher taxes for single people.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26115,
+"en": "Huh? That doesn't sound good for me.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26116,
+"en": "No, it doesn't. So singles will think it's more worthwhile to raise kids. That will encourage more couples to marry.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26117,
+"en": "Perhaps this may be criticized as just vote-buying, but I think the government needs to invest in the younger generation.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26118,
+"en": "True, true... Okay, I think I got it all down.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26119,
+"en": "I'll try to work all that into my speech somehow.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26120,
+"en": "Then I'll be counting on you, Ta-chan!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26121,
+"en": "Yup. So, just to recap...",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26122,
+"en": "Your three pillars were tax cuts, job creation, and childcare support. Huh, that about does it. Well, here goes nothing!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26123,
+"en": "You're barking up the wrong tree. Sorry, but no can do.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26124,
+"en": "You can't leave me like this. I can't do this by myself!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26125,
+"en": "Ta-chan, please, help me out with an endorsement speech. You're the only one who can do it. Please? Don't make me beg.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26126,
+"en": "Er-hem! Good day, fellow citizens! I'm sorry to disturb you on your busy day, but may I have your attention?",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26127,
+"en": "Is that some campaign rally?",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26128,
+"en": "Who is that man?",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26129,
+"en": "I'm sure I've seen that face before.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26130,
+"en": "Maybe it's somebody famous?",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26131,
+"en": "My name is Tatsuo Shinada. I am here today as a representative of the common people in support of Shozo Matsukane.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26132,
+"en": "Matsukane-shi has long operated a ramen restaurant in town. He can be considered a hero for filling the bellies of our fellow citizens.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26133,
+"en": "Being locals like myself, I'm sure you at least know of Matsukane-shi's ramen restaurant, which goes by the name, uh...",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26134,
+"en": "Shachihoko Ramen! Held in the highest esteem among ramen fans in the know for its uniquely Nagoya charm.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26135,
+"en": "Shachihoko?",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26136,
+"en": "There's a ramen place called that?",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26137,
+"en": "I never heard of it.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26138,
+"en": "Hey, that's not it at all, Ta-chan! We're <Italic>Shachoko</Italic> Ramen. At least get that one right!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26139,
+"en": "Yes! Shachoko! I've enjoyed many a heaping bowl of noodles as a regular there.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26140,
+"en": "A regular wouldn't get the name wrong.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26141,
+"en": "Shachoko Ramen! Held in the highest esteem among ramen fans in the know for its uniquely Nagoya charm.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26142,
+"en": "Hello! I am indeed the manager of Shachoko Ramen, and I hope I may count on your support for my entry into politics.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26143,
+"en": "Oh, so that's their manager!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26144,
+"en": "I've been there.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26145,
+"en": "They're tasty.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26146,
+"en": "As a regular of Shachoko Ramen, I've enjoyed many heaping bowls of steaming noodles there.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26147,
+"en": "This personable and kind-hearted manager hopes to enter politics to represent us⑬the everyday folks that keep this town afloat.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26148,
+"en": "That's right! So please remember to lend Shozo Matsukane your support come election day!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26149,
+"en": "Shachokehold Ramen! A ramen shop so gripping, it'll judo-slam your taste buds into submission! Ohhh yeaaahhh!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26150,
+"en": "Sha...chokehold?",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26151,
+"en": "What, is it owned by a former wrestler?",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26152,
+"en": "...Yeah, no thanks.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26153,
+"en": "Matsukane-shi's platform consists of three pillars!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26154,
+"en": "These pillars are the policies he will make every effort to enact if you would grant him the chance to serve you in office!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26155,
+"en": "The first pillar⑬tax cuts! If the financial burdens on our citizens are not reduced, the economy will remain moribund and hopeless!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26156,
+"en": "Matsukane-shi pledges to reduce the residence tax that we all currently pay.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26157,
+"en": "How does he propose to make up for the shortfall from the reduction in the residence tax? The answer is to...",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26158,
+"en": "Get transfers from the national treasury. And by cutting waste from the national budget, residence taxes in all of our communities will be reduced.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26159,
+"en": "The Japanese economy cannot be revived without a real improvement in the people's standard of living throughout the country.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26160,
+"en": "It is up to the local communities to inform the national government of this critical fact. I hope to be the vanguard of that movement.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26161,
+"en": "I'm all for cutting taxes.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26162,
+"en": "I'll be holding you to that!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26163,
+"en": "This economy really does need help.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26164,
+"en": "Matsukane-shi pledges to reduce your taxes as his first policy if he's given the chance to be your voice in the government!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26165,
+"en": "I, Shozo Matsukane, promise to fight with my life to honor the trust you place in me! But only you can give me that opportunity!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26166,
+"en": "We will stake our future on unearthing buried gold. Now is the time to find what has only been left to rumors. We want... No, we must find it!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26167,
+"en": "No! Ta-chan, I would never rely on a ludicrous gamble like that!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26168,
+"en": "Buried gold? That's ridiculous.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26169,
+"en": "What is he thinking?",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26170,
+"en": "You can't bank on that.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26171,
+"en": "No, that isn't it. My plan is to obtain transfers from the national treasury. There's a solid reasoning behind this approach!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26172,
+"en": "But it would be pretty cool if there was hidden gold waiting to be discovered! Don't forget!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26173,
+"en": "Would you drop that? Ta-chan, stick to the script, please.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26174,
+"en": "Sell off city assets! We pledge to sell off everything and anything. With the proceeds we can take it easy and enjoy life!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26175,
+"en": "Wait! Stop it! What are you saying? Are you out of your mind?",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26176,
+"en": "That's only a temporary fix.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26177,
+"en": "What happens when there's nothing left to sell?",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26178,
+"en": "Won't the residence tax just come back?",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26179,
+"en": "No, that isn't it. My plan is to obtain transfers from the national treasury. I am not an advocate of any stopgap measures!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26180,
+"en": "Come on, Ta-chan, you're killing me. You have to pay attention here.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26181,
+"en": "Next, the second pillar of his three-fold platform⑬job creation! Something must be done about the ridiculously high unemployment!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26182,
+"en": "In these tough economic times, we must reverse the shrinking job market. How is Matsukane-shi gonna tackle this?",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26183,
+"en": "By expanding social services! By doing so, we can boost the employment rate while also providing our seniors with even better care!",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26184,
+"en": "Won't that end up costing the city even more? Where's the funding coming from?",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26185,
+"en": "Are you going to hike up our taxes even more?",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26186,
+"en": "Better social services might have a nice ring to it, but it's only about throwing cash around.",
+"ctx": "diálogo uid00160088"
+},
+{
+"id": 26187,
+"en": "Ta-chan, that's not what I said! I said reduce the corporate tax burden so we can attract more businesses to set up shop in Nagoya.",
+"ctx": "diálogo uid00160088"
+}
+]

@@ -1,0 +1,189 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_shougi02.par/texlist/2d_jm_shogi02",
+ "fuente": "timesbd.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    0,
+    640,
+    88
+   ],
+   "en": "Ranked Match",
+   "ocr": "Ranked Match",
+   "es": "Partida por rango",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 636,
+   "estilo": {
+    "arriba": [
+     235,
+     240,
+     255
+    ],
+    "abajo": [
+     120,
+     150,
+     230
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     3
+    ],
+    "brillo": null
+   },
+   "alto": 58
+  },
+  {
+   "caja": [
+    0,
+    88,
+    640,
+    176
+   ],
+   "en": "Challenge Match",
+   "ocr": "Challenge Match",
+   "es": "Partida de desafío",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 636,
+   "estilo": {
+    "arriba": [
+     255,
+     235,
+     235
+    ],
+    "abajo": [
+     230,
+     40,
+     40
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     3
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    0,
+    219,
+    512,
+    287
+   ],
+   "en": "10 Seconds Left",
+   "ocr": "10 Seconds Left",
+   "es": "Quedan 10 segundos",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 508,
+   "estilo": {
+    "arriba": [
+     245,
+     40,
+     40
+    ],
+    "abajo": [
+     200,
+     0,
+     0
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     3
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    723,
+    7,
+    877,
+    38
+   ],
+   "en": "Ranked Match",
+   "ocr": "Ranked Match",
+   "es": "Partida por rango",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 150,
+   "estilo": {
+    "arriba": [
+     235,
+     240,
+     255
+    ],
+    "abajo": [
+     120,
+     150,
+     230
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     1
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    707,
+    50,
+    895,
+    87
+   ],
+   "en": "Challenge Match",
+   "ocr": "Challenge Match",
+   "es": "Partida de desafío",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 184,
+   "estilo": {
+    "arriba": [
+     255,
+     235,
+     235
+    ],
+    "abajo": [
+     230,
+     40,
+     40
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     1
+    ],
+    "brillo": null
+   }
+  }
+ ]
+}

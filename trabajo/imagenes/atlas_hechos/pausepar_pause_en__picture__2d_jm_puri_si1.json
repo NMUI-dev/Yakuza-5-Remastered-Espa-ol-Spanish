@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_si1",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    35,
+    139,
+    495,
+    256
+   ],
+   "en": "I want to get to first base with you!",
+   "ocr": "Iwanttogetto firstbase with you!",
+   "es": "¡Quiero llegar a primera base contigo!",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 460
+  }
+ ]
+}

@@ -1,0 +1,837 @@
+[
+{
+"id": 24571,
+"en": "Shinada... What?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24572,
+"en": "What, what?",
+"ctx": "diálogo uid0013031b + frase de acompañante/calle STID_ST_S_PRISON"
+},
+{
+"id": 24573,
+"en": "Shinada, we're friends, aren't we?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24574,
+"en": "Wait, friend? I'm not your vassal anymore?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24575,
+"en": "I'm a new man now. Having a girlfriend has enlightened me.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24576,
+"en": "Now I have someone who accepts me for who I am. I don't have to try to impress people by playing the aristocrat card.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24577,
+"en": "I can keep taking pride in being an aristocrat, of course, as it bolsters my will. But I don't need it as a crutch anymore.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24578,
+"en": "I fought with all my might, and still you routed me. That's why I've decided to go back to basics and start my training anew.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24579,
+"en": "Besides, I have someone to protect now.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24580,
+"en": "Whoa, now that's really cool! You're impressing the hell out of me now more than ever!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24581,
+"en": "I'll be rooting for you, Leo-kun! So keep up the good work!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24582,
+"en": "I've got to try my best too, so you don't outdo me!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24583,
+"en": "I'll be seeing you, Leo-kun! I hope you'll make your special lady happy!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24584,
+"en": "I shall, of course! And the next time we meet, you'll see just how magnificent I've become!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24585,
+"en": "Awesome! Looking forward to it, buddy!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24586,
+"en": "Take care, Shinada. I bid you farewell!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24587,
+"en": "Okay, I'll give you some advice about your life!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24588,
+"en": "Must you be so immodest about it? Ugh... Go on.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24589,
+"en": "Before I help you get a girlfriend, I need to know all about you.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24590,
+"en": "I'm going to ask you a few questions. All you have to do is answer.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24591,
+"en": "Very well. Go on.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24592,
+"en": "Okay, let me ask you this...",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24593,
+"en": "Have you ever had a girlfriend before?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24594,
+"en": "You already know the answer, but I suppose you want to hear me say it... No, I haven't.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24595,
+"en": "I see. Okay, how about a one-night stand or something like that?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24596,
+"en": "An aristocrat such as I would never commit such an abhorrent act. I wouldn't even hold hands with a damsel unless we were at least dating!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24597,
+"en": "(Geez, this guy's more naive than I thought.)",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24598,
+"en": "What type of girl do you like, Leo-kun?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24599,
+"en": "A girl suited to my aristocratic qualities. She must also be from a family of some standing. Finally, she must be equal parts intelligent and comely.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24600,
+"en": "(Never met a girl like that before. Or maybe I've been looking in the wrong places.)",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24601,
+"en": "What would you consider a relationship deal-breaker?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24602,
+"en": "Speaking to any man other than me. Naturally, 'twould be utterly inexcusable.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24603,
+"en": "Isn't that a pretty high bar to set?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24604,
+"en": "Ah, such an ignorant peasant. You obviously don't understand the importance of protecting my noble lineage.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24605,
+"en": "(This is worse than I thought. I don't know if any advice is going to help.)",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24606,
+"en": "I see... All right, Leo-kun. From what you've told me, we're going to need to change the way you think. A lot.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24607,
+"en": "Hah! You think your impaired peasant mind could hope to change how I think? Don't make me laugh!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24608,
+"en": "Let's try that again. Now then...",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24609,
+"en": "(Based on what I've heard so far, I should...)",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24610,
+"en": "Listen, Leo-kun. You know how the universe is incomprehensibly vast?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24611,
+"en": "Pardon? Well yes, I suppose it is. So what?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24612,
+"en": "Like, we think it's vast, but it's even vaster than that! Like vastly so!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24613,
+"en": "Get to the point.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24614,
+"en": "Compared to the scale of the universe, things like being an aristocrat are utterly insignificant.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24615,
+"en": "No, they are not.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24616,
+"en": "No, think about it. We're talking about the universe here. It's really, really big!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24617,
+"en": "I fail to see how this is in any way relevant. I shan't be misled by such inane sophistry.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24618,
+"en": "(This isn't working. I think I blew it this time.)",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24619,
+"en": "You must put forth more effort than that. I answered your meaningless questions, and yet I am still awaiting proper advice. Perhaps I was right about you after all.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24620,
+"en": "Okay, sorry...",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24621,
+"en": "This can't go on, Leo-kun. Your whole way of thinking is wrong.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24622,
+"en": "What? You have not the authority to judge me so!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24623,
+"en": "No, you have to listen to me. It's not like I'm a hit with the ladies, either, but you're way behind the times.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24624,
+"en": "Plus, never having dated a girl at your age is a huge red flag. Most women won't touch you with a ten-foot pole once they hear that.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24625,
+"en": "I've only one thing to say to you, Shinada! Go to hell!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24626,
+"en": "I live by my own rules, and I shall not allow some witless peasant to violate them!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24627,
+"en": "Away with you, commoner!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24628,
+"en": "(Whoops, he's really mad now.)",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24629,
+"en": "All right, I know now there's no way I'm going to persuade you with words alone.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24630,
+"en": "Finally, some wisdom! I commend you for knowing your place, but you aren't going to give up that easily, are you?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24631,
+"en": "That's not what I meant. Get ready, Leo-kun, because I'm gonna show you how to be a man in more ways than one.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24632,
+"en": "Advice time! Let's talk about your life!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24633,
+"en": "I shall have none of your reckless schemes this time, understand? I want to hear what you have in mind first.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24634,
+"en": "Oh, come on, admit it. You actually liked it, right? I'll introduce you to another girl, and at a discounted price again, too.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24635,
+"en": "Really? Er... I mean, you shan't pull the wool over my eyes so easily, cretin!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24636,
+"en": "I am a noble! An aristocrat! We of such high birth rarely, if ever, go to such vulgar establishments!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24637,
+"en": "Yeah, yeah, I get it. You're an aristocrat. And while we're on the subject, is that bizarro makeup your attempt to look like one?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24638,
+"en": "Are you implying I am a fraud!? I'll have you know that this makeup is what every proper noble wears!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24639,
+"en": "But, Leo-kun, come on. No one's going to take you seriously if you look like that.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24640,
+"en": "Fie! I wouldn't expect a peasant like you to understand the splendor of my appearance.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24641,
+"en": "It has nothing to do with me being a peasant. Now, I have a few questions if you don't mind.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24642,
+"en": "You may present your inquiries, but naught you can say shall make me remove my makeup.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24643,
+"en": "Do you honestly think you look cool like that?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24644,
+"en": "This splendid makeup is simply oozing with elegance. What better way to display my aristocracy?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24645,
+"en": "This isn't about elegance or aristocracy. It's about looking good. You know, like a stud. A ladies' man.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24646,
+"en": "Well, I must concede that the aristocratic ideal likely differs from the modern-day commoner's conception of good looks.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24647,
+"en": "(Hmm, okay. So not even he thinks he looks good in the modern sense.)",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24648,
+"en": "Are you wearing that because you like it? Or are your parents forcing you?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24649,
+"en": "No, my parents dress in more modern clothes, albeit they don't feel as aristocratic as I do.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24650,
+"en": "So you chose this style because it makes you look like an aristocrat?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24651,
+"en": "Indeed. My noble spirit cries out for such elegance.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24652,
+"en": "(So there'd be no need for him to look like this if he can get his head on straight.)",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24653,
+"en": "Do you even care what girls think about you? I mean, normal people don't dress like that.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24654,
+"en": "I don't care what you peasants think. And I am far superior to your conception of \"normal\" in any case. I have no use for anyone who cannot understand that.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24655,
+"en": "Do you think there's anyone who thinks you look cool like that?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24656,
+"en": "Few indeed, but that is not my concern. Only those who understand my sublime fashion sense matter.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24657,
+"en": "(He knows he's not in the mainstream, but it doesn't seem like he's willing to change.)",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24658,
+"en": "I think I get it now. You take pride in looking like that.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24659,
+"en": "That should go without saying. I'm impressed a peon such as yourself is able to grasp that.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24660,
+"en": "Enough talk! It's time for a change!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24661,
+"en": "Just stand still, will you!?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24662,
+"en": "Cease! Cease, I say, imbecile!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24663,
+"en": "*whomp*",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24664,
+"en": "Fool! Never manhandle an aristocrat's face as such!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24665,
+"en": "Wow. Was that you going all out, Leo-kun? That sure packed a punch.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24666,
+"en": "Such is your punishment for laying hands upon a noble without permission!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24667,
+"en": "(That didn't go as planned.)",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24668,
+"en": "Okay, let's say the tables were turned. For example...",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24669,
+"en": "Are there any female celebrities you have a thing for? You know, any you think are cute?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24670,
+"en": "A celebrity? Hmm... Well, I have been rather taken with Azusa-chan from T-Set as of late.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24671,
+"en": "An idol? Seriously? Oh, never mind. Let's go with Azusa-chan then.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24672,
+"en": "Would you still like her if she put on otafuku makeup? You know, the white face, red cheeks, narrow red lips, and eyebrows way up here?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24673,
+"en": "What? She would never wear that. Not even on a comedy show.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24674,
+"en": "We're talking hypothetically here. Just humor me.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24675,
+"en": "Well, I suppose putting makeup like that on her would mar her beauty.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24676,
+"en": "Exactly! And the same goes for you, Leo-kun!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24677,
+"en": "But my makeup is different. 'Tis an expression of my aristocratic qualities.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24678,
+"en": "That may be true to you, but that's not what other people think. They just see weird makeup.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24679,
+"en": "They don't see the good-looking guy underneath. It's just like if Azusa-chan wore otafuku makeup. You see?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24680,
+"en": "So you're saying when people look at me, they don't see an aristocrat, just a buffoon in strange makeup?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24681,
+"en": "Exactly! Now do you understand!?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24682,
+"en": "That's ludicrous! Or... Or is it? Perhaps you're onto something. Is that why commoners always mock me?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24683,
+"en": "You bet it is. So you ready for a makeover, Leo-kun? You're gonna turn heads. People will be saying, \"Hey, an aristocrat!\"",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24684,
+"en": "But I already am a Heian aristocrat! Though... perhaps I should trust you...",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24685,
+"en": "Wow, you're actually considering this? You had doubts of your own, didn't you?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24686,
+"en": "Of course I did. I'm not blind. I know that I am the only one dressed like this.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24687,
+"en": "I wish to broadcast my aristocracy to the world, but I realize now that perhaps that is unwise.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24688,
+"en": "I shall... give up my makeup.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24689,
+"en": "My makeup is no more.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24690,
+"en": "Whoa, damn, Leo-kun! You're pretty handsome!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24691,
+"en": "Do not mock me, peasant!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24692,
+"en": "I'm not! I'm serious here! Super serious!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24693,
+"en": "Your dreams of having a girlfriend are just around the corner!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24694,
+"en": "Being told I'm handsome by another man does little to inspire me...",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24695,
+"en": "Guys don't like saying stuff like that, so when they do, they really mean it. Anyway, I don't like you enough to lie to you about that.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24696,
+"en": "Well, you do have a point there.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24697,
+"en": "Okay! Now that we've seen what's under the hood, we're good to go!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24698,
+"en": "That's not for you to decide! Still, I guess we can consider this done with.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24699,
+"en": "I could never have changed without your aid, and I suppose you have my gratitude for that.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24700,
+"en": "All right, then. That concludes this round of feudal service!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24701,
+"en": "Fine. You have served me well, so return when you wish to continue your lessons. But ensure you are prepared!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24702,
+"en": "All right, no matter what I say, I can tell I'm not going to move you.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24703,
+"en": "So I think you should just live your life however you want!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24704,
+"en": "That is as I have always done. I scarcely need you to give me permission.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24705,
+"en": "(Uh-oh, I've got nothing! What was I even thinking?)",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24706,
+"en": "Is there ought else you require?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24707,
+"en": "Er, no, nothing. I'll just be going now.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24708,
+"en": "I've already effected many of the changes you have mentioned, but I've yet to see results.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24709,
+"en": "These things take time. How old are you again, Leo-kun?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24710,
+"en": "As I've told you countless times, I am 35.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24711,
+"en": "Well, I'll need a little more patience out of you, considering all the quirks you've developed over the years. I can't fix them all at once.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24712,
+"en": "Quirks!? What you consider to be \"quirks\" are mannerisms befitting a nobleman such as myself! You certainly have no right to criticize me.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24713,
+"en": "Yeah, yeah, whatever you say. Now, what should we do this time? Hmm...",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24714,
+"en": "We already got the makeup off, so I guess you should lose those clothes next.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24715,
+"en": "Nay.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24716,
+"en": "Don't you want to change your look?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24717,
+"en": "This garb embodies my very soul. Removing my makeup was trying enough, but how will people know I am of noble birth without these clothes?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24718,
+"en": "If looking like an aristocrat is that important to you, then maybe it's a bit too soon to lose those clothes. Time for plan B.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24719,
+"en": "I'm going to ask you a few questions just like before.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24720,
+"en": "You say you want a girlfriend, but are you even able to talk to girls?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24721,
+"en": "Is your skull truly that empty? Of course I am able to speak to women. I am speaking right now, am I not?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24722,
+"en": "That's not what I mean. I don't see you around girls that much. I thought maybe you were too nervous to talk to them.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24723,
+"en": "Oh, I see. Well, I can communicate with them well enough, but I must admit that I am not versed in making idle chatter.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24724,
+"en": "But the average wench would not be able to follow my aristocratic discourse anyway.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24725,
+"en": "(Wench? Sheesh. He's making excuses, but it looks like he knows he can't talk to girls.)",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24726,
+"en": "What do you do all day, Leo-kun?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24727,
+"en": "Clarify.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24728,
+"en": "You don't work, so you must have lots of free time during the week. What do you do to pass the time?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24729,
+"en": "On the contrary, I have no free time! I have plenty of responsibilities, such as watching TV, playing video games, taking walks, and going shopping.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24730,
+"en": "(In other words, all his time is free time. Must be nice to be that rich.)",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24731,
+"en": "Have you ever considered getting a job?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24732,
+"en": "What an absolutely ridiculous question.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24733,
+"en": "If you wanted for nothing, would you seek employment?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24734,
+"en": "Good point. Never mind.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24735,
+"en": "Exactly. At last, something we can agree upon.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24736,
+"en": "But some people work even if they don't have to. They want to do something meaningful or contribute to society or something like that.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24737,
+"en": "Nobles have lived off tribute offered by commoners and vassals for centuries. We have no need to work for a living.",
+"ctx": "diálogo uid0013031b"
+}
+]

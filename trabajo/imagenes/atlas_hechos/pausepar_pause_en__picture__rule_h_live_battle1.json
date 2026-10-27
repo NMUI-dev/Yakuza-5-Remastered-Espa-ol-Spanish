@@ -1,0 +1,196 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_h_live_battle1",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    434,
+    9,
+    590,
+    43
+   ],
+   "en": "Live Battle",
+   "ocr": "Live Battle",
+   "es": "Batalla en vivo",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 152,
+   "dejar": true
+  },
+  {
+   "caja": [
+    32,
+    70,
+    254,
+    109
+   ],
+   "en": "Live Battle (2)",
+   "ocr": "· Live Battle (2)",
+   "es": "Batalla en vivo (2)",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 218,
+   "dejar": true
+  },
+  {
+   "caja": [
+    58,
+    117,
+    664,
+    150
+   ],
+   "en": "As you make successful matches, a gauge will fill.",
+   "ocr": "As you make successful matches, a gauge will fill.",
+   "es": "A medida que completes Partidas con éxito, se irá llenando un medidor.",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 602,
+   "dejar": true
+  },
+  {
+   "caja": [
+    58,
+    149,
+    674,
+    184
+   ],
+   "en": "This is your Score Gauge. In a competition against",
+   "ocr": "This is your Score Gauge. In a competition against",
+   "es": "Este es tu Medidor de Puntuación. En una competencia contra...",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 612,
+   "dejar": true
+  },
+  {
+   "caja": [
+    844,
+    172,
+    892,
+    192
+   ],
+   "en": "Rank",
+   "ocr": "Rank",
+   "es": "Rango",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 44,
+   "dejar": true
+  },
+  {
+   "caja": [
+    57,
+    183,
+    605,
+    219
+   ],
+   "en": "a rival, this will change to your Battle Gauge.",
+   "ocr": "a rival, this will change to your Battle Gauge.",
+   "es": "un rival, este se convertirá en tu medidor de batalla.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 544,
+   "dejar": true
+  },
+  {
+   "caja": [
+    34,
+    252,
+    255,
+    291
+   ],
+   "en": "Live Battle (3)",
+   "ocr": "· Live Battle (3)",
+   "es": "Batalla en vivo (3)",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 217,
+   "dejar": true
+  },
+  {
+   "caja": [
+    58,
+    298,
+    614,
+    332
+   ],
+   "en": "Interludes in the song are called Dance Parts.",
+   "ocr": "Interludes in the song are called Dance Parts.",
+   "es": "Los interludios de la canción se llaman Partes de baile.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 552,
+   "dejar": true
+  },
+  {
+   "caja": [
+    57,
+    332,
+    478,
+    366
+   ],
+   "en": "Dance Parts are played differently.",
+   "ocr": "Dance Parts are played differently.",
+   "es": "Las Partes de Baile se juegan de forma diferente.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 417,
+   "dejar": true
+  },
+  {
+   "caja": [
+    58,
+    398,
+    642,
+    435
+   ],
+   "en": "When the light blue circle reaches the red edge,",
+   "ocr": "When the light blue circle reaches the red edge,",
+   "es": "Cuando el círculo azul claro alcanza el borde rojo, se cumple la condición.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 580,
+   "dejar": true
+  },
+  {
+   "caja": [
+    59,
+    435,
+    502,
+    468
+   ],
+   "en": "press the appropriate button shown.",
+   "ocr": "press theappropriatebuttonshown.",
+   "es": "Prensa el Botón indicado.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 439,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: lo hace el PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

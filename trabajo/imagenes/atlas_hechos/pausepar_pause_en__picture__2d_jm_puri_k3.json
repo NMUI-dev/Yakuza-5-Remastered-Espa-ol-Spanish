@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_k3",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    6,
+    146,
+    506,
+    253
+   ],
+   "en": "Kamurocho Lullaby",
+   "ocr": "Kamurocho Lullaby",
+   "es": "Nana de Kamurocho",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 496
+  }
+ ]
+}

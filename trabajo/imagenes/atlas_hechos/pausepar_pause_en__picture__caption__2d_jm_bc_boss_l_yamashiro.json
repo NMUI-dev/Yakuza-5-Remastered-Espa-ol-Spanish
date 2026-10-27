@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_pause_en/picture/caption/2d_jm_bc_boss_l_yamashiro",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    49,
+    66,
+    975,
+    189
+   ],
+   "en": "VAMPIRE YAMASHIRO",
+   "ocr": "VAMPIRE YAMASHIRO",
+   "es": "VAMPIRO YAMASHIRO",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 922
+  }
+ ]
+}

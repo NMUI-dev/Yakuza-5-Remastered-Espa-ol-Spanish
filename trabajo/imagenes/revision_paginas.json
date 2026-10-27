@@ -1,0 +1,4154 @@
+{
+ "bootpar_boot_en/boot_en/ifc_jimaku_watase_en.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_idol_work_en/idol_work/2d_yk_egao00.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Hasta Luego' overlaps with the original English text 'Love to See You Smile'."
+ },
+ "pausepar_idol_work_en/idol_work/2d_yk_egao01.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Hasta Luego' overlaps with the original English text 'Love to See You Smile'."
+ },
+ "pausepar_idol_work_en/idol_work/2d_yk_egao02.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Love to See You Smile' is still visible."
+ },
+ "pausepar_idol_work_en/idol_work/2d_yk_egao03.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Hasta Luego' overlaps with the original Japanese and English text."
+ },
+ "pausepar_idol_work_en/idol_work/2d_yk_egao04.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Hasta Luego' overlaps with the original English text 'Love to See You'."
+ },
+ "pausepar_idol_work_en/idol_work/2d_yk_padv00.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The original English text 'Princess League' is still visible above the translated text."
+ },
+ "pausepar_idol_work_en/idol_work/2d_yk_playspot01.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Negarse a perder' overlaps with the bottom edge of the blue Japanese characters."
+ },
+ "pausepar_idol_work_en/idol_work/2d_yk_playspot02.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Negarse a perder' overlaps with the background image and the original English text 'Refuse to Lose'."
+ },
+ "pausepar_idol_work_en/idol_work/2d_yk_playspot04.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Refuse to Lose' is still visible below the Spanish translation."
+ },
+ "pausepar_idol_work_en/idol_work/2d_yk_playspot05.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Catch Challenge' is still visible under the Spanish translation."
+ },
+ "pausepar_idol_work_en/idol_work/2d_yk_playspot06.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'filete de pesca' overlaps with the original English text 'HENING FEVER'."
+ },
+ "pausepar_idol_work_en/idol_work/2d_yk_quiz01.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Medium' is still visible in the image."
+ },
+ "pausepar_idol_work_en/idol_work/2d_yk_quiz02.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The original English text 'Live Orange' is still visible inside the logo."
+ },
+ "pausepar_idol_work_en/idol_work/2d_yk_quiz03.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The original English text 'Live Circus' is still visible under the main logo."
+ },
+ "pausepar_idol_work_en/idol_work/2d_yk_quiz04.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The original English text 'Live Circus' is still visible below the Chinese characters."
+ },
+ "pausepar_idol_work_en/idol_work/2d_yk_story02.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Princess League' is still visible above the translated text."
+ },
+ "pausepar_idol_work_en/idol_work/2d_yk_story06.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Princess League' is still visible above the translated text."
+ },
+ "pausepar_idol_work_en/idol_work/2d_yk_story07.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'hasta luego' overlaps with the original Japanese and English text."
+ },
+ "pausepar_idol_work_en/idol_work/2d_yk_zenryoku01.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Running Girl' is still visible in the original image."
+ },
+ "pausepar_idol_work_en/idol_work/2d_yk_zenryoku02.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Running Girl' is still visible in the original image, and the Spanish translation 'Corredora' is overlaid on top of it."
+ },
+ "pausepar_idol_work_en/idol_work/2d_yk_zenryoku03.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Running Girl' is still visible in the original image, and the Spanish translation 'Corredora' is placed directly over it."
+ },
+ "pausepar_idol_work_en/idol_work/2d_yk_zenryoku04.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Running Girl' is still visible in the original image, and the Spanish translation 'Corredora' is placed directly over it."
+ },
+ "pausepar_idol_work_en/idol_work/2d_yk_zenryoku05.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Running Girl' is still visible in the original image."
+ },
+ "pausepar_movie_en/movie/staffroll.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/a_ba_001.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the character's leg."
+ },
+ "pausepar_pause_en/ability/a_ba_002.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the blue line and the background elements."
+ },
+ "pausepar_pause_en/ability/a_ba_003.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the background elements and the character's leg."
+ },
+ "pausepar_pause_en/ability/a_ba_004.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps the character's leg."
+ },
+ "pausepar_pause_en/ability/a_ba_005.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps with the character's leg."
+ },
+ "pausepar_pause_en/ability/a_ba_006.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the blue line and the background elements."
+ },
+ "pausepar_pause_en/ability/a_ba_007.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the background and the character's leg."
+ },
+ "pausepar_pause_en/ability/a_ba_008.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/a_ga_001.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the character's leg."
+ },
+ "pausepar_pause_en/ability/a_ga_002.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The text 'TECNICA' overlaps with the character's body and the background effects."
+ },
+ "pausepar_pause_en/ability/a_ga_003.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps the character's leg."
+ },
+ "pausepar_pause_en/ability/a_ga_004.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the character's leg."
+ },
+ "pausepar_pause_en/ability/a_ga_005.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the character's leg and the blue line."
+ },
+ "pausepar_pause_en/ability/a_ga_006.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the character's leg."
+ },
+ "pausepar_pause_en/ability/a_ga_007.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the character's leg."
+ },
+ "pausepar_pause_en/ability/a_ga_008.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps the character's leg."
+ },
+ "pausepar_pause_en/ability/a_ga_009.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the character's leg."
+ },
+ "pausepar_pause_en/ability/a_ga_010.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the background graphics and the character's leg."
+ },
+ "pausepar_pause_en/ability/a_ma_001.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the character's leg."
+ },
+ "pausepar_pause_en/ability/a_ma_002.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the character's leg."
+ },
+ "pausepar_pause_en/ability/a_ma_004.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the background graphics and the character's leg."
+ },
+ "pausepar_pause_en/ability/a_ma_005.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the character's leg."
+ },
+ "pausepar_pause_en/ability/a_ma_008.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the woman's hand and arm."
+ },
+ "pausepar_pause_en/ability/a_ma_009.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the woman's hand and arm."
+ },
+ "pausepar_pause_en/ability/a_ma_010.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the woman's hand and arm."
+ },
+ "pausepar_pause_en/ability/a_sa_001.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps the character's arm and body."
+ },
+ "pausepar_pause_en/ability/a_sa_002.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps the character's arm and body."
+ },
+ "pausepar_pause_en/ability/a_sa_003.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps the character's arm and body."
+ },
+ "pausepar_pause_en/ability/a_sa_004.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps the character's leg."
+ },
+ "pausepar_pause_en/ability/a_sa_005.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/a_sa_006.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/a_sa_007.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps the image of the character."
+ },
+ "pausepar_pause_en/ability/a_sa_008.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps the character's arm and body."
+ },
+ "pausepar_pause_en/ability/a_sa_009.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps the character's clothing and the background design."
+ },
+ "pausepar_pause_en/ability/a_sa_010.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps with the character's clothing and the background design."
+ },
+ "pausepar_pause_en/ability/a_sa_011.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps the character's leg."
+ },
+ "pausepar_pause_en/ability/a_ta_001.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps with the character's legs."
+ },
+ "pausepar_pause_en/ability/a_ta_002.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the character's leg."
+ },
+ "pausepar_pause_en/ability/a_ta_003.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the character's hand and the horizontal line."
+ },
+ "pausepar_pause_en/ability/a_ta_004.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the horizontal line and the background elements."
+ },
+ "pausepar_pause_en/ability/a_ta_005.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps with the character's legs."
+ },
+ "pausepar_pause_en/ability/a_ta_006.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the character's leg."
+ },
+ "pausepar_pause_en/ability/a_ta_007.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps with the character's legs."
+ },
+ "pausepar_pause_en/ability/a_ta_008.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/a_ta_009.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the character's leg."
+ },
+ "pausepar_pause_en/ability/a_ta_010.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the character's leg."
+ },
+ "pausepar_pause_en/ability/add_002_sin.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps with the dancer's leg."
+ },
+ "pausepar_pause_en/ability/add_003_sin.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/add_004_sin.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps the character's shoulder and the background elements."
+ },
+ "pausepar_pause_en/ability/add_005_sin.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps with the character's body."
+ },
+ "pausepar_pause_en/ability/add_006_sin.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps with the character's body and the original 'SOUL' text."
+ },
+ "pausepar_pause_en/ability/add_007_sin.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps the character's shoulder and the original image's background."
+ },
+ "pausepar_pause_en/ability/add_008_gi.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps with the image of the character."
+ },
+ "pausepar_pause_en/ability/add_009_gi.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the character's leg."
+ },
+ "pausepar_pause_en/ability/add_010_gi.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/add_011_tai.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the image of the character's feet."
+ },
+ "pausepar_pause_en/ability/add_012_tai.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps with the person on the right."
+ },
+ "pausepar_pause_en/ability/add_013_tai.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the character's hand and arm."
+ },
+ "pausepar_pause_en/ability/add_018_gi.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the character on the left."
+ },
+ "pausepar_pause_en/ability/add_019_gi.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/add_020_gi.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps the character's clothing and body."
+ },
+ "pausepar_pause_en/ability/add_022_sin.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps with the character's arm and sleeve."
+ },
+ "pausepar_pause_en/ability/add_023_gi.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps with the character's leg."
+ },
+ "pausepar_pause_en/ability/add_024_gi.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps with the character's body."
+ },
+ "pausepar_pause_en/ability/add_025_gi.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps with the image of the person."
+ },
+ "pausepar_pause_en/ability/add_026_gi.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the character's leg and the blue glow effect."
+ },
+ "pausepar_pause_en/ability/add_027_gi.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the character's leg and body."
+ },
+ "pausepar_pause_en/ability/add_028_gi.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/add_029_gi.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps with the character's arm and body."
+ },
+ "pausepar_pause_en/ability/add_031_gi.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps the character's leg and the background elements."
+ },
+ "pausepar_pause_en/ability/add_032_gi.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps the character on the right."
+ },
+ "pausepar_pause_en/ability/add_033_gi.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the character's leg and the background elements."
+ },
+ "pausepar_pause_en/ability/add_034_gi.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the character's legs."
+ },
+ "pausepar_pause_en/ability/add_036_gi.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps with the bicycle and the background elements."
+ },
+ "pausepar_pause_en/ability/add_037_gi.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the character's leg."
+ },
+ "pausepar_pause_en/ability/add_038_gi.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the character's leg."
+ },
+ "pausepar_pause_en/ability/add_041_gi.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The text 'TECNICA' overlaps the character's leg."
+ },
+ "pausepar_pause_en/ability/add_042_gi.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps with the character's body."
+ },
+ "pausepar_pause_en/ability/add_043_gi.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps the blue cart and the character's leg."
+ },
+ "pausepar_pause_en/ability/add_044_gi.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the character's legs."
+ },
+ "pausepar_pause_en/ability/add_045_gi.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the blue graphical elements and the character's leg."
+ },
+ "pausepar_pause_en/ability/h_ga_001.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The text 'TECNICA' overlaps with the character's clothing."
+ },
+ "pausepar_pause_en/ability/h_ga_002.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The text 'TECNICA' overlaps with the character's clothing and body."
+ },
+ "pausepar_pause_en/ability/h_ga_003.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps with the character's clothing and the background elements."
+ },
+ "pausepar_pause_en/ability/h_ga_004.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The text 'TECNICA' overlaps with the character's clothing and body."
+ },
+ "pausepar_pause_en/ability/h_ga_005.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps with the character's clothing and the background elements."
+ },
+ "pausepar_pause_en/ability/h_ga_006.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The text 'TECNICA' overlaps with the character's clothing and body."
+ },
+ "pausepar_pause_en/ability/h_hi_001.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The text 'ALMA' overlaps with the character's arm."
+ },
+ "pausepar_pause_en/ability/h_ma_002.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the woman's hand and arm."
+ },
+ "pausepar_pause_en/ability/h_ma_003.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the woman's hand and arm."
+ },
+ "pausepar_pause_en/ability/h_ma_004.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the woman's hand and arm."
+ },
+ "pausepar_pause_en/ability/h_sa_001.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The word 'ALMA' overlaps with the woman's shoulder and the background."
+ },
+ "pausepar_pause_en/ability/h_sa_002.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The text 'ALMA' overlaps with the character's arm."
+ },
+ "pausepar_pause_en/ability/h_sa_003.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps with the original image content."
+ },
+ "pausepar_pause_en/ability/h_sa_004.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The text 'ALMA' overlaps with the character's arm."
+ },
+ "pausepar_pause_en/ability/h_sa_005.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The word 'ALMA' overlaps with the character's clothing."
+ },
+ "pausepar_pause_en/ability/h_sa_006.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps with the original image content."
+ },
+ "pausepar_pause_en/ability/h_ta_001.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps with the character's clothing and the background elements."
+ },
+ "pausepar_pause_en/ability/h_ta_002.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the character's body."
+ },
+ "pausepar_pause_en/ability/h_ta_003.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps with the character's clothing and the background elements."
+ },
+ "pausepar_pause_en/ability/h_ta_004.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps with the character's clothing and the background elements."
+ },
+ "pausepar_pause_en/ability/h_ta_005.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the character's body."
+ },
+ "pausepar_pause_en/ability/h_ta_006.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps with the character's clothing and the background elements."
+ },
+ "pausepar_pause_en/ability/h_ta_007.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps with the character's clothing and the background elements."
+ },
+ "pausepar_pause_en/ability/h_ta_008.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the character's body."
+ },
+ "pausepar_pause_en/ability/h_ta_009.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps with the character's clothing and the background elements."
+ },
+ "pausepar_pause_en/ability/k_ba_001.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the character's leg."
+ },
+ "pausepar_pause_en/ability/k_ba_002.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the character's leg."
+ },
+ "pausepar_pause_en/ability/k_ba_003.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps with the character's foot and the background elements."
+ },
+ "pausepar_pause_en/ability/k_ba_004.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/k_ba_005.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/k_ba_006.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/k_ba_007.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/k_ba_008.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/k_ga_001.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/k_ga_002.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/k_ga_003.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the character's arm and body."
+ },
+ "pausepar_pause_en/ability/k_ga_004.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/k_ga_005.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps with the character's leg and the blue line."
+ },
+ "pausepar_pause_en/ability/k_ga_006.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the legs of the characters."
+ },
+ "pausepar_pause_en/ability/k_ga_007.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/k_ga_008.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the character's leg."
+ },
+ "pausepar_pause_en/ability/k_ga_009.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The text 'TECNICA' overlaps with the character's leg."
+ },
+ "pausepar_pause_en/ability/k_ga_010.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/k_ma_001.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps the character's leg."
+ },
+ "pausepar_pause_en/ability/k_ma_002.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the character's leg and the glowing effect."
+ },
+ "pausepar_pause_en/ability/k_ma_003.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps with the character's leg."
+ },
+ "pausepar_pause_en/ability/k_ma_004.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the character's leg."
+ },
+ "pausepar_pause_en/ability/k_ma_005.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The text 'TECNICA' overlaps with the character's leg and the background elements."
+ },
+ "pausepar_pause_en/ability/k_ma_006.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps with the character's leg and the background elements."
+ },
+ "pausepar_pause_en/ability/k_ma_010.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps with the woman's hand and arm."
+ },
+ "pausepar_pause_en/ability/k_ma_011.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the person's hand and arm."
+ },
+ "pausepar_pause_en/ability/k_ma_012.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps with the person's hand and arm."
+ },
+ "pausepar_pause_en/ability/k_sa_001.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The word 'ALMA' overlaps the character's body."
+ },
+ "pausepar_pause_en/ability/k_sa_002.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps the character's arm and body."
+ },
+ "pausepar_pause_en/ability/k_sa_003.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps the character's arm and the background art."
+ },
+ "pausepar_pause_en/ability/k_sa_004.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps the character's arm and the background art."
+ },
+ "pausepar_pause_en/ability/k_sa_005.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps the character's arm and the background art."
+ },
+ "pausepar_pause_en/ability/k_sa_006.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps the character's arm and the background art."
+ },
+ "pausepar_pause_en/ability/k_sa_007.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/k_sa_008.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps the character's arm and the background art."
+ },
+ "pausepar_pause_en/ability/k_sa_009.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps the character's leg."
+ },
+ "pausepar_pause_en/ability/k_sa_010.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps the character's leg."
+ },
+ "pausepar_pause_en/ability/k_ta_001.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/k_ta_002.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the image of the character."
+ },
+ "pausepar_pause_en/ability/k_ta_003.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps with the character's leg and the background effects."
+ },
+ "pausepar_pause_en/ability/k_ta_004.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/k_ta_005.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps with the image of the characters."
+ },
+ "pausepar_pause_en/ability/k_ta_006.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the image of the characters."
+ },
+ "pausepar_pause_en/ability/k_ta_007.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps with the character's leg."
+ },
+ "pausepar_pause_en/ability/k_ta_008.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the character's leg."
+ },
+ "pausepar_pause_en/ability/k_ta_009.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/k_ta_010.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps with the character's leg."
+ },
+ "pausepar_pause_en/ability/k_ta_011.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps with the character's arm and the background elements."
+ },
+ "pausepar_pause_en/ability/n_ba_001.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the background elements and the figure on the right."
+ },
+ "pausepar_pause_en/ability/n_ba_002.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps with the character's leg and the background elements."
+ },
+ "pausepar_pause_en/ability/n_ba_003.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps with the character's legs."
+ },
+ "pausepar_pause_en/ability/n_ba_004.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps with the character's leg and the background elements."
+ },
+ "pausepar_pause_en/ability/n_ba_005.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps with the character's leg."
+ },
+ "pausepar_pause_en/ability/n_ba_006.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps with the blue line and the background elements."
+ },
+ "pausepar_pause_en/ability/n_ba_007.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The text 'TECNICA' overlaps with the character's leg."
+ },
+ "pausepar_pause_en/ability/n_ba_008.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps with the blue graphical elements and the character's leg."
+ },
+ "pausepar_pause_en/ability/n_ga_001.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps with the character's leg and the background elements."
+ },
+ "pausepar_pause_en/ability/n_ga_002.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps the character's body."
+ },
+ "pausepar_pause_en/ability/n_ga_003.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the character's legs."
+ },
+ "pausepar_pause_en/ability/n_ga_004.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the background elements and the figure on the right."
+ },
+ "pausepar_pause_en/ability/n_ga_005.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps the character's leg."
+ },
+ "pausepar_pause_en/ability/n_ga_006.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the character's leg."
+ },
+ "pausepar_pause_en/ability/n_ga_007.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps with the character's leg and the background elements."
+ },
+ "pausepar_pause_en/ability/n_ga_008.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the character's legs."
+ },
+ "pausepar_pause_en/ability/n_ga_009.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/n_ga_010.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the character's legs."
+ },
+ "pausepar_pause_en/ability/n_ga_011.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps the character's chest and shoulder."
+ },
+ "pausepar_pause_en/ability/n_ma_001.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/n_ma_003.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the character's legs."
+ },
+ "pausepar_pause_en/ability/n_ma_004.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/n_ma_005.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/n_ma_008.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps with the woman's hand and arm."
+ },
+ "pausepar_pause_en/ability/n_ma_009.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the person's hand and arm."
+ },
+ "pausepar_pause_en/ability/n_ma_010.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps with the person's hand and arm."
+ },
+ "pausepar_pause_en/ability/n_sa_001.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The word 'ALMA' overlaps the character's leg."
+ },
+ "pausepar_pause_en/ability/n_sa_002.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps the character's body and the original 'SOUL' text."
+ },
+ "pausepar_pause_en/ability/n_sa_003.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps the character's leg."
+ },
+ "pausepar_pause_en/ability/n_sa_004.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The word 'ALMA' overlaps the character's shoulder and the background design."
+ },
+ "pausepar_pause_en/ability/n_sa_005.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The word 'ALMA' overlaps the character's arm and body."
+ },
+ "pausepar_pause_en/ability/n_sa_006.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The word 'ALMA' overlaps the character's arm and clothing."
+ },
+ "pausepar_pause_en/ability/n_sa_007.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The word 'ALMA' overlaps the character's arm and clothing."
+ },
+ "pausepar_pause_en/ability/n_sa_008.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The word 'ALMA' overlaps the character's arm and clothing."
+ },
+ "pausepar_pause_en/ability/n_sa_009.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps the character's body and the original English text 'SOUL'."
+ },
+ "pausepar_pause_en/ability/n_sa_010.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The word 'ALMA' overlaps the character's arm and clothing."
+ },
+ "pausepar_pause_en/ability/n_sa_011.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps the character's leg."
+ },
+ "pausepar_pause_en/ability/n_sa_012.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps the character's leg."
+ },
+ "pausepar_pause_en/ability/n_ta_001.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/n_ta_002.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the image of the characters."
+ },
+ "pausepar_pause_en/ability/n_ta_003.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the character's leg."
+ },
+ "pausepar_pause_en/ability/n_ta_004.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the character's leg."
+ },
+ "pausepar_pause_en/ability/n_ta_005.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the character's leg."
+ },
+ "pausepar_pause_en/ability/n_ta_006.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the image of the characters."
+ },
+ "pausepar_pause_en/ability/n_ta_007.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the character's leg."
+ },
+ "pausepar_pause_en/ability/n_ta_008.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/n_ta_009.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/n_ta_010.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the character's foot."
+ },
+ "pausepar_pause_en/ability/n_ta_011.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps with the character's leg and the background elements."
+ },
+ "pausepar_pause_en/ability/s_ba_001.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps with the background and the character's foot."
+ },
+ "pausepar_pause_en/ability/s_ba_002.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps with the blue glowing effect and the character's foot."
+ },
+ "pausepar_pause_en/ability/s_ba_003.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the character's leg and the background effects."
+ },
+ "pausepar_pause_en/ability/s_ba_004.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/s_ba_005.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps with the character's leg and the background elements."
+ },
+ "pausepar_pause_en/ability/s_ba_006.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the character's leg."
+ },
+ "pausepar_pause_en/ability/s_ba_007.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/s_ba_008.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The text 'TECNICA' overlaps with the character's leg."
+ },
+ "pausepar_pause_en/ability/s_ga_001.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/s_ga_002.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/s_ga_003.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps the character's body."
+ },
+ "pausepar_pause_en/ability/s_ga_004.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the character's arm and body."
+ },
+ "pausepar_pause_en/ability/s_ga_005.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/s_ga_006.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps with the blue background and the character's leg."
+ },
+ "pausepar_pause_en/ability/s_ga_007.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/s_ga_008.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps with the blue background and the character's foot."
+ },
+ "pausepar_pause_en/ability/s_ga_009.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps the character's clothing and the background."
+ },
+ "pausepar_pause_en/ability/s_ga_010.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/s_ga_011.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TÉCNICA' overlaps with the character's hand and the background image."
+ },
+ "pausepar_pause_en/ability/s_ga_012.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps the character's body."
+ },
+ "pausepar_pause_en/ability/s_ma_001.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps the character's arm and body."
+ },
+ "pausepar_pause_en/ability/s_ma_002.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps with the character's leg and the blue energy effect."
+ },
+ "pausepar_pause_en/ability/s_ma_004.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps the character's shoulder and the original English text 'SOUL'."
+ },
+ "pausepar_pause_en/ability/s_ma_005.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'TECNICA' overlaps the character's leg."
+ },
+ "pausepar_pause_en/ability/s_ma_008.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps with the woman's hand and arm."
+ },
+ "pausepar_pause_en/ability/s_ma_009.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the person's hand and arm."
+ },
+ "pausepar_pause_en/ability/s_ma_010.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps with the person's hand and arm."
+ },
+ "pausepar_pause_en/ability/s_sa_001.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps the character's arm and body."
+ },
+ "pausepar_pause_en/ability/s_sa_002.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps with the character's hand and the background art."
+ },
+ "pausepar_pause_en/ability/s_sa_003.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps with the character's hand and the background art."
+ },
+ "pausepar_pause_en/ability/s_sa_004.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/s_sa_005.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/s_sa_006.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps with the character's hand and the background art."
+ },
+ "pausepar_pause_en/ability/s_sa_007.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'ALMA' overlaps the character's arm and body."
+ },
+ "pausepar_pause_en/ability/s_sa_008.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/s_sa_009.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/ability/s_ta_001.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps with the character's feet and the floor line."
+ },
+ "pausepar_pause_en/ability/s_ta_002.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the character's leg."
+ },
+ "pausepar_pause_en/ability/s_ta_003.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the character's leg."
+ },
+ "pausepar_pause_en/ability/s_ta_004.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps with the character's feet and the floor line."
+ },
+ "pausepar_pause_en/ability/s_ta_005.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the character's leg."
+ },
+ "pausepar_pause_en/ability/s_ta_006.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the character's leg."
+ },
+ "pausepar_pause_en/ability/s_ta_007.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps with the character's feet and the floor line."
+ },
+ "pausepar_pause_en/ability/s_ta_008.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the character's leg and the background."
+ },
+ "pausepar_pause_en/ability/s_ta_009.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the character's leg."
+ },
+ "pausepar_pause_en/ability/s_ta_010.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The text 'CUERPO' overlaps with the character's body."
+ },
+ "pausepar_pause_en/ability/s_ta_011.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the image of the character."
+ },
+ "pausepar_pause_en/ability/s_ta_012.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'CUERPO' overlaps the legs of the character on the right."
+ },
+ "pausepar_pause_en/item/2d_yk_dartscard12.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'DARTSLIVE MEMBERS CARD' is still visible at the top."
+ },
+ "pausepar_pause_en/item/treasure_map3_unite_l.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/item/treasure_map4_unite_l.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The word 'Tsukimino' is in English, but it is a proper name, so it should stay. However, the word 'roof' is cut off and replaced by 'tech' which is not a full word."
+ },
+ "pausepar_pause_en/picture/2d_jm_mgs_airhockey.dds": {
+  "ok": true,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Modo de mirada' overlaps with the blue line and the 'L2 Button' label area.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_jm_mgs_airhockey_bb.dds": {
+  "ok": true,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Modo de mirada' overlaps the blue box boundary.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_jm_mgs_batting_m.dds": {
+  "ok": true,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Mover el cursor de bateo' overlaps with the orbs and the orbs' labels in the center of the image.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_jm_mgs_batting_m_bb.dds": {
+  "ok": true,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Bateo' and 'Bateo/Confirmar' overlaps with the orbs and lines in the center of the control diagram.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_jm_mgs_fishing_river.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Move Cursor' is still visible in the bottom-left box.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_jm_mgs_fishing_river_bb.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Move Cursor' is still visible in the bottom left box.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_jm_mgs_h_bance_battle.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Controls' is still visible above the Spanish 'Controles'.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_jm_mgs_h_handshake.dds": {
+  "ok": true,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Apretar manos' overlaps with the 'C Button' icon and text.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_jm_mgs_h_lesson.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Controls' is still visible above the Spanish 'Controles'.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_jm_mgs_h_live_battle.dds": {
+  "ok": true,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Botón L1' overlaps with the line pointing to the L1 button.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_jm_mgs_h_live_event.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Controls' is still visible above the Spanish 'Controles'.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_jm_mgs_h_quiz.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/2d_jm_mgs_h_sisou.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/2d_jm_mgs_if8_h.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Move/Jump/Crouch' is still visible in the bottom left box.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_jm_mgs_if8_k.dds": {
+  "ok": true,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Mov/er/Salt/ar/Ataq/ue' overlaps with the blue or white lines and the orbs in the center graphic.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_jm_mgs_kouchin.dds": {
+  "ok": true,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Botón OPTIONS' overlaps with the line pointing to the OPTIONS button.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_jm_mgs_kouchin_bb.dds": {
+  "ok": true,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Salir del minijuego' overlaps the blue button box.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_jm_mgs_pachi.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The original Japanese text is still visible in the left panel."
+ },
+ "pausepar_pause_en/picture/2d_jm_mgs_purikura.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Preselect Frame' and 'Exit Minigame' is still visible in the bottom left box.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_jm_mgs_purikura_bb.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Preselect Frame' and 'Exit Minigame' is still visible in the bottom left box.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_jm_mgs_ramen.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Remove Noodles' is still visible in the blue boxes on the right.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_jm_mgs_ramen_bb.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Controls' is still visible above the Spanish translation 'Controles'.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_jm_mgs_snowball.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Controls' is still visible in the top center of the image.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_jm_mgs_snowmobile.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Controls' is still visible above the Spanish 'Controles'.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_jm_mgs_suro.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The original Japanese text is still visible behind the Spanish translation."
+ },
+ "pausepar_pause_en/picture/2d_jm_mgs_taiko.dds": {
+  "ok": true,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Golpear aro (der.)' overlaps with the blue line and the 'R1 Button' label in the top right section.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_jm_mgs_taiko_bb.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/2d_jm_mgs_taxi_race.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The word 'Controls' at the top and 'OPTIONS' at the bottom right remain in English.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_jm_mgs_taxi_race_t.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The word 'Controls' at the top and 'OPTIONS' at the bottom are still in English.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_jm_mgs_taxi_shinai.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Controls' is still visible in the center header.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_jm_mgs_taxi_shinai_t.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Controls' is still visible in the center header.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_jm_mgs_taxi_yatai.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/2d_jm_mgs_vf.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/2d_jm_mgs_yuki.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Controls' is still visible at the top center of the image.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_a1.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps the red border of the original English text box."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_a2.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_a3.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English word 'to' is still visible outside the blue box."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_a4.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps with the English text."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_a5.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps with the original English text."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_a9.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'going all out!' is still visible behind the Spanish translation."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_a_kyaba.dds": {
+  "ok": false,
+  "problem": "garbled",
+  "detalle": "The Spanish translation at the bottom is garbled and unreadable."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_h1.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'pose' overlaps with the English text 'pose' in the original image."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_h3.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text is still visible."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_h4.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps the English text."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_h5.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps with the original English text."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_h6.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_h7.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'I wish it would rain in Okinawa' is still visible behind the Spanish translation."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_h8.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The original English text is still visible above the Spanish translation."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_h9.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_k1.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps with the English text."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_k2.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps with the original English text."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_k3.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The red background of the Spanish text overlaps the white letters."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_k4.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps the English text."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_k5.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps with the English text."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_k6.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps with the original English text."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_k7.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English word 'I' is still visible next to the Spanish translation."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_k8.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_k9.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Soy' overlaps the red background box of the original English text."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_k_k02.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_k_kyaba01.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'extra duro' overlaps with the blue border of the box."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_k_kyaba02.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Commemorative print' is still visible behind the Spanish translation."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_kh00.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Two people in love' is still visible behind the Spanish translation."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_kh01.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text is still visible in the translated version."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_kh02.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Bienvenidos a' overlaps with the blue box and the 'Welcome to' text."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_kh03.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text is still visible in the top left corner."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_kh04.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps with the English text."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_kh05.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps with the original English text."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_kh06.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps with the English text."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_kh07.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text is still visible above the Spanish translation."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_kh9.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps the red heart icon."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_s_kyaba.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps the red background box."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_sa1.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The original English text is still visible behind the Spanish translation."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_sa2.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps with the original English text."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_sa3.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'I'm back!!' is still visible."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_sa4.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps the original English text."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_sa5.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps with the English text."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_sa6.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text is still visible above the Spanish translation."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_sa7.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps with the English text."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_sa8.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text is still visible."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_sa9.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps the red outline of the original text."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_si1.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps the English text."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_si2.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps with the original English text."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_si3.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps with the English text."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_si4.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps the original English text."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_si5.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps with the English text."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_si6.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps with the English text."
+ },
+ "pausepar_pause_en/picture/2d_jm_puri_si7.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps with the English text."
+ },
+ "pausepar_pause_en/picture/2d_jm_taxi_t_hyouka.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Good' and 'Bad' are still visible behind the Spanish translation."
+ },
+ "pausepar_pause_en/picture/2d_jm_taxi_t_minus.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Sudden Stop' is still visible behind the Spanish translation."
+ },
+ "pausepar_pause_en/picture/2d_mn_mgs_baccarat.dds": {
+  "ok": true,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Controles de resultados' overlaps with the 'L1 Button' label in the top left section.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_mn_mgs_baccarat_bb.dds": {
+  "ok": true,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Controles de resultados' overlaps with the 'L1 Button' label and the orbs in the center.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_mn_mgs_blackjack.dds": {
+  "ok": true,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Mover cámara' overlaps with the 'Botón R1' label in the top right box.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_mn_mgs_blackjack_bb.dds": {
+  "ok": true,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Mover cámara' overlaps with the 'Botón R1' label in the top right box.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_mn_mgs_poker.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Select Action' and 'Exit Minigame' is still visible in the bottom left box.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_mn_mgs_poker_bb.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Select Action' is still visible in the bottom left box.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_mn_mgs_poker_p.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Select Action' and 'Exit Minigame' is still visible in the bottom left box.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_mn_mgs_poker_p_bb.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Select Action' is still visible in the bottom left box.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_mn_mgs_roulette.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Move cursor' is still visible in the bottom left box."
+ },
+ "pausepar_pause_en/picture/2d_mn_mgs_roulette02.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Change View' and 'Exit Minigame' are still visible in the left panel despite the Spanish translation."
+ },
+ "pausepar_pause_en/picture/2d_mn_mgs_roulette02_bb.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Controls' is still visible above the controller in the center."
+ },
+ "pausepar_pause_en/picture/2d_mn_mgs_roulette03.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Controls' is still visible above the controller."
+ },
+ "pausepar_pause_en/picture/2d_mn_mgs_roulette03_bb.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Controls' is still visible above the controller."
+ },
+ "pausepar_pause_en/picture/2d_mn_mgs_roulette_bb.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Move cursor' is still visible in the bottom left box."
+ },
+ "pausepar_pause_en/picture/2d_mn_mgs_shougi.dds": {
+  "ok": true,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Mover puntero' overlaps with the 'Move Pointer' label and the orbs in the center.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_mn_mgs_shougi_bb.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Controls' is still visible at the top center.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_map_yukiyama.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Snowy Mountain' is still visible above the Spanish translation."
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_batting.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Move cursor' and 'Exit Minigame' is still visible on the left side.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_batting_bb.dds": {
+  "ok": true,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Invertir controles del stick izquierdo' overlaps the blue line and the orbs of the controller icon.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_billiards01.dds": {
+  "ok": true,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Mostrar/Ocultar Info' overlaps with the line pointing to the L1 button.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_billiards01_bb.dds": {
+  "ok": true,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Cambiar vista' overlaps with the line pointing to the D button.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_billiards02.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Controls' remains in the center header.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_billiards02_bb.dds": {
+  "ok": true,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Mostrar número de bola' overlaps with the blue line and the 'H1 Button' label.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_bowling.dds": {
+  "ok": true,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Confirmar dirección y fuerza' overlaps with the 'O Button' label.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_bowling_bb.dds": {
+  "ok": true,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Confirmar dirección y fuerza' overlaps with the blue highlight box.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_bowlingb.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Controls' is still visible above the Spanish 'Controles'.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_bowlingb_bb.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Controls' is still visible in the top center box.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_chase.dds": {
+  "ok": true,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Paso lateral derecho' overlaps with the line pointing to the button.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_chase2.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Controls' is still visible in the center top box.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_chase3.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Controls' is still visible at the top center.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_chinchiro.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Move Cursor' is still visible in the bottom left box.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_chinchiro_bb.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Move Cursor' is still visible in the bottom left box.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_chouhan.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Move Cursor' is still visible in the bottom left box.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_chouhan_bb.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Move Cursor' is still visible in the bottom left box.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_darts.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Change Darts', 'Change Position', and 'Exit Minigame' is still visible behind the Spanish translation.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_darts02.dds": {
+  "ok": true,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Cambiar posición' overlaps with the blue line and the 'Left Stick' label area.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_darts02_bb.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Change Darts', 'Change Position', and 'Exit Minigame' is still visible behind the Spanish translation.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_darts_bb.dds": {
+  "ok": true,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Cambiar posición' overlaps with the 'Left Stick' label and the line pointing to it.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_fishing.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Release' and 'Move Cursor' are still visible behind the Spanish translations.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_fishing_bb.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Release' and 'Pull Rod/Confirm' are still visible in the blue boxes next to the Spanish translations.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_golf.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Controls' is still visible in the top center box.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_golf_bb.dds": {
+  "ok": true,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Cambiar dirección' overlaps with the orignal English text 'Change Direction'.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_hanafuda.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Move Cursor' and 'Move Camera' is still visible behind the Spanish translation.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_hanafuda_bb.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Move Cursor' and 'Move Camera' is still visible behind the Spanish translation.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_kabu.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Move Cursor' and 'Move Camera' is still visible behind the Spanish translation.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_kabu_bb.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Move Cursor' and 'Move Camera' is still visible behind the Spanish translation.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_karaoke.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Wave Hands' is still visible in the bottom left box.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_karaoke_bb.dds": {
+  "ok": true,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Aceptar/Confirmar' overlaps with the 'D' button icon.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_kyaba.dds": {
+  "ok": true,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Cambiar/Saltar tema' overlaps with the 'A Button' label.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_kyaba_bb.dds": {
+  "ok": true,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Cambiar/Shift' overlaps with the 'A Button' label.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_mahjong.dds": {
+  "ok": true,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Mover cursor' overlaps with the blue highlight box and the English text 'Move Cursor' is still visible.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_mahjong_bb.dds": {
+  "ok": true,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Mover cursor' overlaps with the 'Move Cursor' text in the original image.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_shooting.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Move Automatically' and 'Exit Minigame' is still visible below the Spanish translation.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_snowmobile.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Controls' is still visible above the Spanish 'Controles'.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_ufo.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Move Camera' and 'Exit Minigame' is still visible in the blue box on the left.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_mgs_ufo_bb.dds": {
+  "ok": true,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Mover cámara' overlaps with the 'Left Stick' label and the line connecting it to the controller.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/2d_yk_sstory_e09_memo01a.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/2d_yk_sstory_e09_memo01q.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/2d_yk_sstory_e09_memo02a.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/2d_yk_sstory_e09_memo02q.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/puri_akiyama.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/puri_button.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The word 'Cerrar' overlaps with the 'Next Page' translation."
+ },
+ "pausepar_pause_en/picture/puri_button_bb.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The word 'Cerrar' overlaps with the 'Close' icon and the 'Next Page' text."
+ },
+ "pausepar_pause_en/picture/puri_haruka.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/puri_kiryu.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/puri_shinada.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/puri_text.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_01_0.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'reduzca tu puntaje exactamente a cero' overlaps with the 'Note' box and the 'BUST' graphic."
+ },
+ "pausepar_pause_en/picture/rule_baccarat0.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_baccarat1.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_baccarat2.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_baccarat3.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_baccarat4.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_baccarat5.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_baccarat6.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_baccarat_s_0.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_baccarat_s_1.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_baccarat_s_2.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_baccarat_s_3.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_baccarat_s_4.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_baccarat_s_5.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_baccarat_s_6.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_billiards00.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_billiards01.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The word 'If' remains in English."
+ },
+ "pausepar_pause_en/picture/rule_billiards02.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_billiards03.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_billiards04.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_billiards05.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The sentence 'When you are ready to pocket the 8 ball, you must specify' remains in English."
+ },
+ "pausepar_pause_en/picture/rule_billiards06.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_billiards07.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_billiards08.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_billiards09.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_billiards10.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_billiards11.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_blackjack0.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_blackjack1.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text for 'Hit' and 'Stand' overlaps with each other and the 'Split' text."
+ },
+ "pausepar_pause_en/picture/rule_blackjack2.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_blackjack3.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_button.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_button_bb.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Previous Page' and 'Next Page' is still visible in the original image, but the prompt asks to evaluate the translated version. In the translated version, the text is correctly replaced, but the layout remains identical."
+ },
+ "pausepar_pause_en/picture/rule_chinchiro0.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_chinchiro1.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The word 'If' remains in English in the second paragraph."
+ },
+ "pausepar_pause_en/picture/rule_chinchiro2.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps with the dice icons in the 'Tríos' section."
+ },
+ "pausepar_pause_en/picture/rule_chinchiro3.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_chinchiro4.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_chinchiro5.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps with the English text in the first few lines."
+ },
+ "pausepar_pause_en/picture/rule_chinchiro6.dds": {
+  "ok": false,
+  "problem": "missing_text",
+  "detalle": "The Spanish translation is missing the phrase 'a triple payout' (un pago triple) and the specific term 'One-roll Triple' (Triple de una tirada) is not fully integrated into the sentence structure as in the original."
+ },
+ "pausepar_pause_en/picture/rule_countup_0.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Área doble(x2)' and 'Área triple(x3)' overlaps with the icons/graphics in their respective boxes."
+ },
+ "pausepar_pause_en/picture/rule_cricket_0.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Cierra un número golpeándolo tres veces' overlaps the 'CLOSE' label and the graphic on the right side of the instruction box."
+ },
+ "pausepar_pause_en/picture/rule_darts_01_0.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_darts_01_1.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'You win at zero points.' is still visible above the Spanish translation."
+ },
+ "pausepar_pause_en/picture/rule_darts_01_2.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The word 'BUST' is still visible in the center of the dartboard."
+ },
+ "pausepar_pause_en/picture/rule_darts_01_3.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_darts_countup_0.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_darts_countup_1.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_darts_cricket_00.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_darts_cricket_01.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_darts_cricket_02.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'acierto' overlaps with the '1' and '2' hits indicators in the scoreboard."
+ },
+ "pausepar_pause_en/picture/rule_darts_cricket_03.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Cerrado' overlaps the white box and the 'DOUBLE 10' text."
+ },
+ "pausepar_pause_en/picture/rule_darts_cricket_04.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The text 'six randomly selected numbers' remains in English."
+ },
+ "pausepar_pause_en/picture/rule_darts_cricket_05.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_darts_cricket_06.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'acierto' overlaps with the numbers in the scoreboard area."
+ },
+ "pausepar_pause_en/picture/rule_darts_cricket_07.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'SENCILLO' overlaps with the 'SINGLE' text in the original UI."
+ },
+ "pausepar_pause_en/picture/rule_darts_cricket_08.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_darts_cricket_09.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_darts_cricket_10.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'acierto' and 'ACIERTOS' overlaps with the lines and numbers in the hit counter box."
+ },
+ "pausepar_pause_en/picture/rule_darts_cricket_11.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Cerrado' overlaps with the 'SINGLE 8' text in the white box."
+ },
+ "pausepar_pause_en/picture/rule_h_dance_battle0.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_h_dance_battle1.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The title 'Dance Battle' at the top remains in English."
+ },
+ "pausepar_pause_en/picture/rule_h_dance_battle2.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_h_dance_battle3.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_h_dance_battle4.dds": {
+  "ok": false,
+  "problem": "text_outside_box",
+  "detalle": "The Spanish text 'B. de baile' at the top is outside the main content area and doesn't match the original 'Dance Battle' header style."
+ },
+ "pausepar_pause_en/picture/rule_h_dance_battle5.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps with the image on the right."
+ },
+ "pausepar_pause_en/picture/rule_h_dance_battle6.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_h_live_battle0.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_h_live_battle1.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The word 'rank' remains in English in the UI element."
+ },
+ "pausepar_pause_en/picture/rule_h_live_battle2.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Idol' overlaps with the 'IDOL HEAT' UI element."
+ },
+ "pausepar_pause_en/picture/rule_h_live_battle3.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Great Ratings', 'Max COMBO', and 'Score' remains in the UI box."
+ },
+ "pausepar_pause_en/picture/rule_h_live_battle4.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_hanafuda0.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_hanafuda1.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_hanafuda2.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_hanafudayaku0.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_hanafudayaku1.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_hanafudayaku2.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_hanafudayaku3.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_hanafudayaku4.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_hanafudayaku5.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_hanafudayaku6.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_hanafudayaku7.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_kabu0.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_kabu1.dds": {
+  "ok": false,
+  "problem": "garbled",
+  "detalle": "The Spanish translation contains several grammatical errors and awkward phrasing (e.g., 'compulsivamente' instead of 'para apostar')."
+ },
+ "pausepar_pause_en/picture/rule_kabu2.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_kabu3.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_kabu4.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_kabu5.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'cero' overlaps with the word 'Dos'."
+ },
+ "pausepar_pause_en/picture/rule_kabu6.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text for 'Cuatro-uno' and 'Nueve-uno' overlaps with the 'Storm' section."
+ },
+ "pausepar_pause_en/picture/rule_kabu7.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_kabu8.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_kyaba0.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The last sentence remains in English."
+ },
+ "pausepar_pause_en/picture/rule_kyaba1.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_kyaba2.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps with the UI elements in the menu box."
+ },
+ "pausepar_pause_en/picture/rule_kyaba3.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Cabaret' remains in the header."
+ },
+ "pausepar_pause_en/picture/rule_kyaba4.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_kyaba5.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjrule0.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjrule1.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text '3 3 fichas de dragón' overlaps with the bullet point and the text above it."
+ },
+ "pausepar_pause_en/picture/rule_mjrule10.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjrule11.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjrule12.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjrule13.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjrule14.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Dora order is:' is still visible next to the Spanish translation."
+ },
+ "pausepar_pause_en/picture/rule_mjrule15.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjrule16.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjrule17.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjrule2.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjrule3.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjrule4.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjrule5.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The phrase 'stolen discards are placed here. These tiles are' remains in English."
+ },
+ "pausepar_pause_en/picture/rule_mjrule6.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjrule7.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjrule8.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjrule9.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjyaku00.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjyaku01.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjyaku02.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjyaku03.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjyaku04.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjyaku05.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjyaku06.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjyaku07.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjyaku08.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjyaku09.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjyaku10.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjyaku11.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjyaku12.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjyaku13.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjyaku14.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjyaku15.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjyaku16.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjyaku17.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjyaku18.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjyaku19.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjyaku20.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text for 'Earthly Hand' overlaps with the horizontal line below it."
+ },
+ "pausepar_pause_en/picture/rule_mjyaku21.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjyaku22.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_mjyaku23.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps with the bullet points and icons on the left side."
+ },
+ "pausepar_pause_en/picture/rule_poker0.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'si todos los demás' overlaps with the bullet point and the line below it."
+ },
+ "pausepar_pause_en/picture/rule_poker1.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_poker2.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_poker3.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_poker_ohama0.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_poker_ohama1.dds": {
+  "ok": false,
+  "problem": "garbled",
+  "detalle": "The Spanish translation for 'The turn has been checked around' is grammatically incorrect and nonsensical ('La ronda de acciones ha pasado por todos')."
+ },
+ "pausepar_pause_en/picture/rule_poker_ohama2.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_poker_ohama3.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_poker_pai0.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_poker_pai1.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_poker_pai2.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_poker_pai3.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_poker_yaku0.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_poker_yaku1.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_poker_yaku2.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_poker_yaku3.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_roulette_hai0.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_roulette_kou0.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_roulette_kou1.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_roulette_kou2.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_roulette_setu0.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text '1-18 19-36' overlaps with the green box and the numbers inside it."
+ },
+ "pausepar_pause_en/picture/rule_shougi0.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_shougi1.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_shougi2.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_shougi3.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The phrase 'on an empty square' remains in English."
+ },
+ "pausepar_pause_en/picture/rule_shougi4.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/rule_taikonotatsujin.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_ac_321_nigero.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_ac_321_oe.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_ac_a1_100.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_ac_a1_110.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_ac_a1_l_oribie.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The word 'HEAD' is still visible in the Spanish version."
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_ac_a1_l_saijo.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_ac_a1_s_dasyutu.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'GET' is still visible."
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_ac_a1_s_yahata.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_ac_l_aisakakougyou.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The word 'HEAD' is missing in the translation."
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_ac_l_babanoaribai.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'VERIFICA' and 'BABASALIBI' are overlapping each other."
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_ac_l_battinghe.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_ac_l_chris.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_ac_l_dainachea.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_ac_l_daisankouen.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text is still visible in the original image."
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_ac_l_kamurohiruzu.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_ac_l_maouinc.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_ac_l_nagasutaxihe.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_ac_l_nagoyakou.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_ac_l_oosakageinou.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'HEAD FOR' is still visible above the Spanish translation."
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_ac_l_oribiehe.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'HEAD FOR' is still visible above the Spanish translation."
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_ac_l_sainokawara.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'HEAD FOR' is still visible above the Spanish translation."
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_ac_l_sinoosaka.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_ac_l_skyfainansuhe.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'HEAD FOR' is still visible."
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_ac_l_soutentv.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_ac_l_tegatawo.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_ac_l_tenjinkoutsu.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'HEAD FOR' is still visible in the original image, and the Spanish translation is provided as a separate image."
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_ac_oe_saigou.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_ac_s_babawosukue.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_ac_s_jouhouwo.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_ac_s_syuzaihe.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_ac_s_unoniae.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_ac_s_yahata.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_ac_s_yorumade.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_ac_s_yukaijunbi.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_ayashiiotoko.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_chinpiramachi.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_dasyutsu.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_garawarui.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_hakamada.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_jukeisya.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_kanei.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_katsuya.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_kineicho.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_kitakata.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_kuma.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_kurosawa.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_l_kitakata.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'KITAKATA' is still present in the translated version."
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_l_konoerengou.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_l_kubota.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_l_kuresuto.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_l_kuroha.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_l_majima.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_l_nagoya.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_l_tojokai.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The original English text is still visible."
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_l_yamakasa.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_l_yamashiro.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The word 'VAMPIRE' is still in English instead of being translated to 'VAMPIRO'."
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_majima.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_nazonootoko.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_subkuma.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_syatei.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'KITAKATA' is still present in the translated version."
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_syoukaseyo.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_tachinowarui.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_tsukiminono.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_watase.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_watasegumi.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_yahata.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_yahatabuka.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_yahatasyatei.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_yamanokami.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_yamazantou.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_yukaihan.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_boss_zonbie.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The image provided is the Spanish translation, but the prompt asks to compare it to an original English image which is not present in the provided input. However, since the task is to evaluate the provided image as a translation, and it contains only the Spanish word 'ZOMBIS', there is no leftover English text visible."
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_kyukyoku_a1.dds": {
+  "ok": false,
+  "problem": "unreadable",
+  "detalle": "The Spanish text is extremely blurry and difficult to read."
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_kyukyoku_a10.dds": {
+  "ok": false,
+  "problem": "unreadable",
+  "detalle": "The Spanish text is extremely blurry and difficult to read."
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_kyukyoku_a2.dds": {
+  "ok": false,
+  "problem": "unreadable",
+  "detalle": "The Spanish text is extremely blurry and difficult to read."
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_kyukyoku_a3.dds": {
+  "ok": false,
+  "problem": "unreadable",
+  "detalle": "The Spanish text is extremely blurry and difficult to read."
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_kyukyoku_a4.dds": {
+  "ok": false,
+  "problem": "unreadable",
+  "detalle": "The Spanish text is extremely blurry and difficult to read."
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_kyukyoku_a5.dds": {
+  "ok": false,
+  "problem": "unreadable",
+  "detalle": "The Spanish text is extremely blurry and difficult to read."
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_kyukyoku_a6.dds": {
+  "ok": false,
+  "problem": "unreadable",
+  "detalle": "The Spanish text is extremely blurry and difficult to read."
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_kyukyoku_a7.dds": {
+  "ok": false,
+  "problem": "unreadable",
+  "detalle": "The Spanish text is extremely blurry and difficult to read."
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_kyukyoku_a8.dds": {
+  "ok": false,
+  "problem": "unreadable",
+  "detalle": "The Spanish text is extremely blurry and difficult to read."
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_kyukyoku_a9.dds": {
+  "ok": false,
+  "problem": "unreadable",
+  "detalle": "The Spanish text is heavily distorted and blurry."
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_kyukyoku_b1.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_kyukyoku_b10.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_kyukyoku_b2.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_kyukyoku_b3.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_kyukyoku_b4.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_kyukyoku_b5.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_kyukyoku_b6.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_kyukyoku_b7.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_kyukyoku_b8.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_kyukyoku_b9.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_kyukyoku_c1.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_kyukyoku_c2.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_kyukyoku_c3.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_kyukyoku_c4.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_kyukyoku_c5.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_kyukyoku_d2.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_kyukyoku_d3.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_kyukyoku_d4.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_kyukyoku_d5.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_l_tinpira.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_l_yamakasa.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_ll_dammy.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_s_hosuto.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_s_yamanokami.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_ss_assign.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps with the background elements and is distorted."
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_ss_chinpiramachi.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_ss_gyangu.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps with the black background and is very crowded."
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_ss_narikin.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_ss_tinpira.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_ss_tinpiramachi.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_ss_vyosen.dds": {
+  "ok": false,
+  "problem": "missing_text",
+  "detalle": "The Spanish translation is completely missing from the second image."
+ },
+ "pausepar_pause_en/picture/caption/2d_jm_bc_ss_yopparai.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/chact/2d_jm_chact_daisenpu.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'MY WHIRLWIND ESSENCE' is still visible above the Spanish translation."
+ },
+ "pausepar_pause_en/picture/chact/2d_jm_chact_final_drive.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The original English text 'Final Drive' is still visible above the Spanish translation."
+ },
+ "pausepar_pause_en/picture/chact/2d_jm_chact_funtasista.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The original English text 'KILLER KICK COMBO' is still visible above the Spanish translation."
+ },
+ "pausepar_pause_en/picture/chact/2d_jm_chact_ganmen.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'MY DRAGGING ESSENCE' is still visible above the Spanish translation."
+ },
+ "pausepar_pause_en/picture/chact/2d_jm_chact_kyukyoku.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/chact/2d_jm_chact_meteo_strike.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'METEOR STRIKE' is still visible above the Spanish translation."
+ },
+ "pausepar_pause_en/picture/chact/2d_jm_chact_mouko_noukudaki.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'TIGER ESSENCE OF BRAINING' is still visible above the Spanish translation."
+ },
+ "pausepar_pause_en/picture/chact/2d_jm_chact_mouko_tiretu.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'TIGER ESSENCE OF SHOCKWAVE' is still visible above the Spanish translation."
+ },
+ "pausepar_pause_en/picture/chact/2d_jm_chact_mouko_topa.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'TIGER ESSENCE OF BLITZING' is still visible above the Spanish translation."
+ },
+ "pausepar_pause_en/picture/chact/2d_jm_chact_sourengeki.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'MY BASHING COMBO ESSENCE' is still visible above the Spanish translation."
+ },
+ "pausepar_pause_en/picture/chact/2d_jm_chact_tetsuzan.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'ESSENCE OF DRUNKEN THRUST' is still visible above the Spanish translation."
+ },
+ "pausepar_pause_en/picture/chact/2d_jm_chact_ukenagasi.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'DRAGON KING ESSENCE' is still visible above the Spanish translation."
+ },
+ "pausepar_pause_en/picture/chact/2d_jm_taxi_higi01.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'SECRET MOVE' is still visible in the middle of the Spanish translation."
+ },
+ "pausepar_pause_en/picture/chapter/2d_mn_syotitle_01.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'PART I' is still visible next to the Spanish translation 'PARTE I'."
+ },
+ "pausepar_pause_en/picture/chapter/2d_mn_syotitle_01_01.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'THE WANDERER' is still visible in the middle row.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/chapter/2d_mn_syotitle_01_02.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'CHAPTER 2' and 'UNINVITED GUEST' are still visible next to the Spanish translations.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/chapter/2d_mn_syotitle_01_03.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'CHAPTER 3' and 'THE PLOT UNFOLDS' are still visible next to the Spanish translations.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/chapter/2d_mn_syotitle_01_04.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English word 'CHAPTER' is still visible in the top row.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/chapter/2d_mn_syotitle_02.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'PART 2' remains in the top right section instead of being translated to Spanish.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/chapter/2d_mn_syotitle_02_01.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'ENDS OF THE EARTH' is still visible in the middle row.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/chapter/2d_mn_syotitle_02_02.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'THE WAY OF RESOLVE' is still visible in the middle row.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/chapter/2d_mn_syotitle_02_03.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'CHAPTER 3' is still visible in the top right section.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/chapter/2d_mn_syotitle_02_04.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'RECKLESS ENCOUNTER' is still visible in the middle row.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/chapter/2d_mn_syotitle_0301.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'PART 3 FIRST HALF' is still visible above the Spanish translation.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/chapter/2d_mn_syotitle_0302.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English names 'SHUN AKIYAMA AND HARUKA SAWAMURA' are still visible in the top right section.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/chapter/2d_mn_syotitle_03_01.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'BACKSTAGE DREAMS' is still visible in the middle row.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/chapter/2d_mn_syotitle_03_02.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'HOPE LIVES ON' is still visible in the middle row.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/chapter/2d_mn_syotitle_03_03.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'CHAPTER 3' and 'CLOSING IN' are still visible next to the Spanish translations.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/chapter/2d_mn_syotitle_03_04.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'CHAPTER 4' and 'BEYOND THE DREAM' are still visible in the top and middle rows.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/chapter/2d_mn_syotitle_04.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'PART 4' is still visible next to the Spanish translation 'PARTE 4'.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/chapter/2d_mn_syotitle_04_01.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'ABANDONED GLORY' is still visible in the middle row.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/chapter/2d_mn_syotitle_04_02.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'CHAPTER 2' and 'CONFRONTING THE PAST' are still visible next to the Spanish translations.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/chapter/2d_mn_syotitle_04_03.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'THE PRICE OF TRUTH' is still visible in the middle row.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/chapter/2d_mn_syotitle_04_04.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'FLEETING TRIUMPH' is still visible in the middle row.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/chapter/2d_mn_syotitle_05.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English word 'FINALE' is still visible in the right panel.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/chapter/2d_mn_syotitle_05_01.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'A LEGEND RETURNS' is still visible in the middle row.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/chapter/2d_mn_syotitle_05_02.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'A HIDDEN PAST' is still visible in the middle row.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/chapter/2d_mn_syotitle_05_03.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'THE SURVIVORS' is still visible in the middle row.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/chapter/2d_mn_syotitle_05_04.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'CHAPTER 4' is still visible in the top right section.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/chapter/2d_mn_syotitle_05_05.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'FINAL CHAPTER' and 'DREAMS FULFILLED' are still visible next to the Spanish translations.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/chapter/2d_mn_syotitle_05_kan.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The word 'FINALE' is still visible in the top right section.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/chapter/2d_mn_syotitle_1_kan.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'PART 1' is still visible next to the Spanish translation.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/chapter/2d_mn_syotitle_2_kan.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'PART 2' and 'COMPLETE' are still visible next to the Spanish translations.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/chapter/2d_mn_syotitle_3_kan.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'PART 3' and 'COMPLETE' are still visible next to the Spanish translations.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/chapter/2d_mn_syotitle_4_kan.dds": {
+  "ok": true,
+  "problem": "leftover_english",
+  "detalle": "The English text 'PART 4' is still visible next to the Spanish translation 'PARTE 4'.",
+  "verificado": "claude2"
+ },
+ "pausepar_pause_en/picture/firstload/2d_cf_adv_logo_sega.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/firstload/firstload_fiction.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'Furthermore, this work takes place in 2012.' remains visible below the Spanish translation."
+ },
+ "pausepar_pause_en/picture/firstload/firstload_yakuza_pad.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/head_pic/head_pic_mahjong_b.dds": {
+  "ok": false,
+  "problem": "missing_text",
+  "detalle": "The word 'um' is cut off at the end."
+ },
+ "pausepar_pause_en/picture/head_pic/head_pic_mahjong_c.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/mail/2d_yk_kamiyama_ac.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text '¡Súper ofertas!' overlaps with the yellow arrow and the building graphic."
+ },
+ "pausepar_pause_en/picture/mail/2d_yk_kamiyama_hk.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Súper ofertas' overlaps with the map graphics and the yellow arrow."
+ },
+ "pausepar_pause_en/picture/mail/2d_yk_kamiyama_os.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Súper' overlaps with the yellow arrow and the 'deals!' text."
+ },
+ "pausepar_pause_en/picture/mail/2d_yk_kamiyama_tk.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Súper ofertas!' overlaps with the original English 'Super deals!' and the surrounding graphics."
+ },
+ "pausepar_pause_en/picture/takara/2d_jm_takarac.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_pause_en/picture/takara/2d_jm_takarac_01.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "English text is still visible in the bottom half of the image."
+ },
+ "pausepar_pause_en/picture/takara/2d_jm_takarac_02.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "English text is still visible below the Spanish translation."
+ },
+ "pausepar_pause_en/picture/takara/2d_jm_takarac_03.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "English text is still visible alongside the Spanish translation."
+ },
+ "pausepar_pause_en/picture/takara/2d_jm_takarac_04.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "English text is still visible in the top half of the orignial box."
+ },
+ "pausepar_pause_en/picture/takara/2d_jm_takarac_05.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps with the original English text."
+ },
+ "pausepar_pause_en/picture/takara/2d_jm_takarad.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text is still visible behind the Spanish translation."
+ },
+ "pausepar_pause_en/picture/takara/2d_jm_takarad_02.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text is still visible behind the Spanish translation."
+ },
+ "pausepar_pause_en/picture/takara/2d_jm_takarad_04.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Indica tu respuesta aquí' overlaps with the map's artwork and the red arrow."
+ },
+ "pausepar_taxi_en/taxi/2d_jm_taxi_ayasiiotoko.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'SHADY MEN' is still visible above the Spanish translation."
+ },
+ "pausepar_taxi_en/taxi/2d_jm_taxi_furumichi.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The original English text is still visible behind the Spanish translation."
+ },
+ "pausepar_taxi_en/taxi/2d_jm_taxi_higi01.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'SECRET MOVE' is still visible in the middle of the Spanish translation."
+ },
+ "pausepar_taxi_en/taxi/2d_jm_taxi_kajiwara.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The original English text is still visible behind the Spanish translation."
+ },
+ "pausepar_taxi_en/taxi/2d_jm_taxi_kiyokawa.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_taxi_en/taxi/2d_jm_taxi_muramatsu.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The name remains in English, which is acceptable for a proper name, but the prompt implies a translation task where the text is not actually translated into Spanish."
+ },
+ "pausepar_taxi_en/taxi/2d_jm_taxi_nakamura.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'GENTLE' is still visible behind the Spanish translation."
+ },
+ "pausepar_taxi_en/taxi/2d_jm_taxi_rameiro.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text is still visible behind the Spanish translation."
+ },
+ "pausepar_taxi_en/taxi/2d_jm_taxi_watanabe.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'DEVIL KILLER' is still visible in the original image on the left."
+ },
+ "pausepar_taxi_en/taxi/2d_jm_taxi_yukaihan.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'KIDNAPPERS' is still visible above the Spanish translation."
+ },
+ "pausepar_title_menu_en/title_menu/2d_jm_title_vs_billiards.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English word 'Pool' is still visible behind the Spanish word 'Billar'."
+ },
+ "pausepar_tougijyo_en/2d_jm_gp_1sen.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_tougijyo_en/2d_jm_gp_2kaisen.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_tougijyo_en/2d_jm_gp_2sen.dds": {
+  "ok": false,
+  "problem": "missing_text",
+  "detalle": "The Spanish translation is cut off at the end."
+ },
+ "pausepar_tougijyo_en/2d_jm_gp_3sen.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'FINAL ROUND' is still visible."
+ },
+ "pausepar_tougijyo_en/2d_jm_gp_break.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'BREAKOUT' is still visible above the Spanish translation."
+ },
+ "pausepar_tougijyo_en/2d_jm_gp_hdeath.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_tougijyo_en/2d_jm_gp_heart.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps with the original English text."
+ },
+ "pausepar_tougijyo_en/2d_jm_gp_king.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_tougijyo_en/2d_jm_gp_legend.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps with the English text."
+ },
+ "pausepar_tougijyo_en/2d_jm_gp_limited.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_tougijyo_en/2d_jm_gp_maximum.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text 'Máxima' overlaps with the English text 'MAXIMUM'."
+ },
+ "pausepar_tougijyo_en/2d_jm_gp_ranker.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_tougijyo_en/2d_jm_gp_street.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_tougijyo_en/2d_jm_gp_twin.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The original English text is still visible behind the Spanish translation."
+ },
+ "pausepar_tougijyo_en/2d_jm_gp_victory.dds": {
+  "ok": false,
+  "problem": "leftover_english",
+  "detalle": "The English text 'VICTORY ROAD FINALS' is still visible in the original image, and the Spanish translation is shown as a separate image."
+ },
+ "pausepar_tougijyo_en/2d_jm_gp_weapon.dds": {
+  "ok": false,
+  "problem": "overlap",
+  "detalle": "The Spanish text overlaps with the English text."
+ },
+ "pausepar_tougijyo_en/2d_jm_tougi_okite.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ },
+ "pausepar_tougijyo_en/2d_jm_tougi_okite_ranking.dds": {
+  "ok": false,
+  "problem": "text_outside_box",
+  "detalle": "The Spanish text overflows the boundaries of the original text box."
+ },
+ "pausepar_tougijyo_en/2d_jm_tougi_okite_tag.dds": {
+  "ok": true,
+  "problem": "none",
+  "detalle": "none"
+ }
+}

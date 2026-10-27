@@ -1,0 +1,446 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_h_db.par/texlist_0001/2d_yk_liveb",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    5,
+    119,
+    84,
+    134
+   ],
+   "en": "1ST STAGE",
+   "es": "1.ª ETAPA",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 77,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     235,
+     235,
+     235
+    ],
+    "contorno": [
+     [
+      20,
+      20,
+      20
+     ],
+     1
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    106,
+    119,
+    186,
+    134
+   ],
+   "en": "2ND STAGE",
+   "es": "2.ª ETAPA",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 78,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     235,
+     235,
+     235
+    ],
+    "contorno": [
+     [
+      20,
+      20,
+      20
+     ],
+     1
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    207,
+    119,
+    288,
+    134
+   ],
+   "en": "3RD STAGE",
+   "es": "3.ª ETAPA",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 79,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     235,
+     235,
+     235
+    ],
+    "contorno": [
+     [
+      20,
+      20,
+      20
+     ],
+     1
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    303,
+    119,
+    392,
+    134
+   ],
+   "en": "FINAL STAGE",
+   "es": "ETAPA FINAL",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 87,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     235,
+     235,
+     235
+    ],
+    "contorno": [
+     [
+      20,
+      20,
+      20
+     ],
+     1
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    6,
+    296,
+    58,
+    322
+   ],
+   "en": "MISS",
+   "es": "FALLO",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 50,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     200,
+     215,
+     255
+    ],
+    "contorno": [
+     [
+      40,
+      70,
+      170
+     ],
+     2
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    60,
+    296,
+    111,
+    322
+   ],
+   "en": "BAD",
+   "es": "MAL",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 49,
+   "estilo": {
+    "arriba": [
+     255,
+     235,
+     130
+    ],
+    "abajo": [
+     235,
+     185,
+     60
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     1
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    113,
+    296,
+    182,
+    322
+   ],
+   "en": "GOOD",
+   "es": "BIEN",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 67,
+   "estilo": {
+    "arriba": [
+     140,
+     255,
+     140
+    ],
+    "abajo": [
+     40,
+     210,
+     70
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     1
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    184,
+    296,
+    262,
+    322
+   ],
+   "en": "GREAT",
+   "es": "GENIAL",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 76,
+   "estilo": {
+    "arriba": [
+     255,
+     245,
+     120
+    ],
+    "abajo": [
+     255,
+     205,
+     40
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     1
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    266,
+    296,
+    338,
+    322
+   ],
+   "en": "GOOD",
+   "es": "BIEN",
+   "fuente": "segoeuib.ttf",
+   "efecto": "borroso",
+   "alin": "izq",
+   "ancho_max": 70,
+   "alto": 16,
+   "radio": 2
+  },
+  {
+   "caja": [
+    340,
+    296,
+    424,
+    322
+   ],
+   "en": "GREAT",
+   "es": "GENIAL",
+   "fuente": "segoeuib.ttf",
+   "efecto": "borroso",
+   "alin": "izq",
+   "ancho_max": 82,
+   "alto": 16,
+   "radio": 2
+  },
+  {
+   "caja": [
+    650,
+    295,
+    748,
+    318
+   ],
+   "en": "SUCCESS!!",
+   "es": "¡ÉXITO!",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 96,
+   "estilo": {
+    "arriba": [
+     190,
+     255,
+     210
+    ],
+    "abajo": [
+     70,
+     225,
+     130
+    ],
+    "contorno": [
+     [
+      20,
+      80,
+      40
+     ],
+     1
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    748,
+    295,
+    842,
+    318
+   ],
+   "en": "PERFECT!!",
+   "es": "¡PERFECTO!",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 92,
+   "estilo": {
+    "arriba": [
+     255,
+     225,
+     130
+    ],
+    "abajo": [
+     255,
+     165,
+     45
+    ],
+    "contorno": [
+     [
+      90,
+      30,
+      10
+     ],
+     1
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    886,
+    418,
+    1022,
+    472
+   ],
+   "en": "GO",
+   "es": "¡YA!",
+   "fuente": "verdanab.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 134
+  },
+  {
+   "caja": [
+    4,
+    466,
+    322,
+    514
+   ],
+   "en": "YOU WIN",
+   "es": "GANASTE",
+   "fuente": "verdanab.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 316
+  },
+  {
+   "caja": [
+    322,
+    466,
+    694,
+    514
+   ],
+   "en": "YOU LOSE",
+   "es": "PERDISTE",
+   "fuente": "verdanab.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 370
+  },
+  {
+   "caja": [
+    698,
+    466,
+    1022,
+    514
+   ],
+   "en": "READY...",
+   "es": "LISTO...",
+   "fuente": "verdanab.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 322
+  }
+ ]
+}

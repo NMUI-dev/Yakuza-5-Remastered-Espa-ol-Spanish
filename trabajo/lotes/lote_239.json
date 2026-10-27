@@ -1,0 +1,782 @@
+[
+{
+"id": 50601,
+"en": "Hmph. I'm sure you heard a mouthful. Or earful. Whatever.",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50602,
+"en": "You see, our paper's doing a feature on baseball's waning popularity. I figured I'd backtrack a bit and see where it started⑬and of course, I can't do that without you.",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50603,
+"en": "Your sign stealing is what brought match fixing under public scrutiny. That debacle drove a lot of fans from the game itself.",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50604,
+"en": "Wow, you really think that makes me want to talk to you? Huh, Kurosaki sure knows how to pick 'em.",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50605,
+"en": "Let me put it as plainly as I can. You're not getting an interview, and I don't want to see your face ever again.",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50606,
+"en": "Oh, come on. The statute of limitations has run out, hasn't it? Just admit you stole signs and get over it already.",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50607,
+"en": "Now tell me. How much did you get for betraying the sport? Didn't you feel any remorse?",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50608,
+"en": "The manager was in on it, wasn't he? That's the sort of juicy news our readers love. We'll pay good money for every tidbit you tell us. Okay?",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50609,
+"en": "Oh, so you're ignoring me now? Still hanging onto your tattered sense of pride?",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50610,
+"en": "All right, then. Why don't we settle this on the diamond!",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50611,
+"en": "Come on. I was once a pitcher, and a Wyvern. If you can get past me, I'll give up on that interview. And rest assured, you'll never see me again.",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50612,
+"en": "That's a negative. Win or lose, I have nothing to say to the press.",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50613,
+"en": "Fine by me. You're not willing to give me the time of day anyhow.",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50614,
+"en": "Besides, we're both former pros. I think I can learn a lot more from pitching against you than hearing you talk.",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50615,
+"en": "You think you're that special, huh? Okay, say I do win. Will you really get gone for good?",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50616,
+"en": "Yeppity-doo. I don't need to say it twice, do I?",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50617,
+"en": "Here's the deal. I'm gonna throw ten pitches. Make five of those home runs, and I'll be out of your life faster than you can sing \"Take Me Out to the Ballgame.\"",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50618,
+"en": "Only ten pitches? You must be out of practice if that's all you can throw at me.",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50619,
+"en": "Hey, I've been retired for years. But for these ten throws, I'll be as good as I was back in my heyday. You can count on that.",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50620,
+"en": "Hah, who woulda thunk it? Two former Wyverns, duking it out at a dinky little batting cage... both of us having descended into lowly newsmongers, no less.",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50621,
+"en": "At least people care about <Italic>my</Italic> news. Now will you quit pestering me?",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50622,
+"en": "Yeah, I suppose that was the deal. Fine. Consider me a stranger. Oh, but first... I guess I owe you an interview fee.",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50623,
+"en": "What's this for? I gave you no such interview.",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50624,
+"en": "You're right. You gave me something better. I can clearly see your batting hasn't rotted away. You still have what it takes to be in the pros.",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50625,
+"en": "Even after all these years, you still kept practicing your swing, in spite of your permanent ban. That's some dedication.",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50626,
+"en": "You practice in hopes of making a comeback some day. You wouldn't bother to do that unless you were truly innocent.",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50627,
+"en": "And because you know that in your heart, you have the resolve to press on. You're convinced your innocence will be proven one day. Correct me if I'm wrong.",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50628,
+"en": "What'd you say your name was? Asada? I'd say you have more talent with a pen than a ball. That's quite the compelling narrative.",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50629,
+"en": "I guess I'll take that as a compliment, but it doesn't make me happy one bit.",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50630,
+"en": "No, I'm sure it doesn't. Hence why I said it.",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50631,
+"en": "Haha. You're a cruel man, Shinada.",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50632,
+"en": "Hey, Asada-san! Don't tell me you're taking his side now!?",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50633,
+"en": "What the hell is going on!? Why can't anyone keep a grudge against this jackass?",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50634,
+"en": "Kurosaki... Why are you still holding on to yours?",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50635,
+"en": "Sorry to disappoint, but I write for a small gossip paper. Our readers are hardly sophisticated enough to understand the tear-jerking redemption of a fallen hero.",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50636,
+"en": "Still, you did provide me with a lead. I'd be happy to spot you for a coffee break at least.",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50637,
+"en": "Now if you'll excuse me, Kurosaki-san. I hope you'll give my readers something they can actually chew on next time.",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50638,
+"en": "Little shithead.",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50639,
+"en": "Welp, I'm out of here, too. I'm sick of you creeping up on me.",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50640,
+"en": "Oh, and Kurosaki. Wise up, man. You can't be pulling people's strings forever. It's gonna snap right back at you.",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50641,
+"en": "Mind your own goddamn business! If you only knew...",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50642,
+"en": "And Asada takes the win! I'll be back for that interview, Shinada-san.",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50643,
+"en": "Hey there, Shinada-san, it is <Italic>me</Italic>. Thought you'd be in the mood for an interview this time around.",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50644,
+"en": "Didn't I tell you no already?",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50645,
+"en": "I'm not the type to take that for an answer. If you can beat me on the diamond, I'll stop coming around.",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50646,
+"en": "I would love that. All right, I'll take you on.",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50647,
+"en": "You said that already!",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50648,
+"en": "Then let's have at it!",
+"ctx": "diálogo uid013304c6"
+},
+{
+"id": 50649,
+"en": "Hey. Shinada.",
+"ctx": "diálogo uid013304cb"
+},
+{
+"id": 50650,
+"en": "Oh, just Kurosaki again. What a surprise. What are you scheming this time?",
+"ctx": "diálogo uid013304cb"
+},
+{
+"id": 50651,
+"en": "Quit yapping and come with me.",
+"ctx": "diálogo uid013304cb"
+},
+{
+"id": 50652,
+"en": "Yeah, no thanks. Why would I do that? I got enough problems already.",
+"ctx": "diálogo uid013304cb"
+},
+{
+"id": 50653,
+"en": "Heh, so you're a coward, then? Don't worry, I won't lay a finger on you, I swear.",
+"ctx": "diálogo uid013304cb"
+},
+{
+"id": 50654,
+"en": "Yeah? Then what are you planning?",
+"ctx": "diálogo uid013304cb"
+},
+{
+"id": 50655,
+"en": "Come with me and see for yourself.",
+"ctx": "diálogo uid013304cb"
+},
+{
+"id": 50656,
+"en": "(All right. Might as well see what he wants, at least for old times' sake.)",
+"ctx": "diálogo uid013304cb"
+},
+{
+"id": 50657,
+"en": "You gonna try again, or am I gonna have to drag your ass out there?",
+"ctx": "diálogo uid013304cb"
+},
+{
+"id": 50658,
+"en": "Oh I'll be there, Kurosaki. And it won't be a repeat of last time.",
+"ctx": "diálogo uid013304cb"
+},
+{
+"id": 50659,
+"en": "There he is. Took you long enough.",
+"ctx": "diálogo uid013304d1"
+},
+{
+"id": 50660,
+"en": "You just keep popping out of nowhere, don't you?",
+"ctx": "diálogo uid013304d1"
+},
+{
+"id": 50661,
+"en": "I sure do. Now today we settle the score. Follow me.",
+"ctx": "diálogo uid013304d1"
+},
+{
+"id": 50662,
+"en": "Can you really replicate Akamatsu's pitching, though? Have you consulted with your shoulder first?",
+"ctx": "diálogo uid013304d1"
+},
+{
+"id": 50663,
+"en": "Stop with the shoulder talk and come with me, all right? We'll talk when we're there.",
+"ctx": "diálogo uid013304d1"
+},
+{
+"id": 50664,
+"en": "I've been waiting a long time for this, Shinada.",
+"ctx": "diálogo uid013304d1"
+},
+{
+"id": 50665,
+"en": "Then I won't keep you any longer. This time's gonna be different.",
+"ctx": "diálogo uid013304d1"
+},
+{
+"id": 50666,
+"en": "That's fine. Please come again soon.",
+"ctx": "diálogo uid013304d2"
+},
+{
+"id": 50667,
+"en": "Hello. May I take your order?",
+"ctx": "diálogo uid013304d5"
+},
+{
+"id": 50668,
+"en": "(Okay, it's fishing time!)",
+"ctx": "diálogo uid013304dc + diálogo uid013304de …"
+},
+{
+"id": 50669,
+"en": "If you don't get a bite, you lose the bait you used and have to start over. Select bait suited to the depth where the fish seem to be.",
+"ctx": "diálogo uid013304dc + diálogo uid013304de …"
+},
+{
+"id": 50670,
+"en": "Once you cast your line, wait for a fish to bite. Watch the float carefully. As soon as it bobs down, press <Action:Button_Cross@Fishing_River> to quickly pull your pole up.",
+"ctx": "diálogo uid013304dc + diálogo uid013304de …"
+},
+{
+"id": 50671,
+"en": "Some fish will fight hard. Press <Action:Button_Cross@Fishing_River> rapidly if you find it difficult to raise your pole.",
+"ctx": "diálogo uid013304dc + diálogo uid013304de …"
+},
+{
+"id": 50672,
+"en": "(Better check the instructions.)",
+"ctx": "diálogo uid013304dc + diálogo uid013304de …"
+},
+{
+"id": 50673,
+"en": "(Aww, it got away.)",
+"ctx": "diálogo uid013304dc + diálogo uid013304e4 …"
+},
+{
+"id": 50674,
+"en": "(Hm, didn't catch anything.)",
+"ctx": "diálogo uid013304de + diálogo uid013304e2"
+},
+{
+"id": 50675,
+"en": "Once you cast your line, wait for a fish to bite. Watch the float carefully. As soon as it bobs down, press <Action:Button_Cross@Fishing_River>  to quickly pull your pole up.",
+"ctx": "diálogo uid013304e0"
+},
+{
+"id": 50676,
+"en": "(This is CR Virtua Fighter MVJC pachinko machine number 3. Maybe I should give it a try.)",
+"ctx": "diálogo uid013304ee"
+},
+{
+"id": 50677,
+"en": "(Sure. Why not?)",
+"ctx": "diálogo uid013304ee + diálogo uid013304ef …"
+},
+{
+"id": 50678,
+"en": "(This is CR Aladdin Destiny EX pachinko machine number 38. Maybe I should give it a try.)",
+"ctx": "diálogo uid013304ef"
+},
+{
+"id": 50679,
+"en": "(This is King Camel slot machine number 86. Should I give it a try?)",
+"ctx": "diálogo uid013304f0"
+},
+{
+"id": 50680,
+"en": "(This is Beast King slot machine number 70. Should I give it a try?)",
+"ctx": "diálogo uid013304f2"
+},
+{
+"id": 50681,
+"en": "(This is Aladdin A slot machine number 54. Should I give it a try?)",
+"ctx": "diálogo uid013304f3"
+},
+{
+"id": 50682,
+"en": "All right. Please come again soon.",
+"ctx": "diálogo uid013304f4 + diálogo uid01330a0f"
+},
+{
+"id": 50683,
+"en": "(What do I want to drink?)",
+"ctx": "diálogo uid013304f6 + diálogo uid01330586"
+},
+{
+"id": 50684,
+"en": "(What do I feel like drinking?)",
+"ctx": "diálogo uid013304f6 + diálogo uid01330586"
+},
+{
+"id": 50685,
+"en": "(What to drink?)",
+"ctx": "diálogo uid013304f6 + diálogo uid01330586"
+},
+{
+"id": 50686,
+"en": "(What should I drink?)",
+"ctx": "diálogo uid013304f6 + diálogo uid01330586"
+},
+{
+"id": 50687,
+"en": "(Let's see, what should I drink?)",
+"ctx": "diálogo uid013304f6 + diálogo uid01330586"
+},
+{
+"id": 50688,
+"en": "(What should I order for food?)",
+"ctx": "diálogo uid013304f6 + diálogo uid01330586"
+},
+{
+"id": 50689,
+"en": "(Now, what do I feel like eating?)",
+"ctx": "diálogo uid013304f6 + diálogo uid01330586"
+},
+{
+"id": 50690,
+"en": "(What do I feel like eating?)",
+"ctx": "diálogo uid013304f6 + diálogo uid01330586"
+},
+{
+"id": 50691,
+"en": "(I wonder what food I should order.)",
+"ctx": "diálogo uid013304f6 + diálogo uid01330586"
+},
+{
+"id": 50692,
+"en": "All right. We hope to see you again soon.",
+"ctx": "diálogo uid013304f6"
+},
+{
+"id": 50693,
+"en": "The buttons in the four sections of the cursor <Action:Button_Circle@Cost_Of_A_Swing><Action:Button_Triangle@Cost_Of_A_Swing><Action:Button_Square@Cost_Of_A_Swing><Action:Button_Cross@Cost_Of_A_Swing> are the swing buttons. Move the cursor to the ball and swing by pressing one of those buttons.",
+"ctx": "diálogo uid013304f9"
+},
+{
+"id": 50694,
+"en": "This cursor is called the swing cursor. Move it using <Action:Button_LS_Left@Cost_Of_A_Swing><Action:Button_LS_Right@Cost_Of_A_Swing><Action:Button_LS_Up@Cost_Of_A_Swing><Action:Button_LS_Down@Cost_Of_A_Swing>.",
+"ctx": "diálogo uid013304f9"
+},
+{
+"id": 50695,
+"en": "The smaller areas inside the swing cursor are the slugging ranges.",
+"ctx": "diálogo uid013304f9"
+},
+{
+"id": 50696,
+"en": "You will hit the ball much more powerfully if you hit it within a slugging range.",
+"ctx": "diálogo uid013304f9"
+},
+{
+"id": 50697,
+"en": "The ball's anticipated location is indicated by the pink area.",
+"ctx": "diálogo uid013304f9"
+},
+{
+"id": 50698,
+"en": "While this is only a guess, it will still provide a general idea of where the ball will be.",
+"ctx": "diálogo uid013304f9"
+},
+{
+"id": 50699,
+"en": "Make perfect contact by swinging right when the ball and anticipated course turn yellow.",
+"ctx": "diálogo uid013304f9"
+},
+{
+"id": 50700,
+"en": "Move the cursor to this area, then press the corresponding button <Action:Button_Circle@Cost_Of_A_Swing><Action:Button_Triangle@Cost_Of_A_Swing><Action:Button_Square@Cost_Of_A_Swing><Action:Button_Cross@Cost_Of_A_Swing> at the right time to hit the ball.",
+"ctx": "diálogo uid013304f9"
+},
+{
+"id": 50701,
+"en": "(What do I feel like having?)",
+"ctx": "diálogo uid0133050b"
+},
+{
+"id": 50702,
+"en": "(So what should I eat?)",
+"ctx": "diálogo uid0133050b"
+},
+{
+"id": 50703,
+"en": "(What should I have?)",
+"ctx": "diálogo uid0133050b"
+},
+{
+"id": 50704,
+"en": "Thanks for comin'. Stop by again soon!",
+"ctx": "diálogo uid0133050b"
+},
+{
+"id": 50705,
+"en": "Hmm. Usually I'd get the uni, but today I think I'll get the <Color:8>Special Sushi Zanmai<Color:Default>.",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50706,
+"en": "(Guess Kaguya wants the <Color:8>Special Sushi Zanmai<Color:Default>.)",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50707,
+"en": "The fish here is so fresh and delicious! There's nothing better than eating sushi made to order!",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50708,
+"en": "Don't ya get out much? Sounds like you haven't been out to eat in a while.",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50709,
+"en": "That's true. I usually cook for myself at home, or else I'll order delivery.",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50710,
+"en": "You get stuff like sushi and soba delivered?",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50711,
+"en": "Sushi is expensive, so I hardly order it. And I've never ordered soba before.",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50712,
+"en": "Well, then whaddya get delivered?",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50713,
+"en": "Stuff like curry or pizza.",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50714,
+"en": "They have that? Guess they got everythin' nowadays.",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50715,
+"en": "It's not particularly recent. They've had these things for quite some time, you know.",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50716,
+"en": "There are fast food places that deliver burgers, and even convenience stores offer delivery now.",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50717,
+"en": "Really? I guess with that kinda convenience I can see why people wind up as shut-ins.",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50718,
+"en": "Yep. That's why when I do go out to eat, I don't make the food my main focus. What's more important is spending time with whoever I'm with.",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50719,
+"en": "I see. So it's not the meal that's important, it's where ya go to get it?",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50720,
+"en": "Yes. That's why no matter how good delivery options get, I don't think eating out is ever going away for me.",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50721,
+"en": "Yeah, I can see what ya mean. You're pretty smart.",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50722,
+"en": "When I'm killing time at home, this is the sort of thing I always think about.",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50723,
+"en": "I'm not a fan of delivery. Even if they offer a whole buncha different things, I figure I'm better off at a restaurant.",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50724,
+"en": "Oh? Why is that?",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50725,
+"en": "Delivery takes too long, especially when I'm hungry. I need to eat right away.",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50726,
+"en": "Then why not try to put an order in ahead of time?",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50727,
+"en": "That ain't all it is. For example, with sushi, I can pick my own fish with my own eyes, or ask the sushi chef for recommendations.",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50728,
+"en": "Ya can't do any of that with delivery. And ya can't add more to your order later either.",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50729,
+"en": "Ah! I can see how you wouldn't be able to do that with delivery.",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50730,
+"en": "Plus you can get to know the restaurant staff too, so it's way better.",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50731,
+"en": "Yer gonna get fat. If you're not gonna leave home, ya may as well eat somethin' healthy.",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50732,
+"en": "So to ask you the same question, is it okay to eat fatty foods when eating out?",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50733,
+"en": "Nah, that ain't what I mean. The time it takes to walk someplace is exercise, right? It's a bit healthier than delivery.",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50734,
+"en": "That's not a very convincing argument. If I'm looking after my health, I should still make a point to eat only healthy foods when eating out.",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50735,
+"en": "Someone who can't be consistent about eating healthy isn't persuasive at all.",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50736,
+"en": "You might not agree with me, but do ya at least see the reasonin' behind what I'm sayin'?",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50737,
+"en": "Reasoning? Then why don't I just exercise indoors at home?",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50738,
+"en": "Ya've got a comeback for everythin', don't you?",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50739,
+"en": "Uncle Kaz, I'd really like the <Color:8>Uni<Color:Default>.",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50740,
+"en": "(Haruka wants to have the <Color:8>Uni<Color:Default>.)",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50741,
+"en": "But I wanted the <Color:8>Uni<Color:Default>...",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50742,
+"en": "Thanks, Uncle Kaz! This looks really tasty!",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50743,
+"en": "You ready to go?",
+"ctx": "diálogo uid0133050e"
+},
+{
+"id": 50744,
+"en": "(Prime is a cabaret club. If anyone saw me go into a place like this, it would cause a scene.)",
+"ctx": "diálogo uid01330517"
+},
+{
+"id": 50745,
+"en": "(Ah, Honoka is out in Kamurocho right now. Once she's helped get my club back on its feet, I can see her here. Until then, I'm good.)",
+"ctx": "diálogo uid01330517"
+},
+{
+"id": 50746,
+"en": "(I talked Honoka-chan into going to Tokyo with me. I should go to Elise once I'm back in Kamurocho.)",
+"ctx": "diálogo uid01330517"
+},
+{
+"id": 50747,
+"en": "(My manager at Elise wants me to find girls who can work right away. Maybe it's worth talking to Honoka-chan about that.)",
+"ctx": "diálogo uid01330517"
+},
+{
+"id": 50748,
+"en": "(Prime⑬a cabaret club. I should check out an adult entertainment info booth first, not just waltz right in.)",
+"ctx": "diálogo uid01330517"
+},
+{
+"id": 50749,
+"en": "(Prime is a cabaret club I went to years ago. There were a lot of nice girls here back then.)",
+"ctx": "diálogo uid01330517"
+},
+{
+"id": 50750,
+"en": "(Prime's a cabaret club. It's a waste of time for me to go to a bunch of different clubs. Gotta focus on just one place.)",
+"ctx": "diálogo uid01330517"
+},
+{
+"id": 50751,
+"en": "(Prime is a cabaret club. Man, I'd love to check it out, but I'd better not.)",
+"ctx": "diálogo uid01330517"
+},
+{
+"id": 50752,
+"en": "(It looks like I could fish here. Maybe I'll drop a line in for a bit.)",
+"ctx": "diálogo uid01330518 + diálogo uid0133051a …"
+},
+{
+"id": 50753,
+"en": "(Okay, let's give it a go!)",
+"ctx": "diálogo uid01330518 + diálogo uid0133051a …"
+},
+{
+"id": 50754,
+"en": "(I don't have any bait to use.)",
+"ctx": "diálogo uid01330518 + diálogo uid0133051a …"
+},
+{
+"id": 50755,
+"en": "(I guess I'll come back later.)",
+"ctx": "diálogo uid01330518 + diálogo uid0133051a …"
+},
+{
+"id": 50756,
+"en": "(This spot could work for fishing. I might drop a line in for a while.)",
+"ctx": "diálogo uid01330518 + diálogo uid01330522 …"
+}
+]

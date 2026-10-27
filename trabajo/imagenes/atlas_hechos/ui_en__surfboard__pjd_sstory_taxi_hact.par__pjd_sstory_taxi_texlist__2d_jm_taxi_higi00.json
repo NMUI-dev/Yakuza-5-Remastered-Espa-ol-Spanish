@@ -1,0 +1,40 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_taxi_hact.par/pjd_sstory_taxi_texlist/2d_jm_taxi_higi00",
+ "fuente": "Knewave-Regular.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    150,
+    138,
+    875,
+    196
+   ],
+   "en": "SECRET MOVE : DAUNTLESS DRIVING",
+   "es": "MOVIMIENTO SECRETO: MANEJO INTRÉPIDO",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     235,
+     252,
+     255
+    ],
+    "abajo": [
+     215,
+     245,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     0,
+     216,
+     255
+    ]
+   },
+   "alin": "centro",
+   "ancho_max": 705
+  }
+ ]
+}

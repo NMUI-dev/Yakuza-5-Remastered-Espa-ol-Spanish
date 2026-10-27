@@ -1,0 +1,145 @@
+{
+ "textura": "pausepar_tougijyo_en/2d_jm_tougi_okite_ranking",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    244,
+    41,
+    782,
+    86
+   ],
+   "en": "The Underground Coliseum Rankings",
+   "ocr": "The Underground Coliseum Rankings",
+   "es": "Clasificación del Coliseo Subterráneo",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 534,
+   "dejar": true
+  },
+  {
+   "caja": [
+    177,
+    142,
+    833,
+    171
+   ],
+   "en": "The Underground Coliseum Rankings shows each fighter's",
+   "ocr": "The Underground Coliseum Rankings shows each fighter' s",
+   "es": "La Clasificación del Coliseo Subterráneo muestra el historial de cada luchador.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 652,
+   "dejar": true
+  },
+  {
+   "caja": [
+    177,
+    183,
+    623,
+    215
+   ],
+   "en": "overall rank based on a point system.",
+   "ocr": "overall rank based on a point system.",
+   "es": "según un sistema de puntos.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 442,
+   "dejar": true
+  },
+  {
+   "caja": [
+    176,
+    224,
+    787,
+    258
+   ],
+   "en": "Winning tournaments and exhibitions increases your",
+   "ocr": "Winning tournaments and exhibitions increases your",
+   "es": "Ganar torneos y exhibiciones aumenta tus",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 607,
+   "dejar": true
+  },
+  {
+   "caja": [
+    177,
+    268,
+    790,
+    299
+   ],
+   "en": "rankings points, whereas losing will decrease them.",
+   "ocr": "rankings points, whereas losing will decrease them.",
+   "es": "puntos de clasificación, mientras que perder los reduce.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 609,
+   "dejar": true
+  },
+  {
+   "caja": [
+    174,
+    308,
+    846,
+    342
+   ],
+   "en": "Note that you can win more rankings points by defeating",
+   "ocr": "Note that you can win more rankings points by defeating",
+   "es": "Ten en cuenta que puedes ganar más puntos de clasificación al derrotar",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 668,
+   "dejar": true
+  },
+  {
+   "caja": [
+    178,
+    352,
+    478,
+    381
+   ],
+   "en": "a higher-ranked opponent.",
+   "ocr": "a higher-ranked opponent.",
+   "es": "a un rival de mayor rango.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 296,
+   "dejar": true
+  },
+  {
+   "caja": [
+    174,
+    391,
+    845,
+    427
+   ],
+   "en": "Keep gaining victory and reach the top of the rankings!",
+   "ocr": "Keep gaining victory and reach the top of the rankings!",
+   "es": "¡Sigue ganando y alcanza la cima de la clasificación!",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 667,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: página de reglas -> PROGRAMA de claude2"
+}

@@ -1,0 +1,26 @@
+{
+ "textura": "pausepar_pause_en/picture/takara/2d_jm_takarad_04",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    153,
+    97,
+    304,
+    119
+   ],
+   "en": "State your answer here.",
+   "ocr": "State your answer here.",
+   "es": "Indica tu respuesta aquí.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 147,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: lo hace el PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

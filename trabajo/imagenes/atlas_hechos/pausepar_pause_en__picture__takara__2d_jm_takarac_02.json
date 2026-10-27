@@ -1,0 +1,143 @@
+{
+ "textura": "pausepar_pause_en/picture/takara/2d_jm_takarac_02",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    64,
+    58,
+    177,
+    76
+   ],
+   "en": "When I came to, I was",
+   "ocr": "WhenIcame to.Iw",
+   "es": "Cuando Vine, me encontré",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 113,
+   "dejar": true
+  },
+  {
+   "caja": [
+    63,
+    83,
+    185,
+    100
+   ],
+   "en": "I stood there in the midst",
+   "ocr": "Istood there in the mido",
+   "es": "Me quedé de pie en medio",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 122,
+   "dejar": true
+  },
+  {
+   "caja": [
+    64,
+    95,
+    187,
+    112
+   ],
+   "en": "to walk straight down the",
+   "ocr": "towalk straight down the",
+   "es": "para caminar por la Escalera Abajo",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 123,
+   "dejar": true
+  },
+  {
+   "caja": [
+    64,
+    108,
+    192,
+    124
+   ],
+   "en": "along by the blaring cars he",
+   "ocr": "alongby theblaringcar h",
+   "es": "junto a los autos que gritaban, él",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 128,
+   "dejar": true
+  },
+  {
+   "caja": [
+    64,
+    131,
+    196,
+    148
+   ],
+   "en": "At the next intersection, I to",
+   "ocr": "At dhe next intcrsection.It",
+   "es": "En la Siguiente intersección, tomé",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 132,
+   "dejar": true
+  },
+  {
+   "caja": [
+    64,
+    143,
+    197,
+    160
+   ],
+   "en": "thoroughfare. I crossed it a",
+   "ocr": "thoroughfare.Icrosscd it a",
+   "es": "calzada principal. La crucé a",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 133,
+   "dejar": true
+  },
+  {
+   "caja": [
+    64,
+    167,
+    192,
+    184
+   ],
+   "en": "As luck would have it, I st",
+   "ocr": "As luckwould hawe it.I st",
+   "es": "Para mi suerte, comencé",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 128,
+   "dejar": true
+  },
+  {
+   "caja": [
+    64,
+    179,
+    181,
+    196
+   ],
+   "en": "the elements. My frozen",
+   "ocr": "the clemonts My frozep",
+   "es": "los elementos. Mi Cuerpo congelado",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 117,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: lo hace el PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

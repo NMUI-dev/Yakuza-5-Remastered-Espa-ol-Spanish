@@ -1,0 +1,46 @@
+{
+ "textura": "pausepar_tougijyo_en/2d_jm_gp_3sen",
+ "fuente": "Knewave-Regular.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    5,
+    81,
+    511,
+    173
+   ],
+   "en": "FINAL ROUND",
+   "ocr": "FINAL ROUND",
+   "es": "RONDA FINAL",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 502,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "alto": 70
+  }
+ ],
+ "copiado_de": "ui_en__surfboard__pjd_tougi_gp_start02.par__texlist__2d_jm_gp_3sen"
+}

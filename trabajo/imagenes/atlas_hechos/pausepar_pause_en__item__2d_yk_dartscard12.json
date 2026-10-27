@@ -1,0 +1,40 @@
+{
+ "textura": "pausepar_pause_en/item/2d_yk_dartscard12",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    34,
+    5,
+    95,
+    16
+   ],
+   "en": "DIZZLEVE MEMBERS CARD",
+   "ocr": "DWMMEMMASCED",
+   "es": "CARTA DE MIEMBRO DIZZLEVE",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 61
+  },
+  {
+   "caja": [
+    43,
+    107,
+    86,
+    120
+   ],
+   "en": "DARTSLIVE",
+   "ocr": "DAATSLIVE",
+   "es": "DARTSLIVE",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 39
+  }
+ ]
+}

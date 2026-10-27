@@ -1,0 +1,39 @@
+{
+ "textura": "pausepar_pause_en/picture/caption/2d_jm_ac_l_skyfainansuhe",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    274,
+    27,
+    743,
+    108
+   ],
+   "en": "HEAD FOR",
+   "ocr": "HEAD",
+   "es": "VE A",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 469,
+   "alto": 60
+  },
+  {
+   "caja": [
+    201,
+    108,
+    825,
+    233
+   ],
+   "en": "SKY FINANCE",
+   "ocr": "SKY FINANCE",
+   "es": "SKY FINANCE",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 624
+  }
+ ]
+}

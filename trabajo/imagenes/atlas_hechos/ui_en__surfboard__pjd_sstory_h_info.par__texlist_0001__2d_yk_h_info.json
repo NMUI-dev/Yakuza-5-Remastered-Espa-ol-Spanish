@@ -1,0 +1,264 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_h_info.par/texlist_0001/2d_yk_h_info",
+ "fuente": "segoeui.ttf",
+ "margen": 4,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    230,
+    189,
+    282,
+    209
+   ],
+   "en": "Singing",
+   "es": "Canto",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 42,
+   "fondo": "lama",
+   "mediana": false
+  },
+  {
+   "caja": [
+    44,
+    338,
+    116,
+    356
+   ],
+   "en": "Appeal",
+   "es": "Encanto",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 62,
+   "fondo": "lama",
+   "mediana": false
+  },
+  {
+   "caja": [
+    400,
+    339,
+    466,
+    355
+   ],
+   "en": "Basic Skill",
+   "es": "Técnica",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 56,
+   "fondo": "lama",
+   "mediana": false
+  },
+  {
+   "caja": [
+    215,
+    486,
+    298,
+    505
+   ],
+   "en": "Performance",
+   "es": "Actuación",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 73,
+   "fondo": "lama",
+   "mediana": false
+  },
+  {
+   "caja": [
+    0,
+    512,
+    256,
+    538
+   ],
+   "en": "Agency Level",
+   "es": "Nivel de agencia",
+   "fuente": "consola.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 246
+  },
+  {
+   "caja": [
+    0,
+    538,
+    256,
+    564
+   ],
+   "en": "Fans",
+   "es": "",
+   "fuente": "consola.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 246
+  },
+  {
+   "caja": [
+    0,
+    564,
+    256,
+    592
+   ],
+   "en": "Idol Ability",
+   "es": "Habilidad de idol",
+   "fuente": "consola.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 246
+  },
+  {
+   "caja": [
+    0,
+    616,
+    256,
+    642
+   ],
+   "en": "Princess League Finals",
+   "es": "Final Princess League",
+   "fuente": "consola.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 246
+  },
+  {
+   "caja": [
+    0,
+    642,
+    256,
+    668
+   ],
+   "en": "Music",
+   "es": "Música",
+   "fuente": "consola.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 246
+  },
+  {
+   "caja": [
+    0,
+    668,
+    256,
+    690
+   ],
+   "en": "First Round",
+   "es": "Primera ronda",
+   "fuente": "consola.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 246
+  },
+  {
+   "caja": [
+    0,
+    690,
+    256,
+    712
+   ],
+   "en": "Second Round",
+   "es": "Segunda ronda",
+   "fuente": "consola.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 246
+  },
+  {
+   "caja": [
+    0,
+    712,
+    256,
+    736
+   ],
+   "en": "Final Round",
+   "es": "Ronda final",
+   "fuente": "consola.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 246
+  },
+  {
+   "caja": [
+    145,
+    0,
+    280,
+    30
+   ],
+   "en": "LV. RESULT INFORMATION",
+   "es": "",
+   "fuente": "consola.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 125,
+   "dejar": true
+  }
+ ]
+}

@@ -1,0 +1,737 @@
+[
+{
+"id": 59332,
+"en": "I figured that.",
+"ctx": "diálogo uid0169007c"
+},
+{
+"id": 59333,
+"en": "That's right, you already know how fearsome they are. Yes, they certainly don't need Yama-oroshi's size to satisfy their hunger for human flesh...",
+"ctx": "diálogo uid0169007c"
+},
+{
+"id": 59334,
+"en": "If you happen upon a bear, you might be tempted to run from it, but that's not the best idea. They will always give chase, and they can outrun any man.",
+"ctx": "diálogo uid0169007c"
+},
+{
+"id": 59335,
+"en": "You're better off calmly dodging their attacks until they give up. Or shooting them, of course.",
+"ctx": "diálogo uid0169007c"
+},
+{
+"id": 59336,
+"en": "If you're going to shoot though, you should know that your very life depends on dropping it with just one bullet. Nothing is more dangerous than an injured bear.",
+"ctx": "diálogo uid0169007c"
+},
+{
+"id": 59337,
+"en": "I don't expect you to know where a bear's heart is. Aim for its head.",
+"ctx": "diálogo uid0169007c"
+},
+{
+"id": 59338,
+"en": "I'll remember that.",
+"ctx": "diálogo uid0169007c"
+},
+{
+"id": 59339,
+"en": "Good. Now, then. We've set traps at all the sites in this area.",
+"ctx": "diálogo uid0169007c"
+},
+{
+"id": 59340,
+"en": "Now we just wait until they are sprung. And you can use any spare traps as you see fit.",
+"ctx": "diálogo uid0169007c"
+},
+{
+"id": 59341,
+"en": "It appears you're getting the hang of things. Let's look around for the next trap site.",
+"ctx": "diálogo uid0169007c"
+},
+{
+"id": 59342,
+"en": "By the way, watch your health while you're on the mountain. You need to eat food to keep up your strength, and if things start looking bad, don't push your luck.",
+"ctx": "diálogo uid0169007c"
+},
+{
+"id": 59343,
+"en": "You really don't want to be surviving solely on the meat of whatever you hunt, since that's never a sure thing.",
+"ctx": "diálogo uid0169007c"
+},
+{
+"id": 59344,
+"en": "Always, always, always pack food for your trips up the mountain.",
+"ctx": "diálogo uid0169007c"
+},
+{
+"id": 59345,
+"en": "I'll do that.",
+"ctx": "diálogo uid0169007c"
+},
+{
+"id": 59346,
+"en": "There! We got ourselves a rabbit.",
+"ctx": "diálogo uid0169007d"
+},
+{
+"id": 59347,
+"en": "See, that's all there is to it⑬suit the trap to the game.",
+"ctx": "diálogo uid0169007d"
+},
+{
+"id": 59348,
+"en": "I getcha.",
+"ctx": "diálogo uid0169007d"
+},
+{
+"id": 59349,
+"en": "Well, you're a proper rookie hunter now, so I'll treat you as such.",
+"ctx": "diálogo uid0169007d"
+},
+{
+"id": 59350,
+"en": "From now on, you do the prepwork and hunt your own food. You feel okay with that?",
+"ctx": "diálogo uid0169007d"
+},
+{
+"id": 59351,
+"en": "Alright wit' me.",
+"ctx": "diálogo uid0169007d"
+},
+{
+"id": 59352,
+"en": "Good. Let's make our way down and bring this rabbit to Baba.",
+"ctx": "diálogo uid0169007d"
+},
+{
+"id": 59353,
+"en": "Fine idea.",
+"ctx": "diálogo uid0169007d"
+},
+{
+"id": 59354,
+"en": "Gwroooaaar!",
+"ctx": "diálogo uid0169007d"
+},
+{
+"id": 59355,
+"en": "That roar...!",
+"ctx": "diálogo uid0169007d"
+},
+{
+"id": 59356,
+"en": "Is it Yama-oroshi!?",
+"ctx": "diálogo uid0169007d"
+},
+{
+"id": 59357,
+"en": "Saejima, run. I'll hold him off.",
+"ctx": "diálogo uid0169007d"
+},
+{
+"id": 59358,
+"en": "What're ya talkin' about? Ya can't even shoot right now. I'll deal with the beast. Just stick near me while I do.",
+"ctx": "diálogo uid0169007d"
+},
+{
+"id": 59359,
+"en": "Listen. You can't outrun or kill him, so don't even try. Just concentrate on fending him off.",
+"ctx": "diálogo uid0169007d"
+},
+{
+"id": 59360,
+"en": "Fine. Just keep yerself safe, Okudera-han!",
+"ctx": "diálogo uid0169007d"
+},
+{
+"id": 59361,
+"en": "Nothin' caught in this one.",
+"ctx": "diálogo uid0169007e"
+},
+{
+"id": 59362,
+"en": "Don't be discouraged, Saejima. Successful hunting doesn't come easily.",
+"ctx": "diálogo uid0169007e"
+},
+{
+"id": 59363,
+"en": "*sigh* Nothin' caught yet.",
+"ctx": "diálogo uid0169007e"
+},
+{
+"id": 59364,
+"en": "That's just how it goes sometimes. No need to lament every empty trap.",
+"ctx": "diálogo uid0169007e"
+},
+{
+"id": 59365,
+"en": "Yes! Got it.",
+"ctx": "diálogo uid01690082"
+},
+{
+"id": 59366,
+"en": "Well done. That's how you hunt.",
+"ctx": "diálogo uid01690082"
+},
+{
+"id": 59367,
+"en": "Now collect what you can from the kill.",
+"ctx": "diálogo uid01690082"
+},
+{
+"id": 59368,
+"en": "Walk up to the animal you shot to collect parts of its carcass.",
+"ctx": "diálogo uid01690082"
+},
+{
+"id": 59369,
+"en": "Good. You've collected what you can.",
+"ctx": "diálogo uid01690082"
+},
+{
+"id": 59370,
+"en": "Don't waste those items... Never forget that you took an animal's life to get them.",
+"ctx": "diálogo uid01690082"
+},
+{
+"id": 59371,
+"en": "Yeah. I understand.",
+"ctx": "diálogo uid01690082"
+},
+{
+"id": 59372,
+"en": "Meat taken from carcasses is precious, and some animal parts can restore health. At the very least, they can fetch good prices. Don't forget to collect them!",
+"ctx": "diálogo uid01690082"
+},
+{
+"id": 59373,
+"en": "Always keep an eye on your health. If it drops to\nzero, all the items and mission progress you made\nduring your current mountain outing will be lost.",
+"ctx": "diálogo uid01690082"
+},
+{
+"id": 59374,
+"en": "(Gotta give this deer meat to Nishina's wife. Better put it in my Valuables to keep it safe.)",
+"ctx": "diálogo uid01690082"
+},
+{
+"id": 59375,
+"en": "So do you want to keep hunting, or go back to the village? Your call.",
+"ctx": "diálogo uid01690082"
+},
+{
+"id": 59376,
+"en": "I'm fine either way.",
+"ctx": "diálogo uid01690082"
+},
+{
+"id": 59377,
+"en": "Good. Now that that's done, we should go. Animals won't come near it if there are people around. You should always go somewhere else before looping back around to check your traps.",
+"ctx": "diálogo uid01690083"
+},
+{
+"id": 59378,
+"en": "You never know what can happen. Game might get snared even while you're walking around other trap sites. Then again, it might not. Set traps at good sites, and be patient.",
+"ctx": "diálogo uid01690083"
+},
+{
+"id": 59379,
+"en": "It should go without saying, but make sure you actually collect trapped game.",
+"ctx": "diálogo uid01690083"
+},
+{
+"id": 59380,
+"en": "We're hunters, not indiscriminate killers. Do you understand that?",
+"ctx": "diálogo uid01690083"
+},
+{
+"id": 59381,
+"en": "Any traps you set will appear on the map. To recover them, along with any game that was caught, simply walk up to the trap sites.",
+"ctx": "diálogo uid01690083"
+},
+{
+"id": 59382,
+"en": "1. Use different traps for different game.\n2. Find trap sites and set traps at those spots.\n3. After a trap is set, leave it alone.\n4. Always collect trapped game.",
+"ctx": "diálogo uid01690083"
+},
+{
+"id": 59383,
+"en": "Good. Why don't we look for some more trap sites?",
+"ctx": "diálogo uid01690083"
+},
+{
+"id": 59384,
+"en": "Why are you leaving? We haven't spotted any deer yet.",
+"ctx": "diálogo uid01690098"
+},
+{
+"id": 59385,
+"en": "Saejima, we shouldn't go any further than this. We don't want to run into Yama-oroshi.",
+"ctx": "diálogo uid0169009a + diálogo uid0169009b"
+},
+{
+"id": 59386,
+"en": "(Let's see what Yamaura-san's memo says.)",
+"ctx": "diálogo uid016900ab + diálogo uid016900ad …"
+},
+{
+"id": 59387,
+"en": "\"Kiss Kiss\" is a fashion magazine aimed at pre-teens and teens.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59388,
+"en": "The interviewer will be Kotani-san. She's an old, unmarried career woman. She's nice enough, but is very particular about professionalism.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59389,
+"en": "The interview will consist of questions from readers asking for advice. These will mostly be about love and relationships.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59390,
+"en": "Try to give responses that the readers will be able to relate to. Remember, if you want to be a popular idol you have to appeal to the young female audience as well.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59391,
+"en": "For this kind of interview, it's also important to make a favorable impression on the interviewer. Their experience with you will affect the tone of the article they write.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59392,
+"en": "(Okay, so this is what I have to keep in mind for the interview.)",
+"ctx": "diálogo uid016900ab + diálogo uid016900ad …"
+},
+{
+"id": 59393,
+"en": "(I have to be relatable to pre-teen and teen girls.)",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59394,
+"en": "(And Kotani-san is very particular about professionalism.)",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59395,
+"en": "(All right. Got it!)",
+"ctx": "diálogo uid016900ab + diálogo uid016900ad …"
+},
+{
+"id": 59396,
+"en": "Hello. I'm here for an interview with Haruka-chan.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59397,
+"en": "(Oh! The interviewer is here.)",
+"ctx": "diálogo uid016900ab + diálogo uid016900ad …"
+},
+{
+"id": 59398,
+"en": "Hello. I'm Kotani from \"Kiss Kiss.\" It's very nice to meet you, Haruka-chan.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59399,
+"en": "You as well! Thank you very much for coming.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59400,
+"en": "I imagine your manager has already explained everything to you. You are aware of what today's interview is about?",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59401,
+"en": "What's the matter? Did your manager have you do this interview with no preparation at all?",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59402,
+"en": "Oh, that will not do. I gave your manager the particulars beforehand for a reason.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59403,
+"en": "Hmph. Well. I will explain again. We'd like you to give our readers advice about the relationship problems they've written in about.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59404,
+"en": "I was told it would be questions from readers asking for relationship advice.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59405,
+"en": "Yes, good. So you are prepared.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59406,
+"en": "Now, then. Girls from middle school and high school have written in, asking for your advice on their relationship troubles. Just answer the way you think is best.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59407,
+"en": "And remember, our readers will be able to take heart if they see that even a cute idol like yourself has been through some of the same things they have.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59408,
+"en": "Let's see. It's about the Princess League, right?",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59409,
+"en": "No, that's not it at all. How odd. Is that what your manager told you?",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59410,
+"en": "I understand you are currently appearing on the Princess League, but today's interview is about answering reader's love and relationship questions.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59411,
+"en": "Oh, that will not do at all. I gave your manager the particulars beforehand for a reason.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59412,
+"en": "Well, never mind. I'll assume it was an oversight.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59413,
+"en": "Let's see. Is it about my life as an idol?",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59414,
+"en": "No, that's not it. How odd. Is that what your manager told you?",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59415,
+"en": "I'm sure our readers are interested in your idol life, but today's interview is about answering reader's questions about relationships.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59416,
+"en": "Now, on to the questions. Remember, these are middle school and high school aged girls like you, so just answer the way you normally would.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59417,
+"en": "Okay, here we go. The first question is from Mina-chan in Tokyo. She's a middle school student.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59418,
+"en": "She writes, \"My friend and I both like the same boy. What would you do if you were in my shoes?\"",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59419,
+"en": "Hm. I guess that was a tough one. But you have to say something, or I won't have anything to write in the article.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59420,
+"en": "I really apologize.",
+"ctx": "diálogo uid016900ab + diálogo uid016900ad …"
+},
+{
+"id": 59421,
+"en": "Oh. Well. Let's just move on to the next question, I suppose.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59422,
+"en": "I would give up and let my friend have him. Friendship is more important to me than romance.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59423,
+"en": "But what if you really, really like this boy? And do friendships last all that long, anyway? Who knows, this relationship could even lead to marriage!",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59424,
+"en": "Maybe, but I still couldn't betray my friend. That just wouldn't be me.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59425,
+"en": "I see. But if you keep choosing friendship over romance, you might miss your chance to ever get married at all. Like I did.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59426,
+"en": "But you're still young, Kotani-san. You have plenty of time!",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59427,
+"en": "Hehe. Well, aren't you sweet? I think I might be becoming a new fan of yours!",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59428,
+"en": "I would go after the boy myself and not worry about my friend. I have to follow my own heart.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59429,
+"en": "Hmm. That makes you sound a little love-hungry, I'd say. Do you think your agency would be okay with you saying that?",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59430,
+"en": "I don't know. It's just how I honestly feel.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59431,
+"en": "Hmm. Maybe that's just how young people these days think. I suppose too much holding back doesn't help anyone find love.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59432,
+"en": "However, I'm not sure an answer like that will make you very popular with our readers.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59433,
+"en": "I would ask my friend to give up and let me have him.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59434,
+"en": "Really!? Do you think your friend would even agree to do that? Wouldn't it ruin your friendship?",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59435,
+"en": "Well, if I sincerely explain how I feel, I think she might understand.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59436,
+"en": "I suppose if she wasn't a very assertive girl, she might give him up for you. But wouldn't you feel bad?",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59437,
+"en": "After all, a cute girl like you could get any boy you wanted. Wouldn't you be better off placing more value on your friendships?",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59438,
+"en": "Wow. To tell you the truth, my image of you has changed after this.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59439,
+"en": "Oh. I'm sorry.",
+"ctx": "diálogo uid016900ab + diálogo uid016900ad …"
+},
+{
+"id": 59440,
+"en": "Anyway, here's the next question. It's from Airi-chan, in Gifu Prefecture.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59441,
+"en": "\"My boyfriend is shy. We've been going out for six months, but we've still never kissed. Some of my friends have gone further in less time. What do I do?\"",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59442,
+"en": "Can't think of a good answer? I won't have anything to put in my article.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59443,
+"en": "Hmph. I suppose just try to do better on the next one.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59444,
+"en": "You should be the one to kiss him. If he's shy, there's no telling how long you'll have to wait before he does.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59445,
+"en": "Oh my! You're quite bold, aren't you, Haruka-chan?",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59446,
+"en": "I just believe that if you want something to happen, sometimes the best thing to do is make it happen yourself.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59447,
+"en": "Ah. I like your way of thinking. It's very refreshing.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59448,
+"en": "But doesn't it take a lot of courage for a girl to make the first move?",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59449,
+"en": "Maybe so. But sometimes a girl just needs to be brave.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59450,
+"en": "That's a pretty brazen thing for an idol to say. I imagine the reactions will be mixed, but I'll try to give it a favorable slant.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59451,
+"en": "You should keep waiting. That's not the kind of thing you should hurry. And besides, what does it matter what other people are doing?",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59452,
+"en": "I can understand the feeling of not wanting to fall behind the other girls. Being worried your friends are going to make fun of you is quite distressing.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59453,
+"en": "But if you really like him, then you should wait for it to happen naturally. Why worry about what other girls might say?",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59454,
+"en": "What a very mature and well-considered answer. It sounds like you'd make someone a very good girlfriend.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59455,
+"en": "I know it's hard not to succumb to peer pressure, but I bet you've helped many of our readers find courage with that answer.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59456,
+"en": "How about trying to set the mood to entice him to kiss you?",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59457,
+"en": "Set the mood how?",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59458,
+"en": "For example, you could touch his arm or his knee, cuddle in close, turn your face toward his, and close your eyes.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59459,
+"en": "Hold on! That sounds a little like what a hostess bar girl would do! Are you really recommending that to our readers?",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59460,
+"en": "Oh, I'm sorry. Is that bad?",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59461,
+"en": "Well, not necessarily. It's just that it was such an unexpected answer. That's great for my article, though!",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59462,
+"en": "All right, here's the last question. It's a pretty serious one. It's from Apple-chan, in Tochigi Prefecture.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59463,
+"en": "\"My friend has been seeing her teacher, who is married with children. I keep telling her she should break it off with him, but she just won't listen.\"",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59464,
+"en": "Oh, come on! What am I supposed to put in my article if you don't say anything?",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59465,
+"en": "If you didn't want to do this interview, why didn't you just say so? I'd prefer you didn't waste my time.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59466,
+"en": "Now I'll have no choice but to write a bland article. I don't want to hear any complaints later!",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59467,
+"en": "It's a difficult situation, isn't it? But I really hoped you'd say something to help our reader.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59468,
+"en": "Hmph. Well, if you're not sure what to say, I suppose there's nothing I can do.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59469,
+"en": "If you care about your friend, the only thing you can do is keep telling her to stop seeing him. No one wins in that kind of relationship.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59470,
+"en": "Yes, but the friend is obviously thinking with her heart and not her head. Do you think she'll take heed?",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59471,
+"en": "Plus, she might not have even known he was married until after she had already fallen in love with him. Now, she just can't bear to leave.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59472,
+"en": "Maybe, but once she does know, she has to break up with him. That kind of relationship will only bring pain to everyone involved.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59473,
+"en": "Well, aren't you the moral one! But your answer does makes a lot of sense.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59474,
+"en": "Hm. Maybe I should break up with my man, too.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59475,
+"en": "Um, sorry?",
+"ctx": "diálogo uid016900ab + diálogo uid016900ad"
+},
+{
+"id": 59476,
+"en": "Oh, nothing! I was just thinking out loud.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59477,
+"en": "If she refuses to listen to you, then all you can do is end your friendship with her.",
+"ctx": "diálogo uid016900ab"
+},
+{
+"id": 59478,
+"en": "Really? Just like that?",
+"ctx": "diálogo uid016900ab"
+}
+]

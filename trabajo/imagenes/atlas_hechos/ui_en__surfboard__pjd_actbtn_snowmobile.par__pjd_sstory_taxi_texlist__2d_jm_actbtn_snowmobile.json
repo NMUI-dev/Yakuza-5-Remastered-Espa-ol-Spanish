@@ -1,0 +1,40 @@
+{
+ "textura": "ui_en/surfboard/pjd_actbtn_snowmobile.par/pjd_sstory_taxi_texlist/2d_jm_actbtn_snowmobile",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    0,
+    128,
+    58
+   ],
+   "en": "Speed Up",
+   "es": "Acelera",
+   "fuente": "times.ttf",
+   "alin": "centro",
+   "alto": 27,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     240,
+     250,
+     245
+    ],
+    "contorno": null,
+    "brillo": [
+     30,
+     170,
+     140
+    ]
+   }
+  }
+ ]
+}

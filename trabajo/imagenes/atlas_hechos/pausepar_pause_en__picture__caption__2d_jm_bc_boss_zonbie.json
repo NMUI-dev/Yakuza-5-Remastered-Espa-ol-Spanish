@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_pause_en/picture/caption/2d_jm_bc_boss_zonbie",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    308,
+    69,
+    725,
+    183
+   ],
+   "en": "ZOMBIES",
+   "ocr": "ZOMBIES",
+   "es": "ZOMBIS",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 413
+  }
+ ]
+}

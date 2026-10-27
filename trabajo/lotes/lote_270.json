@@ -1,0 +1,807 @@
+[
+{
+"id": 56016,
+"en": "Oh my, that long ago?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56017,
+"en": "Yeah. But I got the axe almost right away. Hehe.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56018,
+"en": "Oh my goodness.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56019,
+"en": "That's totally normal. Nagoya's a big city. Lots of folks must come from all over the place.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56020,
+"en": "No, not at all. People rarely come to Nagoya from elsewhere, and not many of us leave to go anyplace else.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56021,
+"en": "I see. Then outsiders must be rare.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56022,
+"en": "See what I mean?",
+"ctx": "diálogo uid0134002d + diálogo uid0134003b"
+},
+{
+"id": 56023,
+"en": "Nagoya can be a tough place for outsiders. Have you had a tough time here?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56024,
+"en": "Yeah, I definitely experienced that first-hand. But maybe it's because the people here have a real strong sense of hometown pride.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56025,
+"en": "Not at all. People downtown are all really nice to me. I'm greatly obliged to them.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56026,
+"en": "I suppose they would be. But you've been in Nagoya for fifteen years, you said? That practically makes you a local, Shinada-san!",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56027,
+"en": "Haha, that's good to hear!",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56028,
+"en": "There are many families who have lived here for generations, so I suppose it's natural we would seem insular.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56029,
+"en": "Makes sense. Come to think of it, there are tons of rich people here too! It's a different world than the one a broke guy like me lives in.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56030,
+"en": "That's only a small number of us. Not everyone in Nagoya is wealthy.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56031,
+"en": "Really? My image of Nagoya is one of glittering gold and in-your-face, gorgeous, rich people.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56032,
+"en": "I think you're talking about those gold rooftop shachihoko ornaments. The people, not so much!",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56033,
+"en": "Seeing the lady before me, I beg to differ.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56034,
+"en": "It doesn't bother me. I went through a lot, but this town has finally accepted me. I'm good.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56035,
+"en": "I'm happy to hear you say that! This city can be so unfriendly toward outsiders.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56036,
+"en": "I'm not sure I'd go that far.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56037,
+"en": "Including your family?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56038,
+"en": "My family is... not one of those, no.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56039,
+"en": "Then do you know any of those families? I don't hear other people describe things as insular much.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56040,
+"en": "This... This is a rather private matter. Do you mind not asking me about it?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56041,
+"en": "Oh, sorry about that. I was caught up in the conversation, that's all.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56042,
+"en": "Really? How come people don't leave Nagoya all that much? Nobody ever moves away to Tokyo or Osaka?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56043,
+"en": "No, everyone works for local businesses, so there's really no need to move elsewhere.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56044,
+"en": "Wow. That must make class reunions way easier, at least.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56045,
+"en": "Ahaha! I hadn't thought of that! I suppose you have a point.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56046,
+"en": "I haven't kept in touch with my old classmates at all, though. They've probably forgotten about me.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56047,
+"en": "Did you just... sigh? That's not like you. Is something the matter?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56048,
+"en": "My mother found out that I work here.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56049,
+"en": "Busted, huh? I hear that happens a lot. Lots of girls try to hide where they work, but most of them get found out eventually.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56050,
+"en": "Yes. My mother wasn't upset with me, but I still feel like I've done something to be ashamed of.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56051,
+"en": "So what? Being a hostess isn't unusual in this day and age. It's not the sort of thing you need to hide from your parents anymore.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56052,
+"en": "No, and I'm not overly concerned by it, either. But I feel guilty about having kept it a secret for so long.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56053,
+"en": "None of my other girlfriends are working, so I'd be somewhat ashamed if our neighbors found out.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56054,
+"en": "None of them? What do they all do?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56055,
+"en": "Housework and the like. The ones who are married are dedicated housewives, I imagine.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56056,
+"en": "Being rich sounds awesome! I wish I could live a life like that.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56057,
+"en": "Perhaps you should find yourself a benefactor, Shinada-san.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56058,
+"en": "Sure! I'd love the chance to freeload at some rich household.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56059,
+"en": "Well, a good many artists and musicians are invited to take up residence at wealthy estates.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56060,
+"en": "I'm... not exactly talented in those ways. My only redeeming quality is my hard-cut bod.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56061,
+"en": "Oh, but there are individuals who support athletes financially as well.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56062,
+"en": "Whoa, there are?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56063,
+"en": "Maybe not. I think I'd feel like a moocher. I'd rather make an honest living, even if it means being poor.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56064,
+"en": "That's just something normal people tell themselves in order to feel better. Wouldn't it be better to live in wealth and comfort?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56065,
+"en": "See, that's a tough call. I don't really think it's that simple.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56066,
+"en": "Do you think I should quit my job in consideration of what our neighbors may think?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56067,
+"en": "Yes. If it's going to be even somewhat problematic, you're better off quitting.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56068,
+"en": "You think so too, Shinada-san? All right. I'll discuss things with my mother.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56069,
+"en": "You can't! If you did that, I'd never get to see you again, Shion-chan.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56070,
+"en": "Hehe. Oh, you tell such pretty lies, Shinada-san. Thank you for the sentiment!",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56071,
+"en": "It's not a lie. I'm super into you!",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56072,
+"en": "What do you do at home? I guess when you're not at work, it's all free time?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56073,
+"en": "Oh, no. I have all sorts of lessons to take. They're harder than you might expect.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56074,
+"en": "That's work? Can't be.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56075,
+"en": "A proper woman must undergo domestic training. Otherwise, I'd never find a husband.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56076,
+"en": "But how the heck are you ever supposed to meet a guy? Why not get out there and find somebody?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56077,
+"en": "Oh, mine is sure to be an arranged marriage. It would be improper for me to seek out a partner on my own.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56078,
+"en": "Oh. Are you sure you'll be happy with that?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56079,
+"en": "How'd your secret get out, anyway?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56080,
+"en": "Ah. It's something of an embarrassing story.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56081,
+"en": "When I started work, they told me I needed to be financially independent from my parents for tax purposes. I avoided it for some time, but I finally told my mother.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56082,
+"en": "She asked me if I was working part-time somewhere, and I wound up telling her everything.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56083,
+"en": "You shot yourself in the foot. If you'd kept quiet, she'd never have known.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56084,
+"en": "I had to tell her to complete the process. Otherwise, it would have been tax evasion.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56085,
+"en": "Hmm. I guess if you needed the money, it couldn't be helped. Living at home can be really rough.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56086,
+"en": "Why not lie? You didn't have to tell her you were working anywhere.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56087,
+"en": "But wouldn't it be odd if I were making money without having a job?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56088,
+"en": "So think of a better lie. Even people in debt make up all sorts of lies to delay payments.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56089,
+"en": "You need to be able to pull that sort of thing off to become a proper adult, Shion-chan.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56090,
+"en": "Oh dear! I know it's wrong to deceive one's parents, but the thought alone is thrilling! How would I get money without working, indeed? The possibilities are intriguing.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56091,
+"en": "Heh. Just don't do it too much, or they'll never believe you again.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56092,
+"en": "Shinada-san? I'd like your advice on something.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56093,
+"en": "Ask away, m'lady!",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56094,
+"en": "It's... Well, it's something quite inappropriate for me to ask you about.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56095,
+"en": "What sort of thing?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56096,
+"en": "Don't worry. You can talk to me about anything.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56097,
+"en": "Oh, thank you so much! I knew you'd say that, Shinada-san!",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56098,
+"en": "Really? Hey cool, I'm glad you trust me.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56099,
+"en": "Employees from a big-name company in Nagoya are regulars at our club, and they had their year-end party the other day.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56100,
+"en": "The manager said we'd get a bonus if we went as companions to this event, and so a number of our girls did just that.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56101,
+"en": "Did you go too?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56102,
+"en": "Yes. It was a good chance to hand out my card.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56103,
+"en": "Haha, that's pretty clever!",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56104,
+"en": "I didn't know hostesses did that sort of thing. I've heard of buying out a club for a night, but sending girls off-site must make a lot of money.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56105,
+"en": "I'd never done it before, but our clients said they had money to burn. The club apparently made quite a profit.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56106,
+"en": "Hey, if there's money burning, send some my way instead!",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56107,
+"en": "So I met one of the directors at the company, and he was quite smitten with me.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56108,
+"en": "Hehe, way to go, Shion-chan! You know how to work people who have money, huh?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56109,
+"en": "Well, after we met outside the club a few times, he wound up proposing to me.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56110,
+"en": "Hot damn! That's a little fast, isn't it?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56111,
+"en": "Quite. I had no idea he'd been thinking of me like that, so it came as quite a shock!",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56112,
+"en": "What are you going to do? You didn't say yes to him, did you?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56113,
+"en": "Yet!? You mean you didn't turn him down on the spot?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56114,
+"en": "Hehe. You're quite perceptive, Shinada-san. But yes, this is why I'm somewhat troubled.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56115,
+"en": "You're going to turn him down though, right?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56116,
+"en": "...Are you thinking of saying yes?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56117,
+"en": "I'm still thinking it over. Maybe it would be best if I accepted.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56118,
+"en": "You have to turn him down. There's no way this will turn out well.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56119,
+"en": "How can you really be sure of that if you don't even know the gentleman?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56120,
+"en": "Oh, I know him alright. This guy is into hostesses. If he gets married, that's not going to stop. I guarantee you he's gonna be a cheater.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56121,
+"en": "Goodness, why would you jump to such a cynical conclusion? I thought you were better than that.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56122,
+"en": "There's nothing to suggest he'd make a poor husband, so I have no reason to tell him no.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56123,
+"en": "Isn't not loving him reason enough?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56124,
+"en": "In my world, arranged marriages are the norm. Few of us ever marry out of love.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56125,
+"en": "Have you talked to your family?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56126,
+"en": "Why not? This is a big deal. It's got to be too much to handle all on your own.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56127,
+"en": "If I tell my mother, she's certain to be in favor of the idea, and I can't go against anything she tells me to do.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56128,
+"en": "So, you're trying to decide for yourself. I guess there's not much I can tell you then.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56129,
+"en": "You're right. All I've done is trouble you. I'm sorry for even bringing up this conversation.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56130,
+"en": "Don't be silly! I'll always be here to support you, Shion-chan.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56131,
+"en": "Do you remember the client I talked to you about the other day?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56132,
+"en": "What about him?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56133,
+"en": "Who again? Sorry, I don't remember who you mean.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56134,
+"en": "You know, the businessman from that company that invited me to their year end party.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56135,
+"en": "Oh, that guy! What about him?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56136,
+"en": "I told my mother about his marriage proposal.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56137,
+"en": "Yes. At first she was pleased, but as I told her more about him, her disapproval grew.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56138,
+"en": "How come? Isn't this guy a big-shot at some huge corporation? I figured she'd be bouncing off her gilded rocker.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56139,
+"en": "She's actually worried because his family's social standing is too high for us.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56140,
+"en": "Oh wow! Ha, I didn't realize you rich folks had to consider that sort of thing for marriage.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56141,
+"en": "It's not just the marriage itself to consider. There will be problems down the line if the two families have to maintain a relationship.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56142,
+"en": "Things would get pretty tense, I bet.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56143,
+"en": "Sounds complicated. This is why I'm not down with getting married. Or being rich. Ha, just kidding, I'd still want to be rich.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56144,
+"en": "Oh, Shinada-san! I thought that the reason you hadn't gotten married was because you haven't found a fiancée!",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56145,
+"en": "Hey, that's got nothing to do with it!",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56146,
+"en": "Wait, are you seriously going to turn him down because of what your mother thinks?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56147,
+"en": "Because if my mother gives her blessing, I'll get married. And if she says no, then I can't.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56148,
+"en": "Ah, I see. But you need to turn him down pronto. You can't leave the guy hanging like this.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56149,
+"en": "I can't. I have yet to receive a direction from my mother.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56150,
+"en": "Okay, I get it. Then sounds like this conversation is over.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56151,
+"en": "It doesn't matter what I say. All you care about is what your mother thinks, so anything I suggest is about as useful as milkin' a monkey.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56152,
+"en": "I'm sorry, Shinada-san. This was quite improper of me.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56153,
+"en": "Apology accepted. Sometimes just having an ear to listen to your problems makes things seem not so bad. I'm always here if you need to talk to someone.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56154,
+"en": "You really have been a big help, Shinada-san.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56155,
+"en": "Hey, of course you're going to freak out about getting married. It's not a simple subject.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56156,
+"en": "You don't have to apologize. I just want to know what it is you want to do, not your mother.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56157,
+"en": "Stand up for yourself! Who's getting married here, anyway? You, or your mother?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56158,
+"en": "Well, I am, of course, but...",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56159,
+"en": "Then who cares about your family? Do what you want to do, and screw the rest.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56160,
+"en": "I can't do that. There's no point for me to get married if my mother isn't happy for me.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56161,
+"en": "I just don't get it. All I gotta say is, don't choose a path you're gonna end up regretting later. You'll, well, regret it.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56162,
+"en": "Because all I'm hearing about is what your mother wants. Sounds to me like an excuse to put off making a decision.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56163,
+"en": "You really are insightful, Shinada-san. It's a little disconcerting how well you know me.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56164,
+"en": "Heh, I've just got a knack for reading people. But if you really don't know, you should probably think about it a little harder.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56165,
+"en": "That's really weird. Why do your parents pick who you get married to?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56166,
+"en": "Arranged marriage is the norm here in Nagoya. In fact, it's somewhat strange that I'm the one telling my mother about the proposal.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56167,
+"en": "That's not normal at all. Sounds more like a feudal samurai clan than a family.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56168,
+"en": "Hm, perhaps so. I suppose women back in those times would have had thoughts similar to mine, no?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56169,
+"en": "Uh, yeah, definitely weird.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56170,
+"en": "Lately, I've been getting the feeling that somebody's following me.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56171,
+"en": "Wait, what!? Who?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56172,
+"en": "Seriously? What the heck makes you think that?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56173,
+"en": "Yeah, me! I've always got my eye on you, my darling Shion-chan!",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56174,
+"en": "Could you please not joke about this? I know it isn't you, Shinada-san.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56175,
+"en": "Sorry, sorry.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56176,
+"en": "Like I was saying, whenever I leave my house or the club, it feels like someone is watching me.",
+"ctx": "diálogo uid0134002d"
+}
+]

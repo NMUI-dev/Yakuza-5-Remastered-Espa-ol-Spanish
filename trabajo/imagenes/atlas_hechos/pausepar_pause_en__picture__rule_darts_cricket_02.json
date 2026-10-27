@@ -1,0 +1,223 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_darts_cricket_02",
+ "fuente": "verdana.ttf",
+ "margen": 0,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    330,
+    16,
+    695,
+    50
+   ],
+   "en": "CRICKET GAME RULE",
+   "es": "REGLAS DEL CRICKET",
+   "fuente": "verdana.ttf",
+   "alin": "centro",
+   "ancho_max": 359,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "margen": 0
+  },
+  {
+   "caja": [
+    406,
+    364,
+    621,
+    398
+   ],
+   "en": "Game Overview",
+   "es": "Resumen del juego",
+   "fuente": "verdana.ttf",
+   "alin": "centro",
+   "ancho_max": 211,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "margen": 0
+  },
+  {
+   "caja": [
+    146,
+    411,
+    760,
+    439
+   ],
+   "en": "Players try to hit numbers three times to close them.",
+   "es": "",
+   "fuente": "verdana.ttf",
+   "alin": "izq",
+   "ancho_max": 608,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "margen": 0,
+   "es_propuesto": "Hay que acertar tres veces un número para cerrarlo.",
+   "dejar": true
+  },
+  {
+   "caja": [
+    142,
+    440,
+    890,
+    466
+   ],
+   "en": "A scoreboard is used to show the number of hits for each number.",
+   "es": "",
+   "fuente": "verdana.ttf",
+   "alin": "izq",
+   "ancho_max": 742,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "margen": 0,
+   "es_propuesto": "Un marcador muestra el número de aciertos de cada número.",
+   "dejar": true
+  },
+  {
+   "caja": [
+    608,
+    118,
+    736,
+    140
+   ],
+   "en": "1 Hit",
+   "es": "",
+   "fuente": "verdana.ttf",
+   "alin": "centro",
+   "ancho_max": 122,
+   "efecto": "nada",
+   "color": [
+    40,
+    40,
+    40
+   ],
+   "margen": 0,
+   "dejar": true
+  },
+  {
+   "caja": [
+    608,
+    146,
+    736,
+    168
+   ],
+   "en": "2 Hits",
+   "es": "",
+   "fuente": "verdana.ttf",
+   "alin": "centro",
+   "ancho_max": 122,
+   "efecto": "nada",
+   "color": [
+    40,
+    40,
+    40
+   ],
+   "margen": 0,
+   "dejar": true
+  },
+  {
+   "caja": [
+    608,
+    174,
+    736,
+    196
+   ],
+   "en": "3 Hits",
+   "es": "",
+   "fuente": "verdana.ttf",
+   "alin": "centro",
+   "ancho_max": 122,
+   "efecto": "nada",
+   "color": [
+    40,
+    40,
+    40
+   ],
+   "margen": 0,
+   "dejar": true
+  },
+  {
+   "caja": [
+    163,
+    117,
+    274,
+    172
+   ],
+   "en": "DARTS (logo)",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    494,
+    259,
+    530,
+    283
+   ],
+   "en": "BULL",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    324,
+    311,
+    357,
+    332
+   ],
+   "en": "Player",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    623,
+    314,
+    691,
+    331
+   ],
+   "en": "Susumu Yamagata",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    295,
+    83,
+    379,
+    120
+   ],
+   "en": "STANDARD CRICKET",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    640,
+    88,
+    726,
+    106
+   ],
+   "en": "DARTS & RESULT",
+   "es": "",
+   "dejar": true
+  }
+ ]
+}

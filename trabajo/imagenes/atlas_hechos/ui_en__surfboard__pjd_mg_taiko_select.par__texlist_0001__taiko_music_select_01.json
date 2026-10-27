@@ -1,0 +1,236 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_taiko_select.par/texlist_0001/taiko_music_select_01",
+ "fuente": "segoeuib.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    912,
+    266,
+    949,
+    366
+   ],
+   "en": "eniro",
+   "ocr": "Nijiiro Yumeiro Taikoiro",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 33,
+   "dejar": true
+  },
+  {
+   "caja": [
+    544,
+    587,
+    1024,
+    672
+   ],
+   "en": "Select Song",
+   "ocr": "Select Song",
+   "es": "Elige una canción",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 464,
+   "margen": 8,
+   "estilo": {
+    "arriba": [
+     255,
+     70,
+     45
+    ],
+    "abajo": [
+     235,
+     35,
+     25
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     4
+    ],
+    "brillo": [
+     0,
+     0,
+     0
+    ]
+   },
+   "alto": 50
+  },
+  {
+   "caja": [
+    659,
+    94,
+    698,
+    362
+   ],
+   "en": "Mappy Medley",
+   "ocr": "Mappy Medley",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 35,
+   "dejar": true
+  },
+  {
+   "caja": [
+    719,
+    91,
+    764,
+    491
+   ],
+   "en": "Nijiro yumeiro Takiro",
+   "ocr": "Nijiiro Yumeiro Taikoiro",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 41,
+   "dejar": true
+  },
+  {
+   "caja": [
+    774,
+    89,
+    826,
+    486
+   ],
+   "en": "From the New World",
+   "ocr": "From the New World",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 48,
+   "dejar": true
+  },
+  {
+   "caja": [
+    836,
+    89,
+    887,
+    367
+   ],
+   "en": "Mappy Medley",
+   "ocr": "Mappy Medley",
+   "es": "",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 47,
+   "dejar": true
+  },
+  {
+   "caja": [
+    958,
+    92,
+    1003,
+    486
+   ],
+   "en": "From the New World",
+   "ocr": "From the New World",
+   "es": "",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 41,
+   "dejar": true
+  },
+  {
+   "caja": [
+    310,
+    129,
+    343,
+    253
+   ],
+   "en": "Easy",
+   "ocr": "WEasy",
+   "es": "",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 29,
+   "dejar": true
+  },
+  {
+   "caja": [
+    376,
+    150,
+    406,
+    286
+   ],
+   "en": "Normal",
+   "ocr": "Normaij",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 26,
+   "dejar": true
+  },
+  {
+   "caja": [
+    559,
+    683,
+    1006,
+    746
+   ],
+   "en": "Select Difficulty",
+   "ocr": "SelectDiffculty",
+   "es": "Elige dificultad",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 432,
+   "margen": 8,
+   "estilo": {
+    "arriba": [
+     255,
+     70,
+     45
+    ],
+    "abajo": [
+     235,
+     35,
+     25
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     4
+    ],
+    "brillo": [
+     0,
+     0,
+     0
+    ]
+   },
+   "alto": 50
+  },
+  {
+   "caja": [
+    329,
+    747,
+    356,
+    840
+   ],
+   "en": "Hard",
+   "ocr": "Ｈａrd",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 23,
+   "dejar": true
+  }
+ ]
+}

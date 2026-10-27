@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_pause_en/picture/head_pic/head_pic_mahjong_b",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    44,
+    14,
+    128,
+    51
+   ],
+   "en": "Medium",
+   "ocr": "Medium",
+   "es": "Media",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 80
+  }
+ ]
+}

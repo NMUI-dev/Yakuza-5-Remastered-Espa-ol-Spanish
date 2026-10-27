@@ -1,0 +1,44 @@
+{
+ "textura": "ui_en/surfboard/pjd_pause_another_04.par/texlist/2d_yk_pause_another_04",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    50,
+    226,
+    78
+   ],
+   "en": "The Cost of a Swing",
+   "ocr": "TheCostofaSwing",
+   "es": "El costo de un swing",
+   "fuente": "timesbi.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 222,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    276,
+    207,
+    512,
+    246
+   ],
+   "en": "TATSUO SHINADA",
+   "ocr": "TATSUO SHINADA",
+   "es": "",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 232,
+   "dejar": true
+  }
+ ]
+}

@@ -1,0 +1,967 @@
+[
+{
+"id": 44529,
+"en": "That's okay, Ashida-san. You're the exception.",
+"ctx": "diálogo uid010c0b81"
+},
+{
+"id": 44530,
+"en": "Heh. Thanks, Shinada. It was good to see you again after all this time. Take care.",
+"ctx": "diálogo uid010c0b81"
+},
+{
+"id": 44531,
+"en": "Yeah, you too.",
+"ctx": "diálogo uid010c0b81"
+},
+{
+"id": 44532,
+"en": "I'm sorry! I can do better, I swear!",
+"ctx": "diálogo uid010c0b81"
+},
+{
+"id": 44533,
+"en": "It's not your fault, Shinada. It wasn't because you couldn't hit. I just couldn't pitch you anything good.",
+"ctx": "diálogo uid010c0b81"
+},
+{
+"id": 44534,
+"en": "But you still have regrets about retiring. Why give up just based on this?",
+"ctx": "diálogo uid010c0b81"
+},
+{
+"id": 44535,
+"en": "Because that's how I made up my mind. Gotta make a decision\nsomehow, so... There's no need for you to apologize.",
+"ctx": "diálogo uid010c0b81"
+},
+{
+"id": 44536,
+"en": "Ashida-san...",
+"ctx": "diálogo uid010c0b81"
+},
+{
+"id": 44537,
+"en": "I'm sorry for dragging you into this. But it's all over now.",
+"ctx": "diálogo uid010c0b81"
+},
+{
+"id": 44538,
+"en": "At my age, coming back as a batting pitcher was always a long shot. I knew that, but I let myself dream.",
+"ctx": "diálogo uid010c0b81"
+},
+{
+"id": 44539,
+"en": "I should have realized long ago that the game has passed me by.",
+"ctx": "diálogo uid010c0b81"
+},
+{
+"id": 44540,
+"en": "I don't care what anyone says, you were always the greatest batting pitcher... No, not \"were.\" You still are.",
+"ctx": "diálogo uid010c0b81"
+},
+{
+"id": 44541,
+"en": "Even if you were to deny it yourself, you can't change my mind.",
+"ctx": "diálogo uid010c0b81"
+},
+{
+"id": 44542,
+"en": "It's all right, Shinada. It's over. But thanks.",
+"ctx": "diálogo uid010c0b81"
+},
+{
+"id": 44543,
+"en": "It was good to see you after all this time. That makes this visit worthwhile. Take care.",
+"ctx": "diálogo uid010c0b81"
+},
+{
+"id": 44544,
+"en": "(Ashida-san... Thank you for everything you've done!)",
+"ctx": "diálogo uid010c0b81"
+},
+{
+"id": 44545,
+"en": "Hey there, awesome batter man.",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44546,
+"en": "Kotetsu. How many times are you gonna pop outta nowhere?",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44547,
+"en": "As many times as it takes! Now, let's have you take on Mikasa-kun again. Ten pitches each, get the most hits to win.",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44548,
+"en": "I'll go up first again.",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44549,
+"en": "Okay, going in. Thanks again for doing this!",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44550,
+"en": "Whew... Seven hits... Thought I could do better.",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44551,
+"en": "Tie goes to Mikasa, right? That means I need eight to win.",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44552,
+"en": "Okay! Time to show my stuff!",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44553,
+"en": "(There's a diligent kid. Swinging pretty good, too.)",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44554,
+"en": "Uh... Did you want something?",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44555,
+"en": "No, you just look like you're training hard. What team are you on?",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44556,
+"en": "I'm a freshman at Kinei High. I've always wanted to practice against a pitching machine, but I can't afford it.",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44557,
+"en": "Hah, as much as I'd like to treat you to a round, I don't have any spare cash, either.",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44558,
+"en": "Then allow me to do the honors.",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44559,
+"en": "Oh, hey! The guy with the blog!",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44560,
+"en": "Oh, what's up, Kotetsu?",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44561,
+"en": "I'm actually a Kinei High grad. I was on their baseball team, too.",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44562,
+"en": "The kid's Mikasa-kun. He's a freshman, but with big hopes on him⑬he's already batting leadoff. How'd you like to square off against him?",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44563,
+"en": "And just how do you suggest I go about doing that?",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44564,
+"en": "Base it on batting average. You both go up against the same pitching machine for ten throws each. Whoever gets the most hits wins.",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44565,
+"en": "From what I hear, Mikasa-kun has an on-base percentage that's out of this world. I think it could be a good match.",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44566,
+"en": "All so you can blog about it?",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44567,
+"en": "What, I see no harm in that. I am paying for the both of you. But my offer's null and void if you don't play, though.",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44568,
+"en": "Could I ask you to play, too? Going against a machine would sure be a lot nicer than swinging around my bat all day.",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44569,
+"en": "And I just realized! You're the awesome batter Kotetsu-san writes about on his blog! I would love to watch and learn from seeing how you bat.",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44570,
+"en": "Man... That's pretty flattering to hear in this day and age. How can I say no?",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44571,
+"en": "Good, so it's on. Let's have Mikasa-kun go first.",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44572,
+"en": "Ten pitches, then?",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44573,
+"en": "By the way, Mikasa-kun, what's your usual batting average?",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44574,
+"en": "A little over five hundred. But against a pitching machine, I should do even better.",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44575,
+"en": "Kinei High's pride is on the line. Don't you go losing, now!",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44576,
+"en": "Yes, sir! I'll do my best.",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44577,
+"en": "So I gotta hit at least eight to win?",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44578,
+"en": "Yep. If it's a draw, Mikasa gets the win. Is that okay with you?",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44579,
+"en": "Sure, whatever. I mean, what's in it for me if I win?",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44580,
+"en": "Nothing. Of course, if you were to lose, that news will be broadcast all over the world from my blog.",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44581,
+"en": "Heh, I get it. Then I better not screw up.",
+"ctx": "diálogo uid010c0b86"
+},
+{
+"id": 44582,
+"en": "...So it turns out my arm will be just fine. The doctor said there wasn't any bone damage. All I have to do is rest up for a while, and I can go back to playing.",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44583,
+"en": "That's great to hear. You had me pretty worried.",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44584,
+"en": "If you hadn't come by, I don't want to think about how it would've ended. We seriously can't thank you enough.",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44585,
+"en": "Heh, well, when you get healthy enough to hold a bat again, you should come back. You need to train for those nationals, right?",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44586,
+"en": "Will you let me challenge you again?",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44587,
+"en": "Sure. Whenever you like.",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44588,
+"en": "Oh, by the way, my teammates gave me something for you.",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44589,
+"en": "They thought you should have this.",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44590,
+"en": "Heh, and I assume those boys had enough of partying with random girls?",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44591,
+"en": "I would hope so. They said they'll concentrate on training like never before.",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44592,
+"en": "How about that? Maybe this all worked out for the best. I'll expect big things from you in the spring.",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44593,
+"en": "Then I'll be sure not to let you down! Thank you again!",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44594,
+"en": "There! Done!",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44595,
+"en": "Wow... That was something else. You really are an amazing batter.",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44596,
+"en": "Yep, I've got an eye for these things, after all.",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44597,
+"en": "Heh, you're so full of it.",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44598,
+"en": "Full of win, I think you mean! Anyway, I have to write this up, so, gotta jet!",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44599,
+"en": "He really is obsessed with that blog of his, isn't he?",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44600,
+"en": "Maybe 'cause he found a really awesome batter? After seeing you put in work out there, I know I need to train a lot harder.",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44601,
+"en": "Gee, you're dedicated. Wait a second, didn't Kinei High do pretty good at the fall regionals a little while ago?",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44602,
+"en": "Yeah. We have a pretty good shot at making it to Koshien for the spring nationals. That's why I've been going at it so hard.",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44603,
+"en": "Oh, yeah, the spring nationals... I guess it would be around the end of next month when the team selections are announced?",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44604,
+"en": "Yup. Our teachers are saying we should have a good team going in. As long as there're no hiccups, we basically have it in the bag.",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44605,
+"en": "*beeeeep*",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44606,
+"en": "Oh, sorry, it's my phone.",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44607,
+"en": "Hello? It's Mikasa. Oh, Koichi? Yeah. Uh-huh?",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44608,
+"en": "What!? Why the heck... Are you serious!?",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44609,
+"en": "(Sounds like trouble.)",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44610,
+"en": "Okay, got it. The parking lot on Goshiki Street. I'm on my way!",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44611,
+"en": "What's up? Anything the matter?",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44612,
+"en": "No! Nothing! I'm sorry, I have to go!",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44613,
+"en": "(That sure didn't seem like nothing... It was the parking lot on Goshiki Street, right? Better go see what's going on.)",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44614,
+"en": "Gah! Couldn't do it!",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44615,
+"en": "Well, that was disappointing. Or maybe Mikasa-kun's just that good.",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44616,
+"en": "Oh, I don't know about that...",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44617,
+"en": "If you'd like, we could do this again. This could be an interesting bit for my blog.",
+"ctx": "diálogo uid010c0b91"
+},
+{
+"id": 44618,
+"en": "Okay, we got it! We won't mess with Kinei High's team again! Let us go!",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44619,
+"en": "Oh man... You really saved our hides just now!",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44620,
+"en": "Mikasa-kun. You need to see a doctor, now.",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44621,
+"en": "If there's any bone damage, you might not heal up in time for Koshien.",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44622,
+"en": "What're we gonna do, dude? If we don't do something, our guys are gonna get it for sure...",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44623,
+"en": "How'd they get into this mess in the first place?",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44624,
+"en": "They just went out with some girls. But it turns out one of them was the girlfriend of a gang leader. And he found out.",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44625,
+"en": "What are they thinking at a time like this?",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44626,
+"en": "Oh damn, he's pulling out a bat!",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44627,
+"en": "You little shit. You banged Misato, didn't you? Be honest now.",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44628,
+"en": "I didn't! Honestly, nothing like that ever happened!",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44629,
+"en": "You lying fuck! Misato told me the whole story! Don't try to weasel your way out of this!",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44630,
+"en": "Look, I didn't know she had a boyfriend! I'm sorry! Really!",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44631,
+"en": "You're the baseball team's ace, aren't you? I'm busting your hand for what you did. Bet it felt good squeezing Misato's titties!",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44632,
+"en": "No! Please, not that. Anything but that!",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44633,
+"en": "We have to stop them.",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44634,
+"en": "We can't take that many on! Besides, we're screwed either way. If they find out we were fighting, we'll be banned from Koshien!",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44635,
+"en": "Then we don't fight. But we have to save our guys.",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44636,
+"en": "Stop! Please, no more. Don't do this to them.",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44637,
+"en": "Mikasa!?",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44638,
+"en": "Who the fuck are you?",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44639,
+"en": "Please, just let our teammates go. They said they're sorry.",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44640,
+"en": "A little late for \"sorry,\" asshole! Shoulda minded your own\ndamn business!",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44641,
+"en": "Argh! ...My arm!",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44642,
+"en": "Dude, are you all right!?",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44643,
+"en": "Hehehe, I know all about you little schoolboys. Get involved in any violence, and you can kiss your Koshien dreams goodbye.",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44644,
+"en": "So you can't take a swing at us, and you can't even call the cops because you don't want the attention.",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44645,
+"en": "Meaning we can do whatever we want, and you bitches have to suck it up and take it!",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44646,
+"en": "Hey. You guys need to stop. Now.",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44647,
+"en": "How's that arm, Mikasa-kun?",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44648,
+"en": "I... I don't know.",
+"ctx": "diálogo uid010c0b96 + diálogo uid0134002d"
+},
+{
+"id": 44649,
+"en": "Get lost, geezer. You feel like getting your ass kicked, too?",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44650,
+"en": "Not in particular. But I don't like what I'm seeing here. I used to play high school ball myself.",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44651,
+"en": "Then fuck you too. It's these assholes' fault for messing with my girl.",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44652,
+"en": "And that gives you the right to beat on them? I don't think so.",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44653,
+"en": "That's it. I gave you a chance to walk away. Now you're gonna get shit-kicked with the rest of 'em!",
+"ctx": "diálogo uid010c0b96"
+},
+{
+"id": 44654,
+"en": "(The dojo seems to be doin' well. Should be okay now.)",
+"ctx": "diálogo uid010c0bbe"
+},
+{
+"id": 44655,
+"en": "(Dunno when I'll see ya again, but hang tough, Sodachi. Keep the place goin'.)",
+"ctx": "diálogo uid010c0bbe"
+},
+{
+"id": 44656,
+"en": "(This place...)",
+"ctx": "diálogo uid010c0bbe"
+},
+{
+"id": 44657,
+"en": "(It's Sodachi Dojo, where I used to teach. Haven't seen the students or the dojo master, Sodachi, in a long while...)",
+"ctx": "diálogo uid010c0bbe"
+},
+{
+"id": 44658,
+"en": "(Who knows when I'll have another chance to see 'em again? I should drop in and say hello.)",
+"ctx": "diálogo uid010c0bbe"
+},
+{
+"id": 44659,
+"en": "Argghh! You remain the master, Saejima-san. You haven't lost your edge at all.",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44660,
+"en": "The edge is a little dull, but I keep the rust off. So, ya learn anythin'?",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44661,
+"en": "*pant* Not bad.",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44662,
+"en": "Look at you, Saejima-san. You took all of us on and held your own. I doubt anyone can beat you.",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44663,
+"en": "Yes! Thank you for the lesson!",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44664,
+"en": "Good, happy to hear it. Now, I gotta go.",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44665,
+"en": "Already? It would be nice if you could stay longer.",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44666,
+"en": "Haven't got much time, actually.",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44667,
+"en": "Don't worry about it. You take care.",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44668,
+"en": "You take care as well. I'll be here, so please drop by anytime. The students are always glad to see you.",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44669,
+"en": "Maybe... you could even train them...",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44670,
+"en": "No, don't count on that. I don't even know when I can make it out here again.",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44671,
+"en": "Oh... Are you going away somewhere?",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44672,
+"en": "Ya might say that. So try not to let the dojo go under while I'm gone.",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44673,
+"en": "Of course! I've committed to making both myself and the dojo stronger!",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44674,
+"en": "We will see you again some day, right?",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44675,
+"en": "Please try your best to come back! I might actually give you a challenge next time!",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44676,
+"en": "Sodachi Dojo's three principles!",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44677,
+"en": "One! What can be done today must be done by tomorrow at the latest!",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44678,
+"en": "Two! If it can't be done tomorrow, get it done the day after tomorrow for sure!",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44679,
+"en": "Three! If the day after tomorrow isn't possible, then really make sure that by the next⑬ Hm?",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44680,
+"en": "It's been so long, Saejima-san! Do you remember me? It's Sodachi! Wow, I remember back when you taught here. That was huge for us.",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44681,
+"en": "Yeah, it's been a while, Sodachi. Seems ya got a lot of students.",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44682,
+"en": "Oh, yes indeed. Your lessons made our boys tough, and our reputation started to spread. Everyone wants in, now.",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44683,
+"en": "Would you believe this? We're actually starting to make a little money. Hehe, it's yakiniku for me every night.",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44684,
+"en": "Eat some vegetables, too, eh? Still, good to hear the place is makin' it as a viable business.",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44685,
+"en": "There's so much to talk about. We should have tea! Do you have a little time?",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44686,
+"en": "...I see. A lot's happened.",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44687,
+"en": "Oh, yes. The five students you taught have all gone on to become successful in each of their fields.",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44688,
+"en": "And they're all still active in martial arts.",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44689,
+"en": "Good to hear. Makes it all worthwhile.",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44690,
+"en": "Yeah... Say, Saejima-san... Might I trouble you to conduct a session with our new students?",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44691,
+"en": "What, train them?",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44692,
+"en": "Yes. Every student you traded blows with made incredible gains.",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44693,
+"en": "If you could impart your teachings and passion to our new students, I'm sure it will spur great growth.",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44694,
+"en": "Master Saejima! Please teach us!",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44695,
+"en": "Well... All right. Just this once.",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44696,
+"en": "Thank you so much! Okay, everyone get ready!",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44697,
+"en": "Now, shall we?",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44698,
+"en": "What, you're fightin', too?",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44699,
+"en": "Of course. I need to set an example, don't I?",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44700,
+"en": "You should know... I've made some progress, too. Don't underestimate me!",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44701,
+"en": "Well. That, I gotta see.",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44702,
+"en": "Hehe. I'm really looking forward to this. No holding back, now!",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44703,
+"en": "Sure. All of ya, come at me together.",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44704,
+"en": "All right! Come on, warriors! We'll show this guy what's what!",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44705,
+"en": "Huh? Uh, yes, sir!",
+"ctx": "diálogo uid010c0bc5"
+},
+{
+"id": 44706,
+"en": "(Sodachi's turned into a proper dojo master. He'll keep the place safe. I'm countin' on ya, Sodachi.)",
+"ctx": "diálogo uid010c0be1"
+},
+{
+"id": 44707,
+"en": "(Been a while. I wonder how Sodachi's doin'. Maybe I'll drop in on him.)",
+"ctx": "diálogo uid010c0be1"
+},
+{
+"id": 44708,
+"en": "Urrggh...",
+"ctx": "diálogo uid010c0be1"
+},
+{
+"id": 44709,
+"en": "(That's a Sodachi Dojo uniform!)",
+"ctx": "diálogo uid010c0be1"
+},
+{
+"id": 44710,
+"en": "Hey! What happened to ya?",
+"ctx": "diálogo uid010c0be1"
+},
+{
+"id": 44711,
+"en": "(Trouble? Gotta get to the dojo now!)",
+"ctx": "diálogo uid010c0be1"
+},
+{
+"id": 44712,
+"en": "How did you do that? How strong can one man be?",
+"ctx": "diálogo uid010c0bf8"
+},
+{
+"id": 44713,
+"en": "Don't worry. You're about to find out.",
+"ctx": "diálogo uid010c0bf8"
+},
+{
+"id": 44714,
+"en": "Uh, looks like the gym project's delayed, indefinitely! Sorry to bother you gentlemen!",
+"ctx": "diálogo uid010c0bf8"
+},
+{
+"id": 44715,
+"en": "Sodachi!",
+"ctx": "diálogo uid010c0bf8"
+},
+{
+"id": 44716,
+"en": "Hey! Hang in there!",
+"ctx": "diálogo uid010c0bf8"
+},
+{
+"id": 44717,
+"en": "Saejima-san... I bit off a lot more than I can chew...",
+"ctx": "diálogo uid010c0bf8"
+},
+{
+"id": 44718,
+"en": "But it's okay. I just hope that when I'm reborn... I'll come back as someone who's as strong and cool as you...",
+"ctx": "diálogo uid010c0bf8"
+},
+{
+"id": 44719,
+"en": "Quit spoutin' nonsense! Talkin' ain't gonna help your injuries.",
+"ctx": "diálogo uid010c0bf8"
+},
+{
+"id": 44720,
+"en": "Please... tell the students... that they should carry on. And... and...",
+"ctx": "diálogo uid010c0bf8"
+},
+{
+"id": 44721,
+"en": "And...? What is it, Sodachi?",
+"ctx": "diálogo uid010c0bf8"
+}
+]

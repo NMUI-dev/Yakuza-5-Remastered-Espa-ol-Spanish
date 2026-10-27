@@ -1,0 +1,22 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_sa6",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    38,
+    185,
+    464,
+    240
+   ],
+   "en": "shut up and eat!",
+   "ocr": "Shut up @nd",
+   "es": "¡Cállate y come!",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro"
+  }
+ ]
+}

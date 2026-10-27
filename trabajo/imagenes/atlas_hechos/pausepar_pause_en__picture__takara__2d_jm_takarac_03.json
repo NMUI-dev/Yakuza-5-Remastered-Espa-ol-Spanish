@@ -1,0 +1,122 @@
+{
+ "textura": "pausepar_pause_en/picture/takara/2d_jm_takarac_03",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    19,
+    54,
+    109,
+    71
+   ],
+   "en": "nt before deciding",
+   "ocr": "ntbcfore deciding",
+   "es": "no antes de decidir",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 90,
+   "dejar": true
+  },
+  {
+   "caja": [
+    21,
+    66,
+    85,
+    83
+   ],
+   "en": "being moved",
+   "ocr": "being moved",
+   "es": "ser movido",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 64,
+   "dejar": true
+  },
+  {
+   "caja": [
+    24,
+    101,
+    52,
+    119
+   ],
+   "en": "road",
+   "ocr": "road",
+   "es": "calle",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 28,
+   "dejar": true
+  },
+  {
+   "caja": [
+    24,
+    114,
+    68,
+    130
+   ],
+   "en": "a while.",
+   "ocr": "awhile.",
+   "es": "un rato.",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 44,
+   "dejar": true
+  },
+  {
+   "caja": [
+    24,
+    139,
+    97,
+    154
+   ],
+   "en": "sheltered from",
+   "ocr": "shcltered trom",
+   "es": "protegido de",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 73,
+   "dejar": true
+  },
+  {
+   "caja": [
+    24,
+    150,
+    115,
+    167
+   ],
+   "en": "d I began heading",
+   "ocr": "dIbeganheading",
+   "es": "y comencé a dirigirme",
+   "fuente": "times.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 91,
+   "dejar": true
+  },
+  {
+   "caja": [
+    25,
+    186,
+    93,
+    204
+   ],
+   "en": "ng to my left.",
+   "ocr": "ngto myleft.",
+   "es": "hacia mi izquierda.",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 68,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: lo hace el PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

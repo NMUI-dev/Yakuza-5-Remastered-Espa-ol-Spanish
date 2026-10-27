@@ -1,0 +1,358 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_ramen.par/texlist/2d_yk_ramen00",
+ "fuente": "times.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    298,
+    39,
+    400,
+    63
+   ],
+   "en": "Dunk",
+   "es": "Crudo",
+   "fuente": "verdanai.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 98
+  },
+  {
+   "caja": [
+    400,
+    39,
+    502,
+    63
+   ],
+   "en": "Hard",
+   "es": "Duro",
+   "fuente": "verdanai.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 98
+  },
+  {
+   "caja": [
+    502,
+    39,
+    604,
+    63
+   ],
+   "en": "Reg.",
+   "es": "Normal",
+   "fuente": "verdanai.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 98
+  },
+  {
+   "caja": [
+    604,
+    39,
+    706,
+    63
+   ],
+   "en": "Soft",
+   "es": "Blando",
+   "fuente": "verdanai.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 98
+  },
+  {
+   "caja": [
+    706,
+    39,
+    808,
+    63
+   ],
+   "en": "Very Soft",
+   "es": "Muy blando",
+   "fuente": "verdanai.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 98
+  },
+  {
+   "caja": [
+    298,
+    63,
+    400,
+    87
+   ],
+   "en": "Overcooked",
+   "es": "Pasado",
+   "fuente": "verdanai.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 98
+  },
+  {
+   "caja": [
+    400,
+    63,
+    502,
+    87
+   ],
+   "en": "Very Hard",
+   "es": "Muy duro",
+   "fuente": "verdanai.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 98
+  },
+  {
+   "caja": [
+    827,
+    58,
+    910,
+    79
+   ],
+   "en": "Succeeded",
+   "es": "Logrado",
+   "fuente": "verdana.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 79
+  },
+  {
+   "caja": [
+    629,
+    118,
+    676,
+    156
+   ],
+   "en": "Very Soft",
+   "es": "Muy blando",
+   "fuente": "verdana.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 45,
+   "alto": 10
+  },
+  {
+   "caja": [
+    629,
+    186,
+    676,
+    210
+   ],
+   "en": "Soft",
+   "es": "Blando",
+   "fuente": "verdana.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 45,
+   "alto": 10
+  },
+  {
+   "caja": [
+    629,
+    253,
+    676,
+    274
+   ],
+   "en": "Reg.",
+   "es": "Normal",
+   "fuente": "verdana.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 45,
+   "alto": 10
+  },
+  {
+   "caja": [
+    629,
+    322,
+    676,
+    348
+   ],
+   "en": "Hard",
+   "es": "Duro",
+   "fuente": "verdana.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 45,
+   "alto": 10
+  },
+  {
+   "caja": [
+    629,
+    389,
+    676,
+    432
+   ],
+   "en": "Very Hard",
+   "es": "Muy duro",
+   "fuente": "verdana.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 45,
+   "alto": 10
+  },
+  {
+   "caja": [
+    629,
+    458,
+    676,
+    484
+   ],
+   "en": "Dunk",
+   "es": "Crudo",
+   "fuente": "verdana.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 45,
+   "alto": 10
+  },
+  {
+   "caja": [
+    4,
+    104,
+    510,
+    172
+   ],
+   "en": "Turnover rate increased!",
+   "es": "¡Aumentó la rotación!",
+   "fuente": "timesbi.ttf",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 502,
+   "alto": 43,
+   "radio": 3
+  },
+  {
+   "caja": [
+    4,
+    177,
+    510,
+    241
+   ],
+   "en": "Turnover rate increased!",
+   "es": "¡Aumentó la rotación!",
+   "fuente": "timesbi.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 502
+  },
+  {
+   "caja": [
+    4,
+    241,
+    510,
+    302
+   ],
+   "en": "Turnover rate increased!",
+   "es": "¡Aumentó la rotación!",
+   "fuente": "timesi.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 502
+  },
+  {
+   "caja": [
+    423,
+    437,
+    511,
+    463
+   ],
+   "en": "in a row",
+   "es": "seguidos",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 84
+  },
+  {
+   "caja": [
+    771,
+    86,
+    800,
+    226
+   ],
+   "en": "Overcooked",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 25,
+   "dejar": true
+  },
+  {
+   "caja": [
+    802,
+    99,
+    839,
+    213
+   ],
+   "en": "Very Soft",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 33,
+   "dejar": true
+  },
+  {
+   "caja": [
+    947,
+    96,
+    981,
+    215
+   ],
+   "en": "Very Hard",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 30,
+   "dejar": true
+  },
+  {
+   "caja": [
+    875,
+    124,
+    909,
+    182
+   ],
+   "en": "Reg.",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 30,
+   "dejar": true
+  },
+  {
+   "caja": [
+    912,
+    121,
+    945,
+    187
+   ],
+   "en": "Hard",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 29,
+   "dejar": true
+  },
+  {
+   "caja": [
+    987,
+    124,
+    1015,
+    190
+   ],
+   "en": "Dunk",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 24,
+   "dejar": true
+  }
+ ]
+}

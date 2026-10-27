@@ -1,0 +1,39 @@
+{
+ "textura": "pausepar_pause_en/picture/caption/2d_jm_ac_l_daisankouen",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    274,
+    26,
+    750,
+    108
+   ],
+   "en": "HEAD FOR",
+   "ocr": "HEAD FOR",
+   "es": "VE A",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 476,
+   "alto": 60
+  },
+  {
+   "caja": [
+    161,
+    108,
+    864,
+    234
+   ],
+   "en": "PUBLIC PARK 3",
+   "ocr": "PUBLIC PARK 3",
+   "es": "PARQUE PÚBLICO 3",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 703
+  }
+ ]
+}

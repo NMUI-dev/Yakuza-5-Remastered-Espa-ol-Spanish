@@ -1,0 +1,296 @@
+{
+ "textura": "ui_en/surfboard/pjd_levelup.par/texlist_0001/2d_jm_levelup03",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    0,
+    0,
+    512,
+    34
+   ],
+   "en": "Durability improved slightly",
+   "es": "Durabilidad mejorada ligeramente",
+   "fuente": "verdana.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 500,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     60,
+     200,
+     200
+    ]
+   }
+  },
+  {
+   "caja": [
+    0,
+    34,
+    512,
+    68
+   ],
+   "en": "Durabilty will not decrease while guarding",
+   "es": "La durabilidad no disminuirá al usar la guardia",
+   "fuente": "verdana.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 500,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     60,
+     200,
+     200
+    ]
+   }
+  },
+  {
+   "caja": [
+    0,
+    68,
+    512,
+    102
+   ],
+   "en": "Attack power improved",
+   "es": "Poder de ataque mejorado",
+   "fuente": "verdana.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 500,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     60,
+     200,
+     200
+    ]
+   }
+  },
+  {
+   "caja": [
+    0,
+    102,
+    512,
+    136
+   ],
+   "en": "Repair kit effect improved",
+   "es": "Efecto del kit de reparación mejorado",
+   "fuente": "verdana.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 500,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     60,
+     200,
+     200
+    ]
+   }
+  },
+  {
+   "caja": [
+    0,
+    136,
+    512,
+    170
+   ],
+   "en": "Durability improved",
+   "es": "Durabilidad mejorada",
+   "fuente": "verdana.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 500,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     60,
+     200,
+     200
+    ]
+   }
+  },
+  {
+   "caja": [
+    0,
+    170,
+    512,
+    204
+   ],
+   "en": "Repair kit effect improved",
+   "es": "Efecto del kit de reparación mejorado",
+   "fuente": "verdana.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 500,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     60,
+     200,
+     200
+    ]
+   }
+  },
+  {
+   "caja": [
+    0,
+    204,
+    512,
+    238
+   ],
+   "en": "Durability improved",
+   "es": "Durabilidad mejorada",
+   "fuente": "verdana.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 500,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     60,
+     200,
+     200
+    ]
+   }
+  },
+  {
+   "caja": [
+    0,
+    238,
+    512,
+    272
+   ],
+   "en": "Attack power improved",
+   "es": "Poder de ataque mejorado",
+   "fuente": "verdana.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 500,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     60,
+     200,
+     200
+    ]
+   }
+  },
+  {
+   "caja": [
+    0,
+    272,
+    512,
+    306
+   ],
+   "en": "Weapon's Heat cost decreased",
+   "es": "Costo de Heat del arma reducido",
+   "fuente": "verdana.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 500,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     60,
+     200,
+     200
+    ]
+   }
+  }
+ ]
+}

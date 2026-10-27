@@ -1,0 +1,53 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_roulette.par/texlist/2d_yk_mg_roulette02",
+ "fuente": "georgiaz.ttf",
+ "margen": 0,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    0,
+    115,
+    512,
+    204
+   ],
+   "en": "Survival",
+   "ocr": "Survival",
+   "es": "Supervivencia",
+   "fuente": "georgiaz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 508
+  },
+  {
+   "caja": [
+    0,
+    211,
+    512,
+    300
+   ],
+   "en": "Dealer Mode",
+   "ocr": "Dealer Mode",
+   "es": "Modo crupier",
+   "fuente": "georgiaz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 508
+  },
+  {
+   "caja": [
+    2,
+    29,
+    512,
+    91
+   ],
+   "en": "Play Head-to-Head",
+   "ocr": "Play Head-to-Head",
+   "es": "Jugar cara a cara",
+   "fuente": "georgiaz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 506
+  }
+ ]
+}

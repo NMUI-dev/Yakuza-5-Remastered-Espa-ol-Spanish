@@ -1,0 +1,1047 @@
+[
+{
+"id": 30139,
+"en": "Oh, sorry! I was just looking for someone. He comes to these sorts of places a lot.",
+"ctx": "diálogo uid0046001c"
+},
+{
+"id": 30140,
+"en": "Oh, that's not right. A young girl like you shouldn't be hanging around a man like that.",
+"ctx": "diálogo uid0046001c"
+},
+{
+"id": 30141,
+"en": "For instance, there's this one strange man who comes by, still dressed in his taxi driver's uniform. You wouldn't want to run into someone like that, would you?",
+"ctx": "diálogo uid0046001c"
+},
+{
+"id": 30142,
+"en": "I'm good for now.",
+"ctx": "diálogo uid0046001d + diálogo uid0046001e"
+},
+{
+"id": 30143,
+"en": "Okay. Come back anytime!",
+"ctx": "diálogo uid0046001d"
+},
+{
+"id": 30144,
+"en": "Guess I wanna hit up a cabaret club. I could use drinkin' and conversation.",
+"ctx": "diálogo uid0046001d"
+},
+{
+"id": 30145,
+"en": "Ah, then I know just the place. I highly recommend Rose Hip!",
+"ctx": "diálogo uid0046001d"
+},
+{
+"id": 30146,
+"en": "What sorta place is it?",
+"ctx": "diálogo uid0046001d"
+},
+{
+"id": 30147,
+"en": "It's over on Lavender Street. The interior is a little on the dark side, and the seating areas are all partitioned off from one another.",
+"ctx": "diálogo uid0046001d"
+},
+{
+"id": 30148,
+"en": "It's perfectly suited for spending quality one-on-one time.",
+"ctx": "diálogo uid0046001d"
+},
+{
+"id": 30149,
+"en": "Let's go then.",
+"ctx": "diálogo uid0046001d"
+},
+{
+"id": 30150,
+"en": "Sir, you appear to have some company with you already.",
+"ctx": "diálogo uid0046001d"
+},
+{
+"id": 30151,
+"en": "Ah, yeah, that's right. Sorry 'bout that. I'll come back later.",
+"ctx": "diálogo uid0046001d"
+},
+{
+"id": 30152,
+"en": "Hello, this is Arai from Tsukimino Guide.",
+"ctx": "diálogo uid0046001d"
+},
+{
+"id": 30153,
+"en": "(Damn. Ain't got the cash.)",
+"ctx": "diálogo uid0046001d"
+},
+{
+"id": 30154,
+"en": "Hold that thought. I gotta come back later.",
+"ctx": "diálogo uid0046001d"
+},
+{
+"id": 30155,
+"en": "Makes sense. Guys who get out more got a lot more stuff to talk about.",
+"ctx": "diálogo uid0046001d"
+},
+{
+"id": 30156,
+"en": "Ya mean like orderin' more pricey drinks?",
+"ctx": "diálogo uid0046001d"
+},
+{
+"id": 30157,
+"en": "No one likes a cheapskate, huh.",
+"ctx": "diálogo uid0046001d"
+},
+{
+"id": 30158,
+"en": "So if you're good at talkin', ya don't need to spend as much money. That it?",
+"ctx": "diálogo uid0046001d"
+},
+{
+"id": 30159,
+"en": "Yeah, I hear ya.",
+"ctx": "diálogo uid0046001d"
+},
+{
+"id": 30160,
+"en": "S'pose that's true.",
+"ctx": "diálogo uid0046001d"
+},
+{
+"id": 30161,
+"en": "Alright. You've been a lotta help. Thanks.",
+"ctx": "diálogo uid0046001d"
+},
+{
+"id": 30162,
+"en": "But askin' a girl out doesn't mean she's always gonna say yes.",
+"ctx": "diálogo uid0046001d"
+},
+{
+"id": 30163,
+"en": "So it's all about timin'.",
+"ctx": "diálogo uid0046001d"
+},
+{
+"id": 30164,
+"en": "Okay, wait, I have something! Once you've talked your hostess up as much as you can, you normally wouldn't need to order anything else for the remainder of your time.",
+"ctx": "diálogo uid0046001d + diálogo uid0046001e …"
+},
+{
+"id": 30165,
+"en": "Whaddya mean by \"a different sorta hospitality\"?",
+"ctx": "diálogo uid0046001d"
+},
+{
+"id": 30166,
+"en": "That sorta does sound appealin'.",
+"ctx": "diálogo uid0046001d"
+},
+{
+"id": 30167,
+"en": "Very well. Ya really know yer clubs.",
+"ctx": "diálogo uid0046001d"
+},
+{
+"id": 30168,
+"en": "I'm good for right now, actually.",
+"ctx": "diálogo uid0046001d + diálogo uid0046001e …"
+},
+{
+"id": 30169,
+"en": "Welcome!\nAh! Little girl, what are you doing in a place like this?",
+"ctx": "diálogo uid0046001d"
+},
+{
+"id": 30170,
+"en": "Oh, sorry! I don't need anything! I'll just be on my way.",
+"ctx": "diálogo uid0046001d + diálogo uid0046001e …"
+},
+{
+"id": 30171,
+"en": "Yeah, do that. Maybe come back when you're older, yeah?",
+"ctx": "diálogo uid0046001d"
+},
+{
+"id": 30172,
+"en": "I'd like to go to a cabaret club. Know any good ones?",
+"ctx": "diálogo uid0046001e"
+},
+{
+"id": 30173,
+"en": "There's always Prime, of course.",
+"ctx": "diálogo uid0046001e"
+},
+{
+"id": 30174,
+"en": "Yeah, that sounds familiar.",
+"ctx": "diálogo uid0046001e"
+},
+{
+"id": 30175,
+"en": "Prime is in Shofukucho. It's the premier club in Sotenbori.",
+"ctx": "diálogo uid0046001e"
+},
+{
+"id": 30176,
+"en": "Lead the way, my friend.",
+"ctx": "diálogo uid0046001e"
+},
+{
+"id": 30177,
+"en": "Oh, right. Sorry. I'll be back later.",
+"ctx": "diálogo uid0046001e"
+},
+{
+"id": 30178,
+"en": "Understood, sir.",
+"ctx": "diálogo uid0046001e + diálogo uid01340002 …"
+},
+{
+"id": 30179,
+"en": "Hello, this is Nakamoto from Infomen.",
+"ctx": "diálogo uid0046001e"
+},
+{
+"id": 30180,
+"en": "All right, if you'll please follow me.",
+"ctx": "diálogo uid0046001e + diálogo uid0046001f"
+},
+{
+"id": 30181,
+"en": "(Damn. I don't have enough money.)",
+"ctx": "diálogo uid0046001e + diálogo uid01340011 …"
+},
+{
+"id": 30182,
+"en": "On second thought, I actually need to come back later.",
+"ctx": "diálogo uid0046001e"
+},
+{
+"id": 30183,
+"en": "Well, come back soon!",
+"ctx": "diálogo uid0046001e"
+},
+{
+"id": 30184,
+"en": "I'll pass for now.",
+"ctx": "diálogo uid0046001e"
+},
+{
+"id": 30185,
+"en": "Right. People who get out often are going to have more things to talk about.",
+"ctx": "diálogo uid0046001e + diálogo uid00460020"
+},
+{
+"id": 30186,
+"en": "You mean ordering more expensive drinks?",
+"ctx": "diálogo uid0046001e"
+},
+{
+"id": 30187,
+"en": "Being cheap isn't an attractive quality.",
+"ctx": "diálogo uid0046001e"
+},
+{
+"id": 30188,
+"en": "That means if you're a savvy talker, you won't need to spend as much money.",
+"ctx": "diálogo uid0046001e"
+},
+{
+"id": 30189,
+"en": "Thanks. I get you.",
+"ctx": "diálogo uid0046001e"
+},
+{
+"id": 30190,
+"en": "That's definitely something to keep in mind.",
+"ctx": "diálogo uid0046001e"
+},
+{
+"id": 30191,
+"en": "That's good advice. You've been very helpful. Thank you.",
+"ctx": "diálogo uid0046001e + diálogo uid0046001f"
+},
+{
+"id": 30192,
+"en": "Still, asking a girl out doesn't guarantee that she'll say yes.",
+"ctx": "diálogo uid0046001e"
+},
+{
+"id": 30193,
+"en": "Right. Timing is important.",
+"ctx": "diálogo uid0046001e"
+},
+{
+"id": 30194,
+"en": "A different sort of hospitality?",
+"ctx": "diálogo uid0046001e"
+},
+{
+"id": 30195,
+"en": "That does sounds intriguing.",
+"ctx": "diálogo uid0046001e"
+},
+{
+"id": 30196,
+"en": "Oh, hey! How was the club?",
+"ctx": "diálogo uid0046001e"
+},
+{
+"id": 30197,
+"en": "As good as you said it was. It really might be the best in all of Osaka.",
+"ctx": "diálogo uid0046001e"
+},
+{
+"id": 30198,
+"en": "Welcome!\n...Wait, Haruka Sawamura-chan!? Is that really you?",
+"ctx": "diálogo uid0046001e"
+},
+{
+"id": 30199,
+"en": "Whoa, it is you! Okay, keep cool, man.\n...Should I get her autograph?",
+"ctx": "diálogo uid0046001e"
+},
+{
+"id": 30200,
+"en": "Welcome! What sort of girl are you looking for today, sir?",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30201,
+"en": "Hm. I think I'd like someone who's still kinda new.",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30202,
+"en": "Ah, a true connoisseur! Someone new and exciting coming right up!",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30203,
+"en": "Okay, the two newest ones are Momoe-chan from Resort Boing, and Noriko-chan from Boom and Bust.",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30204,
+"en": "I got two choices, huh? Okay, tell me about them both.",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30205,
+"en": "Momoe-chan's 29 years old, with a hefty pair of Ds! She's got that real erotic mix of adult sultriness, along with a fresh-faced newbie appeal.",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30206,
+"en": "Hmmm. Okay, and what about Noriko-chan?",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30207,
+"en": "Noriko-chan is 25, and's a real perky little gal. She's got B-cups, along with a fit body that makes all the guys in Kineicho drool.",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30208,
+"en": "They sure do sound different, that's for sure. I wonder which one Uno-san would go for.",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30209,
+"en": "If he likes new girls, wouldn't he go for the younger one?",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30210,
+"en": "There is that, but he's a pretty twisted guy. An older girl who's new to the job might be just the kind of thing that'll get him going.",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30211,
+"en": "Right... Anyway, my vote's for Noriko.",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30212,
+"en": "Yeah, I'm still not so sure.\nOh, so mind telling me where these two places are?",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30213,
+"en": "Momoe-chan is at Resort Boing, at the south end of Tsumugi Street.",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30214,
+"en": "Noriko-chan's at Boom and Bust, north on Kumano Boulevard.",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30215,
+"en": "Thanks. Now, which one should I go to?",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30216,
+"en": "Welcome! Oh, hey, Shinada-san. What are you doing here?",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30217,
+"en": "Oh, ah, no, it's nothing! Nothing at all! I'll see you later!",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30218,
+"en": "(I don't have time to fool around today.)",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30219,
+"en": "Welcome! Oh, hey, Shinada. What are you doing here?",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30220,
+"en": "Well, I haven't been to a cabaret club in a while. What's good nowadays?",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30221,
+"en": "Oh, Club Eden is where it's at, hands down.",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30222,
+"en": "The one over on Kumano Boulevard? I haven't been there in a while.",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30223,
+"en": "I can imagine. The place is so gorgeous, I'm not sure you're really suited for it.",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30224,
+"en": "Let's head over!",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30225,
+"en": "Um, Shinada-san, your friend looks rather a bit... concerned.",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30226,
+"en": "Oh, yes, right! Sorry about that. I'll be back later.",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30227,
+"en": "You sure? You know you can't put this on a tab, right?",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30228,
+"en": "It's fine, honest!",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30229,
+"en": "Okay, okay. I'll check with the club now. Give me a moment.",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30230,
+"en": "Hi, this is Takagi from MayNavi.",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30231,
+"en": "Yes, well, I have a guest here who'd like to stop by.",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30232,
+"en": "Hey, hold on. I'll have to come back later!",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30233,
+"en": "I knew you were broke! Please, don't keep doing this to me.",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30234,
+"en": "I'll be back. For real this time!",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30235,
+"en": "Sure, thanks, buddy.",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30236,
+"en": "Hey, don't just take everything I say and put it in your magazine, okay?",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30237,
+"en": "Ah, okay. Yeah, guys who've been around have a lot more to talk about.",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30238,
+"en": "Like ordering more expensive drinks?",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30239,
+"en": "So basically if you're cheap, you're a scumbag.",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30240,
+"en": "Usually, yes. It is important to be able to get a hostess the very best drink you can.",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30241,
+"en": "But if you're good at holding a conversation, you won't need to spend all that money, right?",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30242,
+"en": "Thanks. I got the gist.",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30243,
+"en": "Hey, that is good to know. At this point, I'm happy to save even a single yen!",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30244,
+"en": "But asking a girl out doesn't mean she'll definitely say yes, right?",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30245,
+"en": "Got it. So timing is important.",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30246,
+"en": "I'll try to remember that.",
+"ctx": "diálogo uid0046001f + diálogo uid0134003a"
+},
+{
+"id": 30247,
+"en": "Huh? What's that mean?",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30248,
+"en": "Aww yeah, that sounds nice!",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30249,
+"en": "Ah, Shinada-san. Did things go okay over at Club Eden?",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30250,
+"en": "Oh, it went more than okay! In fact, I'm probably gonna be going there an awful lot from now on!",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30251,
+"en": "Just remember they won't run a tab, so be careful.",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30252,
+"en": "What else can I help you with today?",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30253,
+"en": "I'm okay for now, thanks.",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30254,
+"en": "Welcome!\nWait, what... Ah! What are you doing here!?",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30255,
+"en": "Sheesh, I almost had a panic attack! I'd get arrested if I tried to take you to a club.",
+"ctx": "diálogo uid0046001f"
+},
+{
+"id": 30256,
+"en": "Can you find me a cabaret club?",
+"ctx": "diálogo uid00460020"
+},
+{
+"id": 30257,
+"en": "I thought that might be it! In that case, allow me to recommend Elise!",
+"ctx": "diálogo uid00460020"
+},
+{
+"id": 30258,
+"en": "It's on Taihei Boulevard, in front of the Millennium Tower. It's the biggest in Kamurocho⑬very popular, and lots of pretty girls!",
+"ctx": "diálogo uid00460020"
+},
+{
+"id": 30259,
+"en": "Lead the way.",
+"ctx": "diálogo uid00460020"
+},
+{
+"id": 30260,
+"en": "Ah, right, of course. Sorry about that. I'll come back later.",
+"ctx": "diálogo uid00460020"
+},
+{
+"id": 30261,
+"en": "Oh, right, I should probably mention... They're undergoing a kind of, ah, revamp right now.",
+"ctx": "diálogo uid00460020"
+},
+{
+"id": 30262,
+"en": "Hm? What's that mean?",
+"ctx": "diálogo uid00460020"
+},
+{
+"id": 30263,
+"en": "Sorry. What I mean to say is that Elise is currently in a rebuilding phase, in order to improve the quality of their service.",
+"ctx": "diálogo uid00460020"
+},
+{
+"id": 30264,
+"en": "The girls currently seem to be rotating out on a daily basis, so we can't make any real guarantees on your experience.",
+"ctx": "diálogo uid00460020"
+},
+{
+"id": 30265,
+"en": "I actually know the owner. Now that you mention it, I recall him saying something about looking for girls who are ready for prime time.",
+"ctx": "diálogo uid00460020"
+},
+{
+"id": 30266,
+"en": "Really? I know the owner, Akiyama, but this is news to me.",
+"ctx": "diálogo uid00460020"
+},
+{
+"id": 30267,
+"en": "Yes, well, it might be better not to go until you get an invitation from the owner himself.",
+"ctx": "diálogo uid00460020"
+},
+{
+"id": 30268,
+"en": "Yeah, that's probably true. I'll wait until I hear from Akiyama then.",
+"ctx": "diálogo uid00460020"
+},
+{
+"id": 30269,
+"en": "If you like, I can find you another club.",
+"ctx": "diálogo uid00460020"
+},
+{
+"id": 30270,
+"en": "That's okay. I'll just wait until Elise is a little further along in its rebuilding process.",
+"ctx": "diálogo uid00460020"
+},
+{
+"id": 30271,
+"en": "Very well. Well, please do come again soon!",
+"ctx": "diálogo uid00460020"
+},
+{
+"id": 30272,
+"en": "(Elise will be done with this rebuilding once they have strong girls from around the country. I should wait until then before I go there.)",
+"ctx": "diálogo uid00460020"
+},
+{
+"id": 30273,
+"en": "(Elise is rebuilding its business? What could Akiyama be up to?)",
+"ctx": "diálogo uid00460020"
+},
+{
+"id": 30274,
+"en": "Hello? This is Shimura, over at MEB.",
+"ctx": "diálogo uid00460020"
+},
+{
+"id": 30275,
+"en": "I have a gentleman here who's looking to patronize your establishment.",
+"ctx": "diálogo uid00460020"
+},
+{
+"id": 30276,
+"en": "I'm good for right now.",
+"ctx": "diálogo uid00460020"
+},
+{
+"id": 30277,
+"en": "Oh! How did things go?",
+"ctx": "diálogo uid00460020"
+},
+{
+"id": 30278,
+"en": "You remember me?",
+"ctx": "diálogo uid00460020"
+},
+{
+"id": 30279,
+"en": "Of course I do! And I hope I'll be able to be of service to you again.",
+"ctx": "diálogo uid00460020"
+},
+{
+"id": 30280,
+"en": "Now, what can I do for you today?",
+"ctx": "diálogo uid00460020"
+},
+{
+"id": 30281,
+"en": "Welcome! Can I help you find something today?",
+"ctx": "diálogo uid00460020"
+},
+{
+"id": 30282,
+"en": "I'm okay for now. Thank you.",
+"ctx": "diálogo uid00460020"
+},
+{
+"id": 30283,
+"en": "Nah, I'm good for now. Thanks.",
+"ctx": "diálogo uid00460020"
+},
+{
+"id": 30284,
+"en": "Welcome!\nOh, I'm terribly sorry. We don't provide recommendations for host clubs, young lady.",
+"ctx": "diálogo uid00460020"
+},
+{
+"id": 30285,
+"en": "What? Oh, no, I'm sorry! I'll go someplace else!",
+"ctx": "diálogo uid00460020"
+},
+{
+"id": 30286,
+"en": "Haha, sounds like this is your first time!",
+"ctx": "diálogo uid00460020"
+},
+{
+"id": 30287,
+"en": "Yo, Ta-chan! You been to see any ball games lately?",
+"ctx": "diálogo uid00460021"
+},
+{
+"id": 30288,
+"en": "These days I just watch them on TV⑬I can't afford to buy actual tickets. Why do you ask?",
+"ctx": "diálogo uid00460021"
+},
+{
+"id": 30289,
+"en": "'Cause I got me some tickets to a VIP skybox! I can hardly wait for game day!",
+"ctx": "diálogo uid00460021"
+},
+{
+"id": 30290,
+"en": "A VIP skybox? Don't you have to reserve those with like, a year-long contract?",
+"ctx": "diálogo uid00460021"
+},
+{
+"id": 30291,
+"en": "Since they are normally used by companies for entertainment purposes, normal spectators don't get to experience them too often.",
+"ctx": "diálogo uid00460021"
+},
+{
+"id": 30292,
+"en": "Well, I can't wait! Getting to look out over the field in a private room, while kicking back on a sofa to watch the game? That's luxury for ya!",
+"ctx": "diálogo uid00460021"
+},
+{
+"id": 30293,
+"en": "I don't know, I'd rather be sitting right behind home plate instead of watching from so far away.",
+"ctx": "diálogo uid00460021"
+},
+{
+"id": 30294,
+"en": "That's why they've got monitors! You can get a play-by-play view right in the skybox!",
+"ctx": "diálogo uid00460021"
+},
+{
+"id": 30295,
+"en": "And they've even got room service, so it's got watching at home beat, hands down.",
+"ctx": "diálogo uid00460021"
+},
+{
+"id": 30296,
+"en": "(VIP skyboxes at baseball games. Maybe I could talk about that at the cabaret club.)",
+"ctx": "diálogo uid00460021"
+},
+{
+"id": 30297,
+"en": "Oh, Kiryu-san!",
+"ctx": "diálogo uid00460022 + diálogo uid0046002c …"
+},
+{
+"id": 30298,
+"en": "Hey, who's that ya got with you?",
+"ctx": "diálogo uid00460022"
+},
+{
+"id": 30299,
+"en": "Oh, uh...",
+"ctx": "diálogo uid00460022 + diálogo uid010c08ea …"
+},
+{
+"id": 30300,
+"en": "If y'got something to do, you oughta go finish that up first.",
+"ctx": "diálogo uid00460022"
+},
+{
+"id": 30301,
+"en": "Yes, you're right.",
+"ctx": "diálogo uid00460022 + diálogo uid0169030d …"
+},
+{
+"id": 30302,
+"en": "That's all right, I wanted to see ya! There's some stuff I wanted to talk about. Let's just wander about 'round here!",
+"ctx": "diálogo uid00460022"
+},
+{
+"id": 30303,
+"en": "Okay, shall we get going?",
+"ctx": "diálogo uid00460022 + diálogo uid0046002c"
+},
+{
+"id": 30304,
+"en": "Ain't the view from here the absolute best?",
+"ctx": "diálogo uid00460023"
+},
+{
+"id": 30305,
+"en": "People do rave about this view of Nagasugai from the Ose Bridge.",
+"ctx": "diálogo uid00460023"
+},
+{
+"id": 30306,
+"en": "I do really like this bridge. Whenever I have some time before work, I come here.",
+"ctx": "diálogo uid00460023"
+},
+{
+"id": 30307,
+"en": "You come here just for the view?",
+"ctx": "diálogo uid00460023"
+},
+{
+"id": 30308,
+"en": "Sometimes I'll ride the water bus. It's a great way to pass the time.",
+"ctx": "diálogo uid00460023"
+},
+{
+"id": 30309,
+"en": "Ah. I haven't gotten around to riding that yet.\nMaybe I should try it soon.",
+"ctx": "diálogo uid00460023"
+},
+{
+"id": 30310,
+"en": "It's nice t'see something familiar from a distance sometimes.",
+"ctx": "diálogo uid00460023"
+},
+{
+"id": 30311,
+"en": "Speaking of, the tower's nearby, isn't it? I'd like to get a look at Nagasugai from high up above at some point, too.",
+"ctx": "diálogo uid00460023"
+},
+{
+"id": 30312,
+"en": "Next time we should go do that!",
+"ctx": "diálogo uid00460023"
+},
+{
+"id": 30313,
+"en": "That guy over there! That's that Subaru-san I was telling y'bout earlier!",
+"ctx": "diálogo uid00460023"
+},
+{
+"id": 30314,
+"en": "Subaru? You mean the guy that was scamming your friends?",
+"ctx": "diálogo uid00460023"
+},
+{
+"id": 30315,
+"en": "Mm. They texted me pics. I know that's him!",
+"ctx": "diálogo uid00460023"
+},
+{
+"id": 30316,
+"en": "Riku, wait up!",
+"ctx": "diálogo uid00460023"
+},
+{
+"id": 30317,
+"en": "Are you Subaru-san!?",
+"ctx": "diálogo uid00460023"
+},
+{
+"id": 30318,
+"en": "Yeah. And who the heck are you?",
+"ctx": "diálogo uid00460023"
+},
+{
+"id": 30319,
+"en": "You're two-timin' Yuka-chan and Asumi-chan, aren't ya? And a whole lotta other girls, I'd reckon!",
+"ctx": "diálogo uid00460023"
+},
+{
+"id": 30320,
+"en": "Ah, so y'know those girls, huh? I'm not two-timing anyone. I'm a host. Lotsa ladies ask for me, it's my job.",
+"ctx": "diálogo uid00460023"
+},
+{
+"id": 30321,
+"en": "Don't y'dare play dumb! You were talking to them about gettin' married!",
+"ctx": "diálogo uid00460023"
+},
+{
+"id": 30322,
+"en": "So what if I did?",
+"ctx": "diálogo uid00460023"
+},
+{
+"id": 30323,
+"en": "You're trickin' girls in order to milk them outta all their money! Then y'can go and sell 'em right off to the sex trade, right!?",
+"ctx": "diálogo uid00460023"
+},
+{
+"id": 30324,
+"en": "Hahaha. What are y'talking about? Who told ya that nonsense?",
+"ctx": "diálogo uid00460023"
+},
+{
+"id": 30325,
+"en": "Who told me?",
+"ctx": "diálogo uid00460023"
+},
+{
+"id": 30326,
+"en": "Y'know, sometimes rival hosts start bullshit rumors to ruin my rep. So who was it? Ya boyfriend or someone?",
+"ctx": "diálogo uid00460023"
+},
+{
+"id": 30327,
+"en": "It ain't like that!",
+"ctx": "diálogo uid00460023"
+},
+{
+"id": 30328,
+"en": "Sorry, but I ain't got time t'deal with your drama right now, missy.\nLater.",
+"ctx": "diálogo uid00460023"
+},
+{
+"id": 30329,
+"en": "Sorry 'bout that. I shouldn't have done that in the middle of our date.",
+"ctx": "diálogo uid00460023"
+},
+{
+"id": 30330,
+"en": "It's okay.",
+"ctx": "diálogo uid00460023 + diálogo uid010c0cb0 …"
+},
+{
+"id": 30331,
+"en": "Anyhow, I oughta head home now. See ya later!",
+"ctx": "diálogo uid00460023"
+},
+{
+"id": 30332,
+"en": "Hey, Saejima-san!",
+"ctx": "diálogo uid00460025"
+},
+{
+"id": 30333,
+"en": "Hey. Sorry to keep ya waitin'.",
+"ctx": "diálogo uid00460025"
+},
+{
+"id": 30334,
+"en": "Oh? Is there someone with you?",
+"ctx": "diálogo uid00460025"
+},
+{
+"id": 30335,
+"en": "If you have something to do, please go and take care of that first. I'll be waiting for you here.",
+"ctx": "diálogo uid00460025"
+},
+{
+"id": 30336,
+"en": "Sorry. I'll get it done.",
+"ctx": "diálogo uid00460025"
+},
+{
+"id": 30337,
+"en": "It's okay, I wanted to see you! I just wanted to talk with you some more. Let's go wander around here for a bit.",
+"ctx": "diálogo uid00460025"
+},
+{
+"id": 30338,
+"en": "All right, let's go.",
+"ctx": "diálogo uid00460025 + diálogo uid01020cb7 …"
+},
+{
+"id": 30339,
+"en": "This park's nice. I like bein' able to get such a good view in the middle of a big city. Ya can even see the mountains.",
+"ctx": "diálogo uid00460026"
+},
+{
+"id": 30340,
+"en": "Hokkaido has plenty of natural scenery! The university campus is especially great for taking walks.",
+"ctx": "diálogo uid00460026"
+},
+{
+"id": 30341,
+"en": "That so? If I had more time, it woulda been nice to take a walk over there.",
+"ctx": "diálogo uid00460026"
+},
+{
+"id": 30342,
+"en": "You like Hokkaido, don't you, Saejima-san?",
+"ctx": "diálogo uid00460026"
+},
+{
+"id": 30343,
+"en": "Yeah. I never get tired of lookin' at the nature here.",
+"ctx": "diálogo uid00460026"
+},
+{
+"id": 30344,
+"en": "I'm embarrassed to once've been proud of some tiny little man-made neighborhood crammed in the corner of Tokyo.",
+"ctx": "diálogo uid00460026"
+},
+{
+"id": 30345,
+"en": "A real man should stand up to nature, and then overcome it.",
+"ctx": "diálogo uid00460026"
+},
+{
+"id": 30346,
+"en": "I do have to admit that living in a place like this really suits me.",
+"ctx": "diálogo uid00460026"
+},
+{
+"id": 30347,
+"en": "Like the story of the ants and the grasshopper, we work in the cool summers and stay holed up nice and cozy in the cold winters.",
+"ctx": "diálogo uid00460026"
+}
+]

@@ -1,0 +1,847 @@
+[
+{
+"id": 53589,
+"en": "Maybe you could date me. I promise to tell you everything I don't like about you.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53590,
+"en": "<Color:255,200,200,255>Really!? Oh, but then y'might wind up not liking me anymore.<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53591,
+"en": "<Color:255,200,200,255>I really wanna keep you as a friend, Kiryu-san. So let's not do that.<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53592,
+"en": "Maybe you could date me.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53593,
+"en": "<Color:255,200,200,255>Huh? But why?<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53594,
+"en": "We'll be good together. I'm positive I won't dump you.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53595,
+"en": "<Color:255,200,200,255>You can't know that. Nobody starts datin' someone with the idea that they're gonna wind up breaking up.<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53596,
+"en": "I'll be different, I promise.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53597,
+"en": "<Color:255,200,200,255>I dunno. I bet you're gonna wind up not liking me and then leaving me like the rest.<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53598,
+"en": "This really is a big deal for you, huh?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53599,
+"en": "It won't work out. If you know you're going to split up when you start dating, it doesn't have to hurt as bad, you know?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53600,
+"en": "<Color:255,200,200,255>Then there's no point in going out at all... Oh, hey, I've got it!<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53601,
+"en": "Got what?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53602,
+"en": "<Color:255,200,200,255>I can dump you before you dump me!<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53603,
+"en": "<Color:255,200,200,255>Yeah, that's it! I should be the dumper in a relationship once in a while! Hey, Kiryu-san, y'wanna date me?<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53604,
+"en": "So you can dump me? I don't know about that.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53605,
+"en": "<Color:255,200,200,255>Hey, Kiryu-san, whatcha usually do for dinner? Do you eat at home, or go out?<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53606,
+"en": "I do my own cooking.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53607,
+"en": "<Color:255,200,200,255>Whoa, you can cook!?<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53608,
+"en": "A little bit, yeah. How about you?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53609,
+"en": "<Color:255,200,200,255>Me? Oh, I'm a whiz in the kitchen!<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53610,
+"en": "I eat out a lot.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53611,
+"en": "<Color:255,200,200,255>Yeah, I kinda figured. Do y'think it's better if a girl knows how to cook?<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53612,
+"en": "Yeah. Not to say I think women have an obligation to cook, of course, but I think it's preferable if they can.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53613,
+"en": "<Color:255,200,200,255>Yeah? Well, I'm a big fan of cookin', myself!<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53614,
+"en": "<Color:255,200,200,255>Yep. I can make all sortsa things!<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53615,
+"en": "Not really. In this day and age, it's not too expensive to go out to eat instead of cooking every meal.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53616,
+"en": "<Color:255,200,200,255>Aww, okay. It's just, I'm pretty good at cooking and thought that might be appealin' to ya.<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53617,
+"en": "You're a good cook?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53618,
+"en": "<Color:255,200,200,255>Yep, I do it all the time!<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53619,
+"en": "What's your signature dish?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53620,
+"en": "<Color:255,200,200,255>Curry!<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53621,
+"en": "Mine too. I used to make curry all the time.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53622,
+"en": "<Color:255,200,200,255>Y'don't say? I'm guessing you're into the spicy kind?<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53623,
+"en": "Yeah, spicy. We're talking curry, after all.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53624,
+"en": "<Color:255,200,200,255>Oh no, I can't handle spicy food.<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53625,
+"en": "Really? Heh, what are you, a little kid?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53626,
+"en": "<Color:255,200,200,255>Hey, no need t'be mean about it. Well, I guess you and I can't enjoy eating curry together, then.<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53627,
+"en": "I guess I'm fine with mild curry as well...",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53628,
+"en": "I prefer mild.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53629,
+"en": "<Color:255,200,200,255>Whoa, I never woulda guessed! So how come? Can y'not handle the heat?<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53630,
+"en": "No, I'm fine with either. But the kids liked their curry to be mild.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53631,
+"en": "<Color:255,200,200,255>Oooh, and you're good with kids, too? The surprises keep on comin'! Hehehe.<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53632,
+"en": "<Color:255,200,200,255>Oooh, nothin'.<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53633,
+"en": "That's a safe choice.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53634,
+"en": "<Color:255,200,200,255>Hey now, mister. Don't underestimate me. My curry is like no other curry ya've ever tried before!<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53635,
+"en": "Oh? What makes it different.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53636,
+"en": "<Color:255,200,200,255>Condensed milk.<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53637,
+"en": "Condensed milk?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53638,
+"en": "<Color:255,200,200,255>Yep! I put condensed milk in my curry sauce.<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53639,
+"en": "I should try that myself next time.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53640,
+"en": "<Color:255,200,200,255>Definitely! Make sure y'let me know whatcha think!<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53641,
+"en": "<Color:255,200,200,255>Oh no, hang on. I feel bad thinking about you making curry and eatin' it all by your lonesome.<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53642,
+"en": "<Color:255,200,200,255>I got it! I'll whip up a batch for ya!<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53643,
+"en": "I look forward to trying it.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53644,
+"en": "<Color:255,200,200,255>Hehe. It's wicked tasty, honest. Keep your taste buds at the ready!<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53645,
+"en": "I'll pass. I have a feeling I'll get sick eating that.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53646,
+"en": "<Color:255,200,200,255>Sure, I understand your reaction. But I promise it's way better than y'might think!<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53647,
+"en": "But how is mixing something sweet into something spicy going to help?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53648,
+"en": "<Color:255,200,200,255>No, it's good! It makes my curry both mild and sweet!<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53649,
+"en": "I'm guessing the ready-made kind?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53650,
+"en": "<Color:255,200,200,255>What? No! What makes y'say that?<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53651,
+"en": "Anyone can make curry. I figured if someone says that's their signature dish, then, well...",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53652,
+"en": "<Color:255,200,200,255>Don't y'dare lump my curry in with them other people's curry!<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53653,
+"en": "<Color:255,200,200,255>I was gonna let y'have some of my curry, but not anymore! Not ever, y'hear me!<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53654,
+"en": "Whoa, okay, maybe we should change the subject.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53655,
+"en": "<Color:255,200,200,255>Ah! Oww.<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53656,
+"en": "<Color:255,200,200,255>I pricked my finger with a needle last night, but I forgot all 'bout it and grabbed this cup a bit too hard.<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53657,
+"en": "<Color:255,200,200,255>Yeah, it's no big deal. Don't fret over it or nothin'. But thanks for asking!<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53658,
+"en": "That's clumsy of you. Were you just spacing out?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53659,
+"en": "<Color:255,200,200,255>Hey, y'don't gotta be so mean about it! Would it kill ya to show a little sympathy?<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53660,
+"en": "What were you doing?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53661,
+"en": "<Color:255,200,200,255>Just a little sewing is all.<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53662,
+"en": "What were you making?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53663,
+"en": "<Color:255,200,200,255>Oh, I wasn't doing anything fancy. I was just tryin' to sew a button onto my pop's coat.<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53664,
+"en": "That's very domestic of you.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53665,
+"en": "<Color:255,200,200,255>Yeah. With my mother gone, I'm the one who does all those kinda things now.<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53666,
+"en": "<Color:255,200,200,255>That's why I can cook and sew. Do y'think that makes me a good catch?<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53667,
+"en": "I'd marry you.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53668,
+"en": "<Color:255,200,200,255>Ahaha! That's takin' it a little too far, Kiryu-san.<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53669,
+"en": "I mean, most guys can't sew even with the right tools in hand. It's definitely a good skill to have, in my opinion.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53670,
+"en": "<Color:255,200,200,255>Y'think so? In that case, I'll try to get even better at it!<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53671,
+"en": "Just don't hurt yourself, okay?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53672,
+"en": "I can do those things too. Don't let it go to your head too much.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53673,
+"en": "<Color:255,200,200,255>Oh wow, really?<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53674,
+"en": "Yeah. When a guy lives on his own, he has to be able to sew his own buttons back on. I just learned to do it naturally.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53675,
+"en": "<Color:255,200,200,255>I see. You're pretty confident in your skills!<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53676,
+"en": "Well, it's best to be self-reliant.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53677,
+"en": "What else are you good at? I imagine more than just cooking and sewing.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53678,
+"en": "<Color:255,200,200,255>Of course. I'm also pretty good at swimming and driving, too!<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53679,
+"en": "Those aren't exactly domestic skills, though.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53680,
+"en": "<Color:255,200,200,255>Yeah, maybe not.<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53681,
+"en": "Maybe when you're having this conversation next time, you should stop at cooking and sewing.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53682,
+"en": "<Color:255,200,200,255>Tch. You're the one who asked, after all.<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53683,
+"en": "I don't know if I believe you. Sewing? Really?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53684,
+"en": "<Color:255,200,200,255>Yes, really! Why's that so hard t'believe?<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53685,
+"en": "I just have trouble picturing it.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53686,
+"en": "<Color:255,200,200,255>Well, that's rude. Sorry to burst yer bubble, but ol' Riku-san here's a fine hand at both cookin' and sewin'!<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53687,
+"en": "Did you get it back on okay?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53688,
+"en": "<Color:255,200,200,255>'Course I did! Perfectly! I bet ya got a different opinion of me now, huh?<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53689,
+"en": "<Color:255,200,200,255>Y'know, Kiryu-san, I've been havin' a tough time getting you outta my head lately.<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53690,
+"en": "<Color:255,200,200,255>Whether I'm here at the club or back home, y'just keep poppin' right on into my thoughts.<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53691,
+"en": "It must be love.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53692,
+"en": "<Color:255,200,200,255>As if.<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53693,
+"en": "I bet I'm right, though.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53694,
+"en": "<Color:255,200,200,255>Oh yeah? Well, what if y'are, huh?<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53695,
+"en": "I'm just kidding. What's the matter?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53696,
+"en": "<Color:255,200,200,255>Nothing... But you're not wrong.<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53697,
+"en": "Maybe because I'm here a lot. I see you more often than not, after all.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53698,
+"en": "<Color:255,200,200,255>Yeah, that's true. That must be why I'm so lonely when you're not around, then.<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53699,
+"en": "<Color:255,200,200,255>Kiryu-san, do you like me?<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53700,
+"en": "Yes, of course I do.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53701,
+"en": "<Color:255,200,200,255>Really!?<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53702,
+"en": "If I didn't, I wouldn't keep coming here.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53703,
+"en": "<Color:255,200,200,255>But like, you ain't got a wife or nothing, right?<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53704,
+"en": "I'm single. Don't you worry about that.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53705,
+"en": "<Color:255,200,200,255>Ah, okay. That is kind of a relief!<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53706,
+"en": "Why's that? If you have something you want to say to me, just come out and say it.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53707,
+"en": "<Color:255,200,200,255>Sorry, but I'd just mess stuff up if I said anythin' more, so mum's the word!<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53708,
+"en": "Heh, I see.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53709,
+"en": "That shouldn't matter. You shouldn't meddle in your clients' personal lives.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53710,
+"en": "<Color:255,200,200,255>Oh. I'm sorry.<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53711,
+"en": "I'm here now. Isn't that enough?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53712,
+"en": "<Color:255,200,200,255>Yeah, it's enough. Thanks.<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53713,
+"en": "No. I mean, I have fun spending time with you, but that's not the same as \"liking\" someone.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53714,
+"en": "<Color:255,200,200,255>Hmm, okay. That's kind of a relief.<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53715,
+"en": "A relief?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53716,
+"en": "<Color:255,200,200,255>Yeah. Lately, I've been thinkin' whether our relationship's gonna stay this way or not.<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53717,
+"en": "<Color:255,200,200,255>And so not knowin' where things might be going had me sorta worried, is all. I kinda think it'd be good if things stay the way they are.<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53718,
+"en": "Like I need to say it.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53719,
+"en": "<Color:255,200,200,255>Huh?<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53720,
+"en": "I think you already know the answer.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53721,
+"en": "<Color:255,200,200,255>Yeah, I guess. I just hope my instincts aren't wrong.<Color:Default>",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53722,
+"en": "Don't worry. I'm sure they aren't.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53723,
+"en": "Romance Conversation 6",
+"ctx": "diálogo uid01340012 + diálogo uid01340021 …"
+},
+{
+"id": 53724,
+"en": "Romance Conversation 7",
+"ctx": "diálogo uid01340012 + diálogo uid01340021 …"
+},
+{
+"id": 53725,
+"en": "Romance Conversation 8",
+"ctx": "diálogo uid01340012 + diálogo uid01340021 …"
+},
+{
+"id": 53726,
+"en": "Baseball sure is popular in Fukuoka.",
+"ctx": "diálogo uid01340013"
+},
+{
+"id": 53727,
+"en": "Well, there ain't much else to do, y'know? Otherwise, I don't think folks would go through all the trouble of seeing games at the ball park.",
+"ctx": "diálogo uid01340013"
+},
+{
+"id": 53728,
+"en": "Must be a lot of devoted fans. The streets are always packed before and after a pro game.",
+"ctx": "diálogo uid01340013"
+},
+{
+"id": 53729,
+"en": "Yeah, it seems like it. The roads do get wicked crowded on game day.",
+"ctx": "diálogo uid01340013"
+},
+{
+"id": 53730,
+"en": "When it's like that, it's probably faster to just run where you're goin' than to try and drive.",
+"ctx": "diálogo uid01340013"
+},
+{
+"id": 53731,
+"en": "You may be right. Sometimes you'll be stuck in traffic for minutes at a time without moving.",
+"ctx": "diálogo uid01340013"
+},
+{
+"id": 53732,
+"en": "Yeah, bein' trapped in gridlock out here is enough to make ya pull your hair out.",
+"ctx": "diálogo uid01340013"
+},
+{
+"id": 53733,
+"en": "I doubt that. It's got to be faster to go by car.",
+"ctx": "diálogo uid01340013"
+},
+{
+"id": 53734,
+"en": "No, seriously! Whenever I'm late for my shift, I always run t'get here faster.",
+"ctx": "diálogo uid01340013"
+},
+{
+"id": 53735,
+"en": "Why is the traffic so terrible?",
+"ctx": "diálogo uid01340013"
+},
+{
+"id": 53736,
+"en": "I blame the buses. You don't see many of 'em around when there ain't some big event going on.",
+"ctx": "diálogo uid01340013"
+},
+{
+"id": 53737,
+"en": "As a taxi driver, I definitely get hit pretty hard.",
+"ctx": "diálogo uid01340013"
+},
+{
+"id": 53738,
+"en": "Hehe. Do y'get all riled up, Kiryu-san?",
+"ctx": "diálogo uid01340013"
+},
+{
+"id": 53739,
+"en": "A little. Still, I try not to let it get to me. Nobody wants an accident. I just remind myself traffic is a normal thing and drive safely.",
+"ctx": "diálogo uid01340013"
+},
+{
+"id": 53740,
+"en": "Oooh! That sure sounds like the words of a pro!",
+"ctx": "diálogo uid01340013"
+},
+{
+"id": 53741,
+"en": "A taxi driver's livelihood is dependent on his passengers. Besides, baseball games bring in more business, so I can't complain.",
+"ctx": "diálogo uid01340013"
+},
+{
+"id": 53742,
+"en": "You're so responsible, Kiryu-san.",
+"ctx": "diálogo uid01340013"
+},
+{
+"id": 53743,
+"en": "Not really. Besides, when things are rough, there are side streets you can take. It's not so bad.",
+"ctx": "diálogo uid01340013"
+},
+{
+"id": 53744,
+"en": "Oh wow, really? Where are these shortcuts, anyhow?",
+"ctx": "diálogo uid01340013"
+},
+{
+"id": 53745,
+"en": "Those are a trade secret. If too many people knew about them, they'd be useless.",
+"ctx": "diálogo uid01340013"
+},
+{
+"id": 53746,
+"en": "Aww, ya can't bring up stuff like that and then not tell me!",
+"ctx": "diálogo uid01340013"
+},
+{
+"id": 53747,
+"en": "I get annoyed at my passengers a lot. Especially the kind who keep nagging you to go faster when they can see the road ahead is all backed up.",
+"ctx": "diálogo uid01340013"
+},
+{
+"id": 53748,
+"en": "Oh, I know what y'mean. People who get all ticked off about everything just wind up tickin' off everyone else.",
+"ctx": "diálogo uid01340013"
+},
+{
+"id": 53749,
+"en": "So whaddya do in that sorta situation? I guess you gotta just not listen to 'em?",
+"ctx": "diálogo uid01340013"
+},
+{
+"id": 53750,
+"en": "Most times you just have to humor them. Being told to hurry is one thing, but there's nothing I can do about the traffic itself.",
+"ctx": "diálogo uid01340013"
+},
+{
+"id": 53751,
+"en": "Oh wow, that's awful. It sounds like if a passenger can't keep their cool, that spills over onto you, huh?",
+"ctx": "diálogo uid01340013"
+},
+{
+"id": 53752,
+"en": "That's the world of customer service for you.",
+"ctx": "diálogo uid01340013"
+},
+{
+"id": 53753,
+"en": "I hear that.",
+"ctx": "diálogo uid01340013"
+},
+{
+"id": 53754,
+"en": "I ignore them. I'm a taxi driver, not a chauffeur. I don't need to take orders from my passengers.",
+"ctx": "diálogo uid01340013"
+},
+{
+"id": 53755,
+"en": "But won't that make your passengers angry?",
+"ctx": "diálogo uid01340013"
+},
+{
+"id": 53756,
+"en": "They're free to get out and find another cab if they want. And I'm not shy about telling them.",
+"ctx": "diálogo uid01340013"
+},
+{
+"id": 53757,
+"en": "Whoa, you're pretty hardcore! Maybe I oughta be like that with my own clients from now on!",
+"ctx": "diálogo uid01340013"
+}
+]

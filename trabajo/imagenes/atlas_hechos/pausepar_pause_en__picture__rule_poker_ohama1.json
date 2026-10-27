@@ -1,0 +1,196 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_poker_ohama1",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    336,
+    10,
+    686,
+    43
+   ],
+   "en": "Poker (Omaha Hold 'em)",
+   "ocr": "Poker (Omaha Hold 'em)",
+   "es": "Póquer (Omaha Hold 'em)",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 346,
+   "dejar": true
+  },
+  {
+   "caja": [
+    435,
+    54,
+    592,
+    94
+   ],
+   "en": "Game Play",
+   "ocr": "GamePlay",
+   "es": "Cómo JUGAR la Partida",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 153,
+   "dejar": true
+  },
+  {
+   "caja": [
+    101,
+    112,
+    857,
+    146
+   ],
+   "en": "In the first round, each player is dealt two hole cards.",
+   "ocr": "In the first round, each player is dealt two hole cards.",
+   "es": "En la primera RONDA, cada Jugador recibe dos cartas ocultas.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 752,
+   "dejar": true
+  },
+  {
+   "caja": [
+    101,
+    148,
+    868,
+    182
+   ],
+   "en": "Three community cards are dealt in the second round.",
+   "ocr": "Three community cards are dealt in the second round.",
+   "es": "En la segunda RONDA se reparten Tres cartas comunitarias.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 763,
+   "dejar": true
+  },
+  {
+   "caja": [
+    101,
+    184,
+    919,
+    219
+   ],
+   "en": "The fourth and fifth community cards are dealt in the third",
+   "ocr": "The fourth and fifth community cards are dealt in the third",
+   "es": "La cuarta y quinta cartas comunitarias se reparten en la tercera RONDA.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 814,
+   "dejar": true
+  },
+  {
+   "caja": [
+    102,
+    220,
+    553,
+    256
+   ],
+   "en": "and fourth rounds, respectively.",
+   "ocr": "and fourth rounds, respectively.",
+   "es": "Corresponden a la tercera y la cuarta Rondas, respectivamente.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 447,
+   "dejar": true
+  },
+  {
+   "caja": [
+    104,
+    265,
+    558,
+    303
+   ],
+   "en": "Advancing to the Next Round:",
+   "ocr": "·Advancing to the Next Round:",
+   "es": "Avance a la siguiente ronda:",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 450,
+   "dejar": true
+  },
+  {
+   "caja": [
+    140,
+    302,
+    851,
+    338
+   ],
+   "en": "All players have placed bets of the same amount.",
+   "ocr": " All players have placed bets of the same amount.",
+   "es": "Todos los Jugadores han colocado APUESTAS de la misma cantidad.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 707,
+   "dejar": true
+  },
+  {
+   "caja": [
+    138,
+    338,
+    662,
+    372
+   ],
+   "en": "The turn has been checked around.",
+   "ocr": "- The turn has been checked around.",
+   "es": "Todos pasaron en el turno.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 520,
+   "dejar": true
+  },
+  {
+   "caja": [
+    102,
+    384,
+    950,
+    419
+   ],
+   "en": "At the end of the fourth round, all players reveal their hands",
+   "ocr": "At the end of the fourth round, all players reveal their hands",
+   "es": "Al final de la cuarta RONDA, todos los Jugadores revelan sus Manos",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 848,
+   "dejar": true
+  },
+  {
+   "caja": [
+    101,
+    422,
+    902,
+    455
+   ],
+   "en": "in a showdown. The player with the strongest hand wins.",
+   "ocr": "in a showdown. The player with the strongest hand wins.",
+   "es": "en un Duelo. El Jugador con la Mano más fuerte se lleva las Victorias.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 801,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: lo hace el PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

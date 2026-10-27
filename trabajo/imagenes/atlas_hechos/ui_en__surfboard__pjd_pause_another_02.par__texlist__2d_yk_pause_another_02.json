@@ -1,0 +1,43 @@
+{
+ "textura": "ui_en/surfboard/pjd_pause_another_02.par/texlist/2d_yk_pause_another_02",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    5,
+    50,
+    205,
+    77
+   ],
+   "en": "Hunter and Killer",
+   "ocr": "HunterandKiller",
+   "es": "Cazador y asesino",
+   "fuente": "timesbi.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 196,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    303,
+    207,
+    512,
+    246
+   ],
+   "en": "TAIGA SAEJIMA",
+   "ocr": "TAIGA SAEJIMA",
+   "es": "",
+   "fuente": "impact.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 205
+  }
+ ]
+}

@@ -1,0 +1,782 @@
+[
+{
+"id": 4223,
+"en": "Mibai is Okinawan for grouper, a fish with a light, delicious flavor.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4224,
+"en": "This is a parrot fish. Perfect as sashimi while it's still fresh.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4225,
+"en": "Sea snails taste great steamed.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4226,
+"en": "A branch of coral.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4227,
+"en": "A broken umbrella your line snagged on the ocean floor.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4228,
+"en": "The marlin's fierce fight makes it suited for sport fishing.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4229,
+"en": "Known as a living fossil.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4230,
+"en": "Your average squid. Almost transparent while still fresh.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4231,
+"en": "Unlike Hirame flounders, its eyes are to the right. Its white meat is great stewed.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4232,
+"en": "Highly valued since ancient times. Many regard it as a symbol of good luck.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4233,
+"en": "Almost every part of this fish is edible, but beware of its venomous spines.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4234,
+"en": "The skin of this fish can be easily peeled off. Its meat and liver are great for various dishes.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4235,
+"en": "This large shrimp, which inhabits the seafloor of bays, is a real culinary treat.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4236,
+"en": "This long, nocturnal fish lives in holes at the sea bottom, which accounts for the name anago or \"hole child\" in Japanese.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4237,
+"en": "Japanese goby are fairly small and said to be easy to catch.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4238,
+"en": "This rusty old drum is filled with concrete.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4239,
+"en": "A knapsack with something inside.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4240,
+"en": "This fish is so rare, many people have never seen one before. Some grow to become quite large.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4241,
+"en": "A very long, deep-sea fish said to be a harbinger of impending disaster.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4242,
+"en": "A species of shark made famous by the film industry. Devours its prey with its sharp teeth and strong jaw.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4243,
+"en": "Despite its size, not much of this huge deep-sea crab is edible.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4244,
+"en": "Octopus is commonly eaten in Japan, but its looks make it less popular in many other countries.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4245,
+"en": "This freshwater fish found widely throughout Japan resembles the Japanese koi fish, but without the whiskers.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4246,
+"en": "This freshwater fish found widely throughout Japan is hardy and long-lived.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4247,
+"en": "This ornamental fish has spotted or flecked patterns and will sometimes fetch a pretty price.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4248,
+"en": "This rare and expensive fish has a pattern resembling a human face on its head.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4249,
+"en": "This large, edible fish is found in lakes, rivers, and other bodies of freshwater. It can live even in relatively murky water.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4250,
+"en": "This edible, freshwater fish can be found in many rivers, and its fierce fight makes it great for sport fishing.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4251,
+"en": "This fish is released in mountain streams across Japan because they are easy to farm raise.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4252,
+"en": "Salmon return to the river where they were born and swim upstream to lay their eggs. This fatty fish is used in many dishes.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4253,
+"en": "These omnivores are found all over Japan, but it's unusual to see them at this time of year.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4254,
+"en": "Originally from South America, this large, freshwater fish is inexpensive and easy to obtain.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4255,
+"en": "The pretty patterns on these fish make them popular among fishermen.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4256,
+"en": "Made of some of the rarest metal in the world. Could fetch a small fortune at a pawn shop.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0035 …"
+},
+{
+"id": 4257,
+"en": "The gold standard in plates. Could go for quite a lot at a pawn shop.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0020"
+},
+{
+"id": 4258,
+"en": "This well-crafted plate could net you a hefty sum over at a pawn shop.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0020"
+},
+{
+"id": 4259,
+"en": "A plate made of bronze. Nothing special, but it could probably fetch some decent cash.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4260,
+"en": "A plate made of iron. Nothing special, but it could probably fetch a little cash.  ",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0036 …"
+},
+{
+"id": 4261,
+"en": "This box is filled with items that any fighter would find useful.",
+"ctx": "tabla item|EXPLANATION + menú/texto ex_shop0000"
+},
+{
+"id": 4262,
+"en": "This pack contains items that can make your time in Kamurocho much more enjoyable.",
+"ctx": "tabla item|EXPLANATION + menú/texto ex_shop0000"
+},
+{
+"id": 4263,
+"en": "This trap helps you bag your prey.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4264,
+"en": "This kit is for modifying traps.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4265,
+"en": "This kit is for repairing broken traps.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4266,
+"en": "This kit is for repairing hunting huts.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4267,
+"en": "This meat will restore your health. Be thankful for the bear that gave its life to sustain yours.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4268,
+"en": "This fat comes in handy when you need a little health boost. It's also a good source of income if you decide to sell it.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4269,
+"en": "This bile is good for restoring health and as a source of nutrition.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4270,
+"en": "Bear skins are a good source of income for hunters.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4271,
+"en": "This meat comes in handy when you need a little health boost. Be thankful for the deer that gave its life to sustain yours.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4272,
+"en": "Deer hides are a decent source of income for hunters.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4273,
+"en": "Antlers are a decent source of income for hunters.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4274,
+"en": "This meat comes in handy when you need a little health boost. Be thankful for the fox that gave its life to sustain yours.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4275,
+"en": "Fox skins are a good source of income for hunters.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4276,
+"en": "This meat comes in handy when you need a little health boost. Be thankful for the marten that gave its life to sustain yours.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4277,
+"en": "Marten pelts are a good source of income for hunters.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4278,
+"en": "This meat comes in handy when you need a little health boost. Be thankful for the rabbit that gave its life to sustain yours.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4279,
+"en": "Rabbit pelts are a good source of income for hunters.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4280,
+"en": "These antlers are a good source of income for hunters.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4281,
+"en": "Gold stag hides are a good source of income for hunters.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4282,
+"en": "Slightly restores health.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4283,
+"en": "Might be safe to eat... You think.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4284,
+"en": "This rare mushroom comes in handy when you need a little health boost.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4285,
+"en": "This bell protects you from bears.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4286,
+"en": "This bait is the surest way to get a bear's attention.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0045"
+},
+{
+"id": 4287,
+"en": "You're not supposed to feed the deer.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4288,
+"en": "These provisions will restore your health quite a bit, and they won't freeze in the cold mountain climate.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4289,
+"en": "These rations are effective when you need a big health boost, and they won't freeze in the cold mountain climate.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4290,
+"en": "This ammo is from an old, unused hunting rifle.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4291,
+"en": "A tasty-looking carrot, if you like carrots.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4292,
+"en": "One of the famous carved dolls from Hokkaido.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4293,
+"en": "A small block of wood well-suited for woodworking.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4294,
+"en": "A tool for whittling away wood.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4295,
+"en": "This magazine is packed with sexy photos of women in bathing suits.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4296,
+"en": "Dummy item for snowball fights.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4297,
+"en": "This medicine is useful for restoring health during pursuits.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4298,
+"en": "Use this repair kit to restore a weapon's durability.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0005 …"
+},
+{
+"id": 4299,
+"en": "This is a test item for the offering event.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4300,
+"en": "This white porcelain teacup was made by a German maker of long standing. Patterned with its famous blue onion.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4301,
+"en": "This precious membership pass permanently halves hostess club charges.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4302,
+"en": "The 1st place trophy for the Modern Mahjong Cup.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4303,
+"en": "Restored temporarily for error handling.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4304,
+"en": "This magazine contains information on Hokkaido. Show it at certain shops to receive a discount.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0011"
+},
+{
+"id": 4305,
+"en": "This magazine contains information on Tokyo. Show it at certain shops to receive a discount.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0005 …"
+},
+{
+"id": 4306,
+"en": "This magazine contains information on the Tokai region. Show it at certain shops to receive a discount.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4307,
+"en": "This magazine contains information on the Kansai region. Show it at certain shops to receive a discount.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4308,
+"en": "This magazine contains information on Fukuoka. Show it at certain shops to receive a discount.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0009 …"
+},
+{
+"id": 4309,
+"en": "This autograph from world singing sensation Daddy Papa just might be worth a lot of money if sold.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4310,
+"en": "Seicomart's store brand of instant noodle soup with flavorful mini shrimp tempura in a cup.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4311,
+"en": "One of Seicomart's store brands of canned coffee.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0011"
+},
+{
+"id": 4312,
+"en": "Seicomart's original handmade seaweed rice ball features seaweed stewed in soy sauce.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0011 …"
+},
+{
+"id": 4313,
+"en": "Seicomart's original handmade tuna and mayo rice ball is a hit with customers.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0011"
+},
+{
+"id": 4314,
+"en": "Seicomart's original handmade salmon rice ball is an old standard.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0011"
+},
+{
+"id": 4315,
+"en": "Seicomart's original handmade pickled plum rice ball is about as traditional as rice balls get.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0011"
+},
+{
+"id": 4316,
+"en": "Each order is handmade with a tender, juicy cutlet fried up crisp, freshly steamed rice, egg, and our own special sauce.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0011"
+},
+{
+"id": 4317,
+"en": "This lunch set changes daily, so you'll never grow tired of it.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0011"
+},
+{
+"id": 4318,
+"en": "Three kinds of sandwiches, combining ham with cucumber, egg, and cheese for a tasty and colorful meal.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0011"
+},
+{
+"id": 4319,
+"en": "Enjoy a medley of ham, egg salad, and tuna sandwiches.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0011"
+},
+{
+"id": 4320,
+"en": "Seicomart's original juicy meat yakisoba. Its delicious-smelling sauce will drive you wild.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0011"
+},
+{
+"id": 4321,
+"en": "Seicomart's original natto roll is both tasty and good for you.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0011"
+},
+{
+"id": 4322,
+"en": "This charcoal-grilled chicken on a skewer has a savory smell that is out of this world.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0005 …"
+},
+{
+"id": 4323,
+"en": "Seicomart's store brand of mineral water in a 500 ml bottle.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0011"
+},
+{
+"id": 4324,
+"en": "Seicomart's store brand of green tea.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0011"
+},
+{
+"id": 4325,
+"en": "Appetizers, clear broth soup, choice sashimi, assorted small dishes, a main course, fried entrée, soups, choice sushi, and dessert.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4326,
+"en": "Buffer just in case.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4327,
+"en": "This is a debug item. It should not be used\nin-game.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4328,
+"en": "It may not have a maker's mark, but it's a hell of a lot better than a mass-produced factory sword.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4329,
+"en": "This beat-up short sword doesn't look like anything you could count on.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4330,
+"en": "This beat-up dagger looks like it could break at any moment.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4331,
+"en": "This dagger features a shiny new blade that looks like it should last a long time.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4332,
+"en": "Similar to those used in the military.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4333,
+"en": "This cutting-edge weapon is designed for self-defense.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4334,
+"en": "This is a slightly older model stun gun.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4335,
+"en": "This stun gun is more powerful than your garden variety of stun gun.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4336,
+"en": "The blade of this knife contains bits of chili pepper that deliver a burning sensation to those it stabs.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4337,
+"en": "A legendary Chinese weapon. Light and easy to wield.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4338,
+"en": "A famed sword passed down by the Lotus Clan. There should be quite a few out there.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4339,
+"en": "A historic dagger that's been passed down from owner to owner since ancient times. Holds the power of determination.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4340,
+"en": "This modified version of the Divine Dragon short sword mows down enemies with its overwhelming attack power and durability.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4341,
+"en": "This weapon can only be used at the Underground Coliseum.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4342,
+"en": "This Kamiyama special releases a series of loud booms when used, but that's about it.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4343,
+"en": "These scissors were originally made as an implement for eating crab.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0082"
+},
+{
+"id": 4344,
+"en": "This knife is very sturdy and won't break, no matter what you use it for.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4345,
+"en": "This sturdy knife has been made even sturdier, and its attack power has been improved as well.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4346,
+"en": "This sword is for kendo practice, but getting hit by it hurts more than you'd think.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0018 …"
+},
+{
+"id": 4347,
+"en": "This well-used wooden sword looks like it could snap at any moment. Don't rely on this weapon to get you out of a bind.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4348,
+"en": "This well-used katana lacks the maker's inscription and has a nicked blade. Don't rely on this weapon to get you out of a tough spot.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4349,
+"en": "The internal heating mechanism of this spatula allows you to cook enormous portions of food anytime, anywhere.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4350,
+"en": "This famed sword is said to scatter a swirling gust of sakura petals when slashing its victims.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4351,
+"en": "This is what sparked Kamiyama's interest in weapons.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4352,
+"en": "According to Kamiyama, the PG, which boasts a unique red blade, is much stronger than the MG.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4353,
+"en": "A legendary blade made by a swordsmith of extraordinary talent. It is said to sometimes drink in the blood of its victims.",
+"ctx": "tabla item|EXPLANATION + menú/texto ex_shop0000 …"
+},
+{
+"id": 4354,
+"en": "This sturdy sword is extremely hard and will not lose its edge, no matter how you use it.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4355,
+"en": "This sturdy katana has been made even sturdier, and its attack power has been improved.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4356,
+"en": "Forged by the great swordsmith Ryutaro Hayakawa, this long sword is said to have killed a dragon.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4357,
+"en": "This modified version of the Dragon Slayer sword mows down enemies with its overwhelming attack power and durability.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4358,
+"en": "This strong, heavy hammer was made by Kamiyama.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4359,
+"en": "A festival-lover made this so he'd always be in that festive spirit. It may even produce gusts that blow enemies away.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4360,
+"en": "This sign looks like it might pack a punch. It even has the warning \"Do not swing at people!\" inscribed on it.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0082"
+},
+{
+"id": 4361,
+"en": "No one's going to take you seriously while you're wielding this. Teach them what a mistake that is.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4362,
+"en": "A big frozen tuna said to be worth several millions of yen. Its eyes stare at you, unblinking.",
+"ctx": "tabla item|EXPLANATION + menú/texto ex_shop0000"
+},
+{
+"id": 4363,
+"en": "A hammer thick enough to block frontal attacks. Its swing packs a draconian punch.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4364,
+"en": "Made by modifying the Raging Dragon Hammer, this ultimate weapon mows down enemies with overwhelming attack power and durability.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4365,
+"en": "A rare weapon that brings great luck to those who swing it.",
+"ctx": "tabla item|EXPLANATION + menú/texto ex_shop0000"
+},
+{
+"id": 4366,
+"en": "The adorable snowman on the end of this weapon remains pure white, no matter how much blood splashes on it.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4367,
+"en": "Easy to conceal in your inner pocket.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4368,
+"en": "This weapon was made by linking iron pipes together. It can be extremely dangerous in the right (or wrong) hands.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4369,
+"en": "An assassin's spear, just as the name implies. Very sharp.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0082"
+},
+{
+"id": 4370,
+"en": "This blade was made by Kamiyama on a whim as part of the Photon Blade series.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4371,
+"en": "This strange spear has a sharp squid at the end. Who knows if it's a real squid, but its power and durability are guaranteed.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4372,
+"en": "This pole may look edible, but it's not. When it strikes opponents, however, it's said to emit a sweet smell.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4373,
+"en": "Like a marlin fighting against a fishing line, this weapon gets stronger when you're in trouble.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4374,
+"en": "A brightly sparkling, ultimate spear that lives up to its name in both appearance and strength.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4375,
+"en": "This modified version of the Mighty Dragon Spear pierces enemies with its overwhelming attack power and durability.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4376,
+"en": "This sturdy pole is extremely hard and will not bend or break no matter how you use it.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4377,
+"en": "This sturdy pole has been made even sturdier, and its attack power has been improved.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4378,
+"en": "This is basically an extendable staff that can unleash a flaming attack.",
+"ctx": "tabla item|EXPLANATION"
+}
+]

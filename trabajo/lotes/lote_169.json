@@ -1,0 +1,947 @@
+[
+{
+"id": 37288,
+"en": "...I'm not sure I understand.",
+"ctx": "diálogo uid01020bbd"
+},
+{
+"id": 37289,
+"en": "I'm sayin' we get monkeys like you breakin' rules left, right, and center 'cause Nakajima won't train his drivers worth a damn.",
+"ctx": "diálogo uid01020bbd"
+},
+{
+"id": 37290,
+"en": "Now just a minute.",
+"ctx": "diálogo uid01020bbd"
+},
+{
+"id": 37291,
+"en": "Huh, figures ya'd get uppity. That Nakajima's a real scum o' the earth kinda guy. Makes sense he'd hire the same.",
+"ctx": "diálogo uid01020bbd"
+},
+{
+"id": 37292,
+"en": "That circus he's runnin' is bound to go bust any day now.",
+"ctx": "diálogo uid01020bbd"
+},
+{
+"id": 37293,
+"en": "Please, sir. Just let me say my piece.",
+"ctx": "diálogo uid01020bbd"
+},
+{
+"id": 37294,
+"en": "Your piece, huh? Fine. I'm listenin'.",
+"ctx": "diálogo uid01020bbd"
+},
+{
+"id": 37295,
+"en": "What happened today was completely my fault, sir. Nakajima trained me in all the rules to follow, and I failed to follow them.",
+"ctx": "diálogo uid01020bbd"
+},
+{
+"id": 37296,
+"en": "I won't let it happen again, I assure you.",
+"ctx": "diálogo uid01020bbd"
+},
+{
+"id": 37297,
+"en": "Please, accept this as my apology.",
+"ctx": "diálogo uid01020bbd"
+},
+{
+"id": 37298,
+"en": "You call this an apology? You gotta be kiddin' me.",
+"ctx": "diálogo uid01020bbd"
+},
+{
+"id": 37299,
+"en": "Grr... Hmph. Well, you just be sure not to break protocol again!",
+"ctx": "diálogo uid01020bbd"
+},
+{
+"id": 37300,
+"en": "Well, you just be sure not to break protocol again!",
+"ctx": "diálogo uid01020bbd"
+},
+{
+"id": 37301,
+"en": "Whoa! That's one hell of a treat. Well, you just be sure not to break protocol again. Heheh.",
+"ctx": "diálogo uid01020bbd"
+},
+{
+"id": 37302,
+"en": "(I can't apologize without a gift. What should I hand over?)",
+"ctx": "diálogo uid01020bbd"
+},
+{
+"id": 37303,
+"en": "(Uh-oh. Guess I didn't bring anything.)",
+"ctx": "diálogo uid01020bbd"
+},
+{
+"id": 37304,
+"en": "Actually, I forgot to get you anything. Sorry about that, too...",
+"ctx": "diálogo uid01020bbd"
+},
+{
+"id": 37305,
+"en": "Hmph! Surprised a fool like you's still got a job. Just be sure not to break protocol again!",
+"ctx": "diálogo uid01020bbd"
+},
+{
+"id": 37306,
+"en": "I'll take that to heart. Thank you for your time.",
+"ctx": "diálogo uid01020bbd"
+},
+{
+"id": 37307,
+"en": "This is wonderful! Seems like the tide is really turning in\nour favor.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37308,
+"en": "Only thing left to do is ride the wave!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37309,
+"en": "I'm a little nervous...",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37310,
+"en": "Hey, none of that, now! You're going to be just fine!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37311,
+"en": "Christina is here for you, and you know Park-san and I are\nalways in your corner. So chin up!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37312,
+"en": "You're right... I can do this!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37313,
+"en": "Yeah, that's the spirit!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37314,
+"en": "Oh, I just remembered. I gotta head back to the agency, but\nyou should run on home.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37315,
+"en": "You sure had a lot on your plate today. You must be exhausted!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37316,
+"en": "I'll see ya tomorrow, then. Be safe getting home!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37317,
+"en": "(Horie-san is right. It was quite a day...)",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37318,
+"en": "(I think I'll hurry home and get some sleep.)",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37319,
+"en": "(Horie-san's waiting for me at the taxi stand.)",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37320,
+"en": "*pant* ...Well, Christina-san, what did you think?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37321,
+"en": "I have a feeling you and I will have a good talk, Haruka.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37322,
+"en": "Christina-san...",
+"ctx": "diálogo uid01020bd9 + diálogo uid01020bda"
+},
+{
+"id": 37323,
+"en": "What!? Why!?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37324,
+"en": "Sure, Haruka danced well, but she wasn't <Italic>that</Italic> much better\nthan me! So what gives!?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37325,
+"en": "My performance was better than hers! It doesn't make any sense!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37326,
+"en": "It's just as I told you before, Akari-san. I only work with\ndancers I'm interested in.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37327,
+"en": "Look, I'm in a good mood today, so I'll share with you why\nI chose Haruka.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37328,
+"en": "Dancing is more than just technique. It's about how you\nexpress your feelings, how you let others see what's in your\nheart. That's the key.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37329,
+"en": "My heart...?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37330,
+"en": "I've judged countless auditions, and I've seen more dancers\nthan I can remember.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37331,
+"en": "But the dancers who fail their auditions all have one very\nbasic thing in common.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37332,
+"en": "They've let themselves become robotic, just dancing\nmachines.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37333,
+"en": "Machines...",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37334,
+"en": "They perform perfectly calculated dances, without even the\nslightest error. And yes, said precise movements are quite\nimpressive... at first.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37335,
+"en": "But precision isn't what fascinates people. A true dancer\nmoves the audience with her ability to express emotion\nthrough movement.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37336,
+"en": "That's the difference between those who get their chance in\nthe spotlight and those who are backup dancers for life⑬the\ndifference between you and Haruka right now.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37337,
+"en": "That's...",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37338,
+"en": "Don't dance for others' approval, Akari-san. Dance from the\nheart. Show the world how you feel.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37339,
+"en": "What are you talking about!? What's wrong with the way I dance!?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37340,
+"en": "Forget it! I'm never going to dance again!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37341,
+"en": "Let her be for now, Haruka.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37342,
+"en": "She needs to figure things out for herself. It won't be\neasy, but it'll be best for her in the long run.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37343,
+"en": "But Akari's right. She's the one who showed me how much fun\ndancing can be. She's been a good friend to me.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37344,
+"en": "In that case, you be a good friend to her, and show her that\nfriends support one another and help each other grow.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37345,
+"en": "...Right. I will.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37346,
+"en": "All right. That's enough of a lecture. It's time now for\nthat talk I promised you. Something about work, was it?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37347,
+"en": "Yes. I wanted to ask you to be my dance instructor.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37348,
+"en": "Yes. Park-san, the president of my agency, Dyna Chair, would\nlike to speak to you about it.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37349,
+"en": "And instead of coming to see me, she sent the dancer\nherself... Actions speak louder, as they say. Heh, that's\nquite a competent president you have!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37350,
+"en": "So, if you wouldn't mind, I'd like you to come with me to my\nagency to meet her.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37351,
+"en": "Very well. Lead the way.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37352,
+"en": "There. See that man? That's Christina.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37353,
+"en": "Christina-san!",
+"ctx": "diálogo uid01020bd9 + diálogo uid01020caf"
+},
+{
+"id": 37354,
+"en": "Hmm? You're that dancer from before, aren't you? I believe I\ntold you we didn't have anything further to discuss...",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37355,
+"en": "Yes, I know, but please give me one more chance!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37356,
+"en": "And this time, I brought a pro.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37357,
+"en": "A pro?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37358,
+"en": "Akari, I don't understand.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37359,
+"en": "Well, actually, some of my dancer friends told me earlier\nthat Christina was in Sotenbori, so I already came and had\nhim watch me dance.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37360,
+"en": "But when I was done, he said he wasn't interested in me...",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37361,
+"en": "Christina-san, please give me another chance! Won't you\nwatch me dance just one more time?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37362,
+"en": "I really want you to take me on as your dance student! I\nwant it more than anything!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37363,
+"en": "I brought a friend with me this time. She's a pro, a real\npop idol!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37364,
+"en": "That's got to be interesting enough to let me have another\ntry, right?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37365,
+"en": "Akari, I don't know about this...",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37366,
+"en": "Come on, Haruka! Please!? Be a friend!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37367,
+"en": "I don't have the looks or the connections you do. I can't\nlet this chance slip away!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37368,
+"en": "...I don't know what's going on between the two of you, but,\nvery well. I'll watch you both dance.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37369,
+"en": "You mean it!?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37370,
+"en": "Wait a minute! I'm actually here because I wanted to talk to\nChristina-san about work...",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37371,
+"en": "Dance first. Then we can talk.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37372,
+"en": "I only work with dancers I'm interested in, you see.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37373,
+"en": "If you want to talk to me, you'll have to first draw my\ninterest by dancing.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37374,
+"en": "So what will it be?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37375,
+"en": "All right... I'll do it. Let's show him what we can do, Akari!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37376,
+"en": "(Trying to sober up, huh? Maybe he's taking a walk?)",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37377,
+"en": "Hi, Haruka.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37378,
+"en": "Huh? Oh, Akari! What a coincidence!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37379,
+"en": "Oh, nothing. So what are you doing? Shopping?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37380,
+"en": "I'm looking for a man named Christina. He supposedly has\nreally tan skin and wears a lot of flashy clothes. You\nhaven't seen anyone like that, have you...?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37381,
+"en": "No way... I don't believe it.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37382,
+"en": "What is it? You're acting kind of funny, Akari.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37383,
+"en": "Christina, right? Yeah, I know him. As a matter of fact, I\njust saw him.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37384,
+"en": "Hm? Really?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37385,
+"en": "Sure. He was just on the Sotenbori Footpath. He might still\nbe there. Come on!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37386,
+"en": "Excuse me. Do you mind if I ask you a question? Were you\njust inside this bar?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37387,
+"en": "Yeah. Why do you ask?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37388,
+"en": "Did you happen to see someone with tan skin and flashy\nclothes in there? I'm looking for him.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37389,
+"en": "Tan skin and flashy clothes, huh...? Hmm. I don't think so.\nI probably would've noticed somebody like that.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37390,
+"en": "Hey, you see an old guy with tan skin and flashy clothes in there?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37391,
+"en": "I, um, didn't say he was old...",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37392,
+"en": "Hmm? Nope. Don't think so.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37393,
+"en": "I didn't see anybody like that, either.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37394,
+"en": "Well, there's your answer. Guess not.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37395,
+"en": "I see. Sorry for taking your time. Thanks, anyway!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37396,
+"en": "Hey, you're pretty young. Should you really be out this late?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37397,
+"en": "Park-san said Christina might be drinking at a bar or\nsomething right now, didn't she?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37398,
+"en": "Do you know what Christina looks like?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37399,
+"en": "Of course I do. He's famous, right?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37400,
+"en": "...You sure?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37401,
+"en": "No, I'm sorry. I'm not really sure.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37402,
+"en": "Thought so. He might be famous in our industry, but not much\nis known about him outside of it. Since when did you try to\nbe such a know-it-all?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37403,
+"en": "I'm sorry. I'm afraid I've never even heard of him...",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37404,
+"en": "Well, that ain't surprising. He's famous in our industry,\nbut not much is known about him outside of it.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37405,
+"en": "Actually, I've only ever seen a picture of him once myself.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37406,
+"en": "What does he look like?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37407,
+"en": "Let's see. In the picture I saw, he had a tan, and he was\nwearin' a pretty flashy outfit. Really looked the part, ya\nknow?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37408,
+"en": "You'd think he'd stand out in a crowd, but I guess that ain't much to go on when it comes to actually tryin' to find the guy.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37409,
+"en": "Well, we could ask around. Maybe someone's seen him.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37410,
+"en": "That's true. Okay, where are the best places to go\nbarhopping around here...? Hmm...",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37411,
+"en": "Watami and Stijl Bar on Sotenbori Street are pretty famous.\nAnd Crest Bar in Hoganji Yokocho is pretty popular with\nthose in the know.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37412,
+"en": "How 'bout you go check out those three, and I'll go search\nsome of the less popular places?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37413,
+"en": "We'll meet up later. Good luck!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37414,
+"en": "(Okay. I'll go take a look.)",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37415,
+"en": "Okay, next up is continuing your lessons from yesterday.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37416,
+"en": "But you must be tired after that. Why not take a little\nbreak and clear your head? I'll be back at the office.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37417,
+"en": "Thank you. I'll see you there a little later.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37418,
+"en": "Well, we'll be going now. Thank you for everything!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37419,
+"en": "No, no. Thank you.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37420,
+"en": "Thank you. Goodbye!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37421,
+"en": "Okay. Let's head back to the office, shall we?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37422,
+"en": "Uh-oh! Careful, Haruka-chan!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37423,
+"en": "What is it? What's wrong?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37424,
+"en": "Look over there.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37425,
+"en": "See that woman? She's been watchin' you this whole time.\nPretty suspicious if you ask me... She could be dangerous.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37426,
+"en": "Dangerous?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37427,
+"en": "Yeah. Some fans can get so carried away they start stalkin'\nor harassin' their idol. You hear about that a lot these\ndays.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37428,
+"en": "As your manager, I can't let anythin' like that happen to\nyou. You stay right here. I'll go get rid of her!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37429,
+"en": "Wait, Horie-san!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37430,
+"en": "You bet I'm talkin' to you! I saw you starin' at Haruka.\nWhat's the big idea!?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37431,
+"en": "What? And just what are you accusing me of? You think I\nhave any interest in that little country bumpkin!?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37432,
+"en": "Bumpkin...?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37433,
+"en": "Then, what were you looking at?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37434,
+"en": "Well! If you must know, I was watching my ex-boyfriend. I\njust arrived in town, you see, so I thought I'd look him up.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37435,
+"en": "Ex-boyfriend...?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37436,
+"en": "What's wrong with that!? Do I need your permission?\nYou'd better apologize for throwing around such outrageous\naccusations!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37437,
+"en": "I'm sorry... That was a terrible mistake on my par⑬ Wait a\nminute!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37438,
+"en": "Horie-san, you know her?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37439,
+"en": "You're Yoko-san, the famous stylist!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37440,
+"en": "Yoko-san?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37441,
+"en": "Haruka-chan, you didn't know? Yoko-san is a world-famous\nstylist!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37442,
+"en": "With her hairstylin', her makeup techniques, and her\ntheories on health and beauty, she's second to none when it\ncomes to lookin' fabulous!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37443,
+"en": "Oh, wow! It's an honor to meet you.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37444,
+"en": "Oh, that's all behind me now. I'm not in the stylist biz\nanymore. These days, I'm just a regular okama in heavy\nmakeup.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37445,
+"en": "With your talent!? That's such a waste! Say... I know! Won't\nya consider stylin' our Haruka Sawamura here!?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37446,
+"en": "Haruka-chan, if you were styled by the famous Yoko-san,\nyou'd be top class! Oh, Yoko-san, please say you'll do it!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37447,
+"en": "Like I said, I don't do stylist work anymore... Besides,\nthere's no way this little potato face here's gonna turn out\nto be some diamond in the rough.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37448,
+"en": "...Hehe.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37449,
+"en": "No? That's a shame... We really coulda used your help to get\nthrough the Princess League.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37450,
+"en": "Princess League?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37451,
+"en": "Yeah, it's a TV show that decides the number one pop idol\nin Osaka.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37452,
+"en": "Haruka here is just about to go on for round one of the\nfinals. Would you like to come along? Just to cheer her on,\nI mean.  Right, Haruka-chan?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37453,
+"en": "Oh, yes! We'd love for you to come!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37454,
+"en": "Well, we'll be going, then. Apologies again for my mistake.\nTake care!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37455,
+"en": "Hmph. So, the little country bumpkin wants to turn herself\ninto a princess?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37456,
+"en": "This is the place. Wonder where the staff is...",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37457,
+"en": "Good morning. I'm Uda, chairman of the Sotenbori Merchants\nAssociation.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37458,
+"en": "The Merchants Association sponsors Sawamura-san's fan club.\nIt's very nice to meet you!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37459,
+"en": "Hello, Uda-san. It's very nice to meet you, too.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37460,
+"en": "And I'm Horie, from Dyna Chair. Thank you for having us\ntoday.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37461,
+"en": "Well, right this way, then...",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37462,
+"en": "Phew! Well, I lost. You're really good, Haruka. Silly of me\nto go up against a pro!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37463,
+"en": "*pant* *pant* Don't sell yourself short... You had all kinds\nof moves I'd never even seen before!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37464,
+"en": "Whew...! That was a close one... You're really good, Haruka.\nAre you sure you've never done this before? Not sure what I\nwas thinking, going up against a pro...",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37465,
+"en": "That's the great thing about dance battles.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37466,
+"en": "Win or lose, you get to see new dance moves up close.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37467,
+"en": "That was a great workout! So what did you think of your very first battle?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37468,
+"en": "It was tiring, but it was a lot of fun!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37469,
+"en": "I'm glad you liked it!",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37470,
+"en": "I realized something today, dancing with you.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37471,
+"en": "I've had so many dance lessons lately, I was starting to\nthink of dancing as work.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37472,
+"en": "But dancing is more than that. It's supposed to be fun, right?",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37473,
+"en": "Right! And it's even more fun when you dance with a friend.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37474,
+"en": "There are tons of dancers around here. If you ever want to\ntry another battle, just go up and ask.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37475,
+"en": "They might look scary, but they're good people. I'm sure\nthey'd be glad to take you on.",
+"ctx": "diálogo uid01020bd9"
+},
+{
+"id": 37476,
+"en": "There are some things in dance you can only learn on the\nstreets. I bet it'll help you out in your career, too!",
+"ctx": "diálogo uid01020bd9"
+}
+]

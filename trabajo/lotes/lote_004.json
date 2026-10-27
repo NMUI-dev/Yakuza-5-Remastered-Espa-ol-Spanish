@@ -1,0 +1,1802 @@
+[
+{
+"id": 899,
+"en": "Inzen Hozoin",
+"ctx": "tabla caption|SUBTITLE + tabla tougijyo_participant|NAME …"
+},
+{
+"id": 900,
+"en": "Mysterious Man",
+"ctx": "tabla caption|SUBTITLE + tabla correlation_person|NAME"
+},
+{
+"id": 901,
+"en": "Raiden",
+"ctx": "tabla caption|SUBTITLE + tabla tougijyo_participant|NAME …"
+},
+{
+"id": 902,
+"en": "Victory Road Qualifiers",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 903,
+"en": "Chase him!",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 904,
+"en": "Melee Match 1",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 905,
+"en": "Melee Match 2",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 906,
+"en": "Melee Match 3",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 907,
+"en": "Melee Match 4",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 908,
+"en": "Melee Match 5",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 909,
+"en": "Melee Match 6",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 910,
+"en": "Melee Match 7",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 911,
+"en": "Melee Match 8",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 912,
+"en": "Melee Match 9",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 913,
+"en": "Melee Match 10",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 914,
+"en": "Challenge Match 1",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 915,
+"en": "Challenge Match 2",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 916,
+"en": "Challenge Match 3",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 917,
+"en": "Challenge Match 4",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 918,
+"en": "Challenge Match 5",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 919,
+"en": "Challenge Match 6",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 920,
+"en": "Challenge Match 7",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 921,
+"en": "Challenge Match 8",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 922,
+"en": "Challenge Match 9",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 923,
+"en": "Challenge Match 10",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 924,
+"en": "Sprint Match 1",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 925,
+"en": "Sprint Match 2",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 926,
+"en": "Sprint Match 3",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 927,
+"en": "Sprint Match 4",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 928,
+"en": "Sprint Match 5",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 929,
+"en": "Ultimate Match 1",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 930,
+"en": "Ultimate Match 2",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 931,
+"en": "Ultimate Match 3",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 932,
+"en": "Ultimate Match 4",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 933,
+"en": "Ultimate Match 5",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 934,
+"en": "Head to the Top Floor!",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 935,
+"en": "Escape!",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 936,
+"en": "Kazuya Amon",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 937,
+"en": "Jiro Amon",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 938,
+"en": "Sango Amon",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 939,
+"en": "Jo Amon",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 940,
+"en": "Menacing Man",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 941,
+"en": "Lowlife Punk",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 942,
+"en": "Ill-Natured Man",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 943,
+"en": "Kidnapper",
+"ctx": "tabla caption|SUBTITLE + tabla drive_rival|NAME"
+},
+{
+"id": 944,
+"en": "Zombie",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 945,
+"en": "Hors d'Oeuvre Morosawa",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 946,
+"en": "Mafia",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 947,
+"en": "Put out the fire!",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 948,
+"en": "Bear",
+"ctx": "tabla caption|SUBTITLE + menú/texto string_tbl"
+},
+{
+"id": 949,
+"en": "Devil Killer",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 950,
+"en": "Crash Kajiwara",
+"ctx": "tabla caption|SUBTITLE + tabla drive_rival|NAME"
+},
+{
+"id": 951,
+"en": "Tsukimino Man",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 952,
+"en": "Vampire Yamashiro",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 953,
+"en": "Suspicious Man",
+"ctx": "tabla chase_base|NAME_ENEMY"
+},
+{
+"id": 954,
+"en": "Test",
+"ctx": "tabla chase_base|NAME_ENEMY"
+},
+{
+"id": 955,
+"en": "Kobayashi",
+"ctx": "tabla chase_base|NAME_ENEMY"
+},
+{
+"id": 956,
+"en": "Prison Guard",
+"ctx": "tabla chase_base|NAME_ENEMY"
+},
+{
+"id": 957,
+"en": "Stranger",
+"ctx": "tabla chase_base|NAME_ENEMY"
+},
+{
+"id": 958,
+"en": "Kubota",
+"ctx": "tabla chase_base|NAME_ENEMY"
+},
+{
+"id": 959,
+"en": "Runaway Passenger",
+"ctx": "tabla chase_base|NAME_ENEMY"
+},
+{
+"id": 960,
+"en": "Dummy",
+"ctx": "tabla chase_base|NAME_ENEMY + tabla item|NAME"
+},
+{
+"id": 961,
+"en": "Child",
+"ctx": "tabla chase_base|NAME_ENEMY"
+},
+{
+"id": 962,
+"en": "Punk",
+"ctx": "tabla chase_base|NAME_ENEMY"
+},
+{
+"id": 963,
+"en": "Businessman",
+"ctx": "tabla chase_base|NAME_ENEMY"
+},
+{
+"id": 964,
+"en": "Man in Sportswear",
+"ctx": "tabla chase_base|NAME_ENEMY"
+},
+{
+"id": 965,
+"en": "Ghost?",
+"ctx": "tabla chase_base|NAME_ENEMY"
+},
+{
+"id": 966,
+"en": "Accomplice",
+"ctx": "tabla chase_base|NAME_ENEMY"
+},
+{
+"id": 967,
+"en": "Kurashina",
+"ctx": "tabla chase_base|NAME_ENEMY"
+},
+{
+"id": 968,
+"en": "Michiru Yamazaki",
+"ctx": "tabla chase_base|NAME_ENEMY"
+},
+{
+"id": 969,
+"en": "Shoplifter",
+"ctx": "tabla chase_base|NAME_ENEMY"
+},
+{
+"id": 970,
+"en": "Nagoya Cochin Chicken",
+"ctx": "tabla chase_base|NAME_ENEMY"
+},
+{
+"id": 971,
+"en": "Saigo",
+"ctx": "tabla chase_base|NAME_ENEMY + tabla complete_shisho|CATEGORY …"
+},
+{
+"id": 972,
+"en": "Real Saigo",
+"ctx": "tabla chase_base|NAME_ENEMY"
+},
+{
+"id": 973,
+"en": "Looter",
+"ctx": "tabla chase_base|NAME_ENEMY"
+},
+{
+"id": 974,
+"en": "Someya",
+"ctx": "tabla chase_base|NAME_ENEMY"
+},
+{
+"id": 975,
+"en": "Bob Utsunomiya",
+"ctx": "tabla chase_base|NAME_ENEMY + menú/texto string_tbl"
+},
+{
+"id": 976,
+"en": "Police Officer",
+"ctx": "tabla chase_base|NAME_ENEMY"
+},
+{
+"id": 977,
+"en": "Takasugi",
+"ctx": "tabla chase_base|NAME_ENEMY + frase de acompañante/calle STID_ST_N_FUTOU"
+},
+{
+"id": 978,
+"en": "Ultimate Mack",
+"ctx": "tabla chase_base|NAME_ENEMY"
+},
+{
+"id": 979,
+"en": "Terrain Moves",
+"ctx": "tabla complete_heat|CATEGORY"
+},
+{
+"id": 980,
+"en": "Barehanded",
+"ctx": "tabla complete_heat|CATEGORY"
+},
+{
+"id": 981,
+"en": "Finishing Moves",
+"ctx": "tabla complete_heat|CATEGORY + tabla tips_tutorial|TIPS_NAME"
+},
+{
+"id": 982,
+"en": "Weapon Moves",
+"ctx": "tabla complete_heat|CATEGORY"
+},
+{
+"id": 983,
+"en": "Climax Heat",
+"ctx": "tabla complete_heat|CATEGORY + tabla tips_tutorial|TIPS_NAME"
+},
+{
+"id": 984,
+"en": "Smash an opponent against a wall.\nThe most basic of basic Heat Actions.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 985,
+"en": "Crush an opponent from behind.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 986,
+"en": "Smash an opponent's head against an object.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 987,
+"en": "Use a nearby pole to crush an unsuspecting\nopponent.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 988,
+"en": "A fierce attack that destroys an opponent's\ntailbone.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 989,
+"en": "Drop an opponent on a protruding object.\nIt's a real brain buster.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 990,
+"en": "Quickly eliminate an opponent by throwing them\noff of a high place.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 991,
+"en": "An ancient attack that splits open an enemy's\nhead using their own body weight. Learn from\nthe past to protect the future.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 992,
+"en": "This deadly move will let you kick your opponent into\nthe wall repeatedly.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 993,
+"en": "Kick and smash your opponent into a guard rail\nafter throwing him with this relentless move.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 994,
+"en": "Use a pole to crash down on an enemy with your\nknees from a high altitude.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 995,
+"en": "Lift up an enemy and give him a giant heave into\nthe wall. A move for Saejima only.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 996,
+"en": "Fling your opponent into a chain-link fence,\nand then fling yourself into your opponent.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 997,
+"en": "Smash an opponent against a fence and grate\ntheir head with it. Take a little off the top.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 998,
+"en": "Pick up an enemy and slam him into the wall.\nThis is sure to terrify your opponent.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 999,
+"en": "Tackle an enemy near a wall and slam them against it.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1000,
+"en": "Put an enemy on ice and turn them into a snowman. You'll need a carrot and a wooden carving.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1001,
+"en": "Grab your opponent by the feet and ruthlessly\nplow them into a surface.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1002,
+"en": "Show your devilish side by picking up an enemy\nand swinging them into a wall. ",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1003,
+"en": "Pick up a foe and swing them into a pole.\nMaybe catching a glimpse of heaven will help them\nrealize the error of their ways.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1004,
+"en": "Swing a foe around and use them as a weapon.\nThose involved catch a glimpse into hell.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1005,
+"en": "Grab an opponent and smash them into the\nground. Put all your strength, spirit, and weight\ninto a single devastating blow!",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1006,
+"en": "Surprise an opponent while you're knocked down\nby breaking their shins.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1007,
+"en": "A secret street fighting technique. Skillfully\nuse a lit cigarette to create an opening.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1008,
+"en": "Strike down your opponents with frightful\nspeed.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1009,
+"en": "Show an enemy grabbing you that they should to keep their hands to themselves by piledriving them.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1010,
+"en": "Pass between your enemy's legs after My Meteor Tackle then, send him flying.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1011,
+"en": "Pull a fallen enemy up off the ground and mercilessly slam him back down. Time is money.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1012,
+"en": "Take out two birds with one stone by dropping\none enemy onto another who's lying on the\nground.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1013,
+"en": "No need to damage your weapons this time.\nJust stomp on your opponent.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1014,
+"en": "Turn the tables by tackling the opponent and punching them while they're down. A vicious attack for a cornered attacker.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1015,
+"en": "Keep your weapons pristine and send your\nenemy flying with a well-placed kick. Make them\nwish you had used a weapon.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1016,
+"en": "A devastating attack. Just when the enemy\nthinks you're finished, come down upon them with\nall your might.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1017,
+"en": "A simple and popular attack. Throw an object\nonto a downed enemy, putting the force of your\nbody and soul behind it.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1018,
+"en": "Force something on an opponent's head and spin it. Then break them \nwith a knife hand strike as though they were a pile of bricks.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1019,
+"en": "A graceful, majestic strike that uses nunchaku\nto their utmost potential.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1020,
+"en": "Force a mystery liquid down an enemy's throat.\nDoes more psychological damage than physical.\n...Probably.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1021,
+"en": "Charge your stun gun with electrified passion,\npowering it up beyond its physical limits.\nTranscends modern understanding of physics.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1022,
+"en": "Get a strike on your opponent's shins and\nbowl them into the gutter. Spare no mercy.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1023,
+"en": "Inject a mysterious syringe into an opponent's\nposterior. Hopefully it isn't too dangerous.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1024,
+"en": "Send an opponent flying down range. Not a\nfair way to play, but a nice shot nonetheless.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1025,
+"en": "A basic attack passed down through the Lotus\nSchool. Trips the opponent, and then deals\nadditional attacks.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1026,
+"en": "Use the weight of the hammer to pound enemies\ninto the ground with a series of powerful\nblows.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1027,
+"en": "Lift enemies up from between their legs and\nslam them onto the ground.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1028,
+"en": "A relentless three-punch combo using brass knuckles.\nYou can use this when Saejima has brass knuckles equipped.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1029,
+"en": "Rattle an enemy's brains with a blow to the\nhead, then finish him with a final blow.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1030,
+"en": "Drop something heavy on an enemy's head.\nSometimes simple is best.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1031,
+"en": "Climax Heat\nBuild up power before delivering a savage kick.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1032,
+"en": "Climax Heat\nThrust your body into your enemy for major damage.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1033,
+"en": "Climax Heat\nPerform the ultimate reversal move while on death's door.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1034,
+"en": "Climax Heat\nPound the ground with built-up power to send enemies flying.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1035,
+"en": "Climax Heat\nLift up an enemy you have grabbed, then slam him down.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1036,
+"en": "Climax Heat\nCharge forward and send your enemy flying. ",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1037,
+"en": "Climax Heat\nDeliver a combo of assorted kicks.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1038,
+"en": "Climax Heat\nDeliver a devastating attack as you come hurtling down.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1039,
+"en": "Climax Heat\nViolently slam an airborne enemy down to the ground.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1040,
+"en": "Climax Heat\nDrag your enemy around on the pavement. Road rash is no joke.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1041,
+"en": "Climax Heat\nMow down enemies with a long pole.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1042,
+"en": "Climax Heat\nThrow your weapon at the enemy, catch it as it bounces, and repeat.",
+"ctx": "tabla complete_heat|EXPLANATION"
+},
+{
+"id": 1043,
+"en": "Tatsuya",
+"ctx": "tabla complete_shisho|CATEGORY + menú/texto mail"
+},
+{
+"id": 1044,
+"en": "Minamida",
+"ctx": "tabla complete_shisho|CATEGORY"
+},
+{
+"id": 1045,
+"en": "Sosuke",
+"ctx": "tabla complete_shisho|CATEGORY + frase de acompañante/calle STID_ST_FUKUOKA"
+},
+{
+"id": 1046,
+"en": "Tendo",
+"ctx": "tabla complete_shisho|CATEGORY"
+},
+{
+"id": 1047,
+"en": "Ayanokoji",
+"ctx": "tabla complete_shisho|CATEGORY"
+},
+{
+"id": 1048,
+"en": "Yoko",
+"ctx": "tabla complete_shisho|CATEGORY"
+},
+{
+"id": 1049,
+"en": "Igarashi",
+"ctx": "tabla complete_shisho|CATEGORY + menú/texto mail"
+},
+{
+"id": 1050,
+"en": "Kiryu in Training",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1051,
+"en": "Gourmet Kiryu",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1052,
+"en": "Gourmet King Kiryu",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1053,
+"en": "New Dish (Kiryu)",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1054,
+"en": "Saejima in Training",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1055,
+"en": "Gourmet Saejima",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1056,
+"en": "Gourmet King Saejima",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1057,
+"en": "New Dish (Saejima)",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1058,
+"en": "Haruka in Training",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1059,
+"en": "Gourmet Haruka",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1060,
+"en": "Gourmet Queen Haruka",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1061,
+"en": "New Dish (Haruka)",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1062,
+"en": "Akiyama in Training",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1063,
+"en": "Gourmet Akiyama",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1064,
+"en": "Gourmet King Akiyama",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1065,
+"en": "New Dish (Akiyama)",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1066,
+"en": "Shinada in Training",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1067,
+"en": "Gourmet Shinada",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1068,
+"en": "Gourmet King Shinada",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1069,
+"en": "New Dish (Shinada)",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1070,
+"en": "Nagasugai Road Battle ",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1071,
+"en": "Tsukimino Road Battle ",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1072,
+"en": "Sotenbori Road Battle: Haruka Sotenbori",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1073,
+"en": "Sotenbori Road Battle: Akiyama Sotenbori",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1074,
+"en": "Kineicho Road Battle ",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1075,
+"en": "Kamurocho Road Battle",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1076,
+"en": "Yahata Flashback",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1077,
+"en": "Kugihara Flashback",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1078,
+"en": "Ogita Flashback",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1079,
+"en": "Daigo Flashback",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1080,
+"en": "Gale Scroll",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1081,
+"en": "Heat Haze Scroll",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1082,
+"en": "Flowing Water Scroll",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1083,
+"en": "Tiger's Den Scroll",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1084,
+"en": "Ultimate Scroll",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1085,
+"en": "Wisdom of the Soul",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1086,
+"en": "Wisdom of the Cliffs",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1087,
+"en": "Wisdom of the Flames",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1088,
+"en": "Wisdom of the Earth",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1089,
+"en": "Wisdom of the Sky",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1090,
+"en": "Wisdom of the Truth",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1091,
+"en": "Suicidal Running",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1092,
+"en": "Suicidal Shooting",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1093,
+"en": "Suicidal Combat",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1094,
+"en": "True Suic. Running",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1095,
+"en": "True Suic. Shooting",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1096,
+"en": "True Suic. Combat",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1097,
+"en": "Path to Manhood 1",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1098,
+"en": "Path to Manhood 2",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1099,
+"en": "Path to Manhood 3",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1100,
+"en": "Path to Manhood 4",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1101,
+"en": "Path to Manhood 5",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1102,
+"en": "Path to Manhood F",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1103,
+"en": "Secret to Good Health",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1104,
+"en": "Secret to Body Care",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1105,
+"en": "How to Look Fabulous",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1106,
+"en": "Secret to Great Hair",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1107,
+"en": "Believe in Yourself",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1108,
+"en": "Dream On",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1109,
+"en": "Heat Eye Training",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1110,
+"en": "Swing Curs. Training",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1111,
+"en": "Slugging Training",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1112,
+"en": "Batting Eye Training",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1113,
+"en": "Impact Training",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1114,
+"en": "Foul Training",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1115,
+"en": "Heat Eye Training 2",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1116,
+"en": "Heat Eye Training 3",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1117,
+"en": "Heat Eye Training F",
+"ctx": "tabla complete_shisho|NAME"
+},
+{
+"id": 1118,
+"en": "Tatsuya has begun to show Kiryu what being a gourmet is all about.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1119,
+"en": "Tatsuya has shown Kiryu what it takes to be a master gourmet.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1120,
+"en": "Tatsuya has shown Kiryu what it takes to be a king of gourmets.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1121,
+"en": "Kiryu can now order Tatsuya's new dish at the Senbo food stall in \nNagasugai.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1122,
+"en": "Tatsuya has begun to show Saejima what being a gourmet is all about.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1123,
+"en": "Tatsuya has shown Saejima what it takes to be a master gourmet.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1124,
+"en": "Tatsuya has shown Saejima what it takes to be a king of gourmets.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1125,
+"en": "Saejima can now order Tatsuya's new dish at Café Alps in Tsukimino.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1126,
+"en": "Tatsuya has begun to show Haruka what being a gourmet is all about.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1127,
+"en": "Tatsuya has shown Haruka what it takes to be a master gourmet.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1128,
+"en": "Tatsuya has shown Haruka what it takes to be a queen of gourmets.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1129,
+"en": "Haruka can now order Tatsuya's new dish at Montblanc Coffee in Sotenbori.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1130,
+"en": "Tatsuya has begun to show Akiyama what being a gourmet is all about.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1131,
+"en": "Tatsuya has shown Akiyama what it takes to be a master gourmet.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1132,
+"en": "Tatsuya has shown Akiyama what it takes to be a king of gourmets.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1133,
+"en": "Akiyama can now order Tatsuya's new dish at Kanrai in Kamurocho.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1134,
+"en": "Tatsuya has begun to show Shinada what being a gourmet is all about.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1135,
+"en": "Tatsuya has shown Shinada what it takes to be a master gourmet.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1136,
+"en": "Tatsuya has shown Shinada what it takes to be a king of gourmets.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1137,
+"en": "Shinada can now order Tatsuya's new dish at Café Alps in Kineicho.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1138,
+"en": "You completed the Nagasugai Road Battle.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1139,
+"en": "You completed the Tsukimino Road Battle.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1140,
+"en": "You completed Haruka's Sotenbori Road Battle.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1141,
+"en": "You completed Akiyama's Sotenbori Road Battle.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1142,
+"en": "You completed the Kineicho Road Battle.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1143,
+"en": "You completed the Kamurocho Road Battle.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1144,
+"en": "You completed the Yahata Flashback Battle.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1145,
+"en": "You completed the Kugihara Flashback Battle.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1146,
+"en": "You completed the Ogita Flashback Battle.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1147,
+"en": "You completed the Daigo Flashback Battle.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1148,
+"en": "You completed the Gale Scroll training.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1149,
+"en": "You completed the Heat Haze Scroll training.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1150,
+"en": "You completed the Flowing Water Scroll training.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1151,
+"en": "You completed the Tiger's Den Scroll training.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1152,
+"en": "You completed the Ultimate Scroll training.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1153,
+"en": "You completed Wisdom of the Soul.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1154,
+"en": "You completed Wisdom of the Cliffs.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1155,
+"en": "You completed Wisdom of the Flames.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1156,
+"en": "You completed Wisdom of the Earth.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1157,
+"en": "You completed Wisdom of the Sky.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1158,
+"en": "You completed Wisdom of the Truth.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1159,
+"en": "You completed Suicidal Running.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1160,
+"en": "You completed Suicidal Shooting.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1161,
+"en": "You completed Suicidal Combat.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1162,
+"en": "You completed True Suicidal Running.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1163,
+"en": "You completed True Suicidal Shooting.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1164,
+"en": "You completed True Suicidal Combat.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1165,
+"en": "You completed Path to Manhood (Step 1).",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1166,
+"en": "You completed Path to Manhood (Step 2).",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1167,
+"en": "You completed Path to Manhood (Step 3).",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1168,
+"en": "You completed Path to Manhood (Step 4).",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1169,
+"en": "You completed Path to Manhood (Step 5).",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1170,
+"en": "You completed Path to Manhood (Final).",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1171,
+"en": "You completed The Secret to Good Health.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1172,
+"en": "You completed The Secret to Body Care.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1173,
+"en": "You completed How to Look Fabulous.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1174,
+"en": "You completed The Secret to Great Hair.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1175,
+"en": "You completed Believe in Yourself.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1176,
+"en": "You completed Dream On.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1177,
+"en": "You completed river-fishing training.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1178,
+"en": "You completed beginner course training at the batting center.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1179,
+"en": "You completed intermediate course training at the batting center.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1180,
+"en": "You completed pool training.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1181,
+"en": "You completed karaoke training.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1182,
+"en": "You completed UFO Catcher training.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1183,
+"en": "You completed nutrition training level 1.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1184,
+"en": "You completed nutrition training level 2.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1185,
+"en": "You completed marlin-fishing training.",
+"ctx": "tabla complete_shisho|EXPLANATION"
+},
+{
+"id": 1186,
+"en": "ラストADV",
+"ctx": "tabla continuepoint|SCENARIO + menú/texto scenario2"
+},
+{
+"id": 1187,
+"en": "Test  ",
+"ctx": "tabla continuepoint|NAME"
+},
+{
+"id": 1188,
+"en": "Load Last Nagasugai Save  ",
+"ctx": "tabla continuepoint|NAME"
+},
+{
+"id": 1189,
+"en": "Load Last Tsukimino Save  ",
+"ctx": "tabla continuepoint|NAME"
+},
+{
+"id": 1190,
+"en": "Load Last Sotenbori Save  ",
+"ctx": "tabla continuepoint|NAME"
+},
+{
+"id": 1191,
+"en": "Load Last Kineicho Save  ",
+"ctx": "tabla continuepoint|NAME"
+},
+{
+"id": 1192,
+"en": "Load Last Kamurocho Save  ",
+"ctx": "tabla continuepoint|NAME"
+},
+{
+"id": 1193,
+"en": "Load Last New Serena Save  ",
+"ctx": "tabla continuepoint|NAME"
+},
+{
+"id": 1194,
+"en": "The Passenger's Request",
+"ctx": "tabla drive_mission|TITLE + tabla drive_mission|TITLE_HINT"
+},
+{
+"id": 1195,
+"en": "Devil Killers Duel!",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1196,
+"en": "Searching for a Son",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1197,
+"en": "First of the Four Kings",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1198,
+"en": "Racing Blood",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1199,
+"en": "Data and Analysis",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1200,
+"en": "A Veteran's Approach",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1201,
+"en": "The Final Battle!",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1202,
+"en": "Anything for a Friend",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1203,
+"en": "Breaking the Sound Barrier",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1204,
+"en": "His Name is Furumichi",
+"ctx": "tabla drive_mission|TITLE + tabla drive_mission|TITLE_HINT"
+},
+{
+"id": 1205,
+"en": "Take Wada-san Home",
+"ctx": "tabla drive_mission|TITLE + tabla drive_mission|MISSION_ABOUT"
+},
+{
+"id": 1206,
+"en": "A Jaunt in Nagasugai",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1207,
+"en": "An Urgent Fare",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1208,
+"en": "The Restless Rider",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1209,
+"en": "A Queasy Client",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1210,
+"en": "Ticking the Boxes",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1211,
+"en": "Holding It In",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1212,
+"en": "A Lonesome Soul",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1213,
+"en": "Childlike Curiosity",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1214,
+"en": "Follow My Boyfriend",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1215,
+"en": "Tail That Car",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1216,
+"en": "Find My Daughter",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1217,
+"en": "The Spotlight Squad",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1218,
+"en": "Lose Sight of the Car",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1219,
+"en": "Tutorial",
+"ctx": "tabla drive_mission|TITLE + menú/texto string_tbl …"
+},
+{
+"id": 1220,
+"en": "Businessman in Distress",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1221,
+"en": "Looking Forward to Love",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1222,
+"en": "Door to the Future",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1223,
+"en": "Life Ain't Easy",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1224,
+"en": "Just Like TV",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1225,
+"en": "A Scheduled Meeting",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1226,
+"en": "Flight of Fancy",
+"ctx": "tabla drive_mission|TITLE + tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 1227,
+"en": "Leaving Town",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1228,
+"en": "Voice of the People",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1229,
+"en": "Seduced by Beauty",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1230,
+"en": "On the Other Side",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1231,
+"en": "The Masked Man",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1232,
+"en": "International Taxi",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1233,
+"en": "Love to See You Smile",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1234,
+"en": "The Scent of Danger",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1235,
+"en": "Hopes and Dreams",
+"ctx": "tabla drive_mission|TITLE + tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 1236,
+"en": "Finding Happiness",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1237,
+"en": "Man and Woman",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1238,
+"en": "Love and Lust",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1239,
+"en": "Shady Man",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1240,
+"en": "An Astute Woman",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1241,
+"en": "The Harrying Harpy",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1242,
+"en": "Three Sheets to the Wind",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1243,
+"en": "Delinquent Double Duty",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1244,
+"en": "Looking for Stories",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1245,
+"en": "Revelation Introduction",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1246,
+"en": "Food Stall Speedster",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1247,
+"en": "Overtake the Yakuza Car",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1248,
+"en": "Overtake the Kidnapper",
+"ctx": "tabla drive_mission|TITLE + tabla drive_mission|MISSION …"
+},
+{
+"id": 1249,
+"en": "Beat the Spangled Meteor",
+"ctx": "tabla drive_mission|TITLE + tabla drive_mission|TITLE_HINT …"
+},
+{
+"id": 1250,
+"en": "Escape with the Princess",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1251,
+"en": "Free Race",
+"ctx": "tabla drive_mission|TITLE"
+},
+{
+"id": 1252,
+"en": "Free Highway Drive",
+"ctx": "tabla drive_mission|TITLE + tabla drive_mission|MISSION"
+},
+{
+"id": 1253,
+"en": "Free Nagasugai Drive",
+"ctx": "tabla drive_mission|TITLE + tabla drive_mission|MISSION"
+},
+{
+"id": 1254,
+"en": "This call came in from someone going by the name Devil Killers or something like that. Maybe they're from overseas?",
+"ctx": "tabla drive_mission|TITLE_HINT"
+},
+{
+"id": 1255,
+"en": "This client is a woman who says she's looking for her son.",
+"ctx": "tabla drive_mission|TITLE_HINT"
+},
+{
+"id": 1256,
+"en": "We had a complaint about you, Mr. Suzuki. They sounded furious on the phone. Know who it is?",
+"ctx": "tabla drive_mission|TITLE_HINT"
+},
+{
+"id": 1257,
+"en": "A call for you from a client on the highway. That Devil guy again. He's taken a shine to you.",
+"ctx": "tabla drive_mission|TITLE_HINT"
+},
+{
+"id": 1258,
+"en": "A call for you from the highway. The customer spoke very politely on the phone.",
+"ctx": "tabla drive_mission|TITLE_HINT"
+}
+]

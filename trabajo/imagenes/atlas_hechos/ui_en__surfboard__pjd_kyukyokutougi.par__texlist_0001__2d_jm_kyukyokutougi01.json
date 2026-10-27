@@ -1,0 +1,137 @@
+{
+ "textura": "ui_en/surfboard/pjd_kyukyokutougi.par/texlist_0001/2d_jm_kyukyokutougi01",
+ "fuente": "timesbd.ttf",
+ "margen": 1,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    0,
+    2,
+    512,
+    56
+   ],
+   "en": "MELEE MATCH Completed",
+   "es": "COMBATE CUERPO A CUERPO Completado",
+   "fuente": "timesbd.ttf",
+   "alin": "centro",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     215,
+     0
+    ],
+    "abajo": [
+     255,
+     205,
+     0
+    ],
+    "contorno": null,
+    "brillo": [
+     185,
+     160,
+     30
+    ]
+   },
+   "ancho_max": 440
+  },
+  {
+   "caja": [
+    0,
+    56,
+    512,
+    106
+   ],
+   "en": "PROVING GROUNDS Completed",
+   "es": "CAMPO DE PRUEBAS Completado",
+   "fuente": "timesbd.ttf",
+   "alin": "centro",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     215,
+     0
+    ],
+    "abajo": [
+     255,
+     205,
+     0
+    ],
+    "contorno": null,
+    "brillo": [
+     185,
+     160,
+     30
+    ]
+   },
+   "ancho_max": 440
+  },
+  {
+   "caja": [
+    0,
+    106,
+    512,
+    158
+   ],
+   "en": "SPRINT MATCH Completed",
+   "es": "CARRERA DE VELOCIDAD Completada",
+   "fuente": "timesbd.ttf",
+   "alin": "centro",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     215,
+     0
+    ],
+    "abajo": [
+     255,
+     205,
+     0
+    ],
+    "contorno": null,
+    "brillo": [
+     185,
+     160,
+     30
+    ]
+   },
+   "ancho_max": 440
+  },
+  {
+   "caja": [
+    0,
+    158,
+    512,
+    210
+   ],
+   "en": "ULTIMATE MATCH Completed",
+   "es": "COMBATE DEFINITIVO Completado",
+   "fuente": "timesbd.ttf",
+   "alin": "centro",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     215,
+     0
+    ],
+    "abajo": [
+     255,
+     205,
+     0
+    ],
+    "contorno": null,
+    "brillo": [
+     185,
+     160,
+     30
+    ]
+   },
+   "ancho_max": 440
+  }
+ ],
+ "ceñido": true
+}

@@ -1,0 +1,797 @@
+[
+{
+"id": 29980,
+"en": "Since ya boil the chicken 'til the mizutaki broth gets real milky, the soup is chock full a' collagen.",
+"ctx": "diálogo uid00460004"
+},
+{
+"id": 29981,
+"en": "It's even lighter than eatin' chicken meat. I highly recommend it.",
+"ctx": "diálogo uid00460004"
+},
+{
+"id": 29982,
+"en": "Ooh, I'll hafta get some soon, then!",
+"ctx": "diálogo uid00460004"
+},
+{
+"id": 29983,
+"en": "(Mizutaki's good for the skin? Maybe I could talk about that at the cabaret club.)",
+"ctx": "diálogo uid00460004"
+},
+{
+"id": 29984,
+"en": "Apparently there's some special vendin' machine in the area, only one of its kind in the whole dang country. Y'should check it out if ya wanna get some juice in ya.",
+"ctx": "diálogo uid00460006"
+},
+{
+"id": 29985,
+"en": "That a fact? What's it sell?",
+"ctx": "diálogo uid00460006"
+},
+{
+"id": 29986,
+"en": "Huh. Y'know, I'm not too sure.",
+"ctx": "diálogo uid00460006"
+},
+{
+"id": 29987,
+"en": "Then what difference does it make!? I'll just get something from 'round here. I'm thirstier than a hog in a desert!",
+"ctx": "diálogo uid00460006"
+},
+{
+"id": 29988,
+"en": "C'mon! Let's just look a bit harder!",
+"ctx": "diálogo uid00460006"
+},
+{
+"id": 29989,
+"en": "(A one-of-a-kind vending machine? Interesting. Maybe I could talk about that at the cabaret club.)",
+"ctx": "diálogo uid00460006"
+},
+{
+"id": 29990,
+"en": "Next year's my coming-of-age ceremony, so my mom went and got me a Hakata textile sash!",
+"ctx": "diálogo uid00460008"
+},
+{
+"id": 29991,
+"en": "No way! Ain't that real expensive?",
+"ctx": "diálogo uid00460008"
+},
+{
+"id": 29992,
+"en": "Well, it's a once-in-a-lifetime event, after all. Gotta have the right duds to celebrate.",
+"ctx": "diálogo uid00460008"
+},
+{
+"id": 29993,
+"en": "I hear they make wedding dresses outta that stuff too! I'd sure love to try one on sometime.",
+"ctx": "diálogo uid00460008"
+},
+{
+"id": 29994,
+"en": "(Hakata textiles are popular with women. Maybe I could talk about that at the cabaret club.)",
+"ctx": "diálogo uid00460008"
+},
+{
+"id": 29995,
+"en": "Lately I've been eating curry soup every morning.",
+"ctx": "diálogo uid0046000a"
+},
+{
+"id": 29996,
+"en": "Why's that? Did you make too much of it?",
+"ctx": "diálogo uid0046000a"
+},
+{
+"id": 29997,
+"en": "No. Actually, the spices in curry warm your body up and promote better metabolism.",
+"ctx": "diálogo uid0046000a"
+},
+{
+"id": 29998,
+"en": "If you're dieting, it's better to eat it in the morning when you're just starting to move your body, instead of before going to bed.",
+"ctx": "diálogo uid0046000a"
+},
+{
+"id": 29999,
+"en": "No way. You can go on a diet with curry?",
+"ctx": "diálogo uid0046000a"
+},
+{
+"id": 30000,
+"en": "Oh yes. Certain spices even have anti-aging properties, while others help regulate your digestive tract. So they're good even if you're not dieting!",
+"ctx": "diálogo uid0046000a"
+},
+{
+"id": 30001,
+"en": "Wow! And curry soup's not heavy, so I bet it's easy to eat in the morning. I'll have to give it a try sometime.",
+"ctx": "diálogo uid0046000a"
+},
+{
+"id": 30002,
+"en": "(A curry soup breakfast diet, huh? I could talk about that at the cabaret club.)",
+"ctx": "diálogo uid0046000a"
+},
+{
+"id": 30003,
+"en": "Hey man, let's go get some uni!",
+"ctx": "diálogo uid0046000c"
+},
+{
+"id": 30004,
+"en": "Now's no good. Uni isn't in season until July.",
+"ctx": "diálogo uid0046000c"
+},
+{
+"id": 30005,
+"en": "Season? Uni has a season?",
+"ctx": "diálogo uid0046000c"
+},
+{
+"id": 30006,
+"en": "Sure. Different species of uni are harvested at different times throughout the year.",
+"ctx": "diálogo uid0046000c"
+},
+{
+"id": 30007,
+"en": "The best of the best is bafun uni, which is mainly caught in July.",
+"ctx": "diálogo uid0046000c"
+},
+{
+"id": 30008,
+"en": "Wow, you sure know a lot about this stuff!\nBut I don't want to wait until July...",
+"ctx": "diálogo uid0046000c"
+},
+{
+"id": 30009,
+"en": "(Uni is in season in July, huh? Sounds like somethin' to mention at the cabaret club.)",
+"ctx": "diálogo uid0046000c"
+},
+{
+"id": 30010,
+"en": "I've been going to bed with my hot water bottle every night lately.",
+"ctx": "diálogo uid0046000e"
+},
+{
+"id": 30011,
+"en": "Isn't it a pain to fill those up with hot water yourself? You should be fine as long as you turn up your heater.",
+"ctx": "diálogo uid0046000e"
+},
+{
+"id": 30012,
+"en": "But the newest ones have super cute covers! I have this fluffy one, and it's so adorable I want to cuddle right up with it!",
+"ctx": "diálogo uid0046000e"
+},
+{
+"id": 30013,
+"en": "Then why not get a body pillow instead?",
+"ctx": "diálogo uid0046000e"
+},
+{
+"id": 30014,
+"en": "No need! The bottles come in lots of shapes, so you can wrap it around your neck or hang it on your shoulder. There's one you wear like shoes too.",
+"ctx": "diálogo uid0046000e"
+},
+{
+"id": 30015,
+"en": "Wow! My shoulders have been killing me lately. I should give one of those a try!",
+"ctx": "diálogo uid0046000e"
+},
+{
+"id": 30016,
+"en": "(Hot water bottles for cold days, huh? Maybe I could talk about that at the cabaret club.)",
+"ctx": "diálogo uid0046000e"
+},
+{
+"id": 30017,
+"en": "New Year's will finally be here soon. I'm looking forward to the traditional meal.",
+"ctx": "diálogo uid00460010"
+},
+{
+"id": 30018,
+"en": "I guess if yer in here, there's not much else to look forward to.",
+"ctx": "diálogo uid00460010"
+},
+{
+"id": 30019,
+"en": "By the way, did you know that here in Hokkaido they eat the New Year's meal on New Year's Eve?",
+"ctx": "diálogo uid00460010"
+},
+{
+"id": 30020,
+"en": "What? They don't eat it on New Year's Day?",
+"ctx": "diálogo uid00460010"
+},
+{
+"id": 30021,
+"en": "Nah. My cellmate's from Hokkaido, and that's what he said. I'm guessing that's not gonna be the case in prison, though.",
+"ctx": "diálogo uid00460010"
+},
+{
+"id": 30022,
+"en": "(New Year's meals in Hokkaido. Once I get outta here, that'd be a conversation topic.)",
+"ctx": "diálogo uid00460010"
+},
+{
+"id": 30023,
+"en": "I hear that karaage specialty shops are all the rage these days.",
+"ctx": "diálogo uid00460011 + diálogo uid01340022"
+},
+{
+"id": 30024,
+"en": "Don't I know it. You're talkin' about all-you-can-eat karaage places, yeah?",
+"ctx": "diálogo uid00460011"
+},
+{
+"id": 30025,
+"en": "Then did ya know that Oita prefecture consumes the largest amount o' chicken in the country? And Oita's karaage is finger lickin' delish.",
+"ctx": "diálogo uid00460011"
+},
+{
+"id": 30026,
+"en": "Really? How's it different from regular karaage?",
+"ctx": "diálogo uid00460011"
+},
+{
+"id": 30027,
+"en": "Oita style karaage has strong flavorin' based on a spicy marinade that's made with soy sauce and salt.",
+"ctx": "diálogo uid00460011"
+},
+{
+"id": 30028,
+"en": "The marinade also has garlic and ginger too, so ya don't get bored of its taste at an all-you-can-eat joint!",
+"ctx": "diálogo uid00460011"
+},
+{
+"id": 30029,
+"en": "Whoaaa, that sounds tasty! Next time we go out drinkin', let's hit a place like that up!",
+"ctx": "diálogo uid00460011"
+},
+{
+"id": 30030,
+"en": "(Oita style karaage, huh? I bet I could talk about that at the cabaret club.)",
+"ctx": "diálogo uid00460011"
+},
+{
+"id": 30031,
+"en": "I can't do okonomiyaki 'cause it makes me fat. You know I'm dietin', don't ya?",
+"ctx": "diálogo uid00460013"
+},
+{
+"id": 30032,
+"en": "Nah, okonomiyaki's great for a diet. Wheat flour is low in fat and packed with protein, vitamins, and minerals!",
+"ctx": "diálogo uid00460013"
+},
+{
+"id": 30033,
+"en": "But I ain't gonna eat just wheat flour.",
+"ctx": "diálogo uid00460013"
+},
+{
+"id": 30034,
+"en": "Cabbage is nutritious and low-calorie too, and pork's got lotsa vitamin B1. And since the sauce doesn't have oil, it's low in calories too.",
+"ctx": "diálogo uid00460013"
+},
+{
+"id": 30035,
+"en": "No way! It's gotta be loaded with calories!",
+"ctx": "diálogo uid00460013"
+},
+{
+"id": 30036,
+"en": "Only if ya use fatty cuts of meat and mayo. Yakisoba, cheese, and mochi are all high in calories.",
+"ctx": "diálogo uid00460013"
+},
+{
+"id": 30037,
+"en": "But if ya switch out those ingredients, you can have a low-calorie, healthy meal. It's great food for dieters.",
+"ctx": "diálogo uid00460013"
+},
+{
+"id": 30038,
+"en": "Wow, I'da never expected that! If that's true, I guess maybe I can have some!",
+"ctx": "diálogo uid00460013"
+},
+{
+"id": 30039,
+"en": "(An okonomiyaki diet, huh? I could talk about that at the cabaret club.)",
+"ctx": "diálogo uid00460013"
+},
+{
+"id": 30040,
+"en": "Hey there, sonny. You eat miso, I take it?",
+"ctx": "diálogo uid00460015"
+},
+{
+"id": 30041,
+"en": "Miso? Of course.",
+"ctx": "diálogo uid00460015"
+},
+{
+"id": 30042,
+"en": "Miso's good for health and beauty, y'know. The stuff's packed with all sortsa nutrients, like proteins and minerals.",
+"ctx": "diálogo uid00460015"
+},
+{
+"id": 30043,
+"en": "I never knew that. Just tastes good to me.",
+"ctx": "diálogo uid00460015"
+},
+{
+"id": 30044,
+"en": "Oh, yes! It's good for the stomach and prevents cancer, high blood pressure, stroke, diabetes, a fatty liver, aging, cholesterol, and even aids metabolism.",
+"ctx": "diálogo uid00460015"
+},
+{
+"id": 30045,
+"en": "They say a bowl of miso a day keeps the doctor away. That's how good it is for your health.",
+"ctx": "diálogo uid00460015"
+},
+{
+"id": 30046,
+"en": "(Miso's got health and beauty benefits, huh? Sounds like a good topic to bring up at the cabaret club.)",
+"ctx": "diálogo uid00460015"
+},
+{
+"id": 30047,
+"en": "There's not much meat on tebasaki, is there? I feel like I'm losing out, compared to karaage.",
+"ctx": "diálogo uid00460016"
+},
+{
+"id": 30048,
+"en": "Nah, you've got it backwards! The skin of tebasaki chicken wings has the highest amount of collagen outta all the other parts of a chicken.",
+"ctx": "diálogo uid00460016"
+},
+{
+"id": 30049,
+"en": "They're also loaded with vitamin A, which has anti-aging properties and strengthens your bones and joints.",
+"ctx": "diálogo uid00460016"
+},
+{
+"id": 30050,
+"en": "That's why they're perfect for girls who don't eat all that much.",
+"ctx": "diálogo uid00460016"
+},
+{
+"id": 30051,
+"en": "Well, I'll be! Guess I should get me some tebasaki, then!",
+"ctx": "diálogo uid00460016"
+},
+{
+"id": 30052,
+"en": "(Tebasaki are packed with collagen. I should talk about that at the cabaret club.)",
+"ctx": "diálogo uid00460016"
+},
+{
+"id": 30053,
+"en": "Do you have plans for the Christmas holiday? I'm taking a trip to Maui, myself.",
+"ctx": "diálogo uid00460018"
+},
+{
+"id": 30054,
+"en": "You don't say. I'm heading to do some skiing in Aspen, Colorado.",
+"ctx": "diálogo uid00460018"
+},
+{
+"id": 30055,
+"en": "Why would you go skiing when it's already so cold? Isn't it better to go on a ski trip to Australia when it's summer here?",
+"ctx": "diálogo uid00460018"
+},
+{
+"id": 30056,
+"en": "This is how the rich and famous in LA do it. The West Coast is warm year-round, so they go to snowy climates in order to enjoy a white Christmas.",
+"ctx": "diálogo uid00460018"
+},
+{
+"id": 30057,
+"en": "Is that so? I guess I'm never going to join the ranks of the rich and famous if I just go to Hawaii.",
+"ctx": "diálogo uid00460018"
+},
+{
+"id": 30058,
+"en": "(Christmas done like the celebs in L.A., huh? I should talk about that at the cabaret club.)",
+"ctx": "diálogo uid00460018"
+},
+{
+"id": 30059,
+"en": "Piping hot takoyaki's the best on a cold day!",
+"ctx": "diálogo uid0046001a"
+},
+{
+"id": 30060,
+"en": "Oh, no. Takoyaki's great to eat during the hot summer months, too.",
+"ctx": "diálogo uid0046001a"
+},
+{
+"id": 30061,
+"en": "Oh wow, really?",
+"ctx": "diálogo uid0046001a + diálogo uid0133089f …"
+},
+{
+"id": 30062,
+"en": "Out in Kansai, we have Hangesho eleven days after the summer solstice. We have a tradition of eating octopus around that time.",
+"ctx": "diálogo uid0046001a"
+},
+{
+"id": 30063,
+"en": "See, octopus is rich in taurine and zinc, which helps you recover from exhaustion. So, it's great for preventing summer heat fatigue.",
+"ctx": "diálogo uid0046001a"
+},
+{
+"id": 30064,
+"en": "Whoa, I had no idea it was such a healthy food!",
+"ctx": "diálogo uid0046001a"
+},
+{
+"id": 30065,
+"en": "Hangesho falls on July 2nd, so it's been designated as Octopus Day. I make sure to eat some takoyaki on that day every year.",
+"ctx": "diálogo uid0046001a"
+},
+{
+"id": 30066,
+"en": "(Octopus is good for fighting exhaustion, huh? Maybe I'll talk about it at the cabaret club.)",
+"ctx": "diálogo uid0046001a"
+},
+{
+"id": 30067,
+"en": "Welcome! What are you in the mood for today, sir?",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30068,
+"en": "(I don't feel like hanging out alone tonight.)",
+"ctx": "diálogo uid0046001c"
+},
+{
+"id": 30069,
+"en": "I'm good for now. I'll come back some other time.",
+"ctx": "diálogo uid0046001c"
+},
+{
+"id": 30070,
+"en": "We hope you'll come by again soon.",
+"ctx": "diálogo uid0046001c"
+},
+{
+"id": 30071,
+"en": "(I have work to do. I should come back when I have more free time.)",
+"ctx": "diálogo uid0046001c"
+},
+{
+"id": 30072,
+"en": "Could you find me a cabaret club?",
+"ctx": "diálogo uid0046001c"
+},
+{
+"id": 30073,
+"en": "A cabaret club? Excellent choice. In that case, I highly recommend La Seine.",
+"ctx": "diálogo uid0046001c"
+},
+{
+"id": 30074,
+"en": "Could you tell me a bit more about it?",
+"ctx": "diálogo uid0046001c"
+},
+{
+"id": 30075,
+"en": "La Seine is on Nagasu Boulevard. It's a bit cozier than a famous club like Olivier, but it's also nowhere near as expensive.",
+"ctx": "diálogo uid0046001c"
+},
+{
+"id": 30076,
+"en": "Great, lead the way.",
+"ctx": "diálogo uid0046001c"
+},
+{
+"id": 30077,
+"en": "Sir, your friend seems to be waiting on you.",
+"ctx": "diálogo uid0046001c + diálogo uid0046001e …"
+},
+{
+"id": 30078,
+"en": "Ah, right. Sorry about that. I'll come back later.",
+"ctx": "diálogo uid0046001c"
+},
+{
+"id": 30079,
+"en": "I'll be waiting for you!",
+"ctx": "diálogo uid0046001c + diálogo uid00460020 …"
+},
+{
+"id": 30080,
+"en": "Very well, sir. Please give me one moment while I check in with the club.",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30081,
+"en": "Hello? This is Kato from Nagasu Night Navi.",
+"ctx": "diálogo uid0046001c"
+},
+{
+"id": 30082,
+"en": "I have a gentleman here who wishes to visit your establishment.",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30083,
+"en": "Is now a good time? All right, thank you very much.",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30084,
+"en": "All set, sir. If you'll please follow me.",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30085,
+"en": "(Damn, I don't have the money.)",
+"ctx": "diálogo uid0046001c + diálogo uid0046001f …"
+},
+{
+"id": 30086,
+"en": "Hold it. I'll have to come back later.",
+"ctx": "diálogo uid0046001c + diálogo uid00460020"
+},
+{
+"id": 30087,
+"en": "We hope you'll come again!",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30088,
+"en": "I think I'll pass for now.",
+"ctx": "diálogo uid0046001c"
+},
+{
+"id": 30089,
+"en": "Is there anything you'd like to know more about?",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30090,
+"en": "Since your time in the club is limited, do your best to make yourself as appealing as you can to the hostess in question.",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30091,
+"en": "If all you do is make her talk, she's likely to get bored of you quite quickly.",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30092,
+"en": "You'd be better off visiting various establishments around town, to pick up on local gossip. That way you'll have plenty of things to talk about.",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30093,
+"en": "That's not a bad idea. Well-traveled men definitely have a lot more conversational savvy.",
+"ctx": "diálogo uid0046001c"
+},
+{
+"id": 30094,
+"en": "Indeed. And if talking isn't doing the trick, you could always try spending more money.",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30095,
+"en": "Like ordering more expensive liquor?",
+"ctx": "diálogo uid0046001c + diálogo uid00460020"
+},
+{
+"id": 30096,
+"en": "Precisely. You could also give the lady presents to increase her favor. Oh, and putting in a little extra effort into how you dress never hurts either.",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30097,
+"en": "If you're willing to spend the money, you're likely to get a return on your investment.",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30098,
+"en": "Guys who are cheap aren't well-liked, huh?",
+"ctx": "diálogo uid0046001c + diálogo uid00460020"
+},
+{
+"id": 30099,
+"en": "Not usually, no. It is important to be able to get a hostess the very best drink you can.",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30100,
+"en": "Spending big amounts of cash can win a girl over in a surprisingly short period of time, so if you're in a hurry, try saving up some money.",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30101,
+"en": "So if you're a good conversationalist, you don't need to spend as much money, right?",
+"ctx": "diálogo uid0046001c + diálogo uid00460020"
+},
+{
+"id": 30102,
+"en": "Correct. If you don't want to spend a great deal of money, it is advisable to find other ways to get the lady to like you.",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30103,
+"en": "Thanks. I think I get it now.",
+"ctx": "diálogo uid0046001c + diálogo uid00460020"
+},
+{
+"id": 30104,
+"en": "Oh, right! There's one more important thing I forgot to mention.",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30105,
+"en": "If things are going really well, it can be a good idea to take your leave.",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30106,
+"en": "If you keep prattling on after that, you risk killing the mood and undoing all the hard work you did.",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30107,
+"en": "That's good to keep in mind.",
+"ctx": "diálogo uid0046001c + diálogo uid00460020"
+},
+{
+"id": 30108,
+"en": "Lastly, before you leave, be sure to ask her if she'd like to go out with you on a date later.",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30109,
+"en": "Taking a hostess on a date can further increase her fondness for you, especially if you are able to work the right magic.",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30110,
+"en": "I see. You've been very helpful. Thanks.",
+"ctx": "diálogo uid0046001c + diálogo uid00460020"
+},
+{
+"id": 30111,
+"en": "Do you have any other questions?",
+"ctx": "diálogo uid0046001c + diálogo uid0046001f …"
+},
+{
+"id": 30112,
+"en": "You can invite hostesses out to join you on dates. During these you can grab a bite to eat, go shopping, or play games together.",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30113,
+"en": "Taking them out on dates will increase their affection towards you, so you've got nothing to lose by asking them out when you visit the club.",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30114,
+"en": "But just because you ask her out, it doesn't necessarily mean she'll say yes.",
+"ctx": "diálogo uid0046001c + diálogo uid00460020"
+},
+{
+"id": 30115,
+"en": "Correct. Whether she takes you up on your offer or not depends largely on her mood.",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30116,
+"en": "If you're not good enough friends with her, she'll most likely reject your proposal.",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30117,
+"en": "If that's the case, then try to improve her mood. It's important for her to have a good time as well.",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30118,
+"en": "Also, if you show up at the club and ask her out right away, you're probably not going to get a very positive response either.",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30119,
+"en": "I see. The timing is important, then.",
+"ctx": "diálogo uid0046001c + diálogo uid00460020"
+},
+{
+"id": 30120,
+"en": "Oh, yes. But if she turns you down, don't give up. If you keep on asking, she may eventually give in and say yes.",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30121,
+"en": "I'll keep that in mind.",
+"ctx": "diálogo uid0046001c + diálogo uid0046001e …"
+},
+{
+"id": 30122,
+"en": "Oh, I wouldn't possibly know anything about that...",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30123,
+"en": "Oh. Too bad.",
+"ctx": "diálogo uid0046001c + diálogo uid00460020"
+},
+{
+"id": 30124,
+"en": "No, wait, I have something! Once you've talked your hostess up as much as you can, you normally wouldn't need to order anything else for the remainder of your time.",
+"ctx": "diálogo uid0046001c"
+},
+{
+"id": 30125,
+"en": "However, if you order something anyway, she might treat you to a... different sort of hospitality.",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30126,
+"en": "A different sort of hospitality? Meaning what, exactly?",
+"ctx": "diálogo uid0046001c + diálogo uid00460020"
+},
+{
+"id": 30127,
+"en": "You knooow, things like hand-feeding you pieces of fruit, maybe some fun and naughty things with candies or desserts...",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30128,
+"en": "That sounds strangely appealing.",
+"ctx": "diálogo uid0046001c + diálogo uid00460020"
+},
+{
+"id": 30129,
+"en": "Indeed, it is the pinnacle of excess. One of the finer thrills that money well spent can buy.",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30130,
+"en": "Did you have any other questions?",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30131,
+"en": "Ah! How did things work out for you last time, sir?",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d"
+},
+{
+"id": 30132,
+"en": "Very well. You really know your clubs.",
+"ctx": "diálogo uid0046001c"
+},
+{
+"id": 30133,
+"en": "I'm pleased to hear you had a good time.",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30134,
+"en": "Nah, I'm good for now.",
+"ctx": "diálogo uid0046001c + diálogo uid0046001f"
+},
+{
+"id": 30135,
+"en": "All right, then. Please do come again!",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30136,
+"en": "I'm okay for now, thank you.",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d"
+},
+{
+"id": 30137,
+"en": "Nah, I'm good.",
+"ctx": "diálogo uid0046001c + diálogo uid0046001d …"
+},
+{
+"id": 30138,
+"en": "Welcome!\n...Ahem! Young miss, what are you doing in a place like this?",
+"ctx": "diálogo uid0046001c"
+}
+]

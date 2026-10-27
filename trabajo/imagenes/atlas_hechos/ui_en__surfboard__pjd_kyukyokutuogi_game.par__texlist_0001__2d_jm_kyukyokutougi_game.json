@@ -1,0 +1,39 @@
+{
+ "textura": "ui_en/surfboard/pjd_kyukyokutuogi_game.par/texlist_0001/2d_jm_kyukyokutougi_game",
+ "fuente": "timesbd.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    313,
+    512,
+    416
+   ],
+   "en": "Success",
+   "ocr": "Success",
+   "es": "Éxito",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 508,
+   "alto": 54
+  },
+  {
+   "caja": [
+    0,
+    412,
+    512,
+    512
+   ],
+   "en": "Failure",
+   "ocr": "Failure",
+   "es": "Fracaso",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 508
+  }
+ ]
+}

@@ -1,0 +1,627 @@
+[
+{
+"id": 570,
+"en": "Apply what you have learned so that you can decrease the Health you lose due to the fatigue that results if you fail at a job.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 571,
+"en": "Win the hearts of the crowd with a super sweet performance during a dance battle, causing your opponent's Heat to fall dramatically.",
+"ctx": "tabla ability|EXPLANATION + tabla dance_battle_skill|EXPLANATION"
+},
+{
+"id": 572,
+"en": "Master what you have learned to dramatically decrease the Health you lose due to the fatigue that results if you fail at a job.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 573,
+"en": "Give an energetic dance battle performance that slightly lowers the Health of your opponents by throwing them off rhythm.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 574,
+"en": "Lower your loss of Health during lessons though efficient movement.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 575,
+"en": "Give a spirited dance battle performance that lowers the health of your opponents by throwing them off rhythm.",
+"ctx": "tabla ability|EXPLANATION + tabla dance_battle_skill|EXPLANATION"
+},
+{
+"id": 576,
+"en": "Lower your loss of health during lessons even more though efficient movement.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 577,
+"en": "Give a powerful dance battle performance that dramatically lowers the Health of your opponents by throwing them off rhythm.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 578,
+"en": "Lower your loss of health during lessons to the absolute limit though efficient movement.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 579,
+"en": "Boosts the rate the Heat Gauge fills.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 580,
+"en": "This beautiful dance battle move will earn you a lot of bonus points by tracing a rainbow through the air with a showy backflip.",
+"ctx": "tabla ability|EXPLANATION + tabla dance_battle_skill|EXPLANATION"
+},
+{
+"id": 581,
+"en": "This sublime dance battle move will earn you a ton of bonus points by tracing a rainbow through the air with a showy backflip.",
+"ctx": "tabla ability|EXPLANATION + tabla dance_battle_skill|EXPLANATION"
+},
+{
+"id": 582,
+"en": "This bold dance battle move will earn you a massive amount of bonus points by tracing a rainbow through the air with a showy backflip.",
+"ctx": "tabla ability|EXPLANATION + tabla dance_battle_skill|EXPLANATION"
+},
+{
+"id": 583,
+"en": "Boost the number of times you can use Idol Heat during a concert battle.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 584,
+"en": "Perform a costume change in the blink of an eye. <Color:255,255,150,255>Only possible when the Climax Heat Gauge is full.<Color:Default>",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 585,
+"en": "Lower the rate at which the second level of Health automatically declines.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 586,
+"en": "Draw a weapon and deliver a lightning-quick strike.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 587,
+"en": "Spin an umbrella and deliver combos, ending with a final, devastating strike.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 588,
+"en": "Forcibly pull a fallen enemy to his feet, then slam him against a wall.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 589,
+"en": "Cruelly shove your enemy back into the wall again after he comes bouncing back.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 590,
+"en": "Knock down your enemy with a vicious strike after he is defenselessly plastered against a wall.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 591,
+"en": "Take your enemy in your arms and throw him over your head.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 592,
+"en": "Viciously slam your knee into your enemy's vitals.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 593,
+"en": "Strike enemies over and over with flashy pole work.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 594,
+"en": "Deliver swift combos with a short-bladed weapon.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 595,
+"en": "Drag your enemy around on the pavement. Road rash is no joke. <Color:255,255,150,255>Only possible when the Climax Heat Gauge is full.<Color:Default>",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 596,
+"en": "Your Heat Gauge will rise when you attack with a weapon.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 597,
+"en": "Earn more experience points when you finish off an enemy with a weapon attack.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 598,
+"en": "Your Heat Gauge will rise higher when taunting.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 599,
+"en": "Force a fallen enemy to his feet, then deliver your next attack while still holding him.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 600,
+"en": "Perform Quickstep twice in a row. An impressive dodge.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 601,
+"en": "Slide into your enemy's legs at high speed.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 602,
+"en": "Finish your enemy off after slamming him into a wall with My Meteor Tackle.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 603,
+"en": "Grab an enemy in the middle of a Rush Combo.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 604,
+"en": "Parry your enemy's attack, then transition immediately to a grabbing counterattack.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 605,
+"en": "Break your enemy's guard when you attack with a one-handed weapon, knife, pole, or sword even if he is guarding with a weapon.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 606,
+"en": "Further boost damage to surrounding enemies when hitting them with thrown enemies. ",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 607,
+"en": "Reduce the amount that the Heat Gauge drops due to My Meteor Tackle.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 608,
+"en": "Stretch the enemy into a shape of a shachihoko, then grab him to deliver another strike.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 609,
+"en": "Pass between your enemy's legs after My Meteor Tackle, then send him flying.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 610,
+"en": "Leap from one enemy while attacking the rest with a sword.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 611,
+"en": "Mercilessly beat your enemy with a tonfa and deliver massive damage with each strike.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 612,
+"en": "Immobilize your enemy with a pole weapon, then use the leverage you have to hurl him away.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 613,
+"en": "Use your mastery of wrestling to perform one grappling move after another.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 614,
+"en": "Violently hurl a long pole like a javelin at a distant enemy.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 615,
+"en": "Tackle your enemy, pushing him back. Can slam enemies into walls. Follow up with <Action:Battle_Normal_Attack@Combat> to knock down or <Action:Battle_Drop_Weapon@Combat> to push away.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 616,
+"en": "Weapon durability increases.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 617,
+"en": "Mow down enemies with a long pole. <Color:255,255,150,255>Only possible when the Climax Heat Gauge is full.<Color:Default>",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 618,
+"en": "Grab onto your enemy and do not let go until you deliver numerous blows.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 619,
+"en": "Weapon durability increases even more.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 620,
+"en": "Grab your enemy while evading his attack with Quickstep.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 621,
+"en": "Throw your weapon at the enemy, catch it as it bounces, and repeat. <Color:255,255,150,255>Only possible when the Climax Heat Gauge is full.<Color:Default>",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 622,
+"en": "Torment your enemy with a series of thrusts, then finish him off with one more violent thrust.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 623,
+"en": "Mastery of the dolly enables you to use it as a weapon by kicking it toward your enemies.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 624,
+"en": "Mastery of the desk enables you to use it as a weapon by charging at your enemies with its legs facing forward.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 625,
+"en": "Hold <Action:Battle_Fight_Stance@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 626,
+"en": "Press <Action:Battle_Drop_Weapon@Combat> when you are near an fallen enemy.",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 627,
+"en": "<Action:Battle_Drop_Weapon@Combat> near a weapon displaying <Sign:23>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 628,
+"en": "<Action:Battle_Guard@Combat> while holding a weapon",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 629,
+"en": "<Action:Battle_Dodge@Combat> or <Action:Move_Forward@Combat><Action:Move_Back@Combat><Action:Move_Left@Combat><Action:Move_Right@Combat> + <Action:Battle_Dodge@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 630,
+"en": "<Action:Battle_Extreme_Heat@Combat> when unarmed and facing nearby enemy",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 631,
+"en": "<Action:Battle_Hide_Weapon@Combat> when unarmed",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 632,
+"en": "<Action:Battle_Heavy_Attack@Combat> during Rush Combo",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 633,
+"en": "<Action:Move_Forward@Combat><Action:Move_Back@Combat><Action:Move_Left@Combat><Action:Move_Right@Combat> + <Action:Battle_Normal_Attack@Combat> or <Action:Battle_Heavy_Attack@Combat> without Fighting Stance ",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 634,
+"en": "<Action:Battle_Normal_Attack@Combat> or <Action:Battle_Heavy_Attack@Combat> while holding enemy",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 635,
+"en": "<Action:Battle_Drop_Weapon@Combat> while holding enemy",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 636,
+"en": "<Action:Battle_Pull_Weapon_Left@Combat> <Action:Battle_Pull_Weapon_Up@Combat> <Action:Battle_Pull_Weapon_Right@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 637,
+"en": "<Action:Battle_Drop_Weapon@Combat> when using acquired weapon",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 638,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>after pulling up a knocked down enemy lying face up<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 639,
+"en": "<Color:109,193,240,255>Grab near high place or water, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 640,
+"en": "<Color:109,193,240,255>Grab enemy near wall, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 641,
+"en": "<Color:109,193,240,255>Grab enemy from behind near a wall, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 642,
+"en": "<Color:109,193,240,255>Grab enemy near metal fence, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 643,
+"en": "<Color:109,193,240,255>Grab from back near metal fence, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 644,
+"en": "<Color:109,193,240,255>Grab enemy near raised surface, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 645,
+"en": "<Color:109,193,240,255>Grab enemy near lower surface, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 646,
+"en": "<Color:109,193,240,255>Grab enemy near pillar, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 647,
+"en": "<Color:109,193,240,255>Grab enemy at end of rail/fence, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 648,
+"en": "<Color:109,193,240,255>Grab enemy near rail/fence, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 649,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>when enemy down<Color:Default>/<Color:255,255,150,255>Health flashing red<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 650,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>when enemy down/with brass knuckles<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 651,
+"en": "<Color:109,193,240,255>Grab enemy near a fallen enemy, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 652,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>when armed and enemy falls face up<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 653,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>when armed and enemy falls face down<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 654,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>with hammer near fallen enemy<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 655,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>with small weapon near fallen enemy<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 656,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>with heavy weapon near fallen enemy<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 657,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near enemy when holding bucket etc.<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 658,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near enemy when holding light weapon<Color:Default>  ",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 659,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near enemy when holding sign<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 660,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>with one-handed weapon near enemy<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 661,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near enemy when holding heavy weapon<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 662,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near enemy when holding staff<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 663,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near enemy when holding kali sticks<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 664,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>with kali sticks<Color:Default>/<Color:255,255,150,255>health flashing red<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 665,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>with sword<Color:Default>/<Color:255,255,150,255>health flashing red<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 666,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near wall with hammer equipped<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 667,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near enemy with hammer equipped<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 668,
+"en": "<Color:109,193,240,255>Run amid enemies with knife, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 669,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near wall with knife equipped<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 670,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near enemy when knife equipped<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 671,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near enemy when nunchaku equipped<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 672,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>with 2-handed weapon near enemy<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 673,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near enemy while holding tonfa<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 674,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near enemy while holding liquid<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 675,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near enemy while holding sword<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 676,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near enemy when using stun gun<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 677,
+"en": "<Color:109,193,240,255>Equip bowling ball, step away, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 678,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near enemy when holding salt shaker<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 679,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near enemy when holding needle<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 680,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near enemy when holding golf club<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 681,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near enemy when holding stove<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 682,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near enemy when holding pliers<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 683,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near enemy when holding umbrella<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 684,
+"en": "<Color:109,193,240,255>Grab enemy's legs near surface, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 685,
+"en": "<Color:109,193,240,255>Grab enemy's legs near wall, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 686,
+"en": "<Color:109,193,240,255>Grab enemy's legs near pillar, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 687,
+"en": "<Color:109,193,240,255>Grab enemy's legs, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 688,
+"en": "<Color:109,193,240,255>Grab<Color:Default> <Color:255,255,150,255>when health flashing red, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 689,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>when you are down<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 690,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>when smoking<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 691,
+"en": "<Color:109,193,240,255>Rush into an enemy group, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 692,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>when ally is holding enemy from back<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 693,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>when ally is holding enemy from front<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 694,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>when enemy is trying to get up<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+}
+]

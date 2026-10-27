@@ -1,0 +1,38 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_kh05",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    8,
+    1,
+    446,
+    81
+   ],
+   "en": "I won't forgive you if there are any leftovers.",
+   "ocr": "wont forgiveyou fthereareanyleftovers.",
+   "es": "No te perdonaré si hay sobras.",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 438
+  },
+  {
+   "caja": [
+    129,
+    165,
+    503,
+    256
+   ],
+   "en": "It's the Haruka special. Food's up!",
+   "ocr": "Food'sup!",
+   "es": "Es la Haruka Especial. ¡La comida está lista!",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 374
+  }
+ ]
+}

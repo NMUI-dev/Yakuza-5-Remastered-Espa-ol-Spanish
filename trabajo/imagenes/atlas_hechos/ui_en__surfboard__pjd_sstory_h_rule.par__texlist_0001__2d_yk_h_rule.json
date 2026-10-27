@@ -1,0 +1,123 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_h_rule.par/texlist_0001/2d_yk_h_rule",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    2,
+    110,
+    70,
+    123
+   ],
+   "en": "DATA",
+   "es": "DATOS",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 64,
+   "mediana": false
+  },
+  {
+   "caja": [
+    0,
+    128,
+    256,
+    150
+   ],
+   "en": "Dancer Rank",
+   "es": "Rango de bailarina",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 252
+  },
+  {
+   "caja": [
+    0,
+    150,
+    256,
+    172
+   ],
+   "en": "Input Difficulty",
+   "es": "Dificultad",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 252
+  },
+  {
+   "caja": [
+    0,
+    172,
+    256,
+    194
+   ],
+   "en": "Genre",
+   "es": "Género",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 252
+  },
+  {
+   "caja": [
+    0,
+    194,
+    256,
+    216
+   ],
+   "en": "Dance Heat",
+   "es": "Intensidad",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 252
+  },
+  {
+   "caja": [
+    0,
+    216,
+    256,
+    238
+   ],
+   "en": "Health",
+   "es": "Salud",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 252
+  }
+ ]
+}

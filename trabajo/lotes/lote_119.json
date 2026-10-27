@@ -1,0 +1,837 @@
+[
+{
+"id": 27872,
+"en": "(Maybe I asked the wrong question... What if I tried\nasking a different way?)",
+"ctx": "diálogo uid00330444"
+},
+{
+"id": 27873,
+"en": "Was there a man here, deeply tanned and dressed kind of\nflashy?",
+"ctx": "diálogo uid00330444"
+},
+{
+"id": 27874,
+"en": "I'm really not supposed to blab about our customers, but you\ndon't look like the type who'll take no for an answer...\nYeah, he was here.",
+"ctx": "diálogo uid00330444"
+},
+{
+"id": 27875,
+"en": "Really!?",
+"ctx": "diálogo uid00330444 + diálogo uid0033050c …"
+},
+{
+"id": 27876,
+"en": "Yup. But as you can see, he's not here anymore. He mentioned\nthat he still wanted a drink or two, so he could be hoisting\ndrinks elsewhere.",
+"ctx": "diálogo uid00330444"
+},
+{
+"id": 27877,
+"en": "Thank you very much! Goodbye!",
+"ctx": "diálogo uid00330444"
+},
+{
+"id": 27878,
+"en": "Hold it, little lady. We don't have any kid drinks here.",
+"ctx": "diálogo uid00330444"
+},
+{
+"id": 27879,
+"en": "Welcome... Or not. You're an unfamiliar face. Sorry, but we\nonly cater to members.",
+"ctx": "diálogo uid00330444"
+},
+{
+"id": 27880,
+"en": "This is the Nagasu branch of Kamiyama Works.",
+"ctx": "diálogo uid00330446"
+},
+{
+"id": 27881,
+"en": "I, uh, don't have all that much merchandise, but I'm thinking I will gradually add more.",
+"ctx": "diálogo uid00330446"
+},
+{
+"id": 27882,
+"en": "I specialize in weapons. I can do all sorts of things with weapons, as long as you pay.",
+"ctx": "diálogo uid00330446"
+},
+{
+"id": 27883,
+"en": "I sell new weapons, and I can fix busted weapons, too.",
+"ctx": "diálogo uid00330446"
+},
+{
+"id": 27884,
+"en": "Kamiyama's shop sells weapons and protective gear. Weapons can also be repaired if they have worn down through use.",
+"ctx": "diálogo uid00330446"
+},
+{
+"id": 27885,
+"en": "I'm trying to go national, but I'm short on funds. I'm even having trouble sourcing materials for the main Kamurocho shop.",
+"ctx": "diálogo uid00330446"
+},
+{
+"id": 27886,
+"en": "If you don't mind, could you donate materials you might not need?",
+"ctx": "diálogo uid00330446"
+},
+{
+"id": 27887,
+"en": "If I get more funds, I can work on developing new weapons and gear.",
+"ctx": "diálogo uid00330446"
+},
+{
+"id": 27888,
+"en": "You can invest in Kamiyama Works and raise its shop level by donating materials and cash. As the shop levels up, better weapons and gear will be added to the merchandise. Some items require specific materials to be donated.",
+"ctx": "diálogo uid00330446"
+},
+{
+"id": 27889,
+"en": "While there are several Kamiyama Works shops, they all share the same shop level.",
+"ctx": "diálogo uid00330446"
+},
+{
+"id": 27890,
+"en": "Got it. If I find something, I'll pass it on.",
+"ctx": "diálogo uid00330446"
+},
+{
+"id": 27891,
+"en": "Thanks. If there's anything I can help with, don't hesitate to ask.",
+"ctx": "diálogo uid00330446"
+},
+{
+"id": 27892,
+"en": "Welcome. We take pride in our amazing prizes here! We're practically breaking the bank to get these prizes to you. Want to hear about our fabulous prizes?",
+"ctx": "diálogo uid0033044d"
+},
+{
+"id": 27893,
+"en": "S Rank (1,500+ points)\nStaminan XX\nA Rank (1,300+ points)\nBronze Plate\nB Rank (1,100+ points)\nToughness Z\nC Rank (900+ points)\nIron Plate",
+"ctx": "diálogo uid0033044d"
+},
+{
+"id": 27894,
+"en": "S Rank (1,900+ points)\nTauriner Maximum\nA Rank (1,700+ points)\nStaminan XX\nB Rank (1,500+ points)\nTauriner ++\nC Rank (1,300+ points)\nTauriner +",
+"ctx": "diálogo uid0033044d"
+},
+{
+"id": 27895,
+"en": "Five Correct Answers\nSpecial Pin-up Girl Photo (Collect all three!)\nStaminan X (If all photos collected)\n\nThree or More Correct Answers\nPin-up Girl Photo (Collect all three!)\nStaminan X (If all photos collected)",
+"ctx": "diálogo uid0033044d"
+},
+{
+"id": 27896,
+"en": "All Panels Destroyed\nOne Pin-up Girl Photo (Collect all three!)\nStaminan X (If all photos collected)",
+"ctx": "diálogo uid0033044d"
+},
+{
+"id": 27897,
+"en": "It's a lineup of prizes that could have me bleeding red ink by the bucket. But, don't worry about me⑬swing away, friend.",
+"ctx": "diálogo uid0033044d"
+},
+{
+"id": 27898,
+"en": "Not particularly.",
+"ctx": "diálogo uid0033044d"
+},
+{
+"id": 27899,
+"en": "Uh... Oh. Really? Well, take my word for it⑬we have great prizes up for grabs. Check us out.",
+"ctx": "diálogo uid0033044d"
+},
+{
+"id": 27900,
+"en": "(I only have what Christina said to go on. I guess I'll head to Shin-Osaka Station.)",
+"ctx": "diálogo uid00330450 + diálogo uid0033078b …"
+},
+{
+"id": 27901,
+"en": "Hi. Can you get me to Shin-Osaka Station?",
+"ctx": "diálogo uid00330450 + diálogo uid0033078b …"
+},
+{
+"id": 27902,
+"en": "Of course! Lots of people headed that way, huh?",
+"ctx": "diálogo uid00330450 + diálogo uid0033078b …"
+},
+{
+"id": 27903,
+"en": "Yeah, heh. I probably shouldn't be blabbing about this, but just between you and me, I gave a ride to a big pop idol a few minutes ago.",
+"ctx": "diálogo uid00330450 + diálogo uid0033078b …"
+},
+{
+"id": 27904,
+"en": "Do you know Haruka Sawamura? She's been on TV a lot lately, maybe you've seen her there.",
+"ctx": "diálogo uid00330450 + diálogo uid0033078b …"
+},
+{
+"id": 27905,
+"en": "Anyway, she was sitting right there not fifteen minutes ago! Boy, I knew she was cute from seeing her on TV, but I didn't realize she was that cute in person, too!",
+"ctx": "diálogo uid00330450 + diálogo uid0033078b …"
+},
+{
+"id": 27906,
+"en": "So she went to Shin-Osaka Station, too?",
+"ctx": "diálogo uid00330450 + diálogo uid0033078b …"
+},
+{
+"id": 27907,
+"en": "That's right. She was in a big rush. Work, I guess. Dangit, I should've gotten her autograph!",
+"ctx": "diálogo uid00330450 + diálogo uid0033078b …"
+},
+{
+"id": 27908,
+"en": "(Lucky he's the talkative type.)",
+"ctx": "diálogo uid00330450 + diálogo uid0033078b …"
+},
+{
+"id": 27909,
+"en": "Sorry, I forgot to pick something up from the store. I'll be back in a flash.",
+"ctx": "diálogo uid00330450 + diálogo uid0033078b …"
+},
+{
+"id": 27910,
+"en": "Yeah? You sure? If you hurry, you might still catch her at the station.",
+"ctx": "diálogo uid00330450 + diálogo uid0033078b …"
+},
+{
+"id": 27911,
+"en": "So if I hurry, I might catch her at the station? Step on it!",
+"ctx": "diálogo uid00330450 + diálogo uid0033078b …"
+},
+{
+"id": 27912,
+"en": "You got it! How can I let another Haruka fan down?",
+"ctx": "diálogo uid00330450 + diálogo uid0033078b …"
+},
+{
+"id": 27913,
+"en": "(Come to think of it, Noa Amon-san was waiting for me at Soten TV.)",
+"ctx": "diálogo uid00330450 + diálogo uid0033078b …"
+},
+{
+"id": 27914,
+"en": "(Hmm... Should I head over there now?)",
+"ctx": "diálogo uid00330450 + diálogo uid0033078b …"
+},
+{
+"id": 27915,
+"en": "(Okay, let's do this!)",
+"ctx": "diálogo uid00330450 + diálogo uid0033078b …"
+},
+{
+"id": 27916,
+"en": "(I can't afford the fare. Better scrounge up 640 yen...)",
+"ctx": "diálogo uid00330450 + diálogo uid0033078b …"
+},
+{
+"id": 27917,
+"en": "The base fare is 640 yen. Where are you headed?",
+"ctx": "diálogo uid00330450 + diálogo uid0033078b …"
+},
+{
+"id": 27918,
+"en": "Another city? Of course.",
+"ctx": "diálogo uid00330450 + diálogo uid00330493 …"
+},
+{
+"id": 27919,
+"en": "Hello, sir. You may purchase chips here.",
+"ctx": "diálogo uid00330452 + diálogo uid00330458"
+},
+{
+"id": 27920,
+"en": "Would you like to buy some chips?",
+"ctx": "diálogo uid00330452 + diálogo uid00330458"
+},
+{
+"id": 27921,
+"en": "Excellent. I'll get your chips ready.",
+"ctx": "diálogo uid00330452 + diálogo uid00330458"
+},
+{
+"id": 27922,
+"en": "Here are your 50 chips. Thank you.",
+"ctx": "diálogo uid00330452 + diálogo uid00330458"
+},
+{
+"id": 27923,
+"en": "Here are your 100 chips. Thank you.",
+"ctx": "diálogo uid00330452 + diálogo uid00330458"
+},
+{
+"id": 27924,
+"en": "Here are your 500 chips. Thank you.",
+"ctx": "diálogo uid00330452 + diálogo uid00330458"
+},
+{
+"id": 27925,
+"en": "Here are your 1,000 chips. Thank you.",
+"ctx": "diálogo uid00330452 + diálogo uid00330458"
+},
+{
+"id": 27926,
+"en": "Here are your 10,000 chips. Thank you.",
+"ctx": "diálogo uid00330452 + diálogo uid00330458"
+},
+{
+"id": 27927,
+"en": "I'm afraid you don't have enough money, sir.",
+"ctx": "diálogo uid00330452 + diálogo uid00330458"
+},
+{
+"id": 27928,
+"en": "Welcome to the blackjack table. You can play one game for as little as ten chips. Care to try your luck?",
+"ctx": "diálogo uid00330453"
+},
+{
+"id": 27929,
+"en": "I've noticed that you play blackjack quite often. Would you be interested in playing the house, one-on-one?",
+"ctx": "diálogo uid00330453 + diálogo uid00330454 …"
+},
+{
+"id": 27930,
+"en": "All right, then. First, I'll need your 1,000 chips.",
+"ctx": "diálogo uid00330453 + diálogo uid00330454"
+},
+{
+"id": 27931,
+"en": "You paid 1,000 chips.",
+"ctx": "diálogo uid00330453 + diálogo uid00330454 …"
+},
+{
+"id": 27932,
+"en": "Thank you. Now, then, let's begin.",
+"ctx": "diálogo uid00330453 + diálogo uid00330454 …"
+},
+{
+"id": 27933,
+"en": "Very well. Let's continue with normal blackjack, then.",
+"ctx": "diálogo uid00330453 + diálogo uid00330454 …"
+},
+{
+"id": 27934,
+"en": "Excellent.",
+"ctx": "diálogo uid00330453 + diálogo uid00330454 …"
+},
+{
+"id": 27935,
+"en": "Would you like to see the rules?",
+"ctx": "diálogo uid00330453"
+},
+{
+"id": 27936,
+"en": "I see. I hope you'll join us another time.",
+"ctx": "diálogo uid00330453 + diálogo uid00330454 …"
+},
+{
+"id": 27937,
+"en": "You seem to be short on chips. Please come back soon.",
+"ctx": "diálogo uid00330453 + diálogo uid00330454 …"
+},
+{
+"id": 27938,
+"en": "Tell me the rules.",
+"ctx": "diálogo uid00330453 + diálogo uid00330454 …"
+},
+{
+"id": 27939,
+"en": "This is a game between you and the house. Whoever gets three wins first wins the game.",
+"ctx": "diálogo uid00330453 + diálogo uid00330454 …"
+},
+{
+"id": 27940,
+"en": "Before the game begins, I'll need 1,000 chips for you to join. The payout differs depending on which deck is used.",
+"ctx": "diálogo uid00330453 + diálogo uid00330454 …"
+},
+{
+"id": 27941,
+"en": "Standard Deck: 2,000 chips\nWithout 2/3/4: 2,500 chips\nWithout 7/8/9: 2,000 chips\nWithout J/Q/K: 4,000 chips",
+"ctx": "diálogo uid00330453 + diálogo uid00330454 …"
+},
+{
+"id": 27942,
+"en": "If you win, you'll get the designated number of chips.",
+"ctx": "diálogo uid00330453 + diálogo uid00330454 …"
+},
+{
+"id": 27943,
+"en": "Welcome to the baccarat table. You can play one game for 1,000 chips. Would you like to play?",
+"ctx": "diálogo uid00330454 + diálogo uid0033045d"
+},
+{
+"id": 27944,
+"en": "How would you like to play?",
+"ctx": "diálogo uid00330454 + diálogo uid0033045d …"
+},
+{
+"id": 27945,
+"en": "Would you like to go over the rules for Super 6?",
+"ctx": "diálogo uid00330454 + diálogo uid0033045d"
+},
+{
+"id": 27946,
+"en": "Welcome. Would you care to join us for a round of poker?",
+"ctx": "diálogo uid00330455"
+},
+{
+"id": 27947,
+"en": "An excellent choice. What stakes would you like to play for?",
+"ctx": "diálogo uid00330455 + diálogo uid0033045c"
+},
+{
+"id": 27948,
+"en": "I'll go with the low stakes.",
+"ctx": "diálogo uid00330455"
+},
+{
+"id": 27949,
+"en": "With low stakes, bets are made in five-chip increments in the first two rounds, and in ten-chip increments in the last two rounds.",
+"ctx": "diálogo uid00330455"
+},
+{
+"id": 27950,
+"en": "Please take a seat.",
+"ctx": "diálogo uid00330455 + diálogo uid0033045c"
+},
+{
+"id": 27951,
+"en": "You'll need a minimum of 100 chips to play low-stakes poker, sir.",
+"ctx": "diálogo uid00330455"
+},
+{
+"id": 27952,
+"en": "I'll go with the high stakes.",
+"ctx": "diálogo uid00330455"
+},
+{
+"id": 27953,
+"en": "With high stakes, bets are made in 50-chip increments in the first two rounds, and in 100-chip increments in the last two rounds.",
+"ctx": "diálogo uid00330455"
+},
+{
+"id": 27954,
+"en": "You'll need a minimum of 1,000 chips to play high-stakes poker, sir.",
+"ctx": "diálogo uid00330455"
+},
+{
+"id": 27955,
+"en": "Would you like to go over the rules for Pineapple Hold 'em?",
+"ctx": "diálogo uid00330455 + diálogo uid0033045c"
+},
+{
+"id": 27956,
+"en": "Would you like to go over the rules for Omaha Hold 'em?",
+"ctx": "diálogo uid00330455 + diálogo uid0033045c"
+},
+{
+"id": 27957,
+"en": "I see. We look forward to having you join us.",
+"ctx": "diálogo uid00330455 + diálogo uid00330456"
+},
+{
+"id": 27958,
+"en": "Thank you for always playing roulette with us. Recently, we added a new game mode called Survival mode. Would you care to give it a try?",
+"ctx": "diálogo uid00330456"
+},
+{
+"id": 27959,
+"en": "This is a one-on-one match against the dealer. Both players have seven chips, called markers, that are placed on the table. The object of the game is to eliminate the opponent's markers.",
+"ctx": "diálogo uid00330456"
+},
+{
+"id": 27960,
+"en": "Stop the ball on the opponent's number on the roulette wheel to remove its marker. Each player gets three tries, alternating back and forth. If you win, you earn a payout based on how many markers you have left.",
+"ctx": "diálogo uid00330456"
+},
+{
+"id": 27961,
+"en": "Thank you for always playing roulette with us. Recently, we added a new game mode where you can play as the dealer. Would you like to give it a try?",
+"ctx": "diálogo uid00330456"
+},
+{
+"id": 27962,
+"en": "In this mode, you play as the dealer. Drop the ball on the wheel depending on where the guests place their bets. Guests will bet more if they win. Try letting them win low bets to encourage higher betting, then make them lose big.",
+"ctx": "diálogo uid00330456 + diálogo uid0033045b"
+},
+{
+"id": 27963,
+"en": "Hello. Would you care to join us for some roulette?",
+"ctx": "diálogo uid00330456 + diálogo uid0033045b"
+},
+{
+"id": 27964,
+"en": "Would you like to play me one-on-one? It's a best-of-five match. While no outside bets can be made, the odds are doubled over the duration.",
+"ctx": "diálogo uid00330456 + diálogo uid0033045b"
+},
+{
+"id": 27965,
+"en": "Very good, sir. Please take your seat.",
+"ctx": "diálogo uid00330456"
+},
+{
+"id": 27966,
+"en": "It looks like you don't have enough chips to play roulette, sir.",
+"ctx": "diálogo uid00330456"
+},
+{
+"id": 27967,
+"en": "I'm sorry. You need at least 10,000 chips to play Survival Roulette.",
+"ctx": "diálogo uid00330456"
+},
+{
+"id": 27968,
+"en": "How about playing the house, one-on-one sir? You won't able to place outside bets, but you get five spins with double the odds.",
+"ctx": "diálogo uid00330456"
+},
+{
+"id": 27969,
+"en": "I'm sorry, sir, but you need 1,000 chips to play as the dealer.",
+"ctx": "diálogo uid00330456"
+},
+{
+"id": 27970,
+"en": "Would you like to go over the rules for roulette?",
+"ctx": "diálogo uid00330456"
+},
+{
+"id": 27971,
+"en": "Hello. You can trade in your chips for prizes here.",
+"ctx": "diálogo uid00330457 + diálogo uid0033045a"
+},
+{
+"id": 27972,
+"en": "Thank you. Please do come again.",
+"ctx": "diálogo uid00330457 + diálogo uid0033045a"
+},
+{
+"id": 27973,
+"en": "Uncle Kaz! See if you can <Color:8>win 1,000 chips or more at roulette<Color:Default>. Beat the odds!",
+"ctx": "diálogo uid0033045b"
+},
+{
+"id": 27974,
+"en": "(Haruka wants me to <Color:8>win 1,000 chips or more at roulette<Color:Default>.)",
+"ctx": "diálogo uid0033045b + diálogo uid01200376"
+},
+{
+"id": 27975,
+"en": "Aww, okay. Well, I don't blame you.",
+"ctx": "diálogo uid0033045b"
+},
+{
+"id": 27976,
+"en": "Certainly. What would you like to do?",
+"ctx": "diálogo uid0033045b"
+},
+{
+"id": 27977,
+"en": "Certainly. Please be seated.",
+"ctx": "diálogo uid0033045b + diálogo uid0033045c …"
+},
+{
+"id": 27978,
+"en": "Sorry. I'm afraid you don't have enough chips to play roulette.",
+"ctx": "diálogo uid0033045b"
+},
+{
+"id": 27979,
+"en": "Would you like to go over roulette's rules?",
+"ctx": "diálogo uid0033045b"
+},
+{
+"id": 27980,
+"en": "I see. We look forward to having you join us. Please come again.",
+"ctx": "diálogo uid0033045b + diálogo uid0033045c …"
+},
+{
+"id": 27981,
+"en": "Thank you for always playing roulette with us. We just added the Survival Rules, which is a new game mode. Would you like try it?",
+"ctx": "diálogo uid0033045b"
+},
+{
+"id": 27982,
+"en": "This is a one-on-one match against the dealer. Both players have seven chips, called markers, that are placed on the table. The object is to eliminate the opponent's markers.",
+"ctx": "diálogo uid0033045b"
+},
+{
+"id": 27983,
+"en": "Stop the ball on the opponent's number on the roulette wheel to remove its marker. Both sides have three alternating throws each. If you win, you earn a payout based on how many markers you have left.",
+"ctx": "diálogo uid0033045b"
+},
+{
+"id": 27984,
+"en": "Thank you for always playing roulette with us. We've just added the Dealer Mode. Would you like to try it?",
+"ctx": "diálogo uid0033045b"
+},
+{
+"id": 27985,
+"en": "I'm sorry. You need at least 10,000 chips to play Survival Rules.",
+"ctx": "diálogo uid0033045b"
+},
+{
+"id": 27986,
+"en": "I'm sorry. To play the Dealer Mode, you must have at least 1,000 chips.",
+"ctx": "diálogo uid0033045b"
+},
+{
+"id": 27987,
+"en": "Hello. Would you care to join us for some poker?",
+"ctx": "diálogo uid0033045c"
+},
+{
+"id": 27988,
+"en": "Uncle Kaz! I bet you can <Color:8>win 2,000 chips or more at poker<Color:Default>. Your poker face is amazing!",
+"ctx": "diálogo uid0033045c"
+},
+{
+"id": 27989,
+"en": "(Haruka wants me to <Color:8>win 2,000 chips or more at poker<Color:Default>.)",
+"ctx": "diálogo uid0033045c"
+},
+{
+"id": 27990,
+"en": "Certainly. What would you like to play?",
+"ctx": "diálogo uid0033045c"
+},
+{
+"id": 27991,
+"en": "I'll go with low stakes.",
+"ctx": "diálogo uid0033045c"
+},
+{
+"id": 27992,
+"en": "With low stakes, bets are made in five chip increments in the first two rounds and in ten chip increments in the last two rounds.",
+"ctx": "diálogo uid0033045c"
+},
+{
+"id": 27993,
+"en": "I'm sorry. You need at least 100 chips to play low stakes poker.",
+"ctx": "diálogo uid0033045c"
+},
+{
+"id": 27994,
+"en": "I'll go with high stakes.",
+"ctx": "diálogo uid0033045c"
+},
+{
+"id": 27995,
+"en": "With high stakes, bets are made in 50 chip increments in the first two rounds and in 100 chip increments in the last two rounds.",
+"ctx": "diálogo uid0033045c"
+},
+{
+"id": 27996,
+"en": "I'm sorry, but you need at least 1,000 chips to play high stakes poker.",
+"ctx": "diálogo uid0033045c"
+},
+{
+"id": 27997,
+"en": "With low stakes, bets are made in five chip increments in the first two rounds and in tenchip increments in the last two rounds.",
+"ctx": "diálogo uid0033045c"
+},
+{
+"id": 27998,
+"en": "I'm sorry, but you need at least one hundred chips to play low stakes poker.",
+"ctx": "diálogo uid0033045c"
+},
+{
+"id": 27999,
+"en": "With high stakes, bets are made in 50 chip increments in the first two rounds, and in 100 chip increments in the last two rounds.",
+"ctx": "diálogo uid0033045c"
+},
+{
+"id": 28000,
+"en": "Very well. It costs 1,000 chips to join.",
+"ctx": "diálogo uid0033045d + diálogo uid0033045e …"
+},
+{
+"id": 28001,
+"en": "This table is for low stakes blackjack. You can play for as little as ten chips a hand. Would you like to play?",
+"ctx": "diálogo uid0033045e"
+},
+{
+"id": 28002,
+"en": "Uncle Kaz! See if you can <Color:8>win 1,000 chips or more at blackjack<Color:Default>. Hope you know when to stay!",
+"ctx": "diálogo uid0033045e"
+},
+{
+"id": 28003,
+"en": "(Haruka wants me to <Color:8>win 1,000 or more at blackjack<Color:Default>.)",
+"ctx": "diálogo uid0033045e"
+},
+{
+"id": 28004,
+"en": "You seem to be familiar with blackjack. Would you like to play me one-on-one?",
+"ctx": "diálogo uid0033045e"
+},
+{
+"id": 28005,
+"en": "Thank you. Let's begin our one-on-one game.",
+"ctx": "diálogo uid0033045e"
+},
+{
+"id": 28006,
+"en": "Would you like to go over the blackjack rules?",
+"ctx": "diálogo uid0033045e"
+},
+{
+"id": 28007,
+"en": "I'm sorry, but you don't have enough chips. Perhaps another time.",
+"ctx": "diálogo uid0033045e"
+},
+{
+"id": 28008,
+"en": "It's a one-on-one game between you and me. The first to get three wins is the victor.",
+"ctx": "diálogo uid0033045e"
+},
+{
+"id": 28009,
+"en": "You need to put up 1,000 chips in advance to play. The payout depends on the type of deck used.",
+"ctx": "diálogo uid0033045e"
+},
+{
+"id": 28010,
+"en": "- Normal deck -> pays 2,000 chips.\n- No 2/3/4 cards -> pays 2,500 chips.\n- No 7/8/9 cards -> pays 2,000 chips.\n- No J/Q/K cards -> pays 4,000 chips.",
+"ctx": "diálogo uid0033045e"
+},
+{
+"id": 28011,
+"en": "If you defeat me in the one-on-one game with three wins, you get the indicated number of chips.",
+"ctx": "diálogo uid0033045e"
+},
+{
+"id": 28012,
+"en": "You need to put up 1,000 chips in advance to play. The payout depends on the deck type used.",
+"ctx": "diálogo uid0033045e"
+},
+{
+"id": 28013,
+"en": "Congratulations! You managed to knock down the red pin!",
+"ctx": "diálogo uid0033045f"
+},
+{
+"id": 28014,
+"en": "You got a <Color:8>Low-resilience Jacket<Color:Default>.",
+"ctx": "diálogo uid0033045f + diálogo uid010c0b68"
+},
+{
+"id": 28015,
+"en": "Here's your prize. Please do come again.",
+"ctx": "diálogo uid0033045f"
+},
+{
+"id": 28016,
+"en": "Welcome. Is it just the two of you today?",
+"ctx": "diálogo uid0033045f"
+},
+{
+"id": 28017,
+"en": "It'll be 1,000 yen for two players.",
+"ctx": "diálogo uid0033045f"
+},
+{
+"id": 28018,
+"en": "Okay, got it.",
+"ctx": "diálogo uid0033045f + diálogo uid00330536 …"
+},
+{
+"id": 28019,
+"en": "(What should I do?)",
+"ctx": "diálogo uid0033045f + diálogo uid00330536 …"
+},
+{
+"id": 28020,
+"en": "You won't beat me, Uncle Kaz!",
+"ctx": "diálogo uid0033045f"
+},
+{
+"id": 28021,
+"en": "Give it your best shot, Uncle Kaz!",
+"ctx": "diálogo uid0033045f"
+},
+{
+"id": 28022,
+"en": "Have fun!",
+"ctx": "diálogo uid0033045f + diálogo uid00330536"
+},
+{
+"id": 28023,
+"en": "Sorry, not today.",
+"ctx": "diálogo uid0033045f"
+},
+{
+"id": 28024,
+"en": "Come on, let's bowl!",
+"ctx": "diálogo uid0033045f"
+},
+{
+"id": 28025,
+"en": "(Hinata wants to bowl with me.)",
+"ctx": "diálogo uid0033045f"
+},
+{
+"id": 28026,
+"en": "Good luck beating me!",
+"ctx": "diálogo uid0033045f"
+},
+{
+"id": 28027,
+"en": "How many frames will you play?",
+"ctx": "diálogo uid0033045f + diálogo uid00330536"
+},
+{
+"id": 28028,
+"en": "Three frames, please.",
+"ctx": "diálogo uid0033045f"
+},
+{
+"id": 28029,
+"en": "Ten frames, please.",
+"ctx": "diálogo uid0033045f"
+},
+{
+"id": 28030,
+"en": "Aww, guess it's a draw. But I'll beat ya next time!",
+"ctx": "diálogo uid0033045f + diálogo uid00340046 …"
+},
+{
+"id": 28031,
+"en": "That was wicked fun! I'm headin' back to Hakata now! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid0033045f + diálogo uid0069021f …"
+},
+{
+"id": 28032,
+"en": "That was wicked fun! Call me again, okay? <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid0033045f + diálogo uid010c0c23 …"
+},
+{
+"id": 28033,
+"en": "You're real good, Akiyama-san! I'm kinda surprised!",
+"ctx": "diálogo uid0033045f + diálogo uid01330748 …"
+},
+{
+"id": 28034,
+"en": "Yeah, I win! Gotta try a little harder than that, Akiyama-san!",
+"ctx": "diálogo uid0033045f + diálogo uid00340049 …"
+},
+{
+"id": 28035,
+"en": "Wow, I can't believe it's a draw! Next time I'm definitely gonna win!",
+"ctx": "diálogo uid0033045f + diálogo uid0069021f …"
+},
+{
+"id": 28036,
+"en": "That was super fun! Now I gotta get back to Osaka. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid0033045f + diálogo uid01330748"
+},
+{
+"id": 28037,
+"en": "That was a lotta fun! Gimme a call again, okay? <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid0033045f + diálogo uid010c0c21 …"
+},
+{
+"id": 28038,
+"en": "I win! Better luck next time, Saejima-san!",
+"ctx": "diálogo uid0033045f + diálogo uid00330536 …"
+}
+]

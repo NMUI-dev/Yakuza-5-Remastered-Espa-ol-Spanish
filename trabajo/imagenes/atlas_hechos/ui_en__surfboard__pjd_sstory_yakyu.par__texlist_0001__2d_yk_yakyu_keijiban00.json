@@ -1,0 +1,82 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_yakyu.par/texlist_0001/2d_yk_yakyu_keijiban00",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    100,
+    28,
+    355,
+    56
+   ],
+   "en": "Main Missions",
+   "es": "Misiones principales",
+   "fuente": "segoeui.ttf",
+   "alin": "centro",
+   "ancho_max": 249,
+   "efecto": "nada",
+   "fondo": "lama",
+   "color": [
+    214,
+    211,
+    214
+   ],
+   "alto": 17
+  },
+  {
+   "caja": [
+    375,
+    28,
+    900,
+    56
+   ],
+   "en": "Sub Missions",
+   "es": "Misiones secundarias",
+   "fuente": "segoeui.ttf",
+   "alin": "centro",
+   "ancho_max": 519,
+   "efecto": "nada",
+   "fondo": "lama",
+   "color": [
+    214,
+    211,
+    214
+   ],
+   "alto": 17
+  },
+  {
+   "caja": [
+    91,
+    347,
+    153,
+    374
+   ],
+   "en": "MEMO",
+   "es": "NOTA",
+   "fuente": "segoeui.ttf",
+   "alin": "izq",
+   "ancho_max": 56,
+   "efecto": "nada",
+   "fondo": "lama",
+   "color": [
+    214,
+    211,
+    214
+   ],
+   "alto": 13
+  },
+  {
+   "caja": [
+    367,
+    456,
+    399,
+    488
+   ],
+   "en": "Done",
+   "es": "",
+   "dejar": true
+  }
+ ]
+}

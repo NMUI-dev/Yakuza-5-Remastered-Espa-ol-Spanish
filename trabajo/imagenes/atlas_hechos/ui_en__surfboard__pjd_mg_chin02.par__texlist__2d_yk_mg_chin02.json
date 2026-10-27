@@ -1,0 +1,156 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_chin02.par/texlist/2d_yk_mg_chin02",
+ "fuente": "Kalam-Bold.ttf",
+ "margen": 1,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    302,
+    131,
+    662,
+    255
+   ],
+   "en": "Ace Out",
+   "es": "Punto de 1",
+   "fuente": "Kalam-Bold.ttf",
+   "alin": "centro",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     230,
+     234,
+     224
+    ],
+    "abajo": [
+     178,
+     184,
+     162
+    ],
+    "contorno": null,
+    "brillo": null
+   },
+   "ancho_max": 230,
+   "nota": "nota: reglas del juego: \"A point of 1\" = \"Punto de 1\"; el lote OCR decia As fuera",
+   "alto": 44
+  },
+  {
+   "caja": [
+    662,
+    131,
+    1022,
+    255
+   ],
+   "en": "No Point",
+   "es": "Sin punto",
+   "fuente": "Kalam-Bold.ttf",
+   "alin": "centro",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     230,
+     234,
+     224
+    ],
+    "abajo": [
+     178,
+     184,
+     162
+    ],
+    "contorno": null,
+    "brillo": null
+   },
+   "ancho_max": 250,
+   "alto": 44
+  },
+  {
+   "caja": [
+    0,
+    378,
+    300,
+    502
+   ],
+   "en": "Roll",
+   "es": "Lanzar",
+   "fuente": "Kalam-Bold.ttf",
+   "alin": "centro",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     230,
+     234,
+     224
+    ],
+    "abajo": [
+     178,
+     184,
+     162
+    ],
+    "contorno": null,
+    "brillo": null
+   },
+   "ancho_max": 190,
+   "alto": 44
+  },
+  {
+   "caja": [
+    302,
+    378,
+    662,
+    502
+   ],
+   "en": "Trips",
+   "es": "Triple",
+   "fuente": "Kalam-Bold.ttf",
+   "alin": "centro",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     230,
+     234,
+     224
+    ],
+    "abajo": [
+     178,
+     184,
+     162
+    ],
+    "contorno": null,
+    "brillo": null
+   },
+   "ancho_max": 175,
+   "alto": 44
+  },
+  {
+   "caja": [
+    662,
+    377,
+    1022,
+    501
+   ],
+   "en": "Missed the Pot",
+   "es": "No hacer punto",
+   "fuente": "Kalam-Bold.ttf",
+   "alin": "centro",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     230,
+     234,
+     224
+    ],
+    "abajo": [
+     178,
+     184,
+     162
+    ],
+    "contorno": null,
+    "brillo": null
+   },
+   "ancho_max": 345,
+   "nota": "reglas del juego: Missed the pot = No hacer punto",
+   "alto": 44
+  }
+ ],
+ "ceñido": true
+}

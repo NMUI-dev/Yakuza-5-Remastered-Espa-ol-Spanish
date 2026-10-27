@@ -1,0 +1,291 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_yukigassen.par/2d_mg_yukigassen_texlist/2d_jm_mg_yukigassen_num",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    2,
+    58,
+    46,
+    86
+   ],
+   "en": "1st",
+   "es": "1.º",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 42
+  },
+  {
+   "caja": [
+    62,
+    58,
+    120,
+    86
+   ],
+   "en": "2nd",
+   "es": "2.º",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 56
+  },
+  {
+   "caja": [
+    120,
+    58,
+    178,
+    86
+   ],
+   "en": "3th",
+   "es": "3.º",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 56
+  },
+  {
+   "caja": [
+    122,
+    142,
+    176,
+    170
+   ],
+   "en": "4th",
+   "es": "4.º",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 52
+  },
+  {
+   "caja": [
+    214,
+    142,
+    256,
+    170
+   ],
+   "en": "pts",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 40
+  },
+  {
+   "caja": [
+    220,
+    0,
+    256,
+    20
+   ],
+   "en": "1st",
+   "es": "1.º",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "der",
+   "ancho_max": 34,
+   "alto": 13,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     235,
+     235,
+     235
+    ],
+    "contorno": [
+     [
+      20,
+      20,
+      20
+     ],
+     2
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    0,
+    166,
+    164,
+    197
+   ],
+   "en": "PLAYER1",
+   "es": "JUGADOR1",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 160
+  },
+  {
+   "caja": [
+    0,
+    193,
+    164,
+    223
+   ],
+   "en": "PLAYER2",
+   "es": "JUGADOR2",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 160
+  },
+  {
+   "caja": [
+    0,
+    218,
+    164,
+    251
+   ],
+   "en": "PLAYER3",
+   "es": "JUGADOR3",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 160
+  },
+  {
+   "caja": [
+    0,
+    256,
+    130,
+    284
+   ],
+   "en": "KIRYU",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 128
+  },
+  {
+   "caja": [
+    0,
+    288,
+    130,
+    316
+   ],
+   "en": "SAEJIMA",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 128
+  },
+  {
+   "caja": [
+    0,
+    320,
+    130,
+    348
+   ],
+   "en": "HARUKA",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 128
+  },
+  {
+   "caja": [
+    0,
+    352,
+    130,
+    380
+   ],
+   "en": "AKIYAMA",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 128
+  },
+  {
+   "caja": [
+    0,
+    384,
+    130,
+    412
+   ],
+   "en": "SHINADA",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 128
+  }
+ ]
+}

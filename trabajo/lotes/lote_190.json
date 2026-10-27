@@ -1,0 +1,897 @@
+[
+{
+"id": 41697,
+"en": "Kiyokawa?",
+"ctx": "diálogo uid010c0833"
+},
+{
+"id": 41698,
+"en": "Yeah? What's up?",
+"ctx": "diálogo uid010c0833 + diálogo uid01490173"
+},
+{
+"id": 41699,
+"en": "I need you to come with me.",
+"ctx": "diálogo uid010c0833"
+},
+{
+"id": 41700,
+"en": "Huh? Oh, okay. Gladly.",
+"ctx": "diálogo uid010c0833"
+},
+{
+"id": 41701,
+"en": "There's that client calling from the highway rest area again. He's asking for you, Suzuki-san.",
+"ctx": "diálogo uid010c0833"
+},
+{
+"id": 41702,
+"en": "(Then it must be the Devil Killers.)",
+"ctx": "diálogo uid010c0833"
+},
+{
+"id": 41703,
+"en": "Might I add, he's being very polite, too.",
+"ctx": "diálogo uid010c0833"
+},
+{
+"id": 41704,
+"en": "(Sounds like Cool Yoshimi, one of the Four Kings.)",
+"ctx": "diálogo uid010c0833"
+},
+{
+"id": 41705,
+"en": "Then I'll make sure to leave a strong impression.",
+"ctx": "diálogo uid010c0833"
+},
+{
+"id": 41706,
+"en": "You're not gettin' away today.",
+"ctx": "diálogo uid010c0833"
+},
+{
+"id": 41707,
+"en": "Forget it, I'm not gonna study! Any more of these meaningless words and symbols and I'm gonna lose my marbles!",
+"ctx": "diálogo uid010c0833"
+},
+{
+"id": 41708,
+"en": "The chief asked us to help Kiyokawa-kun study for his driver's test.",
+"ctx": "diálogo uid010c0833"
+},
+{
+"id": 41709,
+"en": "Yeah, and he ain't exactly the bookworm type. Furthest thing from it, actually.",
+"ctx": "diálogo uid010c0833"
+},
+{
+"id": 41710,
+"en": "Come on, what does memorizing a bunch of random rules have\nto do with driving a car?",
+"ctx": "diálogo uid010c0833"
+},
+{
+"id": 41711,
+"en": "I mean, I already know how to drive, so just let me loose\non the road! It's not like I'm gonna smash into anyone.",
+"ctx": "diálogo uid010c0833"
+},
+{
+"id": 41712,
+"en": "It doesn't matter how good you are at driving. To be a taxi driver, you need a Class 2 license. And that requires a certain amount of studying.",
+"ctx": "diálogo uid010c0833"
+},
+{
+"id": 41713,
+"en": "Argh! You say that, but I still don't wanna believe it!",
+"ctx": "diálogo uid010c0833"
+},
+{
+"id": 41714,
+"en": "Better start showing some effort, or you'll be stuck on the written test forever.",
+"ctx": "diálogo uid010c0833"
+},
+{
+"id": 41715,
+"en": "Yeah, and might I remind you, this is taking up our time too! I'm using up my breaks to teach you, so hurry up and get it through your head!",
+"ctx": "diálogo uid010c0833"
+},
+{
+"id": 41716,
+"en": "I can't! I've never been good at bookwork. Even if I studied night and day, I still wouldn't pass!",
+"ctx": "diálogo uid010c0833"
+},
+{
+"id": 41717,
+"en": "Aaaaaaaaaaaaaaaaaaagh! I hate it! Just lemme get behind the wheel with my foot on the pedal already!",
+"ctx": "diálogo uid010c0833"
+},
+{
+"id": 41718,
+"en": "Don't forget your seatbelt first.",
+"ctx": "diálogo uid010c0833"
+},
+{
+"id": 41719,
+"en": "Gah! That's it! I'm done with this!",
+"ctx": "diálogo uid010c0833"
+},
+{
+"id": 41720,
+"en": "He made a run for it.",
+"ctx": "diálogo uid010c0833"
+},
+{
+"id": 41721,
+"en": "Sheesh. They're way too easy on kids in school these days.\nThey all end up like him.",
+"ctx": "diálogo uid010c0833"
+},
+{
+"id": 41722,
+"en": "Sorry he's being such a pain to both of you.",
+"ctx": "diálogo uid010c0833"
+},
+{
+"id": 41723,
+"en": "No need to apologize, Suzuki-kun. It's not your fault.",
+"ctx": "diálogo uid010c0833"
+},
+{
+"id": 41724,
+"en": "Well, I'm the one who got him hired. I can at least go bring him back.",
+"ctx": "diálogo uid010c0833"
+},
+{
+"id": 41725,
+"en": "Good luck with that. Who knows where he's gone to now?",
+"ctx": "diálogo uid010c0833"
+},
+{
+"id": 41726,
+"en": "I have a pretty good idea. Just sit tight for a bit.",
+"ctx": "diálogo uid010c0833"
+},
+{
+"id": 41727,
+"en": "Well hello, hello! Good to see you show up! Am I going to have to do this a hundred more times until you finally catch a lucky break?",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41728,
+"en": "Cool Yoshimi!",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41729,
+"en": "Listen, Suzuki-san. I know this is a tricky concept for a simpleton like you, but statistics show your defeat is inevitable. You really don't stand a chance.",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41730,
+"en": "Enough talk. Let's get this started.",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41731,
+"en": "There's no point, Suzuki-san! You're only gonna lose again!",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41732,
+"en": "The kid's got it right. He must be smarter than you. But, have it your way. Let's do a rematch.",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41733,
+"en": "See if you can at least make it close!",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41734,
+"en": "Suzuki-san! What're you doing here? Did you come looking for me?",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41735,
+"en": "Well, don't try and drag me back with you. I've had it with studying.",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41736,
+"en": "A knucklehead like me probably only has a one in a hundred chance of passing. I don't wanna fight a losing battle.",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41737,
+"en": "No, I have other business here.",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41738,
+"en": "You mean... another race with the Devil Killers?",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41739,
+"en": "You're up against Cool Yoshimi this time, right? I know you don't wanna hear this, but I think you should just bow out now, to be honest.",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41740,
+"en": "I'm on your side, of course. But I know what he's capable of. You don't stand a chance, man.",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41741,
+"en": "(Not with that attitude, anyway.)",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41742,
+"en": "That Crash Kajiwara guy you beat, he's the bottom of the ladder when it comes to the Four Kings. Cool Yoshimi is on a whole 'nother level.",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41743,
+"en": "He's that fast, huh?",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41744,
+"en": "Yep. Yoshimi wins all his races 'cause he's sharp as a tack, and never loses his cool.",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41745,
+"en": "When you go up against him, you can bet that he already knows your ride down to every last nut and bolt. He's that thorough.",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41746,
+"en": "He works up a profile of you, and compares it with all the data he's gathered to figure out the best way to win.",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41747,
+"en": "(Kiyokawa sure knows a lot. He should devote a little of that brainpower to studying.)",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41748,
+"en": "Anyway! I think you gotta cut your losses here. I don't wanna see you go down in flames.",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41749,
+"en": "It's just like my studying. It'd be stupid to take on something you just can't win.",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41750,
+"en": "Good to see you, Suzuki-san.",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41751,
+"en": "Whoa! It's Cool Yoshimi!",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41752,
+"en": "I hear you like studying up on your opponents.",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41753,
+"en": "That's right. This time was tougher than usual. It's my first race against a taxi, for one. I didn't have much data to go on, at first.",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41754,
+"en": "So I went all the way back to 1912, when the first taxi service in Japan started, and researched every last detail since then.",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41755,
+"en": "I've already analyzed your car, of course. I have full details on every part, as well as your driving habits, right here in my head.",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41756,
+"en": "That's dedication right there. So what are my chances?",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41757,
+"en": "Based on today's weather, and the state of the road, I came up with a number.",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41758,
+"en": "Unfortunately, you only have about one in a hundred chance of beating me.",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41759,
+"en": "One in a hundred... That's nothing.",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41760,
+"en": "Do you still wish to take me on, taxi driver?",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41761,
+"en": "Suzuki-san! Let's quit while we're ahead! One in a hundred is terrible odds. You know you can't win!",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41762,
+"en": "The odds may be against me, but I still have a chance, right?",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41763,
+"en": "Where I grew up, you don't just run away when things look hopeless.",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41764,
+"en": "You step up to the challenge like a man, and carve out your own destiny.",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41765,
+"en": "Damn... That hit me real heavy just now...",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41766,
+"en": "Heheh. What a character you are. I love it!",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41767,
+"en": "Now I'm truly looking forward to seeing you hang your head in defeat.",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41768,
+"en": "Let's see if you can put up a fight!",
+"ctx": "diálogo uid010c0842"
+},
+{
+"id": 41769,
+"en": "Hahaha! See? I went and crushed your little hopes there, didn't I?",
+"ctx": "diálogo uid010c084c"
+},
+{
+"id": 41770,
+"en": "Call it crass, but to me, nothing feels better than unraveling someone's false perspective. I can't get enough of it!",
+"ctx": "diálogo uid010c084c"
+},
+{
+"id": 41771,
+"en": "Oh, but you're welcome to try and play the hero anytime! It's quite entertaining!",
+"ctx": "diálogo uid010c084c"
+},
+{
+"id": 41772,
+"en": "Wow. A hundred-to-one shot, and you pulled it off with style.",
+"ctx": "diálogo uid010c084c"
+},
+{
+"id": 41773,
+"en": "This is unreal... All the data showed I'd win without a hitch. What went wrong!?",
+"ctx": "diálogo uid010c084c"
+},
+{
+"id": 41774,
+"en": "Battles aren't won by data and statistics. The numbers must've clouded your mind.",
+"ctx": "diálogo uid010c084c"
+},
+{
+"id": 41775,
+"en": "Ridiculous...",
+"ctx": "diálogo uid010c084c"
+},
+{
+"id": 41776,
+"en": "Sorry, Suzuki-san... I never should've doubted you.",
+"ctx": "diálogo uid010c084c"
+},
+{
+"id": 41777,
+"en": "Do you see now? Your fate isn't written in stone. You can change it if you try hard enough.",
+"ctx": "diálogo uid010c084c"
+},
+{
+"id": 41778,
+"en": "I think it's time you changed yours now.",
+"ctx": "diálogo uid010c084c"
+},
+{
+"id": 41779,
+"en": "Okay. I'll do that!",
+"ctx": "diálogo uid010c084c"
+},
+{
+"id": 41780,
+"en": "I'm back. And look who I brought with me.",
+"ctx": "diálogo uid010c0855"
+},
+{
+"id": 41781,
+"en": "Hey there⑬ Oh, Kiyokawa-kun!",
+"ctx": "diálogo uid010c0855"
+},
+{
+"id": 41782,
+"en": "Guys! Is the offer to help me study still on the table?",
+"ctx": "diálogo uid010c0855"
+},
+{
+"id": 41783,
+"en": "Where's this coming from all of a sudden?",
+"ctx": "diálogo uid010c0855"
+},
+{
+"id": 41784,
+"en": "Yeah, I thought you said it was hopeless.",
+"ctx": "diálogo uid010c0855"
+},
+{
+"id": 41785,
+"en": "What are you talking about!? If you give up when things look grim, you'll never get anywhere in life! Now let's start with some flashcards!",
+"ctx": "diálogo uid010c0855"
+},
+{
+"id": 41786,
+"en": "...I don't know what you did, Suzuki-san, but it worked.",
+"ctx": "diálogo uid010c0855"
+},
+{
+"id": 41787,
+"en": "Oh, I didn't do anything.",
+"ctx": "diálogo uid010c0855"
+},
+{
+"id": 41788,
+"en": "All right, all right. I'll help you. But aren't you forgetting something first?",
+"ctx": "diálogo uid010c0855"
+},
+{
+"id": 41789,
+"en": "I should probably be apologizing for my behavior from before, huh?",
+"ctx": "diálogo uid010c0855"
+},
+{
+"id": 41790,
+"en": "Aha, you got it.",
+"ctx": "diálogo uid010c0855"
+},
+{
+"id": 41791,
+"en": "He's finally acting his age.",
+"ctx": "diálogo uid010c0855"
+},
+{
+"id": 41792,
+"en": "Let's hope so.",
+"ctx": "diálogo uid010c0855"
+},
+{
+"id": 41793,
+"en": "Remember to be sincere about it.",
+"ctx": "diálogo uid010c0855"
+},
+{
+"id": 41794,
+"en": "Of course. I'd like to start and end by saying...",
+"ctx": "diálogo uid010c0855"
+},
+{
+"id": 41795,
+"en": "Sorry for rufflin' your feathers!",
+"ctx": "diálogo uid010c0855"
+},
+{
+"id": 41796,
+"en": "Huh? What the hell kind of apology is that?",
+"ctx": "diálogo uid010c0855"
+},
+{
+"id": 41797,
+"en": "My bad! Sorry for rubbin' you the wrong way!",
+"ctx": "diálogo uid010c0855"
+},
+{
+"id": 41798,
+"en": "Uh... sorry for wreckin' your expectations?",
+"ctx": "diálogo uid010c0855"
+},
+{
+"id": 41799,
+"en": "Sorry for rustlin' your jimmies?",
+"ctx": "diálogo uid010c0855"
+},
+{
+"id": 41800,
+"en": "Okay, you can stop now!",
+"ctx": "diálogo uid010c0855"
+},
+{
+"id": 41801,
+"en": "It's that highway rest area client again. They asked if you wanted to taste the wine of defeat once more... which I find to be very odd.",
+"ctx": "diálogo uid010c085d"
+},
+{
+"id": 41802,
+"en": "(Must be Gentle Nakamura, one of the Devil Killers' Four Kings.)",
+"ctx": "diálogo uid010c085d"
+},
+{
+"id": 41803,
+"en": "You know, you should never drink on the job, even if a client suggests it.",
+"ctx": "diálogo uid010c085d"
+},
+{
+"id": 41804,
+"en": "Yes, I'm aware. I'll be heading out now.",
+"ctx": "diálogo uid010c085d"
+},
+{
+"id": 41805,
+"en": "Hey Suzuki-san! Can I tag along?",
+"ctx": "diálogo uid010c085d"
+},
+{
+"id": 41806,
+"en": "(This guy gets everything he wants, doesn't he...)",
+"ctx": "diálogo uid010c085d"
+},
+{
+"id": 41807,
+"en": "It's that client from the highway rest area.",
+"ctx": "diálogo uid010c085d"
+},
+{
+"id": 41808,
+"en": "(So the Devil Killers are back for more, huh?)",
+"ctx": "diálogo uid010c085d"
+},
+{
+"id": 41809,
+"en": "Then I'm on my way.",
+"ctx": "diálogo uid010c085d"
+},
+{
+"id": 41810,
+"en": "Mind if I tag along? That way you can teach me how to deal with more clients!",
+"ctx": "diálogo uid010c085d"
+},
+{
+"id": 41811,
+"en": "(He obviously knows where I'm going.)",
+"ctx": "diálogo uid010c085d"
+},
+{
+"id": 41812,
+"en": "What happened to studying for your Class 2?",
+"ctx": "diálogo uid010c085d"
+},
+{
+"id": 41813,
+"en": "Well, both Wada-san and Muramatsu-san seem pretty sure that I can pass now! They gave me their okay!",
+"ctx": "diálogo uid010c085d"
+},
+{
+"id": 41814,
+"en": "Did they really?",
+"ctx": "diálogo uid010c085d"
+},
+{
+"id": 41815,
+"en": "Yeah, I even aced a practice test! I've been studying my butt off!",
+"ctx": "diálogo uid010c085d"
+},
+{
+"id": 41816,
+"en": "Help me out, Hirakawa-san!",
+"ctx": "diálogo uid010c085d"
+},
+{
+"id": 41817,
+"en": "Hmm... I'd say you've been making an admirable effort.",
+"ctx": "diálogo uid010c085d"
+},
+{
+"id": 41818,
+"en": "Why not take him with you, Suzuki-san? He does need more time in the field.",
+"ctx": "diálogo uid010c085d"
+},
+{
+"id": 41819,
+"en": "I'm not sure he'd benefit from this kind of request...",
+"ctx": "diálogo uid010c085d"
+},
+{
+"id": 41820,
+"en": "Aww, don't say that! Even if it doesn't seem relevant, I still wanna know how it's done.",
+"ctx": "diálogo uid010c085d"
+},
+{
+"id": 41821,
+"en": "You're certainly enthusiastic. Now if that's not dedication, I don't know what is. Wouldn't you say so?",
+"ctx": "diálogo uid010c085d"
+},
+{
+"id": 41822,
+"en": "...I guess.",
+"ctx": "diálogo uid010c085d"
+},
+{
+"id": 41823,
+"en": "Cool! I'm gonna take that as a yes, then! Now let's jam!",
+"ctx": "diálogo uid010c085d"
+},
+{
+"id": 41824,
+"en": "Ready for another day of staring at my brake lights in the distance?",
+"ctx": "diálogo uid010c085e"
+},
+{
+"id": 41825,
+"en": "I think you mean the other way around.",
+"ctx": "diálogo uid010c085e"
+},
+{
+"id": 41826,
+"en": "You seem pretty confident, Mr. Suzuki! How wonderful! Then let's get this party started!",
+"ctx": "diálogo uid010c085e"
+},
+{
+"id": 41827,
+"en": "There are only two out of four Kings left to go. You can do this!",
+"ctx": "diálogo uid010c085e"
+},
+{
+"id": 41828,
+"en": "(At least he's not trying to dissuade me like before.)",
+"ctx": "diálogo uid010c085e"
+},
+{
+"id": 41829,
+"en": "You beat Crash Kajiwara first, then Cool Yoshimi. I guess that means today you'll be facing...",
+"ctx": "diálogo uid010c085e"
+},
+{
+"id": 41830,
+"en": "Which one of you big boys is Mr. Suzuki from Nagasu Taxi?",
+"ctx": "diálogo uid010c085e"
+},
+{
+"id": 41831,
+"en": "Ooh, there he is! The second-in-command of the Four Kings... Gentle Nakamura!",
+"ctx": "diálogo uid010c085e"
+},
+{
+"id": 41832,
+"en": "What's so gentle about him?",
+"ctx": "diálogo uid010c085e"
+},
+{
+"id": 41833,
+"en": "Beats me. But he's a true veteran⑬oldest one on the team. He's the last original Devil Killer, too. Been with 'em from the start.",
+"ctx": "diálogo uid010c085e"
+},
+{
+"id": 41834,
+"en": "And don't let his age fool you⑬he's fast as lightning and then some! Not to mention he's racked up tons of wisdom and experience behind the wheel.",
+"ctx": "diálogo uid010c085e"
+},
+{
+"id": 41835,
+"en": "You're pretty clued up for a youngster. Not bad, Mr. Suzuki.",
+"ctx": "diálogo uid010c085e"
+},
+{
+"id": 41836,
+"en": "Actually, \"Mr. Suzuki\" is this guy right here!",
+"ctx": "diálogo uid010c085e"
+},
+{
+"id": 41837,
+"en": "Ah, so you're the man... You sure you're in the right place? Truth be told, I thought you'd be a little less on in years.",
+"ctx": "diálogo uid010c085e"
+},
+{
+"id": 41838,
+"en": "That makes two of us.",
+"ctx": "diálogo uid010c085e"
+},
+{
+"id": 41839,
+"en": "Hoho. Don't mistake me for one of those doddering old seniors you see puttering around.",
+"ctx": "diálogo uid010c085e"
+},
+{
+"id": 41840,
+"en": "When it comes to driving, experience trumps all else. I've refined my skills over decades, maturing them like a fine wine.",
+"ctx": "diálogo uid010c085e"
+},
+{
+"id": 41841,
+"en": "Now I hear you've already bested two of the Four Kings. Is that correct?",
+"ctx": "diálogo uid010c085e"
+},
+{
+"id": 41842,
+"en": "That is.",
+"ctx": "diálogo uid010c085e"
+},
+{
+"id": 41843,
+"en": "Well, from where I'm standing, those guys might as well be fresh out of driving school.",
+"ctx": "diálogo uid010c085e"
+},
+{
+"id": 41844,
+"en": "Just because you know how to hold the wheel and step on the gas doesn't mean you know how to race.",
+"ctx": "diálogo uid010c085e"
+},
+{
+"id": 41845,
+"en": "Watch and learn, Mr. Suzuki! Because today's lesson is... how to lose sight of a veteran!",
+"ctx": "diálogo uid010c085e"
+},
+{
+"id": 41846,
+"en": "So tell me. How do you find the bitter wine of defeat? A bit too strong for the palate?",
+"ctx": "diálogo uid010c086d"
+},
+{
+"id": 41847,
+"en": "Well, I'll pour you as many glasses as you want. Defeat won't get any sweeter, though.",
+"ctx": "diálogo uid010c086d"
+},
+{
+"id": 41848,
+"en": "You see, here at Gentle Nakamura's vineyard, we age our sour grapes in tear-soaked barrels, then pour the contents liberally down your throat until you're choking on despair!",
+"ctx": "diálogo uid010c086d"
+},
+{
+"id": 41849,
+"en": "Perhaps I took the imagery a bit too far. Now if you'll excuse me...",
+"ctx": "diálogo uid010c086d"
+},
+{
+"id": 41850,
+"en": "You did it, Suzuki-san! That's nearly all four Kings!",
+"ctx": "diálogo uid010c086d"
+},
+{
+"id": 41851,
+"en": "There's only one left⑬their leader!",
+"ctx": "diálogo uid010c086d"
+},
+{
+"id": 41852,
+"en": "How could this be...? I've been racing for decades, doggone it!",
+"ctx": "diálogo uid010c086d"
+},
+{
+"id": 41853,
+"en": "...Though, I suppose this turn of events isn't entirely uncalled for. I must say, Nakajima found himself a diamond in the rough.",
+"ctx": "diálogo uid010c086d"
+},
+{
+"id": 41854,
+"en": "...Did you just say Nakajima? How do you know our boss?",
+"ctx": "diálogo uid010c086d"
+},
+{
+"id": 41855,
+"en": "How? Why, he's the original Devil Killer. The man started this whole gang over twenty years ago.",
+"ctx": "diálogo uid010c086d"
+},
+{
+"id": 41856,
+"en": "Wait, you're telling me <Italic>the chief</Italic> started the Devil Killers!? You gotta be joking! He's just an old geezer! ...No offense.",
+"ctx": "diálogo uid010c086d"
+},
+{
+"id": 41857,
+"en": "We were all a lot younger twenty years ago. Your boss was a real speed demon back then⑬the fastest in Fukuoka, and maybe even all of Kyushu.",
+"ctx": "diálogo uid010c086d"
+},
+{
+"id": 41858,
+"en": "That's just... Nah, my brain can't handle this.",
+"ctx": "diálogo uid010c086d"
+},
+{
+"id": 41859,
+"en": "Then... Then tell me why a legendary god of street racing would quit just to start driving taxis around!",
+"ctx": "diálogo uid010c086d"
+},
+{
+"id": 41860,
+"en": "Your guess is as good as mine, young man.",
+"ctx": "diálogo uid010c086d"
+},
+{
+"id": 41861,
+"en": "Weren't you an original member of his team? Surely you must know something.",
+"ctx": "diálogo uid010c086d"
+},
+{
+"id": 41862,
+"en": "Ah, back then I was just a slowpoke. I never really got to talk to the man.",
+"ctx": "diálogo uid010c086d"
+},
+{
+"id": 41863,
+"en": "Though, I'm glad I stuck with it. I made it to the Four Kings, after all... Took me long enough.",
+"ctx": "diálogo uid010c086d"
+},
+{
+"id": 41864,
+"en": "And now I go losing to a taxi driver. Perhaps my age has finally caught up with me. Some racer I am, eh?",
+"ctx": "diálogo uid010c086d"
+},
+{
+"id": 41865,
+"en": "Hey there. I hear you were out showin' Kiyokawa-kun the ropes today, huh?",
+"ctx": "diálogo uid010c0878"
+},
+{
+"id": 41866,
+"en": "No, today I was up against the Devil Killers.",
+"ctx": "diálogo uid010c0878"
+},
+{
+"id": 41867,
+"en": "Oh? That thing you were doing for the local police? Don't get into any accidents, y'hear?",
+"ctx": "diálogo uid010c0878"
+},
+{
+"id": 41868,
+"en": "...Chief, I need to ask you something.",
+"ctx": "diálogo uid010c0878"
+},
+{
+"id": 41869,
+"en": "Hmm? And what's that?",
+"ctx": "diálogo uid010c0878"
+},
+{
+"id": 41870,
+"en": "Is it true you were the one who founded the Devil Killers?",
+"ctx": "diálogo uid010c0878"
+},
+{
+"id": 41871,
+"en": "...Where'd ya hear that?",
+"ctx": "diálogo uid010c0878"
+},
+{
+"id": 41872,
+"en": "From Gentle Nakamura, the guy I just raced.",
+"ctx": "diálogo uid010c0878"
+},
+{
+"id": 41873,
+"en": "...Looks like the cat's out of the bag. I was thinkin' to have a sit-down with ya one of these days... might as well be now.",
+"ctx": "diálogo uid010c0878"
+},
+{
+"id": 41874,
+"en": "When yer young, ya have time to do whatever your heart desires. For me, that was cars. I loved 'em more than anything... well, just about.",
+"ctx": "diálogo uid010c0878"
+},
+{
+"id": 41875,
+"en": "Before I knew it, there were a whole bunch of us, motorheads to the core. So I decided to form the Devil Killers.",
+"ctx": "diálogo uid010c0878"
+}
+]

@@ -1,0 +1,832 @@
+[
+{
+"id": 47591,
+"en": "You need 200 points to guess both dice rolls.",
+"ctx": "diálogo uid01100309"
+},
+{
+"id": 47592,
+"en": "You can bet on what number will show on one of the two dice. If you guess right, you can earn even more chips by simply guessing odd or even.",
+"ctx": "diálogo uid0110030a"
+},
+{
+"id": 47593,
+"en": "However, you must wager 20 percent of the betting limit in order to make your bet.",
+"ctx": "diálogo uid0110030a"
+},
+{
+"id": 47594,
+"en": "When playing against the house, you will guess either odd or even. Guess right, and your winnings become your bet against the house. You will then guess odd or even again. If you guess right, you win twice the amount of chips you bet. Up to five rolls are possible.",
+"ctx": "diálogo uid0110030a"
+},
+{
+"id": 47595,
+"en": "In this game, you try to guess what the difference will be between the two dice. If you guess right, your payout will be your bet multiplied by the difference between the two dice.",
+"ctx": "diálogo uid0110030a"
+},
+{
+"id": 47596,
+"en": "Cho-han is a dice-rolling game where you guess if the total value of a pair of dice will be odd or even.",
+"ctx": "diálogo uid0110030a"
+},
+{
+"id": 47597,
+"en": "Hold it... An amateur like you can't fool me.",
+"ctx": "diálogo uid0110030b"
+},
+{
+"id": 47598,
+"en": "Hold it... You wouldn't be cheating now, would you?",
+"ctx": "diálogo uid0110030b"
+},
+{
+"id": 47599,
+"en": "(Haruka says it'll be even. What should I do?)",
+"ctx": "diálogo uid0110030b"
+},
+{
+"id": 47600,
+"en": "(Haruka says it'll be odd. What should I do?)",
+"ctx": "diálogo uid0110030b"
+},
+{
+"id": 47601,
+"en": "(That's it for me.)",
+"ctx": "diálogo uid0110030b + diálogo uid0110030c"
+},
+{
+"id": 47602,
+"en": "Was that your sad attempt to cheat just now? You'll have to do better than that to fool me.",
+"ctx": "diálogo uid0110030c"
+},
+{
+"id": 47603,
+"en": "I saw that, you know. You can't fool me.",
+"ctx": "diálogo uid0110030c"
+},
+{
+"id": 47604,
+"en": "Heh, all right, then.",
+"ctx": "diálogo uid0110030c"
+},
+{
+"id": 47605,
+"en": "(Haruka's guessing even. Hmm...)",
+"ctx": "diálogo uid0110030c"
+},
+{
+"id": 47606,
+"en": "(Haruka's guessing odd. Hmm...)",
+"ctx": "diálogo uid0110030c"
+},
+{
+"id": 47607,
+"en": "(The item doesn't seem to be working anymore.)",
+"ctx": "diálogo uid0110030c + diálogo uid0110030e"
+},
+{
+"id": 47608,
+"en": "Whoa there. Don't try no half-assed tricks on me.",
+"ctx": "diálogo uid0110030d"
+},
+{
+"id": 47609,
+"en": "Whoa there. You ain't tryin' to cheat, are ya?",
+"ctx": "diálogo uid0110030d"
+},
+{
+"id": 47610,
+"en": "Heh, whatever.",
+"ctx": "diálogo uid0110030d"
+},
+{
+"id": 47611,
+"en": "(Huh? She ain't even fazed. Was I wrong?)",
+"ctx": "diálogo uid0110030d"
+},
+{
+"id": 47612,
+"en": "(Haruka's sayin' it'll be even. Hmm... What to do...)",
+"ctx": "diálogo uid0110030d"
+},
+{
+"id": 47613,
+"en": "(Haruka's sayin' it'll be odd. Hmm... What to do...)",
+"ctx": "diálogo uid0110030d"
+},
+{
+"id": 47614,
+"en": "(Burned through my points.)",
+"ctx": "diálogo uid0110030d"
+},
+{
+"id": 47615,
+"en": "(The item don't seem to work no more.)",
+"ctx": "diálogo uid0110030d"
+},
+{
+"id": 47616,
+"en": "Wait... Were you trying to cheat? No one likes a cheater, you know.",
+"ctx": "diálogo uid0110030e"
+},
+{
+"id": 47617,
+"en": "Did you actually think you'd get away with that?",
+"ctx": "diálogo uid0110030e"
+},
+{
+"id": 47618,
+"en": "Aw, whatever...",
+"ctx": "diálogo uid0110030e"
+},
+{
+"id": 47619,
+"en": "(Well, that didn't work. Was I wrong?)",
+"ctx": "diálogo uid0110030e"
+},
+{
+"id": 47620,
+"en": "(Haruka thinks it'll be evens. The question is, what should I do?)",
+"ctx": "diálogo uid0110030e"
+},
+{
+"id": 47621,
+"en": "(Haruka thinks it'll be odds. The question is, what should I do?)",
+"ctx": "diálogo uid0110030e"
+},
+{
+"id": 47622,
+"en": "(Guess I'm out of points.)",
+"ctx": "diálogo uid0110030e"
+},
+{
+"id": 47623,
+"en": "It'll be... even!",
+"ctx": "diálogo uid0110030f"
+},
+{
+"id": 47624,
+"en": "It'll be... odd!",
+"ctx": "diálogo uid0110030f"
+},
+{
+"id": 47625,
+"en": "What wonderful driving! I can really rest easy riding with you!",
+"ctx": "diálogo uid0110046a"
+},
+{
+"id": 47626,
+"en": "You drive quite well.",
+"ctx": "diálogo uid0110046a"
+},
+{
+"id": 47627,
+"en": "I wish you'd drive a little more carefully.",
+"ctx": "diálogo uid0110046a"
+},
+{
+"id": 47628,
+"en": "Damn. Looks like we were too late.",
+"ctx": "diálogo uid0110058c"
+},
+{
+"id": 47629,
+"en": "Gah! They spotted us!",
+"ctx": "diálogo uid0110058c"
+},
+{
+"id": 47630,
+"en": "Hold up! Any closer and they'll see us! Fall back!",
+"ctx": "diálogo uid0110058c"
+},
+{
+"id": 47631,
+"en": "You're getting a little too close.",
+"ctx": "diálogo uid0110058c"
+},
+{
+"id": 47632,
+"en": "Perfect! Just stay about this far back, and we'll be fine.",
+"ctx": "diálogo uid0110058c"
+},
+{
+"id": 47633,
+"en": "They're a little too far ahead. Can you get a bit closer?",
+"ctx": "diálogo uid0110058c + diálogo uid012001db"
+},
+{
+"id": 47634,
+"en": "We're going to lose them! Get closer!",
+"ctx": "diálogo uid0110058c"
+},
+{
+"id": 47635,
+"en": "How could you let them shake you like that?",
+"ctx": "diálogo uid0110058c"
+},
+{
+"id": 47636,
+"en": "I'm glad I ran into you. I'm a detective, but my driver's license was suspended.",
+"ctx": "diálogo uid0110058c"
+},
+{
+"id": 47637,
+"en": "Yeah, so!? Everyone makes mistakes!",
+"ctx": "diálogo uid0110058c"
+},
+{
+"id": 47638,
+"en": "Yeah, being a detective can be tough. Thanks for sympathizing.",
+"ctx": "diálogo uid0110058c"
+},
+{
+"id": 47639,
+"en": "Sorry to drag you into this. I owe you one.",
+"ctx": "diálogo uid0110058c"
+},
+{
+"id": 47640,
+"en": "Hey, don't just ignore me...",
+"ctx": "diálogo uid0110058c"
+},
+{
+"id": 47641,
+"en": "I've got a hunch that car's headed to a shady deal. Trust me on this.",
+"ctx": "diálogo uid0110058c"
+},
+{
+"id": 47642,
+"en": "I appreciate it. You're a big help.",
+"ctx": "diálogo uid0110058c"
+},
+{
+"id": 47643,
+"en": "Hmph. I guess a guy like you wouldn't understand.",
+"ctx": "diálogo uid0110058c"
+},
+{
+"id": 47644,
+"en": "Yeah, I guess. No need to act so cold, though.",
+"ctx": "diálogo uid0110058c"
+},
+{
+"id": 47645,
+"en": "You listening, pal?",
+"ctx": "diálogo uid0110058c"
+},
+{
+"id": 47646,
+"en": "Look, Uncle Kaz! <Color:8>Virtua Fighter 2<Color:Default>! I know you're a good fighter, but are you a good Virtua Fighter? Let me see you win!",
+"ctx": "diálogo uid0111064f + diálogo uid012003a8"
+},
+{
+"id": 47647,
+"en": "(Haruka wants to see me <Color:8>win at Virtua Fighter 2<Color:Default>. Not sure my fighting skills work here, but I'll give it a shot.)",
+"ctx": "diálogo uid0111064f"
+},
+{
+"id": 47648,
+"en": "(Virtua Fighter 2 on the easy setting for one hundred yen. Do I want to play?)",
+"ctx": "diálogo uid0111064f"
+},
+{
+"id": 47649,
+"en": "(I don't have money...)",
+"ctx": "diálogo uid0111064f + diálogo uid01110656 …"
+},
+{
+"id": 47650,
+"en": "(I'm all out of cash.)",
+"ctx": "diálogo uid0111064f + diálogo uid01110656 …"
+},
+{
+"id": 47651,
+"en": "(Ain't got the money.)",
+"ctx": "diálogo uid0111064f"
+},
+{
+"id": 47652,
+"en": "(Oops. Can't afford it.)",
+"ctx": "diálogo uid0111064f + diálogo uid01110656 …"
+},
+{
+"id": 47653,
+"en": "(All right. Let's try this.)",
+"ctx": "diálogo uid0111064f + diálogo uid01110656 …"
+},
+{
+"id": 47654,
+"en": "(Sure, why not? Let's play.)",
+"ctx": "diálogo uid0111064f + diálogo uid01110656 …"
+},
+{
+"id": 47655,
+"en": "(Sure. Let's play.)",
+"ctx": "diálogo uid0111064f + diálogo uid01110656 …"
+},
+{
+"id": 47656,
+"en": "(Okay, let's play this thing.)",
+"ctx": "diálogo uid0111064f + diálogo uid01110656 …"
+},
+{
+"id": 47657,
+"en": "(Okay! Here goes.)",
+"ctx": "diálogo uid0111064f + diálogo uid01110656 …"
+},
+{
+"id": 47658,
+"en": "(No, maybe not.)",
+"ctx": "diálogo uid0111064f + diálogo uid01110656 …"
+},
+{
+"id": 47659,
+"en": "(No, not right now.)",
+"ctx": "diálogo uid0111064f + diálogo uid01110656 …"
+},
+{
+"id": 47660,
+"en": "(Nah. Forget it.)",
+"ctx": "diálogo uid0111064f + diálogo uid01110656 …"
+},
+{
+"id": 47661,
+"en": "(Some other time.)",
+"ctx": "diálogo uid0111064f + diálogo uid01110656 …"
+},
+{
+"id": 47662,
+"en": "Press <Action:Button_DPad_Up@UI> to enlarge and <Action:Button_DPad_Down@UI> to shrink size. These settings apply only to Virtua Fighter 2.",
+"ctx": "diálogo uid0111064f"
+},
+{
+"id": 47663,
+"en": "\nVirtua Fighter 2 is a fighting game. Use the joystick and punch (P), kick (K), and guard (G) to bring your opponent's health to 0 and defeat them.\n \n \n ",
+"ctx": "diálogo uid0111064f + diálogo uid01110656 …"
+},
+{
+"id": 47664,
+"en": "After winning two rounds against one opponent, you will be able to fight the next one. If you lose two rounds, it's game over.\n\n \n ",
+"ctx": "diálogo uid0111064f + diálogo uid01110656 …"
+},
+{
+"id": 47665,
+"en": "\n\nEach player character has their unique abilities. You can see which button combinations produce which basic abilities by pressing <Action:Button_Touchpad@VirtuaFigter_1P> during play. There are more abilities than just those, though! \n\n \n \n ",
+"ctx": "diálogo uid0111064f + diálogo uid01110656 …"
+},
+{
+"id": 47666,
+"en": "\n\nIn Yakuza 5, you can play Version 2.1. This version includes an arcade cabinet in Club SEGA in Nagoya and Nakamichi St. in Kamurocho. Each arcade cabinet has its own difficulty level. Find the one that works best for you!\n \n \n\n \n ",
+"ctx": "diálogo uid0111064f + diálogo uid01110656 …"
+},
+{
+"id": 47667,
+"en": "(Okay. let's play this thing.)",
+"ctx": "diálogo uid0111064f + diálogo uid013306b7"
+},
+{
+"id": 47668,
+"en": "(Nah. Not right now.)",
+"ctx": "diálogo uid0111064f"
+},
+{
+"id": 47669,
+"en": "(Virtua Fighter 2.1 on Hard for 100 yen. Do I want to play?)",
+"ctx": "diálogo uid01110656"
+},
+{
+"id": 47670,
+"en": "(Ain't got no money.)",
+"ctx": "diálogo uid01110656 + diálogo uid01110662 …"
+},
+{
+"id": 47671,
+"en": "(No, not now.)",
+"ctx": "diálogo uid01110656 + diálogo uid01110662 …"
+},
+{
+"id": 47672,
+"en": "The settings made here apply only to Virtua Fighter 2.",
+"ctx": "diálogo uid01110656 + diálogo uid01110662 …"
+},
+{
+"id": 47673,
+"en": "Press <Action:Button_DPad_Up@UI> to scale up, and <Action:Button_DPad_Down@UI> to scale down. These settings apply only to Virtua Fighter 2.",
+"ctx": "diálogo uid01110656 + diálogo uid01110662 …"
+},
+{
+"id": 47674,
+"en": "(Virtua Fighter 2.1 on Hard for one hundred yen. Do I want to play?)",
+"ctx": "diálogo uid01110662"
+},
+{
+"id": 47675,
+"en": "(Virtua Fighter 2 on the toughest setting for one hundred yen. Do I want to play?)",
+"ctx": "diálogo uid0111066b"
+},
+{
+"id": 47676,
+"en": "(Virtua Fighter 2.1 on the toughest setting for one hundred yen. Do I want to play?)",
+"ctx": "diálogo uid01110675"
+},
+{
+"id": 47677,
+"en": "Whenever I come through Nagasugai, it's always so busy. It really does live up to its title as one of the biggest cities in the country.",
+"ctx": "diálogo uid0111077d"
+},
+{
+"id": 47678,
+"en": "Yeah. There's never a time when folks aren't around.",
+"ctx": "diálogo uid0111077d"
+},
+{
+"id": 47679,
+"en": "How come y'wound up working here, Kiryu-san?",
+"ctx": "diálogo uid0111077d"
+},
+{
+"id": 47680,
+"en": "How indeed.",
+"ctx": "diálogo uid0111077d"
+},
+{
+"id": 47681,
+"en": "I traveled through many cities, but it was here that I ran into someone who found me a place to get settled.",
+"ctx": "diálogo uid0111077d"
+},
+{
+"id": 47682,
+"en": "Wow, really? Looks like I gotta give this someone my thanks, then. If not for them, I never woulda met ya, Kiryu-san!",
+"ctx": "diálogo uid0111077d"
+},
+{
+"id": 47683,
+"en": "Yes. But after living here for this long, I feel like I fit right in. I might have ended up settling down here even without his help.",
+"ctx": "diálogo uid0111077d"
+},
+{
+"id": 47684,
+"en": "Ya don't say? What's it y'like about this place, anyhow?",
+"ctx": "diálogo uid0111077d"
+},
+{
+"id": 47685,
+"en": "The scenery is beautiful, for one. Being situated between two rivers like this is quite unusual, as far as big cities go.",
+"ctx": "diálogo uid0111077d"
+},
+{
+"id": 47686,
+"en": "I know, right? I'm really fond of the sights here in Nagasu, too.",
+"ctx": "diálogo uid0111077d"
+},
+{
+"id": 47687,
+"en": "If it was just about lookin' pretty, the area 'round the train station would be considered nice too. But there ain't nowhere in Hakata quite like this.",
+"ctx": "diálogo uid0111077d"
+},
+{
+"id": 47688,
+"en": "Back when I lived in Okinawa, I felt the same way about the ocean. A good environment is calming. It's ideal for healing a wounded soul.",
+"ctx": "diálogo uid0111077d"
+},
+{
+"id": 47689,
+"en": "Does that mean you're gonna stay livin' here in Hakata forever and ever?",
+"ctx": "diálogo uid0111077d"
+},
+{
+"id": 47690,
+"en": "Who knows what tomorrow will bring? It's hard to say anything is certain.",
+"ctx": "diálogo uid0111077d"
+},
+{
+"id": 47691,
+"en": "There are lots of pretty girls. That's reason enough right there, don't you think?",
+"ctx": "diálogo uid0111077d"
+},
+{
+"id": 47692,
+"en": "Hehe. Aw, ain't nobody gonna decide where to live just 'cause of that!",
+"ctx": "diálogo uid0111077d"
+},
+{
+"id": 47693,
+"en": "But wouldn't you rather live in a town full of studs over one full of losers?",
+"ctx": "diálogo uid0111077d"
+},
+{
+"id": 47694,
+"en": "Nah, I ain't like that. I'm not the kinda person to judge a book by its cover, y'know?",
+"ctx": "diálogo uid0111077d"
+},
+{
+"id": 47695,
+"en": "A good heart is better than good looks, every time. Y'only really know a guy after you've spent a whole lotta time with him.",
+"ctx": "diálogo uid0111077d"
+},
+{
+"id": 47696,
+"en": "Looks like you'll need to get to know me a lot better, too.",
+"ctx": "diálogo uid0111077d"
+},
+{
+"id": 47697,
+"en": "Hehe. Sure thing!",
+"ctx": "diálogo uid0111077d"
+},
+{
+"id": 47698,
+"en": "The food's delicious. It might even be the best in the whole country.",
+"ctx": "diálogo uid0111077d"
+},
+{
+"id": 47699,
+"en": "I guess it is pretty tasty. But I've never lived anywhere else, so I'm thinkin' I wouldn't really know anyhow.",
+"ctx": "diálogo uid0111077d"
+},
+{
+"id": 47700,
+"en": "Is the food in other cities really not as good?",
+"ctx": "diálogo uid0111077d"
+},
+{
+"id": 47701,
+"en": "It's not bad, per se. But when it comes to local delicacies and specialty foods, Hakata's are some of the most popular in all of Japan.",
+"ctx": "diálogo uid0111077d"
+},
+{
+"id": 47702,
+"en": "I bet if you ever went somewhere else, it wouldn't be long before you'd miss the food here.",
+"ctx": "diálogo uid0111077d"
+},
+{
+"id": 47703,
+"en": "Hm. I do gotta wonder. Maybe I might really like it if I tried somethin' from someplace new, y'know?",
+"ctx": "diálogo uid0111077d"
+},
+{
+"id": 47704,
+"en": "Maybe so. You should plan a cross-country trip and try as many foods as you can.",
+"ctx": "diálogo uid0111077d"
+},
+{
+"id": 47705,
+"en": "Ah, that sounds great!",
+"ctx": "diálogo uid0111077d"
+},
+{
+"id": 47706,
+"en": "It really is quite cold outside.",
+"ctx": "diálogo uid01110782"
+},
+{
+"id": 47707,
+"en": "Maybe yer feelin' it more because you're used to bein' cooped up inside. You oughta get outside and walk more.",
+"ctx": "diálogo uid01110782"
+},
+{
+"id": 47708,
+"en": "No way! I do most of my walking underground, anyway.",
+"ctx": "diálogo uid01110782"
+},
+{
+"id": 47709,
+"en": "Underground? Oh, right. The underground shoppin' mall.",
+"ctx": "diálogo uid01110782"
+},
+{
+"id": 47710,
+"en": "Yeah! There are a whole bunch of shops here under Tsukimino! We could give Kamurocho a run for its money!",
+"ctx": "diálogo uid01110782"
+},
+{
+"id": 47711,
+"en": "I haven't been down there yet. Is it really that big?",
+"ctx": "diálogo uid01110782"
+},
+{
+"id": 47712,
+"en": "It is. The underground walkways stretch all the way from Sapporo Station to Tsukimino Station. So there's no need to walk out in the open air!",
+"ctx": "diálogo uid01110782"
+},
+{
+"id": 47713,
+"en": "Sounds big. Glad I didn't go there then. If I did, I'm sure I woulda gotten lost.",
+"ctx": "diálogo uid01110782"
+},
+{
+"id": 47714,
+"en": "It's fine! Tsukimino is all one giant grid, and the underground is basically the same. You won't lose your way as long as you know your location.",
+"ctx": "diálogo uid01110782"
+},
+{
+"id": 47715,
+"en": "A grid, huh? Like Kyoto, then. I could probably handle that.",
+"ctx": "diálogo uid01110782"
+},
+{
+"id": 47716,
+"en": "It's really handy, because so long as you know the address, you can find a place no problem. Even if you've never been there before!",
+"ctx": "diálogo uid01110782"
+},
+{
+"id": 47717,
+"en": "But don't ya get mixed up 'cause all of the buildings look the same? It's good to have a little variety in yer city, too.",
+"ctx": "diálogo uid01110782"
+},
+{
+"id": 47718,
+"en": "I suppose so. But don't you think the Tsukimino intersection is a pretty big landmark?",
+"ctx": "diálogo uid01110782"
+},
+{
+"id": 47719,
+"en": "True. They've got those big ol' signs, so it stands out.",
+"ctx": "diálogo uid01110782"
+},
+{
+"id": 47720,
+"en": "It's prettier outside. Walkin' underground is a wasted opportunity.",
+"ctx": "diálogo uid01110782"
+},
+{
+"id": 47721,
+"en": "No, the underground is pretty! It's got this kind of near-future thing going on. The lighting and whatnot is very chic.",
+"ctx": "diálogo uid01110782"
+},
+{
+"id": 47722,
+"en": "Hmph, I'm not interested in that sorta thing. I don't give a damn about some place that's all cold and lifeless. It's borin'.",
+"ctx": "diálogo uid01110782"
+},
+{
+"id": 47723,
+"en": "What? But Tsukimino is made up of rows of buildings that all look the same, too. Isn't  that just as boring?",
+"ctx": "diálogo uid01110782"
+},
+{
+"id": 47724,
+"en": "Ain't every day you see the town blanketed in snow. Almost never happens in Kamurocho or Sotenbori.",
+"ctx": "diálogo uid01110782"
+},
+{
+"id": 47725,
+"en": "I see. Snow's nothing special for me, but I guess it's rare for people outside Sapporo.",
+"ctx": "diálogo uid01110782"
+},
+{
+"id": 47726,
+"en": "I thought I'd get sick of seein' it over the last two years, but guess I haven't.",
+"ctx": "diálogo uid01110782"
+},
+{
+"id": 47727,
+"en": "Just take the train. No reason else they'd have all these tracks everywhere.",
+"ctx": "diálogo uid01110782"
+},
+{
+"id": 47728,
+"en": "But it's not just a regular underground tunnel. There are stores lined up all along the way, perfect for grabbing a meal or doing some shopping.",
+"ctx": "diálogo uid01110782"
+},
+{
+"id": 47729,
+"en": "Most large buildings have underground floors that are connected too, so you can get around fine without ever having to go outside.",
+"ctx": "diálogo uid01110782"
+},
+{
+"id": 47730,
+"en": "Yeah, but when I'm under Kamurocho, I dunno what leads where. Why's everything between these stations even connected?",
+"ctx": "diálogo uid01110782"
+},
+{
+"id": 47731,
+"en": "Ah, I get you! You exit the train station gate and you wind up somewhere in Kamurocho's underground mall, or in a building, or even the next station!",
+"ctx": "diálogo uid01110782"
+},
+{
+"id": 47732,
+"en": "When I first got to Tokyo I got lost all the time! It's way too big!",
+"ctx": "diálogo uid01110782"
+},
+{
+"id": 47733,
+"en": "Heh, ain't it just? I still didn't know how to get anywhere when I left to come here.",
+"ctx": "diálogo uid01110782"
+},
+{
+"id": 47734,
+"en": "It's real crowded, ain't it? (Guess that makes it easier for me to get around, though.)",
+"ctx": "diálogo uid01110788"
+},
+{
+"id": 47735,
+"en": "Is it always like this when the snow festival comes around?",
+"ctx": "diálogo uid01110788"
+},
+{
+"id": 47736,
+"en": "Oh, yes. It's a local festival, but for some weird reason, people come from all over to see it.",
+"ctx": "diálogo uid01110788"
+},
+{
+"id": 47737,
+"en": "In Tokyo, it's rare to have snow piles at all. Most of the time it's gone by the next day.",
+"ctx": "diálogo uid01110788"
+},
+{
+"id": 47738,
+"en": "Ah. At work, I get a ton of customers who have come just to see the festival.",
+"ctx": "diálogo uid01110788"
+},
+{
+"id": 47739,
+"en": "I'll bet.",
+"ctx": "diálogo uid01110788 + diálogo uid0134003a"
+},
+{
+"id": 47740,
+"en": "But even as far as locals go, most people only come to look. Only a small few actually make anything.",
+"ctx": "diálogo uid01110788"
+},
+{
+"id": 47741,
+"en": "These days a large portion of the sculptures are made by volunteers who come from outside of Hokkaido.",
+"ctx": "diálogo uid01110788"
+},
+{
+"id": 47742,
+"en": "That's kinda sad. At this rate, the tradition of makin' snow sculptures might wind up dyin' out.",
+"ctx": "diálogo uid01110788"
+},
+{
+"id": 47743,
+"en": "Well, it's hard to make something like what's displayed at the festival, so some people might just make something to put in front of their homes.",
+"ctx": "diálogo uid01110788"
+},
+{
+"id": 47744,
+"en": "Nothin' wrong with that. It's important to keep this kind of tradition goin'.",
+"ctx": "diálogo uid01110788"
+},
+{
+"id": 47745,
+"en": "But ain't there less snow now because of global warming? Ya might not be able to do it in the future. Ain't no better time than the present.",
+"ctx": "diálogo uid01110788"
+},
+{
+"id": 47746,
+"en": "Hehe. You're not even from here, but you're taking it so seriously!",
+"ctx": "diálogo uid01110788"
+},
+{
+"id": 47747,
+"en": "Maybe I ought to make something, too. Hey, maybe I should model a snowman after you, Saejima-san! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid01110788"
+},
+{
+"id": 47748,
+"en": "Sounds fun. I wanna see how it comes out.",
+"ctx": "diálogo uid01110788"
+},
+{
+"id": 47749,
+"en": "What do the locals do? This is their festival, after all.",
+"ctx": "diálogo uid01110788"
+},
+{
+"id": 47750,
+"en": "Well most of the folks who do this are professionals. It's not easy for beginners to get in on it.",
+"ctx": "diálogo uid01110788"
+},
+{
+"id": 47751,
+"en": "Yeah, but once there's nobody left to learn the craft from, this'll all be over for good. Ya can't give up on it just 'cause it's hard.",
+"ctx": "diálogo uid01110788"
+},
+{
+"id": 47752,
+"en": "I guess you're right. I wish you lived in Sapporo, Saejima-san.",
+"ctx": "diálogo uid01110788"
+},
+{
+"id": 47753,
+"en": "Hey, why not just become a resident of Sapporo? That would be the most efficient solution!",
+"ctx": "diálogo uid01110788"
+},
+{
+"id": 47754,
+"en": "I do really wanna participate in the festival, but I can't really do that.",
+"ctx": "diálogo uid01110788"
+},
+{
+"id": 47755,
+"en": "Yeah... That's too bad.",
+"ctx": "diálogo uid01110788"
+},
+{
+"id": 47756,
+"en": "Maybe I oughta try. I've shoveled snow in the cold all the time, so it doesn't bother me none.",
+"ctx": "diálogo uid01110788"
+}
+]

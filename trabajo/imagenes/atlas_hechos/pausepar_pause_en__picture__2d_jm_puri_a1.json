@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_a1",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    42,
+    150,
+    475,
+    240
+   ],
+   "en": "It's definitely love!",
+   "ocr": "Its definitely love!",
+   "es": "¡Es sin duda amor!",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 429
+  }
+ ]
+}

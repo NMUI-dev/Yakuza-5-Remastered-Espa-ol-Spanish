@@ -1,0 +1,852 @@
+[
+{
+"id": 59162,
+"en": "Surely you two have something to do yourselves?",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59163,
+"en": "Yah. How 'bout I go instead of you? Can't have my own mentor doin' my work for me.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59164,
+"en": "'Sides, Okudera-han, ya can't be over yer injuries already. Ya still need rest.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59165,
+"en": "Hmph. Well, do as you will.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59166,
+"en": "Reduces health loss from being in the cold.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59167,
+"en": "Huh, didn't know anybody owned trucks here.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59168,
+"en": "None of the villagers do. The guy with the truck is a trader who visits us to conduct business. He must be stuck here because of the road closure.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59169,
+"en": "We sell him animal skins and meat, and he sells us goods from the city. Even in this place, commerce is everything.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59170,
+"en": "Yeah, just like everywhere else. Guess I'll be doin' business with him myself soon.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59171,
+"en": "So go introduce yourself. If you're going to be working with somebody, it's always best to know each other's names.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59172,
+"en": "You made it back safely. The mountain was kind to you.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59173,
+"en": "Tell me when you decide to go hunting again. Until then, I'll hold on to your rifle. Okay?",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59174,
+"en": "Sure, nice of ya.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59175,
+"en": "If you collect an item on the mountain and want to use it elsewhere, move it to your Inventory when you return to the village.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59176,
+"en": "Upon return, items you collected on the mountain are moved to the Item Box.\nTransfer the ones you want to use to your Inventory. The deer meat for\nNishina's wife has been automatically moved to Valuables.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59177,
+"en": "Raises walking speed in the snow.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59178,
+"en": "What're ya doin' with that shovel?",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59179,
+"en": "Huh? Oh, I was going to dig up some meat I buried here last fall.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59180,
+"en": "Ya buried some meat?",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59181,
+"en": "Yes, the ground acts as a natural freezer, so the meat can stay there all winter without spoiling. We store food this way for emergencies.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59182,
+"en": "Alright. Uh, so if yer diggin' it up... does that mean there's an emergency?",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59183,
+"en": "...I suppose you could call it that.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59184,
+"en": "(So she shared food with me when they were already running low...)",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59185,
+"en": "Is yer husband out huntin'? Saw some deer on the mountain yesterday.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59186,
+"en": "No, because Okudera-san left on a hunt this morning. While he's out there, none of the others will go.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59187,
+"en": "They say that Yama-oroshi is more likely to attack when Okudera-san's scent is in the air. Just like that day nine years ago.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59188,
+"en": "So, yer husband stays at home, afraid to hunt, and then makes ya come out here an' dig up meat?",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59189,
+"en": "Huh? Oh, no, no... It's not like that. I just thought today was a good day to do this.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59190,
+"en": "Oh! Here it is!",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59191,
+"en": "This meat from last fall has more fat on it than the meat hunted at other times of the year.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59192,
+"en": "Interestin'.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59193,
+"en": "Here... for you.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59194,
+"en": "Eh? Why for me?",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59195,
+"en": "You're going after Okudera-san again, aren't you?",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59196,
+"en": "Sure, might be, but...",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59197,
+"en": "Well, better safe than sorry.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59198,
+"en": "But... ain't ya in need of this food?",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59199,
+"en": "Yes. But I can't turn my back on someone determined to go to the mountain in this blizzard.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59200,
+"en": "If it makes you feel any better about it, come back and share food with me if you happen to gather any while you're on the mountain.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59201,
+"en": "I will. That's a promise.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59202,
+"en": "In the past, we all used to help each other out like this.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59203,
+"en": "That's the kind of village I remember, at least. Please, be careful out there.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59204,
+"en": "You're Saejima-san, aren't you?",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59205,
+"en": "How'd ya know my name?",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59206,
+"en": "Okudera-san told me to look out for a big man almost two meters tall, and if he tried to leave the village, I should stop him.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59207,
+"en": "Okudera-san doesn't want a repeat of the tragedy nine years ago.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59208,
+"en": "What tragedy?",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59209,
+"en": "Yama-oroshi attacked our village.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59210,
+"en": "Yama-oroshi. Ya mean that giant bear?",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59211,
+"en": "Yeah. At the time, Okudera lived with his hunting partner, a man named Sato. He was a good guy. But one day...",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59212,
+"en": "Sato was pursuing Yama-oroshi, and ended up chasing him straight into the village. It was terrifying for all of us.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59213,
+"en": "You see, that day, Sato heard that Yama-oroshi had been spotted, so he took it upon himself to go eliminate the menace.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59214,
+"en": "There was a blizzard that day, too.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59215,
+"en": "And? What happened?",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59216,
+"en": "Sato went missing. Okudera-san went after him, and was injured badly. And that's... when it happened.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59217,
+"en": "Yama-oroshi's attack on the village?",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59218,
+"en": "Yes. Thankfully, nobody died. That was a miracle in and of itself.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59219,
+"en": "But buildings were knocked flat, and every last morsel of food in storage was eaten.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59220,
+"en": "Getting through the winter is always tough. Losing our entire food supplies like that... it was devastating. You can't imagine.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59221,
+"en": "We were pushed to the very brink of starvation.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59222,
+"en": "That's terrible.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59223,
+"en": "Ever since then, Okudera-san's been shunned by the rest of the village.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59224,
+"en": "And every winter, when it's snowing hard, he still takes to the mountain in search of Yama-oroshi.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59225,
+"en": "He shows no consideration for the other hunters.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59226,
+"en": "Maybe he's trying to get revenge for what Yama-oroshi did nine years ago. That's what the rest of us think, anyway.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59227,
+"en": "An' that's what he's doin' right now?",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59228,
+"en": "No, he said he had an errand today. Something about finding Yama-oroshi's food source.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59229,
+"en": "(He means Baba-chan.)",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59230,
+"en": "(Tellin' Okudera-han about Yama-oroshi has stirred up trouble...)",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59231,
+"en": "Look, you don't need to know any of this, anyway. You shouldn't go up to the mountain⑬you'll just be another guy to worry about.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59232,
+"en": "Trust me, you should just go home.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59233,
+"en": "Hey, hold on there.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59234,
+"en": "You're the one who got hauled into the village this morning, right? I've got something to ask you.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59235,
+"en": "I'm Nishina. I'm what you might call the leader of the hunters.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59236,
+"en": "So there's a huntin' community here.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59237,
+"en": "Yeah. It's a dying way of life, but we're still here for now.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59238,
+"en": "Traditional hunters have called this village home ever since it was founded.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59239,
+"en": "What was it ya wanted to ask me?",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59240,
+"en": "We're worried... about another guy who's also a visitor to our town, much like yourself. We don't know what he's going to do next.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59241,
+"en": "What other visitor?",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59242,
+"en": "Okudera. The man who brought you in.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59243,
+"en": "He's a newcomer?",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59244,
+"en": "No, not a newcomer. He's lived in the village a long time, actually. But he's still considered a visitor, because he's not originally from here.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59245,
+"en": "In fact, I don't know where he came from. One of our hunters found him in the woods one day. He was lost, so the hunter brought him back to the village. Then he just... stayed.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59246,
+"en": "That was ten years ago. Ever since, he's only been trouble to us locals.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59247,
+"en": "(Looks like there ain't no love lost 'tween the villagers and Okudera-han.)",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59248,
+"en": "So, what's concernin' ya?",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59249,
+"en": "I heard he went to the mountain this morning. Is it because the monster was sighted?",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59250,
+"en": "Monster?",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59251,
+"en": "Yama-oroshi. He's a giant, man-eating bear. Twice the size of a regular bear.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59252,
+"en": "Yeah? Huh. Sounds like the bear that attacked me.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59253,
+"en": "What!? You were attacked by Yama-oroshi?",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59254,
+"en": "I mean, I ain't sure or nothin', but it fits yer description of the beast.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59255,
+"en": "Does Okudera know about this?",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59256,
+"en": "Yeah, 'course.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59257,
+"en": "Then... that's why... Agh, there's no time to explain! I have to tell the others.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59258,
+"en": "Yes! If you don't plan on dying today, go inside and lock up tight!",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59259,
+"en": "Whatever you do, don't go chasing after Okudera. You understand!?",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59260,
+"en": "(Musta been some trouble here... Somethin' to do with Okudera-han and that man-eatin' bear.)",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59261,
+"en": "(Who woulda thought there'd be a village this deep in the mountains...)",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59262,
+"en": "(Damn, and it's mornin' already. How long was I out?)",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59263,
+"en": "Rgh! This cold is brutal. Even my bones feel frozen! Gotta hurry before I lose too much strength...",
+"ctx": "diálogo uid01690034"
+},
+{
+"id": 59264,
+"en": "On the mountain, the cold drains your health over time. Restore it by eating food!",
+"ctx": "diálogo uid01690034"
+},
+{
+"id": 59265,
+"en": "If your health gets too low, open the Pause Menu and consume an item that restores it.",
+"ctx": "diálogo uid01690034"
+},
+{
+"id": 59266,
+"en": "Gotta stick to the river for now.",
+"ctx": "diálogo uid01690034"
+},
+{
+"id": 59267,
+"en": "Gotta meet up with Okudera-han.",
+"ctx": "diálogo uid01690034"
+},
+{
+"id": 59268,
+"en": "Bear tracks. Pretty close to the village...",
+"ctx": "diálogo uid01690065"
+},
+{
+"id": 59269,
+"en": "Blood! Was there a bear attack?",
+"ctx": "diálogo uid01690066"
+},
+{
+"id": 59270,
+"en": "A blood trail. Better follow it.",
+"ctx": "diálogo uid01690066"
+},
+{
+"id": 59271,
+"en": "Already pretty high in altitude. Where are ya, Baba?",
+"ctx": "diálogo uid01690067"
+},
+{
+"id": 59272,
+"en": "Saejima! What are you doing here?",
+"ctx": "diálogo uid01690068"
+},
+{
+"id": 59273,
+"en": "Came to tell ya that Baba-chan woke up.",
+"ctx": "diálogo uid01690068"
+},
+{
+"id": 59274,
+"en": "Also... I can't stand bein' a burden on ya anymore. I wanna try huntin' my own food, at least.",
+"ctx": "diálogo uid01690068"
+},
+{
+"id": 59275,
+"en": "And I gotta repay the person who shared her food with me, even when she don't have much for herself.",
+"ctx": "diálogo uid01690068"
+},
+{
+"id": 59276,
+"en": "That getup. That gun. Where'd you get them? Please don't tell me you stole them.",
+"ctx": "diálogo uid01690068"
+},
+{
+"id": 59277,
+"en": "No, it's all legit. I pled my case to some kindly folks, and they let me borrow this stuff. Lotta kind people in the village, actually... Why don't ya try befriendin' them some time?",
+"ctx": "diálogo uid01690068"
+},
+{
+"id": 59278,
+"en": "Hmph. It's none of your business.",
+"ctx": "diálogo uid01690068"
+},
+{
+"id": 59279,
+"en": "Okay, that's fine, Okudera-han. But I still wanna hunt. Can ya teach me the basics?",
+"ctx": "diálogo uid01690068"
+},
+{
+"id": 59280,
+"en": "Fine, I'll do it. My life will be easier when you're not just another mouth to feed, anyway.",
+"ctx": "diálogo uid01690068"
+},
+{
+"id": 59281,
+"en": "Okay, the basics.",
+"ctx": "diálogo uid01690068"
+},
+{
+"id": 59282,
+"en": "Okay, listen close if you're serious about learning to hunt and trap.",
+"ctx": "diálogo uid01690068"
+},
+{
+"id": 59283,
+"en": "Today, I'll teach you how to use your rifle.",
+"ctx": "diálogo uid01690068"
+},
+{
+"id": 59284,
+"en": "To shoot game?",
+"ctx": "diálogo uid01690068"
+},
+{
+"id": 59285,
+"en": "Yes. Now usually, after a shooting session, a gun needs to be properly cleaned and serviced. But that's an involved process... one I don't feel like teaching you, frankly.",
+"ctx": "diálogo uid01690068"
+},
+{
+"id": 59286,
+"en": "So I'll just clean it myself whenever you come back from the mountain. That way, you only have to carry it when you're hunting. Less tedium for both of us.",
+"ctx": "diálogo uid01690068"
+},
+{
+"id": 59287,
+"en": "Sure. Less tedium, and less work for me.",
+"ctx": "diálogo uid01690068"
+},
+{
+"id": 59288,
+"en": "Exactly. Now, obviously, you can't shoot accurately if you're too far away.",
+"ctx": "diálogo uid01690068"
+},
+{
+"id": 59289,
+"en": "If you spot game, you have to approach it without letting it see you. The key is to make yourself small and quiet.",
+"ctx": "diálogo uid01690068"
+},
+{
+"id": 59290,
+"en": "You just crouch down and creep forward. Try it.",
+"ctx": "diálogo uid01690068"
+},
+{
+"id": 59291,
+"en": "Press <Action:Button_Circle@Hunter_And_Killer> to crouch. By moving in this position, your\nprey is less likely to notice you, and you'll have greater\ngreater accuracy while shooting.",
+"ctx": "diálogo uid01690068"
+},
+{
+"id": 59292,
+"en": "This used to be a hunting hut. I haven't been to this one in a while⑬I typically use the other ones...",
+"ctx": "diálogo uid01690069"
+},
+{
+"id": 59293,
+"en": "But what a shame to see it like this. Bears must have knocked it flat.",
+"ctx": "diálogo uid01690069"
+},
+{
+"id": 59294,
+"en": "This is Yama-oroshi's doin'?",
+"ctx": "diálogo uid01690069"
+},
+{
+"id": 59295,
+"en": "Who knows? Other bears may not be as strong or big as he is, but they could still do something like this. Such a shame... But at least it can be fixed with a <Color:8>hut repair kit<Color:Default> from the village.",
+"ctx": "diálogo uid01690069"
+},
+{
+"id": 59296,
+"en": "If you fix it, it could be used as a hunting hut again.",
+"ctx": "diálogo uid01690069"
+},
+{
+"id": 59297,
+"en": "There are a number of flattened huts on the mountain.",
+"ctx": "diálogo uid01690069"
+},
+{
+"id": 59298,
+"en": "If fixed with a <Color:8>hut repair kit<Color:Default>, a hunting hut will be usable as a checkpoint. If you fail a mission, you can restart the mission at the hut you last visited.",
+"ctx": "diálogo uid01690069"
+},
+{
+"id": 59299,
+"en": "Rest at a hunting hut to restock your ammunition. And just like a hideout, the hut restores your health over time.",
+"ctx": "diálogo uid01690069"
+},
+{
+"id": 59300,
+"en": "If you become too weak to continue, you can make an emergency return to the village from any hunting hut. However, if you do this, you will lose all items obtained during the outing, as well as any mission progress.",
+"ctx": "diálogo uid01690069"
+},
+{
+"id": 59301,
+"en": "Sure, but it ain't like I got the money for buyin' any hut repair kit. That'll have to wait.",
+"ctx": "diálogo uid01690069"
+},
+{
+"id": 59302,
+"en": "That's the way of a hunter's life... He's poor until he catches his prey. Why don't we try to rectify that now? Let's look for some deer.",
+"ctx": "diálogo uid01690069"
+},
+{
+"id": 59303,
+"en": "Ya don't have to convince me.",
+"ctx": "diálogo uid01690069"
+},
+{
+"id": 59304,
+"en": "You can (and should) sell items you acquire on the\nmountain. Your only source of income in the village\nis what you manage to hunt, trap, and harvest.",
+"ctx": "diálogo uid01690069"
+},
+{
+"id": 59305,
+"en": "Okudera-han, whaddya make of these tracks?",
+"ctx": "diálogo uid0169006a"
+},
+{
+"id": 59306,
+"en": "Definitely deer tracks, and they're fresh. The deer are probably close by.",
+"ctx": "diálogo uid0169006a"
+},
+{
+"id": 59307,
+"en": "You may find animal tracks on the mountain.\nFollow them to locate prey.",
+"ctx": "diálogo uid0169006a"
+},
+{
+"id": 59308,
+"en": "So, follow 'em?",
+"ctx": "diálogo uid0169006a"
+},
+{
+"id": 59309,
+"en": "Yes, and from here on out, keep the chatter to a minimum. Let's use hand signals.",
+"ctx": "diálogo uid0169006a"
+},
+{
+"id": 59310,
+"en": "Press <Action:Button_L2@Hunter_And_Killer> to signal your (NPC) companion. There\nare two commands: \"Come with me\" and \"Stay put.\"",
+"ctx": "diálogo uid0169006a"
+},
+{
+"id": 59311,
+"en": "Okay, listen. If you spot some deer, approach them from behind carefully.",
+"ctx": "diálogo uid0169006a"
+},
+{
+"id": 59312,
+"en": "Get as close as possible, then shoot. Got that?",
+"ctx": "diálogo uid0169006a"
+},
+{
+"id": 59313,
+"en": "Today I'll show you how to trap small game. It doesn't involve any shooting, so don't worry about your rifle.",
+"ctx": "diálogo uid0169006c"
+},
+{
+"id": 59314,
+"en": "You have to use different traps for different animals. Today we'll catch rabbits. For them, we use snares.",
+"ctx": "diálogo uid0169006c"
+},
+{
+"id": 59315,
+"en": "Got it. Rabbits, snares.",
+"ctx": "diálogo uid0169006c"
+},
+{
+"id": 59316,
+"en": "Yeah. You can also catch martens and foxes around here, but we'll save them for another time.",
+"ctx": "diálogo uid0169006c"
+},
+{
+"id": 59317,
+"en": "So, this is a snare.",
+"ctx": "diálogo uid0169006c"
+},
+{
+"id": 59318,
+"en": "When the animal steps in it, the wire tightens around its foot.",
+"ctx": "diálogo uid0169006c"
+},
+{
+"id": 59319,
+"en": "You can use mine today, but remember to bring your own for next time.",
+"ctx": "diálogo uid0169006c"
+},
+{
+"id": 59320,
+"en": "You got a <Color:8>Snare<Color:Default>.",
+"ctx": "diálogo uid0169006c"
+},
+{
+"id": 59321,
+"en": "Traps are reusable, but they can break. Just repair them if that happens.",
+"ctx": "diálogo uid0169006c"
+},
+{
+"id": 59322,
+"en": "Each time you use a trap, it gets a little less durable. If its durability drops to zero, it will break. Use a <Color:8>repair kit<Color:Default> to repair it.",
+"ctx": "diálogo uid0169006c"
+},
+{
+"id": 59323,
+"en": "The key to successful trapping is placement.",
+"ctx": "diálogo uid0169006c"
+},
+{
+"id": 59324,
+"en": "You have to look for a good trap site.",
+"ctx": "diálogo uid0169006c"
+},
+{
+"id": 59325,
+"en": "Where do I find those?",
+"ctx": "diálogo uid0169006c"
+},
+{
+"id": 59326,
+"en": "There are many <Color:7>trap sites<Color:Default> on the mountain, but the best ones are wherever there are lots of animal tracks. So if you find a site, check the area for tracks!",
+"ctx": "diálogo uid0169006c"
+},
+{
+"id": 59327,
+"en": "So... I gotta trek around in the snow until I find a site?",
+"ctx": "diálogo uid0169006c"
+},
+{
+"id": 59328,
+"en": "Nobody ever said a hunter's life was easy. Go on, now. Lead the way.",
+"ctx": "diálogo uid0169006c"
+},
+{
+"id": 59329,
+"en": "Alright.",
+"ctx": "diálogo uid0169006c"
+},
+{
+"id": 59330,
+"en": "Return to the village?",
+"ctx": "diálogo uid01690071 + diálogo uid0169007b"
+},
+{
+"id": 59331,
+"en": "Whenever you're out here, always be wary of bears. Yama-oroshi is the obvious danger, but other bears are nothing to be trifled with, either.",
+"ctx": "diálogo uid0169007c"
+}
+]

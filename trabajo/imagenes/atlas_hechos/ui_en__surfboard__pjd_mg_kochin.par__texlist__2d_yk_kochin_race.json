@@ -1,0 +1,791 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_kochin.par/texlist/2d_yk_kochin_race",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    0,
+    0,
+    512,
+    76
+   ],
+   "en": "Wind Cup",
+   "es": "Copa Viento",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "estilo": {
+    "arriba": [
+     219,
+     219,
+     225
+    ],
+    "abajo": [
+     133,
+     135,
+     148
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     3
+    ],
+    "brillo": [
+     25,
+     25,
+     40
+    ]
+   },
+   "ancho_max": 397,
+   "alto": 53
+  },
+  {
+   "caja": [
+    0,
+    76,
+    512,
+    152
+   ],
+   "en": "Chicken Cup",
+   "es": "Copa Pollo",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "estilo": {
+    "arriba": [
+     219,
+     219,
+     232
+    ],
+    "abajo": [
+     135,
+     141,
+     155
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     3
+    ],
+    "brillo": [
+     25,
+     25,
+     40
+    ]
+   },
+   "ancho_max": 500
+  },
+  {
+   "caja": [
+    0,
+    152,
+    512,
+    228
+   ],
+   "en": "Kamikaze Cup",
+   "es": "Copa Kamikaze",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "estilo": {
+    "arriba": [
+     212,
+     229,
+     232
+    ],
+    "abajo": [
+     128,
+     145,
+     148
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     3
+    ],
+    "brillo": [
+     25,
+     25,
+     40
+    ]
+   },
+   "ancho_max": 500,
+   "alto": 62
+  },
+  {
+   "caja": [
+    0,
+    228,
+    512,
+    304
+   ],
+   "en": "Silver Cup",
+   "es": "Copa Plata",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "estilo": {
+    "arriba": [
+     215,
+     231,
+     232
+    ],
+    "abajo": [
+     133,
+     145,
+     147
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     3
+    ],
+    "brillo": [
+     25,
+     25,
+     40
+    ]
+   },
+   "ancho_max": 430
+  },
+  {
+   "caja": [
+    0,
+    304,
+    512,
+    380
+   ],
+   "en": "Genbu Cup",
+   "es": "Copa Genbu",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "estilo": {
+    "arriba": [
+     228,
+     227,
+     222
+    ],
+    "abajo": [
+     145,
+     145,
+     140
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     3
+    ],
+    "brillo": [
+     25,
+     25,
+     40
+    ]
+   },
+   "ancho_max": 466
+  },
+  {
+   "caja": [
+    0,
+    380,
+    512,
+    456
+   ],
+   "en": "Byakko Cup",
+   "es": "Copa Byakko",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "estilo": {
+    "arriba": [
+     228,
+     227,
+     225
+    ],
+    "abajo": [
+     147,
+     147,
+     140
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     3
+    ],
+    "brillo": [
+     25,
+     25,
+     40
+    ]
+   },
+   "ancho_max": 494
+  },
+  {
+   "caja": [
+    0,
+    456,
+    512,
+    532
+   ],
+   "en": "King Cup",
+   "es": "Copa Rey",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "estilo": {
+    "arriba": [
+     251,
+     240,
+     182
+    ],
+    "abajo": [
+     155,
+     106,
+     44
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     3
+    ],
+    "brillo": [
+     25,
+     25,
+     40
+    ]
+   },
+   "ancho_max": 386
+  },
+  {
+   "caja": [
+    0,
+    532,
+    512,
+    608
+   ],
+   "en": "Black Cup",
+   "es": "Copa Negra",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "estilo": {
+    "arriba": [
+     225,
+     225,
+     179
+    ],
+    "abajo": [
+     155,
+     98,
+     36
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     3
+    ],
+    "brillo": [
+     25,
+     25,
+     40
+    ]
+   },
+   "ancho_max": 422
+  },
+  {
+   "caja": [
+    0,
+    608,
+    512,
+    684
+   ],
+   "en": "Azuchi Cup",
+   "es": "Copa Azuchi",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "estilo": {
+    "arriba": [
+     235,
+     234,
+     180
+    ],
+    "abajo": [
+     153,
+     98,
+     36
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     3
+    ],
+    "brillo": [
+     25,
+     25,
+     40
+    ]
+   },
+   "ancho_max": 482
+  },
+  {
+   "caja": [
+    0,
+    684,
+    512,
+    760
+   ],
+   "en": "Shigure Cup",
+   "es": "Copa Shigure",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "estilo": {
+    "arriba": [
+     213,
+     229,
+     232
+    ],
+    "abajo": [
+     127,
+     139,
+     140
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     3
+    ],
+    "brillo": [
+     25,
+     25,
+     40
+    ]
+   },
+   "ancho_max": 500
+  },
+  {
+   "caja": [
+    512,
+    0,
+    1024,
+    76
+   ],
+   "en": "Novice Cup",
+   "es": "Copa Novato",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "estilo": {
+    "arriba": [
+     219,
+     219,
+     225
+    ],
+    "abajo": [
+     133,
+     138,
+     155
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     3
+    ],
+    "brillo": [
+     25,
+     25,
+     40
+    ]
+   },
+   "ancho_max": 478,
+   "alto": 57
+  },
+  {
+   "caja": [
+    512,
+    76,
+    1024,
+    152
+   ],
+   "en": "Drake Cup",
+   "es": "Copa Dragón",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "estilo": {
+    "arriba": [
+     219,
+     221,
+     232
+    ],
+    "abajo": [
+     135,
+     142,
+     155
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     3
+    ],
+    "brillo": [
+     25,
+     25,
+     40
+    ]
+   },
+   "ancho_max": 438
+  },
+  {
+   "caja": [
+    512,
+    152,
+    1024,
+    228
+   ],
+   "en": "Rising Cup",
+   "es": "Copa Ascenso",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "estilo": {
+    "arriba": [
+     213,
+     231,
+     232
+    ],
+    "abajo": [
+     127,
+     138,
+     140
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     3
+    ],
+    "brillo": [
+     25,
+     25,
+     40
+    ]
+   },
+   "ancho_max": 453
+  },
+  {
+   "caja": [
+    512,
+    228,
+    1024,
+    304
+   ],
+   "en": "Crystal Cup",
+   "es": "Copa Cristal",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "estilo": {
+    "arriba": [
+     215,
+     231,
+     232
+    ],
+    "abajo": [
+     128,
+     144,
+     147
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     3
+    ],
+    "brillo": [
+     25,
+     25,
+     40
+    ]
+   },
+   "ancho_max": 484
+  },
+  {
+   "caja": [
+    512,
+    304,
+    1024,
+    380
+   ],
+   "en": "Suzaku Cup",
+   "es": "Copa Suzaku",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "estilo": {
+    "arriba": [
+     228,
+     227,
+     224
+    ],
+    "abajo": [
+     145,
+     145,
+     140
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     3
+    ],
+    "brillo": [
+     25,
+     25,
+     40
+    ]
+   },
+   "ancho_max": 497
+  },
+  {
+   "caja": [
+    512,
+    380,
+    1024,
+    456
+   ],
+   "en": "Seiryu Cup",
+   "es": "Copa Seiryu",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "estilo": {
+    "arriba": [
+     228,
+     229,
+     225
+    ],
+    "abajo": [
+     147,
+     149,
+     140
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     3
+    ],
+    "brillo": [
+     25,
+     25,
+     40
+    ]
+   },
+   "ancho_max": 460
+  },
+  {
+   "caja": [
+    512,
+    456,
+    1024,
+    532
+   ],
+   "en": "Storm Cup",
+   "es": "Copa Tormenta",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "estilo": {
+    "arriba": [
+     251,
+     240,
+     182
+    ],
+    "abajo": [
+     154,
+     99,
+     44
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     3
+    ],
+    "brillo": [
+     25,
+     25,
+     40
+    ]
+   },
+   "ancho_max": 442
+  },
+  {
+   "caja": [
+    512,
+    532,
+    1024,
+    608
+   ],
+   "en": "Skanda Cup",
+   "es": "Copa Skanda",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "estilo": {
+    "arriba": [
+     225,
+     225,
+     179
+    ],
+    "abajo": [
+     153,
+     98,
+     36
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     3
+    ],
+    "brillo": [
+     25,
+     25,
+     40
+    ]
+   },
+   "ancho_max": 500
+  },
+  {
+   "caja": [
+    512,
+    608,
+    1024,
+    684
+   ],
+   "en": "Dawn Cup",
+   "es": "Copa Amanecer",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "estilo": {
+    "arriba": [
+     219,
+     221,
+     232
+    ],
+    "abajo": [
+     133,
+     142,
+     155
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     3
+    ],
+    "brillo": [
+     25,
+     25,
+     40
+    ]
+   },
+   "ancho_max": 425
+  },
+  {
+   "caja": [
+    512,
+    684,
+    1024,
+    760
+   ],
+   "en": "Adamant Cup",
+   "es": "Copa Adamante",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "estilo": {
+    "arriba": [
+     228,
+     227,
+     222
+    ],
+    "abajo": [
+     140,
+     141,
+     137
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     3
+    ],
+    "brillo": [
+     25,
+     25,
+     40
+    ]
+   },
+   "ancho_max": 500
+  }
+ ]
+}

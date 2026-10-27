@@ -1,0 +1,1067 @@
+[
+{
+"id": 35030,
+"en": "I'll crush the Tojo Clan.",
+"ctx": "diálogo uid010206af"
+},
+{
+"id": 35031,
+"en": "Every last one of them down in Fukuoka.",
+"ctx": "diálogo uid010206af"
+},
+{
+"id": 35032,
+"en": "Yer quittin' on me!?",
+"ctx": "diálogo uid010206bc"
+},
+{
+"id": 35033,
+"en": "Yes, sir. I don't want to cause you any more trouble.",
+"ctx": "diálogo uid010206bc"
+},
+{
+"id": 35034,
+"en": "You've known all along, haven't you? That my name isn't actually Suzuki.",
+"ctx": "diálogo uid010206bc"
+},
+{
+"id": 35035,
+"en": "Well, yeah.",
+"ctx": "diálogo uid010206bc + diálogo uid010c095f"
+},
+{
+"id": 35036,
+"en": "The truth is, I'm ex-yakuza. I used to be in a group called the Tojo Clan.",
+"ctx": "diálogo uid010206bc"
+},
+{
+"id": 35037,
+"en": "Eventually I made a clean start, and went on to run an orphanage in Okinawa.",
+"ctx": "diálogo uid010206bc"
+},
+{
+"id": 35038,
+"en": "Then I had to leave, and ended up here in Fukuoka. That's when I met you.",
+"ctx": "diálogo uid010206bc"
+},
+{
+"id": 35039,
+"en": "But now, war is about to break out here in Fukuoka between the Tojo Clan and the Yamagasa Family.",
+"ctx": "diálogo uid010206bc"
+},
+{
+"id": 35040,
+"en": "War!?",
+"ctx": "diálogo uid010206bc"
+},
+{
+"id": 35041,
+"en": "I have to stop that from happening.",
+"ctx": "diálogo uid010206bc"
+},
+{
+"id": 35042,
+"en": "Suzuki-san...",
+"ctx": "diálogo uid010206bc + diálogo uid010c0935"
+},
+{
+"id": 35043,
+"en": "No matter how things turn out, it would be a huge problem for you if word got out that I worked here.",
+"ctx": "diálogo uid010206bc"
+},
+{
+"id": 35044,
+"en": "Meaning I need to quit before that happens.",
+"ctx": "diálogo uid010206bc"
+},
+{
+"id": 35045,
+"en": "So that's how it is, huh?",
+"ctx": "diálogo uid010206bc"
+},
+{
+"id": 35046,
+"en": "I'm sorry it had to be this way.",
+"ctx": "diálogo uid010206bc"
+},
+{
+"id": 35047,
+"en": "Yeah, so am I. 'Cause you ain't goin' nowhere.",
+"ctx": "diálogo uid010206bc"
+},
+{
+"id": 35048,
+"en": "But Chief.",
+"ctx": "diálogo uid010206bc"
+},
+{
+"id": 35049,
+"en": "Look. You're sayin' you wanna quit 'cause you're afraid of hurtin' the company, right?",
+"ctx": "diálogo uid010206bc"
+},
+{
+"id": 35050,
+"en": "Well, you're goin' about this all wrong. You don't hafta leave. Yer part of the family now, Suzuki-san.",
+"ctx": "diálogo uid010206bc"
+},
+{
+"id": 35051,
+"en": "I want the people workin' for me to live life true to themselves, without holdin' anything back.",
+"ctx": "diálogo uid010206bc"
+},
+{
+"id": 35052,
+"en": "I could tell you were no ordinary guy right from the get-go.",
+"ctx": "diálogo uid010206bc"
+},
+{
+"id": 35053,
+"en": "Truth be told, I had a feelin' somethin' like this would happen one day.",
+"ctx": "diálogo uid010206bc"
+},
+{
+"id": 35054,
+"en": "Bear in mind, I'm runnin' a business here. I can't afford to lose a good man for no good reason.",
+"ctx": "diálogo uid010206bc"
+},
+{
+"id": 35055,
+"en": "Now I don't need to know any details. Just be sure to come back to us, no matter what.",
+"ctx": "diálogo uid010206bc"
+},
+{
+"id": 35056,
+"en": "Y'got that?",
+"ctx": "diálogo uid010206bc"
+},
+{
+"id": 35057,
+"en": "Nakajima-san...",
+"ctx": "diálogo uid010206bc"
+},
+{
+"id": 35058,
+"en": "Right! Now that that's settled, you better take care of any loose ends before the big task ahead!",
+"ctx": "diálogo uid010206bc"
+},
+{
+"id": 35059,
+"en": "Oh, and y'can take one of our cars when you go and put an end to this war of yours. Just come talk to me.",
+"ctx": "diálogo uid010206bc"
+},
+{
+"id": 35060,
+"en": "Thank you, Chief.",
+"ctx": "diálogo uid010206bc"
+},
+{
+"id": 35061,
+"en": "So Madarame came begging you to rescue his helpless family, did he?",
+"ctx": "diálogo uid010206c3"
+},
+{
+"id": 35062,
+"en": "Madarame is still alive and strong. You failed to destroy the Yamagasa Family.",
+"ctx": "diálogo uid010206c3"
+},
+{
+"id": 35063,
+"en": "For someone who made it so far, you really are quite imperceptive.",
+"ctx": "diálogo uid010206c3"
+},
+{
+"id": 35064,
+"en": "I never wanted to kill Madarame.",
+"ctx": "diálogo uid010206c3"
+},
+{
+"id": 35065,
+"en": "All I needed was to ruffle up his feathers a bit. That was the plan all along.",
+"ctx": "diálogo uid010206c3"
+},
+{
+"id": 35066,
+"en": "Did the bomb not give it away?",
+"ctx": "diálogo uid010206c3"
+},
+{
+"id": 35067,
+"en": "If I wanted to use lethal force, I wouldn't use a half-measure. I'd have guaranteed the deed was done.",
+"ctx": "diálogo uid010206c3"
+},
+{
+"id": 35068,
+"en": "That little display of fireworks was simply the pretext I needed to fight the Yamagasa Family.",
+"ctx": "diálogo uid010206c3"
+},
+{
+"id": 35069,
+"en": "Besides, having Madarame die would be <Italic>very</Italic> inconvenient for me, at least until Chairman Dojima turns up.",
+"ctx": "diálogo uid010206c3"
+},
+{
+"id": 35070,
+"en": "I know for a fact the two of them had something worked out. So I needed proper bait to lure out the chairman.",
+"ctx": "diálogo uid010206c3"
+},
+{
+"id": 35071,
+"en": "I get it. You're using Madarame to get to Daigo.",
+"ctx": "diálogo uid010206c3"
+},
+{
+"id": 35072,
+"en": "As far as Chairman Dojima's concerned, I intend to track him down as soon as possible.",
+"ctx": "diálogo uid010206c3"
+},
+{
+"id": 35073,
+"en": "Now then, I think it's time we began. Are you ready, Fourth Chairman?",
+"ctx": "diálogo uid010206c3"
+},
+{
+"id": 35074,
+"en": "I need to check one thing first.",
+"ctx": "diálogo uid010206c3"
+},
+{
+"id": 35075,
+"en": "And what might that be?",
+"ctx": "diálogo uid010206c3"
+},
+{
+"id": 35076,
+"en": "If I take you all down myself, then this isn't a war between the families, right?",
+"ctx": "diálogo uid010206c3"
+},
+{
+"id": 35077,
+"en": "I really don't know what you're implying.",
+"ctx": "diálogo uid010206c3"
+},
+{
+"id": 35078,
+"en": "I meant what I said. If I take down every one of you myself, it's just a fight between a civilian and some yakuza.",
+"ctx": "diálogo uid010206c3"
+},
+{
+"id": 35079,
+"en": "Not a war between families. Am I wrong?",
+"ctx": "diálogo uid010206c3"
+},
+{
+"id": 35080,
+"en": "That's absurd! Have you lost your mind?",
+"ctx": "diálogo uid010206c3"
+},
+{
+"id": 35081,
+"en": "Yahata! You stay out of this. I promise, I won't leave a single one standing.",
+"ctx": "diálogo uid010206c3"
+},
+{
+"id": 35082,
+"en": "But!",
+"ctx": "diálogo uid010206c3 + diálogo uid010c0aad"
+},
+{
+"id": 35083,
+"en": "Like I said, I won't let your family fade away.",
+"ctx": "diálogo uid010206c3"
+},
+{
+"id": 35084,
+"en": "Hahahaha! What nonsense. You must've taken too many hits to the head.",
+"ctx": "diálogo uid010206c3"
+},
+{
+"id": 35085,
+"en": "You won't be laughing soon.",
+"ctx": "diálogo uid010206c3"
+},
+{
+"id": 35086,
+"en": "So you're going to take on an army by yourself because you think you can stop a war!?",
+"ctx": "diálogo uid010206c3"
+},
+{
+"id": 35087,
+"en": "You don't stand a chance!",
+"ctx": "diálogo uid010206c3"
+},
+{
+"id": 35088,
+"en": "(We'll see about that.)",
+"ctx": "diálogo uid010206c3"
+},
+{
+"id": 35089,
+"en": "(Well, that's done. Just gotta make sure I'm ready, then I'm off to the battin' center.)",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35090,
+"en": "Dammit... You're too freaking strong!",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35091,
+"en": "Ya want my advice? Find a new line of work. You'll be happier for it.",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35092,
+"en": "Hah... Hahaha! Like there's somewhere else that'll take a guy like me.",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35093,
+"en": "If ya can't find anythin', come see me.",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35094,
+"en": "Gonna be leavin' town for a while tonight, but I'll be back someday. If you're still flounderin' by then, I'll give ya a hand up.",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35095,
+"en": "Oh, uh... Thanks.",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35096,
+"en": "(Well, that took longer than I was hopin'. Better get to New Serena before it's too late.)",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35097,
+"en": "Can I help you?",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35098,
+"en": "Ya got cotton shoved in your ears? I asked you a question.",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35099,
+"en": "I'm sick of you and your whole tough guy shtick.",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35100,
+"en": "Ya gonna explain that, or can I go? Got places to be.",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35101,
+"en": "Not so fast. You're the reason my career's gone down the shitter.",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35102,
+"en": " N' how's that, exactly?",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35103,
+"en": "Don't play dumb! If your criminal ass didn't come waltzing back into the Tojo Clan, I'd have been lieutenant by now!",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35104,
+"en": "Huh. So you're Tojo, too.",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35105,
+"en": "Ever since you filled that empty exec seat, we've been getting screwed. Over and over and over again!",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35106,
+"en": "First our casino got busted, then the cops raided the family office. Bye bye, main revenue stream!",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35107,
+"en": "Most of our boys ended up scurrying off not long after. Rats who can see the ship is sinking fast.",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35108,
+"en": "So what's left of us now? We got no money, no men. Hell, we're barely even a family.",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35109,
+"en": "Tough break.",
+"ctx": "diálogo uid01020717 + diálogo uid01460036"
+},
+{
+"id": 35110,
+"en": "Tough break? Is that all you have to say!?",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35111,
+"en": "Lemme ask ya somethin'. When things started goin' south, what did you do?",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35112,
+"en": "Your casino got busted. Ya got raided by the cops.",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35113,
+"en": "Your family fell on its ass quicker than ya can count to ten. I wanna know, how'd ya respond?",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35114,
+"en": "I, well...",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35115,
+"en": "What was I supposed to do? I can't turn that shit around all by myself!",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35116,
+"en": "There. Now do ya see why you ain't a leader?",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35117,
+"en": "Sure, maybe my comin' back tossed a few pebbles in your path.",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35118,
+"en": "But if a pebble or two are gonna make ya fall flat on your face, how're ya ever gonna climb the mountains life's got in store?",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35119,
+"en": "So yeah, ya might slip a bit here n' there. But what really matters is how ya respond after.",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35120,
+"en": "If the family means that much to ya, you gotta be willin' to give your life on keepin' it afloat.",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35121,
+"en": "Else you just ain't cut out for the yakuza, pal.",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35122,
+"en": "I don't need a fucking lecture from <Italic>you</Italic>!",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35123,
+"en": "You know what? I'm sick of your shit! Get ready to die!",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35124,
+"en": "Easy there. I'm skippin' town for good after tonight.",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35125,
+"en": "Let me enjoy my last evenin' in peace.",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35126,
+"en": "No way, man! Not after the sermon you just made us sit through!",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35127,
+"en": "Ahhh, that was good shit! Couldn't shove down another bite if I wanted. So, what're ya doin' now?",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35128,
+"en": "They're comin' for me tonight. Guess I'll take one last stroll around town.",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35129,
+"en": "Now there's a hell of an idea. Ya oughta have a good time before goin' away.",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35130,
+"en": "So get on out there n' live it up.",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35131,
+"en": "Think I will.",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35132,
+"en": "Oh yeah. Stop in n' see me before they haul you in, so I can give ya a proper send-off. I'll be waitin' at the usual place!",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35133,
+"en": "Y'know! What's the one place we're always pallin' around at?",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35134,
+"en": "Heh. The battin' center, then.",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35135,
+"en": "So whaddya say? One last chance at the plate before ya get benched?",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35136,
+"en": "(Time to wave this town goodbye.)",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35137,
+"en": "(Might wanna drop by New Serena first, tell 'em I'm goin'.)",
+"ctx": "diálogo uid01020717"
+},
+{
+"id": 35138,
+"en": "Uh-oh, angry face! You maaad about something?",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35139,
+"en": "It's me you want. You didn't need to drag Baba into this.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35140,
+"en": "Of course I did. He's the one who stabbed my boy!",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35141,
+"en": "Poor Owada, he'll be feeling that for the rest of his life.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35142,
+"en": "You're gonna regret this.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35143,
+"en": "Whooooa, tough guy, what are you saying?",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35144,
+"en": "You going to pull a Baba and stab us? Hehehe...",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35145,
+"en": "This is the chisel they say Baba used. It's yours, ain't it?",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35146,
+"en": "Your tools have disappeared from the woodshop. Only yours.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35147,
+"en": "I know ya threatened Baba and dragged him off.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35148,
+"en": "So quit playin' dumb and fess up!",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35149,
+"en": "Moron. Why would you even want to help that waste of space?",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35150,
+"en": "It's not like they'll move up your parole.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35151,
+"en": "I don't give two shits about that. Right now you and I are goin' to the guards and settlin' this.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35152,
+"en": "Baba-chan was up for parole. And then you had to screw it all up!",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35153,
+"en": "Well, if he'd only been a good little boy, he could've avoided all this.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35154,
+"en": "He should have been more obedient.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35155,
+"en": "Heh, last night I ordered him to kill you in your sleep, as soon as you were out of solitary.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35156,
+"en": "Hey, it's not like I asked him to do it for free! I'm a reasonable man... I promised your boy a job when he got out.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35157,
+"en": "Since his family ditched him, he's been scared shitless about being out there all alone. All I did was try to help him.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35158,
+"en": "But your idiot boy said no. After I was so generous!",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35159,
+"en": "So, I applied a little discipline. Bye-bye, parole!",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35160,
+"en": "Here's how I made it go down...",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35161,
+"en": "(Fuckin' bastard...)",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35162,
+"en": "First, I had my men fight themselves.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35163,
+"en": "Hehe, and the chisel stabbing⑬I must admit that was my favorite part. One of my better ideas.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35164,
+"en": "Then little Baba comes along.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35165,
+"en": "I pretend that I'm breaking up the scuffle, and I hand the chisel to Baba.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35166,
+"en": "He didn't even think twice⑬he just took it! Haha! And of course, you know the rest.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35167,
+"en": "How'd it go?",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35168,
+"en": "Hah. I've had farts tougher to sneak out.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35169,
+"en": "Yup. It's been done.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35170,
+"en": "Way to go, Heihachiro!",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35171,
+"en": "Idiot! Keep your voice down.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35172,
+"en": "Oh, uh, sorry...",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35173,
+"en": "You sure you were a detective, Himura?",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35174,
+"en": "I'll have you know, I was considered pretty sharp in the precinct.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35175,
+"en": "So the chisel. Whose was it?",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35176,
+"en": "Just as we thought, it belongs to that Kugihara creep.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35177,
+"en": "Number 134... Yep, it's his.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35178,
+"en": "We should take this to Kosaka right away.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35179,
+"en": "(Whew... That should do it.)",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35180,
+"en": "*huff* *wheeze* Wha⑬ What have you got there!? Show it!",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35181,
+"en": "You mean this?",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35182,
+"en": "You handed over the <Color:8>Mystery Envelope<Color:Default>.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35183,
+"en": "What? An envelope? There's a note inside...",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35184,
+"en": "\"Nice jog\"!? You bastard!",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35185,
+"en": "(Sorry, guardman... Just indulgin' some old-timer's weird sense of humor.)",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35186,
+"en": "Big demerits are coming down on you, let me tell ya! What's your name? Saejima, right?",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35187,
+"en": "(Great, just great...)",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35188,
+"en": "(Don't know what to do here.)",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35189,
+"en": "I asked you a question! What do you want?",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35190,
+"en": "You little⑬!",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35191,
+"en": "Hey! Freeze!",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35192,
+"en": "So we know the chisel came from the woodworking crew. Now we just need to figure out exactly who owns it.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35193,
+"en": "We could do that if we just got our hands on it.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35194,
+"en": "Yeah, but the guards took it when they hauled off Baba.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35195,
+"en": "All we need is a quick glance. Maybe a guard will let us see it...",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35196,
+"en": "Heh. Sure, we'll just put in a check-out request with the guard shank library. Easy.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35197,
+"en": "Okay. Point taken.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35198,
+"en": "*sigh* In fact, if a guard catches wind of this at all, we're all going to end up in solitary.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35199,
+"en": "So, any other bright ideas?",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35200,
+"en": "Yeah. Let me do what I'm good at.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35201,
+"en": "Which is what?",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35202,
+"en": "Stealing shit.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35203,
+"en": "You can't be serious. Do you know what'll happen if you get caught?",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35204,
+"en": "Yup, I do.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35205,
+"en": "This is prison, man! If you get nabbed stealing from a guard, solitary is the least of your problems!",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35206,
+"en": "Hell, they could even extend your sentence...",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35207,
+"en": "Don't worry. I won't get caught.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35208,
+"en": "Wait... Are you...?",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35209,
+"en": "Over 15,000 counts of theft, zero arrests. Behold, Businessman Heihachiro.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35210,
+"en": "Yeah, I've heard of you! When I made detective, you were already a legend.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35211,
+"en": "The talk was you'd retired, but listening to the stories, I started to doubt you ever really existed.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35212,
+"en": "High praise for a thief. If you're as good as ya say, with zero arrests, how'd ya end up in the slammer?",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35213,
+"en": "I turned myself in. For my sixtieth birthday.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35214,
+"en": "All those years, my crimes were a secret I kept from my wife.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35215,
+"en": "Every day, I pretended to be a businessman, put on a suit and tie, and went out on my heists.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35216,
+"en": "Yeah, that's why you were Businessman Heihachiro...",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35217,
+"en": "I promised myself that I'd leave the life behind on my sixtieth birthday.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35218,
+"en": "But on that day, I came home to find my wife gone.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35219,
+"en": "Whoa, what'd she do? Commit suicide after finding you out?",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35220,
+"en": "What? No! Geez, you're desperate for entertainment. No... She left me. For another man.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35221,
+"en": "Haha...",
+"ctx": "diálogo uid0102071d + diálogo uid010c0ded"
+},
+{
+"id": 35222,
+"en": "Shut up! Don't you see what I realized that day? All that time I was thieving, I hadn't noticed I was the one being robbed... of the most valuable thing in the world.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35223,
+"en": "I was disgusted with myself. So I turned myself in.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35224,
+"en": "...Everyone's got a story.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35225,
+"en": "A big yakuza boss, a legendary thief, and a detective.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35226,
+"en": "Yup, there's really no telling who you'll come across in life.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35227,
+"en": "I swore I'd never steal again, but I'll do it for Baba.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35228,
+"en": "I can swipe that chisel from the guards, guaranteed.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35229,
+"en": "Fine. It's all on you.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35230,
+"en": "All right, Oshima-san will deal with that issue...",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35231,
+"en": "And us?",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35232,
+"en": "We should collect witness accounts. As many as we can.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35233,
+"en": "We've got some time, since Kugihara's gang is being interrogated by the guards right now.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35234,
+"en": "When we're done, we'll meet up here again.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35235,
+"en": "When you say witness accounts, what kinda info you lookin' for?",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35236,
+"en": "Well, we already know where the chisel came from⑬the woodworking crew. But we need to find out who was using it.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35237,
+"en": "We combine that intel with the appearance of the chisel itself, and that should be enough evidence to prove Baba-chan's innocence.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35238,
+"en": "Got it. I know a guy. I'll ask him.",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35239,
+"en": "Ten-four. I'll chase up other leads. Later, then!",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35240,
+"en": "(I'm bein' watched. S'pose just runnin' up is too obvious.)",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35241,
+"en": "(Better turn around and try again.)",
+"ctx": "diálogo uid0102071d"
+},
+{
+"id": 35242,
+"en": "(I'm bein' watched. They suspicious?)",
+"ctx": "diálogo uid0102071d"
+}
+]

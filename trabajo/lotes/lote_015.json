@@ -1,0 +1,657 @@
+[
+{
+"id": 4092,
+"en": "A crunchy baguette extravagantly arranged with the sea's bounty.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0053"
+},
+{
+"id": 4093,
+"en": "Fresh seafood cooked in a thick white sauce and baked to perfection in a golden-brown pie shell.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0053"
+},
+{
+"id": 4094,
+"en": "Enjoy these crispy fried chicken wings with drinks.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0053"
+},
+{
+"id": 4095,
+"en": "Enjoy this old standard as a starter.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0053"
+},
+{
+"id": 4096,
+"en": "Deep-fried golden brown and smothered in Nagoya's famous miso. This is Kaburaya's version of a Nagoya classic.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0053"
+},
+{
+"id": 4097,
+"en": "Our house-special charcoal grilled spare ribs are big, meaty, and guaranteed to please.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0053"
+},
+{
+"id": 4098,
+"en": "Ground Nagoya Cochin chicken is wrapped in daifuku mochi and bathed in a delicious dashi stock.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0053"
+},
+{
+"id": 4099,
+"en": "Eel is prepared the Nagoya way in this famous dish.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0053"
+},
+{
+"id": 4100,
+"en": "The nostalgic flavor of yonaki noodles has been updated with the taste of curry.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0053"
+},
+{
+"id": 4101,
+"en": "This superb salad combines healthy vegetables and deliciously slurpable Korean noodles.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0053"
+},
+{
+"id": 4102,
+"en": "The secret of our hit salad is in its special dressing and fresh ingredients.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0053"
+},
+{
+"id": 4103,
+"en": "These plump clams are shipped directly from Morozaki, Aichi. You'll love their firm texture.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0053"
+},
+{
+"id": 4104,
+"en": "These eel backbones are fried at a low temperature until they are nice and crispy.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0053"
+},
+{
+"id": 4105,
+"en": "This union of warm sweet potato and ice cream is a major hit with the ladies. Enjoy its rich, creamy taste.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0053"
+},
+{
+"id": 4106,
+"en": "Our own original shochu, made in Kagoshima.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0052"
+},
+{
+"id": 4107,
+"en": "We recommend you try the Kaburaya take on the traditional highball at least once.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0052"
+},
+{
+"id": 4108,
+"en": "A mug full of wine and ice. It's a new way to enjoy wine.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0052"
+},
+{
+"id": 4109,
+"en": "Drink up! You'll only be charged for how much you down.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0052"
+},
+{
+"id": 4110,
+"en": "You can't say Nagoya without thinking about tebasaki chicken wings. Ours go great with beer.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0054"
+},
+{
+"id": 4111,
+"en": "Everyone knows about this Nagoya classic. Nothing's better when you're hungry.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0054"
+},
+{
+"id": 4112,
+"en": "These flat udon noodles are a staple food in Nagoya. The dried bonito flavor of the soup base is out of this world.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0054"
+},
+{
+"id": 4113,
+"en": "This recent addition to the Nagoya food scene features fat noodles and is very filling.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0054"
+},
+{
+"id": 4114,
+"en": "Glass after glass, you'll never tire of this one.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0022"
+},
+{
+"id": 4115,
+"en": "This extravagant drink features freshly squeezed grapefruit juice.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0022"
+},
+{
+"id": 4116,
+"en": "This is a real man's highball made with dry whisky and dry ginger.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0022"
+},
+{
+"id": 4117,
+"en": "This single-malt whisky's complexity and depth come from the distillery's multiple sets of copper pot stills.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0022"
+},
+{
+"id": 4118,
+"en": "This single-malt whisky was born at the crossroads of tradition and revolution.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0022"
+},
+{
+"id": 4119,
+"en": "Everyone from kids to adults loves to drink oolong tea.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0022"
+},
+{
+"id": 4120,
+"en": "This nonalcoholic beer has a refreshing taste and goes down smooth.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0022"
+},
+{
+"id": 4121,
+"en": "You'll love this smooth, easy-to-drink alcoholic beverage. It has just a hint of refreshing carbonation.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0022"
+},
+{
+"id": 4122,
+"en": "This turmeric drink is only sold at Hanako. Its pineapple flavor makes it easy to drink, even for those who can't stand turmeric.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0022"
+},
+{
+"id": 4123,
+"en": "Freshly caught and shipped straight from the waters off Hokkaido, this mackerel offers a deep flavor.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0023"
+},
+{
+"id": 4124,
+"en": "This simple, deeply flavorful dish wouldn't be possible without the sweet onions we have shipped straight from local Hokkaido farms.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0023"
+},
+{
+"id": 4125,
+"en": "Flavorful and broiled to perfection. Enjoy with mayonnaise, the standard condiment for this dish.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0023"
+},
+{
+"id": 4126,
+"en": "Slowly cured and then grilled to perfection. A taste explosion awaits you with every bite.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0023"
+},
+{
+"id": 4127,
+"en": "Thick, al dente noodles are mixed with a special soy sauce-based, sesame-flavored sauce in this menu favorite.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0023"
+},
+{
+"id": 4128,
+"en": "Zangi is the word for karaage in Hokkaido. You won't be able to resist this meaty, juicy fried chicken.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0023"
+},
+{
+"id": 4129,
+"en": "Made with thigh meat from chickens raised in Shiretoko, Hokkaido, and paired with a hearty tartar sauce that's a perfect match.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0023"
+},
+{
+"id": 4130,
+"en": "Tender kalbi cut from beef bones and grilled up with a special sauce. Eat it right off a sizzling griddle.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0023"
+},
+{
+"id": 4131,
+"en": "This fried udon is a Hanako original. Its special blend of yummy spices will leave you wondering why no one thought of it before!",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0023"
+},
+{
+"id": 4132,
+"en": "In this classic barbeque dish, shoulder meat from lambs less than a year old is marinated in our secret sauce.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0015"
+},
+{
+"id": 4133,
+"en": "We hand trim the lamb leg in this favorite to remove excess fat, leaving only the tender, juicy meat.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0015 …"
+},
+{
+"id": 4134,
+"en": "This is the pinnacle of Matsuo Lamb Barbeque dishes. Each lamb only produces about 700g of the meat used in this dish.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0015 …"
+},
+{
+"id": 4135,
+"en": "Our chef's special has three condiments (snow wasabi, yuzu pepper, and Genki eggs) combined for a brand new taste.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0015"
+},
+{
+"id": 4136,
+"en": "Rib meat, the tenderest cut of lamb, is marinated in our special sauce and grilled to perfection. It's thick, juicy, and tender!",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0015"
+},
+{
+"id": 4137,
+"en": "This big, meaty sausage has a nice snap on the outside and is packed with juicy meat on the inside.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0015"
+},
+{
+"id": 4138,
+"en": "Enjoy this udon cooked on the perimeter of the barbeque skillet, where meat juices and our secret sauce form a tasty union.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0015"
+},
+{
+"id": 4139,
+"en": "This healthy salad is packed with seaweed and lightly seasoned with taste bud-tantalizing sesame seed salt.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0015"
+},
+{
+"id": 4140,
+"en": "A juicy filling of vegetables and meat is wrapped in aged dough wrappers and fried to a nice crisp. Eat them piping hot.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0017"
+},
+{
+"id": 4141,
+"en": "Piping hot gyoza with white rice. This hit menu item also comes with miso soup and all-you-can-eat freshly pickled vegetables.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0017"
+},
+{
+"id": 4142,
+"en": "Eighteen gyoza, a large bowl of rice, and miso soup. Guaranteed to satisfy even the biggest of appetites.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0017"
+},
+{
+"id": 4143,
+"en": "Miyoshino's rich and slightly spicy curry is made with fresh vegetables and thinly sliced meat for that homemade flavor people love.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0017"
+},
+{
+"id": 4144,
+"en": "Curry topped with three crispy fried shrimp. This one's quite popular with the ladies.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0017"
+},
+{
+"id": 4145,
+"en": "Our famous curry topped with our house-special gyoza. This delectable combination has been a customer favorite since 1977.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0017 …"
+},
+{
+"id": 4146,
+"en": "Our famous curry topped with shredded cheese. The richness of the curry goes perfectly with the mellowness of the cheese.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0017"
+},
+{
+"id": 4147,
+"en": "Who doesn't like a big old plate of curry rice with a handmade, crispy fried cutlet at a reasonable price?",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0017"
+},
+{
+"id": 4148,
+"en": "An extra large serving of curry rice topped with six gyoza and a soft-boiled egg. A great choice for those with a big appetite.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0017"
+},
+{
+"id": 4149,
+"en": "Our number one menu item comes with gyoza, curry, and freshly pickled vegetables. Eat the gyoza as a topping or on the side.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0017"
+},
+{
+"id": 4150,
+"en": "This big dish comes with curry rice topped with one long, juicy, handmade sausage packed with coarsely ground meat.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0017"
+},
+{
+"id": 4151,
+"en": "Enjoy our miso ramen with its rich, deep soup. It's practically synonymous with the name Sumire.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0018"
+},
+{
+"id": 4152,
+"en": "Features our rich soup and carefully selected tamari soy sauce that goes great with it.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0018"
+},
+{
+"id": 4153,
+"en": "Made with natural salt that allows the soup's flavor to shine through.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0018"
+},
+{
+"id": 4154,
+"en": "This soup's aroma will take you way back to when this style of ramen was all the rage.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0018"
+},
+{
+"id": 4155,
+"en": "This rice bowl is topped with a shredded egg omelet and spicy fish roe steeped in Sumire miso.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0018"
+},
+{
+"id": 4156,
+"en": "Sumire's special fried rice is lavishly prepared with huge chunks of roast pork.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0018"
+},
+{
+"id": 4157,
+"en": "Beautifully translucent and deliciously seasoned with spices that perfectly match our Japanese dashi stock.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0019"
+},
+{
+"id": 4158,
+"en": "A generous portion of Hokkaido vegetables are cut thick and added to our house-special curry soup.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0019"
+},
+{
+"id": 4159,
+"en": "This extravagant menu item allows you to enjoy both chicken and vegetable curry soup if you can't decide which one to order.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0019"
+},
+{
+"id": 4160,
+"en": "Pakistani-style curry that adds plenty of fruits, vegetables, and spices to a slowly sautéed onion base.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0019"
+},
+{
+"id": 4161,
+"en": "This limited-time only menu item features local seafood in our chicken and vegetable curry soup. Taste the goodness of Hokkaido!",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0019"
+},
+{
+"id": 4162,
+"en": "If you can't decide between curry and curry soup, why not have both? This well-priced set also includes salad and dessert.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0019"
+},
+{
+"id": 4163,
+"en": "What drink goes better with curry than a lassi? Enjoy the natural flavor of yogurt sweetened with honey.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0019"
+},
+{
+"id": 4164,
+"en": "This lassi features honeyberries, a special product of Hokkaido. They are packed with vitamins that your body needs.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0019"
+},
+{
+"id": 4165,
+"en": "This is Gyoza King's namesake and masterpiece! Our individually handmade gyoza are fried crispy outside, juicy inside.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0020 …"
+},
+{
+"id": 4166,
+"en": "An old standard with egg, sliced roast pork, green onions, and rice fried up with amazing spices that ramp up the flavor.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0020"
+},
+{
+"id": 4167,
+"en": "Kimchi is added to our standard fried rice for a spiciness that whets the appetite and leaves you wanting more.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0020"
+},
+{
+"id": 4168,
+"en": "This addictively delicious dish features egg and crab meat cooked together and topped with your choice of sauce.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0020"
+},
+{
+"id": 4169,
+"en": "This dish features a sauce made with a special soup of flavorful seafood and vegetables.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0020"
+},
+{
+"id": 4170,
+"en": "Gyoza King's special soup made from slow-simmered pork bone stock and soy sauce make for a perfect bowl of ramen.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0020"
+},
+{
+"id": 4171,
+"en": "Plenty of healthy vegetables, al dente noodles, and our special flavorful sauce make this yakisoba out of this world.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4172,
+"en": "Pork and vinegar make this dish tasty and healthy. The colorful vegetables and pork are a sight to see, and a delight to eat.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0020"
+},
+{
+"id": 4173,
+"en": "These juicy meatballs fried in sweet vinegar will leave you wanting more of their sweet-and-sour goodness.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0020"
+},
+{
+"id": 4174,
+"en": "This dish is packed with fresh, crunchy vegetables and the bounty of the sea. A thick, steaming ankake sauce seals the deal.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0020"
+},
+{
+"id": 4175,
+"en": "Sweet, plump shrimp and a spicy chili sauce are a match made in heaven. Goes perfectly with bowl after bowl of rice.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0020 …"
+},
+{
+"id": 4176,
+"en": "Crispy on the outside, juicy on the inside. Comes with a salt-and-spice mix that you can sprinkle on to taste.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0020"
+},
+{
+"id": 4177,
+"en": "Fried up fresh, these chicken wings make a great snack or the centerpiece of an entire meal.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0020"
+},
+{
+"id": 4178,
+"en": "This luxurious, flavorful new twist on Napolitan pasta replaces sausage with salsiccia and mushrooms with porcini.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0069 …"
+},
+{
+"id": 4179,
+"en": "This Korean tofu stew masterpiece brings together sweet seafood, rich shellfish, and exquisite sauce Américaine.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0058 …"
+},
+{
+"id": 4180,
+"en": "The sweetness of slow-fried onions and the deep flavor of minced chicken are ramped up with special spices.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0028 …"
+},
+{
+"id": 4181,
+"en": "The heat of aged broad bean chili paste shines through in this East-West mashup. Japanese beef fat adds extra richness.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0054 …"
+},
+{
+"id": 4182,
+"en": "This masterpiece is simple yet irresistible. The beautiful flavor of eggs and milk is accentuated with aromatic vanilla beans.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0055 …"
+},
+{
+"id": 4183,
+"en": "This rice soup turns stew-like with the addition of white sauce and black pepper. Enjoy it carbonara style with an egg on top.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0012 …"
+},
+{
+"id": 4184,
+"en": "There's something about this charm that makes you think you can roll all 1's in dice.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4185,
+"en": "This unknown brand of gum is supposed to make opponents roll a 1-2-3 in cee-lo.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4186,
+"en": "This unknown brand of jellied bean paste is rumored to increase your chances of getting triples in cee-lo and oicho-kabu.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4187,
+"en": "Internet rumors claim this stone will cause opponents to \"miss the pot\" in cee-lo.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4188,
+"en": "Associated with Edo Period gambler Even Goro, this stone is supposed to guarantee even rolls in cho-han.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4189,
+"en": "This cigarette from Katayori is said to cause opponents to bet a certain way in cho-han every time.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4190,
+"en": "Coveted by gamblers, this amulet is supposed to make it easier for the banker to win in baccarat.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4191,
+"en": "Coveted by gamblers, this amulet is supposed to make it easier for the player to win in baccarat.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4192,
+"en": "This strange amulet is supposed to help its owner draw lucky cards, but only a certain number of times.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4193,
+"en": "This strange amulet is supposed to make the dealer go bust more often, but only a certain number of times.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4194,
+"en": "This strange jewel is supposed to make black the winning color in roulette.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4195,
+"en": "This strange jewel is supposed to make red the winning color in roulette.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4196,
+"en": "This strange jewel is supposed to make a single or double zero come up in roulette.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4197,
+"en": "This card showing a crowned joker is supposed to help its owner get a good hand in poker.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4198,
+"en": "When flipping, you're able to flip the cards on the table within range.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4199,
+"en": "This charm is said to produce ten-ten-ones in oicho-kabu.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4200,
+"en": "This charm is rumored to give you a big win on your first spin.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4201,
+"en": "This stone is rumored to increase your odds of winning by 50¾ until you reach 1,000 spins.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4202,
+"en": "This amulet is rumored to increase the number of revolutions of the machine's reels to its max.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4203,
+"en": "This piece is rumored to make your opponent give up in shogi.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4204,
+"en": "This tile is rumored to increase your chance of getting winning tiles in mahjong.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4205,
+"en": "This token is rumored to set slot machines to the highest payout level possible.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4206,
+"en": "This token is rumored to set slot machines to the highest win rate possible.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4207,
+"en": "This token is rumored to allow automatic play on slot machines.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4208,
+"en": "This special ball can be used for bowling.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4209,
+"en": "This supplement sobers you up instantly.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4210,
+"en": "Filleted horse mackerel makes great fishing bait.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0045 …"
+},
+{
+"id": 4211,
+"en": "Filleted squid makes great fishing bait.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0045 …"
+},
+{
+"id": 4212,
+"en": "This shrimp makes great fishing bait.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0045 …"
+},
+{
+"id": 4213,
+"en": "This pickled squid makes great fishing bait.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0045 …"
+},
+{
+"id": 4214,
+"en": "This plain old earthworm is the classic fishing bait.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0045"
+},
+{
+"id": 4215,
+"en": "This common shellfish can be used for fishing bait.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0045 …"
+},
+{
+"id": 4216,
+"en": "This clam is small, but can be used for fishing bait.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0045 …"
+},
+{
+"id": 4217,
+"en": "These large prawns are tasty, but they can also be used as bait.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4218,
+"en": "Lobster is a tasty treat, but it can also be used as fishing bait.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0045 …"
+},
+{
+"id": 4219,
+"en": "This earthworm may look ordinary, but it greatly raises your chance of catching a fish.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4220,
+"en": "You won't find top-grade bluefin tuna like this too often.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4221,
+"en": "Also called takasago or banana fish, this fish tastes good fried.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4222,
+"en": "Everyone knows this spine-covered fish that puffs its body up to intimidate enemies.",
+"ctx": "tabla item|EXPLANATION"
+}
+]

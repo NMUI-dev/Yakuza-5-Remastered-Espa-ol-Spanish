@@ -1,0 +1,947 @@
+[
+{
+"id": 30542,
+"en": "What do I do then?",
+"ctx": "diálogo uid00460030 + diálogo uid01340002"
+},
+{
+"id": 30543,
+"en": "Aw geez, sir. Get to know them personally and then negotiate with them on the down-low! Just ask them if they wanna come visit Tokyo.",
+"ctx": "diálogo uid00460030"
+},
+{
+"id": 30544,
+"en": "That sounds like it'll take forever. I mean, I can maybe work on one girl like that, but I can't be everywhere at once. I'd need help.",
+"ctx": "diálogo uid00460030"
+},
+{
+"id": 30545,
+"en": "I suppose so, sir.",
+"ctx": "diálogo uid00460030"
+},
+{
+"id": 30546,
+"en": "But the idea does have some merit, I'll admit. If I know someone who's hitting up any of those other cities, I'll let you know.",
+"ctx": "diálogo uid00460030"
+},
+{
+"id": 30547,
+"en": "I knew I could count on you, sir! In the meantime, I'll do what I can with the club on my end.",
+"ctx": "diálogo uid00460030"
+},
+{
+"id": 30548,
+"en": "That's the spirit. I knew I hired you as manager for a reason.",
+"ctx": "diálogo uid00460030"
+},
+{
+"id": 30549,
+"en": "Hehehe. Guess you saw my limitless potential, sir!",
+"ctx": "diálogo uid00460030"
+},
+{
+"id": 30550,
+"en": "Oh, speaking of which, keep working on this diamond in the rough you found, too, yeah?",
+"ctx": "diálogo uid00460030"
+},
+{
+"id": 30551,
+"en": "Of course! You can count on me!",
+"ctx": "diálogo uid00460030"
+},
+{
+"id": 30552,
+"en": "Well? You want the lozenge?",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30553,
+"en": "You said all the money I have, right?",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30554,
+"en": "Yep. If you're wantin' to make that girl's dreams come true, it ain't gonna come cheap.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30555,
+"en": "The heck ya want?",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30556,
+"en": "There's something I'm looking for, and I thought someone here at the park might be able to help me out.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30557,
+"en": "What in the world are ya lookin' for?",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30558,
+"en": "Sell me some medicine.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30559,
+"en": "I don't know nothin' about that. Go on, get outta here.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30560,
+"en": "(Looks like telling him to give me medicine was a no-go. I need to change up my approach.)",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30561,
+"en": "(He's acting like he's hiding something. He won't just hand over what I want. Maybe there's some clue I can find.)",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30562,
+"en": "Tsk. The heck is yer problem?",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30563,
+"en": "Sell me a dream.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30564,
+"en": "What kinda dream?",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30565,
+"en": "There's a girl who wants to be a newscaster. She worked day and night to fix her Kansai accent, and now her voice is shot right before the test.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30566,
+"en": "Well, now. Sounds rough.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30567,
+"en": "I heard there's some legendary lozenge that could help her. Do you have any?",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30568,
+"en": "I do indeed.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30569,
+"en": "Really? Please, you have to give it to me.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30570,
+"en": "You got cash on ya?",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30571,
+"en": "Everything ya got on ya.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30572,
+"en": "Hey, ya want the lozenge, don't ya? Ya wanna make this girl's dream come true?",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30573,
+"en": "No way. I won't pay that much.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30574,
+"en": "You're the one who said this is her dream. If ya don't have high enough hopes for her, then givin' her the medicine won't mean a darn thing.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30575,
+"en": "It's not about money. Dreams aren't only for the people that can afford them. They're made of the hopes and desires of everyone else around them.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30576,
+"en": "Something that important can't possibly be bought with money.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30577,
+"en": "Hmph. I see.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30578,
+"en": "Ya don't get it at all, do ya?",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30579,
+"en": "Ain't no room for pretty sentiments like that in the broadcast industry. Money talks in show biz. Money's what makes people tick.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30580,
+"en": "If ya really have high hopes for that girl, show it with money. If ya can't do that, ya might as well give up.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30581,
+"en": "All right. I'll give you all the money I have.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30582,
+"en": "Ya serious? Why are ya stickin' yer neck out like that? This girl got that much talent?",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30583,
+"en": "I want to see her achieve her dreams. That's all there is to it. Whether she's got the talent for it or not, I don't know.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30584,
+"en": "So her dreams are worth yer investment?",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30585,
+"en": "No, I don't think so. You can't assign a monetary value to a dream.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30586,
+"en": "A million or ten billion yen, no matter how much money you throw at your dreams, you'll never reach them. Because dreams have limitless value.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30587,
+"en": "If this makes her dreams come true, then I don't care if you take all my money. It's that simple.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30588,
+"en": "Heh. Ain't met a guy like you in a long time.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30589,
+"en": "I've been runnin' this scam job, hopin' to meet a man like you.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30590,
+"en": "Whether it's a sore throat or a scandal...",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30591,
+"en": "When performers wind up in trouble, they find out how much money their talent agency is willin' to spend on 'em.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30592,
+"en": "To the agency, the talent is their meal ticket. If it ain't worth their investment, they'll drop her. They don't care if the talent succeeds.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30593,
+"en": "Well, that's the cruel business world for you.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30594,
+"en": "Yeah, but sometimes someone's worth the investment, regardless of the bottom line. There's just somethin' about 'em.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30595,
+"en": "Yer expectations for this girl come from ya seein' some kinda unique spark in her, I bet.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30596,
+"en": "I guess that's one way to put it.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30597,
+"en": "Here's the legendary lozenge. Take it.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30598,
+"en": "If she sucks on this and gets a bit a' rest, her voice'll be right as rain.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30599,
+"en": "Really? Thank you so much. You're a lifesaver. Here, let me get you your money.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30600,
+"en": "Forget the money.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30601,
+"en": "I wanted to see how far ya were willin' to go for this dream. Now that I know, it's all good.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30602,
+"en": "You... Thank you so much.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30603,
+"en": "Don't thank me. I'll just watch with ya to see if this dream comes true. Now go on, hurry up and get that medicine to her.",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30604,
+"en": "(I should shoot Honoka-chan an email.)",
+"ctx": "diálogo uid0046004a"
+},
+{
+"id": 30605,
+"en": "Hey, I got you some medicine. I'm sure it will make you better.",
+"ctx": "diálogo uid0046004b"
+},
+{
+"id": 30606,
+"en": "Aaah. Aaah...",
+"ctx": "diálogo uid0046004b"
+},
+{
+"id": 30607,
+"en": "It really worked! My voice is back!",
+"ctx": "diálogo uid0046004b"
+},
+{
+"id": 30608,
+"en": "Thank goodness. But you'd better not talk yet. You need to rest up for a while, then I'm sure you'll be back to normal.",
+"ctx": "diálogo uid0046004b"
+},
+{
+"id": 30609,
+"en": "Hm? You're trying to say something. What is it?",
+"ctx": "diálogo uid0046004b"
+},
+{
+"id": 30610,
+"en": "\"Since just resting is boring, I'd like you to stay here with me while I'm sucking on this lozenge, Akiyama-san.\"",
+"ctx": "diálogo uid0046004b"
+},
+{
+"id": 30611,
+"en": "\"And since I want to keep practicing my Tokyo accent, I'd like you to talk to me the entire time.\"",
+"ctx": "diálogo uid0046004b"
+},
+{
+"id": 30612,
+"en": "What's this now?",
+"ctx": "diálogo uid0046004b + diálogo uid01020cda"
+},
+{
+"id": 30613,
+"en": "Not bad, right? You can hang out and help my vocal practice!",
+"ctx": "diálogo uid0046004b"
+},
+{
+"id": 30614,
+"en": "Guess I'd better. You just leave it to Nurse Akiyama.",
+"ctx": "diálogo uid0046004b"
+},
+{
+"id": 30615,
+"en": "Shion-chan!",
+"ctx": "diálogo uid0046004d"
+},
+{
+"id": 30616,
+"en": "You're not hurt or anything?",
+"ctx": "diálogo uid0046004d"
+},
+{
+"id": 30617,
+"en": "No, I'm fine.",
+"ctx": "diálogo uid0046004d + diálogo uid010c0a8a"
+},
+{
+"id": 30618,
+"en": "So where's this stalker of yours?",
+"ctx": "diálogo uid0046004d"
+},
+{
+"id": 30619,
+"en": "I think... Behind that street light over there.",
+"ctx": "diálogo uid0046004d"
+},
+{
+"id": 30620,
+"en": "That guy over there?",
+"ctx": "diálogo uid0046004d"
+},
+{
+"id": 30621,
+"en": "Hey, stop!",
+"ctx": "diálogo uid0046004d"
+},
+{
+"id": 30622,
+"en": "All right, buddy, start talking. Who are you?",
+"ctx": "diálogo uid0046004f"
+},
+{
+"id": 30623,
+"en": "I'm... I'm with Kinei Detective Agency.",
+"ctx": "diálogo uid0046004f"
+},
+{
+"id": 30624,
+"en": "You're a detective!? So you're not a stalker. Are you protecting her?",
+"ctx": "diálogo uid0046004f"
+},
+{
+"id": 30625,
+"en": "Wait. Shion-chan never said anything about hiring a detective.",
+"ctx": "diálogo uid0046004f"
+},
+{
+"id": 30626,
+"en": "No, I've been asked to conduct a background check on the young lady. I can only assume she mistook me for a stalker.",
+"ctx": "diálogo uid0046004f"
+},
+{
+"id": 30627,
+"en": "A background check? For who?",
+"ctx": "diálogo uid0046004f"
+},
+{
+"id": 30628,
+"en": "I'm not at liberty to say. It's my policy as an investigator to maintain my clients' privacy.",
+"ctx": "diálogo uid0046004f"
+},
+{
+"id": 30629,
+"en": "Hm. You could be anyone for all I know. I'm betting I can still turn you over to the police. Taking photos of people without them knowing is still a crime.",
+"ctx": "diálogo uid0046004f"
+},
+{
+"id": 30630,
+"en": "Then I'll simply claim that photography is a hobby of mine. I simply take pictures of what I see. Since when is that against the law?",
+"ctx": "diálogo uid0046004f"
+},
+{
+"id": 30631,
+"en": "Ha! So that's how it's gonna be, huh?",
+"ctx": "diálogo uid0046004f"
+},
+{
+"id": 30632,
+"en": "All right, then instead of the cops, how about I turn you over to the Nagoya Family?",
+"ctx": "diálogo uid0046004f"
+},
+{
+"id": 30633,
+"en": "The... The Nagoya Family!?",
+"ctx": "diálogo uid0046004f"
+},
+{
+"id": 30634,
+"en": "Yeah. I'm guessing you've heard of them?",
+"ctx": "diálogo uid0046004f"
+},
+{
+"id": 30635,
+"en": "Listen, man! I'll talk! I'll talk!",
+"ctx": "diálogo uid0046004f"
+},
+{
+"id": 30636,
+"en": "(Heh. Being on the other side of a threat like this sure is bizarre.)",
+"ctx": "diálogo uid0046004f"
+},
+{
+"id": 30637,
+"en": "The client who hired me to investigate Shion-san is an executive at one of the leading companies in Nagoya.",
+"ctx": "diálogo uid0046004f"
+},
+{
+"id": 30638,
+"en": "What!? Then that means...",
+"ctx": "diálogo uid0046004f"
+},
+{
+"id": 30639,
+"en": "Yes. Someone has asked for her hand in marriage.",
+"ctx": "diálogo uid0046004f"
+},
+{
+"id": 30640,
+"en": "So why the investigation?",
+"ctx": "diálogo uid0046004f"
+},
+{
+"id": 30641,
+"en": "It's not uncommon for influential families to conduct a background check on a potential spouse. It would be problematic if they had associations with an undesirable crowd.",
+"ctx": "diálogo uid0046004f"
+},
+{
+"id": 30642,
+"en": "An undesirable crowd? Shion-chan might not be at your client's level, but she's from a pretty wealthy family too. She can't possibly be trouble.",
+"ctx": "diálogo uid0046004f"
+},
+{
+"id": 30643,
+"en": "Actually, my investigation has turned up some alarming facts.",
+"ctx": "diálogo uid0046004f"
+},
+{
+"id": 30644,
+"en": "Alarming facts?",
+"ctx": "diálogo uid0046004f"
+},
+{
+"id": 30645,
+"en": "As it turns out, Shion-san owes a considerable amount of money.",
+"ctx": "diálogo uid0046004f"
+},
+{
+"id": 30646,
+"en": "Well, technically her parents do. They've sold off their mansion and are now living in an apartment that costs 70,000 yen per month.",
+"ctx": "diálogo uid0046004f"
+},
+{
+"id": 30647,
+"en": "She hasn't said a word about any of this.",
+"ctx": "diálogo uid0046004f"
+},
+{
+"id": 30648,
+"en": "Nagoya women are a prideful sort. She wouldn't want to tarnish her reputation.",
+"ctx": "diálogo uid0046004f"
+},
+{
+"id": 30649,
+"en": "It can't be...",
+"ctx": "diálogo uid0046004f + diálogo uid01020b49"
+},
+{
+"id": 30650,
+"en": "Ah! Shion-chan!",
+"ctx": "diálogo uid0046004f"
+},
+{
+"id": 30651,
+"en": "Did you hear all that?",
+"ctx": "diálogo uid0046004f"
+},
+{
+"id": 30652,
+"en": "Investigator-san, is it true that you were hired to perform a background check on me?",
+"ctx": "diálogo uid0046004f"
+},
+{
+"id": 30653,
+"en": "Yes, miss. And unfortunately, at this point, I'm afraid my client is likely to rescind his marriage proposal.",
+"ctx": "diálogo uid0046004f"
+},
+{
+"id": 30654,
+"en": "Pedigree is everything in Nagoya. Despite your family's good name and long history, he cannot marry into a legacy that has fallen from grace.",
+"ctx": "diálogo uid0046004f"
+},
+{
+"id": 30655,
+"en": "Have you come to laugh at me? At the lying girl who pretended to be rich when she was poor all along?",
+"ctx": "diálogo uid00460051"
+},
+{
+"id": 30656,
+"en": "Of course not. How can you even think that of me, Shion-chan?",
+"ctx": "diálogo uid00460051"
+},
+{
+"id": 30657,
+"en": "I wouldn't want to be judged by how much money I don't have. I'm not going to do that to anyone else either.",
+"ctx": "diálogo uid00460051"
+},
+{
+"id": 30658,
+"en": "So can you tell me what's going on? Is it true you're in debt?",
+"ctx": "diálogo uid00460051"
+},
+{
+"id": 30659,
+"en": "It is...",
+"ctx": "diálogo uid00460051"
+},
+{
+"id": 30660,
+"en": "But how?",
+"ctx": "diálogo uid00460051"
+},
+{
+"id": 30661,
+"en": "My father's business failed, and we were left with nothing but debt. He worked so hard to try to turn things around, but the fatigue and stress was just too much.",
+"ctx": "diálogo uid00460051"
+},
+{
+"id": 30662,
+"en": "Your father worked himself to death.",
+"ctx": "diálogo uid00460051"
+},
+{
+"id": 30663,
+"en": "Didn't you think it was strange, Shinada-san? A proper Nagoya woman has no business being a hostess.",
+"ctx": "diálogo uid00460051"
+},
+{
+"id": 30664,
+"en": "None of my other friends rejoice in receiving gifts from clients, or have to work so hard sending out emails to maintain good business.",
+"ctx": "diálogo uid00460051"
+},
+{
+"id": 30665,
+"en": "Ever since my father passed away, my mother has become so weak. I'm the only one who can possibly repay our debts.",
+"ctx": "diálogo uid00460051"
+},
+{
+"id": 30666,
+"en": "And that's why you got a job as a hostess.",
+"ctx": "diálogo uid00460051"
+},
+{
+"id": 30667,
+"en": "I thought if I worked hard enough, I could pay off those debts, and we could live our happy life from before.",
+"ctx": "diálogo uid00460051"
+},
+{
+"id": 30668,
+"en": "When that client asked me to marry him, I was hesitant at first. But I decided to accept, in order to save my family.",
+"ctx": "diálogo uid00460051"
+},
+{
+"id": 30669,
+"en": "I guess that's out now too, huh?",
+"ctx": "diálogo uid00460051"
+},
+{
+"id": 30670,
+"en": "This is all because we don't have money anymore. When it comes down to it, our family's lineage and good name are worth nothing.",
+"ctx": "diálogo uid00460051"
+},
+{
+"id": 30671,
+"en": "That's not true, Shion-chan.",
+"ctx": "diálogo uid00460051"
+},
+{
+"id": 30672,
+"en": "Even if you don't have money, it's being together that makes you a happy family.",
+"ctx": "diálogo uid00460051"
+},
+{
+"id": 30673,
+"en": "So what if you're poor, or if you pretend to have more than you do? The important thing is whether or not you're proud of the life you're living.",
+"ctx": "diálogo uid00460051"
+},
+{
+"id": 30674,
+"en": "What do you want more than anything, Shion-chan? To live a life of luxury?",
+"ctx": "diálogo uid00460051"
+},
+{
+"id": 30675,
+"en": "Or is it to have your family back to the way it was, when all three of you were happy?",
+"ctx": "diálogo uid00460051"
+},
+{
+"id": 30676,
+"en": "I hadn't thought about it like that. As long as my family was happy again, I wouldn't care if we didn't have any money.",
+"ctx": "diálogo uid00460051"
+},
+{
+"id": 30677,
+"en": "That's the spirit!",
+"ctx": "diálogo uid00460051"
+},
+{
+"id": 30678,
+"en": "I... I will decline the marriage proposal.",
+"ctx": "diálogo uid00460051"
+},
+{
+"id": 30679,
+"en": "I think I've had quite enough of men who care only about my family's background!",
+"ctx": "diálogo uid00460051"
+},
+{
+"id": 30680,
+"en": "Hahaha! There's the Shion-chan I know!",
+"ctx": "diálogo uid00460051"
+},
+{
+"id": 30681,
+"en": "Instead, I found a man who was kind enough to tell me he doesn't care if I'm poor.",
+"ctx": "diálogo uid00460051"
+},
+{
+"id": 30682,
+"en": "I can't ask for anything more than to spend time with someone who accepts me for who I am.",
+"ctx": "diálogo uid00460051"
+},
+{
+"id": 30683,
+"en": "Do you mean...?",
+"ctx": "diálogo uid00460051"
+},
+{
+"id": 30684,
+"en": "Shinada-san, would you like to be my boyfriend?",
+"ctx": "diálogo uid00460051"
+},
+{
+"id": 30685,
+"en": "Really? Me!? You bet I would!",
+"ctx": "diálogo uid00460051"
+},
+{
+"id": 30686,
+"en": "Yes! And in exchange, I want to know everything there is to know about you!",
+"ctx": "diálogo uid00460051"
+},
+{
+"id": 30687,
+"en": "Your home is far nicer than I expected, Shinada-san!  I imagined you were a man of far more modest means.",
+"ctx": "diálogo uid00460052"
+},
+{
+"id": 30688,
+"en": "Hey, I know how to work hard! I always make sure my place is guest-ready.",
+"ctx": "diálogo uid00460052"
+},
+{
+"id": 30689,
+"en": "Then maybe we can work together to pay off my family's debts.",
+"ctx": "diálogo uid00460052"
+},
+{
+"id": 30690,
+"en": "Right. How much do you owe, anyway?",
+"ctx": "diálogo uid00460052"
+},
+{
+"id": 30691,
+"en": "So, it's actually...",
+"ctx": "diálogo uid00460052"
+},
+{
+"id": 30692,
+"en": "Whoooa! That much!?",
+"ctx": "diálogo uid00460052"
+},
+{
+"id": 30693,
+"en": "My father's business was liable for quite a lot. Personal debts are nothing compared to what a company can accrue.",
+"ctx": "diálogo uid00460052"
+},
+{
+"id": 30694,
+"en": "I can see something like that would lead to bankruptcy.",
+"ctx": "diálogo uid00460052"
+},
+{
+"id": 30695,
+"en": "Oh, but this will be such fun, Shinada-san! Just you, me, and my mother! We will surely be quite happy together!",
+"ctx": "diálogo uid00460052"
+},
+{
+"id": 30696,
+"en": "Ahaha... Ha... Yeah...",
+"ctx": "diálogo uid00460052"
+},
+{
+"id": 30697,
+"en": "I'm so lucky to have you by my side, Shinada-san!",
+"ctx": "diálogo uid00460052"
+},
+{
+"id": 30698,
+"en": "Hehe. Thank you, Kiryu-san.",
+"ctx": "diálogo uid00460053"
+},
+{
+"id": 30699,
+"en": "But I got one more piece a' advice to ask ya.",
+"ctx": "diálogo uid00460053"
+},
+{
+"id": 30700,
+"en": "I find myself always wanting to be around ya. What should I do?",
+"ctx": "diálogo uid00460053"
+},
+{
+"id": 30701,
+"en": "I haven't a clue. Whatever you like, I suppose.",
+"ctx": "diálogo uid00460053"
+},
+{
+"id": 30702,
+"en": "Hahaha! Then guess that's what I'll do!",
+"ctx": "diálogo uid00460053"
+},
+{
+"id": 30703,
+"en": "I sure love you, Kiryu-san!",
+"ctx": "diálogo uid00460053"
+},
+{
+"id": 30704,
+"en": "You really do have some pretty big dreams, Saejima-san! I have to say, I'm rather moved!",
+"ctx": "diálogo uid00460058"
+},
+{
+"id": 30705,
+"en": "Looks like they never got back to ya.",
+"ctx": "diálogo uid00460058"
+},
+{
+"id": 30706,
+"en": "You'll have other chances, I'm sure of it. Chin up, and keep goin'.",
+"ctx": "diálogo uid00460058"
+},
+{
+"id": 30707,
+"en": "Well, about that...",
+"ctx": "diálogo uid00460058 + diálogo uid01021088"
+},
+{
+"id": 30708,
+"en": "They actually said they wouldn't be giving me their decision until a bit later on.",
+"ctx": "diálogo uid00460058"
+},
+{
+"id": 30709,
+"en": "What!? Ya said it'd be real soon!",
+"ctx": "diálogo uid00460058"
+},
+{
+"id": 30710,
+"en": "Yeah, but if I'd told you that, then you wouldn't have stayed here with me!",
+"ctx": "diálogo uid00460058"
+},
+{
+"id": 30711,
+"en": "So you tricked me!?",
+"ctx": "diálogo uid00460058"
+},
+{
+"id": 30712,
+"en": "Come on, don't be like that! I really am very grateful to you.",
+"ctx": "diálogo uid00460058"
+},
+{
+"id": 30713,
+"en": "Hmph. Just lemme know when ya hear back.",
+"ctx": "diálogo uid00460058"
+},
+{
+"id": 30714,
+"en": "Will do! You're the best, Saejima-san!",
+"ctx": "diálogo uid00460058"
+},
+{
+"id": 30715,
+"en": "I owe ya big time, Akiyama-san.",
+"ctx": "diálogo uid00460059"
+},
+{
+"id": 30716,
+"en": "You seem much better now. Guess that really was some legendary lozenge. Your voice is back to normal.",
+"ctx": "diálogo uid00460059"
+},
+{
+"id": 30717,
+"en": "Hehe. It was surprisingly super sweet! Now I kinda want another one.",
+"ctx": "diálogo uid00460059"
+},
+{
+"id": 30718,
+"en": "Hey now, that was a one time deal. I really am quite a busy guy.",
+"ctx": "diálogo uid00460059"
+},
+{
+"id": 30719,
+"en": "Aww, why ya gotta be a wet blanket?",
+"ctx": "diálogo uid00460059"
+},
+{
+"id": 30720,
+"en": "Hey, there's not much time before the test. You need to hurry and get ready.",
+"ctx": "diálogo uid00460059"
+},
+{
+"id": 30721,
+"en": "Yeah! Akiyama-san, I looove ya! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid00460059"
+},
+{
+"id": 30722,
+"en": "Hey, Kiryu-san?",
+"ctx": "diálogo uid0046005d + diálogo uid0134003a …"
+},
+{
+"id": 30723,
+"en": "How come you didn't want to sleep with me?",
+"ctx": "diálogo uid0046005d"
+},
+{
+"id": 30724,
+"en": "I really wouldn't have minded, Kiryu-san. Is it because you think I'm a mess?",
+"ctx": "diálogo uid0046005d"
+},
+{
+"id": 30725,
+"en": "No, of course not.",
+"ctx": "diálogo uid0046005d + diálogo uid010d005c …"
+},
+{
+"id": 30726,
+"en": "Then why?",
+"ctx": "diálogo uid0046005d + diálogo uid01460042"
+},
+{
+"id": 30727,
+"en": "Hinata, I didn't do what I did just to sleep with you.",
+"ctx": "diálogo uid0046005d"
+},
+{
+"id": 30728,
+"en": "I did it because I wanted to win your heart.",
+"ctx": "diálogo uid0046005d"
+},
+{
+"id": 30729,
+"en": "You mean...!?",
+"ctx": "diálogo uid0046005d"
+},
+{
+"id": 30730,
+"en": "Hinata, men are despicable creatures, who will use money or force to get a woman's body if they are able.",
+"ctx": "diálogo uid0046005d"
+}
+]

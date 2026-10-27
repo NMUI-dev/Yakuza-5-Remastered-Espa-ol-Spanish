@@ -1,0 +1,932 @@
+[
+{
+"id": 34644,
+"en": "Sorry to interrupt, Chief, but...",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34645,
+"en": "Something urgent has actually come up. Would it be all right if I asked you to head back alone?",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34646,
+"en": "Y'got it, buddy. Not a problem.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34647,
+"en": "Thank you. I really appreciate it.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34648,
+"en": "(So the Omi Alliance sent Watase over to Olivier.)",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34649,
+"en": "(Things are bound to go wrong if Morinaga gets there before I do. I have to get to him first!)",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34650,
+"en": "(The chief's favorite diner is in the <Color:7>alley at the north end of Chikuzengawa Street<Color:Default>.)",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34651,
+"en": "I never meant to intrude!",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34652,
+"en": "But I couldn't take him to the hospital, and there was\nnowhere else to go... You were the only option I had.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34653,
+"en": "How did you know where I live?",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34654,
+"en": "After we learned a \"Taichi Suzuki\" drove the last taxi the chairman got in, we got hold of the local real estate info and tracked you down.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34655,
+"en": "The only rental contract for a Taichi Suzuki here was your place, so it wasn't hard to find.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34656,
+"en": "I see... Why didn't you come see me earlier, then?",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34657,
+"en": "Morinaga-aniki wanted to do things right. He says as representatives of the Tojo Clan, we can't be seen breaking code.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34658,
+"en": "So that's why you came to wait for me after work.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34659,
+"en": "Right. Morinaga-aniki does everything by the book, no matter what.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34660,
+"en": "So what happened? That doesn't look like something you get from a regular brawl.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34661,
+"en": "Some Yamagasa men got the drop on us.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34662,
+"en": "They attacked you?",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34663,
+"en": "Ever since Chairman Dojima met Madarame, the Yamagasa Family\npatriarch, their men have been ambushing ours left and right...\nWe're ten down already.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34664,
+"en": "Why would they do that?",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34665,
+"en": "I thought the alliance talks were going well.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34666,
+"en": "That only goes for upper management.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34667,
+"en": "Their men on the street aren't too happy about the Tojo Clan being in Fukuoka.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34668,
+"en": "Okay... But why come to me?",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34669,
+"en": "Surely your fellow Tojo Clan members could help.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34670,
+"en": "Not possible.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34671,
+"en": "We're the chairman's bodyguards. When he went missing, that fell on Morinaga-aniki.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34672,
+"en": "There's gonna be hell to pay, even if he shows up now.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34673,
+"en": "And if anyone found out Morinaga-aniki got bruised up by the Yamagasa on top of losing the chairman, he'd really be in for it.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34674,
+"en": "But it isn't his fault he got ambushed.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34675,
+"en": "That wouldn't matter to Patriarch Aoyama. He doesn't like excuses.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34676,
+"en": "And... he lets nothing go unpunished.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34677,
+"en": "Yakuza families aren't like companies. He won't get far just by playing authoritarian.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34678,
+"en": "I hear what you're saying.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34679,
+"en": "But it's a known fact that Patriarch Aoyama's discipline is what makes the Tojo Clan strong.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34680,
+"en": "He shows no mercy to members who betray us or violate an order.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34681,
+"en": "Even a big-name family dating back to the third chairman got axed after causing a scandal.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34682,
+"en": "He's promoted lots of younger families that prove loyal and produce results instead.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34683,
+"en": "It might sound harsh, but everyone knows where they stand. The whole clan feels reinvigorated, and morale is high.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34684,
+"en": "Reinvigorated, huh?",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34685,
+"en": "I guess me and my brothers from back in the day have fallen behind the times.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34686,
+"en": "Hold on! We just want to ask a few questions!",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34687,
+"en": "Yeah, right! I know what you Tojo snakes're up to!",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34688,
+"en": "Yer tryin' to pin the fact that your chairman went missing on us, and use that as an excuse to steal our turf!",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34689,
+"en": "You want to say that again, asshole?",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34690,
+"en": "Aizawa! Calm down!",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34691,
+"en": "But Aniki!",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34692,
+"en": "Aggravating things with the Yamagasa helps nobody.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34693,
+"en": "You'll have to excuse my partner here. He's a bit quick to fly off the handle.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34694,
+"en": "Aniki! You're just gonna let this guy walk after what he said!?",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34695,
+"en": "Hmph, I knew somethin' like this would happen. Us regular ol' Yamagasa boys were against this alliance from the get-go!",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34696,
+"en": "Look, pal. I dunno how y'run things up in Tokyo, but don't go thinkin' yer the star of the show here in Fukuoka!",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34697,
+"en": "Yes, we understand that, but is there any way you can let this slide? I assure you I'll discipline my friend here accordingly for the way he's treated you.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34698,
+"en": "No way, you ain't gettin' off that easy! I'm gonna go report this right now!",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34699,
+"en": "Hey, get back here!",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34700,
+"en": " Stop it, Aizawa. You've done more than enough already. Now come, we need to keep looking for the chairman.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34701,
+"en": "...Fine.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34702,
+"en": "That guy really needs to learn how to control his temper.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34703,
+"en": "The Tojo Clan... Daigo...",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34704,
+"en": "I have nothing to do with them now.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34705,
+"en": "Hey, driver. I ordered a taxi here.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34706,
+"en": "Right. Thank you for waiting. I'm from Nagasu Taxi.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34707,
+"en": "Whatever. Let's roll.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34708,
+"en": "Of course. Where to?",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34709,
+"en": "Hakata Station, on the double.",
+"ctx": "diálogo uid01020657"
+},
+{
+"id": 34710,
+"en": "What a mess. They send us all the way to Fukuoka, then just when we're 'bout to hit Nagasugai for some fun, we gotta bounce!",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34711,
+"en": "Think it was just an accident?",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34712,
+"en": "Who knows? Hey, can't ya go any faster!?",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34713,
+"en": "I'll see what I can do.",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34714,
+"en": "You better.",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34715,
+"en": "Please don't be unreasonable. I'm already driving as close to the limit as I can.",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34716,
+"en": "Oh come on! Quit complainin' and put the pedal to the metal!",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34717,
+"en": "You must be in a hurry. Did something happen?",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34718,
+"en": "One of our higher-ups just died in an accident. We gotta go back to Osaka for the funeral.",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34719,
+"en": "Is that the accident in Nagoya that was in the paper?",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34720,
+"en": "Yeah. And it wasn't just us, either. I hear a Tojo man bit the dust, too.",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34721,
+"en": "What? Did you just say the Tojo Clan, too?",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34722,
+"en": "Didn't ya read the paper? There were <Italic>two</Italic> car crashes in Nagoya.",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34723,
+"en": "Same day our man cashed in his chips, some Tojo guy kicked the bucket on some other road.",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34724,
+"en": "Seems too perfect to be coincidence.",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34725,
+"en": "If you ask me, it's high time the seventh chairman named his damn successor.",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34726,
+"en": "Is that even possible at this point? I thought he's got terminal cancer. He ain't even takin' visitors no more.",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34727,
+"en": "There'll be trouble if the seventh chairman dies without namin' anyone.",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34728,
+"en": "Ya think some of us'll be fightin' for the throne?",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34729,
+"en": "That'd be just what the other side wants, idiot.",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34730,
+"en": "If there ain't a successor, the eighth chairman gets chosen by consensus of all the patriarchs. In the end, the biggest faction wins out.",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34731,
+"en": "Ya mean the Watase Family, Ousaka Enterprises, or the Takachi Family?",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34732,
+"en": "Yeah. Captain Watase is the vanguard of the Omi, with the biggest turf and the most soldiers.",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34733,
+"en": "Whereas our chief of HQ rules Sotenbori, gaining influence through the massive tributes he pays.",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34734,
+"en": "And with Patriarch Takachi out of their way, the throne could go to either of them.",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34735,
+"en": "(It'd be good to hear more about this. Maybe I should ask something.)",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34736,
+"en": "This gentleman who was killed⑬was he a prominent figure as well?",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34737,
+"en": "Huh? Our boss Takachi? He was a clan lieutenant, but not really one of the key players.",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34738,
+"en": "For some reason the seventh chairman had his back, though, so nobody messed with him.",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34739,
+"en": "If Takachi-san had taken over as the next chairman, I guess we could've avoided a lot of trouble.",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34740,
+"en": "So there'll be a lotta money changin' hands to buy support from the patriarchs, huh?",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34741,
+"en": "It ain't as simple as throwin' money around. Takin' the Omi leadership makes you top dog in the yakuza world.",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34742,
+"en": "If ya want the spot, you're gonna have to do somethin' to prove you deserve it.",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34743,
+"en": "Yeah? Like what?",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34744,
+"en": "Let's see... killin' a Tojo Clan big shot might work.",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34745,
+"en": "Ah! Like Sixth Chairman Dojima, or maybe his right-hand man Majima?",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34746,
+"en": "If you could pull that off, it'd be a real show of strength for the Omi. That'd give ya more than enough clout to take the throne.",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34747,
+"en": "Well, ain't like I was considerin' it, though.",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34748,
+"en": "(This is the perfect chance to dig for more info. They might even know about Daigo.)",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34749,
+"en": "Now that you mention it, I hear the chairman of the Tojo Clan went missing here in Fukuoka.",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34750,
+"en": "Say what!? You sure 'bout that!?",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34751,
+"en": "Yes. Tojo Clan people have been searching for him all over since yesterday.",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34752,
+"en": "No kiddin'... Guess my hunch wasn't too far off the mark, then.",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34753,
+"en": "Are ya sayin'... the Watase Family or Ousaka Enterprises kidnapped him?",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34754,
+"en": "Could be. If I was gonna take a guess, that sorta move sounds more like Watase's style.",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34755,
+"en": "(Watase, huh...)",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34756,
+"en": "Anyhow, all it is to us soldiers is more shit to worry about.",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34757,
+"en": "Ain't that the truth? Hope they hurry up and get it over with soon.",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34758,
+"en": "Hey! We there yet?",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34759,
+"en": "Almost. Just a little bit farther.",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34760,
+"en": "Man... We got stuck with a real slowpoke.",
+"ctx": "diálogo uid0102065a"
+},
+{
+"id": 34761,
+"en": "Tell me everything. What's your relationship with Aoyama?",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34762,
+"en": "We exchanged vows of brotherhood 'bout a year back. We're sworn brothers across families.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34763,
+"en": "But you're the captain of the Omi Alliance, and he's just the Tojo Clan chief of headquarters. You outrank him by far.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34764,
+"en": "Yeah, and swearing an oath with that little weed made me wanna vomit at first, but the seventh chairman insisted. Can't just say no to that.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34765,
+"en": "The Omi chairman was willing to go that far to prevent conflict with the Tojo Clan?",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34766,
+"en": "You got it. Call it a strategic alliance, if ya like.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34767,
+"en": "But with the seventh chairman fadin' to dust, I plan to do\njust as I please from here on in.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34768,
+"en": "So did you come to Fukuoka to take part in Aoyama's plan to get rid of Daigo?",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34769,
+"en": "Nope. Only thing Aoyama told me 'bout was you.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34770,
+"en": "Couldn't give less of a damn 'bout Dojima.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34771,
+"en": "You still insist on lying to me.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34772,
+"en": "Ain't no lie. All I heard was you were down in Fukuoka, so I came runnin'.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34773,
+"en": "No other reason, I swear.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34774,
+"en": "But why would you come all this way just to see me?",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34775,
+"en": "You must have your eye on the Omi chairman's seat. Meeting me does nothing for your chances.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34776,
+"en": "You don't get it, do ya, Kiryu-han?",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34777,
+"en": "I got no interest in squabblin' over the throne.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34778,
+"en": "My sights are set on what's after. The war with the Tojo Clan when I become eighth chairman.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34779,
+"en": "I can get the chairman's spot without liftin' a finger. No other Omi man's got what it takes.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34780,
+"en": "No, what I'm really keen on figuring out is who's gonna be top of the Tojo once my reign starts.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34781,
+"en": "That's what matters to me.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34782,
+"en": "What are you implying? It'll be Daigo leading the Tojo, same as always.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34783,
+"en": "Well then we have a problem. 'Cause fightin' a weak-ass clan led by a weak-ass man ain't worth my time.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34784,
+"en": "There are far better candidates for his spot out there.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34785,
+"en": "What are you trying to say?",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34786,
+"en": "Look. The Omi Alliance hasn't beaten the Tojo Clan once, even if you go back to Fifth Chairman Jin Goda.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34787,
+"en": "We had more soldiers, more cash, more power, yet we never came out on top. Why is that?",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34788,
+"en": "Because they owed their strength to you, Kiryu-han.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34789,
+"en": "Take Ryuji Goda, toughest bastard I knew. Had all of Kansai on his side.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34790,
+"en": "Yet his assault on Kanto was stopped single-handed by a guy fresh outta retirement.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34791,
+"en": "And that ain't all. Even when the Tojo Clan was tearin' itself apart, all we could do was sit back on our asses and watch.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34792,
+"en": "The reason? 'Cause Kazuma Kiryu was back in town bustin' skulls.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34793,
+"en": "You're wrong. Daigo's the one who protected the Tojo Clan.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34794,
+"en": "I only helped finish what I had started during my time.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34795,
+"en": "That right there, is the worst goddamn part of it.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34796,
+"en": "You've got no ego, and even less ambition. Yet your every move draws crowds to you.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34797,
+"en": "Anyone who gets a whiff of that power you got will follow ya to the ends of the earth.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34798,
+"en": "Including Daigo Dojima.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34799,
+"en": "Enough rambling. What exactly did you hope to accomplish by meeting me here?",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34800,
+"en": "Well, I was hoping I could persuade ya to join the ranks. Of the Tojo Clan, of course.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34801,
+"en": "I'm gonna need to fight the Tojo sooner or later if I wanna control this country.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34802,
+"en": "But right now those boys are nothin' but losers, barely worth whackin' on the head.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34803,
+"en": "If I'm gonna prove I'm better than the Dragon of Kansai, Ryuji Goda, I gotta make an impact.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34804,
+"en": "So I need a big, bad rival like you to wake everyone the fuck up.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34805,
+"en": "I want you back with the Tojo Clan, no matter what it takes. That's what I came to Fukuoka to tell ya.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34806,
+"en": "You believe me now?",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34807,
+"en": "Huh? Who the hell're you?",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34808,
+"en": "I came to talk with Watase of the Omi Alliance.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34809,
+"en": "Which family you with, dirtbag?",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34810,
+"en": "I'm not with any family. I'm just a taxi driver.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34811,
+"en": "A taxi driver, he says!",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34812,
+"en": "Hoo, that's a riot. Hey boys, who needs a lift! Hahaha!",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34813,
+"en": "Oh, you're in luck. The boss just got back.",
+"ctx": "diálogo uid0102066f"
+},
+{
+"id": 34814,
+"en": "Why are we doing this in a taxi?",
+"ctx": "diálogo uid01020683"
+},
+{
+"id": 34815,
+"en": "You never know who might be listening in. This is the safest place to talk.",
+"ctx": "diálogo uid01020683"
+},
+{
+"id": 34816,
+"en": "You think someone might be tailing us?",
+"ctx": "diálogo uid01020683"
+},
+{
+"id": 34817,
+"en": "Yes. Watase knew I was here, and had details of my movements ever since I gave Daigo a ride the other day.",
+"ctx": "diálogo uid01020683"
+},
+{
+"id": 34818,
+"en": "Who's Watase's source?",
+"ctx": "diálogo uid01020683"
+},
+{
+"id": 34819,
+"en": "Daigo's assistant... Aoyama, chief of HQ.",
+"ctx": "diálogo uid01020683"
+},
+{
+"id": 34820,
+"en": "Huh!? Patriarch Aoyama!?",
+"ctx": "diálogo uid01020683"
+},
+{
+"id": 34821,
+"en": "Aoyama and Watase are sworn brothers.",
+"ctx": "diálogo uid01020683"
+},
+{
+"id": 34822,
+"en": "It doesn't exactly sound like they're friendly, but Aoyama's the one who told Watase I was here and called him to Fukuoka.",
+"ctx": "diálogo uid01020683"
+},
+{
+"id": 34823,
+"en": "I don't know.",
+"ctx": "diálogo uid01020683 + diálogo uid01020765"
+},
+{
+"id": 34824,
+"en": "But I do know Aoyama had an eye on me even before Daigo went missing.",
+"ctx": "diálogo uid01020683"
+},
+{
+"id": 34825,
+"en": "Maybe he's putting pressure on the Yamagasa.",
+"ctx": "diálogo uid01020683"
+},
+{
+"id": 34826,
+"en": "It's possible. Aoyama knew that Watase, being the Omi man he is, would naturally want to know what I'm up to.",
+"ctx": "diálogo uid01020683"
+},
+{
+"id": 34827,
+"en": "Aoyama got Watase to come to Fukuoka, knowing he would make a move right away.",
+"ctx": "diálogo uid01020683"
+},
+{
+"id": 34828,
+"en": "With the Watase Family here during negotiations, the Yamagasa Family would naturally assume the Omi wanted to stop their alliance with the Tojo Clan.",
+"ctx": "diálogo uid01020683"
+},
+{
+"id": 34829,
+"en": "The threat of conflict with the Omi would then push the Yamagasa Family into making an alliance.",
+"ctx": "diálogo uid01020683"
+}
+]

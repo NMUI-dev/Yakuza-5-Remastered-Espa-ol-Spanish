@@ -1,0 +1,160 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_taxi_mission.par/pjd_sstory_taxi_mission_texlist/2d_jm_taxi_menu",
+ "fuente": "verdana.ttf",
+ "margen": 0,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    0,
+    0,
+    128,
+    16
+   ],
+   "en": "Race Missions",
+   "es": "Carreras",
+   "fuente": "verdana.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 126
+  },
+  {
+   "caja": [
+    0,
+    16,
+    128,
+    32
+   ],
+   "en": "Taxi Missions",
+   "es": "Misiones taxi",
+   "fuente": "verdana.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 126
+  },
+  {
+   "caja": [
+    0,
+    32,
+    128,
+    48
+   ],
+   "en": "Free Missions",
+   "es": "Modo libre",
+   "fuente": "verdana.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 126
+  },
+  {
+   "caja": [
+    0,
+    48,
+    128,
+    64
+   ],
+   "en": "Mission Info",
+   "es": "Info de misión",
+   "fuente": "verdana.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 126
+  },
+  {
+   "caja": [
+    0,
+    64,
+    128,
+    80
+   ],
+   "en": "Customization 1",
+   "es": "Personalizar 1",
+   "fuente": "verdana.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 126
+  },
+  {
+   "caja": [
+    0,
+    80,
+    128,
+    96
+   ],
+   "en": "Customization 2",
+   "es": "Personalizar 2",
+   "fuente": "verdana.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 126
+  },
+  {
+   "caja": [
+    0,
+    96,
+    128,
+    112
+   ],
+   "en": "Mission List",
+   "es": "Lista de misiones",
+   "fuente": "verdana.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 126
+  },
+  {
+   "caja": [
+    0,
+    112,
+    128,
+    128
+   ],
+   "en": "Select Mode",
+   "es": "Elige un modo",
+   "fuente": "verdana.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 126
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_taxi_t_hyouka",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    34,
+    10,
+    94,
+    39
+   ],
+   "en": "Good",
+   "ocr": "Good",
+   "es": "Bien",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 56,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "dejar": true
+  },
+  {
+   "caja": [
+    167,
+    10,
+    213,
+    38
+   ],
+   "en": "Bad",
+   "ocr": "Bad",
+   "es": "Mal",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 42,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "dejar": true
+  }
+ ]
+}

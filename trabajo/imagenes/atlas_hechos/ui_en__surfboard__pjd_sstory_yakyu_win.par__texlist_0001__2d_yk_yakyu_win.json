@@ -1,0 +1,28 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_yakyu_win.par/texlist_0001/2d_yk_yakyu_win",
+ "fuente": "times.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    13,
+    2,
+    127,
+    24
+   ],
+   "en": "Win Condition",
+   "es": "Para ganar",
+   "fuente": "times.ttf",
+   "alin": "izq",
+   "ancho_max": 110,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 17
+  }
+ ]
+}

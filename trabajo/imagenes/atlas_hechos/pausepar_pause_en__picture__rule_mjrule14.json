@@ -1,0 +1,179 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_mjrule14",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    445,
+    7,
+    579,
+    46
+   ],
+   "en": "Mahjong",
+   "ocr": "Mahjong",
+   "es": "Mahjong",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 130,
+   "dejar": true
+  },
+  {
+   "caja": [
+    47,
+    82,
+    134,
+    117
+   ],
+   "en": "Dora",
+   "ocr": "·Dora",
+   "es": "Dora",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 83,
+   "dejar": true
+  },
+  {
+   "caja": [
+    69,
+    147,
+    953,
+    181
+   ],
+   "en": "Each round of mahjong has a tile representing the dora. By having your hand",
+   "ocr": "Each round of mahjong has a tile representing the dora. By having your hand",
+   "es": "Cada RONDA de Mahjong tiene una ficha que representa al Dora. Al tener tu Mano",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 884,
+   "dejar": true
+  },
+  {
+   "caja": [
+    69,
+    182,
+    941,
+    211
+   ],
+   "en": "consist of tiles that correspond to the doras revealed, you can increase the",
+   "ocr": "consistoftilesthatcorrespond to thedorasrevealed,youcan increase the",
+   "es": "compuesta por fichas que corresponden a las Doras reveladas, puedes aumentar el",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 872,
+   "dejar": true
+  },
+  {
+   "caja": [
+    69,
+    213,
+    952,
+    242
+   ],
+   "en": "value of your hand; it can potentially turn a mediocre hand into a high-value",
+   "ocr": "valueofyourhand;it canpotentially turn a mediocre hand intoa high-value",
+   "es": "valor de tu Mano; ¡esto podría transformar una Mano mediocre en una Mano de",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 883,
+   "dejar": true
+  },
+  {
+   "caja": [
+    67,
+    245,
+    144,
+    275
+   ],
+   "en": "hand!",
+   "ocr": "hand!",
+   "es": "alto valor!",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 77,
+   "dejar": true
+  },
+  {
+   "caja": [
+    71,
+    308,
+    564,
+    339
+   ],
+   "en": "The dora is the indicator's succeeding tile.",
+   "ocr": "The dora is the indicator's succeeding tile.",
+   "es": "La dora es la ficha siguiente al indicador.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 489,
+   "dejar": true
+  },
+  {
+   "caja": [
+    86,
+    361,
+    745,
+    394
+   ],
+   "en": "Dora order is: 1 > 2 > 3 > 4 > 5 > 6 > 7 > 8 > 9 > 1",
+   "ocr": "* Dora order is: 1 > 2 > 3 > 4 > 5 > 6 > 7 > 8 > 9 > 1",
+   "es": "El Pedido de Dora es: 1 > 2 > 3 > 4 > 5 > 6 > 7 > 8 > 9 > 1",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 655,
+   "dejar": true
+  },
+  {
+   "caja": [
+    297,
+    394,
+    720,
+    425
+   ],
+   "en": "East > South > West > North > East",
+   "ocr": "East>South>West> North>East",
+   "es": "Este > Sur > Oeste > Norte > Este",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 419,
+   "dejar": true
+  },
+  {
+   "caja": [
+    296,
+    426,
+    641,
+    456
+   ],
+   "en": "White > Green > Red > White",
+   "ocr": "White > Green > Red >White",
+   "es": "Blanco > Verde > Rojo > Blanco",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 341,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: lo hace el PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

@@ -1,0 +1,1532 @@
+[
+{
+"id": 3232,
+"en": "Placeholder Accessory 23",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3233,
+"en": "Placeholder Accessory 24",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3234,
+"en": "Placeholder Accessory 25",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3235,
+"en": "Placeholder Accessory 26",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3236,
+"en": "Placeholder Accessory 27",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3237,
+"en": "Placeholder Accessory 28",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3238,
+"en": "Placeholder Accessory 29",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3239,
+"en": "Placeholder Accessory 30",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3240,
+"en": "Placeholder Accessory 31",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3241,
+"en": "Placeholder Accessory 32",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3242,
+"en": "Placeholder Accessory 33",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3243,
+"en": "Placeholder Accessory 34",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3244,
+"en": "ªªªªªªAccessories aboveªªªªªªª",
+"ctx": "tabla item|NAME + tabla item|EXPLANATION"
+},
+{
+"id": 3245,
+"en": "««««««Valuables below«««««««",
+"ctx": "tabla item|NAME + tabla item|EXPLANATION"
+},
+{
+"id": 3246,
+"en": "Locally Brewed Sake",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3247,
+"en": "Kazuma's Cell Phone",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3248,
+"en": "Saejima's Cell Phone",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3249,
+"en": "Haruka's Cell Phone",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3250,
+"en": "Akiyama's Cell Phone",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3251,
+"en": "Shinada's Cell Phone",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3252,
+"en": "Coin",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3253,
+"en": "Wooden Tags",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3254,
+"en": "Mahjong Sticks",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3255,
+"en": "Casino Chips",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3256,
+"en": "Pachinko Balls",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3257,
+"en": "Slot Tokens",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3258,
+"en": "Shogi Points",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3259,
+"en": "Prize Tickets",
+"ctx": "tabla item|NAME + menú/texto string_tbl …"
+},
+{
+"id": 3260,
+"en": "Trophy",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3261,
+"en": "Market Price App",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3262,
+"en": "Luck Checker",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3263,
+"en": "Kamurocho Locker Key",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3264,
+"en": "Sotenbori Locker Key",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3265,
+"en": "Snowball Pouch",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3266,
+"en": "\"Machine Gun Kiss\" CD",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3267,
+"en": "\"Get to the Top!\" CD",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3268,
+"en": "\"Let's Go Away\" CD",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3269,
+"en": "\"Remember R-001\" CD",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3270,
+"en": "\"Magical Sound Shower\" CD",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3271,
+"en": "DARTSLIVE Membership Card",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3272,
+"en": "House Darts",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3273,
+"en": "Brass Barrel and Point",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3274,
+"en": "Brass Straight Barrel and Point",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3275,
+"en": "Brass Torpedo Barrel and Point",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3276,
+"en": "Tungsten Barrel and Point",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3277,
+"en": "Tungsten Straight Barrel and Point",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3278,
+"en": "Tungsten Torpedo Barrel and Point",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3279,
+"en": "Limited-edition Color Barrel and Point",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3280,
+"en": "Limited-ed. Color Torpedo Barrel and Point",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3281,
+"en": "Mini-standard Flight and Shaft",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3282,
+"en": "Kite Flight and Shaft",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3283,
+"en": "Slim Flight and Shaft",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3284,
+"en": "Bristol X Flight and Shaft",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3285,
+"en": "Teardrop Flight and Shaft",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3286,
+"en": "Standard Flight and Shaft",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3287,
+"en": "Hito-nyan Flight and Shaft",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3288,
+"en": "Beware of Bears Flight and Shaft",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3289,
+"en": "Flashy Butterfly Flight and Shaft",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3290,
+"en": "Grandpa's Handmade Flight and Shaft",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3291,
+"en": "Rocket Shot Flight and Shaft",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3292,
+"en": "Sweet Flight and Shaft",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3293,
+"en": "Ousaka Enterprises Office Key",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3294,
+"en": "Riku's Business Card",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3295,
+"en": "Riku's Fancy Business Card",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3296,
+"en": "Kaguya's Business Card",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3297,
+"en": "Kaguya's Fancy Business Card",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3298,
+"en": "Honoka's Business Card",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3299,
+"en": "Honoka's Fancy Business Card",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3300,
+"en": "Shion's Business Card",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3301,
+"en": "Shion's Fancy Business Card",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3302,
+"en": "Hinata Osaki's Business Card",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3303,
+"en": "Hinata Osaki's Fancy Business Card",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3304,
+"en": "Champagne Tower",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3305,
+"en": "Gold Champagne",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3306,
+"en": "Rosé Champagne",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3307,
+"en": "Black Champagne",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3308,
+"en": "White Champagne",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3309,
+"en": "Beer",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3310,
+"en": "Gacha Drink",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3311,
+"en": "Drink 11",
+"ctx": "tabla item|NAME + tabla item|EXPLANATION"
+},
+{
+"id": 3312,
+"en": "Drink 12",
+"ctx": "tabla item|NAME + tabla item|EXPLANATION"
+},
+{
+"id": 3313,
+"en": "Drink 13",
+"ctx": "tabla item|NAME + tabla item|EXPLANATION"
+},
+{
+"id": 3314,
+"en": "Drink 14",
+"ctx": "tabla item|NAME + tabla item|EXPLANATION"
+},
+{
+"id": 3315,
+"en": "Drink 15",
+"ctx": "tabla item|NAME + tabla item|EXPLANATION"
+},
+{
+"id": 3316,
+"en": "Fruit Platter",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3317,
+"en": "Carbonara",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3318,
+"en": "Chicken Karaage",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3319,
+"en": "Vegetable Sticks",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3320,
+"en": "Dried Ray Fin",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3321,
+"en": "Takoyaki",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3322,
+"en": "French Fries",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3323,
+"en": "Pasta Sticks",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3324,
+"en": "Edamame",
+"ctx": "tabla item|NAME + tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 3325,
+"en": "Mixed Nuts",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3326,
+"en": "Ice Cream",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3327,
+"en": "Chocolate Sticks",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3328,
+"en": "Food 12",
+"ctx": "tabla item|NAME + tabla item|EXPLANATION"
+},
+{
+"id": 3329,
+"en": "Food 13",
+"ctx": "tabla item|NAME + tabla item|EXPLANATION"
+},
+{
+"id": 3330,
+"en": "Food 14",
+"ctx": "tabla item|NAME + tabla item|EXPLANATION"
+},
+{
+"id": 3331,
+"en": "Food 15",
+"ctx": "tabla item|NAME + tabla item|EXPLANATION"
+},
+{
+"id": 3332,
+"en": "500 Yen",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3333,
+"en": "1,000 Yen",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3334,
+"en": "2,000 Yen",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3335,
+"en": "3,000 Yen",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3336,
+"en": "4,000 Yen",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3337,
+"en": "5,000 Yen",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3338,
+"en": "10,000 Yen",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3339,
+"en": "20,000 Yen",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3340,
+"en": "30,000 Yen",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3341,
+"en": "Time Capsule",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3342,
+"en": "Money",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 3343,
+"en": "Old Map Scrap A",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3344,
+"en": "Old Map Scrap B",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3345,
+"en": "Old Map Scrap C",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3346,
+"en": "Old Map Scrap D",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3347,
+"en": "Old Map Scrap E",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3348,
+"en": "Old Map",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3349,
+"en": "Questionable Map Scrap A",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3350,
+"en": "Questionable Map Scrap B",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3351,
+"en": "Questionable Map Scrap C",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3352,
+"en": "Questionable Map Scrap D",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3353,
+"en": "Questionable Map Scrap E",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3354,
+"en": "Questionable Map",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3355,
+"en": "Profound Map Scrap A",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3356,
+"en": "Profound Map Scrap B",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3357,
+"en": "Profound Map Scrap C",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3358,
+"en": "Profound Map Scrap D",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3359,
+"en": "Profound Map Scrap E",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3360,
+"en": "Profound Map",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3361,
+"en": "Suspicious Map Scrap A",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3362,
+"en": "Suspicious Map Scrap B",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3363,
+"en": "Suspicious Map Scrap C",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3364,
+"en": "Suspicious Map Scrap D",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3365,
+"en": "Suspicious Map Scrap E",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3366,
+"en": "Suspicious Map",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3367,
+"en": "Impressive Map Scrap A",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3368,
+"en": "Impressive Map Scrap B",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3369,
+"en": "Impressive Map Scrap C",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3370,
+"en": "Impressive Map Scrap D",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3371,
+"en": "Impressive Map Scrap E",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3372,
+"en": "Impressive Map",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3373,
+"en": "Pin-up Girl Photo 1",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3374,
+"en": "Pin-up Girl Photo 7",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3375,
+"en": "Pin-up Girl Photo 2",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3376,
+"en": "Pin-up Girl Photo 8",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3377,
+"en": "Pin-up Girl Photo 3",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3378,
+"en": "Pin-up Girl Photo 4",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3379,
+"en": "Pin-up Girl Photo 5",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3380,
+"en": "Pin-up Girl Photo 6",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3381,
+"en": "Pin-up Girl Photo 9",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3382,
+"en": "Pin-up Girl Photo 10",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3383,
+"en": "Pin-up Girl Photo 11",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3384,
+"en": "PrintCircle Book",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3385,
+"en": "Declaration of Dissolution",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3386,
+"en": "Mystery Item",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3387,
+"en": "Mystery Envelope",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3388,
+"en": "Southwest Gate Key",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3389,
+"en": "Phone Booth Photo",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3390,
+"en": "Underground Casino Pass",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3391,
+"en": "Majima's Letter",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3392,
+"en": "Lots of Liquor",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3393,
+"en": "Park's Fountain Pen",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3394,
+"en": "Intelligent-looking Cochin Chicken",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3395,
+"en": "Strong-looking Cochin Chicken",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3396,
+"en": "Cochin Chicken with Piercing Eyes",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3397,
+"en": "Dragon Mask",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3398,
+"en": "Photo of Michiru Yamazaki",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3399,
+"en": "Cheap Wooden Bat",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3400,
+"en": "Expensive Wooden Bat",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3401,
+"en": "Ash Wood Bat",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3402,
+"en": "Sacred Wood Bat",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3403,
+"en": "Crimson Bat",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3404,
+"en": "Fried Shrimp Bat",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3405,
+"en": "Cheap Batting Gloves",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3406,
+"en": "Expensive Leather Batting Gloves",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3407,
+"en": "High-grip Batting Gloves",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3408,
+"en": "Tenacious Batting Gloves",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3409,
+"en": "Neural Batting Gloves",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3410,
+"en": "Cheap Cleats",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3411,
+"en": "Luxury Cleats",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3412,
+"en": "High-performance Cleats",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3413,
+"en": "High-adhesion Cleats",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3414,
+"en": "Hall-of-Fame Cleats",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3415,
+"en": "Detergent",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3416,
+"en": "Letter to Masao",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3417,
+"en": "Ghost Pine Photo",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3418,
+"en": "Borrowed Single-lens Reflex Camera",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3419,
+"en": "PrintCircle Photo with Friends",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3420,
+"en": "Dance Battle Summit Leaflet",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3421,
+"en": "Placeholder Valuable 1575",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3422,
+"en": "Placeholder Valuable 1576",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3423,
+"en": "Placeholder Valuable 1577",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3424,
+"en": "Placeholder Valuable 1578",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3425,
+"en": "Placeholder Valuable 1579",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3426,
+"en": "Placeholder Valuable 1580",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3427,
+"en": "Placeholder Valuable 1581",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3428,
+"en": "Placeholder Valuable 1582",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3429,
+"en": "Placeholder Valuable 1583",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3430,
+"en": "Placeholder Valuable 1584",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3431,
+"en": "Placeholder Valuable 1585",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3432,
+"en": "Placeholder Valuable 1586",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3433,
+"en": "Easy on the wallet, but doesn't restore a lot of health.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3434,
+"en": "Comes in handy when you need a little health boost.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0009 …"
+},
+{
+"id": 3435,
+"en": "Restores your health quite a bit.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0009 …"
+},
+{
+"id": 3436,
+"en": "Restores your health dramatically.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3437,
+"en": "Restores your health to its maximum.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0082"
+},
+{
+"id": 3438,
+"en": "Charges up your Heat a little.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0006 …"
+},
+{
+"id": 3439,
+"en": "Charges your Heat significantly.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0014 …"
+},
+{
+"id": 3440,
+"en": "Charges your Heat dramatically.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0024 …"
+},
+{
+"id": 3441,
+"en": "Charges your Heat to its maximum level.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0082"
+},
+{
+"id": 3442,
+"en": "Easy on the wallet, but only restores a slight amount of health and Heat.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3443,
+"en": "Restores health and charges Heat slightly.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3444,
+"en": "Restores health and charges Heat significantly.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3445,
+"en": "Restores health and charges Heat dramatically. ",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3446,
+"en": "Restores health and charges Heat completely. ",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0082"
+},
+{
+"id": 3447,
+"en": "AppStim RX stimulates the appetite by improving digestive tract function.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0012 …"
+},
+{
+"id": 3448,
+"en": "This ointment helps heal injuries.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3449,
+"en": "When you need to win, whether at sports, a test, or in life, this drink brings out the diehard in you!",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0026"
+},
+{
+"id": 3450,
+"en": "The new & improved Diehard Drink! Diehard MAX delivers 3,000 mg of taurine to prime you for whatever you might face!",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3451,
+"en": "Say hello to your new drinking buddy! A single dose packs 90 mg of curcumin, the most in the Super Turmeric series!",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0026"
+},
+{
+"id": 3452,
+"en": "This blend of black sesame seeds and kinako (roasted soy flour) is as tasty as it is healthy!",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0026"
+},
+{
+"id": 3453,
+"en": "This hard candy has an unrefined brown sugar center that doubles your candy-eating pleasure!",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0026"
+},
+{
+"id": 3454,
+"en": "Made with real ginger! Enjoy the melt-in-your-mouth goodness unlocked by our special open-flame cooking method.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0026"
+},
+{
+"id": 3455,
+"en": "This refreshing lemon candy is packed with vitamin C!",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0026"
+},
+{
+"id": 3456,
+"en": "Introducing the hit candy Extreme Lemon, now in granule packets packing 1,500 mg of vitamin C apiece!",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0026"
+},
+{
+"id": 3457,
+"en": "A sweet gift from Haruka.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3458,
+"en": "A chocolatey gift from Haruka.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3459,
+"en": "A nutritious gift from Haruka. It even tastes great cold!",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3460,
+"en": "A thoughtful gift from Haruka.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3461,
+"en": "This ramen has a chicken and pork-based soup combined with spices and soy sauce for a rich, tasty flavor.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0005 …"
+},
+{
+"id": 3462,
+"en": "Miso and pork mixed with spicy vegetables make for a succulent soup in this miso ramen.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0005 …"
+},
+{
+"id": 3463,
+"en": "This delicious tonkotsu ramen is full of pork fat and a rich pork-infused soup.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3464,
+"en": "This shio ramen has a chicken-based broth with seafood and vegetables, along with spices to accentuate the flavor.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0006 …"
+},
+{
+"id": 3465,
+"en": "These tender, delicious yakisoba noodles are combined with tasty squid.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3466,
+"en": "Enjoy our firm, flash-fried \"3D\" noodles with a rich mix of sauces made with garlic, cinnamon, cloves, and other spices.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0005 …"
+},
+{
+"id": 3467,
+"en": "Low-calorie noodles are paired with mouth-watering wontons and soy sauce for a rich, flavorful cup of soup.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0005 …"
+},
+{
+"id": 3468,
+"en": "Fluffy eggs, seafood, seaweed extract, and low-calorie noodles combine to make a thoroughly delicious soup.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3469,
+"en": "This low-calorie noodle soup is made with minced meat, sesame paste, and miso.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0005 …"
+},
+{
+"id": 3470,
+"en": "Low-calorie noodles with fish sauce, garlic, and hot peppers for spicy, Korean-style soup.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0007 …"
+},
+{
+"id": 3471,
+"en": "Hot, savory soup with cabbage, seaweed, corn, and low-calorie noodles.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0006 …"
+},
+{
+"id": 3472,
+"en": "Snow cabbage, minced chicken, sesame oil, and chicken broth with tasty, low-calorie noodles.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0007"
+},
+{
+"id": 3473,
+"en": "Eggs, wood ear fungus, spices, and vinegar with low-calorie noodles make up this hot & sour soup.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3474,
+"en": "This low-calorie noodle soup is brought to life with a mellow pork bone soup base and three kinds of vegetables.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0006 …"
+},
+{
+"id": 3475,
+"en": "This smoky ramen has a salt-based chicken-and-seafood soup flavored with bacon and smoked bonito flakes.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3476,
+"en": "Comes in a handy, upright container. You can never get enough of these firm noodles bathed in a rich, flavorful sauce.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0005 …"
+},
+{
+"id": 3477,
+"en": "This ramen is full of delicate seaweed, which gives it a taste reminiscent of the ocean.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3478,
+"en": "Ramen with wontons! This old favorite in a plastic package still tastes like you remembered.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0012"
+},
+{
+"id": 3479,
+"en": "This is Seicomart's store brand of cola.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3480,
+"en": "This is Seicomart's store brand of jasmine tea.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3481,
+"en": "This is Seicomart's store brand of soy sauce-flavored instant noodles in a cup.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3482,
+"en": "This is Seicomart's store brand of curry-flavored instant noodles in a cup.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3483,
+"en": "This is Seicomart's store brand of seafood-flavored instant noodles in a cup.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3484,
+"en": "This is Seicomart's store brand of instant noodles topped with fried tofu in a cup.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3485,
+"en": "This is Seicomart's store brand of milk from Hokkaido.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3486,
+"en": "This is Seicomart's store brand of sake, packaged in a two-liter carton.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3487,
+"en": "You never know when these might come in handy.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3488,
+"en": "There is more than enough of this piping hot oden assortment to satisfy your hunger.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3489,
+"en": "A rice ball with boiled seaweed at its center.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0005 …"
+},
+{
+"id": 3490,
+"en": "This rice ball has a tuna and mayonnaise filling.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0005 …"
+},
+{
+"id": 3491,
+"en": "A standard rice ball with salmon flake filling.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3492,
+"en": "This grilled rice ball made with real butter is available only in Hokkaido.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3493,
+"en": "This rice ball is brushed with miso before it is grilled to perfection, but it's only available in Nagoya.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0013 …"
+},
+{
+"id": 3494,
+"en": "This rice ball made with real pork-based tonkotsu broth is only available in Fukuoka.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0009 …"
+},
+{
+"id": 3495,
+"en": "This rice ball made with okonomiyaki sauce is only available in Osaka.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0012"
+},
+{
+"id": 3496,
+"en": "Just your average, everyday bento box.\nIt's enough to fill you up for a while.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3497,
+"en": "This tonkatsu lunch set is made with rich Satsuma pork.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0003 …"
+},
+{
+"id": 3498,
+"en": "This zangi lunch set includes Hokkaido-style fried chicken.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3499,
+"en": "A deep-fried pork cutlet topped with a sweet and savory miso sauce is the famous Nagoya treat topping this lunch set.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0013"
+},
+{
+"id": 3500,
+"en": "This lunch set includes a half-size okonomiyaki topped with dried bonito flakes and mouth-watering sauce.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0012"
+},
+{
+"id": 3501,
+"en": "Savory gyoza fried to crispy perfection are the centerpiece of this tasty lunch set.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0009 …"
+},
+{
+"id": 3502,
+"en": "A standard clubhouse sandwich with tomatoes, lettuce, and cheese.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0003 …"
+},
+{
+"id": 3503,
+"en": "Tuna, egg, and mayo on white bread.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0003 …"
+},
+{
+"id": 3504,
+"en": "Yakisoba with cabbage and pork. The smell of the sauce is simply irresistible.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0005 …"
+},
+{
+"id": 3505,
+"en": "This good old convenience store staple is popular for its superb flavor.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3506,
+"en": "This good old convenience store staple is popular for its sesame-flavored sweet bean paste.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3507,
+"en": "This Chinese-style steamed bun has yakisoba noodles in the middle. Its sauce smells divine.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0008"
+},
+{
+"id": 3508,
+"en": "This local specialty consists of a Chinese-style steamed bun loaded with a butter and potato filling from Hokkaido.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3509,
+"en": "This local specialty consists of a Chinese-style steamed bun filled with eel and grilled to perfection, then topped with a secret sauce.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0013"
+},
+{
+"id": 3510,
+"en": "This local specialty consists of a Chinese-style steamed bun filled with one whole piece of takoyaki.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0012"
+},
+{
+"id": 3511,
+"en": "This local specialty consists of a Chinese-style steamed bun filled with a spicy cod roe sauce.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0009 …"
+},
+{
+"id": 3512,
+"en": "This large bottle of sake can be enjoyed heated or chilled.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0005 …"
+},
+{
+"id": 3513,
+"en": "A carton of plain milk, pasteurized for extra flavor.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0005 …"
+},
+{
+"id": 3514,
+"en": "Dry dog food with a well-balanced mix of nutrients.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3515,
+"en": "Carefully selected nigiri-style sushi in a box. Includes only high-quality fish. Expensive.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3516,
+"en": "A grass that grows naturally in Japan. Often served mixed into sticky rice cakes.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3517,
+"en": "This snack for cats comes in an easy-to-eat stick form.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0008 …"
+},
+{
+"id": 3518,
+"en": "This dish goes great with alcohol. It is said to be a favorite of the mythical kappa.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3519,
+"en": "This skewer of grilled chicken has a savory smell that is absolutely irresistible.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3520,
+"en": "Mildly acidic but gentle on the skin.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0013 …"
+},
+{
+"id": 3521,
+"en": "Turmeric and other natural ingredients make this supplement effective against hangovers.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0005 …"
+},
+{
+"id": 3522,
+"en": "This canned coffee is specially brewed to bring out the full flavor of its top-quality Guatemalan beans.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3523,
+"en": "This extravagant canned coffee is made with high-quality coffee beans.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0005 …"
+},
+{
+"id": 3524,
+"en": "Drip filtered at a low temperature with espresso for a smooth blend that goes down easy.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0005 …"
+},
+{
+"id": 3525,
+"en": "Oolong tea is the quintessential nonalcoholic drink. Enjoy its exquisite fragrance and flavor.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0045 …"
+},
+{
+"id": 3526,
+"en": "This tea goes well with anything. Its polyphenol is said to eliminate body fat.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3527,
+"en": "Mineral water from the Southern Alps, extracted from the virgin snow atop Mount Kai-Komagatake.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0005 …"
+},
+{
+"id": 3528,
+"en": "The cool, clear waters from the expansive beech forest near the Daisen peak give this bottled mineral water a soft taste.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0012 …"
+},
+{
+"id": 3529,
+"en": "Mt. Aso acts as a natural filter for the smooth-tasting mineral water that bubbles up at its base.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0009 …"
+},
+{
+"id": 3530,
+"en": "Carefully selected tea leaves brewed with spring water by Kyoto's reputable Fukujuen Tea Company.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3531,
+"en": "Green tea brewed with tea leaves carefully selected by Kyoto's famed Fukujuen Tea Company for a deep, concentrated flavor.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3532,
+"en": "Lemon soda packed with seventy lemons' worth of vitamin C and juice squeezed from real lemons. Refreshing and healthy.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0005 …"
+},
+{
+"id": 3533,
+"en": "This mild sports drink made from eleven fruits and other ingredients has a sweet grapefruit flavor you'll love.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0005 …"
+},
+{
+"id": 3534,
+"en": "This giant drink is formulated with vitamin C, a healthy dose of other vitamins, and royal jelly.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0008 …"
+},
+{
+"id": 3535,
+"en": "Packs 1,000 mg of vitamin C, as much as fifty whole lemons! It's perfect for quickly rehydrating the body.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0005 …"
+},
+{
+"id": 3536,
+"en": "This carbonated beverage has been a favorite in France since 1936. Enjoy the delectable flavor of sun-bathed oranges.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0005 …"
+},
+{
+"id": 3537,
+"en": "A healthy sesame and barley tea. The peptides in its sesame seeds can lower blood pressure.",
+"ctx": "tabla item|EXPLANATION"
+}
+]

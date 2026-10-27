@@ -1,0 +1,39 @@
+﻿PRIMER PASO: INSTALAR PARTOOL (solo una vez, 2 minutos)
+=========================================================
+
+Estas herramientas necesitan ParTool, un programa gratuito y de código abierto
+(proyecto ParManager, de Kaplas80) que abre y rearma los archivos .par de los
+juegos de Yakuza. No viene incluido porque Nexus Mods no permite subir .exe
+de otros autores: se descarga de su página oficial.
+
+1) DESCARGAR
+   Abre este enlace directo (se descarga solo, unos 13 MB):
+
+   https://github.com/Kaplas80/ParManager/releases/download/v1.3.4/v1.3.4-windows-x64.zip
+
+   Si el enlace no funciona, entra en la página oficial y baja el archivo
+   «v1.3.4-windows-x64.zip»:
+   https://github.com/Kaplas80/ParManager/releases/tag/v1.3.4
+
+2) DESCOMPRIMIR
+   Clic derecho en «v1.3.4-windows-x64.zip» > «Extraer todo...» > «Extraer».
+   Dentro hay un solo archivo: ParTool.exe
+
+3) COPIAR
+   Copia ParTool.exe dentro de la carpeta de estas herramientas, en:
+
+      Yakuza 5 - Herramientas para traduccion v1.0.1\programas\ParTool
+   Debe quedar así:
+      Yakuza 5 - Herramientas para traduccion v1.0.1\programas\ParTool\ParTool.exe
+
+4) LISTO
+   Ya puedes usar «EXTRAER textos.bat» y «APLICAR textos.bat»
+   (instrucciones en COMO_USAR.txt).
+   Si ParTool no está en su sitio, el programa te avisará y te dirá dónde ponerlo.
+
+PREGUNTAS
+- ¿Es seguro? Sí: es la herramienta que usa la comunidad de Yakuza desde hace
+  años; el código está a la vista en https://github.com/Kaplas80/ParManager
+- ¿Otra versión? Usa la 1.3.4, que es con la que se probaron estas herramientas.
+- Windows dice «Windows protegió su PC»: pulsa «Más información» > «Ejecutar de
+  todas formas» (pasa con programas que no están firmados).

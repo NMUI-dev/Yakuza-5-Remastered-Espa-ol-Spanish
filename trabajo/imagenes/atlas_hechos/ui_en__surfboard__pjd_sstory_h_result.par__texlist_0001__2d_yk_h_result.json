@@ -1,0 +1,252 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_h_result.par/texlist_0001/2d_yk_h_result",
+ "fuente": "segoeui.ttf",
+ "margen": 4,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    230,
+    184,
+    282,
+    204
+   ],
+   "en": "Singing",
+   "es": "Canto",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 42,
+   "fondo": "lama",
+   "mediana": false
+  },
+  {
+   "caja": [
+    40,
+    337,
+    112,
+    355
+   ],
+   "en": "Appeal",
+   "es": "Encanto",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 62,
+   "fondo": "lama",
+   "mediana": false
+  },
+  {
+   "caja": [
+    406,
+    337,
+    471,
+    355
+   ],
+   "en": "Basic Skill",
+   "es": "Técnica",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 55,
+   "fondo": "lama",
+   "mediana": false
+  },
+  {
+   "caja": [
+    216,
+    489,
+    297,
+    507
+   ],
+   "en": "Performance",
+   "es": "Actuación",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 71,
+   "fondo": "lama",
+   "mediana": false
+  },
+  {
+   "caja": [
+    0,
+    512,
+    256,
+    538
+   ],
+   "en": "Agency Level",
+   "es": "Nivel de agencia",
+   "fuente": "consola.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 246
+  },
+  {
+   "caja": [
+    0,
+    538,
+    256,
+    564
+   ],
+   "en": "Fans",
+   "es": "",
+   "fuente": "consola.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 246
+  },
+  {
+   "caja": [
+    0,
+    564,
+    256,
+    592
+   ],
+   "en": "Idol Ability",
+   "es": "Habilidad de idol",
+   "fuente": "consola.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 246
+  },
+  {
+   "caja": [
+    0,
+    616,
+    256,
+    638
+   ],
+   "en": "Enhanced Lessons",
+   "es": "Lecciones extra",
+   "fuente": "consola.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 246,
+   "mediana": false,
+   "alto": 15
+  },
+  {
+   "caja": [
+    0,
+    638,
+    256,
+    660
+   ],
+   "en": "Enhanced Media",
+   "es": "Medios extra",
+   "fuente": "consola.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 246,
+   "mediana": false,
+   "alto": 15
+  },
+  {
+   "caja": [
+    0,
+    660,
+    256,
+    682
+   ],
+   "en": "Enhanced Publicity",
+   "es": "Publicidad extra",
+   "fuente": "consola.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 246,
+   "mediana": false,
+   "alto": 15
+  },
+  {
+   "caja": [
+    145,
+    0,
+    290,
+    16
+   ],
+   "en": "LV. RESULTS",
+   "es": "",
+   "fuente": "consola.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 135,
+   "dejar": true
+  },
+  {
+   "caja": [
+    440,
+    95,
+    505,
+    122
+   ],
+   "en": "UP!",
+   "es": "",
+   "fuente": "consola.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 55,
+   "dejar": true
+  }
+ ]
+}

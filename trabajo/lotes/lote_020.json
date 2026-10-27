@@ -1,0 +1,2312 @@
+[
+{
+"id": 5325,
+"en": "I don't mind if you watch.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5326,
+"en": "Kiryu-san...?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5327,
+"en": "Hey, Kiryu-san...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5328,
+"en": "I've never had ramen in the bath before!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5329,
+"en": "Hmm, I think I'll have soft noodles.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5330,
+"en": "What will you have, Kiryu-san?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5331,
+"en": "You really like your noodles hard, Kiryu-san...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5332,
+"en": "I can't eat all this...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5333,
+"en": "But maybe I'll try a bite...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5334,
+"en": "Hey, Saejima-san...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5335,
+"en": "*sigh*",
+"ctx": "menú/texto string_tbl + tabla idol_handshake_voice|IDOL_WRONG_VOICE …"
+},
+{
+"id": 5336,
+"en": "I think I'm getting flushed...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5337,
+"en": "I can't move on my own...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5338,
+"en": "Would you take me... back to the bedroom?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5339,
+"en": "Saejima-san?",
+"ctx": "menú/texto string_tbl + diálogo uid00091a47"
+},
+{
+"id": 5340,
+"en": "Saejima-san...?",
+"ctx": "menú/texto string_tbl + diálogo uid010c0bf8"
+},
+{
+"id": 5341,
+"en": "An outdoor bath with a snowy view is the best!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5342,
+"en": "Eep! But the cold stings my face...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5343,
+"en": "I might warm up... if you're next to me.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5344,
+"en": "Hey... Saejima-san...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5345,
+"en": "Isn't it warm?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5346,
+"en": "Hey, let's get in together...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5347,
+"en": "Hehe. This is a little embarrassing.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5348,
+"en": "Let's warm up together, Akiyama-san.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5349,
+"en": "Akiyama-san...?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5350,
+"en": "Hey... Akiyama-san...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5351,
+"en": "I'm ready for the hot springs!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5352,
+"en": "The water here is supposed to be great for your skin.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5353,
+"en": "Hey, cameraman, where are you pointing that thing?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5354,
+"en": "That's against the rules, hehe.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5355,
+"en": "But... I'll let it slide for research.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5356,
+"en": "Hey... Shinada-san...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5357,
+"en": "I think my boobs got bigger again.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5358,
+"en": "See? Aren't they amazing?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5359,
+"en": "Take a closer look, if you want.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5360,
+"en": "Shinada-san...?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5361,
+"en": "Shinada-san!",
+"ctx": "menú/texto string_tbl + menú/texto mail …"
+},
+{
+"id": 5362,
+"en": "Oh, Shinada-san! This is the women's bath, you know?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5363,
+"en": "You naughty boy.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5364,
+"en": "Don't make such a fuss.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5365,
+"en": "We might as well get in together.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5366,
+"en": "I'll teach you...\nthe French style of bathing.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5367,
+"en": "Bon voyage!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5368,
+"en": "Hey... I'll wash your back.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5369,
+"en": "Come on, get a little closer...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5370,
+"en": "Kiryu-san, wash my back too...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5371,
+"en": "Hey! Are you thinking of something naughty!?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5372,
+"en": "You're so naughty!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5373,
+"en": "B-But, um... I won't say I'm not interested...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5374,
+"en": "Will you... teach me a few things?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5375,
+"en": "Hey... Kiryu-san...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5376,
+"en": "Hot Spring Guest",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5377,
+"en": "Victory",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5378,
+"en": "Defeat",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5379,
+"en": "Receipt",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5380,
+"en": "Cover Charge",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5381,
+"en": "Hostess Selection",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5382,
+"en": "Food/Drink",
+"ctx": "menú/texto string_tbl + tabla complete_select|NAME"
+},
+{
+"id": 5383,
+"en": "Service Charge",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5384,
+"en": "Total",
+"ctx": "menú/texto string_tbl + menú/texto judge"
+},
+{
+"id": 5385,
+"en": "%s (discounted)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5386,
+"en": "Choose a Subject to Talk About",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5387,
+"en": "Ask a Question",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5388,
+"en": "Make an Additional Order",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5389,
+"en": "Give a Gift",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5390,
+"en": "Invite to a Date",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5391,
+"en": "Leave",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5392,
+"en": "Eyebrows",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5393,
+"en": "Eyelashes",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5394,
+"en": "Eyeliner",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5395,
+"en": "Eye Shadow",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5396,
+"en": "Glitter Eye Shadow",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5397,
+"en": "Color Contacts",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5398,
+"en": "Blush",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5399,
+"en": "Glitter Blush",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5400,
+"en": "Lipstick",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5401,
+"en": "Done",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5402,
+"en": "Black",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5403,
+"en": "Gold",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5404,
+"en": "Brown",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5405,
+"en": "Color A",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5406,
+"en": "Color B",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5407,
+"en": "Color C",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5408,
+"en": "Color D",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5409,
+"en": "Color E",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5410,
+"en": "Casual Wear",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5411,
+"en": "Owned",
+"ctx": "menú/texto string_tbl + menú/texto armsshop_arms …"
+},
+{
+"id": 5412,
+"en": "Default Hairstyle",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5413,
+"en": "Please choose clothes to replace casual wear.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5414,
+"en": "Cannot change into casual wear.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5415,
+"en": "Each command can be used once.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5416,
+"en": "You don't have enough money.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5417,
+"en": "Reset settings?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5418,
+"en": "Confirm settings?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5419,
+"en": "Save current settings?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5420,
+"en": "Load saved settings.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5421,
+"en": "Change name?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5422,
+"en": "Select accessories.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5423,
+"en": "Cancel changes?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5424,
+"en": "Achieved ${value} regular customers!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5425,
+"en": "Received a gift!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5426,
+"en": "Angered the customer.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5427,
+"en": "Satisfied the customer!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5428,
+"en": "Enter a name.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5429,
+"en": "Hiyori",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5430,
+"en": "Kyoko",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5431,
+"en": "Nanami",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5432,
+"en": "Lily",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5433,
+"en": "Nanashi",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5434,
+"en": "Refined",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5435,
+"en": "Gorgeous",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5436,
+"en": "Cute",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5437,
+"en": "Flashy",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5438,
+"en": "Total Sales",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5439,
+"en": "Individual Sales",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5440,
+"en": "Requested",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5441,
+"en": "Bonus",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5442,
+"en": "Profit",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5443,
+"en": "Remaining Balance",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5444,
+"en": "Wagered Chips:",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5445,
+"en": "Chips Left:",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5446,
+"en": "Place your bet. You can bet up to %s chips.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5447,
+"en": "Are you done betting?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5448,
+"en": "The odds here are %d. You can bet %s more chips.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5449,
+"en": "The odds here are %d. You already bet %s chips.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5450,
+"en": "The odds here are %d. You cannot bet any more chips.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5451,
+"en": "You don't have enough chips.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5452,
+"en": "You can only place five bets.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5453,
+"en": "Total bet: %s, Payout: %s",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5454,
+"en": "Would you like to keep playing?",
+"ctx": "menú/texto string_tbl + diálogo uid01070968 …"
+},
+{
+"id": 5455,
+"en": "Strategies",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5456,
+"en": "Among the surviving markers, there are %d blue and %d yellow ones.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5457,
+"en": "%d of player's markers × 3000, Payout: %s",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5458,
+"en": "%d of dealer's markers × -3000, Payout: %s",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5459,
+"en": "No payout chips due to a tie, Payout: %s",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5460,
+"en": "Guest Bet: %s, Guest Payout: %s, Acquired Chips: %s",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5461,
+"en": "Please wait until the guests' bets are out. (You can skip this by pressing <Action:Button_Circle@Roulette>.)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5462,
+"en": "Skip the bets?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5463,
+"en": "Take insurance?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5464,
+"en": "Re-bet",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5465,
+"en": "Hit",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5466,
+"en": "Stand",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5467,
+"en": "Double Down",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5468,
+"en": "Split",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5469,
+"en": "Surrender",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5470,
+"en": "Normal Rules",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5471,
+"en": "No 2/3/4 cards",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5472,
+"en": "No 7/8/9 cards",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5473,
+"en": "No J/Q/K cards",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5474,
+"en": "Low Stakes (10/100)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5475,
+"en": "High Stakes (100/1000)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5476,
+"en": "Play for High Stakes",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5477,
+"en": "Continue Standard Game",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5478,
+"en": "Keep Playing",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5479,
+"en": "Gain",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5480,
+"en": "Don't bet.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5481,
+"en": "Match previous player's bet.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5482,
+"en": "Bet more than previous player.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5483,
+"en": "Bet a fixed amount.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5484,
+"en": "Stop betting and fold.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5485,
+"en": "End this round.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5486,
+"en": "Basic Rules",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5487,
+"en": "Poker Hands",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5488,
+"en": "Texas Hold'em",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5489,
+"en": "Pineapple",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5490,
+"en": "Omaha",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5491,
+"en": "Standard Game",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5492,
+"en": "Select the betting limit.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5493,
+"en": "Draw",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5494,
+"en": "Banker Win",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5495,
+"en": "Player Win",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5496,
+"en": "Super 6",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5497,
+"en": "Banker Pair",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5498,
+"en": "Player Pair",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5499,
+"en": "Tie",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5500,
+"en": "Banker",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5501,
+"en": "Prediction",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5502,
+"en": "Bet X ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5503,
+"en": "Payouts",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5504,
+"en": "<Action:Button_Cross@UfoCatcher> Accept",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5505,
+"en": "Play? (100 yen for 1 credit.)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5506,
+"en": "Play? (200 yen for 1 credit.)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5507,
+"en": "Not enough money. Exiting.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5508,
+"en": "Start Game / Insert Coin ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5509,
+"en": "Pause / Quit",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5510,
+"en": "Lever Input",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5511,
+"en": "<Action:Button_L1><Action:Button_R1> Switch",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5512,
+"en": "Input device %d Settings",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5513,
+"en": "<Action:Button_Cross> Select  ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5514,
+"en": "<Action:Button_Circle> Back  ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5515,
+"en": "<Sign:24> Zoom In  ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5516,
+"en": "<Sign:24> Zoom Out  ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5517,
+"en": "<Action:Button_Square> Background Off ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5518,
+"en": "<Action:Button_Square> Background On ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5519,
+"en": "Wins",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5520,
+"en": "Win Rate",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5521,
+"en": "Rematch",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5522,
+"en": "Return to Character Select",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5523,
+"en": "Return to Main Menu",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5524,
+"en": "Lau Chan",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5525,
+"en": "Sarah Bryant",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5526,
+"en": "Shun Di",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5527,
+"en": "Pai Chan",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5528,
+"en": "Lion Rafale",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5529,
+"en": "Jeffry McWild",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5530,
+"en": "Kage Maru",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5531,
+"en": "Jacky Bryant",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5532,
+"en": "Wolf Hawkfield",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5533,
+"en": "Akira Yuki",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5534,
+"en": "Dural",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5535,
+"en": "Matches",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5536,
+"en": "%s Matches",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5537,
+"en": "%s Wins",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5538,
+"en": "You can play matches easily with other players.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5539,
+"en": "Create a room and wait for an opponent. You can also lock it with a password.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5540,
+"en": "You can search for a room and play as well. You can also narrow your search down to the players you saved as rivals and match up against them as well.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5541,
+"en": "Standby Comment Selection",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5542,
+"en": "Let's have a casual match.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5543,
+"en": "Let's have a serious match.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5544,
+"en": "Please be my practice partner.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5545,
+"en": "Let's make this a good one.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5546,
+"en": "Just one match please.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5547,
+"en": "Let's play a few in a row.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5548,
+"en": "Let's go with the flow.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5549,
+"en": "I'm still a beginner.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5550,
+"en": "I'm not too bad.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5551,
+"en": "I'm pretty strong.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5552,
+"en": "I have pro level skills.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5553,
+"en": "I'm a Virtua Fighter beginner.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5554,
+"en": "I've been playing Virtua Fighter for 5 years.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5555,
+"en": "I've been playing Virtua Fighter for 10 years.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5556,
+"en": "I've been playing Virtua Fighter for 15 years.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5557,
+"en": "I've been playing Virtua Fighter for 20 years.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5558,
+"en": "I'm an Akira user.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5559,
+"en": "I'm a Pai user.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5560,
+"en": "I'm a Lau user.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5561,
+"en": "I'm a Wolf user.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5562,
+"en": "I'm a Jeffry user.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5563,
+"en": "I'm a Kage user.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5564,
+"en": "I'm a Sarah user.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5565,
+"en": "I'm a Jacky user.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5566,
+"en": "I'm a Shun user.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5567,
+"en": "I'm a Lion user.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5568,
+"en": "I'm a Dural user.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5569,
+"en": "I want to fight against stronger players.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5570,
+"en": "You're ten years too early!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5571,
+"en": "I need to work more on my Kung Fu.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5572,
+"en": "Your Kung Fu was not enough.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5573,
+"en": "I'll beat you next time.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5574,
+"en": "You lack training! ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5575,
+"en": "It won't go this way next time!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5576,
+"en": "Woooooo",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5577,
+"en": "Child's play!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5578,
+"en": "Namu.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5579,
+"en": "I will not complain.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5580,
+"en": "Even good guys blow it!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5581,
+"en": "My foot is lightning!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5582,
+"en": "You can't beat me.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5583,
+"en": "Hey young one, take it easy on me next time.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5584,
+"en": "What's a knucklehead!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5585,
+"en": "I want to fight more!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5586,
+"en": "Looking for quick match",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5587,
+"en": "Spectator",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5588,
+"en": "On",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5589,
+"en": "Off",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5590,
+"en": "Both",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5591,
+"en": "Version",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5592,
+"en": "Version 2",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5593,
+"en": "Version 2.1",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5594,
+"en": "Password",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5595,
+"en": "Opponent Name",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5596,
+"en": "Manual Input",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5597,
+"en": "Don't search with name",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5598,
+"en": "Matches Descending Order",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5599,
+"en": "Matches Ascending Order",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5600,
+"en": "Wins Descending Order",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5601,
+"en": "Wins Ascending Order",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5602,
+"en": "Opponent Name Ascending Order",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5603,
+"en": "Opponent Name Descending Order",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5604,
+"en": "By Connectivity",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5605,
+"en": "By Rivals",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5606,
+"en": "By Non-Rivals",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5607,
+"en": "By Password",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5608,
+"en": "By Non-Password",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5609,
+"en": "Search Again",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5610,
+"en": "Custom Matches is a mode where you can select opponents that are waiting for a match and play them. Narrow your search and play an opponent that is to your liking.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5611,
+"en": "Change Message",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5612,
+"en": "Begin Match",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5613,
+"en": "Save as a Rival?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5614,
+"en": "Connection was lost. Returning to 2 player match game selection screen.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5615,
+"en": "Failed to search for a room. Please try again.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5616,
+"en": "Failed to find a room. Please try again.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5617,
+"en": "Create a Room",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5618,
+"en": "Search for a Room",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5619,
+"en": "Unable to play due to not being connected to the PlayStation%sNetwork. Returning to 2 player match game selection screen.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5620,
+"en": "Signed out from PlayStation%sNetwork. Unable to play against other players online. Returning to 2 player match game selection screen.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5621,
+"en": "Unable to connect to the host.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5622,
+"en": "Disconnected from Room.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5623,
+"en": "The Room has already disbanded.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5624,
+"en": "Room is full and cannot be entered.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5625,
+"en": "Opponent has left the room. Returning to menu.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5626,
+"en": "Waiting for match to begin. %s",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5627,
+"en": "Beginning match. %s",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5628,
+"en": "Entering Room.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5629,
+"en": "Entering Room. %s",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5630,
+"en": "Please enter the Room Password.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5631,
+"en": "Disconnected during match.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5632,
+"en": "Waiting for opponent to save as Rival.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5633,
+"en": "Waiting for opponent's input.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5634,
+"en": "Unable to receive connection from opponent. Ending match.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5635,
+"en": "Failed to enter Room.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5636,
+"en": "Matching process failed. Ending match.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5637,
+"en": "A matching error occured. Returning to 2 player match game selection screen.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5638,
+"en": "Since your PlayStation%sNetwork account has a chat restriction, you are unable to utilize the chat function.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5639,
+"en": "Failed to receive server information. Returning to 2 player match game selection screen.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5640,
+"en": "Unable to save due to list being full. Waiting for opponent to save as Rival.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5641,
+"en": "Remove from list",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5642,
+"en": "By saving as a Rival, you can search for them as Rivals in Custom Matches. Rivals: %d/%d",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5643,
+"en": "Room search request has timed out.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5644,
+"en": "Your created Room has been disbanded. Please create another one.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5645,
+"en": "Room creation request has timed out. Please create another one.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5646,
+"en": "Wrong Password. Failed to enter Room.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5647,
+"en": "Leave Room",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5648,
+"en": "Left the Room.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5649,
+"en": "Opponent has left the Room.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5650,
+"en": "Leaving Room. %s",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5651,
+"en": "Fluffmeister",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5652,
+"en": "Cluckzilla",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5653,
+"en": "Narcissus",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5654,
+"en": "Wind Cup",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5655,
+"en": "Novice Cup",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5656,
+"en": "Chicken Cup",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5657,
+"en": "Drake Cup",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5658,
+"en": "Dawn Cup",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5659,
+"en": "Kamikaze Cup",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5660,
+"en": "Rising Cup",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5661,
+"en": "Silver Cup",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5662,
+"en": "Crystal Cup",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5663,
+"en": "Shigure Cup",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5664,
+"en": "Tortoise Cup",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5665,
+"en": "Phoenix Cup",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5666,
+"en": "Tiger Cup",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5667,
+"en": "Dragon Cup",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5668,
+"en": "Adamant Cup",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5669,
+"en": "King Cup",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5670,
+"en": "Storm Cup",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5671,
+"en": "Black Cup",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5672,
+"en": "Skanda Cup",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5673,
+"en": "Azuchi Cup",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5674,
+"en": "Newcomer",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|STRING"
+},
+{
+"id": 5675,
+"en": "Challenger",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|STRING"
+},
+{
+"id": 5676,
+"en": "Contender",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|STRING"
+},
+{
+"id": 5677,
+"en": "Champion",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|STRING"
+},
+{
+"id": 5678,
+"en": "Sprint",
+"ctx": "menú/texto string_tbl + tabla ultimate|CATEGORY"
+},
+{
+"id": 5679,
+"en": "Distance",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5680,
+"en": "Earnest",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5681,
+"en": "Rogue",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5682,
+"en": "Fickle",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5683,
+"en": "Erratic",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5684,
+"en": "Perfect",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5685,
+"en": "Good",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5686,
+"en": "Poor",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5687,
+"en": "Lousy",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5688,
+"en": "No Skill",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5689,
+"en": "Overlord",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5690,
+"en": "Emperor",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5691,
+"en": "King",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5692,
+"en": "Talent",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5693,
+"en": "Intimidate",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5694,
+"en": "Threaten",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5695,
+"en": "No Pain",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5696,
+"en": "Rage",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5697,
+"en": "True Grit",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5698,
+"en": "Dirt Lover",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5699,
+"en": "Dark Lover",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5700,
+"en": "Starter",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5701,
+"en": "Second Wind",
+"ctx": "menú/texto string_tbl + tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 5702,
+"en": "Volatile",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5703,
+"en": "Instinct",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5704,
+"en": "Deafness",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5705,
+"en": "Cowardly",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5706,
+"en": "Dirt Hater",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5707,
+"en": "Dark Hater",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5708,
+"en": "Lash Hater",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5709,
+"en": "Depression",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5710,
+"en": "Dramatic speed boost during race.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5711,
+"en": "Slight speed boost during race.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5712,
+"en": "Negate all opponent skills.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5713,
+"en": "Boost all skill effects.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5714,
+"en": "Occasionally stop birds on both sides.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5715,
+"en": "Occasionally slow birds on both sides.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5716,
+"en": "Lower chance of stopping.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5717,
+"en": "Less stamina loss when lashed.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5718,
+"en": "Boost verbal lash effect.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5719,
+"en": "Speed rises when stamina is gone.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5720,
+"en": "Speed rises on dirt.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5721,
+"en": "Speed rises in the dark.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5722,
+"en": "Speed rises at the start.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5723,
+"en": "Speed rises in second half.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5724,
+"en": "Stamina randomly goes up/down.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5725,
+"en": "Speed up based on adjacent rival.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5726,
+"en": "Ignore opponent's Threaten skill.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5727,
+"en": "Slow down based on adjacent rival.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5728,
+"en": "Speed slows on dirt.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5729,
+"en": "Speed slows in the dark.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5730,
+"en": "Lower verbal lash effect.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5731,
+"en": "Higher chance of stopping.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5732,
+"en": "Legendary ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5733,
+"en": "Lightning ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5734,
+"en": "Flawless ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5735,
+"en": "Godspeeder ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5736,
+"en": "Flash ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5737,
+"en": "Skanda ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5738,
+"en": "Marathoner ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5739,
+"en": "Iron Heart ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5740,
+"en": "Power King ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5741,
+"en": "Dirt King ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5742,
+"en": "Dirt Champ ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5743,
+"en": "Dirt Ace ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5744,
+"en": "All-seeing ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5745,
+"en": "Mind's Eye ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5746,
+"en": "Dark Sight ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5747,
+"en": "Finagler ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5748,
+"en": "Veteran ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5749,
+"en": "Peerless ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5750,
+"en": "Lordly ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5751,
+"en": "Conqueror ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5752,
+"en": "Fitful ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5753,
+"en": "Fatigued ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5754,
+"en": "Trooper ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5755,
+"en": "Rally King ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5756,
+"en": "Tragic ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5757,
+"en": "Loser ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5758,
+"en": "Champion ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5759,
+"en": "Contender ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5760,
+"en": "Challenger ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5761,
+"en": "Fledgling ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5762,
+"en": "No Title",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5763,
+"en": "Only birds that have reached perfection in every parameter are worthy of being called a legend.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5764,
+"en": "This title is reserved for birds with maximum Leg Power and Stamina. Their speed and endurance can't be beat.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5765,
+"en": "This title is reserved for birds with the highest level of suitability on dirt and in the dark.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5766,
+"en": "This title is reserved for birds with miraculous Leg Power that gives them the speed to leave opponents in the dust.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5767,
+"en": "This title is reserved for birds with nearly maximum Leg Power. There is little chance of them losing to most opponents.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5768,
+"en": "Only birds with pride in their Leg Power can earn this title. There is little chance of losing to average opponents.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5769,
+"en": "This title is reserved for birds with maximum Stamina. Such birds are like the horses of legend that could race a thousand miles in a day.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5770,
+"en": "This title is reserved for birds with nearly maximum Stamina. Their iron hearts can take all the verbal lashing you can give them.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5771,
+"en": "Only birds with pride in their Stamina earn this title. It is a testament to their tireless cardio-pulmonary function.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5772,
+"en": "This title is reserved for birds with the highest level of suitability on dirt. They can race on the most uneven surfaces utterly unimpeded.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5773,
+"en": "This title is reserved for birds with nearly maximum suitability on dirt. They can race on uneven surfaces with minor difficulty.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5774,
+"en": "Only birds with pride in their suitability on dirt earn this title. They need not fear losing their footing on dirt tracks.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5775,
+"en": "This title is reserved for birds with the highest level of suitability in the dark. They might as well be wearing night vision goggles!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5776,
+"en": "This title is reserved for birds with nearly maximum suitability in the dark. They charge bravely ahead in near-total darkness!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5777,
+"en": "Only birds with pride in their suitability in the dark earn this title. They can find their way in even the dimmest light.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5778,
+"en": "This title is reserved for birds that have mastered Intimidate and Threaten. Their fearsome cries have stopped many a bird in its tracks.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5779,
+"en": "This title is reserved for birds that have entered hundreds of races. These are tried and true racing birds in every sense.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5780,
+"en": "This title is reserved for birds that have won three races in a row.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5781,
+"en": "This title is reserved for birds that have won ten races in a row. These are exceptionally formidable birds, even among Cochin Cup Classic contenders.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5782,
+"en": "This title is reserved for birds who have won on every course and in every class. These heroes of the Cochin world have surmounted every obstacle in their quests for greatness.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5783,
+"en": "This title is given to lazy birds that stop more than three times in a race. They have a long and hard road ahead of them.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5784,
+"en": "This title is for birds nearing the end of their careers. Start thinking about a replacement.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5785,
+"en": "This title is for birds that have won countless times after being verbally lashed in races. Who knows what darkness lies behind their eyes?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5786,
+"en": "This title is for birds that have pulled off come-from-behind wins numerous times. Their never-say-die spirit is worthy of respect.",
+"ctx": "menú/texto string_tbl"
+}
+]

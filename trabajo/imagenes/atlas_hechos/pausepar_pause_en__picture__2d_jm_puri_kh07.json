@@ -1,0 +1,38 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_kh07",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    67,
+    12,
+    441,
+    59
+   ],
+   "en": "want to eat miso cutlets,",
+   "ocr": "Wanttoeatmisocutlets,",
+   "es": "Quiero comer chuletas de miso,",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 370
+  },
+  {
+   "caja": [
+    15,
+    183,
+    470,
+    243
+   ],
+   "en": "You'll get fat, Haruka...",
+   "ocr": "Youllgetfat,Haruka..o",
+   "es": "Te vas a poner gorda, Haruka...",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 451
+  }
+ ]
+}

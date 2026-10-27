@@ -1,0 +1,952 @@
+[
+{
+"id": 58646,
+"en": "Right now, all I want is to be with you, Kiryu-san. Honestly.",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58647,
+"en": "Hinata...",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58648,
+"en": "That's all right, isn't it?",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58649,
+"en": "Whatever you'd like.",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58650,
+"en": "You again? This conversation is between me and her, amigo. You can just go and butt right out!",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58651,
+"en": "Unless you're going to tell me you've got the five million yen?",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58652,
+"en": "No... I do not.",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58653,
+"en": "Hahaha. Yeah, that's what I thought.",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58654,
+"en": "She wants to be the number one girl pronto, buddy. If you want to challenge me for that, you'd better run along and find that yen.",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58655,
+"en": "Now then, Hinata-chan. Come with me.",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58656,
+"en": "(Nothing's going to be resolved here unless I get that money. I'll have to come back.)",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58657,
+"en": "You were saying? I take it there's no problem.",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58658,
+"en": "Now then, Hinata. Who's it going to be?",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58659,
+"en": "You of course, Kiryu-san!",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58660,
+"en": "What!",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58661,
+"en": "(There's Hinata. But who's that with her?)",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58662,
+"en": "Come on now, it'll be fine. You do want to be number one, don't you?",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58663,
+"en": "If you spend this one night with me, I swear I'll spend three million yen on you at the club.",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58664,
+"en": "(This guy's a scumbag. He's trying to win Hinata over with money.)",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58665,
+"en": "Hey, are you even listening to me?",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58666,
+"en": "So? What's it gonna be, girl?",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58667,
+"en": "You'll... really spend three million?",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58668,
+"en": "(What!?)",
+"ctx": "diálogo uid0146005a + diálogo uid01690481 …"
+},
+{
+"id": 58669,
+"en": "Yeah, of course! There isn't a girl as spectacular as you in all of Kamurocho! Hell, in all of Tokyo, even!",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58670,
+"en": "And you need my help, little lady. What kind of man would I be if I left my damsel in distress?",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58671,
+"en": "Hinata.",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58672,
+"en": "Ah! Kiryu-san!",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58673,
+"en": "Hm? Hey, who in the heck are you!?",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58674,
+"en": "You're not going to do what he says, are you?",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58675,
+"en": "If you've truly gotten past your fear of having a sexual relationship with a man, then I won't stop you. I have no reason to.",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58676,
+"en": "But if you're still unable to actually open up your heart to a man, then...",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58677,
+"en": "This will only end in regret. You shouldn't go with him, Hinata.",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58678,
+"en": "Hey, butt out, pal! I'm doing this to help her fulfill her dreams!",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58679,
+"en": "Her dreams?",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58680,
+"en": "She just needs to give me a night of <Italic>my</Italic> dreams first. In return, I'll drop three million on her at the club and make her number one!",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58681,
+"en": "Look, big guy. I'm not forcing her to do anything⑬the choice is all hers. Do you have some kind of problem with that?",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58682,
+"en": "Kiryu-san, I...",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58683,
+"en": "Hinata, tell me just one thing.",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58684,
+"en": "Is your dream still to become the number one girl at Elise?",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58685,
+"en": "And you want to make that dream come true, even if it involves letting this man do what he wants to do?",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58686,
+"en": "Hahaha! I knew you'd see things my way. Now that's what I call a successful negotiation.",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58687,
+"en": "Don't feel bad, chief. You need money if you're going to make a hostess happy.",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58688,
+"en": "And if you don't like that, well, you'll just have to come up with some serious dough like me.",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58689,
+"en": "You misunderstood me. I wasn't accepting defeat.",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58690,
+"en": "You're right about one thing. It is going to take money to make Hinata's dream come true.",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58691,
+"en": "Which means that if I can pay more than you can, Hinata has no reason to go along with you.",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58692,
+"en": "Get real, you poser! If you really had more money than me, you'd need to cough up at least <Color:255,200,200,255>five million yen<Color:Default>!",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58693,
+"en": "Besides, we've already made an agreement. You can't just waltz in after the fact and take her for yourself!",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58694,
+"en": "The choice is Hinata's to make. You even said so yourself.",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58695,
+"en": "So what'll it be, Hinata? I want to hear your answer.",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58696,
+"en": "Hold up there, big boy! You really have five million on you? Let me see it!",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58697,
+"en": "Well, I don't have it on me right now.",
+"ctx": "diálogo uid0146005a"
+},
+{
+"id": 58698,
+"en": "Hinata, is that you?",
+"ctx": "diálogo uid0146005e"
+},
+{
+"id": 58699,
+"en": "What's the matter? The hotel's right over there.",
+"ctx": "diálogo uid0146005e"
+},
+{
+"id": 58700,
+"en": "Hey, you don't need to worry about a thing. Leave it all to me.",
+"ctx": "diálogo uid0146005e"
+},
+{
+"id": 58701,
+"en": "Are you with somebody right now?",
+"ctx": "diálogo uid0146005e"
+},
+{
+"id": 58702,
+"en": "I'm sorry, Kiryu-san.",
+"ctx": "diálogo uid0146005e"
+},
+{
+"id": 58703,
+"en": "(That seemed fishy. I heard that guy say something about a hotel nearby. Maybe I can find them.)",
+"ctx": "diálogo uid0146005e"
+},
+{
+"id": 58704,
+"en": "Riku? What's the matter?",
+"ctx": "diálogo uid0146005f"
+},
+{
+"id": 58705,
+"en": "So I'm over on <Color:255,200,200,255>South Chikuzengawa Street<Color:Default>, and I spotted that Subaru-san in the parkin' lot!",
+"ctx": "diálogo uid0146005f"
+},
+{
+"id": 58706,
+"en": "Subaru? Oh, right, the host.",
+"ctx": "diálogo uid0146005f"
+},
+{
+"id": 58707,
+"en": "I'm 'bout t'give him a piece of my mind!",
+"ctx": "diálogo uid0146005f"
+},
+{
+"id": 58708,
+"en": "I'm gonna make him fess up to scammin' Yuka-chan and Asumi-chan for sure this time!",
+"ctx": "diálogo uid0146005f"
+},
+{
+"id": 58709,
+"en": "What? Wait, hold on. Don't do anything rash!",
+"ctx": "diálogo uid0146005f"
+},
+{
+"id": 58710,
+"en": "(Damn it, Riku. She said she was by <Color:255,200,200,255>South Chikuzengawa Street<Color:Default>.)",
+"ctx": "diálogo uid0146005f"
+},
+{
+"id": 58711,
+"en": "(Guess they ditched their car and took cover inside that building. Now I've got them.)",
+"ctx": "diálogo uid01460064"
+},
+{
+"id": 58712,
+"en": "(This is the building. Hang on, Riku. I'm coming for you!)",
+"ctx": "diálogo uid01460064"
+},
+{
+"id": 58713,
+"en": "Don't ya ever give up!?",
+"ctx": "diálogo uid01460065"
+},
+{
+"id": 58714,
+"en": "Thank you so much. I don't know what woulda happened if y'hadn't come for me.",
+"ctx": "diálogo uid01460065"
+},
+{
+"id": 58715,
+"en": "Why did you try to take this on all by yourself?",
+"ctx": "diálogo uid01460065"
+},
+{
+"id": 58716,
+"en": "Oh no, he's gettin' away again!",
+"ctx": "diálogo uid01460065"
+},
+{
+"id": 58717,
+"en": "Damn, you're a pest if I ever seen one!",
+"ctx": "diálogo uid01460065"
+},
+{
+"id": 58718,
+"en": "You're not getting away this time.",
+"ctx": "diálogo uid01460065"
+},
+{
+"id": 58719,
+"en": "Why're ya all worked up over this bitch, anyhow?",
+"ctx": "diálogo uid01460065"
+},
+{
+"id": 58720,
+"en": "Consider this retribution for messing with innocent women. You better say your piece before I show you what the real consequences are.",
+"ctx": "diálogo uid01460065"
+},
+{
+"id": 58721,
+"en": "Aw, y'shut your damn hole! I'm gonna kill ya for this! Die!",
+"ctx": "diálogo uid01460065"
+},
+{
+"id": 58722,
+"en": "Hey. How'd it go?",
+"ctx": "diálogo uid0146010d"
+},
+{
+"id": 58723,
+"en": "Well, I'm not sure. I mean, I gave it my best shot. I think.",
+"ctx": "diálogo uid0146010d"
+},
+{
+"id": 58724,
+"en": "Ya don't know the verdict yet?",
+"ctx": "diálogo uid0146010d"
+},
+{
+"id": 58725,
+"en": "They said they'd be in touch soon if I pass.",
+"ctx": "diálogo uid0146010d"
+},
+{
+"id": 58726,
+"en": "Hey, Saejima-san?",
+"ctx": "diálogo uid0146010d"
+},
+{
+"id": 58727,
+"en": "Would you like to go get a drink with me?",
+"ctx": "diálogo uid0146010d"
+},
+{
+"id": 58728,
+"en": "Right now? But didn't they say they might be in touch soon?",
+"ctx": "diálogo uid0146010d"
+},
+{
+"id": 58729,
+"en": "I'm just too scared to wait to hear back all by myself. I'd rather have you there with me.",
+"ctx": "diálogo uid0146010d"
+},
+{
+"id": 58730,
+"en": "Well, I suppose that's fine.",
+"ctx": "diálogo uid0146010d"
+},
+{
+"id": 58731,
+"en": "And then you can tell me all about what your dreams are.",
+"ctx": "diálogo uid0146010d"
+},
+{
+"id": 58732,
+"en": "Fair warnin', my dreams are kinda big. It might be a pretty long conversation.",
+"ctx": "diálogo uid0146010d"
+},
+{
+"id": 58733,
+"en": "Sure! I'll listen for as long as it takes!",
+"ctx": "diálogo uid0146010d"
+},
+{
+"id": 58734,
+"en": "(I bet Shion-chan's in shock. What am I even supposed to say to her?)",
+"ctx": "diálogo uid0146012a"
+},
+{
+"id": 58735,
+"en": "(No, I'll figure that out later. Right now I need to go after her.)",
+"ctx": "diálogo uid0146012a"
+},
+{
+"id": 58736,
+"en": "(Where would Shion-chan go? ...I bet she's over near the Ferris wheel!)",
+"ctx": "diálogo uid0146012a"
+},
+{
+"id": 58737,
+"en": "Ya lookin' for somethin'?",
+"ctx": "diálogo uid01460148"
+},
+{
+"id": 58738,
+"en": "Yeah, just some medicine. Someone I know has some throat issues.",
+"ctx": "diálogo uid01460148"
+},
+{
+"id": 58739,
+"en": "You should hit up the pharmacy if ya wanna get somethin' to clear that up.",
+"ctx": "diálogo uid01460148"
+},
+{
+"id": 58740,
+"en": "I already tried, but I couldn't get what I wanted. That's why I'm looking around like this.",
+"ctx": "diálogo uid01460148"
+},
+{
+"id": 58741,
+"en": "Well, ya ain't gonna find no medicine lyin' around here.",
+"ctx": "diálogo uid01460148"
+},
+{
+"id": 58742,
+"en": "I know, but I thought maybe it wouldn't be so far-fetched for someone who deals in that sort of thing to be around here.",
+"ctx": "diálogo uid01460148"
+},
+{
+"id": 58743,
+"en": "Well, all we got on us is the stuff we're sellin'.",
+"ctx": "diálogo uid01460148"
+},
+{
+"id": 58744,
+"en": "The thing you're lookin' for.",
+"ctx": "diálogo uid01460148"
+},
+{
+"id": 58745,
+"en": "But that's medicine.",
+"ctx": "diálogo uid01460148"
+},
+{
+"id": 58746,
+"en": "If all ya want is to get better, you should see a doctor or buy medicine. But I'm guessin' that ain't all you're after.",
+"ctx": "diálogo uid01460148"
+},
+{
+"id": 58747,
+"en": "Ain't ya after somethin' else? And ain't that the reason why ya wanna get better?",
+"ctx": "diálogo uid01460148"
+},
+{
+"id": 58748,
+"en": "Aha!",
+"ctx": "diálogo uid01460148"
+},
+{
+"id": 58749,
+"en": "You're absolutely right. She's sick right now, but getting better isn't the only thing that matters.",
+"ctx": "diálogo uid01460148"
+},
+{
+"id": 58750,
+"en": "This is all about making her dreams come true. If that doesn't happen, then curing her sickness won't mean a thing.",
+"ctx": "diálogo uid01460148"
+},
+{
+"id": 58751,
+"en": "Now do ya see what you're really after?",
+"ctx": "diálogo uid01460148"
+},
+{
+"id": 58752,
+"en": "I think I do. It's not medicine that I need after all.",
+"ctx": "diálogo uid01460148"
+},
+{
+"id": 58753,
+"en": "You've been a huge help. Thanks.",
+"ctx": "diálogo uid01460148"
+},
+{
+"id": 58754,
+"en": "(I should go talk to that guy again. Maybe now I can buy that legendary lozenge off of him.)",
+"ctx": "diálogo uid01460148"
+},
+{
+"id": 58755,
+"en": "You did it, sir! Elise is back in business and it's doing great! Heck, we're doing even better than we were before!",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58756,
+"en": "That's excellent news.",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58757,
+"en": "In fact, we're now <Italic>the</Italic> premier cabaret club in all of Kamurocho!",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58758,
+"en": "Wow, that's really something. You've done an excellent job, Yuiko-chan. I couldn't have asked for a better manager.",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58759,
+"en": "Oh, no. It's not me you should be thanking, sir. It's all because you had your friends bring us such wonderful girls!",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58760,
+"en": "Heh. In that case, don't thank me, either. It was Kiryu-san and the others who did all the work.",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58761,
+"en": "Why don't we all just share the credit? It was a group effort, and at the end of the day, we all won by working as a team.",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58762,
+"en": "Oh, hey, I kinda like that.",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58763,
+"en": "Yeah, Shinada has it right.",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58764,
+"en": "Thank you guys. All of you.",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58765,
+"en": "So, now that everyone's chipped in, are we still going to be able to make ends meet with our original lineup of girls?",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58766,
+"en": "Yes, sir! Riku-san and the others really shook this place up. Everyone's super motivated!",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58767,
+"en": "Plus, with Hinata-san as our number one girl, I think we'll definitely be okay.",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58768,
+"en": "Well, all right, then.",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58769,
+"en": "I guess that's that. Ladies, thank you so, so much for all you've done for me.",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58770,
+"en": "If you like, you can all head back home tomorrow.",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58771,
+"en": "Awwww, but this was so much fun! I don't wanna go back 'til I've done some Tokyo sightseein'!",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58772,
+"en": "I don't mind showing you the sights.",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58773,
+"en": "Oh, that's right! I have a photo shoot for a modeling job. Maybe I'll be back in Tokyo again.",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58774,
+"en": "If ya do, hit me up.",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58775,
+"en": "I'll be sure to keep doin' my best from here on out! Job interviews make me real nervous, but I know I can do it!",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58776,
+"en": "Well, best of luck to you.",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58777,
+"en": "If this is where Shinada-san is going to be, then I'd like to stay here as well.",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58778,
+"en": "Whoa, whoa, whoa, hold on! I don't know how long I'm gonna be here, you know. Maybe it'd be better if you went back to Nagoya, yeah?",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58779,
+"en": "So everyone's leaving, then? Oh, it's going to be so lonely without you all here.",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58780,
+"en": "It's certainly been a wild ride, that's for sure.",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58781,
+"en": "Well then, I propose we celebrate!",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58782,
+"en": "Everyone, drink up! It's on the house!",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58783,
+"en": "For reals!?",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58784,
+"en": "Now that's how a real man shows his gratitude.",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58785,
+"en": "Wait, why are <Italic>you</Italic> so happy?",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58786,
+"en": "Huh? Well, it's just that folks don't usually buy me drinks, is all.",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58787,
+"en": "If you wanna drink, you can go out there and work the floor yourself. The manager could use some hands-on experience.",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58788,
+"en": "Oh, hey, that might actually be fun!",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58789,
+"en": "All right. If we're all ready, let's make a toast.",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58790,
+"en": "Does everyone have a glass?",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58791,
+"en": "No big speeches. Let's just do this.",
+"ctx": "diálogo uid01460177"
+},
+{
+"id": 58792,
+"en": "Here we are, Boom and Bust! A little room, a lot of lust!",
+"ctx": "diálogo uid01460210"
+},
+{
+"id": 58793,
+"en": "I'll bet he went with the younger gal, being that he likes 'em all innocent.",
+"ctx": "diálogo uid01460210"
+},
+{
+"id": 58794,
+"en": "That would be a reasonable assumption.",
+"ctx": "diálogo uid01460210"
+},
+{
+"id": 58795,
+"en": "Welcome! Party of two?",
+"ctx": "diálogo uid01460210"
+},
+{
+"id": 58796,
+"en": "Oh, no, we're just looking for someone. Did a balding,\nmiddle-aged guy come around asking for your new girl?",
+"ctx": "diálogo uid01460210"
+},
+{
+"id": 58797,
+"en": "Oh, yeah. He was here all right. He was peeping photo after\nphoto, girl after girl... and then he just up and left!",
+"ctx": "diálogo uid01460210"
+},
+{
+"id": 58798,
+"en": "Yep, I think we found our man. Know which way he went?",
+"ctx": "diálogo uid01460210"
+},
+{
+"id": 58799,
+"en": "See that information booth across the street? I believe he headed in there.",
+"ctx": "diálogo uid01460210"
+},
+{
+"id": 58800,
+"en": "Ah, so Uno-san resumes his hunt to humor his hidden desires.\nHow's that for a headline!?",
+"ctx": "diálogo uid01460210"
+},
+{
+"id": 58801,
+"en": "This fucking guy...",
+"ctx": "diálogo uid01460210"
+},
+{
+"id": 58802,
+"en": "Ah, a return trip to Resort Boing! How I miss your comforts.",
+"ctx": "diálogo uid01460212"
+},
+{
+"id": 58803,
+"en": "You sure your guy would go for the older chick? I dunno about this one...",
+"ctx": "diálogo uid01460212"
+},
+{
+"id": 58804,
+"en": "Oh, believe me. That man is warped beyond salvation. He'll rub himself on anything.",
+"ctx": "diálogo uid01460212"
+},
+{
+"id": 58805,
+"en": "Ahoy there!",
+"ctx": "diálogo uid01460212"
+},
+{
+"id": 58806,
+"en": "Welcome! Will you both be getting a massage today?",
+"ctx": "diálogo uid01460212"
+},
+{
+"id": 58807,
+"en": "No, sorry. I just wanted to ask if a guy came looking for\nyour new girl. A balding, middle-aged guy. Seen anyone\nlike that?",
+"ctx": "diálogo uid01460212"
+},
+{
+"id": 58808,
+"en": "Hmm. I don't recall seeing anyone with that description, no.",
+"ctx": "diálogo uid01460212"
+},
+{
+"id": 58809,
+"en": "Gah! That's a strike.",
+"ctx": "diálogo uid01460212"
+},
+{
+"id": 58810,
+"en": "See, I told you. He went straight for the younger babe.",
+"ctx": "diálogo uid01460212"
+},
+{
+"id": 58811,
+"en": "Mm, looks like it. Then I guess we're off to Boom and Bust\non the north end of Kumano Boulevard. This is already\nturning into an adventure, wouldn't you say?",
+"ctx": "diálogo uid01460212"
+},
+{
+"id": 58812,
+"en": "Oh sure, it's a real excursion...",
+"ctx": "diálogo uid01460212"
+},
+{
+"id": 58813,
+"en": "Oh, perfect. I actually know this guy.",
+"ctx": "diálogo uid01460213"
+},
+{
+"id": 58814,
+"en": "Hey! What's up, man?",
+"ctx": "diálogo uid01460213"
+},
+{
+"id": 58815,
+"en": "Oh, hey, Shinada-san. What's new?",
+"ctx": "diálogo uid01460213"
+},
+{
+"id": 58816,
+"en": "Not much. Listen, did a middle-aged guy come through here? Kinda mopey, lacking in the hair department? Most likely asking for amateurs?",
+"ctx": "diálogo uid01460213"
+},
+{
+"id": 58817,
+"en": "Oh yeah, I do remember someone like that. Why? What's going on?",
+"ctx": "diálogo uid01460213"
+},
+{
+"id": 58818,
+"en": "Nothing, we just need to talk. Any idea where he went?",
+"ctx": "diálogo uid01460213"
+},
+{
+"id": 58819,
+"en": "Hmm, not too sure. I did tell him about two of the newest\nrecruits, so he might have gone to see at least one of them.",
+"ctx": "diálogo uid01460213"
+},
+{
+"id": 58820,
+"en": "Again with the wild goose chase...",
+"ctx": "diálogo uid01460213"
+},
+{
+"id": 58821,
+"en": "Can you tell me about those recruits?",
+"ctx": "diálogo uid01460213"
+},
+{
+"id": 58822,
+"en": "Sure. There's Kurea-chan at Operation Panties. And this lady is <Italic>dynamite</Italic>. She's 34, but she doesn't look a day over 20. She's hot, fellas.",
+"ctx": "diálogo uid01460213"
+},
+{
+"id": 58823,
+"en": "Kurea-chan's an industry vet, too. Which means she's not really an amateur⑬she just changed parlors. Makes me wax philosophical over the meaning of age.",
+"ctx": "diálogo uid01460213"
+},
+{
+"id": 58824,
+"en": "That's... inspiring. And the other one?",
+"ctx": "diálogo uid01460213"
+},
+{
+"id": 58825,
+"en": "That would be Mika-chan over at Rubbe and Tucke's. The girl's barely twenty. We're talking farm-fresh, gents. And, I kid you not, she's got zero industry experience.",
+"ctx": "diálogo uid01460213"
+},
+{
+"id": 58826,
+"en": "Unfortunately, she's not all that attractive, in terms of both looks and personality. So don't expect too much out of her.",
+"ctx": "diálogo uid01460213"
+},
+{
+"id": 58827,
+"en": "I relayed all that to your buddy, too.",
+"ctx": "diálogo uid01460213"
+},
+{
+"id": 58828,
+"en": "Sheesh, could these bimbos be any more different?",
+"ctx": "diálogo uid01460213"
+},
+{
+"id": 58829,
+"en": "Hmm... A hot, promiscuous prodigy who's actually more mature\nthan she lets on...",
+"ctx": "diálogo uid01460213"
+},
+{
+"id": 58830,
+"en": "Or an innocent young flower whose petals have yet to unfurl... never mind the fact she has nothing going for her.",
+"ctx": "diálogo uid01460213"
+},
+{
+"id": 58831,
+"en": "I see! This is a test of how Uno-san would define his ideal amateur!",
+"ctx": "diálogo uid01460213"
+},
+{
+"id": 58832,
+"en": "I don't give a damn how this guy thinks. This one's on you,\nbuddy.",
+"ctx": "diálogo uid01460213"
+},
+{
+"id": 58833,
+"en": "Hmm. Oh, by the way, where would these places be located?",
+"ctx": "diálogo uid01460213"
+},
+{
+"id": 58834,
+"en": "Kurea-chan and Operation Panties are on Icho Street. It's in\nthe same building as your favorite, Club Futo Momo.",
+"ctx": "diálogo uid01460213"
+},
+{
+"id": 58835,
+"en": "Huh, go figure.",
+"ctx": "diálogo uid01460213"
+}
+]

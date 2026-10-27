@@ -1,0 +1,477 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_bowling.par/texlist/2d_jm_mg_bowling_renzoku",
+ "fuente": "segoeuiz.ttf",
+ "margen": 1,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    25,
+    16,
+    237,
+    53
+   ],
+   "en": "9 IN A ROW",
+   "es": "9 SEGUIDOS",
+   "fuente": "segoeuiz.ttf",
+   "alin": "centro",
+   "alto": 27,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     189,
+     251,
+     0
+    ],
+    "abajo": [
+     99,
+     176,
+     0
+    ],
+    "contorno": [
+     [
+      24,
+      113,
+      0
+     ],
+     2
+    ],
+    "brillo": null
+   },
+   "ancho_max": 206
+  },
+  {
+   "caja": [
+    273,
+    16,
+    504,
+    53
+   ],
+   "en": "3 IN A ROW",
+   "es": "3 SEGUIDOS",
+   "fuente": "segoeuiz.ttf",
+   "alin": "centro",
+   "alto": 27,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     189,
+     251,
+     0
+    ],
+    "abajo": [
+     99,
+     176,
+     0
+    ],
+    "contorno": [
+     [
+      24,
+      113,
+      0
+     ],
+     2
+    ],
+    "brillo": null
+   },
+   "ancho_max": 225
+  },
+  {
+   "caja": [
+    25,
+    80,
+    237,
+    117
+   ],
+   "en": "8 IN A ROW",
+   "es": "8 SEGUIDOS",
+   "fuente": "segoeuiz.ttf",
+   "alin": "centro",
+   "alto": 27,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     189,
+     251,
+     0
+    ],
+    "abajo": [
+     99,
+     176,
+     0
+    ],
+    "contorno": [
+     [
+      24,
+      113,
+      0
+     ],
+     2
+    ],
+    "brillo": null
+   },
+   "ancho_max": 206
+  },
+  {
+   "caja": [
+    273,
+    80,
+    504,
+    117
+   ],
+   "en": "2 IN A ROW",
+   "es": "2 SEGUIDOS",
+   "fuente": "segoeuiz.ttf",
+   "alin": "centro",
+   "alto": 27,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     189,
+     251,
+     0
+    ],
+    "abajo": [
+     99,
+     176,
+     0
+    ],
+    "contorno": [
+     [
+      24,
+      113,
+      0
+     ],
+     2
+    ],
+    "brillo": null
+   },
+   "ancho_max": 225
+  },
+  {
+   "caja": [
+    25,
+    144,
+    237,
+    181
+   ],
+   "en": "7 IN A ROW",
+   "es": "7 SEGUIDOS",
+   "fuente": "segoeuiz.ttf",
+   "alin": "centro",
+   "alto": 27,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     189,
+     251,
+     0
+    ],
+    "abajo": [
+     99,
+     176,
+     0
+    ],
+    "contorno": [
+     [
+      24,
+      113,
+      0
+     ],
+     2
+    ],
+    "brillo": null
+   },
+   "ancho_max": 206
+  },
+  {
+   "caja": [
+    273,
+    144,
+    504,
+    181
+   ],
+   "en": "1 IN A ROW",
+   "es": "1 SEGUIDO",
+   "fuente": "segoeuiz.ttf",
+   "alin": "centro",
+   "alto": 27,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     189,
+     251,
+     0
+    ],
+    "abajo": [
+     99,
+     176,
+     0
+    ],
+    "contorno": [
+     [
+      24,
+      113,
+      0
+     ],
+     2
+    ],
+    "brillo": null
+   },
+   "ancho_max": 225
+  },
+  {
+   "caja": [
+    25,
+    208,
+    237,
+    245
+   ],
+   "en": "6 IN A ROW",
+   "es": "6 SEGUIDOS",
+   "fuente": "segoeuiz.ttf",
+   "alin": "centro",
+   "alto": 27,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     189,
+     251,
+     0
+    ],
+    "abajo": [
+     99,
+     176,
+     0
+    ],
+    "contorno": [
+     [
+      24,
+      113,
+      0
+     ],
+     2
+    ],
+    "brillo": null
+   },
+   "ancho_max": 206
+  },
+  {
+   "caja": [
+    273,
+    208,
+    504,
+    245
+   ],
+   "en": "10 IN A ROW",
+   "es": "10 SEGUIDOS",
+   "fuente": "segoeuiz.ttf",
+   "alin": "centro",
+   "alto": 27,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     189,
+     251,
+     0
+    ],
+    "abajo": [
+     99,
+     176,
+     0
+    ],
+    "contorno": [
+     [
+      24,
+      113,
+      0
+     ],
+     2
+    ],
+    "brillo": null
+   },
+   "ancho_max": 225
+  },
+  {
+   "caja": [
+    25,
+    272,
+    237,
+    309
+   ],
+   "en": "5 IN A ROW",
+   "es": "5 SEGUIDOS",
+   "fuente": "segoeuiz.ttf",
+   "alin": "centro",
+   "alto": 27,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     189,
+     251,
+     0
+    ],
+    "abajo": [
+     99,
+     176,
+     0
+    ],
+    "contorno": [
+     [
+      24,
+      113,
+      0
+     ],
+     2
+    ],
+    "brillo": null
+   },
+   "ancho_max": 206
+  },
+  {
+   "caja": [
+    273,
+    272,
+    504,
+    309
+   ],
+   "en": "11 IN A ROW",
+   "es": "11 SEGUIDOS",
+   "fuente": "segoeuiz.ttf",
+   "alin": "centro",
+   "alto": 27,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     189,
+     251,
+     0
+    ],
+    "abajo": [
+     99,
+     176,
+     0
+    ],
+    "contorno": [
+     [
+      24,
+      113,
+      0
+     ],
+     2
+    ],
+    "brillo": null
+   },
+   "ancho_max": 225
+  },
+  {
+   "caja": [
+    25,
+    336,
+    237,
+    373
+   ],
+   "en": "4 IN A ROW",
+   "es": "4 SEGUIDOS",
+   "fuente": "segoeuiz.ttf",
+   "alin": "centro",
+   "alto": 27,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     189,
+     251,
+     0
+    ],
+    "abajo": [
+     99,
+     176,
+     0
+    ],
+    "contorno": [
+     [
+      24,
+      113,
+      0
+     ],
+     2
+    ],
+    "brillo": null
+   },
+   "ancho_max": 206
+  },
+  {
+   "caja": [
+    273,
+    336,
+    504,
+    373
+   ],
+   "en": "12 IN A ROW",
+   "es": "12 SEGUIDOS",
+   "fuente": "segoeuiz.ttf",
+   "alin": "centro",
+   "alto": 27,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     189,
+     251,
+     0
+    ],
+    "abajo": [
+     99,
+     176,
+     0
+    ],
+    "contorno": [
+     [
+      24,
+      113,
+      0
+     ],
+     2
+    ],
+    "brillo": null
+   },
+   "ancho_max": 225
+  },
+  {
+   "caja": [
+    172,
+    414,
+    512,
+    512
+   ],
+   "en": "Perfect",
+   "es": "Perfecto",
+   "fuente": "seguibli.ttf",
+   "alin": "centro",
+   "alto": 74,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     236,
+     90
+    ],
+    "abajo": [
+     190,
+     135,
+     0
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     4
+    ],
+    "brillo": null
+   },
+   "ancho_max": 330
+  }
+ ],
+ "ceñido": true
+}

@@ -1,0 +1,108 @@
+{
+ "textura": "ui_en/surfboard/pjd_kyaba.par/texlist/2d_jm_kyaba_name",
+ "fuente": "timesbd.ttf",
+ "margen": 0,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    0,
+    0,
+    190,
+    32
+   ],
+   "en": "Riku Affection",
+   "es": "Afinidad con Riku",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 186
+  },
+  {
+   "caja": [
+    0,
+    32,
+    190,
+    64
+   ],
+   "en": "Kaguya Affection",
+   "es": "Afinidad con Kaguya",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 186
+  },
+  {
+   "caja": [
+    0,
+    64,
+    190,
+    96
+   ],
+   "en": "Honoka Affection",
+   "es": "Afinidad con Honoka",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 186
+  },
+  {
+   "caja": [
+    0,
+    96,
+    190,
+    128
+   ],
+   "en": "Shion Affection",
+   "es": "Afinidad con Shion",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 186
+  },
+  {
+   "caja": [
+    0,
+    128,
+    190,
+    160
+   ],
+   "en": "Hinata Affection",
+   "es": "Afinidad con Hinata",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 186
+  },
+  {
+   "caja": [
+    28,
+    236,
+    110,
+    254
+   ],
+   "en": "Affection",
+   "es": "Afinidad",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 80,
+   "mediana": false
+  },
+  {
+   "caja": [
+    118,
+    236,
+    171,
+    254
+   ],
+   "en": "RANK",
+   "es": "RANGO",
+   "fuente": "timesbi.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 51,
+   "mediana": false
+  }
+ ]
+}

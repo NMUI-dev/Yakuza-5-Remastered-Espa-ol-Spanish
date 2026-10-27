@@ -1,0 +1,75 @@
+{
+ "textura": "pausepar_idol_work_en/idol_work/2d_yk_zenryoku01",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    4,
+    0,
+    256,
+    105
+   ],
+   "en": "Running Girl",
+   "ocr": "疾走少女 Running Giri",
+   "es": "Corredora",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 248,
+   "dejar": true
+  },
+  {
+   "caja": [
+    55,
+    89,
+    154,
+    117
+   ],
+   "en": "Running",
+   "ocr": "Running",
+   "es": "Carrera",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 95,
+   "dejar": true
+  },
+  {
+   "caja": [
+    152,
+    90,
+    204,
+    113
+   ],
+   "en": "Girl",
+   "ocr": "Giri",
+   "es": "Chica",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 48,
+   "dejar": true
+  },
+  {
+   "caja": [
+    85,
+    121,
+    168,
+    151
+   ],
+   "en": "Vol. 1",
+   "ocr": "Vol. 1",
+   "es": "Vol. 1",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 79
+  }
+ ]
+}

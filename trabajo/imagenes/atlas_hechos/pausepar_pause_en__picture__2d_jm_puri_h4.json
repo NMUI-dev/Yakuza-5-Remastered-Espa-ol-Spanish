@@ -1,0 +1,38 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_h4",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    35,
+    146,
+    455,
+    200
+   ],
+   "en": "Thank you",
+   "ocr": "Thanks you forrequestingme",
+   "es": "Gracias por",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 416
+  },
+  {
+   "caja": [
+    35,
+    200,
+    455,
+    256
+   ],
+   "en": "for requesting me",
+   "ocr": "Thanks you forrequestingme",
+   "es": "elegirme",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 416
+  }
+ ]
+}

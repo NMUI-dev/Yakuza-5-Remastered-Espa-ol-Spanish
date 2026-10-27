@@ -1,0 +1,652 @@
+[
+{
+"id": 3819,
+"en": "A fang said to be from a dragon that sacked a Chinese kingdom long ago. The hero who vanquished it met an untimely death.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0082"
+},
+{
+"id": 3820,
+"en": "Legends say a dragon tore off this scale to give to a mortal in thanks for removing a curse. Its sharp edges can cut anything.",
+"ctx": "tabla item|EXPLANATION + menú/texto ex_shop0000"
+},
+{
+"id": 3821,
+"en": "This tail was taken from a wicked dragon by means of a ruse. It is said to tear stone apart as if it were paper.",
+"ctx": "tabla item|EXPLANATION + menú/texto ex_shop0000"
+},
+{
+"id": 3822,
+"en": "Dragon talons are shed every few thousand years. If used right, they are said to summon the spirits of the dead.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0082"
+},
+{
+"id": 3823,
+"en": "This pearl doesn't look like it's worth very much, but maybe you could use it for something.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3824,
+"en": "Fukuya's spicy fish roe has consistently maintained the same taste and quality since it was first introduced.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0047 …"
+},
+{
+"id": 3825,
+"en": "This fish roe is light on the spice for those who can't take the heat.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0047 …"
+},
+{
+"id": 3826,
+"en": "This spicy fish roe comes with a spicy sauce packaged separately for those who like it hot, but be prepared to sweat!",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0047 …"
+},
+{
+"id": 3827,
+"en": "The taste of this spicy fish roe harks back to our founding days. We use only domestic fish roe and our own special seasonings.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0047 …"
+},
+{
+"id": 3828,
+"en": "These famous Japanese sweets are made with a Hokkaido red bean filling wrapped in a soft, delicate, mochi-like shell.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0047"
+},
+{
+"id": 3829,
+"en": "These egg-shaped Japanese sweets are made with a fluffy marshmallow shell encasing an egg yolk bean paste. Its flavor has been loved by kids and adults for over one hundred years.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0047"
+},
+{
+"id": 3830,
+"en": "This humorous rice cracker, baked up crisp and savory, is designed to look like the mask used in Hakata Niwaka, a local folk art.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0047"
+},
+{
+"id": 3831,
+"en": "This delicacy is from Hakata's famous Hanamidori. Loaded with spicy fish roe, its homemade flavor goes perfectly with rice.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0047"
+},
+{
+"id": 3832,
+"en": "One side of these light and crispy potato chips is coated in chocolate. It's the perfect marriage of sweet and salty!",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0048"
+},
+{
+"id": 3833,
+"en": "Crispy cookies and specially blended white chocolate combine in perfect harmony to form this famous treat from Hokkaido.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0048"
+},
+{
+"id": 3834,
+"en": "This famous snack made with corn and coated in only the finest chocolate is crispy and delicately sweet.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0048"
+},
+{
+"id": 3835,
+"en": "These special milk cookies, reminiscent of those from the Meiji era, are made with a generous amount of milk from Hokkaido.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0048"
+},
+{
+"id": 3836,
+"en": "These curry-flavored rice crackers are made with a garam masala spice blend and shrimp flavoring that leave you asking \"Got more?\"",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0048"
+},
+{
+"id": 3837,
+"en": "The elusive flavor of Sekai no Yamachan's famous Nagoya-style chicken wings has been recreated in a rice cracker!",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0049 …"
+},
+{
+"id": 3838,
+"en": "Now you can easily enjoy the sublime flavor of Yamamotoya Honten's miso udon stew at home.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0049"
+},
+{
+"id": 3839,
+"en": "These Japanese sweets are made with a soft, fluffy shell filled with three varieties of bean paste for a remarkably delicate taste.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0049"
+},
+{
+"id": 3840,
+"en": "Carefully selected ingredients are used to make this famous shrimp rice cracker from Nagoya. Great taste is guaranteed!",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0049"
+},
+{
+"id": 3841,
+"en": "The use of carefully selected non-glutinous rice results in a refined flavor and a springy texture.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3842,
+"en": "This tasty snack, a perfect union of tasty squid and tangy sauce, recreates the taste only found at Daruma, Osaka's famous kushikatsu joint.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0050"
+},
+{
+"id": 3843,
+"en": "This flagship item on 551 Horai's menu is always made by hand. Some 140,000 of this hit product are sold daily.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0050"
+},
+{
+"id": 3844,
+"en": "Tako Masa's own aged soy sauce and carefully selected ingredients are used in each one of these famous handmade Osakan treats.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0050"
+},
+{
+"id": 3845,
+"en": "Microwave this frozen version of Tsuruhashi Fugetsu's famous okonomiyaki for that just-like-the-restaurant taste.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0050"
+},
+{
+"id": 3846,
+"en": "This snack uses real ingredients, including freeze-dried cabbage and tempura bits. Its sauce-and-dashi flavor is irresistible.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0050"
+},
+{
+"id": 3847,
+"en": "This tongue meat is popular for its unique flavor.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0058"
+},
+{
+"id": 3848,
+"en": "This tongue meat from carefully selected beef is soft and rich. Enjoy! ",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0058"
+},
+{
+"id": 3849,
+"en": "Meat from the belly of the cow. Popular for its incredibly rich flavor. ",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3850,
+"en": "Top-grade kalbi beef taken from the choicest parts of a single cow.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0058"
+},
+{
+"id": 3851,
+"en": "Beef back strap with a mild flavor and relatively low in fat.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3852,
+"en": "Choice sirloin taken from top-grade Japanese beef. The taste is incredible.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0058"
+},
+{
+"id": 3853,
+"en": "This beef skirt steak is actually considered to be entrails, but it's very popular nonetheless.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3854,
+"en": "Harami taken from top-grade Japanese beef. An incredible treat for your taste buds.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3855,
+"en": "Some say this choice beef intestine only finds its true worth in being burnt black.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0058 …"
+},
+{
+"id": 3856,
+"en": "A serving of succulent sea food such as shrimp, scallops, and squid.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0058"
+},
+{
+"id": 3857,
+"en": "Kimchi made from Chinese cabbage, cucumbers, daikon, and more in this tantalizing combo dish.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0058"
+},
+{
+"id": 3858,
+"en": "Eat it up with our salty sweet gochujang sauce. Delicious when roasted to a golden brown.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0058 …"
+},
+{
+"id": 3859,
+"en": "Spicy beef soup and rice is one of our house specialties.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0058"
+},
+{
+"id": 3860,
+"en": "Grill this fresh garlic until it's golden brown and delicious.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0058"
+},
+{
+"id": 3861,
+"en": "Taste our egg sushi to get an idea of our overall quality. We take special pride in this menu item.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3862,
+"en": "There are many kinds of tuna out there, but this happens to be my top-grade bluefin tuna.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0060"
+},
+{
+"id": 3863,
+"en": "Unbelievably fresh! This tender, sweet shrimp will melt in your mouth.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3864,
+"en": "Greenland and arrowtooth halibut don't cut it. This is a special cut of olive flounder.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0060"
+},
+{
+"id": 3865,
+"en": "Not all mackerel are created equal! Ours is the highest quality mackerel from Oita, so it's packed with tasty fish oil.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0060"
+},
+{
+"id": 3866,
+"en": "This octopus is from Akashi. The more you chew it, the better it tastes. That's proof of quality.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0060"
+},
+{
+"id": 3867,
+"en": "Hirame, AKA olive flounder, is right in season, and ours is all-natural.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3868,
+"en": "The choicest of all horse mackerel, a summer fish best eaten as sashimi.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0060"
+},
+{
+"id": 3869,
+"en": "The shiny color of this splendid alfonsino is a feast for the eyes. It's fatty and melts in your mouth!",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3870,
+"en": "Can you tell natural and artificial salmon roe apart? This here's the best in the business.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3871,
+"en": "Did you know that akagai clams have red blood? Ancient records speak of an akagai goddess named Princess Kisagahi.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3872,
+"en": "This is the richest meat from my top-grade bluefin tuna. It'll melt in your mouth.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0060"
+},
+{
+"id": 3873,
+"en": "This is top-grade abalone right here. Discount hunters had best look elsewhere.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0060"
+},
+{
+"id": 3874,
+"en": "This top-grade sea urchin is straight from Numazu Port and as fresh as can be. Not a trace of preservatives!",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3875,
+"en": "This luxurious sushi is made from an entire sea eel that has been stewed to tender perfection.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0060"
+},
+{
+"id": 3876,
+"en": "This Mozzarella Cheese Caprese uses fresh tomatoes and mozzarella cheese topped with light olive oil.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3877,
+"en": "This octopus carpaccio is made with tender Hokkaido octopus and zesty ponzu sauce.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3878,
+"en": "A salad of avocado and shrimp topped with a light, perfectly matched Japanese dressing.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0062"
+},
+{
+"id": 3879,
+"en": "These spicy, bite-sized Hawaiian sausages go great with beer.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3880,
+"en": "The crisp texture and fresh aroma of healthy burdock, transformed into delicious fries.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0062"
+},
+{
+"id": 3881,
+"en": "Made by seasoning Hokkaido Matilda potatoes with green chili peppers and chipotle salt.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3882,
+"en": "This spicy sausage seasoned with chipotle salt is oven-roasted to juicy perfection.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3883,
+"en": "Everyone's favorite pizza with a mix of toppings and extra cheese, baked until golden brown and delicious.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0062"
+},
+{
+"id": 3884,
+"en": "Bite-size pieces of crunchy white fish paired with crispy french fries.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3885,
+"en": "This gin-based cocktail is made with ginger ale and a twist of lime.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3886,
+"en": "A Tequila Rickey is tequila mixed with soda and plenty of lime.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3887,
+"en": "The bittersweet magic of Campari is mixed with a freshly squeezed orange in this version of the classic rickey.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0063"
+},
+{
+"id": 3888,
+"en": "Kahlua liqueur is mixed with soda water and freshly squeezed lemon in this version of the classic rickey.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0063"
+},
+{
+"id": 3889,
+"en": "This drink is made by mixing Kakubin with lemon and soda. The \"XL\" refers to its size, so you can take your time drinking it.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3890,
+"en": "This lighter drink made by mixing Kakubin with enough lemon and soda to soften the taste. The \"XL\" refers to its size.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3891,
+"en": "A sweet, fruity cocktail built on a brandy base.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0063"
+},
+{
+"id": 3892,
+"en": "Enjoy the fine flavor of this Macallan-based highball. Goes down smooth.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3893,
+"en": "Yamazaki whisky mixed with lemon and soda served in a copper tumbler to keep it cold.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3894,
+"en": "Japan's famous single malt whisky. Owes its delectably smooth taste to its matured and precisely procured malt.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0063"
+},
+{
+"id": 3895,
+"en": "A specially distilled Bowmore with a delicate floral fragrance that culminates in a bourbon vanilla finish.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0063"
+},
+{
+"id": 3896,
+"en": "Considered to be the Laphroaig standard. It boasts an intense peat-smoky tanginess.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0063"
+},
+{
+"id": 3897,
+"en": "This whisky is an old Japanese favorite. It's fondly known as the \"daruma\" because its round shape resembles a daruma doll.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0063"
+},
+{
+"id": 3898,
+"en": "Early Times first hit the market in 1860. Enjoyed by bourbon drinkers for over 150 years, you can say it's synonymous with bourbon.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3899,
+"en": "Spaghetti made with eggplant, tomato sauce, and savory bacon imported from Denmark.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0064"
+},
+{
+"id": 3900,
+"en": "Our Shrimp & Tomato Spaghetti is made with succulent mini shrimp and rich tomato cream sauce. A delightful and savory delicacy.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0064"
+},
+{
+"id": 3901,
+"en": "This extravagant pasta dish uses a generous amount of ripe avocado and tasty shrimp covered in a rich pesto sauce.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0064"
+},
+{
+"id": 3902,
+"en": "This delicious spaghetti dish is made with spicy chili pepper fish roe.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3903,
+"en": "This pasta dish is an old favorite, featuring a soft-boiled egg over a rich, creamy sauce.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3904,
+"en": "Generous amounts of fresh, raw sea urchin and scallops topped by a creamy sauce.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0064 …"
+},
+{
+"id": 3905,
+"en": "Homemade garlic oil and red pepper flakes are a perfect match for bacon and komatsuna salad greens in this pasta dish.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0064"
+},
+{
+"id": 3906,
+"en": "Made from freshly juiced Italian oranges that provide a refreshing blend of sweet and sour flavors.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3907,
+"en": "This hot coffee is made with one hundred percent Brazilian coffee beans for a rich, authentic flavor.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0065"
+},
+{
+"id": 3908,
+"en": "Made with one hundred percent Brazilian coffee beans. Watered down to alleviate the bitterness.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3909,
+"en": "A perfect marriage of rich milk and Brazilian coffee beans. Truly a match made in heaven.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0065"
+},
+{
+"id": 3910,
+"en": "A classic blend of rich espresso and frothy milk.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0065"
+},
+{
+"id": 3911,
+"en": "A rich, refreshing beverage made with fresh milk. Possesses a soothing aroma.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3912,
+"en": "Nothing like a refreshing, highly nutritious glass of milk.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3913,
+"en": "Our espresso is made with finely ground, one hundred percent Brazilian coffee beans for a deep, rich flavor.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0065"
+},
+{
+"id": 3914,
+"en": "Tofu handmade from the finest organic soybeans, allowing the rich, natural flavor to come through.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0043"
+},
+{
+"id": 3915,
+"en": "This combo platter features five of the most popular grilled skewer items.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0067"
+},
+{
+"id": 3916,
+"en": "The chicken and green onions on these savory skewers are a match made in heaven.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0067"
+},
+{
+"id": 3917,
+"en": "This old favorite is made from juicy chicken fried up crispy and delicious.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0067"
+},
+{
+"id": 3918,
+"en": "Enjoy the crunch of fresh, organic daikon in this tasty salad.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0067"
+},
+{
+"id": 3919,
+"en": "Enjoy the seasonal delights of the sea with this platter of carefully selected seafood, brought straight from the ocean to your plate.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0067 …"
+},
+{
+"id": 3920,
+"en": "This hit menu item features savory grilled smelt fish packed with roe.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0067"
+},
+{
+"id": 3921,
+"en": "Fresh vegetables, ripe avocado, and plump shrimp are wrapped in rice paper and served with a deliciously spicy dipping sauce.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0067"
+},
+{
+"id": 3922,
+"en": "Enjoy fresh cabbage wrapped in dough and grilled to perfection. This Osaka favorite is the real deal.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0067"
+},
+{
+"id": 3923,
+"en": "This chazuke is made from tasty chicken broth gently poured over white rice.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0067"
+},
+{
+"id": 3924,
+"en": "Rich vanilla ice cream sprinkled with roasted soy flour and topped with brown sugar syrup to make an exquisite sundae.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0067"
+},
+{
+"id": 3925,
+"en": "This stewed dish features meat and vegetables in a white miso base that everyone is raving about, even on TV.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0067"
+},
+{
+"id": 3926,
+"en": "From first mug to last, this draft beer never disappoints.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0045 …"
+},
+{
+"id": 3927,
+"en": "The fragrance and flavor of freshly squeezed lemon juice make this cocktail thoroughly enjoyable.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0066"
+},
+{
+"id": 3928,
+"en": "This old standard is made with Japanese plum-infused shochu mixed with soda water.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0047 …"
+},
+{
+"id": 3929,
+"en": "The distinctive flavor of oolong tea really comes through in this cocktail. Goes well with any food.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0042 …"
+},
+{
+"id": 3930,
+"en": "Japanese plum-infused shochu and freshly squeezed lemon over ice make for an extravagantly delicious drink.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0066"
+},
+{
+"id": 3931,
+"en": "This cocktail is made with fresh orange juice and gelatin packed with collagen.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0066"
+},
+{
+"id": 3932,
+"en": "This cocktail made from Black Nikka whisky mixed with cola goes down easy.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0066"
+},
+{
+"id": 3933,
+"en": "This old standard is a mix of gin, tonic water, and lime juice.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3934,
+"en": "This well-known cocktail is made from vodka, lime juice, and ginger ale.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0066"
+},
+{
+"id": 3935,
+"en": "This old favorite is a mix of cassis liqueur and oolong tea. ",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0066"
+},
+{
+"id": 3936,
+"en": "Whisky mixed with cider makes for a refreshing cocktail that goes down easy.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0066"
+},
+{
+"id": 3937,
+"en": "Shochu mixed with cider makes for a brand-new experience.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0066"
+},
+{
+"id": 3938,
+"en": "This cocktail features a blend of gin, whisky, vodka, and cola. Legends say it will give you the power of a dragon.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0066"
+},
+{
+"id": 3939,
+"en": "This savory Japanese pancake is made with succulent pieces of bacon.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0029"
+},
+{
+"id": 3940,
+"en": "This savory Japanese pancake is made with shrimp.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0029"
+},
+{
+"id": 3941,
+"en": "This savory Japanese pancake is made with shrimp and squid.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0029"
+},
+{
+"id": 3942,
+"en": "This savory Japanese pancake is made with beef sinew and green onions.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0029"
+},
+{
+"id": 3943,
+"en": "This savory Japanese pancake is made with potatoes, mochi, and cheese.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0029 …"
+},
+{
+"id": 3944,
+"en": "This savory Japanese pancake is made with pork and kimchi.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0029"
+},
+{
+"id": 3945,
+"en": "This savory Japanese pancake is a Tsuruhashi Fugetsu original.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0029"
+},
+{
+"id": 3946,
+"en": "This savory Japanese pancake is made with pork and topped with fresh noodles before it's fried to perfection.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0029"
+},
+{
+"id": 3947,
+"en": "This savory Japanese pancake is made with shrimp and topped with fresh noodles before it's fried to perfection.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0029"
+},
+{
+"id": 3948,
+"en": "This savory Japanese pancake topped with noodles is a Tsuruhashi Fugetsu original.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0029 …"
+}
+]

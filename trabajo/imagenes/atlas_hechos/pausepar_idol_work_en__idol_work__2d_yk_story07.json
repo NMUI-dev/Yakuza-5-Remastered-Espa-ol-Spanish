@@ -1,0 +1,76 @@
+{
+ "textura": "pausepar_idol_work_en/idol_work/2d_yk_story07",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    104,
+    21,
+    239,
+    96
+   ],
+   "en": "see you",
+   "ocr": "42Y t0 SeeYou",
+   "es": "Nos vemos.",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 131,
+   "dejar": true
+  },
+  {
+   "caja": [
+    107,
+    73,
+    184,
+    103
+   ],
+   "en": "See You",
+   "ocr": "SeeYou",
+   "es": "Hasta luego",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 73,
+   "dejar": true
+  },
+  {
+   "caja": [
+    50,
+    85,
+    91,
+    116
+   ],
+   "en": "Love",
+   "ocr": "ove",
+   "es": "Love",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 37,
+   "dejar": true
+  },
+  {
+   "caja": [
+    72,
+    112,
+    184,
+    150
+   ],
+   "en": "Meeting",
+   "ocr": "Meeting",
+   "es": "Reunión",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 108,
+   "dejar": true
+  }
+ ]
+}

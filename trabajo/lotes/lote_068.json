@@ -1,0 +1,862 @@
+[
+{
+"id": 18822,
+"en": "All right, I better start training! Akiyama-han, ya gotta\ncome try my okonomiyaki again sometime, okay?",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18823,
+"en": "(I don't quite get how, but it seems I really lit a fire\nunder the guy.)",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18824,
+"en": "(Well, he can cook, so if he can get more people to stop by\nand try his food, I'm sure he'll be set.)",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18825,
+"en": "Hey, you, fella. Know anything about baseball?",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18826,
+"en": "Oh, you mean me? Well, I guess you could say I do.",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18827,
+"en": "Oh! Then today's my lucky day! My name's Pedro, by the way. Nice to meet ya!",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18828,
+"en": "Same. I'm Shinada.",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18829,
+"en": "Ah, Shinaaada. Has a nice ring to it. Anyway, where I come from, we have no baseball, so we have no batting either.",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18830,
+"en": "Everybody plays soccer instead. This trip to Japan is actually the first time I've stepped up to bat! It's kinda fun!",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18831,
+"en": "But no matter how much I tried, I could never make the ball go sailing. It's hard to hit it right.",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18832,
+"en": "Okay, so what's your angle? You want me to show you how to bat?",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18833,
+"en": "Exactamundo! Even if it's only for a little bit!",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18834,
+"en": "Oh, all right. But only for a little bit, okay?",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18835,
+"en": "Sure! You're awesome, Shinaaada!",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18836,
+"en": "Uh-huh. So, where do I start? I may as well just show you. I'll demonstrate, so watch carefully.",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18837,
+"en": "You got it! I'll use my laser focus!",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18838,
+"en": "I'd like to show you, but I'm kinda busy right now.",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18839,
+"en": "Ahh, so Shinaaada's a busy man. Tell ya what! I'll keep hanging out here, so that way you can teach me whenever you have time! Sound like a plan?",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18840,
+"en": "Sure. Maybe practice your swing till then.",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18841,
+"en": "Shinaaada, my friend! Will you show me how to bat? Just for a little bit?",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18842,
+"en": "You bet! Promise I won't screw it up this time.",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18843,
+"en": "No sweat, just do your thing! You got this!",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18844,
+"en": "Shoot. I totally crapped out there.",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18845,
+"en": "What happened, Shinaaada? Is that really the best you got?",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18846,
+"en": "No, no. I'm just out of sync today. Gimme a few moments and I'll be right back at it!",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18847,
+"en": "Got it! Then I'll be waiting right here!",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18848,
+"en": "There! That's how it's done.",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18849,
+"en": "Shinaaada! That was crazy! You slaughtered that poor ball!",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18850,
+"en": "How do you even do that? What's the secret?",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18851,
+"en": "Secret? Mm, how should I put it?",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18852,
+"en": "Okay, so, the way you grip the bat and swing, that's honestly up to whatever you like, really. I guess you can say there are three major things you have to do.",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18853,
+"en": "One, keep your eyes on the ball. Two, perfect your impact timing. And three, try to hit the ball with your bat's sweet spot.",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18854,
+"en": "The sweet spot, eh? Where is it?",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18855,
+"en": "Oh, that's... kind of tricky to answer, come to think of it.",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18856,
+"en": "Think of it this way. There's a line right down the middle of the bat. If you can hit a pitch on that line, that would be the sweet spot.",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18857,
+"en": "Okay, got it. The sweet spot is the center of the bat.",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18858,
+"en": "That sounds about right. After this, you should go up against the machines to get a better feel for it.",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18859,
+"en": "Keep eyes on the ball. Get the right timing. Hit with the sweet spot. Shinaaada, I think I got it!",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18860,
+"en": "Yeah, it sure sounds like it. If you can do those three things, you'll be hammering home runs in no time.",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18861,
+"en": "Sweet, I'll try that out right now! Thanks, brotha!",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18862,
+"en": "Just sit back and watch your protégé at work!",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18863,
+"en": "(It all comes down to practice. I should look in on him sometime.)",
+"ctx": "diálogo uid00033c4c"
+},
+{
+"id": 18864,
+"en": "You got 1,200 experience points.",
+"ctx": "diálogo uid00033c4c + diálogo uid002001ac …"
+},
+{
+"id": 18865,
+"en": "Care to play? It'll only cost you 100,000 yen.",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18866,
+"en": "Who in their right mind would pay that much for something they know nothing about!?",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18867,
+"en": "No, wait!",
+"ctx": "diálogo uid00033c4d + diálogo uid00200010"
+},
+{
+"id": 18868,
+"en": "Darn, lost another one. We'll never be able to run our test like this, doctor.",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18869,
+"en": "Epoch-making inventions are seldom understood by lesser minds. Ah! You, there!",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18870,
+"en": "Are you talking to me?",
+"ctx": "diálogo uid00033c4d + diálogo uid01020bd9"
+},
+{
+"id": 18871,
+"en": "Would you like to play a⑬Wait a second. I know you. You're, um...",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18872,
+"en": "Er... Who are you again? I'm afraid I've become rather forgetful in my old age.",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18873,
+"en": "Sorry, but I don't know you.",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18874,
+"en": "Hmm... Is that so? Well, my mistake.",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18875,
+"en": "It's just that you bear a striking resemblance to a man who aided me in the past.",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18876,
+"en": "Fascinating. Well, I have to go.",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18877,
+"en": "No, please! Wait!",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18878,
+"en": "What do you want now?",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18879,
+"en": "We're looking for someone to playtest our newly developed game system. Please, won't you consider giving it a try?",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d0f …"
+},
+{
+"id": 18880,
+"en": "Aw, please, don't be like that! This is Doctor Minamida, and I'm his assistant.",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18881,
+"en": "This is the culmination of years of work: the newest version of my Inner Fighter arcade machine!",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18882,
+"en": "Inner Fighter?",
+"ctx": "diálogo uid00033c4d + diálogo uid00033cd6"
+},
+{
+"id": 18883,
+"en": "It's my brand new game machine, my boy! It uses special electromagnetic waves to let you experience realistic fights within your very mind!",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18884,
+"en": "I present to you the latest Inner Fighter! I call it Inner Fighter 8: Road Battle, or IF8 for short!",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18885,
+"en": "Is it invisible or something?",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18886,
+"en": "No, look. It's right here!",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18887,
+"en": "IF8 uses this microtransceiver to communicate in realtime with the main unit back at my lab.",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18888,
+"en": "And that means you can play the game from anywhere in the world.",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18889,
+"en": "Right... Should I be impressed?",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18890,
+"en": "Yes! Don't you know what that means!? IF8 is my epoch-making advance in arcade machine technology!",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18891,
+"en": "However, it's not quite finished yet. We're currently testing the microtransceiver's remote communication functionality.",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18892,
+"en": "And that's why we're looking for someone to play. It's the only way we'll get the test data we need, but we haven't had much luck.",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18893,
+"en": "We'd love for you to give it a try. What do you say?",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18894,
+"en": "Like I said, I'm busy now.",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18895,
+"en": "Then how about when you do have some time? Please! We need your help!",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18896,
+"en": "Any time is fine. We'll be here whenever you're prepared.",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18897,
+"en": "Oh, marvelous! You came back! Are you ready to play IF8?",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18898,
+"en": "So good to see you again. Would you like to play IF8?",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d12"
+},
+{
+"id": 18899,
+"en": "All right, I'll explain to you how to play.",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d12"
+},
+{
+"id": 18900,
+"en": "IF8 allows you to play what I like to call \"road battles\" in which you stroll through a town fighting enemies until you reach their boss.",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d12"
+},
+{
+"id": 18901,
+"en": "Beat the boss, and you earn an ability boost.",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d12"
+},
+{
+"id": 18902,
+"en": "I only have data for one town right now, but we're busy collecting data for others.",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18903,
+"en": "All we need is a little more, and you'll be able to play in other towns. You'll have to be patient until then.",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18904,
+"en": "Finally, it'll be 10,000 yen to play. And that's with a special discount just for you!",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d12"
+},
+{
+"id": 18905,
+"en": "Well, care to play?",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d12"
+},
+{
+"id": 18906,
+"en": "Wonderful. Now select the stage you'd like to play.",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18907,
+"en": "Nagasugai? All right, that will be 10,000 yen.",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d12"
+},
+{
+"id": 18908,
+"en": "Let the road battle commence!",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d12"
+},
+{
+"id": 18909,
+"en": "Kamurocho? All right, that will be 10,000 yen.",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d12"
+},
+{
+"id": 18910,
+"en": "It appears you're a little low on funds. Running the machine is expensive, so I'm afraid I'll have to ask you to come back when you can pay.",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d12"
+},
+{
+"id": 18911,
+"en": "Why thank you! We can use all the help we can get.",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d12"
+},
+{
+"id": 18912,
+"en": "Our total investments have reached %s. How much would you like to invest?",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d12"
+},
+{
+"id": 18913,
+"en": "This should be enough to upgrade IF8 to the latest version I've been working on.",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18914,
+"en": "Just one moment, please.",
+"ctx": "diálogo uid00033c4d + diálogo uid00033cd6 …"
+},
+{
+"id": 18915,
+"en": "And... done! IF8 is now upgraded to version 1.1!",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d12"
+},
+{
+"id": 18916,
+"en": "The Kamurocho stage is now playable thanks to the upgrade.",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d0f …"
+},
+{
+"id": 18917,
+"en": "I hope you'll try it sometime. Well, until we meet again.",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d12"
+},
+{
+"id": 18918,
+"en": "Your cooperation is greatly appreciated. Total investments now stand at %s.",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d12"
+},
+{
+"id": 18919,
+"en": "Once we reach 100,000 yen, I'll be able to add a new stage for you to play.",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d10 …"
+},
+{
+"id": 18920,
+"en": "I trust you'll make the necessary investment.",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d12"
+},
+{
+"id": 18921,
+"en": "And... done! IF8 is now upgraded to version 1.2!",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d12"
+},
+{
+"id": 18922,
+"en": "In version 1.2, you can earn Soul Orbs by completing a stage.",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d0f …"
+},
+{
+"id": 18923,
+"en": "But! You must complete the same stage a number of times. Give it a try!",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d12"
+},
+{
+"id": 18924,
+"en": "Oh, and this is the final upgrade, so there's no need for any more investments. Thank you for all your help.",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d12"
+},
+{
+"id": 18925,
+"en": "With 200,000 yen, I could add new features.",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d12"
+},
+{
+"id": 18926,
+"en": "Hm, you're broke? Well, I'm far too busy to be dealing with looky-loos. Good day.",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d12"
+},
+{
+"id": 18927,
+"en": "This is the final version, so there will be no more updates.",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18928,
+"en": "Oh, very well then. I'll be here in case you feel like playing later.",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18929,
+"en": "Come again soon. I'll be waiting for you.",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18930,
+"en": "Where'd your assistant go?",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18931,
+"en": "I sent him off to do some work in another town. I'm hoping he'll be able to get the data I need.",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18932,
+"en": "You'll be able play IF8 there too if you run into him. It's an opportunity you won't want to miss.",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18933,
+"en": "You don't want to invest? Well, I'm far too busy to be dealing with looky-loos. Good day.",
+"ctx": "diálogo uid00033c4d"
+},
+{
+"id": 18934,
+"en": "Oh, what a shame. It seems you've been defeated.",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d0f …"
+},
+{
+"id": 18935,
+"en": "Well, try again when you're ready.",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d10 …"
+},
+{
+"id": 18936,
+"en": "I see you've won. Well, congratulations.",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d12"
+},
+{
+"id": 18937,
+"en": "You seem to have enhanced an ability. This should give us some excellent data.",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d12"
+},
+{
+"id": 18938,
+"en": "<Color:9>Heat Gauge capacity increased.<Color:Default>",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d0f …"
+},
+{
+"id": 18939,
+"en": "Come again soon. I'll be waiting for your return.",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d12"
+},
+{
+"id": 18940,
+"en": "You've earned a Soul Orb thanks to the new version I built.",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d12"
+},
+{
+"id": 18941,
+"en": "Your abilities can't be enhanced any further. Here's a prize for your trouble instead.",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d0f …"
+},
+{
+"id": 18942,
+"en": "This version of IF8 can't raise your abilities any further. Here's a prize for your trouble instead.",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d12"
+},
+{
+"id": 18943,
+"en": "<Color:9>The maximum value of the Heat Gauge increased.<Color:Default>",
+"ctx": "diálogo uid00033c4d + diálogo uid00033d0f …"
+},
+{
+"id": 18944,
+"en": "Pardon me, miss. May I ask you a question?",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 18945,
+"en": "Would you by any chance consider yourself a gamer?",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 18946,
+"en": "A gamer?",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 18947,
+"en": "You know, a gamer⑬a person who likes video games?",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 18948,
+"en": "Yes, I suppose I do like video games.",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 18949,
+"en": "I knew it! In that case, could you spare a moment of your\ntime? It's right this way!",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 18950,
+"en": "What do you want me to do?",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 18951,
+"en": "Oh, my apologies, I should have been more clear. It's\nnothing weird, I can assure you. If you could just spare a\nminute, you'll be back in no time!",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 18952,
+"en": "No, I'm afraid I don't really play video games all that much.",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 18953,
+"en": "Oh, what a shame. In that case, never mind. I'm sorry to\nhave bothered you.",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 18954,
+"en": "Pardon me, but you are a gamer after all, aren't you? I just\nhave this feeling.",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 18955,
+"en": "Doctor! I've brought a girl gamer! I'm sorry it took so\nlong!",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 18956,
+"en": "Ah, at long last! Now we can finally begin the experiment!",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 18957,
+"en": "Um, experiment? What kind of experiment?",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 18958,
+"en": "Heheheh. I am Doctor Minamida. And this device is the new version of my fighting simulator, \"Inner Fighter 8: Road Battle\"!",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 18959,
+"en": "We call it \"IF8\" for short.",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 18960,
+"en": "IF8 is a revolutionary gaming device of my own invention. It\nutilizes special electromagnetic waves to allow the player\nto play inside their own head.",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 18961,
+"en": "We'd like you to test it out.",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 18962,
+"en": "I'm afraid I still don't really understand.",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 18963,
+"en": "Heheh. I'm not surprised, my dear! IF8 is still in\ndevelopment, you see.",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 18964,
+"en": "Though I am indeed its creator, there's still a lot about it\nI don't quite understand myself! Thus, we need to test it.",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 18965,
+"en": "And this particular IF8 is a female version. I've modified\nit to be specially suited to female gamers like you.",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 18966,
+"en": "My assistant here was so proud of this modification that I\nrushed to Osaka to see it, but apparently, it's only suited\nto female players.",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 18967,
+"en": "And here you are at last!",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 18968,
+"en": "So I would be the very first one to use it?",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 18969,
+"en": "Precisely! But there's absolutely nothing to be afraid of,\nmy dear. I'm sure you will enjoy it immensely.",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 18970,
+"en": "In this game, you'll become a magical heroine and combat\nfearsome enemies deep within your mind. Haven't you always\ndreamed of doing something like that?",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 18971,
+"en": "I suppose when I was younger...",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 18972,
+"en": "Well, this game makes that dream a reality! But instead of\ntrying to explain, perhaps I should just let you try it for\nyourself. Are you ready?",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 18973,
+"en": "Oh, just a minute, doctor! Before she tests it, she'll need\nto sign that agreement we talked about.",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 18974,
+"en": "Agreement?",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 18975,
+"en": "We must maintain absolute secrecy around the IF8 project\nwhile it's being developed. We therefore need you to sign\na non-disclosure agreement.",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 18976,
+"en": "A non-disclosure agreement? Well, um, I don't know about signing something so suddenly like that...",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 18977,
+"en": "Your cooperation would be most appreciated! It isn't as easy\nto acquire a female game tester as one might think. Won't\nyou please consider helping us?",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 18978,
+"en": "The chance to become the magical heroine of your dreams is\njust a sign away!",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 18979,
+"en": "All right. Where do I sign?",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 18980,
+"en": "Oh, thank you!",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7 …"
+},
+{
+"id": 18981,
+"en": "Wonderful, my dear! My assistant here will prepare the\ndocument for you. Meanwhile, I'll be getting the device\nready.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 18982,
+"en": "Now, before you begin, allow me to explain the particulars.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 18983,
+"en": "IF8 has players move along a city street and vanquish\nenemies using their magical powers. A powerful boss awaits\nat the end.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 18984,
+"en": "Defeat this boss, and you'll receive a boost to your\nabilities. Not those of the player character, but your own!",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 18985,
+"en": "You mean my own, personal abilities will increase if I win the game?",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 18986,
+"en": "Precisely! But I'm afraid we're still in the process of\ngathering data, so only one city is available for play at\nthe moment.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 18987,
+"en": "You'll be able to play other cities once we've collected\nenough data, but unfortunately, you'll have to wait a while\nfor that.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 18988,
+"en": "As we've previously mentioned, IF8 is still under\ndevelopment. We'll need quite a bit more funding if we wish to complete it.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 18989,
+"en": "Speaking of which, do you think you would be willing to\ncontribute to the funding of this project?",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 18990,
+"en": "Hm? You want me to contribute money?",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 18991,
+"en": "There would be something in it for you as well. Once the\ndevice is finished, we'll be able to provide you with a wide\nvariety of feedback.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 18992,
+"en": "We hope you'll give it some thought. Our project is in\ndesperate need of funding.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 18993,
+"en": "Ordinarily, one play would cost 10,000 yen, but, for this\nfirst time only, we'll let you test it free of charge.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+}
+]

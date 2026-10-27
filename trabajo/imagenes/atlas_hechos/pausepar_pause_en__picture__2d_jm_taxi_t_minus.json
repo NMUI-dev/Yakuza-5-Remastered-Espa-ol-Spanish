@@ -1,0 +1,29 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_taxi_t_minus",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    9,
+    59,
+    146,
+    88
+   ],
+   "en": "Sudden Stop",
+   "ocr": "Sudden",
+   "es": "Frenazo",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 135,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  }
+ ]
+}

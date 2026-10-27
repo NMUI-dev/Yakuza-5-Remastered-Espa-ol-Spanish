@@ -1,0 +1,211 @@
+{
+ "textura": "ui_en/surfboard/pjd_batting_word.par/texlist_0001/batting_word",
+ "fuente": "verdanaz.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    352,
+    0,
+    672,
+    64
+   ],
+   "en": "Hit",
+   "es": "",
+   "dejar": true,
+   "fuente": "verdanaz.ttf",
+   "nota": "término de béisbol igual en español"
+  },
+  {
+   "caja": [
+    352,
+    64,
+    672,
+    136
+   ],
+   "en": "Hit",
+   "es": "",
+   "dejar": true,
+   "fuente": "verdanaz.ttf",
+   "nota": "término de béisbol igual en español (borroso)"
+  },
+  {
+   "caja": [
+    352,
+    136,
+    672,
+    200
+   ],
+   "en": "Foul",
+   "es": "",
+   "dejar": true,
+   "fuente": "verdanaz.ttf",
+   "nota": "término de béisbol igual en español (el juego usa 'Strike' tal cual)"
+  },
+  {
+   "caja": [
+    352,
+    201,
+    672,
+    273
+   ],
+   "en": "Foul",
+   "es": "",
+   "dejar": true,
+   "fuente": "verdanaz.ttf",
+   "nota": "término de béisbol igual en español (borroso)"
+  },
+  {
+   "caja": [
+    352,
+    273,
+    672,
+    337
+   ],
+   "en": "Strike Out",
+   "es": "Ponche",
+   "fuente": "verdanaz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 300
+  },
+  {
+   "caja": [
+    352,
+    337,
+    672,
+    409
+   ],
+   "en": "Strike Out",
+   "es": "Ponche",
+   "fuente": "verdanaz.ttf",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 300,
+   "alto": 46,
+   "radio": 3
+  },
+  {
+   "caja": [
+    672,
+    0,
+    1024,
+    64
+   ],
+   "en": "Hit by Pitch",
+   "es": "Golpeado",
+   "fuente": "verdanaz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 330
+  },
+  {
+   "caja": [
+    672,
+    64,
+    1024,
+    136
+   ],
+   "en": "Hit by Pitch",
+   "es": "Golpeado",
+   "fuente": "verdanaz.ttf",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 330,
+   "alto": 48,
+   "radio": 3
+  },
+  {
+   "caja": [
+    672,
+    136,
+    1024,
+    216
+   ],
+   "en": "Home Run",
+   "es": "Jonrón",
+   "fuente": "verdanaz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 330,
+   "alto": 52
+  },
+  {
+   "caja": [
+    672,
+    216,
+    1024,
+    288
+   ],
+   "en": "Home Run",
+   "es": "Jonrón",
+   "fuente": "verdanaz.ttf",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 330,
+   "alto": 50,
+   "radio": 3
+  },
+  {
+   "caja": [
+    0,
+    120,
+    352,
+    200
+   ],
+   "en": "Outfield Fly",
+   "es": "Fly largo",
+   "fuente": "verdanaz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 336
+  },
+  {
+   "caja": [
+    0,
+    200,
+    352,
+    272
+   ],
+   "en": "Outfield Fly",
+   "es": "Fly largo",
+   "fuente": "verdanaz.ttf",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 336,
+   "alto": 50,
+   "radio": 3
+  },
+  {
+   "caja": [
+    0,
+    276,
+    352,
+    356
+   ],
+   "en": "Infield Fly",
+   "es": "Fly corto",
+   "fuente": "verdanaz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 336
+  },
+  {
+   "caja": [
+    0,
+    360,
+    352,
+    432
+   ],
+   "en": "Infield Fly",
+   "es": "Fly corto",
+   "fuente": "verdanaz.ttf",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 336,
+   "alto": 50,
+   "radio": 3
+  }
+ ]
+}

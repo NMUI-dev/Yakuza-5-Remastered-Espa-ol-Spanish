@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_k1",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    8,
+    139,
+    500,
+    256
+   ],
+   "en": "I'll shower you with 10 billion kisses",
+   "ocr": "lshoweryou with1obillionkisses",
+   "es": "¡Te inundaré con 10 mil millones de besos!",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 492
+  }
+ ]
+}

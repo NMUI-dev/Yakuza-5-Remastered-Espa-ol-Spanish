@@ -1,0 +1,632 @@
+[
+{
+"id": 54872,
+"en": "<Color:255,200,200,255>But it's the slowly part I can't do. Bein' together with someone I like and talkin' alone with that person don't happen too often.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54873,
+"en": "<Color:255,200,200,255>So I figure I have to say somethin' at those moments, and wind up sayin' too much.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54874,
+"en": "At least you've found the issue. The next time you have an opportunity come along, you can make your move slowly, without being flustered.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54875,
+"en": "<Color:255,200,200,255>I know that in my head, but when the time comes, it all goes out the window and I can't say what I wanna say.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54876,
+"en": "Why not try sending a letter then? Then you can write while you're feeling more calm and won't mess up what you're trying to say.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54877,
+"en": "<Color:255,200,200,255>Good idea! Can't get girlier than love letters. And if I mess up, I can rewrite it as many times as I need. That's perfect for me!<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54878,
+"en": "Hey, best of luck.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54879,
+"en": "So, how about now?",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54880,
+"en": "<Color:255,200,200,255>Right now I'm fine. Why do ya ask?<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54881,
+"en": "No real reason.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54882,
+"en": "<Color:255,200,200,255>Oh! Akiyama-san, you're wonderin' if I might like you, aren't ya?<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54883,
+"en": "<Color:255,200,200,255>Sorry, but when it's me and you, I just feel super relaxed!<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54884,
+"en": "Why not practice? Pretend I'm a guy that you're into and see how you do.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54885,
+"en": "<Color:255,200,200,255>Yer kinda puttin' me on the spot, though...<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54886,
+"en": "Come on, let's do this. Ready, and... go!",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54887,
+"en": "<Color:255,200,200,255>......<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54888,
+"en": "<Color:255,200,200,255>Pfft! Oh, yer face! One look at yer face right now and I can't even help but laugh!<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54889,
+"en": "That's... an odd reaction.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54890,
+"en": "<Color:255,200,200,255>Akiyama-san, I bet ya've got a good eye for the ladies. You strike me as a guy who only dates women of a real high caliber.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54891,
+"en": "Maybe. I definitely couldn't date just anyone. If I'm going to date a person, I suppose I need to consider their merits first.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54892,
+"en": "And not just women, either. You stand a lot to gain by being with people you respect in one way or another. Those are the kind of people I choose.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54893,
+"en": "<Color:255,200,200,255>Wow, ya've really thought this through, haven't ya? So, do I have any merits?<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54894,
+"en": "<Color:255,200,200,255>Oh yeah? Like what?<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54895,
+"en": "You're cute, considerate, and fun to talk to. Plus, I have a great time drinking with you.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54896,
+"en": "<Color:255,200,200,255>Well yeah, of course. Showin' my customers a good time is my job!<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54897,
+"en": "But a lot of girls can't pull it off like you. All successful hostesses have a special something. I don't ask for girls I don't find interesting.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54898,
+"en": "<Color:255,200,200,255>Aww, you're makin' me blush, layin' all those compliments on me!<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54899,
+"en": "Hmm... It's not like we're dating or anything right now, so I haven't thought about it much.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54900,
+"en": "<Color:255,200,200,255>So does that mean ya wouldn't wanna date me?<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54901,
+"en": "I mean, aren't the primary benefits of a cabaret club that you can enjoy drinks with a girl, for a limited time, and without any strings attached?",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54902,
+"en": "<Color:255,200,200,255>Well, yeah, but... Aww, that don't sound right.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54903,
+"en": "I'm not as discerning as you.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54904,
+"en": "<Color:255,200,200,255>I'm not all that discernin'. As long as someone is interestin', then fine by me.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54905,
+"en": "Simple enough. What about other things, though? Like looks, or money?",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54906,
+"en": "<Color:255,200,200,255>I'm just talkin' about folks who've got a good head on their shoulders. So they pay attention to their looks and have a job already. They're proper adults.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54907,
+"en": "That's fair enough. Most unsophisticated people are pretty much hopeless and boring.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54908,
+"en": "<Color:255,200,200,255>Right? So if I'm gonna date a guy, he's for sure gotta be interestin'!<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54909,
+"en": "That's discerning. You can't expect a normal guy to entertain you like a professional comedian.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54910,
+"en": "<Color:255,200,200,255>I know that. He doesn't hafta do comedy skits or nothin'. He just needs to have a generous spirit that tries to entertain others.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54911,
+"en": "<Color:255,200,200,255>Like, hosts who have that ability are in demand, right? No matter how hot a guy is, he's no fun if he keeps his mouth shut.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54912,
+"en": "I see. That's one way to look at it.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54913,
+"en": "<Color:255,200,200,255>Compatibility's a big thing for me. Like in stand-up comedy, you need a funny man and a straight man. Otherwise, it ain't gonna go well.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54914,
+"en": "Heh. Which one are you?",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54915,
+"en": "<Color:255,200,200,255>I'm the straight man. Which means I wanna pair up with a funny man.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54916,
+"en": "I'd say I'm a funny guy. At least, that's what people are always whispering behind my back, heh.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54917,
+"en": "<Color:255,200,200,255>Pfft, no ya ain't! You're totally a straight man!<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54918,
+"en": "Busted. You're really good at tripping people up. It almost feels a little unfair.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54919,
+"en": "<Color:255,200,200,255>Comedy is a gift. It never works if ya ain't compatible with someone. You're suited to bein' a straight man, Akiyama-san.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54920,
+"en": "Well, that's too bad.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54921,
+"en": "I mean it. Why don't you believe me?",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54922,
+"en": "<Color:255,200,200,255>It's 'cause ya always know what ya gotta say to get to the punch line. The funny man's the one that sets things up for the straight man.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54923,
+"en": "I guess you've got a point. I suppose I've been playing that role pretty often lately.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54924,
+"en": "<Color:255,200,200,255>Yep. If you were the funny man, then ya'd bumble the conversation at already awkward points, to make it even more awkward than it was, ya know?<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54925,
+"en": "I guess I wound up becoming a pretty boring guy without even realizing it. I should be careful.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54926,
+"en": "Now make your joke! I totally gave you a setup!",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54927,
+"en": "<Color:255,200,200,255>Ya just said the whole thing! Yer totally a straight man, Akiyama-san.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54928,
+"en": "Agh! I totally got myself backwards there.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54929,
+"en": "<Color:255,200,200,255>Ya've got a long way to go.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54930,
+"en": "I'm a straight man too. Does that make us incompatible?",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54931,
+"en": "<Color:255,200,200,255>Maybe...<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54932,
+"en": "Maybe? What do you mean by that?",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54933,
+"en": "<Color:255,200,200,255>Well, since I like funny men, I've never dated someone who's a straight man.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54934,
+"en": "Want to give it a shot? Maybe things won't turn out so bad this time.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54935,
+"en": "<Color:255,200,200,255>But we might never get to the punch line without a setup, and our conversations might never stop.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54936,
+"en": "Maybe we can make it a game, where the person who runs out of stuff to say first pays a penalty.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54937,
+"en": "<Color:255,200,200,255>That sounds like it could be fun! I wonder how those conversations would go?<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54938,
+"en": "You're the funny man. You don't realize it, but you're the ideal funny hostess.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54939,
+"en": "<Color:255,200,200,255>No!? For real?<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54940,
+"en": "Yeah. So I think we'd be plenty compatible.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54941,
+"en": "<Color:255,200,200,255>Really now? I hadn't the foggiest.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54942,
+"en": "<Color:255,200,200,255>That's why I've been thinkin' we might go well together! Because I'm the funny man!<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54943,
+"en": "Yeah, you're definitely the funny man.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54944,
+"en": "<Color:255,200,200,255>I get bored of stuff real easy, y'know.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54945,
+"en": "I can see that. You are kind of impatient.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54946,
+"en": "<Color:255,200,200,255>Same goes with romance. I can be really smitten with someone, but if I find somethin' I don't like, it kills the vibe right quick.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54947,
+"en": "What's wrong with that? That sudden feeling you get can be what you're really after.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54948,
+"en": "Maybe if you tried to tough it out, you'd feel even worse when you found the next thing you didn't like. And when you finally run out of patience, you split up.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54949,
+"en": "<Color:255,200,200,255>You're pretty calculatin', Akiyama-san.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54950,
+"en": "<Color:255,200,200,255>But I agree. Forcin' yourself to deal with that sorta thing isn't for me. It's better to find yerself someone new, pronto.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54951,
+"en": "That's no good. Nitpicking someone's particulars will make you too judgmental.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54952,
+"en": "<Color:255,200,200,255>Hey, I don't like what I don't like. If I don't like somethin', I'm better off breakin' up with 'em.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54953,
+"en": "But nobody's perfect. With luck you'll meet someone who's perfect for you, but it isn't likely. You need to make compromises somewhere.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54954,
+"en": "<Color:255,200,200,255>Yer real level-headed. I can't stand bein' with someone who's got faults I don't like.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54955,
+"en": "At least if you're easily smitten, you'll find someone new soon. It's like falling in love all year long.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54956,
+"en": "<Color:255,200,200,255>Yeah! Just a little while ago I shot my friend an email sayin' I'd found someone real good!<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54957,
+"en": "Hey now, should you be telling a customer this?",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54958,
+"en": "<Color:255,200,200,255>Well, I mean I did the same thing the first time you came and saw me too!<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54959,
+"en": "Hm. Thank you. I had no idea you felt that way about me.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54960,
+"en": "<Color:255,200,200,255>Deep down I was all sorts of excited when ya first came to the club. You were the bomb!<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54961,
+"en": "And what do you think about me now?",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54962,
+"en": "<Color:255,200,200,255>Huh? Oh. That's a seeecret!<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54963,
+"en": "Uh, okay. I won't ask then.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54964,
+"en": "<Color:255,200,200,255>Good. Guys who second-guess what a girl is thinkin' are cheeseballs. A man oughta be way more secure in his demeanor.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54965,
+"en": "Tell me.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54966,
+"en": "<Color:255,200,200,255>A secret's a secret.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54967,
+"en": "I can't help but wonder. In the event that you don't like me, I'd rather know sooner than later.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54968,
+"en": "<Color:255,200,200,255>Even if I didn't, I wouldn't tell one of my customers. And bein' too suspicious would definitely make me like ya less.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54969,
+"en": "This happens a lot, doesn't it? If you can fall for someone that easily, a guy might worry.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54970,
+"en": "<Color:255,200,200,255>It ain't like that. I'm pretty darn committed. If I'm involved with someone, I don't let myself have eyes for anyone else.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54971,
+"en": "Really? Well, what about right now then?",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54972,
+"en": "<Color:255,200,200,255>Right now? Uh, right now you're here, Akiyama-san!<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54973,
+"en": "Wow, way to dodge the question there.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54974,
+"en": "Why don't I believe you? I bet you say that but still go on checking out other men.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54975,
+"en": "<Color:255,200,200,255>Hey, I'm not lyin'! How come ya don't believe me? I'm super faithful!<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54976,
+"en": "All right. Sorry for doubting you. You know, that's actually a fairly attractive quality.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54977,
+"en": "<Color:255,200,200,255>Right? I don't have what it takes to cheat.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54978,
+"en": "I can definitely tell that now.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54979,
+"en": "Come on, you're lying.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54980,
+"en": "<Color:255,200,200,255>Yep, ya got me! With all these great guys around, there's no way I'm gettin' tied down to just one of 'em!<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54981,
+"en": "Heh, I appreciate the honesty.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54982,
+"en": "<Color:255,200,200,255>Whenever I'm talkin' to you, Akiyama-san, it sorta drives me crazy.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54983,
+"en": "<Color:255,200,200,255>You're just so good at makin' conversation that I wind up sittin' and listenin' all the time.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54984,
+"en": "And that's a bad thing?",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54985,
+"en": "<Color:255,200,200,255>I'm really not a fan of not bein' the one in charge a' the conversation!<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54986,
+"en": "<Color:255,200,200,255>I like to steer the conversation, so that I can get to the punch line I want. So it bugs me when someone interrupts or changes the conversation.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54987,
+"en": "Really? Now that I think about it, I feel like I've butted into our conversations a lot without realizing it.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54988,
+"en": "<Color:255,200,200,255>You're fun to talk to though, Akiyama-san, so I don't mind when it's you. But when it comes to other people I can't stand it.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54989,
+"en": "Does it matter either way? As long as it's fun.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54990,
+"en": "<Color:255,200,200,255>Well, I find it borin'. Most of the time I like to be the one doin' the talkin'.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54991,
+"en": "I don't think your customers all come here to listen to you talk, though. Shouldn't you try to hold back and be the listener sometimes?",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54992,
+"en": "<Color:255,200,200,255>Ugh, I wish all my customers were good at makin' conversation. Why do they gotta come and make me listen to such borin' stuff?<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54993,
+"en": "<Color:255,200,200,255>I'm an impatient sort, so if things don't go my way, I wind up gettin' real annoyed.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54994,
+"en": "<Color:255,200,200,255>But after talkin' to you, I've started to think it ain't so bad to let the other person have their way instead.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54995,
+"en": "That's the point. It's the same with my work. I like to give people a chance and then see how they act upon it.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54996,
+"en": "<Color:255,200,200,255>Yeah, I can totally see that about ya!<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54997,
+"en": "But all I do is give them that chance. I don't know how things will turn out from there. How it ends up depends entirely on the other person.",
+"ctx": "diálogo uid01340021"
+}
+]

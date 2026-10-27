@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_pause_en/picture/caption/2d_jm_bc_kyukyoku_a6",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    153,
+    66,
+    880,
+    188
+   ],
+   "en": "MELEE MATCH 6",
+   "ocr": "MELEE MATCH 6",
+   "es": "COMBATE CUERPO A CUERPO 6",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 723
+  }
+ ]
+}

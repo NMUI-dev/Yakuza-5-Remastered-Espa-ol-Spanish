@@ -1,0 +1,310 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_blackjack1",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    441,
+    7,
+    585,
+    45
+   ],
+   "en": "Blackjack",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    453,
+    55,
+    592,
+    92
+   ],
+   "en": "Blackjack",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    26,
+    95,
+    900,
+    128
+   ],
+   "en": "A combination of an ace and a card with the value of 10 is called",
+   "es": "La combinación de un as y una carta con valor de 10 se llama",
+   "fuente": "segoeui.ttf",
+   "alin": "izq",
+   "ancho_max": 868,
+   "efecto": "nada",
+   "color": [
+    45,
+    45,
+    45
+   ],
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    26,
+    132,
+    900,
+    165
+   ],
+   "en": "Blackjack, and has the highest hand value. As long as the dealer",
+   "es": "Blackjack y es la mano más alta. Siempre que el crupier",
+   "fuente": "segoeui.ttf",
+   "alin": "izq",
+   "ancho_max": 868,
+   "efecto": "nada",
+   "color": [
+    45,
+    45,
+    45
+   ],
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    26,
+    169,
+    900,
+    203
+   ],
+   "en": "doesn't have Blackjack as well, you are paid 2.5 times your stake.",
+   "es": "no tenga también Blackjack, se paga 2,5 veces tu apuesta.",
+   "fuente": "segoeui.ttf",
+   "alin": "izq",
+   "ancho_max": 868,
+   "efecto": "nada",
+   "color": [
+    45,
+    45,
+    45
+   ],
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    400,
+    226,
+    640,
+    261
+   ],
+   "en": "Terminology (1)",
+   "es": "Terminología (1)",
+   "fuente": "segoeui.ttf",
+   "alin": "centro",
+   "ancho_max": 234,
+   "efecto": "nada",
+   "color": [
+    45,
+    45,
+    45
+   ],
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    50,
+    268,
+    226,
+    301
+   ],
+   "en": "Hit:",
+   "es": "Pedir:",
+   "fuente": "segoeui.ttf",
+   "alin": "izq",
+   "ancho_max": 170,
+   "efecto": "nada",
+   "color": [
+    45,
+    45,
+    45
+   ],
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    228,
+    268,
+    1015,
+    301
+   ],
+   "en": "Add an additional card to your hand.",
+   "es": "Agrega una carta adicional a tu mano.",
+   "fuente": "segoeui.ttf",
+   "alin": "izq",
+   "ancho_max": 781,
+   "efecto": "nada",
+   "color": [
+    45,
+    45,
+    45
+   ],
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    50,
+    304,
+    226,
+    337
+   ],
+   "en": "Stand:",
+   "es": "Plantarse:",
+   "fuente": "segoeui.ttf",
+   "alin": "izq",
+   "ancho_max": 170,
+   "efecto": "nada",
+   "color": [
+    45,
+    45,
+    45
+   ],
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    228,
+    304,
+    1015,
+    337
+   ],
+   "en": "Remain with the current hand.",
+   "es": "Conserva la mano actual.",
+   "fuente": "segoeui.ttf",
+   "alin": "izq",
+   "ancho_max": 781,
+   "efecto": "nada",
+   "color": [
+    45,
+    45,
+    45
+   ],
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    50,
+    340,
+    226,
+    373
+   ],
+   "en": "Split:",
+   "es": "Dividir:",
+   "fuente": "segoeui.ttf",
+   "alin": "izq",
+   "ancho_max": 170,
+   "efecto": "nada",
+   "color": [
+    45,
+    45,
+    45
+   ],
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    228,
+    340,
+    1015,
+    373
+   ],
+   "en": "If the first two cards you receive are of the same value,",
+   "es": "Si las primeras dos cartas que recibes tienen el mismo valor,",
+   "fuente": "segoeui.ttf",
+   "alin": "izq",
+   "ancho_max": 781,
+   "efecto": "nada",
+   "color": [
+    45,
+    45,
+    45
+   ],
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    228,
+    376,
+    1015,
+    409
+   ],
+   "en": "you may split the cards to create two hands.",
+   "es": "puedes dividir las cartas para formar dos manos.",
+   "fuente": "segoeui.ttf",
+   "alin": "izq",
+   "ancho_max": 781,
+   "efecto": "nada",
+   "color": [
+    45,
+    45,
+    45
+   ],
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    50,
+    412,
+    232,
+    446
+   ],
+   "en": "Double Down:",
+   "es": "Doblar:",
+   "fuente": "segoeui.ttf",
+   "alin": "izq",
+   "ancho_max": 174,
+   "efecto": "nada",
+   "color": [
+    45,
+    45,
+    45
+   ],
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    224,
+    412,
+    1015,
+    446
+   ],
+   "en": "After seeing the first two cards, you may double",
+   "es": "Tras ver las dos primeras cartas, puedes doblar",
+   "fuente": "segoeui.ttf",
+   "alin": "izq",
+   "ancho_max": 785,
+   "efecto": "nada",
+   "color": [
+    45,
+    45,
+    45
+   ],
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    228,
+    448,
+    1015,
+    482
+   ],
+   "en": "your bet (double down). You must then draw a third card.",
+   "es": "tu apuesta (doblar). Después debes robar una tercera carta.",
+   "fuente": "segoeui.ttf",
+   "alin": "izq",
+   "ancho_max": 781,
+   "efecto": "nada",
+   "color": [
+    45,
+    45,
+    45
+   ],
+   "fondo": "lama"
+  }
+ ]
+}

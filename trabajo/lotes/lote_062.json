@@ -1,0 +1,957 @@
+[
+{
+"id": 17694,
+"en": "Right. Sorry to disturb ya.",
+"ctx": "diálogo uid00020988"
+},
+{
+"id": 17695,
+"en": "You know where Baba is? The kid in our cell?",
+"ctx": "diálogo uid00020989"
+},
+{
+"id": 17696,
+"en": "Oh, him. Nope, dunno.",
+"ctx": "diálogo uid00020989"
+},
+{
+"id": 17697,
+"en": "Okay...",
+"ctx": "diálogo uid00020989 + diálogo uid00033641 …"
+},
+{
+"id": 17698,
+"en": "Heh, is there something wrong? I hope so. I'm bored out of my mind.",
+"ctx": "diálogo uid00020989"
+},
+{
+"id": 17699,
+"en": "Nothin' happened. Sorry to bug ya.",
+"ctx": "diálogo uid00020989"
+},
+{
+"id": 17700,
+"en": "Oooh, hehe, something sure went down. I can't wait to find out...",
+"ctx": "diálogo uid00020989"
+},
+{
+"id": 17701,
+"en": "Say, listen.",
+"ctx": "diálogo uid0002098e"
+},
+{
+"id": 17702,
+"en": "Did ya see that commotion earlier?",
+"ctx": "diálogo uid0002098e"
+},
+{
+"id": 17703,
+"en": "No... I didn't see anything. No stabbing, no nothing.",
+"ctx": "diálogo uid0002098e"
+},
+{
+"id": 17704,
+"en": "I got the hell out of there as soon as I heard the screams. I only looked back once, and... *gulp* saw them carrying away some guy. He was bleeding.",
+"ctx": "diálogo uid0002098e"
+},
+{
+"id": 17705,
+"en": "Did ya see Baba-chan? The guy holdin' the chisel?",
+"ctx": "diálogo uid0002098e"
+},
+{
+"id": 17706,
+"en": "Uh, I mean we all did! You saw him, too! He just stood there, shaking.",
+"ctx": "diálogo uid0002098e"
+},
+{
+"id": 17707,
+"en": "But ya didn't see the actual stabbin', right?",
+"ctx": "diálogo uid0002098e"
+},
+{
+"id": 17708,
+"en": "That's what I said! Didn't see nothing, I swear!",
+"ctx": "diálogo uid0002098e"
+},
+{
+"id": 17709,
+"en": "Can ya tell me somethin'?",
+"ctx": "diálogo uid0002098f"
+},
+{
+"id": 17710,
+"en": "Oh, yeah. That's some crazy shit he pulled.",
+"ctx": "diálogo uid0002098f"
+},
+{
+"id": 17711,
+"en": "You saw him stab the guy?",
+"ctx": "diálogo uid0002098f"
+},
+{
+"id": 17712,
+"en": "Nah, didn't actually see it. But come on, it's obvious he did it.",
+"ctx": "diálogo uid0002098f"
+},
+{
+"id": 17713,
+"en": "I mean, he even had motivation. Wasn't Kugihara picking on him?",
+"ctx": "diálogo uid0002098f"
+},
+{
+"id": 17714,
+"en": "Just yesterday I saw Kugihara's gang taking him to the storeroom. Didn't look consensual, if you know what I mean.",
+"ctx": "diálogo uid0002098f"
+},
+{
+"id": 17715,
+"en": "That damn bastard...",
+"ctx": "diálogo uid0002098f"
+},
+{
+"id": 17716,
+"en": "Hell yeah. Kugihara's a total psycho.",
+"ctx": "diálogo uid0002098f"
+},
+{
+"id": 17717,
+"en": "I heard he pretty much drove one of his own cellmates to attempt suicide.",
+"ctx": "diálogo uid0002098f"
+},
+{
+"id": 17718,
+"en": "That's fucked up shit. I bet Baba was getting attacked by Kugihara and his goons, and just struck back.",
+"ctx": "diálogo uid0002098f"
+},
+{
+"id": 17719,
+"en": "Nah, Baba-chan ain't the kind of man who would do that, even if it was deserved.",
+"ctx": "diálogo uid0002098f"
+},
+{
+"id": 17720,
+"en": "And if no one saw the actual stabbin', maybe Baba-chan didn't do it.",
+"ctx": "diálogo uid0002098f"
+},
+{
+"id": 17721,
+"en": "The victim said it was him, though, didn't he?",
+"ctx": "diálogo uid0002098f"
+},
+{
+"id": 17722,
+"en": "Those creeps can't be trusted. We're gonna prove Baba's innocent.",
+"ctx": "diálogo uid0002098f"
+},
+{
+"id": 17723,
+"en": "Well, see ya around.",
+"ctx": "diálogo uid0002098f"
+},
+{
+"id": 17724,
+"en": "Uh, hey.",
+"ctx": "diálogo uid0002098f"
+},
+{
+"id": 17725,
+"en": "Good luck. Proving his innocence.",
+"ctx": "diálogo uid0002098f"
+},
+{
+"id": 17726,
+"en": "Finished everything you wanted to do, Kiryu-san?",
+"ctx": "diálogo uid00020af4"
+},
+{
+"id": 17727,
+"en": "There's something I want to take care of first. Wait for me here.",
+"ctx": "diálogo uid00020af4"
+},
+{
+"id": 17728,
+"en": "Understood. Try not to be too long, though.",
+"ctx": "diálogo uid00020af4"
+},
+{
+"id": 17729,
+"en": "Let's hear what you have to say.",
+"ctx": "diálogo uid00020af4"
+},
+{
+"id": 17730,
+"en": "Okay. Let's head inside, then.",
+"ctx": "diálogo uid00020af4"
+},
+{
+"id": 17731,
+"en": "Yamaura-san! I got Airi Yuki-san's autograph!",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17732,
+"en": "You did!? Way to go, girl! Horie-kun's really gonna love it.\nWas it hard to get?",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17733,
+"en": "Not really. I got to meet Airi-san, and I think I learned a\nlot from the experience!",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17734,
+"en": "Well, good for you! I'll bring this to Horie-kun next time\nI visit, so don't worry about a thing. You just take it\neasy.",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17735,
+"en": "Okay. Thank you!",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17736,
+"en": "Oh, hey, Haruka.",
+"ctx": "diálogo uid00020b5c + diálogo uid00490266"
+},
+{
+"id": 17737,
+"en": "I'm just glad you're okay.",
+"ctx": "diálogo uid00020b5c"
+},
+{
+"id": 17738,
+"en": "Did ya finish everything ya needed to do? It's gonna be\nnothin' but practice from here on out.",
+"ctx": "diálogo uid00020b5c"
+},
+{
+"id": 17739,
+"en": "So if ya have any last-minute stuff ya need to take care of,\nnow's the time to do it. If not, whaddya say? Ready to practice?",
+"ctx": "diálogo uid00020b5c"
+},
+{
+"id": 17740,
+"en": "I'm sorry. Could I have just a little bit more time?",
+"ctx": "diálogo uid00020b5c"
+},
+{
+"id": 17741,
+"en": "All right. But it might be dangerous out there. Be careful,\nya hear?",
+"ctx": "diálogo uid00020b5c"
+},
+{
+"id": 17742,
+"en": "(Am I really ready to start practice? I think I might have\nsome other things to take care of first.)",
+"ctx": "diálogo uid00020b5c"
+},
+{
+"id": 17743,
+"en": "Yes, I'm ready to practice!",
+"ctx": "diálogo uid00020b5c"
+},
+{
+"id": 17744,
+"en": "All right, great. Let's get started!",
+"ctx": "diálogo uid00020b5c"
+},
+{
+"id": 17745,
+"en": "Yamaura-san, how is Horie-san doing?",
+"ctx": "diálogo uid00020b5c"
+},
+{
+"id": 17746,
+"en": "Oh! About that. Think ya could help me think of something?",
+"ctx": "diálogo uid00020b5c"
+},
+{
+"id": 17747,
+"en": "Something for what?",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17748,
+"en": "Some kind of present to bring Horie-kun while he's in the hospital.",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17749,
+"en": "Oh, all right. Hmm, let me think...",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17750,
+"en": "Knowing him, he'd probably say he didn't want us fussing\nover him when we should be focusing on something more important.",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17751,
+"en": "In fact, your successful debut would probably be the best\npresent of all, don't you think?",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17752,
+"en": "But we gotta get him somethin', ya know? Can't just go visit\nempty-handed.",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17753,
+"en": "And I'm sure he wouldn't want another fruit basket. It would\njust be in the way.",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17754,
+"en": "Exactly! I tell ya, I've really been scratching my head over\nit, but I can't come up with anything...",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17755,
+"en": "Well, let's see... What does he like? Is there anything he's\ninterested in?",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17756,
+"en": "I hardly know anything about his personal life.",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17757,
+"en": "Isn't that awful? My own manager and I don't even know him!",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17758,
+"en": "Well, I know one thing Horie-kun is interested in...",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17759,
+"en": "Idols! He's a big fan, ya know.",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17760,
+"en": "Really!? Idols!?",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17761,
+"en": "Don't tell me you're surprised. He's an idol manager, isn't\nhe?",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17762,
+"en": "Well, yes, but I thought people just did that sort of thing\nbecause it was their job.",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17763,
+"en": "Yeah, sure, some people are like that. But not Horie-kun! He\nwas a real idol otaku when he was younger.",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17764,
+"en": "Come to think of it, I guess he did mention he likes idols.\nBut I never imagined it was such a big thing with him!",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17765,
+"en": "He used to be a groupie for some underground singers.\nStarted giving them advice, and, before he knew it, he was\narranging gigs!",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17766,
+"en": "He said it was so much fun seeing the singers he loved get\npopular that he finally just decided to get into the\nbusiness officially.",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17767,
+"en": "Once he got into the industry, he said it was time to grow\nup and put aside his groupie ways.",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17768,
+"en": "Hehe. He's very dedicated, isn't he?",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17769,
+"en": "But even now, he still goes to see his favorites' concerts\non his days off.",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17770,
+"en": "Apparently, he went to see an idol named Airi Yuki perform\nrecently, and somebody from another agency caught him tons\nof souvenirs.",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17771,
+"en": "Hehe! I bet he'll never live that one down. It sure sounds like he loves idols!",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17772,
+"en": "Hey, here's a thought! I bet Horie-kun'd love to get Airi\nYuki's autograph, don't you think?",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17773,
+"en": "Ah, that's a great idea!",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17774,
+"en": "That settles it, then! Haruka, I want ya to go see Airi Yuki\nand get her autograph for Horie-kun!",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17775,
+"en": "You mean right now!? But isn't it kind of awkward to try\nseeing her without making an appointment first or anything?",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17776,
+"en": "But that's the kind of thing Horie-kun did for you every\nsingle day to get you work. It's what we in the business\ncall \"walk-in sales.\"",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17777,
+"en": "Well, when you put it that way... All right, I'll do it!",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17778,
+"en": "Good girl! Oh, hold on. At least lemme help ya find out\nwhere she's at right now.",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17779,
+"en": "Hello. This is Misa Yamaura from Dyna Chair. Could you tell\nme where Airi Yuki-san is scheduled to perform today?",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17780,
+"en": "Ah, I see. Thank you very much. All right. Goodbye, now!",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17781,
+"en": "What did you find out?",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17782,
+"en": "This will work out great! She's gonna be performing at\nCastle Records, they said. Go get that autograph!",
+"ctx": "diálogo uid00020b5c"
+},
+{
+"id": 17783,
+"en": "(My goodness. Yamaura-san can be a little pushy sometimes...\nBut this is for Horie-san, and he's always doing so much for\nme, so surely I can do this for him!)",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17784,
+"en": "Yamaura-san, you called me earlier about an audition, right?",
+"ctx": "diálogo uid00020b5c"
+},
+{
+"id": 17785,
+"en": "Oh, yeah! Want me to fill you in?",
+"ctx": "diálogo uid00020b5c"
+},
+{
+"id": 17786,
+"en": "You said it's an audition for Watami and Watamin-chi's\nposter girl?",
+"ctx": "diálogo uid00020b5c"
+},
+{
+"id": 17787,
+"en": "That's right. This one'll be a little different from a\nregular audition, however. It's gonna be a joint audition\nthis time around.",
+"ctx": "diálogo uid00020b5c"
+},
+{
+"id": 17788,
+"en": "A joint audition?",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17789,
+"en": "Watami and Watamin-chi are both looking for a new poster\ngirl, and they got the idea to hold their auditions together.",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17790,
+"en": "The audition will be conducted by the presidents of\nWatami and Watamin-chi themselves.",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17791,
+"en": "And they're each hoping to find the perfect poster girl. In\nother words, there are two spots open.",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17792,
+"en": "Oh, okay! But I've never heard of two companies holding an\naudition together. They must get along really well.",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17793,
+"en": "Well, Watami and Watamin-chi are both part of the Watami\nGroup, after all. But I wouldn't go so far as to say they\n\"get along.\"",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17794,
+"en": "Really? Why's that?",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17795,
+"en": "I hear the two presidents have a really strong sense of\nrivalry with each other. They're both out to prove they're\nbetter than the other.",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17796,
+"en": "That's why they're doing a joint audition, apparently. The\naudition coordinator told me sparks have been flying\nnonstop.",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17797,
+"en": "Oh, okay...",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82 …"
+},
+{
+"id": 17798,
+"en": "They're both fiendishly determined to find the best poster\ngirl.",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17799,
+"en": "Hmm. I don't know if that's a good thing or a bad thing...",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17800,
+"en": "What're ya talkin' about? This is a big opportunity for us!\nThese are two huge companies we're talking about\nhere⑬national chains.",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17801,
+"en": "You get hired as one of their poster girls, and your face\nwill be plastered all over the country.",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17802,
+"en": "Oh, wow. That's true.",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17803,
+"en": "Might wanna do a little studyin' before you go to that\naudition. Don't wanna embarrass yourself.",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17804,
+"en": "Right. Good point.",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17805,
+"en": "First is Watami. They're all about good old-fashioned home\ncooking.",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17806,
+"en": "They call themselves a \"casual restaurant,\" somewhere\nbetween a pub and a family-style place. It's the oldest\npillar of the Watami Group.",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17807,
+"en": "The prices are reasonable and the food is pretty yummy. And\nwith their twentieth anniversary, all the restaurants\nunderwent a huge remodel.",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17808,
+"en": "Hmm. I see.",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82 …"
+},
+{
+"id": 17809,
+"en": "And then there's Watamin-chi, the charcoal grill restaurant.\nThey're about ten years younger than Watami.",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17810,
+"en": "They focus on charcoal-grilled foods and stews. Their food\nis well-priced and yummy, too!",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17811,
+"en": "Whenever I pass by one, there's always this amazing smell\ncoming from the place. I mean, that's totally unfair, right?\nIt should be outlawed!",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17812,
+"en": "Their menu items have really fun names, too, like \"Spaceship\nfrom Planet Orange\" and \"Red, Red, Fuzzy Cow Pow.\"",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17813,
+"en": "Hehe, you're right. Those are pretty funny.",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17814,
+"en": "Anyway, that's it for the quick rundown. Head on over to the\naudition as soon as you're ready.",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17815,
+"en": "Really? You mean, right now?",
+"ctx": "diálogo uid00020b5c"
+},
+{
+"id": 17816,
+"en": "Yes, right now! If you don't hurry up and get over there,\nthose positions are gonna get filled!",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17817,
+"en": "So whaddya say, Haruka? You ready?",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17818,
+"en": "All right. I'll go right away, then!",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17819,
+"en": "Hehe, attagirl! Knock 'em dead out there!",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17820,
+"en": "I'm afraid I'm not ready to go just yet. I have to prepare\na little first...",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17821,
+"en": "All right. But come back and lemme know as soon as you're\nready.",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17822,
+"en": "Yamaura-san, about that audition...",
+"ctx": "diálogo uid00020b5c"
+},
+{
+"id": 17823,
+"en": "I know this isn't the best time, but if ya don't hurry up\nget over there, the positions are gonna get filled! Any\nchance ya can go right now?",
+"ctx": "diálogo uid00020b5c"
+},
+{
+"id": 17824,
+"en": "Haruka, if ya don't hurry up and get over to that audition,\nthe positions are gonna get filled! You ready to go?",
+"ctx": "diálogo uid00020b5c"
+},
+{
+"id": 17825,
+"en": "I'm afraid I'm not ready to go just yet. I want to prepare a\nlittle first...",
+"ctx": "diálogo uid00020b5c"
+},
+{
+"id": 17826,
+"en": "There you are, Haruka. Wanna hear more about that audition?",
+"ctx": "diálogo uid00020b5c"
+},
+{
+"id": 17827,
+"en": "It's an audition to be a poster girl for Watami and\nWatamin-chi, right?",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17828,
+"en": "Oh, Haruka! Think ya could help me think of something?",
+"ctx": "diálogo uid00020b5c + diálogo uid00020c82"
+},
+{
+"id": 17829,
+"en": "%s-san. You good and ready?",
+"ctx": "diálogo uid00020b8c"
+},
+{
+"id": 17830,
+"en": "%s-san. Finished getting ready?",
+"ctx": "diálogo uid00020b8c"
+},
+{
+"id": 17831,
+"en": "Finished getting ready?",
+"ctx": "diálogo uid00020b8c"
+},
+{
+"id": 17832,
+"en": "No, I still have things to take care of.",
+"ctx": "diálogo uid00020b8c"
+},
+{
+"id": 17833,
+"en": "All right. Let me know when you're done.",
+"ctx": "diálogo uid00020b8c"
+},
+{
+"id": 17834,
+"en": "No, still gotta tie up of a few loose ends.",
+"ctx": "diálogo uid00020b8c"
+},
+{
+"id": 17835,
+"en": "Nope, still got some stuff I need to do.",
+"ctx": "diálogo uid00020b8c"
+},
+{
+"id": 17836,
+"en": "All right. Say the word when you're done.",
+"ctx": "diálogo uid00020b8c"
+},
+{
+"id": 17837,
+"en": "Okay, it's almost time.",
+"ctx": "diálogo uid00020b8c"
+},
+{
+"id": 17838,
+"en": "Good, it's almost time.",
+"ctx": "diálogo uid00020b8c"
+},
+{
+"id": 17839,
+"en": "Change characters?",
+"ctx": "diálogo uid00020b8c + diálogo uid00020b8d …"
+},
+{
+"id": 17840,
+"en": "%s. You finished getting ready?",
+"ctx": "diálogo uid00020b8f"
+},
+{
+"id": 17841,
+"en": "Can I have a bit more time?",
+"ctx": "diálogo uid00020b8f"
+},
+{
+"id": 17842,
+"en": "Sure. Let me know when you're good.",
+"ctx": "diálogo uid00020b8f"
+},
+{
+"id": 17843,
+"en": "All right. It's almost time.",
+"ctx": "diálogo uid00020b8f"
+},
+{
+"id": 17844,
+"en": "Oh, Haruka. Here for your lesson?",
+"ctx": "diálogo uid00020be7"
+},
+{
+"id": 17845,
+"en": "Yes, please!",
+"ctx": "diálogo uid00020be7 + diálogo uid00020de7 …"
+},
+{
+"id": 17846,
+"en": "On second thought, you're lookin' pretty lifeless at the\nmoment. Can't risk havin' ya get hurt.",
+"ctx": "diálogo uid00020be7"
+},
+{
+"id": 17847,
+"en": "I understand. Thanks, anyway.",
+"ctx": "diálogo uid00020be7"
+},
+{
+"id": 17848,
+"en": "Okay, let's get started. Tell me what you wanna work on.",
+"ctx": "diálogo uid00020be7"
+},
+{
+"id": 17849,
+"en": "(Which song should I choose?)",
+"ctx": "diálogo uid00020be7 + diálogo uid00020de7 …"
+},
+{
+"id": 17850,
+"en": "(How difficult of a lesson do I want?)",
+"ctx": "diálogo uid00020be7 + diálogo uid00020de7 …"
+},
+{
+"id": 17851,
+"en": "(I think I'll try an easy \"So Much More!\" lesson.)",
+"ctx": "diálogo uid00020be7 + diálogo uid00020de7 …"
+},
+{
+"id": 17852,
+"en": "Okay. I can do this!",
+"ctx": "diálogo uid00020be7 + diálogo uid00020de7 …"
+},
+{
+"id": 17853,
+"en": "(I think I'll try \"So Much More!\")",
+"ctx": "diálogo uid00020be7 + diálogo uid00020de7 …"
+},
+{
+"id": 17854,
+"en": "(I think I'll try a hard \"So Much More!\" lesson.)",
+"ctx": "diálogo uid00020be7 + diálogo uid00020de7 …"
+},
+{
+"id": 17855,
+"en": "I'm sorry, I guess I'm not ready for this right now.",
+"ctx": "diálogo uid00020be7 + diálogo uid00020de7"
+},
+{
+"id": 17856,
+"en": "Hey, there isn't much time before the finals. Do whatever ya\nneed to do quick and get back here.",
+"ctx": "diálogo uid00020be7 + diálogo uid01020bda"
+},
+{
+"id": 17857,
+"en": "How do you think I'm doing so far? Do you think I can win\nthe Princess League?",
+"ctx": "diálogo uid00020be7"
+},
+{
+"id": 17858,
+"en": "Well, with your abilities as they stand right now...",
+"ctx": "diálogo uid00020be7"
+},
+{
+"id": 17859,
+"en": "Frankly, I don't think you stand a chance. You gotta sharpen\nyour skills a whole lot more, or you'll just be wastin' your\ntime up on stage.",
+"ctx": "diálogo uid00020be7"
+},
+{
+"id": 17860,
+"en": "I see. Thank you. I'll keep practicing!",
+"ctx": "diálogo uid00020be7 + diálogo uid00020de7"
+},
+{
+"id": 17861,
+"en": "...It's pretty dicey, if ya ask me. You're gonna be going up\nagainst T-Set. You'd hafta somehow pull off some kinda\nmiracle to beat them.",
+"ctx": "diálogo uid00020be7"
+},
+{
+"id": 17862,
+"en": "I see... Thank you.",
+"ctx": "diálogo uid00020be7 + diálogo uid00020de7"
+},
+{
+"id": 17863,
+"en": "I think ya got a real shot. Of course, it really all depends\non how you do when you're up on stage.",
+"ctx": "diálogo uid00020be7"
+},
+{
+"id": 17864,
+"en": "Right. Thank you!",
+"ctx": "diálogo uid00020be7 + diálogo uid00020de7 …"
+},
+{
+"id": 17865,
+"en": "Ya know what? I think you can! Just make sure you don't make\nany serious goofs, and I think you're in.",
+"ctx": "diálogo uid00020be7"
+},
+{
+"id": 17866,
+"en": "Right! Thank you very much!",
+"ctx": "diálogo uid00020be7 + diálogo uid00020de7"
+},
+{
+"id": 17867,
+"en": "Well, you've heard it about a billion times, so I think ya\nknow, but the music for round one, \"So Much More!,\" is a\ncutesy pop song.",
+"ctx": "diálogo uid00020be7"
+},
+{
+"id": 17868,
+"en": "T-Set's specialty is hard dance numbers, so this song's sure\nto take 'em a little outta their element.",
+"ctx": "diálogo uid00020be7"
+},
+{
+"id": 17869,
+"en": "So I think ya got a real shot at the first round. But you\nbetter bust your butt practicin', if you wanna win.",
+"ctx": "diálogo uid00020be7"
+},
+{
+"id": 17870,
+"en": "No, I just dropped in to say hello.",
+"ctx": "diálogo uid00020be7 + diálogo uid00020de7"
+},
+{
+"id": 17871,
+"en": "Hey, there ain't much time before the finals. Do whatever ya\nneed to do quick and get back here.",
+"ctx": "diálogo uid00020be7"
+},
+{
+"id": 17872,
+"en": "Ready to go home?",
+"ctx": "diálogo uid00020be9"
+},
+{
+"id": 17873,
+"en": "Hello, Haruka-chan. All done for the day? Park-san asked me\nto see ya home safe.",
+"ctx": "diálogo uid00020be9"
+},
+{
+"id": 17874,
+"en": "Just lemme know when you're ready. Unless you're ready to go\nnow, that is?",
+"ctx": "diálogo uid00020be9"
+},
+{
+"id": 17875,
+"en": "I'm sorry. Could you wait a little longer?",
+"ctx": "diálogo uid00020be9"
+},
+{
+"id": 17876,
+"en": "You got it. Just lemme know when you're ready to go home.",
+"ctx": "diálogo uid00020be9"
+},
+{
+"id": 17877,
+"en": "Okay, I'm ready.",
+"ctx": "diálogo uid00020be9"
+},
+{
+"id": 17878,
+"en": "All right. Off we go, then.",
+"ctx": "diálogo uid00020be9"
+},
+{
+"id": 17879,
+"en": "Haruka-chan, are you ready to go?",
+"ctx": "diálogo uid00020bf1"
+},
+{
+"id": 17880,
+"en": "I'm sorry. I'm not quite ready.",
+"ctx": "diálogo uid00020bf1"
+},
+{
+"id": 17881,
+"en": "No problem. I'll be waitin' right here.",
+"ctx": "diálogo uid00020bf1"
+},
+{
+"id": 17882,
+"en": "I'm all set.",
+"ctx": "diálogo uid00020bf1 + diálogo uid001305d7 …"
+},
+{
+"id": 17883,
+"en": "Okay, off we go, then.",
+"ctx": "diálogo uid00020bf1"
+},
+{
+"id": 17884,
+"en": "You did it, Haruka! That was some great dancing! All we\ngotta do now is keep our fingers crossed for round two!",
+"ctx": "diálogo uid00020c82"
+}
+]

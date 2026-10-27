@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_taxi_en/taxi/2d_jm_taxi_higi01",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    243,
+    140,
+    780,
+    192
+   ],
+   "en": "SECRET MOVE : FIERY DRIFT",
+   "ocr": "SECRET MOVE: FIERY DRIFT",
+   "es": "MOVIMIENTO SECRETO: DERIVA ARDIENTE",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 533
+  }
+ ]
+}

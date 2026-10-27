@@ -1,0 +1,400 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_mahjong01.par/texlist/2d_yk_mg_mahjong03",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    640,
+    66,
+    892,
+    96
+   ],
+   "en": "Kamurocho Ranking",
+   "es": "Ranking de Kamurocho",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 248,
+   "alto": 23
+  },
+  {
+   "caja": [
+    640,
+    98,
+    892,
+    128
+   ],
+   "en": "Ryukyu Ranking",
+   "es": "Ranking de Ryukyu",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 248,
+   "alto": 23
+  },
+  {
+   "caja": [
+    640,
+    130,
+    892,
+    160
+   ],
+   "en": "Knockout Match",
+   "es": "Eliminatoria",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 248,
+   "alto": 20
+  },
+  {
+   "caja": [
+    640,
+    160,
+    711,
+    192
+   ],
+   "en": "Rank",
+   "es": "Rango",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 67,
+   "alto": 20
+  },
+  {
+   "caja": [
+    888,
+    66,
+    1022,
+    86
+   ],
+   "en": "Kamurocho Ranking",
+   "es": "Ranking de Kamurocho",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 130,
+   "color": [
+    110,
+    110,
+    110
+   ],
+   "alto": 11
+  },
+  {
+   "caja": [
+    888,
+    87,
+    1022,
+    107
+   ],
+   "en": "Ryukyu Ranking",
+   "es": "Ranking de Ryukyu",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 130,
+   "color": [
+    110,
+    110,
+    110
+   ],
+   "alto": 11
+  },
+  {
+   "caja": [
+    888,
+    108,
+    1022,
+    128
+   ],
+   "en": "Knockout Match",
+   "es": "Eliminatoria",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 130,
+   "color": [
+    110,
+    110,
+    110
+   ],
+   "alto": 11
+  },
+  {
+   "caja": [
+    888,
+    130,
+    950,
+    150
+   ],
+   "en": "Rank",
+   "es": "Rango",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 58,
+   "color": [
+    110,
+    110,
+    110
+   ],
+   "alto": 11
+  },
+  {
+   "caja": [
+    471,
+    206,
+    1005,
+    246
+   ],
+   "en": "CONGRATULATIONS!",
+   "es": "¡FELICIDADES!",
+   "fuente": "timesbi.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 530,
+   "mediana": false
+  },
+  {
+   "caja": [
+    534,
+    262,
+    639,
+    298
+   ],
+   "en": "Back",
+   "es": "Atrás",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 99,
+   "fondo": "lama",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 17,
+   "mediana": false
+  },
+  {
+   "caja": [
+    660,
+    262,
+    765,
+    298
+   ],
+   "en": "Back",
+   "es": "Atrás",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 99,
+   "fondo": "lama",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 17,
+   "mediana": false
+  },
+  {
+   "caja": [
+    534,
+    314,
+    639,
+    350
+   ],
+   "en": "Next",
+   "es": "Siguiente",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 99,
+   "fondo": "lama",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 17,
+   "mediana": false
+  },
+  {
+   "caja": [
+    660,
+    314,
+    765,
+    350
+   ],
+   "en": "Next",
+   "es": "Siguiente",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 99,
+   "fondo": "lama",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 17,
+   "mediana": false
+  },
+  {
+   "caja": [
+    534,
+    369,
+    639,
+    397
+   ],
+   "en": "Next",
+   "es": "Siguiente",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 99,
+   "fondo": "lama",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 17,
+   "mediana": false
+  },
+  {
+   "caja": [
+    660,
+    369,
+    765,
+    397
+   ],
+   "en": "Next",
+   "es": "Siguiente",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 99,
+   "fondo": "lama",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 17,
+   "mediana": false
+  },
+  {
+   "caja": [
+    534,
+    411,
+    639,
+    439
+   ],
+   "en": "Back",
+   "es": "Atrás",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 99,
+   "fondo": "lama",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 17,
+   "mediana": false
+  },
+  {
+   "caja": [
+    660,
+    411,
+    765,
+    439
+   ],
+   "en": "Back",
+   "es": "Atrás",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 99,
+   "fondo": "lama",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 17,
+   "mediana": false
+  },
+  {
+   "caja": [
+    534,
+    457,
+    674,
+    493
+   ],
+   "en": "Menu",
+   "es": "Menú",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 134,
+   "fondo": "lama",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 17,
+   "mediana": false
+  },
+  {
+   "caja": [
+    810,
+    464,
+    892,
+    502
+   ],
+   "en": "King",
+   "es": "",
+   "fuente": "timesbi.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 78,
+   "fondo": "lama",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     245,
+     225
+    ],
+    "contorno": [
+     [
+      140,
+      30,
+      10
+     ],
+     2
+    ],
+    "brillo": null
+   },
+   "alto": 20,
+   "mediana": false,
+   "dejar": true
+  }
+ ]
+}

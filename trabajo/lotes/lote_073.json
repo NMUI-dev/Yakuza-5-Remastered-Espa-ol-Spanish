@@ -1,0 +1,962 @@
+[
+{
+"id": 19811,
+"en": "Hahaha, you're a funny guy, Saejima! Hey, maybe I'll see you on the mountain, yeah? Bring your biggest gun...",
+"ctx": "diálogo uid00091b51"
+},
+{
+"id": 19812,
+"en": "\"The Third Man\" was added.",
+"ctx": "diálogo uid00091b51"
+},
+{
+"id": 19813,
+"en": "(That meathead seemed bent on going up the mountain. I'd better tell Okudera-han.)",
+"ctx": "diálogo uid00091b51"
+},
+{
+"id": 19814,
+"en": "Well, if it isn't the guy whose face will be nowhere!",
+"ctx": "diálogo uid00091c2c"
+},
+{
+"id": 19815,
+"en": "You sure ya should be usin' dynamite on someone else's mountain?",
+"ctx": "diálogo uid00091c2c"
+},
+{
+"id": 19816,
+"en": "What's the problem? I'm going to get rid of their dangerous giant bear for them. They should be grateful.",
+"ctx": "diálogo uid00091c2c"
+},
+{
+"id": 19817,
+"en": "They ain't never agreed to this. And for a young pup, ya sure are cocky 'bout Yama-oroshi.",
+"ctx": "diálogo uid00091c2c"
+},
+{
+"id": 19818,
+"en": "Oh, and you being grizzled and grey makes you tough, huh? I'll have you know, I'm confident because I'm a master hunter. The brute doesn't stand a chance.",
+"ctx": "diálogo uid00091c2c"
+},
+{
+"id": 19819,
+"en": "Why ya after Yama-oroshi, anyway?",
+"ctx": "diálogo uid00091c2c"
+},
+{
+"id": 19820,
+"en": "Heh. For the money and fame, obviously! I mean, I guess there's the thrill of the hunt, too.",
+"ctx": "diálogo uid00091c2c"
+},
+{
+"id": 19821,
+"en": "Thrill?",
+"ctx": "diálogo uid00091c2c"
+},
+{
+"id": 19822,
+"en": "Heck yeah. Chasing your quarry down... outsmarting it, watching it drop. Knowing you've won nature's most primal contest. There's nothing like it.",
+"ctx": "diálogo uid00091c2c"
+},
+{
+"id": 19823,
+"en": "Killin's a fun hobby for ya?",
+"ctx": "diálogo uid00091c2c"
+},
+{
+"id": 19824,
+"en": "What's with the look? They're animals. It's not like I'm killing people.",
+"ctx": "diálogo uid00091c2c"
+},
+{
+"id": 19825,
+"en": "Anyway, aren't you out here doing the same thing? Good luck trying to beat me.",
+"ctx": "diálogo uid00091c2c"
+},
+{
+"id": 19826,
+"en": "(The man's trouble, but it ain't my place to stop 'im. Better just tell Okudera-han what's happenin' on the mountain.)",
+"ctx": "diálogo uid00091c2c"
+},
+{
+"id": 19827,
+"en": "Okudera-san will be so happy to see you.",
+"ctx": "diálogo uid00091c2e"
+},
+{
+"id": 19828,
+"en": "How's Okudera-han? Any better?",
+"ctx": "diálogo uid00091c2f"
+},
+{
+"id": 19829,
+"en": "Sadly no.",
+"ctx": "diálogo uid00091c2f"
+},
+{
+"id": 19830,
+"en": "I found him like this when I came to discuss Narumi. It's the wound from his fight with Yama-oroshi.",
+"ctx": "diálogo uid00091c2f"
+},
+{
+"id": 19831,
+"en": "Pretty bad?",
+"ctx": "diálogo uid00091c2f"
+},
+{
+"id": 19832,
+"en": "Yeah. He pushes himself too hard for his age. Always wants to be the tough old man.",
+"ctx": "diálogo uid00091c2f"
+},
+{
+"id": 19833,
+"en": "So whadda we do? Can't ya call an ambulance?",
+"ctx": "diálogo uid00091c2f"
+},
+{
+"id": 19834,
+"en": "You okay there?",
+"ctx": "diálogo uid00091c2f"
+},
+{
+"id": 19835,
+"en": "Sorry. But no, that won't work. In this weather not even a helicopter could fly in, let alone an ambulance. We're just too remote.",
+"ctx": "diálogo uid00091c2f"
+},
+{
+"id": 19836,
+"en": "So what <Italic>can</Italic> we do?",
+"ctx": "diálogo uid00091c2f"
+},
+{
+"id": 19837,
+"en": "In the old days, drinking bear bile was the cure-all for this sort of thing. And it actually did work.",
+"ctx": "diálogo uid00091c2f"
+},
+{
+"id": 19838,
+"en": "...An' now ya don't have any?",
+"ctx": "diálogo uid00091c2f"
+},
+{
+"id": 19839,
+"en": "No.",
+"ctx": "diálogo uid00091c2f + diálogo uid000c069b …"
+},
+{
+"id": 19840,
+"en": "Simple, then. I'll go get some.",
+"ctx": "diálogo uid00091c2f"
+},
+{
+"id": 19841,
+"en": "I thought you might say that. But you have to realize,\nthis is a bear. It's not like hunting deer and rabbits.",
+"ctx": "diálogo uid00091c2f"
+},
+{
+"id": 19842,
+"en": "\"If ya kill, be ready to get killed.\" That's what Okudera-han always says.",
+"ctx": "diálogo uid00091c2f"
+},
+{
+"id": 19843,
+"en": "I owe 'im. And I don't want Nishina to hafta go out huntin' right now.",
+"ctx": "diálogo uid00091c2f"
+},
+{
+"id": 19844,
+"en": "So I'll go. It's the best thing. For everyone.",
+"ctx": "diálogo uid00091c2f"
+},
+{
+"id": 19845,
+"en": "All right. I'm just sorry that all the dangerous work seems to fall on you.",
+"ctx": "diálogo uid00091c2f"
+},
+{
+"id": 19846,
+"en": "Don't let it bother ya. It's my decision.",
+"ctx": "diálogo uid00091c2f"
+},
+{
+"id": 19847,
+"en": "Well, just tell me when you're ready to go. I'll have Okudera-san's gun and supplies ready.",
+"ctx": "diálogo uid00091c2f"
+},
+{
+"id": 19848,
+"en": "Will do. Thanks.",
+"ctx": "diálogo uid00091c2f"
+},
+{
+"id": 19849,
+"en": "\"Kill or Be Killed\" was added.",
+"ctx": "diálogo uid00091c2f"
+},
+{
+"id": 19850,
+"en": "You made it back!",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19851,
+"en": "Now there's a blessing. You can always replace objects, but you can't do the same for your life. Speaking of objects, I'll hold your gun and shells so you can sort out your things!",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19852,
+"en": "Let me know when you're going to the mountain again. And be better prepared this time!",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19853,
+"en": "You should remember you can always replace things, but not your life. Speaking of things, I'll hold onto your gun and shells.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19854,
+"en": "Saejima-san, are you ready to go?",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19855,
+"en": "(Better say my farewells and leave for Tsukimino.)",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19856,
+"en": "I need a bit more time.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19857,
+"en": "Okay. Okudera's condition is worrisome, but you're right⑬you need to be good and ready before you go.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19858,
+"en": "Yeah. Ready to go.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19859,
+"en": "Good, pack your snow gear.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19860,
+"en": "Are you ready to go up now?",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19861,
+"en": "All right. It's time I explained the most important thing of all⑬hunting bears.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19862,
+"en": "I'm all ears.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19863,
+"en": "Hunters usually aim for a bear's heart, but that's pretty difficult for rookies.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19864,
+"en": "That's why I think you should just aim for the head. If you manage to shoot it there, you'll still drop it with one shot.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19865,
+"en": "One shot to the head. Okay.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19866,
+"en": "That's right, and make it count! A wounded bear is a demon incarnate.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19867,
+"en": "Got it. Message received.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19868,
+"en": "Another thing: bears tend to roam around further up the mountain.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19869,
+"en": "The best thing to do is just look for their tracks, and follow those.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19870,
+"en": "Always be careful when you're tracking a bear. You don't want it to see you!",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19871,
+"en": "If it does see you and attacks, whatever you do, don't try to run.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19872,
+"en": "You heard me. A bear runs faster than any man. It will catch you in no time, and then it's all over for you.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19873,
+"en": "Instead of running, your best chance is to stay calm, stand your ground, and keep dodging its attacks until it wears itself out.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19874,
+"en": "If a bear is watching you closely enough, it'll see where you point your gun, and dodge your shots. On the other hand, when it's charging, it's not in defense mode.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19875,
+"en": "That's when you make your move. While the bear is charging, aim between its eyes. You'll drop it dead in its tracks with one shot. Easier said than done, of course.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19876,
+"en": "Sure sounds like it.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19877,
+"en": "But we're still counting on you! Here, take this. It can distract bears.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19878,
+"en": "You got <Color:8>Bear Bait<Color:Default>.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19879,
+"en": "Be careful out there. Don't do anything reckless.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19880,
+"en": "All right. I'll hold onto your mountain gear.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19881,
+"en": "No. We should be leavin' for Tsukimino.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19882,
+"en": "Sorry I took so long.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19883,
+"en": "Somehow. And I got the bear bile.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19884,
+"en": "Incredible... All right, let me fix it up.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19885,
+"en": "The fever's broken. I think he's through the worst of it.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19886,
+"en": "That's good.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19887,
+"en": "How was it, taking on a bear?",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19888,
+"en": "It was different from fightin' Yama-oroshi. With that monster, I jus' felt pure adrenaline. Like I didn't even think about what I was fightin'.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19889,
+"en": "But this time, it wasn't like that. I had a gun, and I wasn't facin' Yama-oroshi. So I could think better. All that said, it was still terrifyin'.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19890,
+"en": "Now I know what it feels like to face somethin' stronger than any man.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19891,
+"en": "And to be honest... it makes me understand Okudera-han even less than I did before.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19892,
+"en": "What's drivin' him to keep after an enemy like that?",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19893,
+"en": "...Who knows?",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19894,
+"en": "Say, I been meanin' to ask⑬why are ya on Okudera-han's side? Seems not many are.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19895,
+"en": "Heh, if anything, I'm more alarmed by him than \"on his side.\" I worry about his total disregard for safety.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19896,
+"en": "Then again... maybe I envy him.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19897,
+"en": "Yer envious?",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19898,
+"en": "To understand why, you have to remember... This village is a tiny world unto itself. To survive here, you have to get along with others, no matter the cost.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19899,
+"en": "That means swallowing one's pride and stifling one's conscience, for the sake of fitting in.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19900,
+"en": "But Okudera doesn't do that. He doesn't care what the others think. He doesn't even care about his own life...",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19901,
+"en": "He's true to himself, and he's got the determination of an ox. So, I admire him for having principles.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19902,
+"en": "Principles, huh?",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19903,
+"en": "...Yes. I have to go now. Uh, Narumi, was it? We'll have to keep an eye on him.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19904,
+"en": "Unfortunately, bear bile's not an easy thing to get.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19905,
+"en": "I can help you, though. I'll hold onto the gun and ammo for now, and you can go sort your things.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19906,
+"en": "Let me know when you're leaving for the mountain. You've got a lot to prepare!",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19907,
+"en": "This could be a long outing. Are you sure you're ready?",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19908,
+"en": "(Better bid farewell to Okudera-han, then head to Tsukimino...)",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19909,
+"en": "All right. Be quick, though!",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19910,
+"en": "Yup. Ready.",
+"ctx": "diálogo uid00091c4c + diálogo uid00690047"
+},
+{
+"id": 19911,
+"en": "Good. Pack up your snow gear.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19912,
+"en": "Are you ready to go up?",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19913,
+"en": "Looks like you're ready to go⑬great! Now, we think Narumi scattered his bait in an area stretching from the foot of the mountain to midway up the peak.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19914,
+"en": "I marked the likely locations of the bait on your map, so that should make it easier for you.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19915,
+"en": "But it'll also be dangerous, because I'm sure plenty of bears have been drawn to the bait by now. Be careful.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19916,
+"en": "Oh, all right. I'll hold on to your snow gear for you.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19917,
+"en": "No. We gotta leave for Tsukimino.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19918,
+"en": "So, Narumi's hurt.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19919,
+"en": "Yeah. He's in trouble. Needs help.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19920,
+"en": "Hmph. Can't say I'm very motivated to help him. On the other hand, it sure would be a nuisance if he died on the mountain.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19921,
+"en": "Fine. I'll tell Nishina. You get some rest. And by the way... thanks for all your efforts.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19922,
+"en": "Okudera-han, a lot's happenin' out there while you been sleepin'...",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19923,
+"en": "Makes you quieter while walking in a crouch.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19924,
+"en": "I guess your search for bear bait isn't going so well.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19925,
+"en": "Well, don't let it bother you too much. I'll hold onto your gun and ammunition while you get your equipment sorted.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19926,
+"en": "Let me know when you're leaving for the mountain. You've got a lot to prepare for!",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19927,
+"en": "Saejima-san, are you ready?",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19928,
+"en": "Need a bit more time.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19929,
+"en": "All right. I'm just sorry that all the tough work seems to fall on you.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19930,
+"en": "Yup, ready.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19931,
+"en": "Good. Get your equipment ready.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19932,
+"en": "Sorry you have to do this. But if Narumi's injured, there's no time to waste.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19933,
+"en": "Leave it to me.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19934,
+"en": "We gave you first aid, but you need to go to the hospital in Tsukimino as soon as possible.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19935,
+"en": "The road there is actually open now. You're lucky beyond words.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19936,
+"en": "Sakurai, can you call him a taxi?",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19937,
+"en": "Yes, I can.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19938,
+"en": "I'm... so sorry...",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19939,
+"en": "If you truly are, then never come back here. That's all the apology we need.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19940,
+"en": "Hehehe. I wouldn't come back if you begged me.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19941,
+"en": "Nishina-san, the taxi will be here soon.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19942,
+"en": "Give this to that old guy for me, will you?",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19943,
+"en": "Narumi handed over the Vertical Double Special.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19944,
+"en": "It shoots transmitters. Shoot your quarry with one, and you can track its position.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19945,
+"en": "I thought I could track that monster, but I won't have the chance now.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19946,
+"en": "It probably won't work if you shoot it into the beast's back or legs. Heck, when I tried, it looked like my shots were bouncing right off it.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19947,
+"en": "But I think it'll work if you shoot it into its soft underbelly.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19948,
+"en": "Nice idea. I'll try it.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19949,
+"en": "We should get going.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19950,
+"en": "This injury... I'll never be able to carry a gun again. What am I supposed to live for now?",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19951,
+"en": "You'll have to find somethin'. You're lucky ya still have that opportunity. Maybe ya oughta keep that in mind.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19952,
+"en": "The search for Narumi's not going well, huh?",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19953,
+"en": "If it makes it any easier, I can hold your gun and shells while you get your stuff sorted.",
+"ctx": "diálogo uid00091c4c"
+},
+{
+"id": 19954,
+"en": "Do you have any idea what you've done? Did you even think about what this could do to us!?",
+"ctx": "diálogo uid00091c70"
+},
+{
+"id": 19955,
+"en": "Hah. Of course I did.",
+"ctx": "diálogo uid00091c70"
+},
+{
+"id": 19956,
+"en": "I was thinking about what a favor I was doing for you all. Or did you <Italic>want</Italic> to keep living terrified of some bear?",
+"ctx": "diálogo uid00091c70"
+},
+{
+"id": 19957,
+"en": "It's not some bear! It's Yama-oroshi.",
+"ctx": "diálogo uid00091c70"
+},
+{
+"id": 19958,
+"en": "See, that's what I'm talking about! You people have made this animal into some kind of god figure.",
+"ctx": "diálogo uid00091c70"
+},
+{
+"id": 19959,
+"en": "Everyone! Pipe down a sec. What happened, exactly?",
+"ctx": "diálogo uid00091c70"
+},
+{
+"id": 19960,
+"en": "These country bumpkins... They don't want anyone to take real action to solve a problem, I guess.",
+"ctx": "diálogo uid00091c70"
+},
+{
+"id": 19961,
+"en": "This braying jackass has been scattering bear bait all over the mountain!",
+"ctx": "diálogo uid00091c70"
+},
+{
+"id": 19962,
+"en": "What? Why're you doin' that?",
+"ctx": "diálogo uid00091c70"
+},
+{
+"id": 19963,
+"en": "He's trying to lure out Yama-oroshi. We'll all be in danger!",
+"ctx": "diálogo uid00091c70"
+},
+{
+"id": 19964,
+"en": "Why? Ya think he'll come down here to the village?",
+"ctx": "diálogo uid00091c70"
+},
+{
+"id": 19965,
+"en": "Not only that, all the other bears are going to smell the food, too. They'll wake up from hibernation.",
+"ctx": "diálogo uid00091c70"
+},
+{
+"id": 19966,
+"en": "...And they'll be crazed as a pack of wild dogs on the hunt!",
+"ctx": "diálogo uid00091c70"
+},
+{
+"id": 19967,
+"en": "They're sure to bring their feeding frenzy to our village!",
+"ctx": "diálogo uid00091c70"
+},
+{
+"id": 19968,
+"en": "So what? I'll kill the whole damn lot. All the bears I can shoot!\nThis'll be the hunting trip of a lifetime.",
+"ctx": "diálogo uid00091c70"
+},
+{
+"id": 19969,
+"en": "Hey! Nishina-san!",
+"ctx": "diálogo uid00091c70"
+},
+{
+"id": 19970,
+"en": "There was another bear sighting!",
+"ctx": "diálogo uid00091c70"
+},
+{
+"id": 19971,
+"en": "Was it Yama-oroshi?",
+"ctx": "diálogo uid00091c70"
+},
+{
+"id": 19972,
+"en": "They couldn't tell; it took off right away. But they said it was huge.",
+"ctx": "diálogo uid00091c70"
+},
+{
+"id": 19973,
+"en": "Okay. Someone needs to tell everyone to get inside.",
+"ctx": "diálogo uid00091c70"
+},
+{
+"id": 19974,
+"en": "I'll do it.",
+"ctx": "diálogo uid00091c70"
+},
+{
+"id": 19975,
+"en": "That's right, you people go home and cower in a corner. That'll keep you out of my way!",
+"ctx": "diálogo uid00091c70"
+},
+{
+"id": 19976,
+"en": "Jerk.",
+"ctx": "diálogo uid00091c70"
+},
+{
+"id": 19977,
+"en": "Is there anything else we can do?",
+"ctx": "diálogo uid00091c70"
+},
+{
+"id": 19978,
+"en": "It's not too late to stop this. We can go pick up all the bait.",
+"ctx": "diálogo uid00091c70"
+},
+{
+"id": 19979,
+"en": "But some bears are out and hungry already. We need all the men to stand guard.",
+"ctx": "diálogo uid00091c70"
+},
+{
+"id": 19980,
+"en": "I'll go get the bait. You two stay with the others to protect the village.",
+"ctx": "diálogo uid00091c70"
+},
+{
+"id": 19981,
+"en": "Nishina-san?",
+"ctx": "diálogo uid00091c70"
+},
+{
+"id": 19982,
+"en": "We accept your help.",
+"ctx": "diálogo uid00091c70"
+},
+{
+"id": 19983,
+"en": "I know eight spots on the mountain where an experienced hunter would put bait. I'll mark them on a map for you. Got it?",
+"ctx": "diálogo uid00091c70"
+},
+{
+"id": 19984,
+"en": "I'll get a pack ready for you at Okudera-san's. Meet me there.",
+"ctx": "diálogo uid00091c70"
+},
+{
+"id": 19985,
+"en": "This is going to require a lot more time on the mountain compared to your last trip, so prep thoroughly, all right?",
+"ctx": "diálogo uid00091c70"
+},
+{
+"id": 19986,
+"en": "We're counting on you!",
+"ctx": "diálogo uid00091c70"
+},
+{
+"id": 19987,
+"en": "\"Hubris\" was added.",
+"ctx": "diálogo uid00091c70"
+},
+{
+"id": 19988,
+"en": "I think that should be enough food for your expedition. But please, be careful out there.",
+"ctx": "diálogo uid00091cc2"
+},
+{
+"id": 19989,
+"en": "Are you the man who saw Yama-oroshi?",
+"ctx": "diálogo uid00091cc2"
+},
+{
+"id": 19990,
+"en": "Yup. May I ask yer name too, ma'am?",
+"ctx": "diálogo uid00091cc2"
+},
+{
+"id": 19991,
+"en": "Kimiyo Nishina. Nishina is my husband.",
+"ctx": "diálogo uid00091cc2"
+},
+{
+"id": 19992,
+"en": "Oh yeah, I met 'im. The hunter fella who's the village chief.",
+"ctx": "diálogo uid00091cc2"
+},
+{
+"id": 19993,
+"en": "(If she's married to him, she prob'ly thinks bad of Okudera, too.)",
+"ctx": "diálogo uid00091cc2"
+},
+{
+"id": 19994,
+"en": "I hope you don't intend to go into the woods.",
+"ctx": "diálogo uid00091cc2"
+},
+{
+"id": 19995,
+"en": "Well, that ain't why I came callin', at least.",
+"ctx": "diálogo uid00091cc2"
+},
+{
+"id": 19996,
+"en": "Oh. Did you come looking for food, perhaps?",
+"ctx": "diálogo uid00091cc2"
+},
+{
+"id": 19997,
+"en": "...How'd ya know that?",
+"ctx": "diálogo uid00091cc2"
+},
+{
+"id": 19998,
+"en": "I remember that day nine years ago... when Okudera-san came to ask for food, just like you're doing now.",
+"ctx": "diálogo uid00091cc2"
+},
+{
+"id": 19999,
+"en": "You may have heard... Nine years ago, Okudera-san went to the mountain in search of his hunter friend.",
+"ctx": "diálogo uid00091cc2"
+},
+{
+"id": 20000,
+"en": "He was determined to help, even though there was a horrible blizzard that day. And he knew that going out there without any food was suicide.",
+"ctx": "diálogo uid00091cc2"
+},
+{
+"id": 20001,
+"en": "So Okudera-han came 'round here lookin' for food?",
+"ctx": "diálogo uid00091cc2"
+},
+{
+"id": 20002,
+"en": "He came 'round everywhere. He went from one house to the other, head bowed, hat in hand. But... well, no one wanted to share their food with an outsider.",
+"ctx": "diálogo uid00091cc2"
+}
+]

@@ -1,0 +1,88 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_shougi.par/texlist/2d_jm_shogi01",
+ "fuente": "times.ttf",
+ "margen": 0,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    3,
+    256,
+    96,
+    284
+   ],
+   "en": "Time Limit",
+   "ocr": "Time Limit",
+   "es": "Tiempo",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 93,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    3,
+    292,
+    92,
+    319
+   ],
+   "en": "Take Back",
+   "ocr": "Take Back",
+   "es": "Deshacer",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 89,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    3,
+    319,
+    142,
+    346
+   ],
+   "en": "Super Take Back",
+   "ocr": "Super Take Back",
+   "es": "Súper deshacer",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 139,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    0,
+    352,
+    200,
+    384
+   ],
+   "en": "Piece Explanation",
+   "ocr": "Piece Explanation",
+   "es": "Guía de piezas",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 196,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  }
+ ]
+}

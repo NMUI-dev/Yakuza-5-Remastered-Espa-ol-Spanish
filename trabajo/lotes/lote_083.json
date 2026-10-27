@@ -1,0 +1,867 @@
+[
+{
+"id": 21726,
+"en": "I really appreciate you taking the time to help me work through this little crisis of mine.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21727,
+"en": "Thanks to you, I did pretty well! I don't know how to thank you. I feel like I'm ready to take on the actual test now!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21728,
+"en": "That's good to hear.",
+"ctx": "diálogo uid000c0c6b + diálogo uid012002be …"
+},
+{
+"id": 21729,
+"en": "Oh, about those questions you helped me with before... Not all of your answers were right.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21730,
+"en": "For the first English question, the correct meaning of \"locomotion\" was \"movement.\"",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21731,
+"en": "For math, the probability of rolling a total of 7 with 2 dice is 6 in 36, or 1 in 6, in other words.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21732,
+"en": "For the history question, it was Commodore Perry who opened up Japan to the West.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21733,
+"en": "For physics, the energy of an object based on its height above the Earth is called \"gravitational potential energy.\"",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21734,
+"en": "And for that bullshit last English question, which was really a Latin question, \"carpe diem\" means \"seize the day.\"",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21735,
+"en": "I see. So I got three out of five, huh?",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21736,
+"en": "I see. So I got four out of five, huh?",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21737,
+"en": "Yeah. Still, if I hadn't met you, it would have been completely hopeless for me.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21738,
+"en": "Besides, you taught me something more important than what the right answer is. You taught me how to answer things in general.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21739,
+"en": "But unfortunately, I ended up making a ton of mistakes based on what you told me.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21740,
+"en": "What? You sure?",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21741,
+"en": "Uh-huh. Here's what the real answers were.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21742,
+"en": "So... I didn't get anything right at all? That's a letdown.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21743,
+"en": "I see. So I only got one out of five, huh? That's a letdown.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21744,
+"en": "I see. So I only got two out of five, huh? That's a letdown.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21745,
+"en": "That was way worse than a letdown. Based on the score I got, the practice exam was a complete failure. Maybe the worst I've ever done.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21746,
+"en": "Oh... Sorry about that. I was sure I put you on the right track.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21747,
+"en": "That said, the way you answered with such confidence really taught me a lesson.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21748,
+"en": "It did?",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21749,
+"en": "Like you said, the right answer will always become clear eventually. Thinking about those words helped me stay calm and get through the test relatively unscathed!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21750,
+"en": "At the very least, I feel like I'm a lot stronger mentally now. I might actually have a chance at passing the real exam!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21751,
+"en": "That's good to hear. I'm glad I was able to help in some way.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21752,
+"en": "I appreciate you taking the time to help me out. You taught me something more important than just rote memorization. Thanks a lot!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21753,
+"en": "You got 1,800 experience points.",
+"ctx": "diálogo uid000c0c6b + diálogo uid000c0de0 …"
+},
+{
+"id": 21754,
+"en": "Hey, it's \"the chicken who ran from Hide\"! Wassup? You up\nfor that dance battle yet?",
+"ctx": "diálogo uid000c0c76"
+},
+{
+"id": 21755,
+"en": "Or do you wanna keep the title?",
+"ctx": "diálogo uid000c0c76"
+},
+{
+"id": 21756,
+"en": "Have it any which way you want. Later.",
+"ctx": "diálogo uid000c0c76 + diálogo uid010c0c75"
+},
+{
+"id": 21757,
+"en": "Tch, what a chickenshit, yo. And here I thought you were\na real hotshot.",
+"ctx": "diálogo uid000c0c76 + diálogo uid010c0c75"
+},
+{
+"id": 21758,
+"en": "I didn't say that, yo.",
+"ctx": "diálogo uid000c0c76 + diálogo uid010c0c75"
+},
+{
+"id": 21759,
+"en": "Oh, yeah? Then, that means you're takin' me on!",
+"ctx": "diálogo uid000c0c76 + diálogo uid010c0c75"
+},
+{
+"id": 21760,
+"en": "I don't like to lose. Plus, I've been watching Haruka dance\na lot lately, too.",
+"ctx": "diálogo uid000c0c76 + diálogo uid010c0c75"
+},
+{
+"id": 21761,
+"en": "Huh? What're you talkin' about?",
+"ctx": "diálogo uid000c0c76 + diálogo uid010c0c75"
+},
+{
+"id": 21762,
+"en": "Heh, nothing. All right, no backing down now. Let's dance.",
+"ctx": "diálogo uid000c0c76 + diálogo uid010c0c75"
+},
+{
+"id": 21763,
+"en": "Hahaha, I knew I was right about you! Let's get it on, yo!\nDaaance battle, baby!",
+"ctx": "diálogo uid000c0c76 + diálogo uid010c0c75"
+},
+{
+"id": 21764,
+"en": "Shinada-san, you did it! Those photos were priceless!\nYamazaki's grimace of despair's gonna be on every tabloid\nacross Japan⑬courtesy of Nightlife Magazine!",
+"ctx": "diálogo uid000c0c7e"
+},
+{
+"id": 21765,
+"en": "I gotta tell you, that was no walk in the park. Going around\nplaying candid camera is totally not my specialty.",
+"ctx": "diálogo uid000c0c7e"
+},
+{
+"id": 21766,
+"en": "Nah, not at all! I'd say you're better off snapping\ncompromising photos than writing dirty articles!\nThis is seriously the work of a master!",
+"ctx": "diálogo uid000c0c7e"
+},
+{
+"id": 21767,
+"en": "Sure, if you say so. Now, let's talk money. You said you'd pay well for those photos, right?",
+"ctx": "diálogo uid000c0c7e"
+},
+{
+"id": 21768,
+"en": "Of course! The chief was strutting around like a peacock\nover them!",
+"ctx": "diálogo uid000c0c7e"
+},
+{
+"id": 21769,
+"en": "You got <Color:8>10,000 yen<Color:Default>.",
+"ctx": "diálogo uid000c0c7e + diálogo uid000c0c8d …"
+},
+{
+"id": 21770,
+"en": "Aww yeah! And Tatsuo hits the jackpot!",
+"ctx": "diálogo uid000c0c7e"
+},
+{
+"id": 21771,
+"en": "You sure did, Shinada-san. Thanks for coming through for us... and for all who hold entertainment sacred!",
+"ctx": "diálogo uid000c0c7e"
+},
+{
+"id": 21772,
+"en": "You got 2,100 experience points.",
+"ctx": "diálogo uid000c0c7e + diálogo uid00160097 …"
+},
+{
+"id": 21773,
+"en": "Seriously!? Yamazaki caught you tailing him?",
+"ctx": "diálogo uid000c0c7e"
+},
+{
+"id": 21774,
+"en": "Uh... yeah...",
+"ctx": "diálogo uid000c0c7e"
+},
+{
+"id": 21775,
+"en": "No wonder Yamazaki suddenly went back to his hotel without any side trips. We thought something strange was going on.",
+"ctx": "diálogo uid000c0c7e"
+},
+{
+"id": 21776,
+"en": "Oh, is that what happened...",
+"ctx": "diálogo uid000c0c7e"
+},
+{
+"id": 21777,
+"en": "Man... What were you doing out there? We had the whole office mobilized to chase this lead. What a wasted effort.",
+"ctx": "diálogo uid000c0c7e"
+},
+{
+"id": 21778,
+"en": "Look, I'm sorry! I've never tailed anyone before. It's not like I'm a one-man detective agency.",
+"ctx": "diálogo uid000c0c7e"
+},
+{
+"id": 21779,
+"en": "All right, all right! I get it! I'm the idiot for asking your help in the first place. Sheesh...",
+"ctx": "diálogo uid000c0c7e"
+},
+{
+"id": 21780,
+"en": "But boy, are you a one-trick pony. Guess it's nightlife or nothing for you, huh?",
+"ctx": "diálogo uid000c0c7e"
+},
+{
+"id": 21781,
+"en": "All right, Shinada-san, get a move on. Your area is Kumano Boulevard. We need definitive evidence of Yamazaki meeting his girl on the side. That'll nail him good!",
+"ctx": "diálogo uid000c0c7e"
+},
+{
+"id": 21782,
+"en": "(Ooh! Are they heading into a love hotel? Oh yeah, baby⑬now it's about to get steamy!)",
+"ctx": "diálogo uid000c0c80"
+},
+{
+"id": 21783,
+"en": "Yesss! Now, don't be shy! Let me see that money shot!",
+"ctx": "diálogo uid000c0c80"
+},
+{
+"id": 21784,
+"en": "Hey, what the⑬ Stop it! Who the fuck are you? Get that camera out of here! Stop it, I said!",
+"ctx": "diálogo uid000c0c80"
+},
+{
+"id": 21785,
+"en": "Eww, who is this creepazoid? Can you please go away?",
+"ctx": "diálogo uid000c0c80"
+},
+{
+"id": 21786,
+"en": "Not until I smash that camera of his! Give me that shit!",
+"ctx": "diálogo uid000c0c80"
+},
+{
+"id": 21787,
+"en": "Hehe, sucks to be you, scumbag! I got what I came for⑬and away I go!",
+"ctx": "diálogo uid000c0c80"
+},
+{
+"id": 21788,
+"en": "Enjoy the rest of your date!",
+"ctx": "diálogo uid000c0c80"
+},
+{
+"id": 21789,
+"en": "Get back here, you cockroach!",
+"ctx": "diálogo uid000c0c80"
+},
+{
+"id": 21790,
+"en": "Hey, Michiruuu! It's meeee! Thanks for coming out here. ♪\nIsn't this the <Italic>perfect</Italic> place for our secret rendezvous!?",
+"ctx": "diálogo uid000c0c80 + diálogo uid010c12b7"
+},
+{
+"id": 21791,
+"en": "Do you really have to talk so goddamn loud? Pipe down,\nfor fuck's sake!",
+"ctx": "diálogo uid000c0c80 + diálogo uid010c12b7"
+},
+{
+"id": 21792,
+"en": "Eep! He's angry! Teehee... That's hot. Almost as hot as when you're on stage! ♪",
+"ctx": "diálogo uid000c0c80 + diálogo uid010c12b7"
+},
+{
+"id": 21793,
+"en": "Holy crap, just shut up. Seriously. Not another word.\nListening to you wears me out.",
+"ctx": "diálogo uid000c0c80 + diálogo uid010c12b7"
+},
+{
+"id": 21794,
+"en": "Hey, that's mean! Why are you even seeing me, then?",
+"ctx": "diálogo uid000c0c80 + diálogo uid010c12b7"
+},
+{
+"id": 21795,
+"en": "Because I wanna rock that deviant little body of yours.\nNow keep your blow hole shut until we get to the room.",
+"ctx": "diálogo uid000c0c80 + diálogo uid010c12b7"
+},
+{
+"id": 21796,
+"en": "(Welp. That must be the side chick. I'll slink along ever-so-silently until I can catch the moment of truth.)",
+"ctx": "diálogo uid000c0c80 + diálogo uid010c12b7"
+},
+{
+"id": 21797,
+"en": "Hey, you're a reporter, aren't you? I knew there was something fishy about you.",
+"ctx": "diálogo uid000c0c80 + diálogo uid000c0c97"
+},
+{
+"id": 21798,
+"en": "Oh, who, me? Nah⑬you must be mistaking me for somebody else.",
+"ctx": "diálogo uid000c0c80 + diálogo uid000c0c97"
+},
+{
+"id": 21799,
+"en": "...Uh-huh. Did you really think you could fool me?",
+"ctx": "diálogo uid000c0c80"
+},
+{
+"id": 21800,
+"en": "Nope! Don't know what you're talking about!",
+"ctx": "diálogo uid000c0c80"
+},
+{
+"id": 21801,
+"en": "Hello? Me again. Yeah, I have to cancel today. Some media prick's been following me around.",
+"ctx": "diálogo uid000c0c80"
+},
+{
+"id": 21802,
+"en": "Wait, you've got it all wrong! I'm just a humble passerby!\nAnd I'm definitely not trying to catch you in the middle of\nyour sexcapade so I can make money off the scandal!",
+"ctx": "diálogo uid000c0c80"
+},
+{
+"id": 21803,
+"en": "Yeah, yeah, I'll make it up to you next time. I'll be throbbing for you, baby. Okay.",
+"ctx": "diálogo uid000c0c80"
+},
+{
+"id": 21804,
+"en": "Hey, sleazeball.",
+"ctx": "diálogo uid000c0c80"
+},
+{
+"id": 21805,
+"en": "Huh? I, uh, beg your pardon?",
+"ctx": "diálogo uid000c0c80"
+},
+{
+"id": 21806,
+"en": "You're long past busted, dipshit.",
+"ctx": "diálogo uid000c0c80"
+},
+{
+"id": 21807,
+"en": "...Crap.",
+"ctx": "diálogo uid000c0c80"
+},
+{
+"id": 21808,
+"en": "Hey, what's your problem? I don't give autographs to dudes. Now quit following me⑬you're starting to creep me out.",
+"ctx": "diálogo uid000c0c80"
+},
+{
+"id": 21809,
+"en": "(Dang, got a bit too close. I need to track him from a little farther away.)",
+"ctx": "diálogo uid000c0c80"
+},
+{
+"id": 21810,
+"en": "(Huh? Where's Yamazaki? Don't tell me I lost him!)",
+"ctx": "diálogo uid000c0c80"
+},
+{
+"id": 21811,
+"en": "(Oh, there's Yamazaki. Whew, can't lose sight of my meal ticket!)",
+"ctx": "diálogo uid000c0c80"
+},
+{
+"id": 21812,
+"en": "(Hey, is that...?)",
+"ctx": "diálogo uid000c0c80"
+},
+{
+"id": 21813,
+"en": "(Yup, that's him all right. Just look at this adulterous asshole! Well, whatever. Gotta get me those photos.)",
+"ctx": "diálogo uid000c0c80"
+},
+{
+"id": 21814,
+"en": "Hello? Yeah, it's me. Are you off work? Huh? What's that?",
+"ctx": "diálogo uid000c0c80"
+},
+{
+"id": 21815,
+"en": "Don't be stupid, babe. You know you're my one true love.\nI told you, the others⑬they're just toys. Appetizers.\nBun warmers at best!",
+"ctx": "diálogo uid000c0c80"
+},
+{
+"id": 21816,
+"en": "Haha, no, I don't plan on sleeping with any more fans...\nNot for a while, anyway. Heheh... gotcha!",
+"ctx": "diálogo uid000c0c80"
+},
+{
+"id": 21817,
+"en": "Uh-huh. Seriously. Wouldn't want another one cutting\nherself... Yeah, she should've gotten rid of it sooner.\nIt's like, how do you not know you're incubating a fetus?",
+"ctx": "diálogo uid000c0c80"
+},
+{
+"id": 21818,
+"en": "Uh-huh. Don't I know it. Okay. I'm on my way right now.\nHope you're ready to get naked.",
+"ctx": "diálogo uid000c0c80"
+},
+{
+"id": 21819,
+"en": "(Man, that was some vile stuff you spewed out there... And you still have the gall to cheat? Better follow this douche from a distance.)",
+"ctx": "diálogo uid000c0c80"
+},
+{
+"id": 21820,
+"en": "(Oh, it's Uda-san from the Sotenbori Merchants Association.)",
+"ctx": "diálogo uid000c0c8c"
+},
+{
+"id": 21821,
+"en": "Hello, Uda-san. What brings you here?",
+"ctx": "diálogo uid000c0c8c"
+},
+{
+"id": 21822,
+"en": "Oh, Sawamura-san. What a coincidence!",
+"ctx": "diálogo uid000c0c8c"
+},
+{
+"id": 21823,
+"en": "Do you think you could spare a minute or two? There's\nsomething I'd like to show you.",
+"ctx": "diálogo uid000c0c8c"
+},
+{
+"id": 21824,
+"en": "Something to show me? What is it?",
+"ctx": "diálogo uid000c0c8c"
+},
+{
+"id": 21825,
+"en": "Take a look at this.",
+"ctx": "diálogo uid000c0c8c"
+},
+{
+"id": 21826,
+"en": "A photo of me?",
+"ctx": "diálogo uid000c0c8c"
+},
+{
+"id": 21827,
+"en": "I saw a junior high school student with it on the street.\nBut I know for a fact this didn't come from Dyna Chair.",
+"ctx": "diálogo uid000c0c8c"
+},
+{
+"id": 21828,
+"en": "Someone is stalking and secretly taking pictures of you, then\nselling those photos without permission.",
+"ctx": "diálogo uid000c0c8c"
+},
+{
+"id": 21829,
+"en": "Someone's taking pictures of me? I honestly had no idea.",
+"ctx": "diálogo uid000c0c8c"
+},
+{
+"id": 21830,
+"en": "The work of a paparazzo, no doubt. I suppose that sort of\nthing happens to many idols, but the Merchants Association\njust can't allow it.",
+"ctx": "diálogo uid000c0c8c"
+},
+{
+"id": 21831,
+"en": "It would damage our reputation to have unauthorized photos\nlike this one being sold on the street!",
+"ctx": "diálogo uid000c0c8c"
+},
+{
+"id": 21832,
+"en": "I want to get this no good creep out of our town! And I'd\nlike to get your cooperation, Sawamura-san, if I may.",
+"ctx": "diálogo uid000c0c8c"
+},
+{
+"id": 21833,
+"en": "My cooperation? But what can I do?",
+"ctx": "diálogo uid000c0c8c"
+},
+{
+"id": 21834,
+"en": "Well, this paparazzo might be pointing his camera lens at\nyou from the shadows this very moment! That's how close he\nmight be at any given time.",
+"ctx": "diálogo uid000c0c8c"
+},
+{
+"id": 21835,
+"en": "So if you ever get the feeling someone is watching you, it\nmight very well be this paparazzo. Please be vigilant at all\ntimes, especially on the street.",
+"ctx": "diálogo uid000c0c8c"
+},
+{
+"id": 21836,
+"en": "And if you happen to notice this paparazzo, could you\nplease give me a call? I'll drop everything and come\nrunning.",
+"ctx": "diálogo uid000c0c8c"
+},
+{
+"id": 21837,
+"en": "Well, Dyna Chair really should be the one looking into this,\nbut yes, of course. I'll do what I can to help.",
+"ctx": "diálogo uid000c0c8c"
+},
+{
+"id": 21838,
+"en": "Wonderful! Just promise you won't try to apprehend him\nyourself. We don't know what kind of man we're dealing with\nhere. He could be dangerous.",
+"ctx": "diálogo uid000c0c8c"
+},
+{
+"id": 21839,
+"en": "All you have to do is call me. I'll take care of the rest.",
+"ctx": "diálogo uid000c0c8c"
+},
+{
+"id": 21840,
+"en": "All right. Thank you.",
+"ctx": "diálogo uid000c0c8c + diálogo uid01020bda …"
+},
+{
+"id": 21841,
+"en": "Remember, stay vigilant! And take care. Thank you,\nSawamura-san.",
+"ctx": "diálogo uid000c0c8c"
+},
+{
+"id": 21842,
+"en": "(There he is again!)",
+"ctx": "diálogo uid000c0c8d"
+},
+{
+"id": 21843,
+"en": "Sawamura-san!",
+"ctx": "diálogo uid000c0c8d + diálogo uid016901a7 …"
+},
+{
+"id": 21844,
+"en": "Uda-san!  There he is! That's the paparazzo!",
+"ctx": "diálogo uid000c0c8d"
+},
+{
+"id": 21845,
+"en": "Got it! Leave this to me!",
+"ctx": "diálogo uid000c0c8d"
+},
+{
+"id": 21846,
+"en": "*pant* *pant* We got him. Nice going, Sawamura-san!",
+"ctx": "diálogo uid000c0c8d"
+},
+{
+"id": 21847,
+"en": "I'm sorry! I'll never do it again! Just let me go!",
+"ctx": "diálogo uid000c0c8d"
+},
+{
+"id": 21848,
+"en": "I never noticed that someone was following me and taking\npictures...",
+"ctx": "diálogo uid000c0c8d"
+},
+{
+"id": 21849,
+"en": "No idea, right? You wouldn't believe the lengths to which we\ngo to stay unnoticed. It's practically an art!",
+"ctx": "diálogo uid000c0c8d"
+},
+{
+"id": 21850,
+"en": "\"Art\"!? I'll give you \"art\"! I'm kicking you out of this\ntown! If I see you here again, I'm calling the police!\nUnderstood!?",
+"ctx": "diálogo uid000c0c8d"
+},
+{
+"id": 21851,
+"en": "Thank you very much for your help, Sawamura-san.",
+"ctx": "diálogo uid000c0c8d"
+},
+{
+"id": 21852,
+"en": "On behalf of the entire Merchants Association, I'd like to\ngive you this small token of our appreciation.",
+"ctx": "diálogo uid000c0c8d"
+},
+{
+"id": 21853,
+"en": "Heheh. Well, this isn't the last you'll see of paparazzi!\nWherever there's an idol, that's where we'll be!",
+"ctx": "diálogo uid000c0c8d"
+},
+{
+"id": 21854,
+"en": "Can it, buddy! Now, get lost! And never come back!",
+"ctx": "diálogo uid000c0c8d"
+},
+{
+"id": 21855,
+"en": "...Yes, sir.",
+"ctx": "diálogo uid000c0c8d"
+},
+{
+"id": 21856,
+"en": "You got 4,000 experience points.",
+"ctx": "diálogo uid000c0c8d + diálogo uid01020caf …"
+},
+{
+"id": 21857,
+"en": "(There he is! That's the paparazzo!)",
+"ctx": "diálogo uid000c0c8d"
+},
+{
+"id": 21858,
+"en": "(Uh-oh! He took off again! I'd better tell Uda-san!)",
+"ctx": "diálogo uid000c0c8d"
+},
+{
+"id": 21859,
+"en": "Uda here. Sawamura-san?",
+"ctx": "diálogo uid000c0c8d"
+},
+{
+"id": 21860,
+"en": "Yes. The paparazzo is running away! He's heading toward\nWest Sotenbori Street! Where are you now, Uda-san?",
+"ctx": "diálogo uid000c0c8d"
+},
+{
+"id": 21861,
+"en": "I'm almost to Shofukucho! Please keep him in your sights\njust a little bit longer!",
+"ctx": "diálogo uid000c0c8d"
+},
+{
+"id": 21862,
+"en": "All right! I'll do my best!",
+"ctx": "diálogo uid000c0c8d"
+},
+{
+"id": 21863,
+"en": "(The paparazzo headed toward West Sotenbori Street. I can't\nlet him get away!)",
+"ctx": "diálogo uid000c0c8d"
+},
+{
+"id": 21864,
+"en": "(There! That must be him. I'd better call Uda-san.)",
+"ctx": "diálogo uid000c0c8d"
+},
+{
+"id": 21865,
+"en": "Hello. Uda here. Is that you, Sawamura-san?",
+"ctx": "diálogo uid000c0c8d"
+},
+{
+"id": 21866,
+"en": "Yes! I found the paparazzo! He's wearing a fishing vest!",
+"ctx": "diálogo uid000c0c8d"
+},
+{
+"id": 21867,
+"en": "Great work! And what is he doing now?",
+"ctx": "diálogo uid000c0c8d"
+},
+{
+"id": 21868,
+"en": "Oh, no! He just took off. It looks like he's heading toward\nWest Shofukucho!",
+"ctx": "diálogo uid000c0c8d"
+},
+{
+"id": 21869,
+"en": "All right! I'm on my way! Don't let him out of your sight!",
+"ctx": "diálogo uid000c0c8d"
+},
+{
+"id": 21870,
+"en": "All right! I won't!",
+"ctx": "diálogo uid000c0c8d"
+},
+{
+"id": 21871,
+"en": "(The paparazzo headed toward West Shofukucho. I'd better\nget after him before he gets away!)",
+"ctx": "diálogo uid000c0c8d"
+},
+{
+"id": 21872,
+"en": "(Is it them...? No, they're just looking around.)",
+"ctx": "diálogo uid000c0c8e"
+},
+{
+"id": 21873,
+"en": "(But I'm sure I felt someone watching me!)",
+"ctx": "diálogo uid000c0c8e"
+},
+{
+"id": 21874,
+"en": "(No. Not them.)",
+"ctx": "diálogo uid000c0c8f"
+},
+{
+"id": 21875,
+"en": "(No, they're just smoking. That's not  him.)",
+"ctx": "diálogo uid000c0c90"
+},
+{
+"id": 21876,
+"en": "(No, that's no paparazzo.)",
+"ctx": "diálogo uid000c0c91"
+},
+{
+"id": 21877,
+"en": "(No. Not that's not him. Where is he?)",
+"ctx": "diálogo uid000c0c92"
+},
+{
+"id": 21878,
+"en": "(No. Certainly not them.)",
+"ctx": "diálogo uid000c0c93"
+},
+{
+"id": 21879,
+"en": "(No way. They're definitely not a paparazzo.)",
+"ctx": "diálogo uid000c0c94"
+},
+{
+"id": 21880,
+"en": "(What're they taking a picture of? I don't think that's\nhim.)",
+"ctx": "diálogo uid000c0c95"
+},
+{
+"id": 21881,
+"en": "(That person is taking a picture, but I don't think they're\nwith the paparazzi.)",
+"ctx": "diálogo uid000c0c96"
+},
+{
+"id": 21882,
+"en": "What's going on, Michiru? Who is this guy?",
+"ctx": "diálogo uid000c0c97"
+},
+{
+"id": 21883,
+"en": "Some dumbass reporter. He was tailing us.",
+"ctx": "diálogo uid000c0c97"
+},
+{
+"id": 21884,
+"en": "No way! He's with the paparazzi?",
+"ctx": "diálogo uid000c0c97"
+},
+{
+"id": 21885,
+"en": "Wait, you've got it all wrong! I'm just a humble passerby!\nWhatever scandal you're involved in is of no interest to me!",
+"ctx": "diálogo uid000c0c97"
+},
+{
+"id": 21886,
+"en": "...You lying little shit. You're long past busted. Now get lost!",
+"ctx": "diálogo uid000c0c97"
+},
+{
+"id": 21887,
+"en": "(Great, there's no way I can follow them now... There goes that big scoop.)",
+"ctx": "diálogo uid000c0c97"
+},
+{
+"id": 21888,
+"en": "...Crap!",
+"ctx": "diálogo uid000c0c97"
+},
+{
+"id": 21889,
+"en": "...Hey. Am I trippin' or are we being followed right now?",
+"ctx": "diálogo uid000c0c97"
+},
+{
+"id": 21890,
+"en": "Huh? There's no way... Not out here. Why, you see some kind\nof paparazzi or something?",
+"ctx": "diálogo uid000c0c97"
+},
+{
+"id": 21891,
+"en": "I dunno, babe... I just can't shake the feeling I'm being watched.",
+"ctx": "diálogo uid000c0c97"
+},
+{
+"id": 21892,
+"en": "(Oops. Got a bit too close... I need to keep the right amount of distance.)",
+"ctx": "diálogo uid000c0c97"
+},
+{
+"id": 21893,
+"en": "(Huh? Where's Yamazaki? Did I lose him?)",
+"ctx": "diálogo uid000c0c97"
+},
+{
+"id": 21894,
+"en": "(Oh, there he is... Come on, man, don't lose him.)",
+"ctx": "diálogo uid000c0c97"
+},
+{
+"id": 21895,
+"en": "Oh, Haruka-chan! Are you ready to show me how it's done\nonstage? I'm ready if you are!",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21896,
+"en": "Well, I don't know how much of an \"example\" I can be. I'm\nactually kind of nervous. But I'll certainly do my best!",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21897,
+"en": "Oh, thank you so much, Haruka-chan!",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21898,
+"en": "I'm sorry, Asuka-chan. I'm afraid I can't right now. Can you\ngive me a little more time?",
+"ctx": "diálogo uid000c0ca3"
+}
+]

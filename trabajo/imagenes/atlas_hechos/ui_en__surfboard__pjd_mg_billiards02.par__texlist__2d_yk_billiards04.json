@@ -1,0 +1,132 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_billiards02.par/texlist/2d_yk_billiards04",
+ "fuente": "LilitaOne-Regular.ttf",
+ "margen": 1,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    11,
+    12,
+    475,
+    56
+   ],
+   "en": "COMBINATION SHOT",
+   "es": "TIRO COMBINADO",
+   "fuente": "LilitaOne-Regular.ttf",
+   "alin": "centro",
+   "efecto": "estilo",
+   "alto": 32,
+   "estilo": {
+    "arriba": [
+     222,
+     247,
+     33
+    ],
+    "abajo": [
+     198,
+     239,
+     16
+    ],
+    "contorno": [
+     [
+      66,
+      69,
+      66
+     ],
+     2
+    ],
+    "brillo": null
+   },
+   "ancho_max": 440
+  },
+  {
+   "caja": [
+    26,
+    60,
+    258,
+    104
+   ],
+   "en": "KISS SHOT",
+   "es": "TIRO DE BESO",
+   "fuente": "LilitaOne-Regular.ttf",
+   "alin": "izq",
+   "sangria": 4,
+   "efecto": "estilo",
+   "alto": 32,
+   "estilo": {
+    "arriba": [
+     255,
+     215,
+     0
+    ],
+    "abajo": [
+     255,
+     174,
+     0
+    ],
+    "contorno": [
+     [
+      66,
+      69,
+      66
+     ],
+     2
+    ],
+    "brillo": null
+   },
+   "ancho_max": 226,
+   "nota": "se estrecha al 81%: no hay version mas corta natural"
+  },
+  {
+   "caja": [
+    16,
+    108,
+    340,
+    152
+   ],
+   "en": "CAROM SHOT",
+   "es": "CARAMBOLA",
+   "fuente": "LilitaOne-Regular.ttf",
+   "alin": "centro",
+   "efecto": "estilo",
+   "alto": 32,
+   "estilo": {
+    "arriba": [
+     0,
+     235,
+     156
+    ],
+    "abajo": [
+     0,
+     215,
+     82
+    ],
+    "contorno": [
+     [
+      66,
+      69,
+      66
+     ],
+     2
+    ],
+    "brillo": null
+   },
+   "ancho_max": 300,
+   "nota": "TIRO DE CARAMBOLA (juego) no cabe: 493 px en celda de 324"
+  },
+  {
+   "caja": [
+    0,
+    160,
+    512,
+    440
+   ],
+   "en": "BREAK & RUN ACE OUT",
+   "es": "",
+   "dejar": true,
+   "nota": "letras gigantes en casillas individuales (animacion letra a letra); jerga de billar"
+  }
+ ],
+ "ceñido": true
+}

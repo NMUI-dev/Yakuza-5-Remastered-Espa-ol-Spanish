@@ -1,0 +1,727 @@
+[
+{
+"id": 3538,
+"en": "This beer has a pleasant aftertaste and depth of flavor that only pure barley malts provide.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3539,
+"en": "This rich, great-tasting beer was specially brewed with delicious malt and two types of hops.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3540,
+"en": "This mix of soda and refreshing lemon flavor is just like the highballs offered at bars and restaurants.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3541,
+"en": "Made from lemons grown in the Mediterranean region, this drink combines refreshing flavor with a distinctive aftertaste.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0005 …"
+},
+{
+"id": 3542,
+"en": "This bento lunch is long past its Sell By date.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3543,
+"en": "This monogrammed bag should make a nice gift.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3544,
+"en": "This French cologne for men is popular for its attractive scent.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3545,
+"en": "The fine, flowery scent of this French perfume makes it a popular item.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3546,
+"en": "This Italian cologne for men gives off a sensual air.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3547,
+"en": "This sensual Italian perfume would make a good gift for a woman.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0088"
+},
+{
+"id": 3548,
+"en": "This French scarf is a popular gift item.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3549,
+"en": "This French wallet is a popular gift item.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3550,
+"en": "This Italian scarf is a popular gift item.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3551,
+"en": "This Italian wallet is a popular gift item.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3552,
+"en": "This French handbag is a popular gift item.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0029 …"
+},
+{
+"id": 3553,
+"en": "This Italian shoulder bag is a popular gift item.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3554,
+"en": "Handcrafted by a skilled watchmaker in Switzerland.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3555,
+"en": "A digital watch made in Asia for those who prefer functionality over style.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3556,
+"en": "This high-quality diver's watch is waterproof up to 200 meters.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3557,
+"en": "This dress is all the rage in Paris.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0029 …"
+},
+{
+"id": 3558,
+"en": "This dress is rather expensive for off-the-rack fashion.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3559,
+"en": "This high-end Italian women's suit is a top-brand item known for its use of color.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0029 …"
+},
+{
+"id": 3560,
+"en": "This high-end Italian women's watch should make a nice gift.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0083"
+},
+{
+"id": 3561,
+"en": "This high-end Italian necklace is the perfect gift for a woman of discerning tastes.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3562,
+"en": "This caviar skin bag would make a perfect gift for a woman of discerning tastes.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0086"
+},
+{
+"id": 3563,
+"en": "This high-end Italian ring would be a nice gift for a woman of discerning tastes.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3564,
+"en": "A high-end silver Italian necklace for men. Makes anyone look and feel more distinguished.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3565,
+"en": "This gold bracelet richly adorns the wrist, and its delicate decorative engravings lend it an air of luxury.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0029 …"
+},
+{
+"id": 3566,
+"en": "This silver bracelet looks chic on any wrist, and goes well with both formal and casual attire.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0029 …"
+},
+{
+"id": 3567,
+"en": "These jewel-studded earrings will gorgeously adorn the ears.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0029 …"
+},
+{
+"id": 3568,
+"en": "Made with glittering gold, these earrings are sure to draw attention.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0029 …"
+},
+{
+"id": 3569,
+"en": "Made of finely crafted leather, this strap is the perfect accessory for any cell phone.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0029 …"
+},
+{
+"id": 3570,
+"en": "This silver strap lends an air of luxury to any cell phone.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0029 …"
+},
+{
+"id": 3571,
+"en": "These famous Italian-brand boots were crafted from high-quality leather.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3572,
+"en": "These finely crafted sandals were made by a famous French brand.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0029 …"
+},
+{
+"id": 3573,
+"en": "This famous Italian-brand belt is the very definition of luxury. Wear this work of art around your waist.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0029 …"
+},
+{
+"id": 3574,
+"en": "Luxury brand women's coat from Britain. A gift like this would make any girl's day.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3575,
+"en": "Designed by a well-established English brand, this blouse uses the finest fabric for the utmost in comfort.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0032"
+},
+{
+"id": 3576,
+"en": "This coat is generously trimmed with this year's most fashionable fur and designed to attract eye-popping attention.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0032"
+},
+{
+"id": 3577,
+"en": "This luxurious, one-hundred percent cashmere sweater has a feminine off-the-shoulder design.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0032"
+},
+{
+"id": 3578,
+"en": "These distinctive black pants accentuate a woman's figure. They are highly sought after by models overseas.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0033"
+},
+{
+"id": 3579,
+"en": "This pretty miniskirt is designed to accentuate the legs and make them look longer.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0033"
+},
+{
+"id": 3580,
+"en": "The finishing touch on this vintage-style flared skirt is its extensive use of handcrafted lace.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0033"
+},
+{
+"id": 3581,
+"en": "This handbag was a gift from Mirei Park.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3582,
+"en": "These sexy pumps are made from slink leather.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0034"
+},
+{
+"id": 3583,
+"en": "Trimmed with rabbit fur, these distinctive-looking short boots perfectly express the season and a lady's femininity.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0034"
+},
+{
+"id": 3584,
+"en": "Made with real leather, these long boots feature an elegant, ankle-thinning profile.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0034"
+},
+{
+"id": 3585,
+"en": "A blend of Mandheling and Brazilian beans with a Colombian base.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0028 …"
+},
+{
+"id": 3586,
+"en": "This is the ultimate cup of coffee, made with top-grade coffee beans.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0028 …"
+},
+{
+"id": 3587,
+"en": "Countless coffee drinkers love mocha for its rich, bitter flavor.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0028 …"
+},
+{
+"id": 3588,
+"en": "Bergamot-scented and brewed with Sri Lankan tea leaves from a farm under exclusive contract.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0028 …"
+},
+{
+"id": 3589,
+"en": "A creamy parfait loaded with fresh strawberries.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0028 …"
+},
+{
+"id": 3590,
+"en": "A sizable parfait loaded with rich, delicious chocolate.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0028 …"
+},
+{
+"id": 3591,
+"en": "Our signature shortcake and a drink.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0028 …"
+},
+{
+"id": 3592,
+"en": "A fried egg, bacon, toast, and your choice of coffee or tea.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0028 …"
+},
+{
+"id": 3593,
+"en": "This set offers a bacon, egg, and lettuce sandwich on white bread.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0028 …"
+},
+{
+"id": 3594,
+"en": "The roux in this beef curry is our own house recipe.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0028 …"
+},
+{
+"id": 3595,
+"en": "As advertised, our Beef Rice meal comes with succulent, tender beef and miso soup.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3596,
+"en": "As advertised, our large Beef Rice meal comes with succulent, tender beef and miso soup.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0055"
+},
+{
+"id": 3597,
+"en": "A bowl of spicy bibimbap. Comes with a salty sweet Korean sauce called gochujang and miso soup on the side.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0055"
+},
+{
+"id": 3598,
+"en": "A large bowl of spicy bibimbap. Comes with a salty sweet Korean sauce called gochujang and miso soup on the side.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0055"
+},
+{
+"id": 3599,
+"en": "Our house special spicy curry is savory and full-bodied. Served with miso soup.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0055"
+},
+{
+"id": 3600,
+"en": "Our house special large spicy curry is savory and full-bodied. Served with miso soup.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3601,
+"en": "Our house special curry is full of good stuff and tastes out of this world. Served with miso soup.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0055"
+},
+{
+"id": 3602,
+"en": "Juicy grilled chicken is sliced, placed on rice, and topped with a special sauce. Served with miso soup.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0055 …"
+},
+{
+"id": 3603,
+"en": "A big portion of juicy grilled chicken is sliced, placed on rice, and topped with a special sauce. Served with miso soup.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3604,
+"en": "One of our most popular meals. Comes with juicy barbecued beef, rice, miso soup, and salad.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3605,
+"en": "One of our most popular meals. Comes with juicy kalbi barbecued beef with an amazing sauce, rice, miso soup, and salad.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3606,
+"en": "Our juicy, piping-hot Hamburg steak meal comes with tasty demi-glace sauce, a sunny-side up egg, rice, miso soup, and salad.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3607,
+"en": "This grilled pork meal is made with only the tastiest meat. Comes with rice, miso soup, salad, and grated daikon.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3608,
+"en": "This meal comes with a healthy serving of taste bud-tantalizing ginger pork, along with rice, miso soup, and salad.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3609,
+"en": "Juicy chicken is grilled and sliced, then paired with a perfectly matched sauce. Includes rice, miso soup, and salad.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3610,
+"en": "Matsuya's famous beef with rice, packaged up and ready to go. The fluffy rice and tender beef are exquisite.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3611,
+"en": "A large helping of Matsuya's famous beef with rice, packaged up to go. The fluffy rice and tender beef are exquisite.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3612,
+"en": "This bowl of spicy Korean-style meat and vegetables comes with a spicy-sweet Korean sauce.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3613,
+"en": "This large bowl of spicy Korean-style meat and vegetables comes with a spicy-sweet Korean sauce.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3614,
+"en": "Our house special spicy curry is savory and full-bodied.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3615,
+"en": "Our house special large spicy curry is savory and full-bodied.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3616,
+"en": "One of our more popular menu items, this dish combines beef rice with curry on the same plate.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3617,
+"en": "Juicy grilled chicken is sliced, placed on rice, and topped with a special sauce.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0004"
+},
+{
+"id": 3618,
+"en": "A big portion of juicy grilled chicken is sliced, placed on rice, and topped with a special sauce.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0004"
+},
+{
+"id": 3619,
+"en": "One of our most popular meals. Comes with juicy barbecued beef, rice, and salad.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0004"
+},
+{
+"id": 3620,
+"en": "Our popular Kalbi Yakiniku Set is made with juicy BBQ rib meat and tasty sauce. Comes with rice and a salad.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3621,
+"en": "Our juicy, piping-hot Hamburg steak meal comes with tasty demi-glace sauce, a sunny-side up egg, rice, and salad.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0004"
+},
+{
+"id": 3622,
+"en": "This grilled pork meal is made with only the tastiest meat. Comes with rice, salad, and grated daikon.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0004"
+},
+{
+"id": 3623,
+"en": "This meal comes with a healthy serving of taste bud-tantalizing ginger pork, along with rice and salad.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0004"
+},
+{
+"id": 3624,
+"en": "Juicy chicken is grilled, sliced, and paired with a perfectly matched sauce. Includes rice and salad.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3625,
+"en": "This beer tastes incredible and goes down smooth.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0026 …"
+},
+{
+"id": 3626,
+"en": "This icy cold highball goes perfectly with takoyaki.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0026 …"
+},
+{
+"id": 3627,
+"en": "Enjoy the moment with the full-bodied flavor of this exceptional highball.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0026 …"
+},
+{
+"id": 3628,
+"en": "This highball is popular with the ladies for its soft, gentle fragrance.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0026 …"
+},
+{
+"id": 3629,
+"en": "Made with plenty of fresh-squeezed fruit juice, this highball has fresh written all over it.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0026 …"
+},
+{
+"id": 3630,
+"en": "Cola mixed with whisky. So simple, so delicious.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0026 …"
+},
+{
+"id": 3631,
+"en": "Enjoy it with a serving of takoyaki.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0026 …"
+},
+{
+"id": 3632,
+"en": "This menu favorite is crispy on the outside, but nestled inside is a firm, juicy nugget of octopus.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0024 …"
+},
+{
+"id": 3633,
+"en": "This takoyaki is topped with rich cheese and mayonnaise, filled with real Hakata spicy fish roe.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3634,
+"en": "Lots of spring onions and grated daikon make this takoyaki delectably delicious. Comes with a simple, bonito-flavored sauce.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0024 …"
+},
+{
+"id": 3635,
+"en": "A perfect dish to have with drinks. Fragrant basil really ramps up the flavor experience.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3636,
+"en": "A perfect dish to have with drinks. Spicy Galician seasoning really ramps up the flavor experience.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3637,
+"en": "Avocado, a favorite among the ladies, is paired with octopus, olive oil, and mayonnaise, then sprinkled with yuzu pepper.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0024 …"
+},
+{
+"id": 3638,
+"en": "Special extra-thick noodles with thick-sliced pork and plenty of bean sprouts are combined with a rich sauce.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3639,
+"en": "This set includes a regular Smile burger, fries, and a drink. Made to go.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3640,
+"en": "This set comes with a Smile cheeseburger, fries, and a drink. Made to go.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3641,
+"en": "This set includes a teriyaki Smile burger with special sauce, fries, and a drink. Made to go.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3642,
+"en": "Our famous King Smile burger, fries, and a drink come with this set. Made to go.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3643,
+"en": "A tasty tuna burger with a unique texture, fries, and a drink. Made to go.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3644,
+"en": "A tender stewed pork burger with fries and a drink. Made to go.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3645,
+"en": "One Smile shake to go. Made with fresh milk.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3646,
+"en": "A five-layer burger reminiscent of Kamurocho's famous Millennium Tower. Made to go.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0028"
+},
+{
+"id": 3647,
+"en": "Our standard burger set with a Smile burger, fries, and a beverage.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0056"
+},
+{
+"id": 3648,
+"en": "This set includes a Smile cheeseburger, fries, and a drink.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0056"
+},
+{
+"id": 3649,
+"en": "This set includes a teriyaki Smile burger with special sauce, fries, and a beverage.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3650,
+"en": "This famous set comes with a King Smile burger, fries, and a drink.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3651,
+"en": "A tasty tuna burger with a unique texture, fries, and a drink come with this set.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3652,
+"en": "A tender, stewed pork burger with fries and a drink.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3653,
+"en": "One Smile shake made with fresh milk.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3654,
+"en": "A five-layer burger reminiscent of Kamurocho's famous Millennium Tower.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0056"
+},
+{
+"id": 3655,
+"en": "A standard menu item offering the authentic taste of Kyushu tonkotsu ramen.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0057"
+},
+{
+"id": 3656,
+"en": "Our famous tonkotsu ramen topped with tender, juicy pork belly that'll melt in your mouth.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0057"
+},
+{
+"id": 3657,
+"en": "Tasty tonkotsu ramen topped with thin, succulent slices of roast pork.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0057"
+},
+{
+"id": 3658,
+"en": "This tonkotsu ramen is topped with spicy roe imported straight from Kyushu.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0057"
+},
+{
+"id": 3659,
+"en": "Our signature tonkotsu ramen is now available to enjoy as tsukemen for your noodle-dipping pleasure.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0057"
+},
+{
+"id": 3660,
+"en": "Our special roast pork, tender and succulent, is sliced thin and placed over a bowl of rice.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0057"
+},
+{
+"id": 3661,
+"en": "Fresh organ meat is stewed in a rich soup of white miso for a delectable flavor experience.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0003"
+},
+{
+"id": 3662,
+"en": "Our soy sauce-based organ meat stew is our number one menu favorite.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0003"
+},
+{
+"id": 3663,
+"en": "Enjoy your motsu stew shabu-shabu style! Comes with a simple soup base of dried bonito and seaweed.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0003 …"
+},
+{
+"id": 3664,
+"en": "This exquisitely savory dish consists of a choice selection of organ meat grilled over a charcoal fire.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0003"
+},
+{
+"id": 3665,
+"en": "This organ meat has been pickled in vinegar. Enjoy its light flavor and distinctive texture.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0003"
+},
+{
+"id": 3666,
+"en": "Fukuoka is synonymous with pork-based tonkotsu ramen. Nothing's better than a bowl of these noodles after a night out drinking.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0011"
+},
+{
+"id": 3667,
+"en": "What could be better than ramen topped with a heaping portion of tender, fatty slices of pork? Give your stamina a boost!",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0011"
+},
+{
+"id": 3668,
+"en": "These noodles are fried up in a tonkotsu broth. A hidden gem of the Fukuoka food scene.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0011"
+},
+{
+"id": 3669,
+"en": "This is the perfect dish when you're looking for something different. Its savory fragrance will leave you wanting more.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0011"
+},
+{
+"id": 3670,
+"en": "Packed with flavorful meat, these pig's feet are a popular à la carte item at Fukuoka ramen shops and stalls.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0011"
+},
+{
+"id": 3671,
+"en": "Our original house special tonkotsu ramen. Enjoy this delectable combination of firm noodles and slow-simmered pork bone soup.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0005"
+},
+{
+"id": 3672,
+"en": "Our original wonton ramen. This popular menu item features juicy handmade wontons in our special house ramen.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0005"
+},
+{
+"id": 3673,
+"en": "Our special gyoza, each one individually handmade, are packed with a mouthwatering filling seasoned with tonkotsu stock.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0005"
+},
+{
+"id": 3674,
+"en": "This old favorite is loaded with vegetables freshly harvested in beautiful Kyushu and stir-fried just for you.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0005"
+},
+{
+"id": 3675,
+"en": "Two starters, sashimi, mizutaki, egg & rice porridge or champon noodles, and pickles.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0000"
+},
+{
+"id": 3676,
+"en": "Two starters, appetizers, sashimi, a seasonal dish, mizutaki, egg & rice porridge or champon noodles, pickles, and dessert.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0000"
+},
+{
+"id": 3677,
+"en": "Two starters, appetizers, sashimi, a special dish, a seasonal dish, mizutaki, porridge or champon noodles, pickles, and fruit.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0000"
+},
+{
+"id": 3678,
+"en": "Our classic mizutaki hot pot. Experience the unique flavors our shop has to offer.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0000 …"
+},
+{
+"id": 3679,
+"en": "Enjoy our house special chicken karaage flavored with our mizutaki soup, ponzu, and yuzu pepper.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0000"
+},
+{
+"id": 3680,
+"en": "Introducing our house special tsukune seasoned with our special sauce. These skewered meatballs are firm and juicy.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0000"
+},
+{
+"id": 3681,
+"en": "This salad is packed with collagen from carefully selected free-range chickens.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0000"
+},
+{
+"id": 3682,
+"en": "This pudding is packed with collagen from carefully selected free-range chickens.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0000"
+}
+]

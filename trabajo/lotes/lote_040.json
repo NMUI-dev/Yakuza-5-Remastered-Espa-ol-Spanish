@@ -1,0 +1,1657 @@
+[
+{
+"id": 10320,
+"en": "I got the three toxic mushrooms for that guy from Tsukimino. Medicine's an odd thing.",
+"ctx": "tabla yukiyama_menu_mission|EXPLANATION_END"
+},
+{
+"id": 10321,
+"en": "Looks like I passed Okudera-han's test. Gotta keep learnin', though.",
+"ctx": "tabla yukiyama_menu_mission|EXPLANATION_END"
+},
+{
+"id": 10322,
+"en": "Turns out there was no wild snowman. It's fun to dream, I guess.",
+"ctx": "tabla yukiyama_menu_mission|EXPLANATION_END"
+},
+{
+"id": 10323,
+"en": "Got the bear fat to the woman with bad skin. Marriage, huh?",
+"ctx": "tabla yukiyama_menu_mission|EXPLANATION_END"
+},
+{
+"id": 10324,
+"en": "Rescued the trapper from his own trap. Can never be too careful, I guess.",
+"ctx": "tabla yukiyama_menu_mission|EXPLANATION_END"
+},
+{
+"id": 10325,
+"en": "Found a bear skin for that ramen guy. That order sounded like a magic spell.",
+"ctx": "tabla yukiyama_menu_mission|EXPLANATION_END"
+},
+{
+"id": 10326,
+"en": "Sold a marten pelt to the trader.",
+"ctx": "tabla yukiyama_menu_mission|EXPLANATION_END"
+},
+{
+"id": 10327,
+"en": "Sold a fox skin to the trader.",
+"ctx": "tabla yukiyama_menu_mission|EXPLANATION_END"
+},
+{
+"id": 10328,
+"en": "Sold deer meat to the trader.",
+"ctx": "tabla yukiyama_menu_mission|EXPLANATION_END"
+},
+{
+"id": 10329,
+"en": "Sold a whole deer to the trader.",
+"ctx": "tabla yukiyama_menu_mission|EXPLANATION_END"
+},
+{
+"id": 10330,
+"en": "Sold a whole bear to the trader. Normal folks should steer clear of yakuza.",
+"ctx": "tabla yukiyama_menu_mission|EXPLANATION_END"
+},
+{
+"id": 10331,
+"en": "Hunter Lesson",
+"ctx": "tabla yukiyama_menu_title|TITTLE + tabla yukiyama_mission_explanation|NAME"
+},
+{
+"id": 10332,
+"en": "Creeping Terror",
+"ctx": "tabla yukiyama_menu_title|TITTLE + tabla yukiyama_mission_explanation|NAME"
+},
+{
+"id": 10333,
+"en": "White Darkness",
+"ctx": "tabla yukiyama_menu_title|TITTLE + tabla yukiyama_mission_explanation|NAME"
+},
+{
+"id": 10334,
+"en": "The Third Man",
+"ctx": "tabla yukiyama_menu_title|TITTLE + tabla yukiyama_mission_explanation|NAME"
+},
+{
+"id": 10335,
+"en": "Kill or Be Killed",
+"ctx": "tabla yukiyama_menu_title|TITTLE + tabla yukiyama_mission_explanation|NAME"
+},
+{
+"id": 10336,
+"en": "Hubris",
+"ctx": "tabla yukiyama_menu_title|TITTLE + tabla yukiyama_mission_explanation|NAME"
+},
+{
+"id": 10337,
+"en": "Pride's Toll",
+"ctx": "tabla yukiyama_menu_title|TITTLE + tabla yukiyama_mission_explanation|NAME"
+},
+{
+"id": 10338,
+"en": "Tag the Beast",
+"ctx": "tabla yukiyama_menu_title|TITTLE + tabla yukiyama_mission_explanation|NAME"
+},
+{
+"id": 10339,
+"en": "The Truth",
+"ctx": "tabla yukiyama_menu_title|TITTLE + tabla yukiyama_mission_explanation|NAME"
+},
+{
+"id": 10340,
+"en": "Principles",
+"ctx": "tabla yukiyama_menu_title|TITTLE + tabla yukiyama_mission_explanation|NAME"
+},
+{
+"id": 10341,
+"en": "Free Entry",
+"ctx": "tabla yukiyama_menu_title|TITTLE + tabla yukiyama_mission_explanation|NAME"
+},
+{
+"id": 10342,
+"en": "Gotta follow the river to avoid gettin' lost. Have to hurry before the cold gets me.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10343,
+"en": "There's a bear nearby. Gotta follow the river and find Baba-chan.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10344,
+"en": "Baba-chan could be in trouble. Better hurry.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10345,
+"en": "Gotta get a rabbit to nurse Baba back to health.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10346,
+"en": "Okudera-han's supposed to be close. Guess I should go deeper.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10347,
+"en": "Okudera-han says it's important. Gotta crouch and make sure I ain't seen.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10348,
+"en": "Gotta reload to use the gun. Let's give it a go.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10349,
+"en": "Gotta nail the boulder across the stream.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10350,
+"en": "Off to find that huntin' hut. I should check the map to avoid gettin' lost.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10351,
+"en": "Look for deer tracks, huh? Should be some right around here.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10352,
+"en": "Gotta follow the deer tracks. They'll lead me to my prey.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10353,
+"en": "I'll crouch down to sneak up on deer. Gotta hunt to survive on the mountain, right?",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10354,
+"en": "Time to collect the deer I shot. Can't waste the life they gave up for me.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10355,
+"en": "Back to the village. Gotta repay Nishina-han's wife for the favor.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10356,
+"en": "After returning the favor, I'll head over to Okudera-han and learn to trap.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10357,
+"en": "Gotta go up along the river and look for trap sites.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10358,
+"en": "Set a trap at that trap site there, huh? Sounds easy enough.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10359,
+"en": "There should be other trap sites here. I should find 'em with a quick look around.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10360,
+"en": "There should be one more trap site here. Gotta find it somehow.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10361,
+"en": "I set traps at the trap sites around here. Guess I'll go check if anything's been caught yet.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10362,
+"en": "Yama-oroshi! Here!? I gotta chase it away from the village!",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10363,
+"en": "Two choices. Leave for Tsukimino now, or stay here to hunt a while longer.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10364,
+"en": "Nishina-han and another guy haven't come back from the mountain yet...",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10365,
+"en": "Nishina-han hasn't returned from the mountain. I should check on his wife.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10366,
+"en": "Nishina-han's wife is worried. Gotta tell Okudera-han and, then go find these people.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10367,
+"en": "Gotta find some sort of a clue. Guess I'll just hike around till I find one.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10368,
+"en": "These footprints should lead me to Nishina-han or the lost guy.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10369,
+"en": "This guy's gonna need food.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10370,
+"en": "The mountain's a rough place. I gotta be tougher to survive.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10371,
+"en": "There's a stranger at the village entrance. Sakurai-han seemed concerned, too.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10372,
+"en": "Narumi's after Yama-oroshi as well. Better let Okudera-han know.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10373,
+"en": "That blast had to be Narumi's doin'. Gotta go deeper and find him.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10374,
+"en": "Narumi's gotta be close. Let's follow the footprints from the blast site.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10375,
+"en": "That Narumi better not cause any trouble. Not gonna lie, I'm worried.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10376,
+"en": "Okudera-han's sick. Gotta check on him...",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10377,
+"en": "I gotta get bear bile for Okudera-han. Need to get ready and tell Sakurai-han before I head out.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10378,
+"en": "First, I gotta find some bear tracks. Gotta make sure the cold doesn't do me in, too.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10379,
+"en": "Follow the bear tracks, and I'll find a bear. Can't lose sight of these tracks.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10380,
+"en": "Bears could be in the area. Gotta be careful.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10381,
+"en": "This area seems to be the bear's territory. I'll find it and get the bile I need.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10382,
+"en": "Managed to take that bear down. Just need the bile, and to give thanks for it.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10383,
+"en": "Okudera-han's condition's settled, but what'll I do from here?",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10384,
+"en": "Narumi scattered bear bait across the mountain. Gotta tell Sakurai-han when I can go get them.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10385,
+"en": "There's supposed to be around eight pieces of bear bait scattered around. Gotta go on foot and find 'em.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10386,
+"en": "Found one. Seven left. Got a long ways to go.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10387,
+"en": "That's the second one. Six more bear bait pieces to go.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10388,
+"en": "That's the third. Where are the other five pieces?",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10389,
+"en": "Four found. Halfway there.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10390,
+"en": "Finally. That's five. Three more to go.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10391,
+"en": "That's six recovered, two more to go. Not much left.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10392,
+"en": "That's seven . Just one left to find. Gotta keep at it.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10393,
+"en": "Got all the bear bait, but that gunfire's worryin'. Better check it out.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10394,
+"en": "Narumi might be where he was before. Let's track his footprints.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10395,
+"en": "I can't kill Yama-oroshi now. Gotta beat it down off the mountain!",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10396,
+"en": "Made it off the mountain, but just barely. Did Narumi make it down safe?",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10397,
+"en": "Narumi's not back from the mountain. Gotta tell Sakurai-han and rescue Narumi.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10398,
+"en": "Gotta head to where Yama-oroshi appeared. Should be some clues there.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10399,
+"en": "Narumi might still be alive. Gotta follow this blood trail.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10400,
+"en": "That's a lot of blood. Gotta hurry. Narumi might be bleedin' out.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10401,
+"en": "Gotta get Narumi to the village. Despite all he's done, I ain't lettin' him die.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10402,
+"en": "Not far to the village now. Gotta get there before Narumi drops dead.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10403,
+"en": "Narumi went off to a hospital in town. Okudera-han's condition is worryin' me, though.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10404,
+"en": "Okudera-han's better. What a relief. Gotta get ready to shoot Yama-oroshi with a transmitter shot.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10405,
+"en": "Gotta find Yama-oroshi with nothin' to go on. Maybe I'll head to mid-mountain as a start.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10406,
+"en": "Shootin' the back or legs is no good. Gotta plug it right in the belly. I'll take the shot when it stands!",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10407,
+"en": "Got the transmitter planted. Mission accomplished. Back to the village.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10408,
+"en": "We know where Yama-oroshi is. Gotta get ready to go up with Okudera-han.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10409,
+"en": "Yama-oroshi's location is on the map. We'll use that to chase it down.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10410,
+"en": "Yama-oroshi's movin' deeper into the wild. Gotta rely on this signal and chase it down.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10411,
+"en": "It's going even deeper? Well, we just gotta keep chasin' it this way.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10412,
+"en": "It's still goin' deeper up the mountain. Gotta be careful while chasin' the signal.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10413,
+"en": "Yama-oroshi's across the canyon. Even Okudera-han can't do a thing about that.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10414,
+"en": "Okudera-han went up by himself. The man's still too weak for that. I gotta help him.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10415,
+"en": "Okudera-han's been up there a long while. I'll go deeper and find the man.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10416,
+"en": "Nishina-han said he had somethin' to show me at his place...",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10417,
+"en": "Nishina-han's in his storage shed. What's he want to show me?",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10418,
+"en": "Gotta settle things with Yama-oroshi. Time to get geared up at Okudera-han's and go.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10419,
+"en": "Yama-oroshi should be around here. Gotta stay alert...",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10420,
+"en": "Time to settle score. This is one fight I can't lose!",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10421,
+"en": "The gun's useless! Nothin' to do but slug it out!",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10422,
+"en": "Gotta pick off all three, nice and neat. Concentrate.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10423,
+"en": "Yama-oroshi won't come down near the village again. I should visit Okudera-han now and then.",
+"ctx": "tabla yukiyama_mission_explanation|EXPLANATION"
+},
+{
+"id": 10424,
+"en": "Yuya",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10425,
+"en": "Yuya here.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10426,
+"en": "Sorry about the other day.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10427,
+"en": "I looked all over for work",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10428,
+"en": "and ended up getting a gig",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10429,
+"en": "as a live-in waiter at a",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10430,
+"en": "hostess club. The place is",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10431,
+"en": "called La Seine. I'm going",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10432,
+"en": "to try starting over in this",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10433,
+"en": "town, too!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10434,
+"en": "It's Ayako.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10435,
+"en": "Thanks for the money,",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10436,
+"en": "Haruka. Don't overdo it,",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10437,
+"en": "okay? We saw you on TV",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10438,
+"en": "the other day! All of us at",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10439,
+"en": "Morning Glory were thrilled.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10440,
+"en": "Thanks, but we're fine! ",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10441,
+"en": "We're as happy as ever",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10442,
+"en": "here. How about you?",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10443,
+"en": "Want us to send you some",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10444,
+"en": "goya?",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10445,
+"en": "Ayako here.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10446,
+"en": "Is that interview the",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10447,
+"en": "one where you answer",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10448,
+"en": "questions from readers?",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10449,
+"en": "Make sure you do a",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10450,
+"en": "good job!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10451,
+"en": "Information Dealer",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10452,
+"en": "New developments",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10453,
+"en": "The name Akihiko Yamori was",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10454,
+"en": "added to the blacklist by",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10455,
+"en": "the Kansai credit ratings",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10456,
+"en": "The past few days, it looks",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10457,
+"en": "like he went to see a number",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10458,
+"en": "of moneylenders in Osaka",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10459,
+"en": "but got turned away by all.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10460,
+"en": "Forgot to tell you!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10461,
+"en": "Kiryu-san! I forgot to tell you",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10462,
+"en": "something important!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10463,
+"en": "If you take a perfect shot,",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10464,
+"en": "I want you to upload it to",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10465,
+"en": "an image site I made!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10466,
+"en": "I can't wait to see what you",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10467,
+"en": "come up with!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10468,
+"en": "I love you<Sign:1>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10469,
+"en": "Thanks a lot for today,",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10470,
+"en": "Kiryu-san. <Sign:43>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10471,
+"en": "I'm glad that all got sorted",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10472,
+"en": "out before it got out of control. <Sign:9>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10473,
+"en": "I'll bring you some homemade",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10474,
+"en": "cooking sometime. I hope",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10475,
+"en": "you'll try it. <Sign:4>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10476,
+"en": "This is Riku",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10477,
+"en": "I should reply to her email. Hmm...",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10478,
+"en": "I'll definitely stop by again.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10479,
+"en": "When are you in next?",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10480,
+"en": "I like you.",
+"ctx": "menú/texto mail + diálogo uid01340003 …"
+},
+{
+"id": 10481,
+"en": "I appreciate you coming to",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10482,
+"en": "see me today! <Sign:3>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10483,
+"en": "It sounds like you're pretty",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10484,
+"en": "busy with work, but I hope",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10485,
+"en": "you'll stop by sometime. <Sign:0>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10486,
+"en": "Re:Re: This is Riku",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10487,
+"en": "I should reply to her e-mail. Hmm...",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10488,
+"en": "I'm on my way.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10489,
+"en": "I should surprise her by going unannounced.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10490,
+"en": "I'll be in all week!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10491,
+"en": "If you can come, let me know in",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10492,
+"en": "advance, okay? <Sign:1>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10493,
+"en": "Hope to see you at the club,",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10494,
+"en": "Got it!",
+"ctx": "menú/texto mail + diálogo uid000213d1 …"
+},
+{
+"id": 10495,
+"en": "Okay, I'll be waiting for",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10496,
+"en": "you. <Sign:30>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10497,
+"en": "It's pretty packed today, so",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10498,
+"en": "come early if you can. <Sign:43>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10499,
+"en": "Hi from Riku",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10500,
+"en": "I'll stop by again soon.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10501,
+"en": "I don't like selfish women.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10502,
+"en": "You're making a lot of typos.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10503,
+"en": "Whenver you come see mee,",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10504,
+"en": "time seem to fly by,",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10505,
+"en": "you kno? <Sign:11>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10506,
+"en": "There are tons of stuffs I",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10507,
+"en": "want to talk about, but I",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10508,
+"en": "don't want to hog your time.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10509,
+"en": "See you a round. <Sign:40>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10510,
+"en": "You're working too much.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10511,
+"en": "You drunk?",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10512,
+"en": "Happens to me too.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10513,
+"en": "Dunno why, but I'm real",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10514,
+"en": "sleepy... ",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10515,
+"en": "The auto correct on my phone",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10516,
+"en": "is playing up, so the email",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10517,
+"en": "got all weird... <Sign:19>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10518,
+"en": "I know, I shouldn't blame my",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10519,
+"en": "phone. I'll be more careful. <Sign:5>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10520,
+"en": "Re: Don't worry about it",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10521,
+"en": "Yeah? I never knew you had",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10522,
+"en": "a goofy side, Kiryu-san. <Sign:3>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10523,
+"en": "Now you've got me curious.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10524,
+"en": "I want to see that kind of",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10525,
+"en": "email from you, too. <Sign:30>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10526,
+"en": "Keep emailing me, okay? <Sign:26>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10527,
+"en": "I'm here for you!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10528,
+"en": "Guess your phone bill's gonna be a problem too.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10529,
+"en": "Nothing in particular right now.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10530,
+"en": "I can't say it on the phone, so I'll tell you at the club.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10531,
+"en": "My friend was just asking me",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10532,
+"en": "for some advice on the",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10533,
+"en": "phone. It took so long, my",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10534,
+"en": "battery's almost dead!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10535,
+"en": "Do you have any problems?",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10536,
+"en": "I'm always happy to lend an",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10537,
+"en": "ear!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10538,
+"en": "For free? That's impressive.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10539,
+"en": "I'm surprised you don't get tired of that.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10540,
+"en": "Account?",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10541,
+"en": "It's okay, I use a VoIP",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10542,
+"en": "phone service. <Sign:16>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10543,
+"en": "I can talk as long as I",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10544,
+"en": "want, and it's free. <Sign:48>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10545,
+"en": "Haven't you signed up for",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10546,
+"en": "one, Kiryu-san?",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10547,
+"en": "If you get an account, let",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10548,
+"en": "me know! <Sign:32>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10549,
+"en": "Re: ????",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10550,
+"en": "No need for all those",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10551,
+"en": "question marks. <Sign:19>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10552,
+"en": "I guess you aren't that good",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10553,
+"en": "with technology, huh? <Sign:41>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10554,
+"en": "If you spend a lot of time",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10555,
+"en": "on the phone with someone,",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10556,
+"en": "you'll save a lot by using",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10557,
+"en": "a VoIP phone service!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10558,
+"en": "Oops, my battery's on its",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10559,
+"en": "last legs. <Sign:25> Bye! <Sign:40>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10560,
+"en": "Doing some cooking",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10561,
+"en": "I don't have a lot of time.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10562,
+"en": "I'll help taste test.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10563,
+"en": "Keep your eyes on the stove.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10564,
+"en": "I'm trying a new recipe.<Sign:12>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10565,
+"en": "I have to leave it on ",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10566,
+"en": "boil a while, so thought I'd",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10567,
+"en": "email you. <Sign:38>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10568,
+"en": "I can't wait to give it a",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10569,
+"en": "taste. <Sign:35> Hehe.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10570,
+"en": "I'm bored, so can you",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10571,
+"en": "help me kill some time",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10572,
+"en": "until it's ready? <Sign:30>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10573,
+"en": "Re: Helping out",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10574,
+"en": "I'm looking forward to it.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10575,
+"en": "It's important to get the opinion of others.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10576,
+"en": "That's too bad.",
+"ctx": "menú/texto mail + diálogo uid00021a89 …"
+},
+{
+"id": 10577,
+"en": "I'm still practicing, so no",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10578,
+"en": "tasting yet. <Sign:17>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10579,
+"en": "I'm keeping it all to myself",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10580,
+"en": "until it's good enough to",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10581,
+"en": "serve up to someone.<Sign:4>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10582,
+"en": "But I will send you a pic",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10583,
+"en": "when it's cooked. Will that",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10584,
+"en": "do? <Sign:21>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10585,
+"en": "What a disaster...",
+"ctx": "menú/texto mail + frase de acompañante/calle STID_ST_S_SYURAKU"
+},
+{
+"id": 10586,
+"en": "I've gone and ruined it... <Sign:19>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10587,
+"en": "I added too much sugar, so",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10588,
+"en": "it's way too sweet. <Sign:49>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10589,
+"en": "I couldn't even finish a",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10590,
+"en": "mouthful. What a bummer. <Sign:10>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10591,
+"en": "There won't be any pics. <Sign:12>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10592,
+"en": "Sorry... <Sign:10>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10593,
+"en": "Don't use your phone while you're driving!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10594,
+"en": "Want me to come pick you up?",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10595,
+"en": "I'm in a rush, and I got",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10596,
+"en": "stuck in a traffic jam!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10597,
+"en": "Grr! <Sign:42>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10598,
+"en": "So much for leaving early so",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10599,
+"en": "I wouldn't be late! It's",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10600,
+"en": "almost like the whole world",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10601,
+"en": "is out to get me... <Sign:43>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10602,
+"en": "Know any way around it? <Sign:30>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10603,
+"en": "Re:Re: !!!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10604,
+"en": "You should give me extra service at the club in exchange.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10605,
+"en": "I'm not a handyman.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10606,
+"en": "I don't need money.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10607,
+"en": "The road is totally clogged,",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10608,
+"en": "so there's no point in coming!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10609,
+"en": "Still, I guess you taxi",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10610,
+"en": "drivers are good at weaving",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10611,
+"en": "through traffic, huh? <Sign:43><Sign:41>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10612,
+"en": "Give me a ride next time I'm",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10613,
+"en": "in a rush. <Sign:33> Oh, and a",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10614,
+"en": "discount, too. <Sign:0>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10615,
+"en": "Now you're talking. <Sign:3>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10616,
+"en": "But I guess that'd count as",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10617,
+"en": "coming in with a client. <Sign:44>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10618,
+"en": "I wouldn't have to worry",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10619,
+"en": "about being late, so it'd",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10620,
+"en": "be fun to stop somewhere. <Sign:43>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10621,
+"en": "Hey, the traffic's moving. <Sign:12>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10622,
+"en": "I got stood up!",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10623,
+"en": "Want me to come instead?",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10624,
+"en": "I'm sure they had their reasons.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10625,
+"en": "You can get mad at that.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10626,
+"en": "I came to meet a friend, but",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10627,
+"en": "they stood me up. <Sign:11>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10628,
+"en": "They could have at least",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10629,
+"en": "called me ahead of time. <Sign:5>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10630,
+"en": "I'm already at the place we",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10631,
+"en": "were supposed to meet. <Sign:42>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10632,
+"en": "I've got time on my hands,",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10633,
+"en": "so I'm having a coffee. <Sign:38>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10634,
+"en": "Re: Maybe we can meet",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10635,
+"en": "Cheer up.",
+"ctx": "menú/texto mail + frase de acompañante/calle STID_ST_OSAKA …"
+},
+{
+"id": 10636,
+"en": "You're not coming to the club today?",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10637,
+"en": "We were planning to go to",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10638,
+"en": "an all-you-can-eat dessert",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10639,
+"en": "place for ladies only. <Sign:34>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10640,
+"en": "I'm afraid you're not quite",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10641,
+"en": "the target clientele. <Sign:7>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10642,
+"en": "While I'm here, I might as",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10643,
+"en": "well do some shopping. <Sign:30>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10644,
+"en": "Re: About today",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10645,
+"en": "Yeah, I'm off work today, so",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10646,
+"en": "I wanted to go out with my friend. <Sign:34>",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10647,
+"en": "Were you planning on coming",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10648,
+"en": "to the club?",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10649,
+"en": "I could head in if you want.",
+"ctx": "menú/texto mail"
+},
+{
+"id": 10650,
+"en": "It's not like I'm busy or",
+"ctx": "menú/texto mail"
+}
+]

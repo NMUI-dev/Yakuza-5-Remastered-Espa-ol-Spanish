@@ -1,0 +1,38 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_h3",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    110,
+    150,
+    385,
+    198
+   ],
+   "en": "Kamurocho",
+   "ocr": "Kamurocho,",
+   "es": "Kamurocho,",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 258
+  },
+  {
+   "caja": [
+    48,
+    198,
+    458,
+    256
+   ],
+   "en": "so full of memories",
+   "ocr": "sofullofmemories",
+   "es": "tan lleno de recuerdos",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 410
+  }
+ ]
+}

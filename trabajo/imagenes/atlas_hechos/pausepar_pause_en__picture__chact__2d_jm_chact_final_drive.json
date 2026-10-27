@@ -1,0 +1,44 @@
+{
+ "textura": "pausepar_pause_en/picture/chact/2d_jm_chact_final_drive",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    11,
+    526,
+    230,
+    570
+   ],
+   "en": "FINAL DRIVE",
+   "ocr": "FINAL DRIVE",
+   "es": "IMPULSO FINAL",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 215
+  },
+  {
+   "caja": [
+    10,
+    595,
+    230,
+    641
+   ],
+   "en": "FINAL DRIVE",
+   "ocr": "FINAL DRME",
+   "es": "IMPULSO FINAL",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 216,
+   "radio": 2.5,
+   "color": [
+    200,
+    25,
+    25
+   ]
+  }
+ ]
+}

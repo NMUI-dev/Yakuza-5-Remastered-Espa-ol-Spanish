@@ -1,0 +1,53 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_s_kyaba",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    95,
+    16,
+    239,
+    78
+   ],
+   "en": "Taiga",
+   "ocr": "Taiga",
+   "es": "Taiga",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 140
+  },
+  {
+   "caja": [
+    259,
+    16,
+    438,
+    79
+   ],
+   "en": "Kaguya",
+   "ocr": "Raguya",
+   "es": "Kaguya",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 175
+  },
+  {
+   "caja": [
+    17,
+    278,
+    498,
+    369
+   ],
+   "en": "Ahhh, so much love",
+   "ocr": "Ahhh,so much love",
+   "es": "Ahhh, tanto amor.",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 477
+  }
+ ]
+}

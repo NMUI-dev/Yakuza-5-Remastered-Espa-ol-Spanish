@@ -1,0 +1,37 @@
+{
+ "textura": "pausepar_pause_en/picture/caption/2d_jm_ac_l_aisakakougyou",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    274,
+    26,
+    750,
+    108
+   ],
+   "en": "HEAD FOR",
+   "ocr": "HEAD FOR OUSAKA ENTERPRISES",
+   "es": "VE A",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "alto": 60
+  },
+  {
+   "caja": [
+    14,
+    108,
+    1018,
+    237
+   ],
+   "en": "OUSAKA ENTERPRISES",
+   "ocr": "HEAD FOR OUSAKA ENTERPRISES",
+   "es": "EMPRESAS OUSAKA",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro"
+  }
+ ]
+}

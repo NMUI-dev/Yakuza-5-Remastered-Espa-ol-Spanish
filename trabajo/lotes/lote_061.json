@@ -1,0 +1,1157 @@
+[
+{
+"id": 17463,
+"en": "Are ya gonna tell me, or not?",
+"ctx": "diálogo uid00020747"
+},
+{
+"id": 17464,
+"en": "You'll have to pony up a fair payment. So listen good.",
+"ctx": "diálogo uid00020747"
+},
+{
+"id": 17465,
+"en": "See the serious-looking inmate to your right? Don't turn your head! Just do a quick glance with your eyes, you nitwit.",
+"ctx": "diálogo uid00020747"
+},
+{
+"id": 17466,
+"en": "I need you to get some goods from him. Don't ask what they are, that's none of your concern. Just make sure no one sees you do it.",
+"ctx": "diálogo uid00020747"
+},
+{
+"id": 17467,
+"en": "All right, sure. Next?",
+"ctx": "diálogo uid00020747"
+},
+{
+"id": 17468,
+"en": "Take the goods to the guard standing in front of and to the left of you. You'll need to be stealthy about that move as well.",
+"ctx": "diálogo uid00020747"
+},
+{
+"id": 17469,
+"en": "Don't just walk up to him. Pass it through the fence. Don't worry, it's small enough.",
+"ctx": "diálogo uid00020747"
+},
+{
+"id": 17470,
+"en": "I got lots of friends here, like those two. But I got even more enemies.",
+"ctx": "diálogo uid00020747"
+},
+{
+"id": 17471,
+"en": "So again, don't do anything to draw suspicion.",
+"ctx": "diálogo uid00020747"
+},
+{
+"id": 17472,
+"en": "Yeah, I got it. It's a deal.",
+"ctx": "diálogo uid00020747"
+},
+{
+"id": 17473,
+"en": "(First, I get whatever-the-hell-it-is from that guy.)",
+"ctx": "diálogo uid00020747"
+},
+{
+"id": 17474,
+"en": "Approach the man without arousing suspicion. Running near other inmates and guards will draw attention, so walk when you're close to them.",
+"ctx": "diálogo uid00020747"
+},
+{
+"id": 17475,
+"en": "You're awake.",
+"ctx": "diálogo uid0002076e + diálogo uid00490128"
+},
+{
+"id": 17476,
+"en": "Things can be replaced; people can't. You're aware of that, aren't you? *sigh* You're lucky to be alive. Get your stuff sorted; I'll hold your gun and shells.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17477,
+"en": "All snow gear must be moved to the Item Box or Inventory.",
+"ctx": "diálogo uid0002076e + diálogo uid00091c4c …"
+},
+{
+"id": 17478,
+"en": "Let me know when you're going to the mountain. And be better prepared next time!",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17479,
+"en": "Finally, you're awake! A passing hunter found you. How lucky is that? I have to say, you do some pretty risky stuff.",
+"ctx": "diálogo uid0002076e + diálogo uid00091c4c"
+},
+{
+"id": 17480,
+"en": "Things can be replaced; people can't. You're aware of that, aren't you? *sigh* You're lucky to be alive. If you want, I'll hold your gun and shells.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17481,
+"en": "Well, well. You're alive.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17482,
+"en": "Get some proper rest. I'll hold your gun and shells.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17483,
+"en": "Let me know when you're going to the mountain.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17484,
+"en": "The road's been reopened.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17485,
+"en": "Good. You can leave town now. Baba will be fine.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17486,
+"en": "But isn't Yama-oroshi still roamin' the mountain?",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17487,
+"en": "That's my problem.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17488,
+"en": "All right. ...Lemme ask ya somethin'.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17489,
+"en": "Why do ya keep after Yama-oroshi?",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17490,
+"en": "That's really none of your concern. Let it be.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17491,
+"en": "Okay. I get the feelin' that some day you're gonna end up tellin' me anyway. 'Cause we're alike in certain ways, ya know.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17492,
+"en": "Hmph. You're entitled to your opinion.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17493,
+"en": "But for now, you can hurry off to Tsukimino, or stay and hunt. Just let me know what you decide.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17494,
+"en": "How's the village? Saejima, go see if they've plowed the snow from the road.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17495,
+"en": "That trader is pretty much your only option for buying and selling goods. Go introduce yourself!",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17496,
+"en": "I made some snares. Saejima, you ready for this mountain?",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17497,
+"en": "Nah, hold on a bit.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17498,
+"en": "All right. Just let me know when you're ready.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17499,
+"en": "Yeah. Ready.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17500,
+"en": "Ready for the mountain?",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17501,
+"en": "All right, let's go!",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17502,
+"en": "Fine. If you want, I'll hold your snow gear for now.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17503,
+"en": "You're back. You done now?",
+"ctx": "diálogo uid0002076e + diálogo uid00690047"
+},
+{
+"id": 17504,
+"en": "Good. We'll go trapping, then. For rabbits. That's the best food for Baba. It'll help him get his strength back.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17505,
+"en": "I'm sorry, Aniki. To require so much of you.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17506,
+"en": "Don't worry about it.",
+"ctx": "diálogo uid0002076e + diálogo uid00690047 …"
+},
+{
+"id": 17507,
+"en": "Anyway, I made some snares. Are you ready to go to the mountain?",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17508,
+"en": "Mind waitin' a bit?",
+"ctx": "diálogo uid0002076e + diálogo uid00690047"
+},
+{
+"id": 17509,
+"en": "Not at all. Just tell me when you're ready.",
+"ctx": "diálogo uid0002076e + diálogo uid00690047"
+},
+{
+"id": 17510,
+"en": "All right, let's get a move on.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17511,
+"en": "You mentioned you had a favor to return... To someone who gave you some food, I believe.",
+"ctx": "diálogo uid0002076e + diálogo uid00690047"
+},
+{
+"id": 17512,
+"en": "So are you gonna go do that or not?",
+"ctx": "diálogo uid0002076e + diálogo uid00690047"
+},
+{
+"id": 17513,
+"en": "(He's right. Gotta go see Nishina-san.)",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17514,
+"en": "I'll teach you how to trap rabbits when you get back.",
+"ctx": "diálogo uid0002076e + diálogo uid00690047"
+},
+{
+"id": 17515,
+"en": "Why? Ain't much meat on those li'l critters. Why not try for deer?",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17516,
+"en": "Rabbit meat is much more tender. It'll be easier for Baba to digest.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17517,
+"en": "The fur will be very useful as well.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17518,
+"en": "Well, you'd know best.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17519,
+"en": "Go take care of your business. I'll make some rabbit snares.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17520,
+"en": "They'll be finished by the time you get back.",
+"ctx": "diálogo uid0002076e + diálogo uid00690047"
+},
+{
+"id": 17521,
+"en": "Did you not find the person you were looking for?",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17522,
+"en": "If it makes it any easier, I can hold your gun and shells. You might as well get your stuff sorted, too.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17523,
+"en": "Let me know when you're good and ready. The mountain is not something to be trifled with.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17524,
+"en": "Okudera-han...",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17525,
+"en": "Don't thank me. Nishina's the one you should thank.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17526,
+"en": "Didn't mean to be a burden... Sorry.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17527,
+"en": "You should be.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17528,
+"en": "Kihachi was grateful, though.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17529,
+"en": "Heh, a silver lining to the fact I couldn't even save myself.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17530,
+"en": "Forget silver linings⑬let it be a lesson! By the way, I've got your gun and shells here. So don't worry about them; just focus on resting up.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17531,
+"en": "Alright...",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17532,
+"en": "You got 2,000 experience points.",
+"ctx": "diálogo uid0002076e + diálogo uid00091c4c …"
+},
+{
+"id": 17533,
+"en": "All right. What're we gonna do, Okudera-han?",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17534,
+"en": "I don't know. We'll just have to keep an eye on the situation for now and deal with it when the time comes.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17535,
+"en": "Y'know, from what I've heard, hunting is one-sided slaughter.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17536,
+"en": "That's not an inaccurate description.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17537,
+"en": "(Wish it could be more fair.)",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17538,
+"en": "But that doesn't apply to Yama-oroshi. He could kill a man as easily as we might kill any game.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17539,
+"en": "So he'd be a fair fight, then.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17540,
+"en": "Enough talk. I'm going to sleep.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17541,
+"en": "...Alright.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17542,
+"en": "Animals in the area are shown on the minimap.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17543,
+"en": "What, you came back without finishing your task?",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17544,
+"en": "You're alive⑬that's a surprise! What happened?",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17545,
+"en": "Plugged him squarely. From now on, we'll know where Yama-oroshi is.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17546,
+"en": "That's great news. Rest up; I asked a lot of you.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17547,
+"en": "Won't argue with ya.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17548,
+"en": "Unsteadiness while shooting is reduced.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17549,
+"en": "When you're ready, we'll search for Yama-oroshi's den.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17550,
+"en": "You're feelin' up to it already?",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17551,
+"en": "I may not be able to hold a gun, but I've got you. If you're willing to help an old man get around, that is.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17552,
+"en": "Ha, you're puttin' a lot of faith in me. But no worries, old man, I got your back.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17553,
+"en": "I'll start packing. Just tell me when you're ready.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17554,
+"en": "\"Okudera's Escort\" was added.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17555,
+"en": "If you want, I can hold your gun and shells. You might as well get your stuff sorted, too.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17556,
+"en": "Hm... the other side of the canyon. Well, now that we know the location of its den, there'll be plenty of other opportunities.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17557,
+"en": "(Okudera-han backed off so quickly. That's not like 'im.)",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17558,
+"en": "I'll cook supper, Saejima. Why don't you go see how the village is faring?",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17559,
+"en": "Sure, it's somethin' to do.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17560,
+"en": "(Kihachi-san sent the cops packin', and then he took a lotta heat for wastin' their time.)",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17561,
+"en": "(The bears from all these nearby mountains are still hangin' around.)",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17562,
+"en": "(But at least Okudera-han's safe, and Yama-oroshi ain't about to go near people anytime soon.)",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17563,
+"en": "Nothing. Thanks.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17564,
+"en": "Don't mention it.",
+"ctx": "diálogo uid0002076e + diálogo uid000c0a90 …"
+},
+{
+"id": 17565,
+"en": "You got 5,000 experience points.",
+"ctx": "diálogo uid0002076e + diálogo uid01020d52 …"
+},
+{
+"id": 17566,
+"en": "Unsteadiness while shooting is minimized.\nHealth loss from the cold is suppressed.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17567,
+"en": "Okudera has given his blessing to trek around the mountain freely.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17568,
+"en": "You've been handling rifles a good long while.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17569,
+"en": "What about it?",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17570,
+"en": "I'd like to see your skill with my own eyes. Let me know when you've got the time.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17571,
+"en": "\"Hunter Test\" was added to the list of missions.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17572,
+"en": "Well done, you've learned. As for the deer you shot, we'll share it with the village. That will show our gratitude for the animal's sacrifice.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17573,
+"en": "My learnin' is all thanks to you, Okudera-han. And I still got lotsa catchin' up to do.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17574,
+"en": "Don't be modest. You're ready for this.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17575,
+"en": "From now on, use this rifle on the mountain.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17576,
+"en": "You got a Vertical Double Rifle (Extreme).",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17577,
+"en": "Use it only when you must.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17578,
+"en": "...I know. 'Preciate it.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17579,
+"en": "You got 500 experience points.",
+"ctx": "diálogo uid0002076e + diálogo uid00091af2 …"
+},
+{
+"id": 17580,
+"en": "You've still got a lot to learn. You're wanting in decisiveness, concentration, and accuracy.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17581,
+"en": "Dunno what to say...",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17582,
+"en": "Come see me again when you've got more experience. As for the deer you shot, we'll share it with the village. That will show our gratitude for the animal's sacrifice.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17583,
+"en": "You've kept up your shooting skills. I was right to give you that gun.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17584,
+"en": "It's all thanks to you, Okudera-han. Hope ya keep on teachin' me.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17585,
+"en": "Oh, I know it's all thanks to me, haha. As for the deer you shot, we'll share it with the village. That will show our gratitude for the animal's sacrifice.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17586,
+"en": "What's wrong? This isn't like you. Buck up.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17587,
+"en": "Dunno what's wrong with me...",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17588,
+"en": "I guess it can't be helped now. As for the deer you shot, we'll share it with the village. That will show our gratitude for the animal's sacrifice.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17589,
+"en": "We owe ya so much. If not for you, Baba and I'd be bear food by now.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17590,
+"en": "Yes, thank you so much!",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17591,
+"en": "I won't ask how you ended up here, completely lost with no explanation of where you came from.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17592,
+"en": "I won't even ask what you plan to do once you get to the city.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17593,
+"en": "But never forget this:",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17594,
+"en": "But never forget this, Saejima...",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17595,
+"en": "Killing is only justified during the hunt, or when protecting one's life. Do you understand?",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17596,
+"en": "I'll live by it.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17597,
+"en": "Aniki... we, um, should go.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17598,
+"en": "Take care, Okudera-han.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17599,
+"en": "What is it, Saejima?",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17600,
+"en": "(We'll finish sayin' goodbye to Okudera-han, and then head to Tsukimino.)",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17601,
+"en": "It's nothin'.",
+"ctx": "diálogo uid0002076e + diálogo uid000d009f …"
+},
+{
+"id": 17602,
+"en": "Okay, then.",
+"ctx": "diálogo uid0002076e + diálogo uid00091b48 …"
+},
+{
+"id": 17603,
+"en": "Kihachi's gone missin', and Nishina-han's out lookin' for him.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17604,
+"en": "But Nishina-han ain't been back, and nobody else wants to go search for them. Guess I'll do it.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17605,
+"en": "You think you know better than these people? They've lived on the mountain for decades.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17606,
+"en": "Don't you think they might have a reason for not wanting to go?",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17607,
+"en": "(Hadn't thought of that, but...)",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17608,
+"en": "Of course, I can see you're not one for talking sense.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17609,
+"en": "But you really might die. Do you understand that?",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17610,
+"en": "Yeah. I do.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17611,
+"en": "Well then, go get your gear together. You can use my gun and shells. My only advice is that whatever happens out there... Stay alert.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17612,
+"en": "Fine. Go, then.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17613,
+"en": "Sakurai just told me about an outsider that went up the mountain.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17614,
+"en": "It's Narumi. He must've already gone after Yama-oroshi.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17615,
+"en": "Him too? Huh.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17616,
+"en": "...What, you're just gonna ignore 'im?",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17617,
+"en": "He'll be back... not with his quarry, but at least with his life. And he'll be thankful for that much!",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17618,
+"en": "Hopefully... The guy knows nothin' about the mountain. Likely to get lost.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17619,
+"en": "That's his own damned fault. But... I guess it\nwould be bad for the village.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17620,
+"en": "Well, then I'll go look for 'im. I'm well enough.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17621,
+"en": "If you think so...",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17622,
+"en": "From now on, use this rifle.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17623,
+"en": "You got a Vertical Double Rifle.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17624,
+"en": "You take care.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17625,
+"en": "Sure will.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17626,
+"en": "Let me know when you're ready.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17627,
+"en": "Yeah, all set.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17628,
+"en": "Fine, get your gear sorted.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17629,
+"en": "Use the gun Narumi left. It shoots transmitters.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17630,
+"en": "Remember, you're going up against Yama-oroshi... All I can say is, try not to die.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17631,
+"en": "Good advice.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17632,
+"en": "I can't hold a gun yet, so I'm counting on you.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17633,
+"en": "I know.",
+"ctx": "diálogo uid0002076e + diálogo uid01330348"
+},
+{
+"id": 17634,
+"en": "Fine. Off we go.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17635,
+"en": "Which gun do you want?",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17636,
+"en": "The Horizontal Double Rifle is now equipped.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17637,
+"en": "The Vertical Double Rifle is now equipped.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17638,
+"en": "The Vertical Double Special is now equipped.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17639,
+"en": "The Vertical Double Rifle (Extreme) is now equipped.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17640,
+"en": "The Golden Rifle is now equipped.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17641,
+"en": "You're leaving?",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17642,
+"en": "But I might be back... Still gotta wheedle out of ya why you hate Yama-oroshi so much.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17643,
+"en": "Hmph. Do as you please.",
+"ctx": "diálogo uid0002076e"
+},
+{
+"id": 17644,
+"en": "Tell me when you're ready.",
+"ctx": "diálogo uid0002076e + diálogo uid00091c4c"
+},
+{
+"id": 17645,
+"en": "Aniki, what did the road look like?",
+"ctx": "diálogo uid00020776"
+},
+{
+"id": 17646,
+"en": "Seems like they finally got it open.",
+"ctx": "diálogo uid00020776"
+},
+{
+"id": 17647,
+"en": "That's a relief. We should get going.",
+"ctx": "diálogo uid00020776"
+},
+{
+"id": 17648,
+"en": "You're not hurtin' anymore?",
+"ctx": "diálogo uid00020776"
+},
+{
+"id": 17649,
+"en": "I'm much better, thanks to you. I can make it down the mountain, at least.",
+"ctx": "diálogo uid00020776"
+},
+{
+"id": 17650,
+"en": "I can't let you keep taking care of me like this. Since the road's open, let's leave for Tsukimino as soon as we can.",
+"ctx": "diálogo uid00020776"
+},
+{
+"id": 17651,
+"en": "Baba-chan, how ya feelin'?",
+"ctx": "diálogo uid00020776"
+},
+{
+"id": 17652,
+"en": "Much better, thanks to you. I can make it down the mountain, at least.",
+"ctx": "diálogo uid00020776"
+},
+{
+"id": 17653,
+"en": "Let's go when the road re-opens.",
+"ctx": "diálogo uid00020776"
+},
+{
+"id": 17654,
+"en": "All right. Jus' don't overexert yourself.",
+"ctx": "diálogo uid00020776"
+},
+{
+"id": 17655,
+"en": "I'm sorry to be such a burden, Aniki. My stupid body just won't move right.",
+"ctx": "diálogo uid00020776 + diálogo uid00690049"
+},
+{
+"id": 17656,
+"en": "Not to worry. Nothin' ya can do except heal up.",
+"ctx": "diálogo uid00020776 + diálogo uid00690049"
+},
+{
+"id": 17657,
+"en": "I'm sorry, Aniki...",
+"ctx": "diálogo uid00020776"
+},
+{
+"id": 17658,
+"en": "Oh, Aniki.",
+"ctx": "diálogo uid00020776"
+},
+{
+"id": 17659,
+"en": "How're ya feelin'?",
+"ctx": "diálogo uid00020776 + diálogo uid00690049"
+},
+{
+"id": 17660,
+"en": "I... I can't really move yet. I'm so sorry for holding you up. You should be in Tsukimino already.",
+"ctx": "diálogo uid00020776 + diálogo uid00690049"
+},
+{
+"id": 17661,
+"en": "Don't worry about it. The road's snowed in anyway. We're gonna be guests of this village for a while.",
+"ctx": "diálogo uid00020776 + diálogo uid00690049"
+},
+{
+"id": 17662,
+"en": "Just take your time restin' up. Got that?",
+"ctx": "diálogo uid00020776"
+},
+{
+"id": 17663,
+"en": "Welcome back, Aniki. I feel rotten for being the reason why you gotta hunt in the cold...",
+"ctx": "diálogo uid00020776"
+},
+{
+"id": 17664,
+"en": "I wish I didn't have to be laid up. I'm so sorry.",
+"ctx": "diálogo uid00020776"
+},
+{
+"id": 17665,
+"en": "It's nothin' to apologize for.",
+"ctx": "diálogo uid00020776"
+},
+{
+"id": 17666,
+"en": "Can ya wait just a bit longer?",
+"ctx": "diálogo uid000207c5"
+},
+{
+"id": 17667,
+"en": "Okay. I'll wait right here. Just tell me when you're ready.",
+"ctx": "diálogo uid000207c5"
+},
+{
+"id": 17668,
+"en": "Yeah. All set.",
+"ctx": "diálogo uid000207c5"
+},
+{
+"id": 17669,
+"en": "Then we should be going.",
+"ctx": "diálogo uid000207c5"
+},
+{
+"id": 17670,
+"en": "Sure. On the way, let's figure out how to get close to Kitakata.",
+"ctx": "diálogo uid000207c5"
+},
+{
+"id": 17671,
+"en": "Now that I think about it, security around the site is only going to get tighter.",
+"ctx": "diálogo uid000207c5"
+},
+{
+"id": 17672,
+"en": "Aniki. We should travel separately so we can slip by them more easily.",
+"ctx": "diálogo uid000207c5"
+},
+{
+"id": 17673,
+"en": "Good idea. Just don't do nothin' crazy on yer own, Baba-chan.",
+"ctx": "diálogo uid000207c5"
+},
+{
+"id": 17674,
+"en": "I won't. Well, I'll be going, then.",
+"ctx": "diálogo uid000207c5"
+},
+{
+"id": 17675,
+"en": "(All right, I'll have to get myself to the site soon...)",
+"ctx": "diálogo uid000207c5"
+},
+{
+"id": 17676,
+"en": "Tomorrow's going to be hectic. We should get some sleep.",
+"ctx": "diálogo uid000207c5"
+},
+{
+"id": 17677,
+"en": "Sorry, got somethin' to do still.",
+"ctx": "diálogo uid000207c5"
+},
+{
+"id": 17678,
+"en": "Okay. Just tell me when you're done.",
+"ctx": "diálogo uid000207c5"
+},
+{
+"id": 17679,
+"en": "Gotcha.",
+"ctx": "diálogo uid000207c5 + diálogo uid0102069c …"
+},
+{
+"id": 17680,
+"en": "You're right. Sleep it is.",
+"ctx": "diálogo uid000207c5"
+},
+{
+"id": 17681,
+"en": "Hey. Okay to talk?",
+"ctx": "diálogo uid00020988"
+},
+{
+"id": 17682,
+"en": "Old-timer, can ya hear me?",
+"ctx": "diálogo uid00020988"
+},
+{
+"id": 17683,
+"en": "Ah! Startled me, there.",
+"ctx": "diálogo uid00020988"
+},
+{
+"id": 17684,
+"en": "Sorry. Didn't mean to scare ya.",
+"ctx": "diálogo uid00020988"
+},
+{
+"id": 17685,
+"en": "It's fine, it's fine. I was just nodding off.",
+"ctx": "diálogo uid00020988"
+},
+{
+"id": 17686,
+"en": "Careful with that. Fella could freeze to death fallin' asleep here.",
+"ctx": "diálogo uid00020988"
+},
+{
+"id": 17687,
+"en": "Haha, and what does that matter? I'm never getting out. Hardly makes a difference whether I die today or twenty years from now.",
+"ctx": "diálogo uid00020988"
+},
+{
+"id": 17688,
+"en": "(Cheerful guy, this one.)",
+"ctx": "diálogo uid00020988"
+},
+{
+"id": 17689,
+"en": "So! What did you want?",
+"ctx": "diálogo uid00020988"
+},
+{
+"id": 17690,
+"en": "Was lookin' for Baba, the kid I share a cell with. Seen 'im?",
+"ctx": "diálogo uid00020988"
+},
+{
+"id": 17691,
+"en": "Baba...?",
+"ctx": "diálogo uid00020988"
+},
+{
+"id": 17692,
+"en": "You don't know him?",
+"ctx": "diálogo uid00020988"
+},
+{
+"id": 17693,
+"en": "You get to my age, the memory goes. It's hard matching names to faces.",
+"ctx": "diálogo uid00020988"
+}
+]

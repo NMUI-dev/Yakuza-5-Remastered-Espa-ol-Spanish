@@ -1,0 +1,421 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_roulette.par/texlist/2d_yk_mg_roulette01",
+ "fuente": "times.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    16,
+    58,
+    165,
+    80
+   ],
+   "en": "CHIPS",
+   "es": "FICHAS",
+   "fuente": "timesi.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 145,
+   "fondo": "lama",
+   "alto": 14,
+   "estilo": {
+    "arriba": [
+     245,
+     228,
+     160
+    ],
+    "abajo": [
+     205,
+     165,
+     75
+    ],
+    "contorno": [
+     [
+      20,
+      15,
+      5
+     ],
+     1
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    16,
+    82,
+    165,
+    104
+   ],
+   "en": "BET",
+   "es": "APUESTA",
+   "fuente": "timesi.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 145,
+   "fondo": "lama",
+   "alto": 14,
+   "estilo": {
+    "arriba": [
+     245,
+     228,
+     160
+    ],
+    "abajo": [
+     205,
+     165,
+     75
+    ],
+    "contorno": [
+     [
+      20,
+      15,
+      5
+     ],
+     1
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    20,
+    268,
+    160,
+    298
+   ],
+   "en": "BET",
+   "es": "APUESTA",
+   "fuente": "timesi.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 136,
+   "fondo": "lama",
+   "alto": 17,
+   "estilo": {
+    "arriba": [
+     245,
+     228,
+     160
+    ],
+    "abajo": [
+     205,
+     165,
+     75
+    ],
+    "contorno": [
+     [
+      20,
+      15,
+      5
+     ],
+     1
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    235,
+    268,
+    400,
+    298
+   ],
+   "en": "CHIPS",
+   "es": "FICHAS",
+   "fuente": "timesi.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 161,
+   "fondo": "lama",
+   "alto": 17,
+   "estilo": {
+    "arriba": [
+     245,
+     228,
+     160
+    ],
+    "abajo": [
+     205,
+     165,
+     75
+    ],
+    "contorno": [
+     [
+      20,
+      15,
+      5
+     ],
+     1
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    825,
+    158,
+    915,
+    192
+   ],
+   "en": "LOSE",
+   "es": "PIERDE",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 86,
+   "estilo": {
+    "arriba": [
+     255,
+     235,
+     90
+    ],
+    "abajo": [
+     240,
+     185,
+     0
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     2
+    ],
+    "brillo": null
+   },
+   "alto": 24
+  },
+  {
+   "caja": [
+    918,
+    158,
+    1015,
+    192
+   ],
+   "en": "WIN!",
+   "es": "¡GANA!",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 93,
+   "estilo": {
+    "arriba": [
+     255,
+     235,
+     90
+    ],
+    "abajo": [
+     240,
+     185,
+     0
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     2
+    ],
+    "brillo": null
+   },
+   "alto": 29
+  },
+  {
+   "caja": [
+    254,
+    325,
+    874,
+    391
+   ],
+   "en": "NO MORE BETS",
+   "es": "NO VA MÁS",
+   "fuente": "timesbi.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 616,
+   "alto": 58
+  },
+  {
+   "caja": [
+    182,
+    450,
+    345,
+    472
+   ],
+   "en": "CHIPS",
+   "es": "FICHAS",
+   "fuente": "timesi.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 159,
+   "fondo": "lama",
+   "alto": 14,
+   "estilo": {
+    "arriba": [
+     245,
+     228,
+     160
+    ],
+    "abajo": [
+     205,
+     165,
+     75
+    ],
+    "contorno": [
+     [
+      20,
+      15,
+      5
+     ],
+     1
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    182,
+    474,
+    345,
+    496
+   ],
+   "en": "BET",
+   "es": "APUESTA",
+   "fuente": "timesi.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 159,
+   "fondo": "lama",
+   "alto": 14,
+   "estilo": {
+    "arriba": [
+     245,
+     228,
+     160
+    ],
+    "abajo": [
+     205,
+     165,
+     75
+    ],
+    "contorno": [
+     [
+      20,
+      15,
+      5
+     ],
+     1
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    372,
+    450,
+    520,
+    472
+   ],
+   "en": "CHIPS",
+   "es": "FICHAS",
+   "fuente": "timesi.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 144,
+   "fondo": "lama",
+   "alto": 14,
+   "estilo": {
+    "arriba": [
+     245,
+     228,
+     160
+    ],
+    "abajo": [
+     205,
+     165,
+     75
+    ],
+    "contorno": [
+     [
+      20,
+      15,
+      5
+     ],
+     1
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    372,
+    474,
+    520,
+    496
+   ],
+   "en": "BET",
+   "es": "APUESTA",
+   "fuente": "timesi.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 144,
+   "fondo": "lama",
+   "alto": 14,
+   "estilo": {
+    "arriba": [
+     245,
+     228,
+     160
+    ],
+    "abajo": [
+     205,
+     165,
+     75
+    ],
+    "contorno": [
+     [
+      20,
+      15,
+      5
+     ],
+     1
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    45,
+    330,
+    195,
+    357
+   ],
+   "en": "LAST BET",
+   "es": "ÚLTIMA APUESTA",
+   "fuente": "times.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 146,
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    930,
+    462,
+    1005,
+    493
+   ],
+   "en": "Time",
+   "es": "",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 71,
+   "dejar": true
+  }
+ ]
+}

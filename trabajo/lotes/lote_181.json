@@ -1,0 +1,1122 @@
+[
+{
+"id": 39854,
+"en": "You've won one game. The maximum bet has increased to 3,000.",
+"ctx": "diálogo uid01070969"
+},
+{
+"id": 39855,
+"en": "You've won two games in a row. The maximum bet has risen to 5,000.",
+"ctx": "diálogo uid01070969"
+},
+{
+"id": 39856,
+"en": "You've won three games in a row. The maximum bet has risen to 10,000.",
+"ctx": "diálogo uid01070969"
+},
+{
+"id": 39857,
+"en": "I won that one. Let's start the next round.",
+"ctx": "diálogo uid0107096a"
+},
+{
+"id": 39858,
+"en": "I won that one.",
+"ctx": "diálogo uid0107096a"
+},
+{
+"id": 39859,
+"en": "It's a tie. Let's start the next round.",
+"ctx": "diálogo uid0107096a"
+},
+{
+"id": 39860,
+"en": "It's a tie.",
+"ctx": "diálogo uid0107096a + diálogo uid010c09b4"
+},
+{
+"id": 39861,
+"en": "One of your hands is a tie.",
+"ctx": "diálogo uid0107096a"
+},
+{
+"id": 39862,
+"en": "I lost that one. Let's start the next round.",
+"ctx": "diálogo uid0107096a"
+},
+{
+"id": 39863,
+"en": "I lost that one.",
+"ctx": "diálogo uid0107096a"
+},
+{
+"id": 39864,
+"en": "You won.",
+"ctx": "diálogo uid0107096a"
+},
+{
+"id": 39865,
+"en": "One of your hands won.",
+"ctx": "diálogo uid0107096a"
+},
+{
+"id": 39866,
+"en": "Both of your hands won.",
+"ctx": "diálogo uid0107096a"
+},
+{
+"id": 39867,
+"en": "I won against both of your hands.",
+"ctx": "diálogo uid0107096a"
+},
+{
+"id": 39868,
+"en": "Both of your hands won. A one of your hands is a Six-Card Under. Impressive!",
+"ctx": "diálogo uid0107096a"
+},
+{
+"id": 39869,
+"en": "Both of your hands won. And both are Six-Card Charlies! You really have the devil's luck.",
+"ctx": "diálogo uid0107096a"
+},
+{
+"id": 39870,
+"en": "One of your hands won. Congratulations on getting a Six Under!",
+"ctx": "diálogo uid0107096a"
+},
+{
+"id": 39871,
+"en": "You have a Six Under: six cards totaling under twenty-one. That means you automatically win!",
+"ctx": "diálogo uid0107096a"
+},
+{
+"id": 39872,
+"en": "Your insurance bet won. Good move!",
+"ctx": "diálogo uid0107096a"
+},
+{
+"id": 39873,
+"en": "If you bet 500 chips on the next game, I'll set a triple payout. Care to test your luck?\n(Blackjack: 5x wager, Double Down: 2x wager.)",
+"ctx": "diálogo uid0107096b"
+},
+{
+"id": 39874,
+"en": "If you wager 2,000 chips on the next game, I'll set a triple payout. Want to test your luck?\n(Blackjack: 5x wager, Double Down: 2x wager.)",
+"ctx": "diálogo uid0107096b"
+},
+{
+"id": 39875,
+"en": "I'll draw one card.",
+"ctx": "diálogo uid0107096c"
+},
+{
+"id": 39876,
+"en": "I'll stay with this hand.",
+"ctx": "diálogo uid0107096c"
+},
+{
+"id": 39877,
+"en": "You can double your bet, but you must draw one more card.",
+"ctx": "diálogo uid0107096c"
+},
+{
+"id": 39878,
+"en": "Split your hand in two. The second hand will mirror your current bet.",
+"ctx": "diálogo uid0107096c"
+},
+{
+"id": 39879,
+"en": "Folding at this point will return half of your current bet.",
+"ctx": "diálogo uid0107096c"
+},
+{
+"id": 39880,
+"en": "Set half the bet amount as insurance against the dealer getting a blackjack.",
+"ctx": "diálogo uid0107096c"
+},
+{
+"id": 39881,
+"en": "Refer to the bet limit to see how many chips you can bet.",
+"ctx": "diálogo uid0107096c"
+},
+{
+"id": 39882,
+"en": "Bet the same number of chips as last round.",
+"ctx": "diálogo uid0107096c"
+},
+{
+"id": 39883,
+"en": "Standard blackjack.\nBonus: 2,000 chips.",
+"ctx": "diálogo uid0107096c"
+},
+{
+"id": 39884,
+"en": "Blackjack using a deck with no 2, 3, or 4 cards.\nBonus: 2,500 chips.",
+"ctx": "diálogo uid0107096c"
+},
+{
+"id": 39885,
+"en": "Blackjack using a deck with no 7, 8, or 9 cards.\nBonus: 2,000 chips.",
+"ctx": "diálogo uid0107096c"
+},
+{
+"id": 39886,
+"en": "Blackjack using a deck with no J, Q, or K cards.\nBonus: 4,000 chips.",
+"ctx": "diálogo uid0107096c"
+},
+{
+"id": 39887,
+"en": "Tutorial\nHow to Play Pool",
+"ctx": "diálogo uid0107097a + diálogo uid01690428 …"
+},
+{
+"id": 39888,
+"en": "Pool is a game where the player uses a cue stick to strike the white (cue) ball and knock other balls into the pockets.",
+"ctx": "diálogo uid0107097a + diálogo uid01690428 …"
+},
+{
+"id": 39889,
+"en": "Banking\nBefore playing, you must decide who goes first.",
+"ctx": "diálogo uid0107097b + diálogo uid01690429 …"
+},
+{
+"id": 39890,
+"en": "Each player strikes the cue ball. The player whose ball stops closest to them goes first.",
+"ctx": "diálogo uid0107097b + diálogo uid01690429 …"
+},
+{
+"id": 39891,
+"en": "However, the ball must hit the opposing cushion once in order to be counted.",
+"ctx": "diálogo uid0107097b + diálogo uid01690429 …"
+},
+{
+"id": 39892,
+"en": "Shot Controls\nUse <Action:Button_RS_Down@Billard> to draw back the cue stick.",
+"ctx": "diálogo uid0107097c + diálogo uid0169042a …"
+},
+{
+"id": 39893,
+"en": "Attention should be paid to the degree to which the cue stick is drawn back, as it affects the power of the shot.",
+"ctx": "diálogo uid0107097d + diálogo uid0169042b …"
+},
+{
+"id": 39894,
+"en": "Use <Action:Button_RS_Up@Billard> to execute the shot.",
+"ctx": "diálogo uid0107097e + diálogo uid0169042c …"
+},
+{
+"id": 39895,
+"en": "Adjusting Shot Angle\nFirst, choose the angle to strike the cue ball.",
+"ctx": "diálogo uid0107097f + diálogo uid0169042d …"
+},
+{
+"id": 39896,
+"en": "Use <Action:Button_LS_Up@Billard><Action:Button_LS_Down@Billard><Action:Button_LS_Left@Billard><Action:Button_LS_Right@Billard> to adjust the angle.",
+"ctx": "diálogo uid0107097f + diálogo uid0169042d …"
+},
+{
+"id": 39897,
+"en": "In shot mode, <Action:Button_LS_Up@Billard><Action:Button_LS_Down@Billard><Action:Button_LS_Left@Billard><Action:Button_LS_Right@Billard> can be used to adjust the impact point.",
+"ctx": "diálogo uid01070980 + diálogo uid01690433 …"
+},
+{
+"id": 39898,
+"en": "Adjusting the impact point puts a spin on the ball. Adjust the impact point as necessary.",
+"ctx": "diálogo uid01070981 + diálogo uid01690434 …"
+},
+{
+"id": 39899,
+"en": "How to Play Nine-ball",
+"ctx": "diálogo uid01070982 + diálogo uid01690438 …"
+},
+{
+"id": 39900,
+"en": "Pocket the object balls in order, starting with the lowest number, by hitting them with the cue ball.",
+"ctx": "diálogo uid01070982 + diálogo uid01690438 …"
+},
+{
+"id": 39901,
+"en": "Your turn continues until you fail to pocket a ball.",
+"ctx": "diálogo uid01070982 + diálogo uid01690438 …"
+},
+{
+"id": 39902,
+"en": "The first player to sink the 9 ball wins.",
+"ctx": "diálogo uid01070982 + diálogo uid01690438 …"
+},
+{
+"id": 39903,
+"en": "Fouls",
+"ctx": "diálogo uid01070982 + diálogo uid01070983 …"
+},
+{
+"id": 39904,
+"en": "A foul results if the cue ball falls into a pocket or does not strike an object ball.",
+"ctx": "diálogo uid01070982 + diálogo uid01070983 …"
+},
+{
+"id": 39905,
+"en": "The opposing player may then take a shot by placing the cue ball anywhere on the table.",
+"ctx": "diálogo uid01070982 + diálogo uid01070983 …"
+},
+{
+"id": 39906,
+"en": "Now, let's have you try it yourself.",
+"ctx": "diálogo uid01070982 + diálogo uid01070983 …"
+},
+{
+"id": 39907,
+"en": "How to Play Eight-ball",
+"ctx": "diálogo uid01070983 + diálogo uid01070984"
+},
+{
+"id": 39908,
+"en": "Eight-ball uses balls number 1 through 15.",
+"ctx": "diálogo uid01070983 + diálogo uid01070984"
+},
+{
+"id": 39909,
+"en": "Players must pocket the balls on the table in order, starting with the lowest-numbered ball.",
+"ctx": "diálogo uid01070983 + diálogo uid01690439 …"
+},
+{
+"id": 39910,
+"en": "Pocketing a ball awards the player with the same number of points as the ball's number.",
+"ctx": "diálogo uid01070983 + diálogo uid01690439 …"
+},
+{
+"id": 39911,
+"en": "The first player to exceed 61 points wins.",
+"ctx": "diálogo uid01070983 + diálogo uid01690439 …"
+},
+{
+"id": 39912,
+"en": "Balls 1 through 7 are called Low Balls, while balls 9 through 15 are called High Balls.",
+"ctx": "diálogo uid01070984 + diálogo uid0169043a …"
+},
+{
+"id": 39913,
+"en": "The first ball that is pocketed after the break shot determines the group you will be targeting.",
+"ctx": "diálogo uid01070984 + diálogo uid0169043a …"
+},
+{
+"id": 39914,
+"en": "To win, you must pocket the 8 ball after pocketing all of the balls in your group.",
+"ctx": "diálogo uid01070984 + diálogo uid0169043a …"
+},
+{
+"id": 39915,
+"en": "You can pocket the balls in your group in any order.",
+"ctx": "diálogo uid01070984 + diálogo uid0169043a …"
+},
+{
+"id": 39916,
+"en": "When you're ready to pocket the 8 ball, you must specify the pocket that you'll be aiming for.",
+"ctx": "diálogo uid01070984 + diálogo uid0169043a …"
+},
+{
+"id": 39917,
+"en": "Sinking it in any other pocket results in an automatic loss.",
+"ctx": "diálogo uid01070984 + diálogo uid0169043a …"
+},
+{
+"id": 39918,
+"en": "Pocketing the 8 ball before all of the balls in your group have been sunk also counts as a loss.",
+"ctx": "diálogo uid01070984 + diálogo uid0169043a …"
+},
+{
+"id": 39919,
+"en": "Use <Action:Button_RS_Down@Billard> to draw back the cue stick.",
+"ctx": "diálogo uid01070985 + diálogo uid01690435 …"
+},
+{
+"id": 39920,
+"en": "The farther back you pull it, the stronger the shot will be.",
+"ctx": "diálogo uid01070986 + diálogo uid01690436 …"
+},
+{
+"id": 39921,
+"en": "Moving it straight back towards you is the key to making accurate shots.",
+"ctx": "diálogo uid01070986"
+},
+{
+"id": 39922,
+"en": "That was a fine match! Would you like to play Prize Bank Shot?",
+"ctx": "diálogo uid01070988 + diálogo uid0169043b …"
+},
+{
+"id": 39923,
+"en": "Changing Camera Angle\nUse <Action:Button_RS_Up@Billard><Action:Button_RS_Down@Billard><Action:Button_RS_Left@Billard><Action:Button_RS_Right@Billard> to change the camera angle while deciding on a striking angle.",
+"ctx": "diálogo uid0107098a + diálogo uid0169042e …"
+},
+{
+"id": 39924,
+"en": "Press <Action:Button_Square@Billard>  for an overhead view.",
+"ctx": "diálogo uid0107098b + diálogo uid0169042f …"
+},
+{
+"id": 39925,
+"en": "Adjust the camera angle to find the best possible shot angle.",
+"ctx": "diálogo uid0107098c + diálogo uid01690430 …"
+},
+{
+"id": 39926,
+"en": "Shooting\nAfter choosing an angle, press <Action:Button_Cross@Billard> to enter shot mode.",
+"ctx": "diálogo uid0107098d + diálogo uid01690431 …"
+},
+{
+"id": 39927,
+"en": "Just like before, <Action:Button_RS_Down@Billard> can be used to adjust the power of the shot.",
+"ctx": "diálogo uid0107098e + diálogo uid01690432 …"
+},
+{
+"id": 39928,
+"en": "Move it straight towards you to take a steady shot.",
+"ctx": "diálogo uid0107098e + diálogo uid01690432 …"
+},
+{
+"id": 39929,
+"en": "The banker got a 6, winning the same amount as the stake.",
+"ctx": "diálogo uid01070994"
+},
+{
+"id": 39930,
+"en": "The banker rolled trips, winning three times the stake.",
+"ctx": "diálogo uid01070994"
+},
+{
+"id": 39931,
+"en": "The banker rolled ace out, winning five times the stake.",
+"ctx": "diálogo uid01070994"
+},
+{
+"id": 39932,
+"en": "The banker rolled 4-5-6, winning two times the stake.",
+"ctx": "diálogo uid01070994"
+},
+{
+"id": 39933,
+"en": "The banker got a 1, losing the same amount as the stake.",
+"ctx": "diálogo uid01070994"
+},
+{
+"id": 39934,
+"en": "The banker missed the pot, losing the same amount as the stake.",
+"ctx": "diálogo uid01070994"
+},
+{
+"id": 39935,
+"en": "The banker did not roll a point, losing the same amount as the stake.",
+"ctx": "diálogo uid01070994"
+},
+{
+"id": 39936,
+"en": "The banker rolled 1-2-3, losing two times the stake.",
+"ctx": "diálogo uid01070994"
+},
+{
+"id": 39937,
+"en": "The banker rolled 6-3-4, winning two times the stake.",
+"ctx": "diálogo uid01070994"
+},
+{
+"id": 39938,
+"en": "You got a 6 as the banker, winning the same amount as the stake.",
+"ctx": "diálogo uid01070994"
+},
+{
+"id": 39939,
+"en": "You rolled trips as the banker, winning three times the stake.",
+"ctx": "diálogo uid01070994"
+},
+{
+"id": 39940,
+"en": "You rolled ace out as the banker, winning five times the stake.",
+"ctx": "diálogo uid01070994"
+},
+{
+"id": 39941,
+"en": "You rolled 4-5-6 as the banker, winning two times the stake.",
+"ctx": "diálogo uid01070994"
+},
+{
+"id": 39942,
+"en": "You got a 1 as the banker, losing the same amount as the stake.",
+"ctx": "diálogo uid01070994"
+},
+{
+"id": 39943,
+"en": "You missed the pot as the banker, losing the same amount as the stake.",
+"ctx": "diálogo uid01070994"
+},
+{
+"id": 39944,
+"en": "You did not roll a point as the banker, losing the same amount as the stake.",
+"ctx": "diálogo uid01070994"
+},
+{
+"id": 39945,
+"en": "You got a 1-2-3 as the banker, losing two times the stake.",
+"ctx": "diálogo uid01070994"
+},
+{
+"id": 39946,
+"en": "You rolled 6-3-4 as the banker, winning two times the stake.",
+"ctx": "diálogo uid01070994"
+},
+{
+"id": 39947,
+"en": "You rolled trips, winning three times the stake.",
+"ctx": "diálogo uid01070994"
+},
+{
+"id": 39948,
+"en": "You rolled ace out, winning five times the stake.",
+"ctx": "diálogo uid01070994"
+},
+{
+"id": 39949,
+"en": "You rolled 4-5-6, winning two times the stake.",
+"ctx": "diálogo uid01070994"
+},
+{
+"id": 39950,
+"en": "You missed the pot, losing the same amount as the stake.",
+"ctx": "diálogo uid01070994"
+},
+{
+"id": 39951,
+"en": "You did not roll a point, losing the same amount as the stake.",
+"ctx": "diálogo uid01070994"
+},
+{
+"id": 39952,
+"en": "You rolled 1-2-3, losing two times the stake.",
+"ctx": "diálogo uid01070994"
+},
+{
+"id": 39953,
+"en": "You beat the banker's roll, winning the same amount as the stake.",
+"ctx": "diálogo uid01070994"
+},
+{
+"id": 39954,
+"en": "You didn't beat the banker's roll, and will lose the same amount as the stake.",
+"ctx": "diálogo uid01070994"
+},
+{
+"id": 39955,
+"en": "You tied the banker's roll, so there is no change in the stake.",
+"ctx": "diálogo uid01070994"
+},
+{
+"id": 39956,
+"en": "You rolled 6-3-4, winning two times the stake.",
+"ctx": "diálogo uid01070994"
+},
+{
+"id": 39957,
+"en": "You beat all the other players.",
+"ctx": "diálogo uid01070994"
+},
+{
+"id": 39958,
+"en": "Points will increase based on match results.",
+"ctx": "diálogo uid01070994"
+},
+{
+"id": 39959,
+"en": "Points will decrease based on match results.",
+"ctx": "diálogo uid01070994"
+},
+{
+"id": 39960,
+"en": "You lost to all the other players.",
+"ctx": "diálogo uid01070994"
+},
+{
+"id": 39961,
+"en": "You tied all the other players.",
+"ctx": "diálogo uid01070994"
+},
+{
+"id": 39962,
+"en": "(The item don't seem to work anymore.)",
+"ctx": "diálogo uid01070995 + diálogo uid01070996"
+},
+{
+"id": 39963,
+"en": "(If I had tickets, I could give the prize wheel a spin.)",
+"ctx": "diálogo uid010709a8"
+},
+{
+"id": 39964,
+"en": "(Cool, they're doing a prize wheel. I don't have any tickets, though.)",
+"ctx": "diálogo uid010709a8"
+},
+{
+"id": 39965,
+"en": "(Don't got any tickets to give the prize wheel a spin.)",
+"ctx": "diálogo uid010709a8"
+},
+{
+"id": 39966,
+"en": "(A prize wheel? Huh.)",
+"ctx": "diálogo uid010709a8"
+},
+{
+"id": 39967,
+"en": "(Ooh, a prize wheel! I don't have any tickets, though.)",
+"ctx": "diálogo uid010709a8"
+},
+{
+"id": 39968,
+"en": "We've got fabulous prizes over here! Swing on by to spin the prize wheel if you've got yourself some tickets!",
+"ctx": "diálogo uid010709a8"
+},
+{
+"id": 39969,
+"en": "Hello there! Do you have a prize ticket? If so, would you like to give the prize wheel a spin?",
+"ctx": "diálogo uid010709a8"
+},
+{
+"id": 39970,
+"en": "Okay, please come again! The wheel's always waiting!",
+"ctx": "diálogo uid010709a8"
+},
+{
+"id": 39971,
+"en": "Excellent! Let's give it a go!",
+"ctx": "diálogo uid010709a8"
+},
+{
+"id": 39972,
+"en": "Right then, let me get rid of that ticket for you. Go on and give it a spin!",
+"ctx": "diálogo uid010709a8"
+},
+{
+"id": 39973,
+"en": "I can't believe it!",
+"ctx": "diálogo uid010709a8 + frase de acompañante/calle STID_ST_KAMURO"
+},
+{
+"id": 39974,
+"en": "Congratulations! You won our grand prize! We have a winner, folks!",
+"ctx": "diálogo uid010709a8"
+},
+{
+"id": 39975,
+"en": "Congratulations! You won a #1 Prize! We have a winner, folks!",
+"ctx": "diálogo uid010709a8"
+},
+{
+"id": 39976,
+"en": "Congratulations! You won a #2 Prize.",
+"ctx": "diálogo uid010709a8"
+},
+{
+"id": 39977,
+"en": "Congratulations. You won a #3 Prize.",
+"ctx": "diálogo uid010709a8"
+},
+{
+"id": 39978,
+"en": "Ooh, that's too bad! Here's a consolation prize for your efforts.",
+"ctx": "diálogo uid010709a8"
+},
+{
+"id": 39979,
+"en": "You have another prize ticket? Excellent! Have another go at the wheel!",
+"ctx": "diálogo uid010709a8"
+},
+{
+"id": 39980,
+"en": "Thank you very much. Please come again soon.",
+"ctx": "diálogo uid010709a8"
+},
+{
+"id": 39981,
+"en": "(I can set a trap here.)",
+"ctx": "diálogo uid01090770"
+},
+{
+"id": 39982,
+"en": "You found a trap site.",
+"ctx": "diálogo uid01090770"
+},
+{
+"id": 39983,
+"en": "(Should I set a trap here?)",
+"ctx": "diálogo uid01090770 + diálogo uid01090771"
+},
+{
+"id": 39984,
+"en": "Yeah, let's set a snare here.",
+"ctx": "diálogo uid01090770 + diálogo uid01090771"
+},
+{
+"id": 39985,
+"en": "This'll do.",
+"ctx": "diálogo uid01090770 + diálogo uid01090771"
+},
+{
+"id": 39986,
+"en": "(Got no traps to set.)",
+"ctx": "diálogo uid01090770 + diálogo uid01090771"
+},
+{
+"id": 39987,
+"en": "Okay, let's set a cage trap.",
+"ctx": "diálogo uid01090770 + diálogo uid01090771"
+},
+{
+"id": 39988,
+"en": "Okay, let's set a leghold trap.",
+"ctx": "diálogo uid01090770 + diálogo uid01090771"
+},
+{
+"id": 39989,
+"en": "(Maybe not here...)",
+"ctx": "diálogo uid01090770"
+},
+{
+"id": 39990,
+"en": "(Maybe not here.)",
+"ctx": "diálogo uid01090771"
+},
+{
+"id": 39991,
+"en": "(The trap's not sprung. Gotta leave it a while longer.)",
+"ctx": "diálogo uid01090772"
+},
+{
+"id": 39992,
+"en": "(Nothin' caught. What to do?)",
+"ctx": "diálogo uid01090772"
+},
+{
+"id": 39993,
+"en": "(Let's pull this trap.)",
+"ctx": "diálogo uid01090772 + diálogo uid01090774"
+},
+{
+"id": 39994,
+"en": "Gotta find a better trap site.",
+"ctx": "diálogo uid01090772"
+},
+{
+"id": 39995,
+"en": "(Let's try moddin' this for better results.)",
+"ctx": "diálogo uid01090772"
+},
+{
+"id": 39996,
+"en": "You used a <Color:8>Trap Mod Kit<Color:Default>.",
+"ctx": "diálogo uid01090772"
+},
+{
+"id": 39997,
+"en": "That'll do it.",
+"ctx": "diálogo uid01090772 + diálogo uid01090773"
+},
+{
+"id": 39998,
+"en": "(Got no trap mod kit to use.)",
+"ctx": "diálogo uid01090772"
+},
+{
+"id": 39999,
+"en": "(I'll just leave it be.)",
+"ctx": "diálogo uid01090772"
+},
+{
+"id": 40000,
+"en": "(The trap's busted.)",
+"ctx": "diálogo uid01090773"
+},
+{
+"id": 40001,
+"en": "(It's busted. I'll pull it up and chuck it out.)",
+"ctx": "diálogo uid01090773"
+},
+{
+"id": 40002,
+"en": "(That'll do it.)",
+"ctx": "diálogo uid01090773"
+},
+{
+"id": 40003,
+"en": "(This can be repaired.)",
+"ctx": "diálogo uid01090773"
+},
+{
+"id": 40004,
+"en": "You used a <Color:8>Trap Repair Kit<Color:Default>.",
+"ctx": "diálogo uid01090773"
+},
+{
+"id": 40005,
+"en": "(Got no trap repair kit.)",
+"ctx": "diálogo uid01090773"
+},
+{
+"id": 40006,
+"en": "(I'll just leave it for now.)",
+"ctx": "diálogo uid01090773"
+},
+{
+"id": 40007,
+"en": "(Nice. Caught a rabbit.)",
+"ctx": "diálogo uid01090774"
+},
+{
+"id": 40008,
+"en": "I'm grateful.",
+"ctx": "diálogo uid01090774"
+},
+{
+"id": 40009,
+"en": "(I'll come back for this later.)",
+"ctx": "diálogo uid01090774"
+},
+{
+"id": 40010,
+"en": "(Somethin' got caught.)",
+"ctx": "diálogo uid01090774"
+},
+{
+"id": 40011,
+"en": "You got <Color:8>Rabbit Meat<Color:Default>.",
+"ctx": "diálogo uid01090ad4"
+},
+{
+"id": 40012,
+"en": "You got <Color:8>Rabbit Pelt<Color:Default>.",
+"ctx": "diálogo uid01090ad4"
+},
+{
+"id": 40013,
+"en": "You got <Color:8>Snare<Color:Default>.",
+"ctx": "diálogo uid01090ad4 + diálogo uid01090ad5 …"
+},
+{
+"id": 40014,
+"en": "You got a <Color:8>Rabbit Pelt<Color:Default>.",
+"ctx": "diálogo uid01090ad4"
+},
+{
+"id": 40015,
+"en": "You got a <Color:8>Cage Trap<Color:Default>.",
+"ctx": "diálogo uid01090ad4"
+},
+{
+"id": 40016,
+"en": "You got <Color:8>Marten Meat<Color:Default>.",
+"ctx": "diálogo uid01090ad5"
+},
+{
+"id": 40017,
+"en": "You got <Color:8>Marten Pelt<Color:Default>.",
+"ctx": "diálogo uid01090ad5"
+},
+{
+"id": 40018,
+"en": "You got <Color:8>Cage Trap<Color:Default>.",
+"ctx": "diálogo uid01090ad5 + diálogo uid01090ad6 …"
+},
+{
+"id": 40019,
+"en": "You got <Color:8>Fox Meat<Color:Default>.",
+"ctx": "diálogo uid01090ad6"
+},
+{
+"id": 40020,
+"en": "You got <Color:8>Fox Skin<Color:Default>.",
+"ctx": "diálogo uid01090ad6"
+},
+{
+"id": 40021,
+"en": "(The exit's right over there. Better make a run for it before someone comes after me.)",
+"ctx": "diálogo uid01090ae7"
+},
+{
+"id": 40022,
+"en": "(Okudera-han's with me. Repairin' the hut's gotta wait.)",
+"ctx": "diálogo uid010917b2 + diálogo uid010917b6 …"
+},
+{
+"id": 40023,
+"en": "(Should I repair the hunting hut?)",
+"ctx": "diálogo uid010917b2 + diálogo uid010917b6 …"
+},
+{
+"id": 40024,
+"en": "(Alright. Let's repair this wreck.)",
+"ctx": "diálogo uid010917b2 + diálogo uid010917b6"
+},
+{
+"id": 40025,
+"en": "You used a <Color:8>Hut Repair Kit<Color:Default>.",
+"ctx": "diálogo uid010917b2 + diálogo uid010917b6 …"
+},
+{
+"id": 40026,
+"en": "(Good. That oughta do it.)",
+"ctx": "diálogo uid010917b2 + diálogo uid010917b6 …"
+},
+{
+"id": 40027,
+"en": "(Ain't got a hut repair kit.)",
+"ctx": "diálogo uid010917b2 + diálogo uid010917b6 …"
+},
+{
+"id": 40028,
+"en": "(Not right now.)",
+"ctx": "diálogo uid010917b2 + diálogo uid010917b6 …"
+},
+{
+"id": 40029,
+"en": "Your ammunition was restocked.",
+"ctx": "diálogo uid010917b2 + diálogo uid010917b6 …"
+},
+{
+"id": 40030,
+"en": "You found a hunting hut.",
+"ctx": "diálogo uid010917b6 + diálogo uid010917b7 …"
+},
+{
+"id": 40031,
+"en": "(All right. Let's repair this wreck.)",
+"ctx": "diálogo uid010917b7 + diálogo uid010917b8"
+},
+{
+"id": 40032,
+"en": "(I'll start with areas I've already visited.)",
+"ctx": "diálogo uid010919dc"
+},
+{
+"id": 40033,
+"en": "(Should be signs of him somewhere... maybe footprints.)",
+"ctx": "diálogo uid010919dc"
+},
+{
+"id": 40034,
+"en": "(Footprints. But from just one person...)",
+"ctx": "diálogo uid010919dd"
+},
+{
+"id": 40035,
+"en": "(Must be Nishina-han or Kihachi.)",
+"ctx": "diálogo uid010919dd"
+},
+{
+"id": 40036,
+"en": "(Looks like they never found each other. I should follow these tracks.)",
+"ctx": "diálogo uid010919dd"
+},
+{
+"id": 40037,
+"en": "(I'll find ya, Yama-oroshi. Just gotta... well, search everywhere, I guess.)",
+"ctx": "diálogo uid010919fd"
+},
+{
+"id": 40038,
+"en": "(Looks like he was just here... might still be roamin' around close by!)",
+"ctx": "diálogo uid010919fe"
+},
+{
+"id": 40039,
+"en": "(I'll see if he shows his face at this spot.)",
+"ctx": "diálogo uid010919fe"
+},
+{
+"id": 40040,
+"en": "(He's comin'!)",
+"ctx": "diálogo uid010919fe"
+},
+{
+"id": 40041,
+"en": "(Slim chance of him showin' his belly if I sit here doin' nothing.)",
+"ctx": "diálogo uid010919fe"
+},
+{
+"id": 40042,
+"en": "(Maybe if I shoot 'im a few times, he'll get mad and rear up.)",
+"ctx": "diálogo uid010919fe"
+},
+{
+"id": 40043,
+"en": "(At that point, I'll hafta be quick to nail 'im in the belly. Alright, here goes...)",
+"ctx": "diálogo uid010919fe"
+},
+{
+"id": 40044,
+"en": "(Now we'll be able to see exactly where Yama-oroshi is. Can't wait to see the grin on Okudera-han's face when I tell 'im!)",
+"ctx": "diálogo uid01091a00"
+},
+{
+"id": 40045,
+"en": "Where's the signal coming from right now?",
+"ctx": "diálogo uid01091a2c"
+},
+{
+"id": 40046,
+"en": "Pretty damn deep in the woods. It's somewhere I been before, though.",
+"ctx": "diálogo uid01091a2c"
+},
+{
+"id": 40047,
+"en": "The distance is no matter to me⑬let's follow it! Just keep checking that we're on the right track as we go.",
+"ctx": "diálogo uid01091a2c"
+},
+{
+"id": 40048,
+"en": "Okudera-han, he's on the move!",
+"ctx": "diálogo uid01091a2d"
+},
+{
+"id": 40049,
+"en": "Let's head him off!",
+"ctx": "diálogo uid01091a2d"
+},
+{
+"id": 40050,
+"en": "He's on the move again!",
+"ctx": "diálogo uid01091a2e"
+},
+{
+"id": 40051,
+"en": "This way, Okudera-han!",
+"ctx": "diálogo uid01091a2e"
+},
+{
+"id": 40052,
+"en": "We're gettin' close.",
+"ctx": "diálogo uid01091a2f"
+},
+{
+"id": 40053,
+"en": "He's still movin' away from us, but we're closin' the gap for sure.",
+"ctx": "diálogo uid01091a2f"
+},
+{
+"id": 40054,
+"en": "Good, let's keep up the chase.",
+"ctx": "diálogo uid01091a2f"
+},
+{
+"id": 40055,
+"en": "He's right up ahead. Hasn't moved for a while.",
+"ctx": "diálogo uid01091a30"
+},
+{
+"id": 40056,
+"en": "He's staying still? That means he could be in his den.",
+"ctx": "diálogo uid01091a30"
+},
+{
+"id": 40057,
+"en": "Yama-oroshi's on the other side of this canyon.",
+"ctx": "diálogo uid01091a31"
+},
+{
+"id": 40058,
+"en": "But how? This bridge is shredded worse than cheese that's 'bout to go on spaghetti.",
+"ctx": "diálogo uid01091a31"
+},
+{
+"id": 40059,
+"en": "The signal's just on the other side?",
+"ctx": "diálogo uid01091a31"
+},
+{
+"id": 40060,
+"en": "Then we can't go any further today.",
+"ctx": "diálogo uid01091a31"
+},
+{
+"id": 40061,
+"en": "He's going to pull through. Just barely.",
+"ctx": "diálogo uid01091a53"
+},
+{
+"id": 40062,
+"en": "It's a miracle.",
+"ctx": "diálogo uid01091a53"
+},
+{
+"id": 40063,
+"en": "Hey. Nishina-han. Sakurai-han. Now that it's over...\nTell me the real story.",
+"ctx": "diálogo uid01091a53"
+},
+{
+"id": 40064,
+"en": "What real story?",
+"ctx": "diálogo uid01091a53"
+},
+{
+"id": 40065,
+"en": "Okudera-han... Right before he passed out... said he's not Okudera.",
+"ctx": "diálogo uid01091a53"
+},
+{
+"id": 40066,
+"en": "Oh, no.",
+"ctx": "diálogo uid01091a53"
+},
+{
+"id": 40067,
+"en": "So ya both knew?",
+"ctx": "diálogo uid01091a53"
+},
+{
+"id": 40068,
+"en": "Nishina... Should I just tell him?",
+"ctx": "diálogo uid01091a53"
+},
+{
+"id": 40069,
+"en": "I should do it. It's my responsibility as the head of this village.",
+"ctx": "diálogo uid01091a53"
+},
+{
+"id": 40070,
+"en": "Let's have it.",
+"ctx": "diálogo uid01091a53"
+},
+{
+"id": 40071,
+"en": "He was trying to tell you the truth. He's not really Okudera. His real name is Kiyoshi. Kiyoshi Sato.",
+"ctx": "diálogo uid01091a53"
+},
+{
+"id": 40072,
+"en": "Sato? But that was the name of the hunter who saved Okudera-han ten years ago.",
+"ctx": "diálogo uid01091a53"
+},
+{
+"id": 40073,
+"en": "Supposedly. But what I think is more likely is... <Italic>Okudera</Italic> was the name of the hunter.",
+"ctx": "diálogo uid01091a53"
+},
+{
+"id": 40074,
+"en": "Ten years ago, Sato arrived as a drifter. He moved into an abandoned shack here in the village, and eventually became a hunter.",
+"ctx": "diálogo uid01091a53"
+},
+{
+"id": 40075,
+"en": "None of us knew anything about him. Not his name, not where he came from.",
+"ctx": "diálogo uid01091a53"
+},
+{
+"id": 40076,
+"en": "Then why call him Sato? Doesn't make any damn sense.",
+"ctx": "diálogo uid01091a53"
+},
+{
+"id": 40077,
+"en": "We learned he was named Sato when Okudera reported him missing to the police. Until then, we didn't even know who Okudera was. Do you see what I'm saying here?",
+"ctx": "diálogo uid01091a53"
+}
+]

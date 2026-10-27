@@ -1,0 +1,356 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_yukigassen.par/2d_mg_yukigassen_texlist/2d_jm_mg_yukigassen_pt",
+ "fuente": "verdana.ttf",
+ "margen": 6,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    184,
+    44,
+    240,
+    76
+   ],
+   "en": "1st place",
+   "es": "1.º lugar",
+   "fuente": "verdanab.ttf",
+   "efecto": "brillo",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 42
+  },
+  {
+   "caja": [
+    240,
+    44,
+    298,
+    76
+   ],
+   "en": "2nd place",
+   "es": "2.º lugar",
+   "fuente": "verdanab.ttf",
+   "efecto": "brillo",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 44
+  },
+  {
+   "caja": [
+    298,
+    44,
+    354,
+    76
+   ],
+   "en": "3nd place",
+   "es": "3.º lugar",
+   "fuente": "verdanab.ttf",
+   "efecto": "brillo",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 42
+  },
+  {
+   "caja": [
+    354,
+    44,
+    412,
+    76
+   ],
+   "en": "4nd place",
+   "es": "4.º lugar",
+   "fuente": "verdanab.ttf",
+   "efecto": "brillo",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 44
+  },
+  {
+   "caja": [
+    5,
+    82,
+    80,
+    99
+   ],
+   "en": "PLAYER1",
+   "es": "JUGADOR1",
+   "fuente": "verdanab.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 61
+  },
+  {
+   "caja": [
+    85,
+    82,
+    160,
+    99
+   ],
+   "en": "PLAYER2",
+   "es": "JUGADOR2",
+   "fuente": "verdanab.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 61
+  },
+  {
+   "caja": [
+    5,
+    110,
+    80,
+    127
+   ],
+   "en": "PLAYER3",
+   "es": "JUGADOR3",
+   "fuente": "verdanab.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 61
+  },
+  {
+   "caja": [
+    85,
+    110,
+    160,
+    127
+   ],
+   "en": "PLAYER4",
+   "es": "JUGADOR4",
+   "fuente": "verdanab.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 61
+  },
+  {
+   "caja": [
+    165,
+    82,
+    264,
+    110
+   ],
+   "en": "SHOOT!",
+   "es": "¡LANZA!",
+   "fuente": "verdana.ttf",
+   "efecto": "brillo",
+   "color": [
+    110,
+    170,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 85
+  },
+  {
+   "caja": [
+    165,
+    118,
+    264,
+    148
+   ],
+   "en": "STRIKE!",
+   "es": "¡STRIKE!",
+   "fuente": "verdana.ttf",
+   "efecto": "brillo",
+   "color": [
+    110,
+    170,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 85
+  },
+  {
+   "caja": [
+    300,
+    115,
+    398,
+    140
+   ],
+   "en": "POINT ×2",
+   "es": "PUNTOS ×2",
+   "fuente": "verdanab.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 84
+  },
+  {
+   "caja": [
+    160,
+    146,
+    207,
+    172
+   ],
+   "en": "HIT!",
+   "es": "",
+   "fuente": "verdana.ttf",
+   "efecto": "brillo",
+   "color": [
+    110,
+    170,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 33,
+   "dejar": true
+  },
+  {
+   "caja": [
+    207,
+    146,
+    233,
+    172
+   ],
+   "en": "to",
+   "es": "",
+   "fuente": "verdana.ttf",
+   "efecto": "brillo",
+   "color": [
+    110,
+    170,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 12,
+   "dejar": true
+  },
+  {
+   "caja": [
+    233,
+    146,
+    316,
+    172
+   ],
+   "en": "PLAYER1",
+   "es": "",
+   "fuente": "verdana.ttf",
+   "efecto": "brillo",
+   "color": [
+    110,
+    170,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 69,
+   "dejar": true
+  },
+  {
+   "caja": [
+    316,
+    146,
+    404,
+    172
+   ],
+   "en": "PLAYER2",
+   "es": "",
+   "fuente": "verdana.ttf",
+   "efecto": "brillo",
+   "color": [
+    110,
+    170,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 74,
+   "dejar": true
+  },
+  {
+   "caja": [
+    404,
+    146,
+    494,
+    172
+   ],
+   "en": "PLAYER3",
+   "es": "",
+   "fuente": "verdana.ttf",
+   "efecto": "brillo",
+   "color": [
+    110,
+    170,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 76,
+   "dejar": true
+  },
+  {
+   "caja": [
+    340,
+    200,
+    408,
+    222
+   ],
+   "en": "SHOOT!",
+   "es": "¡LANZA!",
+   "fuente": "verdana.ttf",
+   "efecto": "brillo",
+   "color": [
+    110,
+    170,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 54
+  },
+  {
+   "caja": [
+    145,
+    234,
+    250,
+    256
+   ],
+   "en": "RESULTS",
+   "es": "RESULTADOS",
+   "fuente": "verdanab.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 91,
+   "alto": 7
+  }
+ ]
+}

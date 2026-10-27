@@ -1,0 +1,48 @@
+{
+ "textura": "ui_en/surfboard/pjd_tougi_mode_select.par/texlist/2d_jm_tougi_banner",
+ "fuente": "segoeuib.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    7,
+    481,
+    96,
+    496
+   ],
+   "en": "RANKINGS",
+   "es": "RANKING",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 85
+  },
+  {
+   "caja": [
+    366,
+    419,
+    510,
+    442
+   ],
+   "en": "Unable to Enter",
+   "es": "No disponible",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "color": [
+    82,
+    81,
+    90
+   ],
+   "fondo": "lama",
+   "alin": "der",
+   "alto": 15,
+   "ancho_max": 141
+  }
+ ]
+}

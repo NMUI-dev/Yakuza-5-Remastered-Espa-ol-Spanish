@@ -1,0 +1,81 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_yuki_result.par/texlist_0001/2d_jm_yuki_result",
+ "fuente": "times.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    91,
+    0,
+    256,
+    32
+   ],
+   "en": "Time on Mountain",
+   "es": "Tiempo en montaña",
+   "fuente": "times.ttf",
+   "alin": "centro",
+   "ancho_max": 161,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 19
+  },
+  {
+   "caja": [
+    91,
+    32,
+    256,
+    64
+   ],
+   "en": "Collected",
+   "es": "Recogidos",
+   "fuente": "times.ttf",
+   "alin": "centro",
+   "ancho_max": 161,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 19
+  },
+  {
+   "caja": [
+    0,
+    65,
+    179,
+    105
+   ],
+   "en": "RESULTS",
+   "es": "RESULTADOS",
+   "fuente": "timesbd.ttf",
+   "alin": "centro",
+   "ancho_max": 171,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     160,
+     160,
+     160
+    ]
+   },
+   "alto": 16
+  }
+ ]
+}

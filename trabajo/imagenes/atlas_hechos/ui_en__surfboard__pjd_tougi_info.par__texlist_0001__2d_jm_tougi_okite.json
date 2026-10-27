@@ -1,0 +1,205 @@
+{
+ "textura": "ui_en/surfboard/pjd_tougi_info.par/texlist_0001/2d_jm_tougi_okite",
+ "fuente": "times.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    200,
+    38,
+    830,
+    88
+   ],
+   "en": "The Four Laws of the New Coliseum",
+   "es": "",
+   "fuente": "timesbd.ttf",
+   "alin": "centro",
+   "ancho_max": 560,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     150,
+     100,
+     220
+    ]
+   },
+   "fondo": "lama",
+   "alto": 22,
+   "es_propuesto": "Las cuatro leyes del Nuevo Coliseo",
+   "dejar": true
+  },
+  {
+   "caja": [
+    150,
+    146,
+    930,
+    177
+   ],
+   "en": "1. In the tournament format, 8 men or 8 teams",
+   "es": "",
+   "fuente": "times.ttf",
+   "alin": "izq",
+   "ancho_max": 774,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alto": 24,
+   "es_propuesto": "1. En el formato de torneo, 8 hombres o 8 equipos",
+   "dejar": true
+  },
+  {
+   "caja": [
+    188,
+    178,
+    930,
+    210
+   ],
+   "en": "contend for victory.",
+   "es": "",
+   "fuente": "times.ttf",
+   "alin": "izq",
+   "ancho_max": 736,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alto": 24,
+   "es_propuesto": "compiten por la victoria.",
+   "dejar": true
+  },
+  {
+   "caja": [
+    150,
+    226,
+    930,
+    258
+   ],
+   "en": "2. In the exhibition format, the last man standing",
+   "es": "",
+   "fuente": "times.ttf",
+   "alin": "izq",
+   "ancho_max": 774,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alto": 24,
+   "es_propuesto": "2. En el formato de exhibición, el último en pie",
+   "dejar": true
+  },
+  {
+   "caja": [
+    188,
+    258,
+    930,
+    288
+   ],
+   "en": "is declared the victor.",
+   "es": "",
+   "fuente": "times.ttf",
+   "alin": "izq",
+   "ancho_max": 736,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alto": 21,
+   "es_propuesto": "se proclama vencedor.",
+   "dejar": true
+  },
+  {
+   "caja": [
+    150,
+    306,
+    930,
+    338
+   ],
+   "en": "3. Between battles, 30% of max health is restored.",
+   "es": "",
+   "fuente": "times.ttf",
+   "alin": "izq",
+   "ancho_max": 774,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alto": 24,
+   "es_propuesto": "3. Entre combates se recupera un 30% de vida máxima.",
+   "dejar": true
+  },
+  {
+   "caja": [
+    150,
+    354,
+    930,
+    386
+   ],
+   "en": "4. The winner is awarded with prize money and",
+   "es": "",
+   "fuente": "times.ttf",
+   "alin": "izq",
+   "ancho_max": 774,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alto": 24,
+   "es_propuesto": "4. El ganador recibe un premio en efectivo y",
+   "dejar": true
+  },
+  {
+   "caja": [
+    188,
+    386,
+    930,
+    418
+   ],
+   "en": "Coliseum points.",
+   "es": "",
+   "fuente": "times.ttf",
+   "alin": "izq",
+   "ancho_max": 736,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alto": 24,
+   "es_propuesto": "puntos del Coliseo.",
+   "dejar": true
+  }
+ ]
+}

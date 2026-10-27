@@ -1,0 +1,24 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_h_tsuri.par/texlist/2d_yk_h_tsuri",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    28,
+    269,
+    301,
+    366
+   ],
+   "en": "FISHING FEVER, OSAKA",
+   "ocr": "FISHINGFEVER OSAKAEDITION",
+   "es": "",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 269,
+   "dejar": true
+  }
+ ]
+}

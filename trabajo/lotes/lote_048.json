@@ -1,0 +1,857 @@
+[
+{
+"id": 13403,
+"en": "This fresh blood orange juice is made from Italian oranges with a refreshing blend of sweet and sour flavors.",
+"ctx": "menú/texto restaurant0065"
+},
+{
+"id": 13404,
+"en": "Made with one hundred percent Brazilian coffee beans. Diluted for extra smoothness.",
+"ctx": "menú/texto restaurant0065"
+},
+{
+"id": 13405,
+"en": "A soothing aroma rounds out this rich, refreshing beverage made with fresh milk.",
+"ctx": "menú/texto restaurant0065"
+},
+{
+"id": 13406,
+"en": "There's nothing like a refreshing, nutritious glass of milk.",
+"ctx": "menú/texto restaurant0065"
+},
+{
+"id": 13407,
+"en": "Tofu handmade from the finest organic soybeans. Enjoy its rich, natural tofu flavor.",
+"ctx": "menú/texto restaurant0067"
+},
+{
+"id": 13408,
+"en": "(Don't got anythin' picked out.)",
+"ctx": "menú/texto shop0000 + menú/texto shop0001 …"
+},
+{
+"id": 13409,
+"en": "(I haven't selected anything.)  ",
+"ctx": "menú/texto shop0000 + menú/texto shop0001 …"
+},
+{
+"id": 13410,
+"en": "(I don't have enough for that.)",
+"ctx": "menú/texto shop0000 + menú/texto shop0001 …"
+},
+{
+"id": 13411,
+"en": "(I don't have any space.)",
+"ctx": "menú/texto shop0000 + menú/texto shop0001 …"
+},
+{
+"id": 13412,
+"en": "(I don't have the space for that.)",
+"ctx": "menú/texto shop0000 + menú/texto shop0001 …"
+},
+{
+"id": 13413,
+"en": "(They're all sold out.)",
+"ctx": "menú/texto shop0000 + menú/texto shop0001 …"
+},
+{
+"id": 13414,
+"en": "(Fresh out.)",
+"ctx": "menú/texto shop0000 + menú/texto shop0001 …"
+},
+{
+"id": 13415,
+"en": "(Ain't a single one left.)",
+"ctx": "menú/texto shop0000 + menú/texto shop0001 …"
+},
+{
+"id": 13416,
+"en": "(I guess it's all sold out.)  ",
+"ctx": "menú/texto shop0000 + menú/texto shop0001 …"
+},
+{
+"id": 13417,
+"en": "(I don't need any of this stuff.)",
+"ctx": "menú/texto shop0000 + menú/texto shop0001 …"
+},
+{
+"id": 13418,
+"en": "(Already got one of these.)  ",
+"ctx": "menú/texto shop0000 + menú/texto shop0001 …"
+},
+{
+"id": 13419,
+"en": "This CD includes the song \"Machine Gun Kiss.\" Could make for great background music during races.",
+"ctx": "menú/texto shop0000"
+},
+{
+"id": 13420,
+"en": "This CD includes the song \"Let's Go Away\" from a popular racing game. Could make for great background music during races.",
+"ctx": "menú/texto shop0000"
+},
+{
+"id": 13421,
+"en": "This CD includes the song \"Remember R-001\" from a popular racing game. Could make for great background music during races.",
+"ctx": "menú/texto shop0000"
+},
+{
+"id": 13422,
+"en": "This CD includes the song \"Magical Sound Shower\" from a popular racing game. Could make for great background music during races.",
+"ctx": "menú/texto shop0000"
+},
+{
+"id": 13423,
+"en": "These gloves improve physical performance in batting showdowns.",
+"ctx": "menú/texto shop0001"
+},
+{
+"id": 13424,
+"en": "These cleats can be used in batting showdowns. Once belonged to a famous baseball player.",
+"ctx": "menú/texto shop0001"
+},
+{
+"id": 13425,
+"en": "These cleats, made with space-age technology, provide amazing stability. They can be used in batting showdowns.",
+"ctx": "menú/texto shop0001"
+},
+{
+"id": 13426,
+"en": "These gloves can be used in batting showdowns. Once belonged to a famous baseball player.",
+"ctx": "menú/texto shop0002"
+},
+{
+"id": 13427,
+"en": "This bat can be used in batting showdowns. Once belonged to a famous baseball player.",
+"ctx": "menú/texto shop0002"
+},
+{
+"id": 13428,
+"en": "This bat made of wood from a sacred tree can be used in batting showdowns. It was once used by a famous baseball player.",
+"ctx": "menú/texto shop0002"
+},
+{
+"id": 13429,
+"en": "Toughness ZZ will restore your health quite a bit.",
+"ctx": "menú/texto shop0003"
+},
+{
+"id": 13430,
+"en": "Staminan XX charges up your health and Heat significantly.",
+"ctx": "menú/texto shop0003 + menú/texto shop0005 …"
+},
+{
+"id": 13431,
+"en": "Tauriner + charges up your Heat significantly.",
+"ctx": "menú/texto shop0003"
+},
+{
+"id": 13432,
+"en": "This is a bento lunch set with plenty of variety. I haven't met a customer yet who hasn't loved it.",
+"ctx": "menú/texto shop0003 + menú/texto shop0005 …"
+},
+{
+"id": 13433,
+"en": "Yakisoba with cabbage and pork. The smell of the sauce is mouth-watering.",
+"ctx": "menú/texto shop0003"
+},
+{
+"id": 13434,
+"en": "This superglue can bond almost anything together.",
+"ctx": "menú/texto shop0003 + menú/texto shop0005 …"
+},
+{
+"id": 13435,
+"en": "This spicy condiment is a must for people who like it hot, but it's extremely dangerous if it gets in your eyes.",
+"ctx": "menú/texto shop0003"
+},
+{
+"id": 13436,
+"en": "Our famous beef with rice. The fluffy rice and tender beef are exquisite.",
+"ctx": "menú/texto shop0004"
+},
+{
+"id": 13437,
+"en": "A large helping of beef with rice. The fluffy rice and tender beef are exquisite.",
+"ctx": "menú/texto shop0004"
+},
+{
+"id": 13438,
+"en": "This bowl of spicy Korean-style vegetables comes with a spicy-sweet Korean sauce.",
+"ctx": "menú/texto shop0004"
+},
+{
+"id": 13439,
+"en": "This large bowl of spicy Korean-style vegetables comes with a spicy-sweet Korean sauce.",
+"ctx": "menú/texto shop0004"
+},
+{
+"id": 13440,
+"en": "Our house-special spicy curry is savory and full-bodied.",
+"ctx": "menú/texto shop0004"
+},
+{
+"id": 13441,
+"en": "Our house-special large spicy curry is savory and full-bodied, and packed with flavor.",
+"ctx": "menú/texto shop0004"
+},
+{
+"id": 13442,
+"en": "Our house-special curry is full of good stuff and tastes out of this world.",
+"ctx": "menú/texto shop0004"
+},
+{
+"id": 13443,
+"en": "One of our most popular meals. Comes with juicy kalbi barbecued beef with an amazing sauce, rice, and salad.",
+"ctx": "menú/texto shop0004"
+},
+{
+"id": 13444,
+"en": "Toughness Z comes in handy when you need a little health boost.",
+"ctx": "menú/texto shop0005 + menú/texto shop0006 …"
+},
+{
+"id": 13445,
+"en": "Tauriner charges up your Heat a little.",
+"ctx": "menú/texto shop0005"
+},
+{
+"id": 13446,
+"en": "A Super Cup of squid yakisoba. Its flavor is enhanced with fresh, tasty squid.",
+"ctx": "menú/texto shop0005 + menú/texto shop0006 …"
+},
+{
+"id": 13447,
+"en": "Fluffy eggs, seafood, seaweed extract, and glass noodles combine to make a thoroughly delicious cup of soup.",
+"ctx": "menú/texto shop0005 + menú/texto shop0007 …"
+},
+{
+"id": 13448,
+"en": "The Soup Harusame: Jjigae selection includes fish sauce, garlic, and hot peppers. A spicy, Korean-style soup.",
+"ctx": "menú/texto shop0005 + menú/texto shop0014 …"
+},
+{
+"id": 13449,
+"en": "This cup of soup contains hot, savory soup with cabbage, seaweed, corn, and glass noodles.",
+"ctx": "menú/texto shop0005"
+},
+{
+"id": 13450,
+"en": "This ramen is full of delicate seaweed, which gives it a unique, ocean-y taste.",
+"ctx": "menú/texto shop0005 + menú/texto shop0006 …"
+},
+{
+"id": 13451,
+"en": "There is more than enough of this piping hot oden assortment to satisfy your hunger. Perfect for a cold winter evening.",
+"ctx": "menú/texto shop0005 + menú/texto shop0006 …"
+},
+{
+"id": 13452,
+"en": "This salmon rice ball is an old standard.",
+"ctx": "menú/texto shop0005 + menú/texto shop0006 …"
+},
+{
+"id": 13453,
+"en": "This tasty bun is freshly steamed and piping hot.",
+"ctx": "menú/texto shop0005 + menú/texto shop0006 …"
+},
+{
+"id": 13454,
+"en": "This piping hot bean paste bun will warm you up.",
+"ctx": "menú/texto shop0005 + menú/texto shop0006 …"
+},
+{
+"id": 13455,
+"en": "Dogs love this brand of dog food. Careful you don't get mobbed by furry friends when opening the bag.",
+"ctx": "menú/texto shop0005 + menú/texto shop0006 …"
+},
+{
+"id": 13456,
+"en": "Carefully selected nigiri-style sushi packed neatly into a box. Definitely worth the price.",
+"ctx": "menú/texto shop0005 + menú/texto shop0006 …"
+},
+{
+"id": 13457,
+"en": "Canned coffee specially brewed with top-quality Guatemalan beans to bring out the flavor.",
+"ctx": "menú/texto shop0005 + menú/texto shop0006 …"
+},
+{
+"id": 13458,
+"en": "This 350 ml bottle of oolong tea goes well with any meal. It contains polyphenol, a natural chemical that reduces fat absorption.",
+"ctx": "menú/texto shop0005 + menú/texto shop0006 …"
+},
+{
+"id": 13459,
+"en": "Masters from Kyoto's famed Fukujuen Tea Company carefully select tea leaves for this 500 ml bottle of green tea.",
+"ctx": "menú/texto shop0005 + menú/texto shop0006 …"
+},
+{
+"id": 13460,
+"en": "Masters from Kyoto's famed Fukujuen Tea Company carefully select tea leaves for this 500 ml bottle of dark-brewed green tea.",
+"ctx": "menú/texto shop0005 + menú/texto shop0006 …"
+},
+{
+"id": 13461,
+"en": "A bottle of sesame-wheat tea. Great for lowering blood pressure.",
+"ctx": "menú/texto shop0005 + menú/texto shop0006 …"
+},
+{
+"id": 13462,
+"en": "This 350 ml can of premium beer was brewed to maximize the rich, refreshing taste of hops and barley.",
+"ctx": "menú/texto shop0005 + menú/texto shop0006 …"
+},
+{
+"id": 13463,
+"en": "Delicious malt and two types of hops are brewed specially for this rich, great-tasting low-malt beer. Comes in a 350 ml can.",
+"ctx": "menú/texto shop0005 + menú/texto shop0006 …"
+},
+{
+"id": 13464,
+"en": "This bracing mix of soda and refreshing lemon flavor is just like the highballs offered at bars and restaurants.",
+"ctx": "menú/texto shop0005 + menú/texto shop0006 …"
+},
+{
+"id": 13465,
+"en": "This is the most basic of food seasonings.",
+"ctx": "menú/texto shop0005 + menú/texto shop0006 …"
+},
+{
+"id": 13466,
+"en": "You can find this seasoning almost anywhere, but try not to get it into your eyes.",
+"ctx": "menú/texto shop0005 + menú/texto shop0006 …"
+},
+{
+"id": 13467,
+"en": "This spicy condiment is a must for people who like it hot, but try not to get it into your eyes.",
+"ctx": "menú/texto shop0005 + menú/texto shop0006 …"
+},
+{
+"id": 13468,
+"en": "Staminan X charges up your health and Heat a little.",
+"ctx": "menú/texto shop0006 + menú/texto shop0008 …"
+},
+{
+"id": 13469,
+"en": "Delicious tonkotsu ramen full of pork fat and a rich pork extract base.",
+"ctx": "menú/texto shop0006 + menú/texto shop0007 …"
+},
+{
+"id": 13470,
+"en": "This flavorful cup of glass noodle soup features snow cabbage, minced chicken, sesame oil, and chicken broth.",
+"ctx": "menú/texto shop0006 + menú/texto shop0009 …"
+},
+{
+"id": 13471,
+"en": "Eggs, jelly ear fungus, spices, and vinegar with glass noodles make up this hot and sour cup of soup.",
+"ctx": "menú/texto shop0006 + menú/texto shop0008 …"
+},
+{
+"id": 13472,
+"en": "This cup of smoky ramen has a salt-based chicken-and-seafood soup flavored with bacon and smoked bonito flakes.",
+"ctx": "menú/texto shop0006 + menú/texto shop0007 …"
+},
+{
+"id": 13473,
+"en": "Charges up your health and Heat a little.",
+"ctx": "menú/texto shop0007 + menú/texto shop0011 …"
+},
+{
+"id": 13474,
+"en": "Nothing like a hot red bean paste bun on a cold day.",
+"ctx": "menú/texto shop0008 + menú/texto shop0009 …"
+},
+{
+"id": 13475,
+"en": "This tea goes well with anything. The polyphenol it contains is said to eliminate fat content.",
+"ctx": "menú/texto shop0009 + menú/texto shop0010 …"
+},
+{
+"id": 13476,
+"en": "This is a maku-no-uchi style lunch set with plenty of variety. I haven't met a customer yet who hasn't loved it.",
+"ctx": "menú/texto shop0010"
+},
+{
+"id": 13477,
+"en": "This is Seicomart's store brand of instant noodle soup with flavorful mini-shrimp tempura in a cup.",
+"ctx": "menú/texto shop0011"
+},
+{
+"id": 13478,
+"en": "Seicomart's store brand of cola.",
+"ctx": "menú/texto shop0011 + menú/texto shop0068"
+},
+{
+"id": 13479,
+"en": "Seicomart's store brand of jasmine tea.",
+"ctx": "menú/texto shop0011"
+},
+{
+"id": 13480,
+"en": "Seicomart's store brand of soy sauce-flavored instant noodles in a cup.",
+"ctx": "menú/texto shop0011"
+},
+{
+"id": 13481,
+"en": "Seicomart's store brand of curry-sauce-flavored instant noodles in a cup.",
+"ctx": "menú/texto shop0011"
+},
+{
+"id": 13482,
+"en": "Seicomart's store brand of seafood-flavored instant noodles in a cup.",
+"ctx": "menú/texto shop0011"
+},
+{
+"id": 13483,
+"en": "Seicomart's store brand of instant noodles topped with fried tofu in a cup.",
+"ctx": "menú/texto shop0011"
+},
+{
+"id": 13484,
+"en": "Seicomart's store brand of milk from Hokkaido.",
+"ctx": "menú/texto shop0011"
+},
+{
+"id": 13485,
+"en": "Seicomart's store brand of sake, packaged in a two-liter carton.",
+"ctx": "menú/texto shop0011"
+},
+{
+"id": 13486,
+"en": "This magazine is packed with sexy photos of pin-up girls.",
+"ctx": "menú/texto shop0011"
+},
+{
+"id": 13487,
+"en": "This magazine contains information on the Kansai Region. Show it at certain shops to receive a discount.",
+"ctx": "menú/texto shop0012"
+},
+{
+"id": 13488,
+"en": "You don't want to get whacked by this fashionable thing.",
+"ctx": "menú/texto shop0012 + menú/texto shop0019 …"
+},
+{
+"id": 13489,
+"en": "This magazine contains information on the Tokai Region. Show it at certain shops to receive a discount.",
+"ctx": "menú/texto shop0013"
+},
+{
+"id": 13490,
+"en": "Charges up your health and Heat significantly.",
+"ctx": "menú/texto shop0014 + menú/texto shop0015 …"
+},
+{
+"id": 13491,
+"en": "Made from cloth that is gentle on your skin.",
+"ctx": "menú/texto shop0014 + menú/texto shop0015 …"
+},
+{
+"id": 13492,
+"en": "This amulet might offer a little bit of protection.",
+"ctx": "menú/texto shop0014 + menú/texto shop0015 …"
+},
+{
+"id": 13493,
+"en": "These inserts are great for those concerned about foot odor.",
+"ctx": "menú/texto shop0014 + menú/texto shop0015 …"
+},
+{
+"id": 13494,
+"en": "These whole dried chili peppers are incredibly hot. Be careful not to overdo it.",
+"ctx": "menú/texto shop0014 + menú/texto shop0017"
+},
+{
+"id": 13495,
+"en": "This is your standard alkaline battery.",
+"ctx": "menú/texto shop0014"
+},
+{
+"id": 13496,
+"en": "Please follow the accompanying instructions carefully when using these lenses.",
+"ctx": "menú/texto shop0015 + menú/texto shop0016"
+},
+{
+"id": 13497,
+"en": "Your average oil used in oil lighters.",
+"ctx": "menú/texto shop0016"
+},
+{
+"id": 13498,
+"en": "Kids can throw this around without getting hurt.",
+"ctx": "menú/texto shop0016"
+},
+{
+"id": 13499,
+"en": "Your standard alkaline battery.",
+"ctx": "menú/texto shop0017"
+},
+{
+"id": 13500,
+"en": "This blunt weapon designed for self-defense might not work well in a fight.",
+"ctx": "menú/texto shop0018"
+},
+{
+"id": 13501,
+"en": "Much more lightweight than its Western counterpart. Effective against bladed weapons.",
+"ctx": "menú/texto shop0018 + menú/texto shop0019 …"
+},
+{
+"id": 13502,
+"en": "Your average can of pepper spray designed for self-defense.",
+"ctx": "menú/texto shop0018 + menú/texto shop0019 …"
+},
+{
+"id": 13503,
+"en": "Multipurpose cutter known for its versatility.",
+"ctx": "menú/texto shop0018 + menú/texto shop0020 …"
+},
+{
+"id": 13504,
+"en": "This device beeps when a locker key is nearby. A heavyset customer sold it to us one day.",
+"ctx": "menú/texto shop0018 + menú/texto shop0021"
+},
+{
+"id": 13505,
+"en": "Easy to conceal in your inner jacket pocket.",
+"ctx": "menú/texto shop0019 + menú/texto shop0021"
+},
+{
+"id": 13506,
+"en": "AppStim RX stimulates the appetite by improving\ndigestive tract function.",
+"ctx": "menú/texto shop0020"
+},
+{
+"id": 13507,
+"en": "It's not particularly valuable, but it could go for a relatively nice price at a pawn shop.",
+"ctx": "menú/texto shop0020 + menú/texto shop0035 …"
+},
+{
+"id": 13508,
+"en": "This bat made of expensive materials can be used in batting showdowns.",
+"ctx": "menú/texto shop0023"
+},
+{
+"id": 13509,
+"en": "This bat made of rare ash wood can be used in batting showdowns.",
+"ctx": "menú/texto shop0023"
+},
+{
+"id": 13510,
+"en": "These gloves made of high-grade leather can be used in batting showdowns.",
+"ctx": "menú/texto shop0023"
+},
+{
+"id": 13511,
+"en": "These high-tech gloves can be used in batting showdowns.",
+"ctx": "menú/texto shop0023"
+},
+{
+"id": 13512,
+"en": "These cleats made of expensive materials can be used in batting showdowns.",
+"ctx": "menú/texto shop0023"
+},
+{
+"id": 13513,
+"en": "These cleats made of new, high-tech materials can be used in batting showdowns.",
+"ctx": "menú/texto shop0023"
+},
+{
+"id": 13514,
+"en": "Charges up your health and Heat dramatically.",
+"ctx": "menú/texto shop0024 + menú/texto shop0025 …"
+},
+{
+"id": 13515,
+"en": "Charges up your health and Heat to their maximum levels.",
+"ctx": "menú/texto shop0024 + menú/texto shop0025 …"
+},
+{
+"id": 13516,
+"en": "Toughness Emperor really lives up to its name. It's got enough nutrients and supplements to revive an elephant.",
+"ctx": "menú/texto shop0024 + menú/texto shop0025 …"
+},
+{
+"id": 13517,
+"en": "Stimulates your digestive tract, increasing your appetite.",
+"ctx": "menú/texto shop0025 + menú/texto shop0026 …"
+},
+{
+"id": 13518,
+"en": "Introducing the new and improved Diehard Drink! Diehard MAX delivers 3,000 mg of taurine to prime you for whatever you might face!",
+"ctx": "menú/texto shop0026"
+},
+{
+"id": 13519,
+"en": "This set includes a regular Smile Burger, fries, and a drink. Made to go.",
+"ctx": "menú/texto shop0028"
+},
+{
+"id": 13520,
+"en": "This set comes with a Smile Cheeseburger, fries, and a drink. Made to go.",
+"ctx": "menú/texto shop0028"
+},
+{
+"id": 13521,
+"en": "A Teriyaki Smile Burger with special sauce, fries, and a drink. Made to go.",
+"ctx": "menú/texto shop0028"
+},
+{
+"id": 13522,
+"en": "Our famous King Smile Burger, fries, and a drink come with this set. Made to go.",
+"ctx": "menú/texto shop0028"
+},
+{
+"id": 13523,
+"en": "A tasty Tuna Burger with a unique texture. Fries and a drink come with this set. Made to go.",
+"ctx": "menú/texto shop0028"
+},
+{
+"id": 13524,
+"en": "A tender, stewed pork burger with fries and a drink. Made to go.",
+"ctx": "menú/texto shop0028"
+},
+{
+"id": 13525,
+"en": "This French monogrammed bag would make a fabulous gift.",
+"ctx": "menú/texto shop0029 + menú/texto shop0030 …"
+},
+{
+"id": 13526,
+"en": "This French cologne is popular for its alluring fragrance.",
+"ctx": "menú/texto shop0029 + menú/texto shop0030 …"
+},
+{
+"id": 13527,
+"en": "This French perfume is a popular item. Take in that flowery scent.",
+"ctx": "menú/texto shop0029 + menú/texto shop0030 …"
+},
+{
+"id": 13528,
+"en": "Fine Italian cologne with a sensual aroma.",
+"ctx": "menú/texto shop0029 + menú/texto shop0030 …"
+},
+{
+"id": 13529,
+"en": "Fine Italian perfume with a sensual aroma.",
+"ctx": "menú/texto shop0029 + menú/texto shop0030 …"
+},
+{
+"id": 13530,
+"en": "This French cashmere scarf is a popular gift item.",
+"ctx": "menú/texto shop0029 + menú/texto shop0030 …"
+},
+{
+"id": 13531,
+"en": "This top-brand French wallet is a popular gift item.",
+"ctx": "menú/texto shop0029 + menú/texto shop0030 …"
+},
+{
+"id": 13532,
+"en": "This high-end Italian scarf would make one lucky woman's day as a gift.",
+"ctx": "menú/texto shop0029 + menú/texto shop0030 …"
+},
+{
+"id": 13533,
+"en": "This high-end Italian wallet is a popular gift item.",
+"ctx": "menú/texto shop0029 + menú/texto shop0030 …"
+},
+{
+"id": 13534,
+"en": "This high-end Italian shoulder bag would make the perfect gift.",
+"ctx": "menú/texto shop0029 + menú/texto shop0030 …"
+},
+{
+"id": 13535,
+"en": "This Swiss watch was handcrafted by a skilled watchmaker.",
+"ctx": "menú/texto shop0029 + menú/texto shop0030 …"
+},
+{
+"id": 13536,
+"en": "This Asian digital watch is very practical but still pairs well with the latest fashions.",
+"ctx": "menú/texto shop0029 + menú/texto shop0030 …"
+},
+{
+"id": 13537,
+"en": "This high-quality diver's watch is waterproof up to 200-meter depths.",
+"ctx": "menú/texto shop0029 + menú/texto shop0030 …"
+},
+{
+"id": 13538,
+"en": "This dress is rather expensive for off-the-rack fashion, but still manages to be popular.",
+"ctx": "menú/texto shop0029 + menú/texto shop0030 …"
+},
+{
+"id": 13539,
+"en": "This high-end Italian women's watch is sure to turn heads and make a wonderful gift.",
+"ctx": "menú/texto shop0029 + menú/texto shop0030 …"
+},
+{
+"id": 13540,
+"en": "This high-end Italian necklace would be a nice gift for a woman of discerning tastes.",
+"ctx": "menú/texto shop0029 + menú/texto shop0030 …"
+},
+{
+"id": 13541,
+"en": "This caviar leather bag⑬that's a type of calf skin⑬was imported from France. It would make for a wonderful gift.",
+"ctx": "menú/texto shop0029 + menú/texto shop0030 …"
+},
+{
+"id": 13542,
+"en": "This sleek Italian-made ring would make a fine gift for your special someone.",
+"ctx": "menú/texto shop0029 + menú/texto shop0030 …"
+},
+{
+"id": 13543,
+"en": "A high-end Italian necklace for men. Crafted of silver and very distinguished. ",
+"ctx": "menú/texto shop0029 + menú/texto shop0030 …"
+},
+{
+"id": 13544,
+"en": "This luxurious women's coat from Britain would be a nice gift for a woman of discerning tastes.",
+"ctx": "menú/texto shop0029 + menú/texto shop0030 …"
+},
+{
+"id": 13545,
+"en": "These famous Italian-brand boots were crafted from soft leather that fit every contour of your feet perfectly.",
+"ctx": "menú/texto shop0029 + menú/texto shop0030 …"
+},
+{
+"id": 13546,
+"en": "Thank you. That'll be %sballs.",
+"ctx": "menú/texto shop0035 + menú/texto shop0037"
+},
+{
+"id": 13547,
+"en": "This plate is made of gold. It's worth its weight in... Well, it's made of gold. Need I say more?",
+"ctx": "menú/texto shop0035 + menú/texto shop0036 …"
+},
+{
+"id": 13548,
+"en": "A plate made of silver. Probably fairly valuable.",
+"ctx": "menú/texto shop0035 + menú/texto shop0036 …"
+},
+{
+"id": 13549,
+"en": "This plate made of iron is nothing special, but it could probably fetch a little cash.",
+"ctx": "menú/texto shop0035"
+},
+{
+"id": 13550,
+"en": "Thank you. That'll be %stokens.",
+"ctx": "menú/texto shop0036 + menú/texto shop0040"
+},
+{
+"id": 13551,
+"en": "Thank you. That'll be %s tokens.",
+"ctx": "menú/texto shop0038"
+},
+{
+"id": 13552,
+"en": "Thanks. That'll be %stags.",
+"ctx": "menú/texto shop0039"
+},
+{
+"id": 13553,
+"en": "This plate is made of iron. It's nothing special, but you could probably sell it for some cash.",
+"ctx": "menú/texto shop0039"
+},
+{
+"id": 13554,
+"en": "Tauriner Maximum is the ultimate energy drink.",
+"ctx": "menú/texto shop0039"
+},
+{
+"id": 13555,
+"en": "Thank you. That comes to %s chips.",
+"ctx": "menú/texto shop0041 + menú/texto shop0042"
+},
+{
+"id": 13556,
+"en": "Would you like to order this?",
+"ctx": "menú/texto shop0043 + menú/texto shop0044"
+},
+{
+"id": 13557,
+"en": "This tower of champagne uses an extravagant amount of gold champagne.",
+"ctx": "menú/texto shop0043"
+},
+{
+"id": 13558,
+"en": "The champagne experience is made even better when the waiter pops the cork right in front of you.",
+"ctx": "menú/texto shop0043"
+},
+{
+"id": 13559,
+"en": "Sweet, delicious rosé champagne.",
+"ctx": "menú/texto shop0043"
+},
+{
+"id": 13560,
+"en": "Sultry, dry black champagne.",
+"ctx": "menú/texto shop0043"
+},
+{
+"id": 13561,
+"en": "Sleek, traditional white champagne.",
+"ctx": "menú/texto shop0043"
+},
+{
+"id": 13562,
+"en": "Buy Yamazaki 12-year-old whisky by the bottle, and you can keep it at the club and drink it until it's empty.",
+"ctx": "menú/texto shop0043"
+},
+{
+"id": 13563,
+"en": "Enjoy reasonably priced champagne along with a try at the gacha machine. You might even win a prize if you're lucky!",
+"ctx": "menú/texto shop0043"
+},
+{
+"id": 13564,
+"en": "Enjoy a refreshing bottle of beer.",
+"ctx": "menú/texto shop0043"
+},
+{
+"id": 13565,
+"en": "This cocktail combines crème de cassis liqueur and orange juice.",
+"ctx": "menú/texto shop0043"
+},
+{
+"id": 13566,
+"en": "Fresh-squeezed orange juice.",
+"ctx": "menú/texto shop0043"
+},
+{
+"id": 13567,
+"en": "Kyogetsu Green South Korean soju.",
+"ctx": "menú/texto shop0043"
+},
+{
+"id": 13568,
+"en": "A gorgeous platter of fresh fruit.",
+"ctx": "menú/texto shop0044"
+},
+{
+"id": 13569,
+"en": "A hearty plate of carbonara that will fill your belly.",
+"ctx": "menú/texto shop0044"
+},
+{
+"id": 13570,
+"en": "You can't go wrong with these golden nuggets of deep-fried chicken.",
+"ctx": "menú/texto shop0044"
+},
+{
+"id": 13571,
+"en": "Healthy sticks of fresh, organic vegetables.",
+"ctx": "menú/texto shop0044"
+},
+{
+"id": 13572,
+"en": "We lightly grill this fresh ray fin over coals to bring out that sweet, roasted flavor.",
+"ctx": "menú/texto shop0044"
+},
+{
+"id": 13573,
+"en": "Crispy on the outside, gooey goodness on the inside. Served piping hot.",
+"ctx": "menú/texto shop0044"
+}
+]

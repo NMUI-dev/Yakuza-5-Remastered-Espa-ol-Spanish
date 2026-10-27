@@ -1,0 +1,219 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_h_tutorial_l.par/texlist_0001/2d_yk_h_tutorial_l",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    2,
+    1,
+    75,
+    12
+   ],
+   "en": "LESSON",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     245,
+     245,
+     245
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     2
+    ],
+    "brillo": null
+   },
+   "alin": "centro",
+   "ancho_max": 69,
+   "dejar": true
+  },
+  {
+   "caja": [
+    578,
+    200,
+    700,
+    232
+   ],
+   "en": "Performance",
+   "es": "Actuación",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 118
+  },
+  {
+   "caja": [
+    722,
+    195,
+    842,
+    240
+   ],
+   "en": "UP!",
+   "es": "¡SUBE!",
+   "fuente": "segoeuiz.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 114
+  },
+  {
+   "caja": [
+    18,
+    396,
+    84,
+    416
+   ],
+   "en": "Power",
+   "es": "Potencia",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     245,
+     245,
+     245
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     2
+    ],
+    "brillo": null
+   },
+   "alin": "centro",
+   "ancho_max": 62
+  },
+  {
+   "caja": [
+    18,
+    418,
+    84,
+    456
+   ],
+   "en": "Low",
+   "es": "Baja",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     245,
+     245,
+     245
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     2
+    ],
+    "brillo": null
+   },
+   "alin": "centro",
+   "ancho_max": 62
+  },
+  {
+   "caja": [
+    380,
+    396,
+    462,
+    416
+   ],
+   "en": "Power",
+   "es": "Potencia",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     245,
+     245,
+     245
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     2
+    ],
+    "brillo": null
+   },
+   "alin": "centro",
+   "ancho_max": 78
+  },
+  {
+   "caja": [
+    380,
+    418,
+    462,
+    459
+   ],
+   "en": "High",
+   "es": "Alta",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     245,
+     245,
+     245
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     2
+    ],
+    "brillo": null
+   },
+   "alin": "centro",
+   "ancho_max": 78
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+YAKUZA 5 REMASTERED - TRADUCCION AL ESPANOL - REGISTRO PASO A PASO
+(se va escribiendo durante el trabajo; va dentro del zip con el instalador)
+
+20-10-2026
+1. Juego: D:\SteamLibrary\steamapps\common\Yakuza 5\main (Yakuza5.exe). Los datos estan en main\data.
+   Los textos en ingles viven en archivos con sufijo _en: db.devil\en (tablas ARMP), scenario_en, wdr_par_en,
+   staypar\stay_en.par, bootpar\boot_en.par, auth_telop\auth_telop_en.par, 2dpar\ui_en.par, minigame_en, pausepar\*_en.par.
+2. Herramientas copiadas del proyecto de Yakuza 6: ParTool (abre y rearma .par) y reARMP (exporta tablas ARMP a JSON).
+3. Extraidos con "ParTool extract": wdr_par_en\common.par (tiendas), wdr.par (5657 archivos), stay_en.par (enemigos,
+   premios), boot_en.par, auth_telop_en.par (rotulos de escenas en imagen .dds).
+4. db.devil\en\msg_replacer.bin exportado a JSON con reARMP.
+5. Escaneo de texto ingles (herramientas/escanear_ingles.py): 84.856 textos unicos, 3,9 millones de letras.
+   La mayor parte esta en wdr_par_en\wdr.par (archivos .msg). Los subtitulos de escenas estan en auth\subtitle.par
+   como CSV en UTF-16.
+6. Formato .msg descifrado a mano (big endian): registros de 12 bytes con largo, posicion del texto y "funciones"
+   (pausas, colores, fin) que guardan posiciones de letra. Lector: herramientas/msg_y5.py.
+7. Laboratorio D:\Y5_lab (para probar sin tocar el juego de Steam ni sumar logros/horas): Yakuza5.exe sin SteamStub
+   (Steamless) + steam_appid.txt = 480 (Steam lo ve como "Spacewar"); carpetas de datos enlazadas (uniones y enlaces
+   duros) al juego real; un archivo modificado se pone con "y5lab.sh poner" (borra el enlace y copia, nunca escribe encima).
+   Ajustes del laboratorio aparte (AppData\SEGA\Yakuza5 se guarda y se devuelve al cerrar). Ventana 1280x720.
+8. PRUEBA 1 (20-10): subtitle.par rearmado con ParTool "add" y un CSV cambiado -> el juego muestra el español con tildes
+   (UTF-16 en el CSV). La casilla de "¿" de la fuente dibuja "/": hay que redibujarla (como en Yakuza 6).
+9. Tablas .bin con cabecera 20 07 03 19 (objetos, habilidades, misiones...): columnas con nombre; los textos van seguidos
+   y separados por ceros (completos, dispersos con numero de fila, o diccionario). Lector/escritor: herramientas/tabla_y5.py
+   (las 168 tablas se leen y reescriben identicas).
+10. Otros .bin (menus string_tbl, correos mail.bin, tiendas, frases de combate ai_popup): las frases se localizan por
+    punteros absolutos (big endian) -> la traduccion se anade al final y se redirige el puntero.
+11. Guiones pac_*.bin: frases de acompanantes en linea dentro del guion (reinsercion aparte).
+12. herramientas/extraer.py -> trabajo/textos_en.jsonl (todas las celdas con su clave) y unicos_en.json:
+    63.498 textos unicos, 3,72 M letras (dialogos 2,98 M; tablas 0,41 M; menus 0,18 M; subtitulos 0,13 M; pac 0,03 M).
+13. herramientas/preparar_lotes.py -> 310 lotes de ~12.000 letras en trabajo/lotes, con GUIA_TRADUCCION.md (espanol
+    neutro latino, marcas <Color:..>), glosario_vivo.md y NOTAS_TRADUCTORES.txt. Validador: herramientas/validar_lote.py.
+14. Traduccion automatica con ayudantes gratuitos: herramientas/traductor_gemini.py (Gemini y, si se acaba la cuota,
+    modelos gratis de OpenRouter); 3 a la vez, cada uno reserva lotes con reclamar_lote.sh. Logs: tareas/gemini/.
+15. Reinsercion: herramientas/aplicar.py (con --prueba pone "ñ-" delante de todo para ver que cada texto llega al juego).
+    Dialogos .msg: texto nuevo al final del archivo y se recalculan las posiciones de pausas/colores. Punteros: se anade
+    el texto al final y se redirigen. Tablas: se reescriben. Los .par se rearman con ParTool "add".
+16. PRUEBA 2 (20-10, laboratorio): menu de titulo (ayudas), nueva partida, subtitulos de escena y dialogos del motor
+    (Daigo en el taxi) muestran el texto reinsertado. El juego se CERRABA al llegar al primer dialogo: busqueda por mitades
+    (herramientas/y5probar.sh, y5boot_mitad.sh, piloto.py = piloto automatico que mira la pantalla) -> la culpa era la
+    columna CATEGORY de drive_parts.bin ("Wheel", "Default"), que el juego usa como clave interna. Se excluyen esa y otras
+    columnas internas (expresiones, ids, nombres de animacion) en aplicar.py (COL_INTERNAS).
+17. Letra (fontpar\font_hd_en.par, gothic_en\sd_hankaku.dds, rejilla Latin-1 de 16x32): ya trae tildes y ñ. Arreglos:
+    "¿" (traia "/") = "?" del juego girado; "¡" estaba corrida una casilla; "í/Í" redibujadas pegadas a la izquierda
+    (el juego mide el ancho por la tinta: la i original dejaba hueco). Probado en el laboratorio.
+18. Imagenes: herramientas/imagenes_distintas.py compara cada textura inglesa con la japonesa (las distintas llevan texto
+    en ingles). El menu del titulo esta en 2dpar\ui_en.par > surfboard\pjd_titlemenu.par > 2d_jm_titlemenu.dds: un
+    atlas con las palabras pegadas; los rectangulos exactos que usa el juego se leen del archivo de diseño
+    pjd_titlemenu.sbb. herramientas/atlas_es.py borra cada rectangulo y escribe el español (Times, version nitida y
+    desenfocada); herramientas/imagenes_aplicar.py rearma los .par anidados. Probado: el menu sale en español.
+19. Avisos de accion (sprite_en.par, 2d_cf_action_asc_*: Abrir, Hablar, Recoger...): herramientas/acciones_es.py (Georgia,
+    texto blanco con brillo naranja medido del original). Carteles con efectos (Objeto obtenido, Subes de nivel, Vida
+    maxima aumentada, Orbes de alma obtenidos, HABILIDAD APRENDIDA en piezas): herramientas/textos_menu_es.py; los
+    rectangulos salen de los .sbb (herramientas/sbb_rects.py).
+20. Tarjetas de habilidad (pausepar\pause_en.par, ability\*.dds, 522): llevan la etiqueta HEAT, TECH, SOUL o BODY.
+    herramientas/habilidades_clasificar.py las agrupa (color + forma); HEAT se deja (el texto del juego dice "Heat").
+    herramientas/habilidades_es.py: el fondo limpio sale de la version japonesa donde su kanji no tapa, el resto se
+    rellena (OpenCV inpaint); se escribe TECNICA / ALMA / CUERPO con Knewave (pincel en cursiva), degradado y borde
+    medidos del original. 251 tarjetas.
+21. pause_en.par lleva textos E imagenes: imagenes_aplicar.py parte del .par que ya dejo aplicar.py (con los textos) y
+    mete las imagenes encima; aplicar.py lo llama al final, asi el orden es siempre textos -> imagenes.
+22. Imagenes con texto de "documento" (reglas de minijuegos, guias de controles, menus): se leen con OCR
+    (RapidOCR, sin conexion: herramientas/ocr_imagenes.py -> trabajo/imagenes/ocr.json); imagenes_lotes.py junta los
+    renglones en bloques, reaprovecha las frases que ya estan en el juego y crea lotes nuevos (311 en adelante) que los
+    mismos traductores gratuitos recogen solos; imagenes_es.py + paginas_es.py borran la tinta inglesa (Otsu dentro de
+    cada renglon + inpaint) y escriben el español con el tamaño, color, alineacion y renglones del original (Segoe UI;
+    simbolos △○✕ con Segoe UI Symbol). Rotulos de pincel (objetivos "HEAD FOR ...") con rotulos.py (de Yakuza 6).
+23. Revision final de textos (21-10): herramientas/buscar_fallos.py (copiado del Yakuza 6) marca palabras de Espana o
+    regionales, signos de apertura que faltan y restos en ingles. herramientas/corregir_fallos.py los manda a los
+    ayudantes gratuitos con el problema concreto y solo guarda la correccion si el lote sigue validando (registro de cada
+    cambio, antes/despues, en tareas/gemini/correcciones.jsonl). Leccion: en frases partidas en trozos («...inventas!»)
+    el signo de apertura va en el trozo anterior; y nunca se cambian los ? ! de cierre.
+24. herramientas/iguales_revisar.py: textos que quedaron IGUAL que el ingles (en el laboratorio salio «Hard»). Los
+    ayudantes deciden si es nombre propio (se deja) o hay que traducirlo.
+25. Mensajes del sistema (data\db.devil\en\msg.bin, tabla ARMP v2: guardar partida, regalos recibidos, errores): cada
+    cadena tiene un puntero u32 little endian; herramientas/devil.py extraer / traducir / aplicar (el espanol se anade al
+    final y se redirige el puntero). Revisados a mano los 453. msg_replacer.bin y middle_file_reactor_name.bin son
+    nombres INTERNOS de los programadores (traduccion literal de etiquetas japonesas): no se tocan.
+26. Letra: el «¡» (0xA1) tiene en el juego un ancho fijo grande y dejaba hueco («¡ Un»). Se dibuja en la casilla de «~»
+    (0x7E, que ningun texto usa) pegado a la izquierda (trabajo/fuente/add/.../sd_hankaku.dds -> font_hd_en.par con
+    ParTool add) y al reinsertar los textos cada «¡» se escribe «~» (aplicar.py LETRAS, devil.py). Las imagenes no.
+27. IMAGENES (resumen; detalles en trabajo/imagenes/GUIA_ATLAS.md):
+    - Paginas (reglas, capturas, capitulos, objetos): OCR (RapidOCR) -> traduccion -> imagenes_es.py + paginas_es.py.
+      Revision con gemma4 (modelo local con vision, Ollama) + a ojo: herramientas/revisar_paginas.py.
+    - Atlas de menus (palabras sueltas que el juego recorta): KIT DE ATLAS = atlas_borrador.py (casillas del .sbb,
+      texto leido por gemma4 y comprobado con el OCR, traduccion, letra, efecto) + atlas_probar.py (dibuja, compara,
+      reserva y acepta) + atlas_verificar.py (hojas para la verificacion final). El dibujo (atlas_es.py) copia del
+      original el alto, el color, el degradado, el contorno y el brillo (efecto «estilo»); en casillas opacas borra el
+      texto con LaMa (simple-lama-inpainting). Formato BC7 con texconv.exe (Microsoft, MIT).
+    - Hechos a mano: menu del titulo, menu de pausa (13 texturas), celular (10), carteles (objeto obtenido, subir de
+      nivel, habilidad), tarjetas de habilidad (habilidades_es.py, con el marco restaurado), aviso del mando
+      (firstload_es.py, letra de pincel CaveatBrush).
+    - Trabajo en equipo: Claude (claude2) dirige y verifica; claude1 + asistentes Fable hacen atlas con el kit;
+      ayudantes gratuitos (MiniMax/Gemini por API) traducen; gemma4 local revisa. Nada entra al juego sin verificar
+      (trabajo/imagenes/atlas_verificados.txt).
+26. ORDEN FINAL para rearmar todo (21-10-2026): atlas_probar.py aplicar (atlas verificados) -> aplicar.py (textos +
+    imagenes; VACIA trabajo/salida) -> devil.py aplicar (mensajes del sistema; va DESPUES porque aplicar.py borra la
+    salida). Probado en el laboratorio: arranca, dialogos, pausa y subtitulos en español.
+27. Hueco tras «í», «Í» y «¡» («paí s», «Í ñigo», «¡ Hola»): el juego NO mide la letra por su tinta sino con una tabla
+    de anchos fija por casilla. Se dibujaron esas letras en casillas estrechas casi sin uso: í -> «`», Í -> «|»,
+    ¡ -> «½» (herramientas/letra_i.py, que rearma trabajo/fuente/font_hd_en.par), y al reinsertar los textos se
+    escriben esas casillas (aplicar.LETRAS y devil.py). Probado en el laboratorio con «país, día, aquí, río, Íñigo,
+    sí, ¡Hola!»: sin huecos.
+28. Cartas del tesoro (takara_es.py): la carta entera se traduce y cada pedazo roto se localiza en ella por plantilla
+    y recibe su trozo en español. Correos de Kamiyama (correos_kamiyama_es.py) y aviso de ficción (ficcion_es.py) a
+    mano. Páginas de reglas: paginas_es.py renglón a renglón (viñetas, etiquetas de color, columnas, tamaño único)
+    + renglones_perdidos.py (renglones que el OCR se salta, traducidos por los ayudantes gratuitos).
+
+25-10-2026 - v1.0.1 (solo imagenes)
+1. Revision a ojo de TODAS las imagenes con texto, en hojas «original | traduccion» de ~8 por hoja, por dos personas
+   (cada una reviso lo de la otra). Mas de 250 imagenes rehechas desde el ORIGINAL (no encima de la v1.0).
+2. Hallazgo 1: en los .par anidados la carpeta interna se llama «Texlist_0001» (mayuscula); si se mete con otro nombre,
+   ParTool la anade aparte y el juego sigue leyendo la original -> 55 imagenes salian en ingles en la v1.0.
+3. Hallazgo 2: el compresor DXT de Pillow estropea el texto fino (fantasmas, letras rotas). Ahora se guarda con texconv
+   (BC1/BC2/BC3) y, fuera de lo editado, se devuelven los bloques DXT originales.
+4. Armado, comprobado (todas las .dds abren y son identicas a las revisadas), probado en el juego y en Steam.

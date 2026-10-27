@@ -1,0 +1,889 @@
+[
+{
+"id": 71950,
+"en": "Organization",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 21
+},
+{
+"id": 71951,
+"en": "CAST",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 71952,
+"en": "Film Director",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 71953,
+"en": "Tsuyoshi lde",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 21
+},
+{
+"id": 71954,
+"en": "Kan Tsujimoto",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 71955,
+"en": "Masakatsu Komuro Toshiki Handa",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71956,
+"en": "Jun Yoshii",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 71957,
+"en": "Masayoshi Kano",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 24
+},
+{
+"id": 71958,
+"en": "Noriyuki Oniwa",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 24
+},
+{
+"id": 71959,
+"en": "Keiichi Uwano",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 71960,
+"en": "Haruka Sawamura Dolce Kamiya (MC)",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71961,
+"en": "Kazuya Sugino",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 71962,
+"en": "Shuichiro Iwamura",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 28
+},
+{
+"id": 71963,
+"en": "Tomohito Fukunaga",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 28
+},
+{
+"id": 71964,
+"en": "Hokuto Tozuki",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 71965,
+"en": "Kazuhiko Sakamoto",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 28
+},
+{
+"id": 71966,
+"en": "Art Production",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 24
+},
+{
+"id": 71967,
+"en": "Recording",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 17
+},
+{
+"id": 71968,
+"en": "Switcher",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 71969,
+"en": "Large Tools",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 19
+},
+{
+"id": 71970,
+"en": "Takatoshi Hatta",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 71971,
+"en": "Kazuki Takeuchi",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 71972,
+"en": "Kenichi Kobe",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 21
+},
+{
+"id": 71973,
+"en": "Takanori Ashida Tsukasa Uchino Tatsuo Nishitani",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71974,
+"en": "Yoshikazu Arita Tatsuro Shimura Tae Kojima",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71975,
+"en": "Toshiaki Namiki Kazuyuki Nakane Tetsuji Takasaki",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71976,
+"en": "PA",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 6
+},
+{
+"id": 71977,
+"en": "VE",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 6
+},
+{
+"id": 71978,
+"en": "Light Production",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 27
+},
+{
+"id": 71979,
+"en": "Mitsugu Okada Kaname lhara",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71980,
+"en": "Mitsuhiko Kineya",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 27
+},
+{
+"id": 71981,
+"en": "Masanori Yamagami",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 28
+},
+{
+"id": 71982,
+"en": "Hideo Ashiga",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 21
+},
+{
+"id": 71983,
+"en": "SpecialEffects",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 24
+},
+{
+"id": 71984,
+"en": "Editing",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 71985,
+"en": "CGDirection",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 19
+},
+{
+"id": 71986,
+"en": "Toshi Kuwata",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 21
+},
+{
+"id": 71987,
+"en": "Kurato Kushida",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 24
+},
+{
+"id": 71988,
+"en": "Ginta Higashino",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 71989,
+"en": "Ogata Daihiro",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 71990,
+"en": "Katsuyuki Suwa",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 24
+},
+{
+"id": 71991,
+"en": "Ikuha Mano",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 71992,
+"en": "SpecialDevices",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 24
+},
+{
+"id": 71993,
+"en": "MA",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 6
+},
+{
+"id": 71994,
+"en": "Shozo Hasebe",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 21
+},
+{
+"id": 71995,
+"en": "Eriko Kobayashi",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 71996,
+"en": "Shota Satonaka",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 24
+},
+{
+"id": 71997,
+"en": "Nodoka Yoshikawa",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 27
+},
+{
+"id": 71998,
+"en": "Fuyuki Shishido",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 71999,
+"en": "Akira Onizuka",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 72000,
+"en": "Direction",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 17
+},
+{
+"id": 72001,
+"en": "Director",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 72002,
+"en": "Research",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 72003,
+"en": "Hair & Make Up",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 24
+},
+{
+"id": 72004,
+"en": "Stylist",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 72005,
+"en": "Maki Endo",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 17
+},
+{
+"id": 72006,
+"en": "Hiroshi Okuma",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 72007,
+"en": "Toshiro Furutani",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 27
+},
+{
+"id": 72008,
+"en": "MICHIAKI",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 72009,
+"en": "TakeoAkagi",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 72010,
+"en": "TK",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 6
+},
+{
+"id": 72011,
+"en": "Production Assistant",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 33
+},
+{
+"id": 72012,
+"en": "Sanae lijima",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 21
+},
+{
+"id": 72013,
+"en": "Chiho Minegishi",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 72014,
+"en": "Ayumi Osaki",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 19
+},
+{
+"id": 72015,
+"en": "Minako Saeki",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 21
+},
+{
+"id": 72016,
+"en": "Floor Director",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 24
+},
+{
+"id": 72017,
+"en": "Producer",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 72018,
+"en": "ChiefProducer",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 72019,
+"en": "Production Composition",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 35
+},
+{
+"id": 72020,
+"en": "Hiroshi Takakura",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 27
+},
+{
+"id": 72021,
+"en": "Isayuki Hokujo",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 24
+},
+{
+"id": 72022,
+"en": "Soichiro Manda",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 24
+},
+{
+"id": 72023,
+"en": "SotenTV",
+"ctx": "imagen de menú (princess_staffroll); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 72024,
+"en": "RULE",
+"ctx": "imagen de menú (princess_tutorial_01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 72025,
+"en": "MATCH",
+"ctx": "imagen de menú (princess_tutorial_01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 72026,
+"en": "CHAMPIONSHIP",
+"ctx": "imagen de menú (princess_tutorial_01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 21
+},
+{
+"id": 72027,
+"en": "PRIZE",
+"ctx": "imagen de menú (princess_tutorial_01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 72028,
+"en": "Satisfaction \"Waita Moment”Smile",
+"ctx": "imagen de menú (2d_yk_h_akushu); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 72029,
+"en": "Hold downbutton to shakehands",
+"ctx": "imagen de menú (2d_yk_h_akushu); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 72030,
+"en": "Finishe",
+"ctx": "imagen de menú (2d_yk_h_akushu_end); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 72031,
+"en": "FREESTORYBLANK",
+"ctx": "imagen de menú (2d_yk_h_choice); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 24
+},
+{
+"id": 72032,
+"en": "dych",
+"ctx": "imagen de menú (2d_yk_h_choice); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 72033,
+"en": "ALLSTORY",
+"ctx": "imagen de menú (2d_yk_h_choice); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 72034,
+"en": "Information",
+"ctx": "imagen de menú (2d_yk_h_choice); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 19
+},
+{
+"id": 72035,
+"en": "Gych OK",
+"ctx": "imagen de menú (2d_yk_h_choice); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 72036,
+"en": "Requester",
+"ctx": "imagen de menú (2d_yk_h_choice); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 17
+},
+{
+"id": 72037,
+"en": "Fans Gained",
+"ctx": "imagen de menú (2d_yk_h_choice); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 19
+},
+{
+"id": 72038,
+"en": "Importance",
+"ctx": "imagen de menú (2d_yk_h_choice); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 72039,
+"en": "SIDE",
+"ctx": "imagen de menú (2d_yk_h_choice); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 72040,
+"en": "TV",
+"ctx": "imagen de menú (2d_yk_h_choice); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 6
+},
+{
+"id": 72041,
+"en": "Press",
+"ctx": "imagen de menú (2d_yk_h_choice); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 72042,
+"en": "1ST STAGE",
+"ctx": "imagen de menú (2d_yk_liveb); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 17
+},
+{
+"id": 72043,
+"en": "3RDSTAGE",
+"ctx": "imagen de menú (2d_yk_liveb); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 72044,
+"en": "SUCCESS!PERFECT!!",
+"ctx": "imagen de menú (2d_yk_liveb); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 28
+},
+{
+"id": 72045,
+"en": "MISSBADGOODGREAT",
+"ctx": "imagen de menú (2d_yk_liveb); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 27
+},
+{
+"id": 72046,
+"en": "COOD CRIat",
+"ctx": "imagen de menú (2d_yk_liveb); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 72047,
+"en": "GO",
+"ctx": "imagen de menú (2d_yk_liveb); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 6
+},
+{
+"id": 72048,
+"en": "YOU WINYOU LOSEREADY..!",
+"ctx": "imagen de menú (2d_yk_liveb); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 37
+},
+{
+"id": 72049,
+"en": "Counting down",
+"ctx": "imagen de menú (2d_yk_liveb_bom); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 72050,
+"en": "EASYHARD",
+"ctx": "imagen de menú (2d_yk_liveb_bom); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 72051,
+"en": "Bonuspointsearmed!",
+"ctx": "imagen de menú (2d_yk_liveb_dheat); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 30
+},
+{
+"id": 72052,
+"en": "Opponent'shealthwentdow!",
+"ctx": "imagen de menú (2d_yk_liveb_dheat); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 38
+},
+{
+"id": 72053,
+"en": "Opponent'sheatwentdown!",
+"ctx": "imagen de menú (2d_yk_liveb_dheat); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 37
+},
+{
+"id": 72054,
+"en": "Healthrecovered!",
+"ctx": "imagen de menú (2d_yk_liveb_dheat); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 27
+},
+{
+"id": 72055,
+"en": "Spiritswentup!",
+"ctx": "imagen de menú (2d_yk_liveb_dheat); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 24
+},
+{
+"id": 72056,
+"en": "Opponent'sspiritswentdown!",
+"ctx": "imagen de menú (2d_yk_liveb_dheat); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 41
+},
+{
+"id": 72057,
+"en": "Healthandheatwentwaydown!",
+"ctx": "imagen de menú (2d_yk_liveb_dheat); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 40
+},
+{
+"id": 72058,
+"en": "You Smile",
+"ctx": "imagen de menú (2d_yk_egao00); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 17
+},
+{
+"id": 72059,
+"en": "Love to",
+"ctx": "imagen de menú (2d_yk_egao00); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 72060,
+"en": "See",
+"ctx": "imagen de menú (2d_yk_egao00); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 8
+},
+{
+"id": 72061,
+"en": "LALVRESULT",
+"ctx": "imagen de menú (2d_yk_h_info); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 72062,
+"en": "INFORMATION",
+"ctx": "imagen de menú (2d_yk_h_info); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 19
+},
+{
+"id": 72063,
+"en": "Princess League Finals Music First Round SecondRound Final Round",
+"ctx": "imagen de menú (2d_yk_h_info); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 72064,
+"en": "Finished",
+"ctx": "imagen de menú (2d_yk_h_quiz); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 72065,
+"en": "Correct!",
+"ctx": "imagen de menú (2d_yk_h_quiz); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 72066,
+"en": "Nurmber",
+"ctx": "imagen de menú (2d_yk_h_quiz); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 72067,
+"en": "Numberof",
+"ctx": "imagen de menú (2d_yk_h_quiz); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 72068,
+"en": "questions",
+"ctx": "imagen de menú (2d_yk_h_quiz); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 17
+},
+{
+"id": 72069,
+"en": "Number",
+"ctx": "imagen de menú (2d_yk_h_quiz); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 72070,
+"en": "correct",
+"ctx": "imagen de menú (2d_yk_h_quiz); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 72071,
+"en": "Sotenbori Love Check",
+"ctx": "imagen de menú (2d_yk_h_quiz_title); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 33
+},
+{
+"id": 72072,
+"en": "UP!",
+"ctx": "imagen de menú (2d_yk_h_result); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 8
+},
+{
+"id": 72073,
+"en": "Agency Level Fans",
+"ctx": "imagen de menú (2d_yk_h_result); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 72074,
+"en": "EnhancedLessons",
+"ctx": "imagen de menú (2d_yk_h_result); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 72075,
+"en": "Enhanced Media",
+"ctx": "imagen de menú (2d_yk_h_result); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 24
+},
+{
+"id": 72076,
+"en": "Enhanced Publicity",
+"ctx": "imagen de menú (2d_yk_h_result); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 30
+},
+{
+"id": 72077,
+"en": "DATA",
+"ctx": "imagen de menú (2d_yk_h_rule); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 72078,
+"en": "Dancer Input Genre Dance Health",
+"ctx": "imagen de menú (2d_yk_h_rule); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 72079,
+"en": "SKILL",
+"ctx": "imagen de menú (2d_yk_h_skill); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 72080,
+"en": "SETTINGSHEATNAME",
+"ctx": "imagen de menú (2d_yk_h_skill); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 27
+},
+{
+"id": 72081,
+"en": "XBack",
+"ctx": "imagen de menú (2d_yk_h_skill); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 72082,
+"en": "1HEATLIST",
+"ctx": "imagen de menú (2d_yk_h_skill); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 17
+},
+{
+"id": 72083,
+"en": "CLOSED",
+"ctx": "imagen de menú (2d_yk_h_skill); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 72084,
+"en": "DANCE HEAT SETTINGS",
+"ctx": "imagen de menú (2d_yk_h_skill); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 31
+},
+{
+"id": 72085,
+"en": "HEAT 2",
+"ctx": "imagen de menú (2d_yk_h_skill); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 72086,
+"en": "HEAT 3",
+"ctx": "imagen de menú (2d_yk_h_skill); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 72087,
+"en": "HEAT4 OK XOK",
+"ctx": "imagen de menú (2d_yk_h_skill); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 72088,
+"en": "OBack",
+"ctx": "imagen de menú (2d_yk_h_skill); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 72089,
+"en": "OSAKAEDITION",
+"ctx": "imagen de menú (2d_yk_h_tsuri); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 21
+},
+{
+"id": 72090,
+"en": "ORIAL",
+"ctx": "imagen de menú (2d_yk_h_tutorial); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 72091,
+"en": "IDOL HEAT",
+"ctx": "imagen de menú (2d_yk_h_tutorial); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 17
+},
+{
+"id": 72092,
+"en": "Performmance",
+"ctx": "imagen de menú (2d_yk_h_tutorial); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 21
+},
+{
+"id": 72093,
+"en": ".ESSON",
+"ctx": "imagen de menú (2d_yk_h_tutorial_c); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 72094,
+"en": "ESSON",
+"ctx": "imagen de menú (2d_yk_h_tutorial_l); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 72095,
+"en": "Snging",
+"ctx": "imagen de menú (2d_yk_h_tutorial_l00); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 72096,
+"en": "IIPS opeg",
+"ctx": "imagen de menú (2d_yk_h_tutorial_l00); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 17
+},
+{
+"id": 72097,
+"en": "Appes",
+"ctx": "imagen de menú (2d_yk_h_tutorial_l00); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 72098,
+"en": "Perfomance",
+"ctx": "imagen de menú (2d_yk_h_tutorial_l00); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 72099,
+"en": "rfommance",
+"ctx": "imagen de menú (2d_yk_h_tutorial_l00); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 17
+}
+]

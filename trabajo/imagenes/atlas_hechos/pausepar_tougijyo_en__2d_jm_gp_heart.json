@@ -1,0 +1,38 @@
+{
+ "textura": "pausepar_tougijyo_en/2d_jm_gp_heart",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    224,
+    37,
+    804,
+    126
+   ],
+   "en": "HEAT BOMBER",
+   "ocr": "HEAT BOMBER",
+   "es": "GRAN PREMIO",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 576
+  },
+  {
+   "caja": [
+    264,
+    118,
+    773,
+    219
+   ],
+   "en": "GRAND PRIX",
+   "ocr": "GRAND PRIX",
+   "es": "DE BOMBARDEO CON HEAT",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 505
+  }
+ ]
+}

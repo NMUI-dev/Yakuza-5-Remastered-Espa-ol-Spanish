@@ -1,0 +1,262 @@
+pausepar_pause_en__picture__rule_01_0 | «<Condiciones de victoria>» | ANCHO 321 px vs inglés 248
+pausepar_pause_en__picture__rule_01_0 | «Sé el primero en reducir tu puntuación a cero exacto.» | ANCHO 656 px vs inglés 577
+pausepar_pause_en__picture__rule_01_0 | «Reducir la puntuación a cero.» | ANCHO 358 px vs inglés 261
+pausepar_pause_en__picture__rule_countup_0 | «·» | ANCHO 443 px vs inglés 368
+pausepar_pause_en__picture__rule_countup_0 | «<Condiciones de victoria>» | ANCHO 299 px vs inglés 251
+pausepar_pause_en__picture__rule_countup_0 | «Consigue la puntuación total más alta.» | ANCHO 443 px vs inglés 368
+pausepar_pause_en__picture__rule_countup_0 | «Consigue la puntuación más alta.» | ANCHO 384 px vs inglés 290
+pausepar_pause_en__picture__rule_cricket_0 | «ESTÁNDAR» | ANCHO 169 px vs inglés 130
+pausepar_pause_en__picture__rule_darts_01_1 | «Sé el primero en reducir tu puntuación exactamente a cero.» | ANCHO 690 px vs inglés 577
+pausepar_pause_en__picture__rule_darts_01_2 | «Quedar por debajo de cero se conoce como "pasarse".» | ANCHO 689 px vs inglés 518
+pausepar_pause_en__picture__rule_darts_cricket_03 | ««Resumen del juego»» | ANCHO 337 px vs inglés 243
+pausepar_pause_en__picture__rule_darts_cricket_03 | «·» | CAJA tinta (np.int64(148), np.int64(401), np.int64(793), np.int64(463)) casilla [140, 404, 890, 471]
+pausepar_pause_en__picture__rule_darts_cricket_03 | «Los aciertos en un número cerrado dan puntos.» | CAJA tinta (np.int64(150), np.int64(401), np.int64(638), np.int64(434)) casilla [142, 407, 720, 440]
+pausepar_taxi_en__taxi__2d_jm_taxi_ayasiiotoko | «GENTE SOSPECHOSA» | BORDE (np.int64(0), np.int64(26), np.int64(437), np.int64(105))
+ui_en__surfboard__pjd_atm.par__texlist_0001__2d_yk_atm | «Confirmar» | ANCHO 140 px vs inglés 117
+ui_en__surfboard__pjd_foodgauge.par__texlist_0001__2d_jm_foodgauge | «Enfoque» | ANCHO 65 px vs inglés 49
+ui_en__surfboard__pjd_foodgauge.par__texlist_0001__2d_jm_foodgauge | «Espíritu» | ANCHO 64 px vs inglés 52
+ui_en__surfboard__pjd_foodgauge.par__texlist_0001__2d_jm_foodgauge | «Enfoque» | ANCHO 65 px vs inglés 49
+ui_en__surfboard__pjd_foodgauge.par__texlist_0001__2d_jm_foodgauge | «Espíritu» | ANCHO 64 px vs inglés 52
+ui_en__surfboard__pjd_kaisou.par__texlist_0001__2d_jm_kaisou | «PARTE 1» | ANCHO 94 px vs inglés 75
+ui_en__surfboard__pjd_kaisou.par__texlist_0001__2d_jm_kaisou | «PARTE 1» | ANCHO 111 px vs inglés 71
+ui_en__surfboard__pjd_kaisou.par__texlist_0001__2d_jm_kaisou | «PARTE 2» | ANCHO 97 px vs inglés 82
+ui_en__surfboard__pjd_kaisou.par__texlist_0001__2d_jm_kaisou | «PARTE 3» | ANCHO 97 px vs inglés 83
+ui_en__surfboard__pjd_kaisou.par__texlist_0001__2d_jm_kaisou | «PARTE 4» | ANCHO 101 px vs inglés 85
+ui_en__surfboard__pjd_kyaba.par__texlist__2d_jm_kyaba_action | «No hacer nada» | ANCHO 123 px vs inglés 105
+ui_en__surfboard__pjd_kyaba.par__texlist__2d_jm_kyaba_action | «No hacer nada» | ANCHO 131 px vs inglés 107
+ui_en__surfboard__pjd_kyukyokutougi.par__texlist_0001__2d_jm_kyukyokutougi | «NUEVO» | ANCHO 53 px vs inglés 34
+ui_en__surfboard__pjd_kyukyokutougi.par__texlist_0001__2d_jm_kyukyokutougi01 | «COMBATE CUERPO A CUERPO Completado» | ANCHO 446 px vs inglés 288
+ui_en__surfboard__pjd_kyukyokutougi.par__texlist_0001__2d_jm_kyukyokutougi01 | «CAMPO DE PRUEBAS Completado» | ANCHO 419 px vs inglés 341
+ui_en__surfboard__pjd_kyukyokutougi.par__texlist_0001__2d_jm_kyukyokutougi01 | «CARRERA DE VELOCIDAD Completada» | ANCHO 446 px vs inglés 295
+ui_en__surfboard__pjd_kyukyokutougi.par__texlist_0001__2d_jm_kyukyokutougi01 | «COMBATE DEFINITIVO Completado» | ANCHO 445 px vs inglés 335
+ui_en__surfboard__pjd_levelup.par__texlist_0001__2d_jm_levelup03 | «Efecto del kit de reparación mejorado» | ANCHO 345 px vs inglés 277
+ui_en__surfboard__pjd_levelup.par__texlist_0001__2d_jm_levelup03 | «Efecto del kit de reparación mejorado» | ANCHO 345 px vs inglés 277
+ui_en__surfboard__pjd_mg_airhockey.par__texlist__2d_ky_airhockey_00 | «Enfoque» | CAJA tinta (np.int64(401), np.int64(199), np.int64(489), np.int64(240)) casilla [405, 203, 503, 238]
+ui_en__surfboard__pjd_mg_airhockey.par__texlist__2d_yk_airhockey_rule | «Principiante» | ANCHO 83 px vs inglés 61
+ui_en__surfboard__pjd_mg_airhockey.par__texlist__2d_yk_airhockey_rule | «Confirmar» | ANCHO 72 px vs inglés 55
+ui_en__surfboard__pjd_mg_baccarat.par__texlist__2d_yk_mg_bc_result | «D E  B A C A R Á» | ANCHO 170 px vs inglés 141
+ui_en__surfboard__pjd_mg_batting.par__texlist__2d_yk_mg_batting000 | «NUEVO RÉCORD» | CAJA tinta (np.int64(249), np.int64(153), np.int64(375), np.int64(177)) casilla [238, 157, 400, 178]
+ui_en__surfboard__pjd_mg_batting_n.par__texlist__2d_yk_mg_batting_n | «restantes» | ANCHO 68 px vs inglés 39
+ui_en__surfboard__pjd_mg_batting_n.par__texlist__2d_yk_mg_batting_n | «Bola rápida» | ANCHO 76 px vs inglés 58
+ui_en__surfboard__pjd_mg_batting_n.par__texlist__2d_yk_mg_batting_n | «Bola hundida» | ANCHO 89 px vs inglés 48
+ui_en__surfboard__pjd_mg_batting_n.par__texlist__2d_yk_mg_batting_n | «Bola horquilla» | ANCHO 94 px vs inglés 59
+ui_en__surfboard__pjd_mg_billiards01.par__texlist__2d_jm_mg_billiards_06 | «REGLAS» | ANCHO 99 px vs inglés 77
+ui_en__surfboard__pjd_mg_billiards01.par__texlist__2d_jm_mg_billiards_06 | «Elige una partida» | ANCHO 204 px vs inglés 170
+ui_en__surfboard__pjd_mg_billiards02.par__texlist__2d_jm_mg_billiards_06 | «REGLAS» | ANCHO 99 px vs inglés 77
+ui_en__surfboard__pjd_mg_billiards02.par__texlist__2d_jm_mg_billiards_06 | «Elige una partida» | ANCHO 204 px vs inglés 170
+ui_en__surfboard__pjd_mg_blackjack.par__texlist__2d_yk_mg_blackjack_01 | «PIERDES» | CAJA tinta (np.int64(14), np.int64(280), np.int64(146), np.int64(315)) casilla [12, 278, 142, 318]
+ui_en__surfboard__pjd_mg_chin02.par__texlist__2d_yk_mg_chin02 | «Punto de 1» | ANCHO 228 px vs inglés 187
+ui_en__surfboard__pjd_mg_darts_anm.par__texlist__2d_yk_mg_darts_sentaku | «REGLAS» | ANCHO 70 px vs inglés 58
+ui_en__surfboard__pjd_mg_darts_anm.par__texlist__2d_yk_mg_darts_sentaku | «Dardos» | ANCHO 63 px vs inglés 43
+ui_en__surfboard__pjd_mg_darts_customize.par__texlist_0001__2d_yk_darts_custom | «Potencia» | ANCHO 79 px vs inglés 58
+ui_en__surfboard__pjd_mg_darts_menu.par__texlist__2d_yk_mg_darts_sentaku | «REGLAS» | ANCHO 70 px vs inglés 58
+ui_en__surfboard__pjd_mg_darts_menu.par__texlist__2d_yk_mg_darts_sentaku | «Dardos» | ANCHO 63 px vs inglés 43
+ui_en__surfboard__pjd_mg_fishing.par__texlist__2d_yk_mg_fishing | «¡PICA!» | ANCHO 171 px vs inglés 144
+ui_en__surfboard__pjd_mg_fishing.par__texlist__2d_yk_mg_fishing | «¡FELICIDADES!» | CAJA tinta (np.int64(11), np.int64(184), np.int64(555), np.int64(234)) casilla [16, 185, 688, 232]
+ui_en__surfboard__pjd_mg_golf.par__texlist__2d_yk_golf | «FALLÓ» | CAJA tinta (np.int64(183), np.int64(48), np.int64(239), np.int64(73)) casilla [180, 54, 306, 74]
+ui_en__surfboard__pjd_mg_golf.par__texlist__2d_yk_golf | «Campo profesional» | ANCHO 183 px vs inglés 106
+ui_en__surfboard__pjd_mg_hanafuda01.par__texlist__2d_jm_mg_hanafuda01 | «Novato» | ANCHO 58 px vs inglés 40
+ui_en__surfboard__pjd_mg_hanafuda01.par__texlist__2d_jm_mg_hanafuda01 | «Avanzado» | ANCHO 77 px vs inglés 55
+ui_en__surfboard__pjd_mg_hanafuda01.par__texlist__2d_jm_mg_hanafuda01 | «Experto» | ANCHO 56 px vs inglés 38
+ui_en__surfboard__pjd_mg_hanafuda01.par__texlist__2d_jm_mg_hanafuda01 | «Usar» | ANCHO 39 px vs inglés 26
+ui_en__surfboard__pjd_mg_hanafuda02.par__texlist__2d_jm_mg_hana02 | «Variedad» | ANCHO 216 px vs inglés 180
+ui_en__surfboard__pjd_mg_hanafuda02.par__texlist__2d_jm_mg_hana02 | «Basura» | ANCHO 185 px vs inglés 112
+ui_en__surfboard__pjd_mg_hanafuda02.par__texlist__2d_jm_mg_hana02 | «Cuatro luces con lluvia» | ANCHO 508 px vs inglés 429
+ui_en__surfboard__pjd_mg_hanafuda02.par__texlist__2d_jm_mg_hana02 | «Contemplación de los cerezos» | ANCHO 635 px vs inglés 562
+ui_en__surfboard__pjd_mg_hanafuda02.par__texlist__2d_jm_mg_hana02 | «Jabalí, ciervo, mariposa» | ANCHO 610 px vs inglés 479
+ui_en__surfboard__pjd_mg_hanafuda02.par__texlist__2d_jm_mg_hana02 | «Cuatro parejas» | ANCHO 358 px vs inglés 254
+ui_en__surfboard__pjd_mg_hanafuda02.par__texlist__2d_jm_mg_hana02 | «Estación» | ANCHO 215 px vs inglés 162
+ui_en__surfboard__pjd_mg_kabu01.par__texlist__2d_jm_mg_kabu03 | «Sí» | ANCHO 29 px vs inglés 19
+ui_en__surfboard__pjd_mg_kabu01.par__texlist__2d_jm_mg_kabu03 | «Confirmar» | ANCHO 77 px vs inglés 63
+ui_en__surfboard__pjd_mg_kabu01.par__texlist__2d_yk_mg_result_asc | «Derrota» | ANCHO 223 px vs inglés 194
+ui_en__surfboard__pjd_mg_kabu02.par__texlist__2d_yk_mg_kabu02 | «Cuatro» | ANCHO 215 px vs inglés 145
+ui_en__surfboard__pjd_mg_kabu02.par__texlist__2d_yk_mg_kabu02 | «Cinco» | ANCHO 170 px vs inglés 131
+ui_en__surfboard__pjd_mg_kabu02.par__texlist__2d_yk_mg_kabu02 | «Cuatro-Uno» | ANCHO 367 px vs inglés 307
+ui_en__surfboard__pjd_mg_kabu02.par__texlist__2d_yk_mg_kabu02 | «Tormenta» | ANCHO 296 px vs inglés 187
+ui_en__surfboard__pjd_mg_kabu02.par__texlist__2d_yk_mg_kabu02 | «Nueve» | ANCHO 185 px vs inglés 152
+ui_en__surfboard__pjd_mg_kabu02.par__texlist__2d_yk_mg_kabu02 | «Cuatro-Seis» | ANCHO 348 px vs inglés 272
+ui_en__surfboard__pjd_mg_karaoke.par__texlist__2d_jm_mg_karaoke | «FALLO» | ANCHO 102 px vs inglés 85
+ui_en__surfboard__pjd_mg_karaoke_window.par__texlist__2d_jm_mg_karaoke01 | «Repetir» | CAJA tinta (np.int64(537), np.int64(246), np.int64(634), np.int64(284)) casilla [532, 250, 636, 288]
+ui_en__surfboard__pjd_mg_karaoke_window.par__texlist__2d_jm_mg_karaoke01 | «Cantar» | ANCHO 85 px vs inglés 63
+ui_en__surfboard__pjd_mg_karaoke_window.par__texlist__2d_jm_mg_karaoke01 | «¡Ganaste 1000 puntos!» | BORDE (np.int64(524), np.int64(976), np.int64(969), np.int64(1024))
+ui_en__surfboard__pjd_mg_karaoke_window.par__texlist__2d_jm_mg_karaoke02 | «Atrás» | ANCHO 65 px vs inglés 50
+ui_en__surfboard__pjd_mg_kochin.par__texlist__2d_yk_kochin_00 | «Tierra» | ANCHO 48 px vs inglés 33
+ui_en__surfboard__pjd_mg_kochin.par__texlist__2d_yk_kochin_00 | «Habilidades» | ANCHO 87 px vs inglés 55
+ui_en__surfboard__pjd_mg_kochin.par__texlist__2d_yk_kochin_race | «Copa Viento» | ANCHO 403 px vs inglés 307
+ui_en__surfboard__pjd_mg_kochin.par__texlist__2d_yk_kochin_race | «Copa Kamikaze» | BORDE (np.int64(0), np.int64(153), np.int64(512), np.int64(228))
+ui_en__surfboard__pjd_mg_kochin.par__texlist__2d_yk_kochin_race | «Copa Kamikaze» | ANCHO 512 px vs inglés 453
+ui_en__surfboard__pjd_mg_kochin.par__texlist__2d_yk_kochin_race | «Copa Plata» | ANCHO 378 px vs inglés 332
+ui_en__surfboard__pjd_mg_kochin.par__texlist__2d_yk_kochin_race | «Copa Genbu» | ANCHO 413 px vs inglés 359
+ui_en__surfboard__pjd_mg_kochin.par__texlist__2d_yk_kochin_race | «Copa Byakko» | ANCHO 446 px vs inglés 382
+ui_en__surfboard__pjd_mg_kochin.par__texlist__2d_yk_kochin_race | «Copa Negra» | ANCHO 405 px vs inglés 326
+ui_en__surfboard__pjd_mg_kochin.par__texlist__2d_yk_kochin_race | «Copa Azuchi» | ANCHO 424 px vs inglés 372
+ui_en__surfboard__pjd_mg_kochin.par__texlist__2d_yk_kochin_race | «Copa Shigure» | ANCHO 453 px vs inglés 399
+ui_en__surfboard__pjd_mg_kochin.par__texlist__2d_yk_kochin_race | «Copa Novato» | ANCHO 443 px vs inglés 369
+ui_en__surfboard__pjd_mg_kochin.par__texlist__2d_yk_kochin_race | «Copa Dragón» | ANCHO 447 px vs inglés 339
+ui_en__surfboard__pjd_mg_kochin.par__texlist__2d_yk_kochin_race | «Copa Ascenso» | ANCHO 461 px vs inglés 349
+ui_en__surfboard__pjd_mg_kochin.par__texlist__2d_yk_kochin_race | «Copa Suzaku» | ANCHO 439 px vs inglés 384
+ui_en__surfboard__pjd_mg_kochin.par__texlist__2d_yk_kochin_race | «Copa Seiryu» | ANCHO 411 px vs inglés 355
+ui_en__surfboard__pjd_mg_kochin.par__texlist__2d_yk_kochin_race | «Copa Tormenta» | ANCHO 451 px vs inglés 342
+ui_en__surfboard__pjd_mg_kochin.par__texlist__2d_yk_kochin_race | «Copa Skanda» | ANCHO 445 px vs inglés 388
+ui_en__surfboard__pjd_mg_kochin.par__texlist__2d_yk_kochin_race | «Copa Amanecer» | ANCHO 455 px vs inglés 328
+ui_en__surfboard__pjd_mg_kochin.par__texlist__2d_yk_kochin_race | «Copa Adamante» | BORDE (np.int64(515), np.int64(684), np.int64(1024), np.int64(758))
+ui_en__surfboard__pjd_mg_kochin.par__texlist__2d_yk_kochin_race | «Copa Adamante» | ANCHO 509 px vs inglés 436
+ui_en__surfboard__pjd_mg_kochin_param.par__texlist__2d_yk_kochin_p | «Resistencia» | ANCHO 70 px vs inglés 52
+ui_en__surfboard__pjd_mg_kochin_param.par__texlist__2d_yk_kochin_p | «Tierra» | ANCHO 36 px vs inglés 23
+ui_en__surfboard__pjd_mg_kochin_param.par__texlist__2d_yk_kochin_p | «Oscuro» | ANCHO 44 px vs inglés 30
+ui_en__surfboard__pjd_mg_kochin_param.par__texlist__2d_yk_kochin_p | «Habilidades» | ANCHO 74 px vs inglés 32
+ui_en__surfboard__pjd_mg_kochin_param.par__texlist__2d_yk_kochin_p | «Carreras máx.» | ANCHO 87 px vs inglés 68
+ui_en__surfboard__pjd_mg_kochin_param.par__texlist__2d_yk_kochin_p | «Tierra» | ANCHO 36 px vs inglés 23
+ui_en__surfboard__pjd_mg_kochin_param.par__texlist__2d_yk_kochin_p | «Oscuro» | ANCHO 44 px vs inglés 31
+ui_en__surfboard__pjd_mg_kochin_param.par__texlist__2d_yk_kochin_p | «Habilidades» | ANCHO 74 px vs inglés 32
+ui_en__surfboard__pjd_mg_mahjong01.par__texlist__2d_yk_mg_mahjong03 | «Ranking de Ryukyu» | ANCHO 244 px vs inglés 186
+ui_en__surfboard__pjd_mg_mahjong01.par__texlist__2d_yk_mg_mahjong03 | «Rango» | ANCHO 41 px vs inglés 26
+ui_en__surfboard__pjd_mg_mahjong02.par__texlist__2d_yk_mg_mahjong02 | «Empate» | ANCHO 329 px vs inglés 228
+ui_en__surfboard__pjd_mg_poker.par__texlist__2d_yk_mg_poker_soul | «CIEGA PEQUEÑA» | CAJA tinta (np.int64(278), np.int64(8), np.int64(499), np.int64(40)) casilla [277, 10, 500, 36]
+ui_en__surfboard__pjd_mg_poker.par__texlist__2d_yk_mg_poker_soul | «CIEGA GRANDE» | CAJA tinta (np.int64(279), np.int64(36), np.int64(500), np.int64(70)) casilla [275, 40, 500, 69]
+ui_en__surfboard__pjd_mg_poker.par__texlist__2d_yk_mg_poker_soul | «CIEGA GRANDE» | ANCHO 221 px vs inglés 147
+ui_en__surfboard__pjd_mg_poker.par__texlist__2d_yk_mg_poker_soul | «PASAR» | CAJA tinta (np.int64(351), np.int64(69), np.int64(486), np.int64(103)) casilla [352, 74, 480, 106]
+ui_en__surfboard__pjd_mg_poker02.par__texlist__2d_mn_mg_p_yaku512 | «Doble par» | CAJA tinta (np.int64(284), np.int64(9), np.int64(502), np.int64(66)) casilla [284, 10, 512, 60]
+ui_en__surfboard__pjd_mg_poker02.par__texlist__2d_mn_mg_p_yaku512 | «Carta alta» | CAJA tinta (np.int64(7), np.int64(66), np.int64(262), np.int64(134)) casilla [2, 66, 264, 128]
+ui_en__surfboard__pjd_mg_poker02.par__texlist__2d_mn_mg_p_yaku512 | «Escalera» | CAJA tinta (np.int64(296), np.int64(65), np.int64(508), np.int64(134)) casilla [290, 66, 512, 128]
+ui_en__surfboard__pjd_mg_poker02.par__texlist__2d_mn_mg_p_yaku512 | «Escalera de color» | CAJA tinta (np.int64(2), np.int64(133), np.int64(370), np.int64(202)) casilla [2, 134, 370, 198]
+ui_en__surfboard__pjd_mg_poker02.par__texlist__2d_mn_mg_p_yaku512 | «Trío» | CAJA tinta (np.int64(9), np.int64(201), np.int64(117), np.int64(270)) casilla [2, 202, 392, 264]
+ui_en__surfboard__pjd_mg_poker02.par__texlist__2d_mn_mg_p_yaku512 | «Escalera real» | ANCHO 390 px vs inglés 286
+ui_en__surfboard__pjd_mg_ramen.par__texlist__2d_yk_ramen00 | «Normal» | ANCHO 49 px vs inglés 33
+ui_en__surfboard__pjd_mg_ramen.par__texlist__2d_yk_ramen00 | «Blando» | ANCHO 51 px vs inglés 31
+ui_en__surfboard__pjd_mg_ramen.par__texlist__2d_yk_ramen00 | «Muy blando» | ANCHO 44 px vs inglés 26
+ui_en__surfboard__pjd_mg_ramen.par__texlist__2d_yk_ramen00 | «Blando» | ANCHO 43 px vs inglés 24
+ui_en__surfboard__pjd_mg_ramen.par__texlist__2d_yk_ramen00 | «Normal» | ANCHO 39 px vs inglés 25
+ui_en__surfboard__pjd_mg_ramen.par__texlist__2d_yk_ramen00 | «Muy duro» | ANCHO 43 px vs inglés 29
+ui_en__surfboard__pjd_mg_ramen.par__texlist__2d_yk_ramen01 | «¡Ya!» | BORDE (np.int64(30), np.int64(0), np.int64(326), np.int64(123))
+ui_en__surfboard__pjd_mg_roulette.par__texlist__2d_yk_mg_roulette01 | «¡GANA!» | CAJA tinta (np.int64(915), np.int64(158), np.int64(1019), np.int64(196)) casilla [918, 158, 1015, 192]
+ui_en__surfboard__pjd_mg_roulette.par__texlist__2d_yk_mg_roulette01 | «¡GANA!» | ANCHO 104 px vs inglés 86
+ui_en__surfboard__pjd_mg_roulette.par__texlist__2d_yk_mg_roulette02 | «Supervivencia» | ANCHO 437 px vs inglés 247
+ui_en__surfboard__pjd_mg_roulette.par__texlist__2d_yk_mg_roulette02 | «Modo crupier» | ANCHO 416 px vs inglés 346
+ui_en__surfboard__pjd_mg_shougi02.par__texlist__2d_jm_shogi02 | «Partida por rango» | ANCHO 636 px vs inglés 487
+ui_en__surfboard__pjd_mg_shougi02.par__texlist__2d_mn_mg_shougi_ji | «ABANDONAR» | ANCHO 448 px vs inglés 313
+ui_en__surfboard__pjd_mg_taiko_game.par__texlist_0001__taiko_game_09 | «COMBO» | CAJA tinta (np.int64(105), np.int64(259), np.int64(340), np.int64(314)) casilla [56, 262, 334, 314]
+ui_en__surfboard__pjd_mg_taiko_game.par__texlist_0001__taiko_game_09 | «COMBO» | ANCHO 235 px vs inglés 194
+ui_en__surfboard__pjd_mg_taiko_game.par__texlist_0001__taiko_game_09 | «¡TOTAL!» | CAJA tinta (np.int64(106), np.int64(302), np.int64(364), np.int64(390)) casilla [56, 308, 404, 392]
+ui_en__surfboard__pjd_mg_taiko_game.par__texlist_0001__taiko_game_32 | «Canción 2» | CAJA tinta (np.int64(719), np.int64(538), np.int64(913), np.int64(577)) casilla [722, 541, 935, 583]
+ui_en__surfboard__pjd_mg_taiko_result.par__texlist_0001__taiko_result_01 | «¡Superado!» | CAJA tinta (np.int64(333), np.int64(59), np.int64(554), np.int64(124)) casilla [332, 62, 548, 124]
+ui_en__surfboard__pjd_mg_taiko_result.par__texlist_0001__taiko_result_01 | «¡Lo lograste!» | CAJA tinta (np.int64(322), np.int64(121), np.int64(562), np.int64(187)) casilla [322, 122, 562, 184]
+ui_en__surfboard__pjd_mg_taiko_result.par__texlist_0001__taiko_result_01 | «¡Superado!» | CAJA tinta (np.int64(332), np.int64(297), np.int64(548), np.int64(358)) casilla [332, 300, 548, 356]
+ui_en__surfboard__pjd_mg_taiko_result.par__texlist_0001__taiko_result_01 | «Combo MÁX.» | CAJA tinta (np.int64(471), np.int64(825), np.int64(622), np.int64(868)) casilla [472, 829, 622, 869]
+ui_en__surfboard__pjd_mg_taiko_select.par__texlist_0001__taiko_music_select_01 | «Elige una canción» | ANCHO 415 px vs inglés 345
+ui_en__surfboard__pjd_mg_taiko_select.par__texlist_0001__taiko_music_select_01 | «Elige dificultad» | CAJA tinta (np.int64(556), np.int64(683), np.int64(908), np.int64(743)) casilla [559, 683, 1006, 746]
+ui_en__surfboard__pjd_mg_taiko_select.par__texlist_0001__taiko_music_select_03 | «Fácil» | CAJA tinta (np.int64(844), np.int64(799), np.int64(986), np.int64(867)) casilla [820, 803, 1012, 861]
+ui_en__surfboard__pjd_mg_taiko_select.par__texlist_0001__taiko_music_select_03 | «Difícil» | ANCHO 184 px vs inglés 132
+ui_en__surfboard__pjd_mg_tsukkomi.par__pjd_mg_tsukkomi__2d_jm_mg_tsukkomi | «Momento perfecto» | ANCHO 251 px vs inglés 179
+ui_en__surfboard__pjd_mg_tsukkomi.par__pjd_mg_tsukkomi__2d_jm_mg_tsukkomi | «Muy bien dicho» | ANCHO 246 px vs inglés 170
+ui_en__surfboard__pjd_mg_tsukkomi.par__pjd_mg_tsukkomi__2d_jm_mg_tsukkomi | «Buen momento» | ANCHO 239 px vs inglés 186
+ui_en__surfboard__pjd_mg_tsukkomi.par__pjd_mg_tsukkomi__2d_jm_mg_tsukkomi | «Bien dicho» | ANCHO 169 px vs inglés 143
+ui_en__surfboard__pjd_mg_tsukkomi.par__pjd_mg_tsukkomi__2d_jm_mg_tsukkomi02 | «RESULTADOS» | ANCHO 147 px vs inglés 94
+ui_en__surfboard__pjd_mg_ufo.par__texlist__2d_jm_mg_ufo | «Jugar» | ANCHO 55 px vs inglés 43
+ui_en__surfboard__pjd_onedari_info.par__texlist_0001__2d_yk_onedari_info | «Petición hecha...» | BORDE (np.int64(0), np.int64(118), np.int64(130), np.int64(137))
+ui_en__surfboard__pjd_princess_musictitle.par__texlist_0001__princess_musictitle_01 | «Música de ZENTA» | ANCHO 225 px vs inglés 180
+ui_en__surfboard__pjd_princess_musictitle.par__texlist_0001__princess_musictitle_03 | «Música de ZENTA» | ANCHO 225 px vs inglés 180
+ui_en__surfboard__pjd_princess_tutorial.par__texlist_0001__princess_tutorial_01 | «REGLAS» | ANCHO 177 px vs inglés 149
+ui_en__surfboard__pjd_princess_tutorial.par__texlist_0001__princess_tutorial_01 | «PREMIO» | ANCHO 188 px vs inglés 162
+ui_en__surfboard__pjd_sstory_h_choice.par__texlist_0001__2d_yk_h_choice | «Publicidad» | ANCHO 105 px vs inglés 85
+ui_en__surfboard__pjd_sstory_h_db.par__texlist_0001__2d_yk_liveb | «FALLO» | CAJA tinta (np.int64(3), np.int64(296), np.int64(55), np.int64(319)) casilla [6, 296, 58, 322]
+ui_en__surfboard__pjd_sstory_h_db.par__texlist_0001__2d_yk_liveb | «¡ÉXITO!» | CAJA tinta (np.int64(651), np.int64(294), np.int64(753), np.int64(320)) casilla [650, 295, 748, 318]
+ui_en__surfboard__pjd_sstory_h_db.par__texlist_0001__2d_yk_liveb | «¡YA!» | CAJA tinta (np.int64(880), np.int64(419), np.int64(1017), np.int64(472)) casilla [886, 418, 1022, 472]
+ui_en__surfboard__pjd_sstory_h_db.par__texlist_0001__2d_yk_liveb_dheat | «¡Bajó la salud del rival!» | CAJA tinta (np.int64(33), np.int64(28), np.int64(279), np.int64(60)) casilla [0, 30, 314, 56]
+ui_en__surfboard__pjd_sstory_h_db.par__texlist_0001__2d_yk_liveb_dheat | «¡Bajó el heat del rival!» | CAJA tinta (np.int64(37), np.int64(57), np.int64(274), np.int64(88)) casilla [0, 60, 314, 85]
+ui_en__surfboard__pjd_sstory_h_db.par__texlist_0001__2d_yk_liveb_dheat | «¡Salud recuperada!» | CAJA tinta (np.int64(38), np.int64(85), np.int64(273), np.int64(117)) casilla [0, 88, 314, 114]
+ui_en__surfboard__pjd_sstory_h_db.par__texlist_0001__2d_yk_liveb_dheat | «¡Salud recuperada!» | ANCHO 235 px vs inglés 174
+ui_en__surfboard__pjd_sstory_h_db.par__texlist_0001__2d_yk_liveb_dheat | «¡Subió el ánimo!» | CAJA tinta (np.int64(44), np.int64(114), np.int64(277), np.int64(146)) casilla [0, 117, 314, 143]
+ui_en__surfboard__pjd_sstory_h_db.par__texlist_0001__2d_yk_liveb_dheat | «¡Subió el ánimo!» | ANCHO 233 px vs inglés 152
+ui_en__surfboard__pjd_sstory_h_db.par__texlist_0001__2d_yk_liveb_dheat | «¡Bajó el ánimo del rival!» | CAJA tinta (np.int64(32), np.int64(143), np.int64(278), np.int64(175)) casilla [0, 146, 314, 172]
+ui_en__surfboard__pjd_sstory_h_db.par__texlist_0001__2d_yk_liveb_dheat | «¡Salud y heat por los suelos!» | CAJA tinta (np.int64(3), np.int64(174), np.int64(307), np.int64(206)) casilla [0, 175, 314, 201]
+ui_en__surfboard__pjd_sstory_h_info.par__texlist_0001__2d_yk_h_info | «Nivel de agencia» | ANCHO 189 px vs inglés 128
+ui_en__surfboard__pjd_sstory_h_info.par__texlist_0001__2d_yk_h_info | «Habilidad de idol» | ANCHO 200 px vs inglés 104
+ui_en__surfboard__pjd_sstory_h_info.par__texlist_0001__2d_yk_h_info | «Música» | ANCHO 70 px vs inglés 47
+ui_en__surfboard__pjd_sstory_h_info.par__texlist_0001__2d_yk_h_info | «Primera ronda» | ANCHO 153 px vs inglés 102
+ui_en__surfboard__pjd_sstory_h_info.par__texlist_0001__2d_yk_h_info | «Segunda ronda» | ANCHO 153 px vs inglés 118
+ui_en__surfboard__pjd_sstory_h_info.par__texlist_0001__2d_yk_h_info | «Ronda final» | ANCHO 128 px vs inglés 99
+ui_en__surfboard__pjd_sstory_h_quiz.par__texlist__2d_yk_h_quiz | «¡Correcto!» | CAJA tinta (np.int64(101), np.int64(635), np.int64(413), np.int64(705)) casilla [20, 638, 500, 702]
+ui_en__surfboard__pjd_sstory_h_quiz.par__texlist__2d_yk_h_quiz | «Qué pena...» | CAJA tinta (np.int64(84), np.int64(709), np.int64(427), np.int64(791)) casilla [10, 712, 510, 788]
+ui_en__surfboard__pjd_sstory_h_result.par__texlist_0001__2d_yk_h_result | «Nivel de agencia» | ANCHO 189 px vs inglés 128
+ui_en__surfboard__pjd_sstory_h_result.par__texlist_0001__2d_yk_h_result | «Habilidad de idol» | ANCHO 200 px vs inglés 104
+ui_en__surfboard__pjd_sstory_h_result.par__texlist_0001__2d_yk_h_result | «Lecciones extra» | ANCHO 176 px vs inglés 126
+ui_en__surfboard__pjd_sstory_h_result.par__texlist_0001__2d_yk_h_result | «Medios extra» | ANCHO 142 px vs inglés 108
+ui_en__surfboard__pjd_sstory_h_rule.par__texlist_0001__2d_yk_h_rule | «Rango de bailarina» | ANCHO 170 px vs inglés 119
+ui_en__surfboard__pjd_sstory_h_rule.par__texlist_0001__2d_yk_h_rule | «Género» | ANCHO 65 px vs inglés 50
+ui_en__surfboard__pjd_sstory_h_tutorial_l.par__texlist_0001__2d_yk_h_tutorial_l | «Potencia» | CAJA tinta (np.int64(23), np.int64(394), np.int64(87), np.int64(418)) casilla [18, 396, 84, 416]
+ui_en__surfboard__pjd_sstory_h_tutorial_l.par__texlist_0001__2d_yk_h_tutorial_l | «Baja» | CAJA tinta (np.int64(31), np.int64(412), np.int64(87), np.int64(457)) casilla [18, 418, 84, 456]
+ui_en__surfboard__pjd_sstory_liveb01.par__texlist__2d_yk_live_h | «CLÍMAX» | CAJA tinta (np.int64(45), np.int64(125), np.int64(80), np.int64(144)) casilla [48, 126, 112, 140]
+ui_en__surfboard__pjd_sstory_liveb01.par__texlist__2d_yk_live_h | «FÁCIL» | CAJA tinta (np.int64(45), np.int64(138), np.int64(94), np.int64(162)) casilla [44, 144, 104, 164]
+ui_en__surfboard__pjd_sstory_taxi_hact.par__pjd_sstory_taxi_texlist__2d_jm_taxi_higi00 | «MOVIMIENTO SECRETO: MANEJO INTRÉPIDO» | CAJA tinta (np.int64(210), np.int64(136), np.int64(813), np.int64(202)) casilla [150, 138, 875, 196]
+ui_en__surfboard__pjd_sstory_taxi_mission.par__pjd_sstory_taxi_mission_texlist__2d_jm_taxi_menu | «Lista de misiones» | ANCHO 123 px vs inglés 93
+ui_en__surfboard__pjd_sstory_taxi_mission.par__pjd_sstory_taxi_mission_texlist__2d_jm_taxi_menu | «Elige un modo» | BORDE (np.int64(2), np.int64(113), np.int64(107), np.int64(128))
+ui_en__surfboard__pjd_sstory_taxi_mission.par__pjd_sstory_taxi_mission_texlist__2d_jm_taxi_mission | «Info de misión» | ANCHO 92 px vs inglés 65
+ui_en__surfboard__pjd_sstory_taxi_mission.par__pjd_sstory_taxi_mission_texlist__2d_jm_taxi_mission | «Lista de misiones» | ANCHO 93 px vs inglés 65
+ui_en__surfboard__pjd_sstory_taxi_mission.par__pjd_sstory_taxi_mission_texlist__2d_jm_taxi_mission | «Elige un modo» | ANCHO 91 px vs inglés 69
+ui_en__surfboard__pjd_sstory_taxi_mission.par__pjd_sstory_taxi_mission_texlist__2d_jm_taxi_mission | «Velocidad» | ANCHO 66 px vs inglés 36
+ui_en__surfboard__pjd_sstory_taxi_mission.par__pjd_sstory_taxi_mission_texlist__2d_jm_taxi_mission | «Nivel de conductor» | ANCHO 130 px vs inglés 108
+ui_en__surfboard__pjd_sstory_taxi_result.par__texlist_0001__2d_jm_taxi_result02 | «Recompensa base» | ANCHO 153 px vs inglés 129
+ui_en__surfboard__pjd_sstory_taxi_result.par__texlist_0001__2d_jm_taxi_result02 | «Nivel de conductor» | ANCHO 159 px vs inglés 119
+ui_en__surfboard__pjd_sstory_yuki.par__pjd_sstory_yuki__2d_jm_yuki_bullet | «Recarga» | ANCHO 68 px vs inglés 57
+ui_en__surfboard__pjd_sstory_yuki_result.par__texlist_0001__2d_jm_yuki_result | «Recogidos» | ANCHO 116 px vs inglés 89
+ui_en__surfboard__pjd_sstory_yuki_result.par__texlist_0001__2d_jm_yuki_result | «RESULTADOS» | ANCHO 167 px vs inglés 144
+ui_en__surfboard__pjd_tenkei_macsiv.par__texlist__2d_yk_macsiv | «Rango» | ANCHO 54 px vs inglés 32
+ui_en__surfboard__pjd_tenkei_macsiv.par__texlist__2d_yk_macsiv | «Populares» | CAJA tinta (np.int64(8), np.int64(153), np.int64(76), np.int64(175)) casilla [4, 158, 142, 178]
+ui_en__surfboard__pjd_tougi.par__texlist__2d_jm_tougi_menu | «Furia Limitada» | ANCHO 131 px vs inglés 103
+ui_en__surfboard__pjd_tougi.par__texlist__2d_jm_tougi_menu | «Rey de Reyes» | ANCHO 116 px vs inglés 88
+ui_en__surfboard__pjd_tougi.par__texlist__2d_jm_tougi_menu | «Duelo Mortal 100» | ANCHO 153 px vs inglés 106
+ui_en__surfboard__pjd_tougi.par__texlist__2d_jm_tougi_menu | «Salir» | ANCHO 36 px vs inglés 24
+ui_en__surfboard__pjd_tougi.par__texlist__2d_jm_tougi_menu | «SIG. Fama» | ANCHO 95 px vs inglés 80
+ui_en__surfboard__pjd_tougi.par__texlist__2d_jm_tougi_menu | «NUEVO» | ANCHO 53 px vs inglés 37
+ui_en__surfboard__pjd_tougi.par__texlist__2d_yk_tougi_01 | «Resultados» | ANCHO 89 px vs inglés 68
+ui_en__surfboard__pjd_tougi_btl.par__pjd_tougi_btl__2d_jm_tougi_btl | «Equipo» | ANCHO 56 px vs inglés 36
+ui_en__surfboard__pjd_tougi_btl.par__pjd_tougi_btl__2d_jm_tougi_btl | «Libre» | ANCHO 44 px vs inglés 32
+ui_en__surfboard__pjd_tougi_enemy_data.par__texlist__2d_jm_tougi_menu | «Furia Limitada» | ANCHO 131 px vs inglés 103
+ui_en__surfboard__pjd_tougi_enemy_data.par__texlist__2d_jm_tougi_menu | «Rey de Reyes» | ANCHO 116 px vs inglés 88
+ui_en__surfboard__pjd_tougi_enemy_data.par__texlist__2d_jm_tougi_menu | «Duelo Mortal 100» | ANCHO 153 px vs inglés 106
+ui_en__surfboard__pjd_tougi_enemy_data.par__texlist__2d_jm_tougi_menu | «Salir» | ANCHO 36 px vs inglés 24
+ui_en__surfboard__pjd_tougi_enemy_data.par__texlist__2d_jm_tougi_menu | «SIG. Fama» | ANCHO 95 px vs inglés 80
+ui_en__surfboard__pjd_tougi_enemy_data.par__texlist__2d_jm_tougi_menu | «NUEVO» | ANCHO 53 px vs inglés 37
+ui_en__surfboard__pjd_tougi_enemy_data.par__texlist__2d_yk_tougi_01 | «Resultados» | ANCHO 89 px vs inglés 68
+ui_en__surfboard__pjd_tougi_enemy_data02.par__texlist__2d_jm_tougi_menu | «Furia Limitada» | ANCHO 131 px vs inglés 103
+ui_en__surfboard__pjd_tougi_enemy_data02.par__texlist__2d_jm_tougi_menu | «Rey de Reyes» | ANCHO 116 px vs inglés 88
+ui_en__surfboard__pjd_tougi_enemy_data02.par__texlist__2d_jm_tougi_menu | «Duelo Mortal 100» | ANCHO 153 px vs inglés 106
+ui_en__surfboard__pjd_tougi_enemy_data02.par__texlist__2d_jm_tougi_menu | «Salir» | ANCHO 36 px vs inglés 24
+ui_en__surfboard__pjd_tougi_enemy_data02.par__texlist__2d_jm_tougi_menu | «SIG. Fama» | ANCHO 95 px vs inglés 80
+ui_en__surfboard__pjd_tougi_enemy_data02.par__texlist__2d_jm_tougi_menu | «NUEVO» | ANCHO 53 px vs inglés 37
+ui_en__surfboard__pjd_tougi_enemy_data02.par__texlist__2d_yk_tougi_01 | «Resultados» | ANCHO 89 px vs inglés 68
+ui_en__surfboard__pjd_tougi_gp_start.par__texlist__2d_jm_gp_break | «GRAN PREMIO» | ANCHO 486 px vs inglés 425
+ui_en__surfboard__pjd_tougi_gp_start02.par__texlist__2d_jm_gp_break | «GRAN PREMIO» | ANCHO 490 px vs inglés 425
+ui_en__surfboard__pjd_tougi_mode_select.par__texlist__2d_jm_tougi_menu | «Furia Limitada» | ANCHO 131 px vs inglés 103
+ui_en__surfboard__pjd_tougi_mode_select.par__texlist__2d_jm_tougi_menu | «Rey de Reyes» | ANCHO 116 px vs inglés 88
+ui_en__surfboard__pjd_tougi_mode_select.par__texlist__2d_jm_tougi_menu | «Duelo Mortal 100» | ANCHO 153 px vs inglés 106
+ui_en__surfboard__pjd_tougi_mode_select.par__texlist__2d_jm_tougi_menu | «Salir» | ANCHO 36 px vs inglés 24
+ui_en__surfboard__pjd_tougi_mode_select.par__texlist__2d_jm_tougi_menu | «SIG. Fama» | ANCHO 95 px vs inglés 80
+ui_en__surfboard__pjd_tougi_mode_select.par__texlist__2d_jm_tougi_menu | «NUEVO» | ANCHO 53 px vs inglés 37
+ui_en__surfboard__pjd_tougi_mode_select02.par__texlist__2d_jm_tougi_menu | «Furia Limitada» | ANCHO 131 px vs inglés 103
+ui_en__surfboard__pjd_tougi_mode_select02.par__texlist__2d_jm_tougi_menu | «Rey de Reyes» | ANCHO 116 px vs inglés 88
+ui_en__surfboard__pjd_tougi_mode_select02.par__texlist__2d_jm_tougi_menu | «Duelo Mortal 100» | ANCHO 153 px vs inglés 106
+ui_en__surfboard__pjd_tougi_mode_select02.par__texlist__2d_jm_tougi_menu | «Salir» | ANCHO 36 px vs inglés 24
+ui_en__surfboard__pjd_tougi_mode_select02.par__texlist__2d_jm_tougi_menu | «SIG. Fama» | ANCHO 95 px vs inglés 80
+ui_en__surfboard__pjd_tougi_mode_select02.par__texlist__2d_jm_tougi_menu | «NUEVO» | ANCHO 53 px vs inglés 37
+ui_en__surfboard__pjd_tougi_partner.par__texlist__2d_jm_tougi_menu | «Furia Limitada» | ANCHO 131 px vs inglés 103
+ui_en__surfboard__pjd_tougi_partner.par__texlist__2d_jm_tougi_menu | «Rey de Reyes» | ANCHO 116 px vs inglés 88
+ui_en__surfboard__pjd_tougi_partner.par__texlist__2d_jm_tougi_menu | «Duelo Mortal 100» | ANCHO 153 px vs inglés 106
+ui_en__surfboard__pjd_tougi_partner.par__texlist__2d_jm_tougi_menu | «Salir» | ANCHO 36 px vs inglés 24
+ui_en__surfboard__pjd_tougi_partner.par__texlist__2d_jm_tougi_menu | «SIG. Fama» | ANCHO 95 px vs inglés 80
+ui_en__surfboard__pjd_tougi_partner.par__texlist__2d_jm_tougi_menu | «NUEVO» | ANCHO 53 px vs inglés 37
+ui_en__surfboard__pjd_tougi_player_data.par__texlist__2d_jm_tougi_menu | «Furia Limitada» | ANCHO 131 px vs inglés 103
+ui_en__surfboard__pjd_tougi_player_data.par__texlist__2d_jm_tougi_menu | «Rey de Reyes» | ANCHO 116 px vs inglés 88
+ui_en__surfboard__pjd_tougi_player_data.par__texlist__2d_jm_tougi_menu | «Duelo Mortal 100» | ANCHO 153 px vs inglés 106
+ui_en__surfboard__pjd_tougi_player_data.par__texlist__2d_jm_tougi_menu | «Salir» | ANCHO 36 px vs inglés 24
+ui_en__surfboard__pjd_tougi_player_data.par__texlist__2d_jm_tougi_menu | «SIG. Fama» | ANCHO 95 px vs inglés 80
+ui_en__surfboard__pjd_tougi_player_data.par__texlist__2d_jm_tougi_menu | «NUEVO» | ANCHO 53 px vs inglés 37
+ui_en__surfboard__pjd_tougi_player_data.par__texlist__2d_yk_tougi_01 | «Resultados» | ANCHO 89 px vs inglés 68
+ui_en__surfboard__pjd_tougi_ranking.par__texlist__2d_jm_tougi_menu | «Furia Limitada» | ANCHO 131 px vs inglés 103
+ui_en__surfboard__pjd_tougi_ranking.par__texlist__2d_jm_tougi_menu | «Rey de Reyes» | ANCHO 116 px vs inglés 88
+ui_en__surfboard__pjd_tougi_ranking.par__texlist__2d_jm_tougi_menu | «Duelo Mortal 100» | ANCHO 153 px vs inglés 106
+ui_en__surfboard__pjd_tougi_ranking.par__texlist__2d_jm_tougi_menu | «Salir» | ANCHO 36 px vs inglés 24
+ui_en__surfboard__pjd_tougi_ranking.par__texlist__2d_jm_tougi_menu | «SIG. Fama» | ANCHO 95 px vs inglés 80
+ui_en__surfboard__pjd_tougi_ranking.par__texlist__2d_jm_tougi_menu | «NUEVO» | ANCHO 53 px vs inglés 37
+ui_en__surfboard__pjd_tougi_ranking.par__texlist__2d_yk_tougi_01 | «Resultados» | ANCHO 89 px vs inglés 68

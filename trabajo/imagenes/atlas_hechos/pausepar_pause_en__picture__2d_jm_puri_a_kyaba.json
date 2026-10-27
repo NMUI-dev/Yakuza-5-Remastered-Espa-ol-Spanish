@@ -1,0 +1,38 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_a_kyaba",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    89,
+    4,
+    441,
+    53
+   ],
+   "en": "Shun <3 Honoka",
+   "ocr": "ShunMManaka",
+   "es": "Shun <3 Honoka",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 348
+  },
+  {
+   "caja": [
+    11,
+    180,
+    499,
+    251
+   ],
+   "en": "you'll get arrested",
+   "ocr": "Youulgetarrestedt",
+   "es": "¡Te van a arrestar!",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 484
+  }
+ ]
+}

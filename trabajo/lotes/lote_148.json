@@ -1,0 +1,982 @@
+[
+{
+"id": 33155,
+"en": "Sorry for the wait! <Color:255,200,200,255>⑮<Color:Default> I shoulda figured ya were a pool-playing sorta guy, Akiyama-san!",
+"ctx": "diálogo uid0069021f + diálogo uid00690220"
+},
+{
+"id": 33156,
+"en": "Apologies for keeping you waiting. You play pool as well, Shinada-san? Oh, how delightful!",
+"ctx": "diálogo uid0069021f"
+},
+{
+"id": 33157,
+"en": "Heheh. Let's get started!",
+"ctx": "diálogo uid0069021f"
+},
+{
+"id": 33158,
+"en": "(I'll call up Hinata.)",
+"ctx": "diálogo uid0069021f + diálogo uid00690220 …"
+},
+{
+"id": 33159,
+"en": "Sorry for the wait! <Color:255,200,200,255>⑮<Color:Default> You play pool, Kiryu-san? I'm sort of impressed.",
+"ctx": "diálogo uid0069021f + diálogo uid00690220 …"
+},
+{
+"id": 33160,
+"en": "Shall we get started?",
+"ctx": "diálogo uid0069021f + diálogo uid00690220 …"
+},
+{
+"id": 33161,
+"en": "(I should call up Hinata-chan.)",
+"ctx": "diálogo uid0069021f + diálogo uid00690220 …"
+},
+{
+"id": 33162,
+"en": "Temp) Sorry for the wait!",
+"ctx": "diálogo uid0069021f"
+},
+{
+"id": 33163,
+"en": "No problem. Want to get started?",
+"ctx": "diálogo uid0069021f + diálogo uid00690302"
+},
+{
+"id": 33164,
+"en": "Would you care to play pool together?",
+"ctx": "diálogo uid00690220"
+},
+{
+"id": 33165,
+"en": "(Shion-chan wants to play pool.)",
+"ctx": "diálogo uid00690220"
+},
+{
+"id": 33166,
+"en": "Sure, let's play!",
+"ctx": "diálogo uid00690220"
+},
+{
+"id": 33167,
+"en": "All right! Let's begin!",
+"ctx": "diálogo uid00690220"
+},
+{
+"id": 33168,
+"en": "Sorry, I'd rather play alone.",
+"ctx": "diálogo uid00690220"
+},
+{
+"id": 33169,
+"en": "Well, I never! Why did you even ask me out?",
+"ctx": "diálogo uid00690220"
+},
+{
+"id": 33170,
+"en": "Sorry. I don't think I can afford it.",
+"ctx": "diálogo uid00690220"
+},
+{
+"id": 33171,
+"en": "Goodness, Shinada-san. If you don't have money, you shouldn't overdo it.",
+"ctx": "diálogo uid00690220"
+},
+{
+"id": 33172,
+"en": "Sorry, I don't really feel like it.",
+"ctx": "diálogo uid00690220"
+},
+{
+"id": 33173,
+"en": "Oh no. But this was a great opportunity.",
+"ctx": "diálogo uid00690220"
+},
+{
+"id": 33174,
+"en": "That was so much fun! Please do call me again! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid00690220"
+},
+{
+"id": 33175,
+"en": "That was so much fun! Well, I must be on my way back to Tokyo now. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid00690220"
+},
+{
+"id": 33176,
+"en": "Uncle Kaz! <Color:8>Play a game of eight-ball<Color:Default> with me!",
+"ctx": "diálogo uid00690220"
+},
+{
+"id": 33177,
+"en": "(Haruka wants to <Color:8>play a round of eight-ball<Color:Default> against me.)",
+"ctx": "diálogo uid00690220"
+},
+{
+"id": 33178,
+"en": "Oh, okay. Maybe we can <Color:8>play eight-ball<Color:Default> some other time.",
+"ctx": "diálogo uid00690220"
+},
+{
+"id": 33179,
+"en": "A single game will be 800 yen.",
+"ctx": "diálogo uid00690220 + diálogo uid00690302"
+},
+{
+"id": 33180,
+"en": "Uncle Kaz, let's play for real!",
+"ctx": "diálogo uid00690220"
+},
+{
+"id": 33181,
+"en": "(That's right, Coach Igarashi told me to go and win an intermediate nine-ball match, didn't he?)",
+"ctx": "diálogo uid00690220"
+},
+{
+"id": 33182,
+"en": "(Okay, let's get to Coach's training.)",
+"ctx": "diálogo uid00690220"
+},
+{
+"id": 33183,
+"en": "I'd like an intermediate nine-ball match.",
+"ctx": "diálogo uid00690220"
+},
+{
+"id": 33184,
+"en": "Of course, sir.",
+"ctx": "diálogo uid00690220"
+},
+{
+"id": 33185,
+"en": "Sorry t'keep ya waitin'! Go easy on me, okay?",
+"ctx": "diálogo uid00690220"
+},
+{
+"id": 33186,
+"en": "Sorry to keep you waiting! I didn't know you knew about this place, Saejima-san!",
+"ctx": "diálogo uid00690220"
+},
+{
+"id": 33187,
+"en": "Heh. Well, wanna get started?",
+"ctx": "diálogo uid00690220 + diálogo uid00690302"
+},
+{
+"id": 33188,
+"en": "Heh. Well, want to get started?",
+"ctx": "diálogo uid00690220 + diálogo uid010c0c20 …"
+},
+{
+"id": 33189,
+"en": "Sorry to keep you waiting. You play pool as well, Shinada-san? Oh, how delightful!",
+"ctx": "diálogo uid00690220 + diálogo uid00690302"
+},
+{
+"id": 33190,
+"en": "Hehe. Wanna get started?",
+"ctx": "diálogo uid00690220 + diálogo uid00690302"
+},
+{
+"id": 33191,
+"en": "I was all the way out in Tokyo, you know! Or had you forgotten about that?",
+"ctx": "diálogo uid00690220"
+},
+{
+"id": 33192,
+"en": "Oh, uh... No, of course not! I thought it would be fun, that's all! Sorry about that!",
+"ctx": "diálogo uid00690220 + diálogo uid01330746"
+},
+{
+"id": 33193,
+"en": "It's all right. Want to get started?",
+"ctx": "diálogo uid00690220"
+},
+{
+"id": 33194,
+"en": "Ooh, ooh! Let's take some <Color:8>PrintCircle<Color:Default> photos together,  Uncle Kaz!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33195,
+"en": "Hey, Uncle Kaz! I bet I could beat you in <Color:8>air hockey<Color:Default>! C'mon, let's do it!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33196,
+"en": "Hey, Uncle Kaz, let's play some <Color:8>oicho-kabu<Color:Default>!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33197,
+"en": "Play some <Color:8>cee-lo<Color:Default> with me, Uncle Kaz! Just one game!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33198,
+"en": "Ooh, let's play some <Color:8>koi-koi<Color:Default>, Uncle Kaz!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33199,
+"en": "Oh, Uncle Kaz! Look at all the cute prizes in that <Color:8>UFO Catcher<Color:Default>! Can we  play, please?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33200,
+"en": "Can I watch you play some <Color:8>blackjack<Color:Default>, Uncle Kaz?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33201,
+"en": "Hey, Uncle Kaz, can we play some <Color:8>poker<Color:Default>? Maybe we'll win big!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33202,
+"en": "Hey, they have <Color:8>roulette<Color:Default>! We should play a round, Uncle Kaz!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33203,
+"en": "I want to see a <Color:8>ghost koi<Color:Default>, Uncle Kaz! Do you think you could catch one?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33204,
+"en": "Have you ever seen an <Color:8>oarfish<Color:Default>, Uncle Kaz? They look so creepy! Can you catch one for me? I want to see one close up.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33205,
+"en": "I bet you could get all the answers right on the <Color:8>academic course<Color:Default>, Uncle Kaz! C'mon, show me!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33206,
+"en": "Can you help me get <Color:8>at least 900 points in karaoke<Color:Default>, Uncle Kaz?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33207,
+"en": "Hey, they have <Color:8>darts<Color:Default>! Can I watch you play, Uncle Kaz?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33208,
+"en": "Uncle Kaz! I'm really craving a <Color:8>Grilled Chicken Bowl<Color:Default>... Can we go get some?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33209,
+"en": "Wow, <Color:8>Sea Urchin Cream Sauce Spaghetti<Color:Default>!  Can we share some, Uncle Kaz?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33210,
+"en": "That smells so good... Now I feel like eating some <Color:8>Stone-roasted Bibimbap<Color:Default>.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33211,
+"en": "I'm getting hungry, Uncle Kaz. I'm kinda craving a <Color:8>Braised Pork Burger Set<Color:Default>.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33212,
+"en": "I'm hungry, Uncle Kaz. Can I get a <Color:8>Strawberry Parfait<Color:Default>? I've been good, right?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33213,
+"en": "My stomach's grumbling, Uncle Kaz. Can we swing by somewhere and grab a <Color:8>Tuna Onigiri<Color:Default>? That would fill me up!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33214,
+"en": "Look, Uncle Kaz! That's the TV tower!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33215,
+"en": "It sure is big...",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33216,
+"en": "Yeah, no kidding.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33217,
+"en": "I heard there's a restaurant at the top.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33218,
+"en": "I bet it'd be really cool to look out over the city while you're having dinner.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33219,
+"en": "You want to go inside?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33220,
+"en": "I just want to walk with you some more. I've been eating a little too much lately, so I probably need the exercise.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33221,
+"en": "(Heh. I guess Haruka's still a kid at heart.)",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33222,
+"en": "Hey! I saw that look on your face! You're thinking, \"Wow, she's still such a kid,\" huh!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33223,
+"en": "Oh, uh, no, never...",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33224,
+"en": "Hahaha. C'mon, Uncle Kaz, let's go.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33225,
+"en": "Look, Uncle Kaz!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33226,
+"en": "Yeah. That's one of the symbols of this city.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33227,
+"en": "Want to ride it?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33228,
+"en": "Huh... You mean like, with you?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33229,
+"en": "What? I don't fit the part?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33230,
+"en": "That's not it. It's just...",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33231,
+"en": "I kind of want to do it with my boyfriend instead...",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33232,
+"en": "I mean, if I had a boyfriend! Geez, what's with your reaction? You're acting like I just died or something!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33233,
+"en": "...Oh. Okay, then.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33234,
+"en": "Hehe. You're pretty cute when you get flustered like that, Uncle Kaz.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33235,
+"en": "Let's take some <Color:8>PrintCircle<Color:Default> photos together, Uncle Kaz!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33236,
+"en": "Ooh, they have <Color:8>Taiko No Tatsujin<Color:Default>! I wanna see you play, Uncle Kaz!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33237,
+"en": "Let's go do some <Color:8>karaoke<Color:Default>, Uncle Kaz!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33238,
+"en": "Let's play some <Color:8>pool<Color:Default>, Uncle Kaz!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33239,
+"en": "That <Color:8>Miso Stewed Udon with Choice Kurobuta<Color:Default> sure looks tasty... Let's share some!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33240,
+"en": "That smells so good... Now I feel like eating some <Color:8>Premium Tebasaki Chicken Wings<Color:Default>.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33241,
+"en": "All this walking is making me tired, Uncle Kaz. Can I get a <Color:8>Tauriner<Color:Default>?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33242,
+"en": "I'm feeling a little peckish... Can I get a <Color:8>Grilled Onigiri with Miso<Color:Default>,  Uncle Kaz?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33243,
+"en": "Hey, can I watch you play the <Color:8>shooting game<Color:Default>, Uncle Kaz? I bet you'd be super good at it!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33244,
+"en": "How have you been lately?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33245,
+"en": "Not having any problems with work, or life, anything like that?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33246,
+"en": "Hehe, worried about me, Uncle Kaz?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33247,
+"en": "Of course I am.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33248,
+"en": "My dance lessons are pretty rough.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33249,
+"en": "Plus I've got tons of rivals.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33250,
+"en": "Everyone is desperate to get a shot at their dreams.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33251,
+"en": "...Yeah, that sounds rough all right.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33252,
+"en": "Did you have rivals, Uncle Kaz?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33253,
+"en": "Hmm... I've met all sorts of people over the years.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33254,
+"en": "Some are quick to anger, others compassionate or sentimental. And then there are those who live by their own moral code.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33255,
+"en": "Everyone has their quirks, but I think having all those people in my life made me who I am.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33256,
+"en": "That's... a nice answer.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33257,
+"en": "Want to get going?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33258,
+"en": "Hey, let's play some <Color:8>golf<Color:Default>, Uncle Kaz!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33259,
+"en": "I'm hungry, Uncle Kaz! I'm really craving some <Color:8>Fatty Tuna Sushi<Color:Default>. Can we go get some?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33260,
+"en": "That smells amazing. Now I'm hungry... Maybe we could go get some <Color:8>Garlic Chicken<Color:Default>?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33261,
+"en": "Something smells really good... and now I'm in the mood for a <Color:8>Dojima Set<Color:Default>. Can we go get one?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33262,
+"en": "That smells so good... Now I need to eat some <Color:8>Potato, Mochi, & Cheese Okonomiyaki<Color:Default>. Can we go get some? My stomach's really grumbling...",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33263,
+"en": "Whoa, something smells really good... like <Color:8>Crab Nabe \"Maihime\" Course<Color:Default>. We have to go get some. Right now. C'mon!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33264,
+"en": "Look! It's a whale!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33265,
+"en": "It's so big... and magnificent!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33266,
+"en": "Yeah, it is.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33267,
+"en": "Hehe. there's a little dolphin behind it, too.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33268,
+"en": "I know they're not the same species, but they kinda look like a dad and his kid.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33269,
+"en": "Guess you could say we're pretty similar.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33270,
+"en": "We aren't blood relatives, but here we are together.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33271,
+"en": "Despite that, we're still a family.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33272,
+"en": "Family, huh?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33273,
+"en": "Say, do you get lonely by yourself sometimes?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33274,
+"en": "Heh... That came out of the blue.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33275,
+"en": "C'mon, just answer me!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33276,
+"en": "Until just a little while ago, I never felt lonely. I didn't have time to feel lonely.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33277,
+"en": "But now I sometimes wish I could go back to living with you and the others at Morning Glory.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33278,
+"en": "Now that I have somewhere to go back to, I do feel lonely by myself sometimes.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33279,
+"en": "Do you miss not being able to see me?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33280,
+"en": "Well, we were together for a long while.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33281,
+"en": "Hehe, that's true.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33282,
+"en": "Let's do some <Color:8>bowling<Color:Default>, Uncle Kaz!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33283,
+"en": "Hey, Uncle Kaz, let's play some <Color:8>pool<Color:Default>!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33284,
+"en": "That smells amazing. Now I'm hungry... Maybe we could go get some <Color:8>Shrimp in Chili Sauce<Color:Default>?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33285,
+"en": "They say the lamb in Hokkaido is amazing! We've gotta get us some <Color:8>Grade-A Lamb Barbeque<Color:Default>.  Please?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33286,
+"en": "Let's go in here, Uncle Kaz! I want to get some <Color:8>Uni<Color:Default>.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33287,
+"en": "Let's go in here, Uncle Kaz! I'm really craving some <Color:8>Gyoza Curry<Color:Default>.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33288,
+"en": "All this walking made me thirsty, Uncle Kaz. I bet some <Color:8>Sparkling Cola<Color:Default> would hit the spot!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33289,
+"en": "I'm really in the mood for Seicomart's original <Color:8>Handmade Seaweed Onigiri<Color:Default>.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33290,
+"en": "What is it, Haruka?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33291,
+"en": "Do you like the look of that food stand?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33292,
+"en": "If you need a snack, we could go grab something.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33293,
+"en": "Geez, I'm not hungry, okay?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33294,
+"en": "Okay. Sorry.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33295,
+"en": "I know I'm a pop idol now, and you're a taxi driver, so it could never happen, but...",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33296,
+"en": "It would be kind of fun to have a little shop together, just like that one.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33297,
+"en": "Haruka...",
+"ctx": "diálogo uid00690224 + diálogo uid01020b5a …"
+},
+{
+"id": 33298,
+"en": "Hehehe. What kind of business would we run, though?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33299,
+"en": "Well, I think a restaurant would be perfect, given how much you eat.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33300,
+"en": "Hey, I don't eat <Italic>that</Italic> much!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33301,
+"en": "Heh, I was just kidding.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33302,
+"en": "You're such a meanie, Uncle Kaz.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33303,
+"en": "Well, I think it'd be fun to run a pub stocked with the best liquor.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33304,
+"en": "A pub?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33305,
+"en": "Sure. I could be the manager, and you could be the Mama.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33306,
+"en": "Me? The Mama of a pub? Wait...",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33307,
+"en": "It's so beautiful.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33308,
+"en": "I bet it'd be even prettier at night.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33309,
+"en": "Hehe... I wonder what people would think of us if they saw us standing here.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33310,
+"en": "(Haruka...)",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33311,
+"en": "We probably look like lovers.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33312,
+"en": "Really? That's kind of awkward, haha.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33313,
+"en": "I wonder if I'll come to a place like this with a boyfriend one day.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33314,
+"en": "We probably look like father and daughter.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33315,
+"en": "Hehe... I bet we seem really close!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33316,
+"en": "I'll have to introduce you to my boyfriend.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33317,
+"en": "What!? Boyfriend!?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33318,
+"en": "Hahaha! I'm just joking, Uncle Kaz! You're so cute when you get flustered like that.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33319,
+"en": "Almost gave me a heart attack...",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33320,
+"en": "Say, if I did go out with a boy...",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33321,
+"en": "Huh? Did you say something?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33322,
+"en": "No, nothing! Let's get going!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33323,
+"en": "Oh, hey! Let's take some <Color:8>PrintCircle<Color:Default> photos together, Uncle Kaz!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33324,
+"en": "Ooh, look, they have <Color:8>Virtua Fighter 2<Color:Default>! I wanna watch you play, Uncle Kaz!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33325,
+"en": "Hey, Uncle Kaz, can I watch you play some <Color:8>darts<Color:Default>?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33326,
+"en": "Uncle Kaz! I'm hungry for a snack... and I really want <Color:8>Aji Mentaiko 240 g (Regular)<Color:Default>! Can we, please?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33327,
+"en": "Let's go in here and take a look, Uncle Kaz.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33328,
+"en": "I heard this place is great. I'd love to try their <Color:8>Miso Motsunabe<Color:Default>. Can we?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33329,
+"en": "I'm in the mood for some <Color:8>Hanamidori Mizutaki<Color:Default>. Can we go get some, Uncle Kaz?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33330,
+"en": "All this walking made me hungry. Let's grab a <Color:8>Bean Paste Bun<Color:Default>!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33331,
+"en": "Let's go to Club SEGA and take some <Color:8>PrintCircle<Color:Default> photos, Uncle Kaz!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33332,
+"en": "What's up, Uncle Kaz?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33333,
+"en": "It's nothing.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33334,
+"en": "Oh, okay then!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33335,
+"en": "Sorry, there's someplace I have to go alone.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33336,
+"en": "Aww, okay... I'll head back to New Serena, then.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33337,
+"en": "Let's go to the hot spring to play <Color:8>air hockey<Color:Default>, Uncle Kaz!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33338,
+"en": "Hey, Uncle Kaz, let's go to the Dragon Palace and play <Color:8>oicho-kabu<Color:Default>!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33339,
+"en": "I want to watch you play <Color:8>cee-lo<Color:Default> at the Dragon Palace! C'mon, let's go!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33340,
+"en": "I want to watch you play <Color:8>koi-koi<Color:Default> at the Dragon Palace, Uncle Kaz!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33341,
+"en": "Hey, Uncle Kaz, I've been good, right? Could you win me a <Color:8>Jumbo Bun-chan<Color:Default> at Club SEGA?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33342,
+"en": "Want to go play <Color:8>blackjack<Color:Default> at Fukuma Casino in Purgatory, Uncle Kaz?  bet we could win big!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33343,
+"en": "Hey, Uncle Kaz, let's go to Fukuma Casino in Purgatory and play some <Color:8>poker<Color:Default>!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33344,
+"en": "Let's try our luck at <Color:8>roulette<Color:Default> at Fukuma Casino in Purgatory, Uncle Kaz!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33345,
+"en": "I hear you can catch <Color:8>ghost koi<Color:Default> in Purgatory! Let's go see if that's true!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33346,
+"en": "They say you can catch <Color:8>oarfish<Color:Default> at the wharf, Uncle Kaz! I wonder what they look like?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33347,
+"en": "Let's go do some <Color:8>batting<Color:Default> at the Yoshida Batting Center, Uncle Kaz!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33348,
+"en": "Hey, Uncle Kaz, let's go to <Color:8>Karaokekan<Color:Default>! I bet I could get a high score today, especially if you're cheering me on!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33349,
+"en": "Did you know they have <Color:8>darts<Color:Default> at Bantam, Uncle Kaz? Let's go see what their setup is like!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33350,
+"en": "I'm feeling a little hungry, Uncle Kaz. Let's go get something to eat at <Color:8>Matsuya<Color:Default>.",
+"ctx": "diálogo uid00690224"
+}
+]

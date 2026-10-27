@@ -1,0 +1,992 @@
+[
+{
+"id": 61672,
+"en": "Whew! I'm glad I at least got one.",
+"ctx": "diálogo uid016904d3"
+},
+{
+"id": 61673,
+"en": "Well, folks. Haruka-chan worked hard and managed to get a prize, which we will now be giving away to one lucky viewer. Now's your chance!",
+"ctx": "diálogo uid016904d3"
+},
+{
+"id": 61674,
+"en": "Oh, too bad! You didn't get a single prize!",
+"ctx": "diálogo uid016904d3"
+},
+{
+"id": 61675,
+"en": "I'm so sorry, everyone who's watching!",
+"ctx": "diálogo uid016904d3"
+},
+{
+"id": 61676,
+"en": "Hey, but you know what, folks? Now you get the chance to win a signed, personal article from our guest instead!",
+"ctx": "diálogo uid016904d3"
+},
+{
+"id": 61677,
+"en": "Have you thought about what you'll be giving away to our viewers today, Haruka-chan?",
+"ctx": "diálogo uid016904d3"
+},
+{
+"id": 61678,
+"en": "I have! I'm going to give away an autographed T-shirt, one that I wore during one of my lessons.",
+"ctx": "diálogo uid016904d3"
+},
+{
+"id": 61679,
+"en": "An autographed T-shirt, folks! That's something any fan would love!",
+"ctx": "diálogo uid016904d3"
+},
+{
+"id": 61680,
+"en": "(Did I get any gifts from fans?)",
+"ctx": "diálogo uid016904e7"
+},
+{
+"id": 61681,
+"en": "You got <Color:8>Tauriner<Color:Default>.",
+"ctx": "diálogo uid016904e7"
+},
+{
+"id": 61682,
+"en": "(Oh! What a nice gift! I'm so happy!)",
+"ctx": "diálogo uid016904e7"
+},
+{
+"id": 61683,
+"en": "You got <Color:8>Fan Letter<Color:Default>.",
+"ctx": "diálogo uid016904e7"
+},
+{
+"id": 61684,
+"en": "(Oh, wow! A fan letter!)",
+"ctx": "diálogo uid016904e7"
+},
+{
+"id": 61685,
+"en": "(I never thought I'd see the day when I'd actually be getting fan mail!)",
+"ctx": "diálogo uid016904e7"
+},
+{
+"id": 61686,
+"en": "(I wonder what everyone back at Morning Glory would say?)",
+"ctx": "diálogo uid016904e7"
+},
+{
+"id": 61687,
+"en": "You got a <Color:8>Toughness Z<Color:Default>.",
+"ctx": "diálogo uid016904e7"
+},
+{
+"id": 61688,
+"en": "You got <Color:8>Gold Ring<Color:Default>.",
+"ctx": "diálogo uid016904e7"
+},
+{
+"id": 61689,
+"en": "(I can't believe it! A ring!? I don't know if I should accept something this valuable... But it would be rude to send it back.)",
+"ctx": "diálogo uid016904e7"
+},
+{
+"id": 61690,
+"en": "(I'll just think of it as a heartfelt expression of a fan's devotion.)",
+"ctx": "diálogo uid016904e7"
+},
+{
+"id": 61691,
+"en": "(But what a huge surprise! I'll cherish this ring forever.)",
+"ctx": "diálogo uid016904e7"
+},
+{
+"id": 61692,
+"en": "You got <Color:8>Handmade Bracelet<Color:Default>.",
+"ctx": "diálogo uid016904e7"
+},
+{
+"id": 61693,
+"en": "(What's this? A handmade bracelet? What beautiful craftsmanship!)",
+"ctx": "diálogo uid016904e7"
+},
+{
+"id": 61694,
+"en": "(This person used their own precious time to make this, just for me. How sweet!)",
+"ctx": "diálogo uid016904e7"
+},
+{
+"id": 61695,
+"en": "You got <Color:8>Messages from Fans<Color:Default>.",
+"ctx": "diálogo uid016904e7"
+},
+{
+"id": 61696,
+"en": "(Wow! Look at this! Messages from my fans!)",
+"ctx": "diálogo uid016904e7"
+},
+{
+"id": 61697,
+"en": "(Oh! This person always comes to cheer me on. How nice!)",
+"ctx": "diálogo uid016904e7"
+},
+{
+"id": 61698,
+"en": "(Thank you, everyone. Your kind words help me work all the harder!)",
+"ctx": "diálogo uid016904e7"
+},
+{
+"id": 61699,
+"en": "(I guess there aren't any right now.)",
+"ctx": "diálogo uid016904e7"
+},
+{
+"id": 61700,
+"en": "Ah, I lost! Haruka, I think you've gotten even better than before!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61701,
+"en": "You think so? Thanks!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61702,
+"en": "Yep! I'd better start working harder if I want to catch up to you!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61703,
+"en": "Well, I'll see you around! Let's do this again, okay?",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61704,
+"en": "Okay. See you, Akari!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61705,
+"en": "Received a <Color:8>8,000 yen<Color:Default> tip from the audience.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61706,
+"en": "Hey, that was a pretty great battle! Now I need my fee. It's 500 yen.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61707,
+"en": "You paid <Color:8>500 yen<Color:Default>.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61708,
+"en": "Whenever you want to feel the thrill of another exciting dance battle, just come see me!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61709,
+"en": "Hey, aren't you paying attention in those lessons of yours? You aren't dancing as well as you usually do.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61710,
+"en": "Trust me. I can tell. I mean, we're friends, right? You definitely gotta put some more oomph into it.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61711,
+"en": "Yeah, I'll try to do that next time.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61712,
+"en": "Well, I'll be seeing you! Let's do this again, okay?",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61713,
+"en": "I lost again!? Ugh, I can't believe it!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61714,
+"en": "Geez, how'd you get so good in such a short time, anyway? You're positively frightening, you know.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61715,
+"en": "Anyways. I hope you ask me again sometime. You gotta give me a chance to get revenge!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61716,
+"en": "Hehe. Okay, I definitely will!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61717,
+"en": "Heheh. See what I did there? If I give it my all, the odds'll always be in my favor.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61718,
+"en": "*pant* *pant* You did great, Maki-san.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61719,
+"en": "Yep. If you're ever looking to get revenge, I'll be more than happy to come back.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61720,
+"en": "I'll do that. Thank you.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61721,
+"en": "*pant* *pant* You did it, Sawamura-san. It looks like I still can't beat you, even when I try my best.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61722,
+"en": "Aww, don't say that. Your performance was great!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61723,
+"en": "You don't have to try and make me feel better. I'm glad, actually. Now I have something to work toward.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61724,
+"en": "Well, I'll see you later, Sawamura-san. You'll invite me back, right?",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61725,
+"en": "Of course! I'll be seeing you!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61726,
+"en": "What happened, Sawamura-san? Is that really the best you can do?",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61727,
+"en": "You were much better the last time we battled.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61728,
+"en": "I... I was?",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61729,
+"en": "Hmph. I just think you're not showing me everything you've got. I hope we can do this again, because I want to see how much you've really learned!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61730,
+"en": "Yes, we'll definitely do this again.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61731,
+"en": "Heh, you're pretty good.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61732,
+"en": "*pant* *pant* Thank you!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61733,
+"en": "Invite me back sometime, okay? But I'm warning you. Next time I won't lose!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61734,
+"en": "Hehe, you can count on it!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61735,
+"en": "What's the matter, Haruka Sawamura? Not feeling your best?",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61736,
+"en": "Hm. I guess things can't always go in your favor.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61737,
+"en": "I hope you'll let me try again sometime.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61738,
+"en": "Thank you, Judy-san!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61739,
+"en": "Wait a minute! Did I really just lose!?",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61740,
+"en": "*pant* I did it!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61741,
+"en": "Well, well, well. You really did it, Haruka-san. I guess I need to start working harder! Heheh.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61742,
+"en": "I'm looking forward to our next battle!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61743,
+"en": "Yes, I did it! I won!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61744,
+"en": "Haruka-san! What are you doing, losing to a guy like me?",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61745,
+"en": "Momiyama-san, please let me try again! Next time I won't lose!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61746,
+"en": "Heheh. Sure! I'll be waiting for your invite.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61747,
+"en": "Great! Thank you!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61748,
+"en": "No, I lost!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61749,
+"en": "Thank you very much for the battle, Ririka-san. It's been a valuable experience.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61750,
+"en": "You really think so? Then I'm glad.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61751,
+"en": "I had a lot of fun. Make sure you invite me back again, okay?",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61752,
+"en": "I definitely will!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61753,
+"en": "Looks like I won this time!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61754,
+"en": "Wow, Haruka-chan! You've really got some skills. You're miles above me!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61755,
+"en": "Oh, Ema-chan, that's not true. I learned so much watching you dance!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61756,
+"en": "Really? Hehe. Thanks!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61757,
+"en": "...Damn it.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61758,
+"en": "Gah, I won't let you beat me next time! You better invite me here again!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61759,
+"en": "Okay, I will! See you later, Ema-chan!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61760,
+"en": "Ah! I did it! I won!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61761,
+"en": "Wow, you're great, Ema-chan! I learned so much from watching you dance!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61762,
+"en": "...As if you could beat me anyways.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61763,
+"en": "I'm gonna win the next time, too! Hehe. So invite me back, okay?",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61764,
+"en": "Not... Not bad.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61765,
+"en": "You really think so? Hehe. Thank you.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61766,
+"en": "If you ever want to have another dance battle, just let me know, all right?",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61767,
+"en": "And it's not like I'm doing this for you, okay!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61768,
+"en": "Oh, I know. Well, see you!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61769,
+"en": "Hmph. It looks like you still aren't ready to beat me.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61770,
+"en": "Yeah. I need to work harder in my lessons!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61771,
+"en": "Well, if you ever want a revenge match, just let me know, all right?",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61772,
+"en": "Huh? Did I lose?",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61773,
+"en": "Yes. It looks like I won, Seira-san.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61774,
+"en": "I guess you're right. But, whatever. I don't mind!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61775,
+"en": "The important thing was that we had fun. Let's do it again sometime!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61776,
+"en": "It was fun! Yes, we'll do it again.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61777,
+"en": "Yes! I won!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61778,
+"en": "Your dancing was really great, Seira-san.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61779,
+"en": "You think so? Thanks! But, whatever.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61780,
+"en": "I swore I'd never let you beat me again. I've been training so hard, but you still won!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61781,
+"en": "*pant* *pant* I could really tell how hard you've been working, Amon-san.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61782,
+"en": "Gah! Just you wait, Haruka Sawamura. I'll bring you down yet!",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61783,
+"en": "Hehe. I'll look forward to it.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61784,
+"en": "Received a <Color:8>10,000 yen<Color:Default> tip from the audience.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61785,
+"en": "Hehe. I win.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61786,
+"en": "*pant* You're very good!",
+"ctx": "diálogo uid01690519 + diálogo uid01690547"
+},
+{
+"id": 61787,
+"en": "Come back and see me when you can provide a real challenge. I'll be waiting.",
+"ctx": "diálogo uid01690519 + diálogo uid01690547"
+},
+{
+"id": 61788,
+"en": "Yes, let's try this again soon.",
+"ctx": "diálogo uid01690519"
+},
+{
+"id": 61789,
+"en": "*pant* *pant* You're very good!",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61790,
+"en": "Unbelievable! This is what can pass for a pop idol these days? Hmph!",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61791,
+"en": "You're nothing like Kazuma Kiryu! Beating someone as weak as you is hardly something I can be proud of.",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61792,
+"en": "Come back and see me when you can provide a real challenge. I'll be right here. Waiting.",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61793,
+"en": "*pant* *pant* I won! Whew, that was not easy.",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61794,
+"en": "Well done, Haruka Sawamura. I guess I shouldn't have expected anything less from the girl raised by Kazuma Kiryu himself.",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61795,
+"en": "Anyways, this has been an interesting fact-finding mission. Just so you know, I won't hold back in our next battle.",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61796,
+"en": "Our next battle?",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61797,
+"en": "That's right. We still need to settle things between us in one of your little concert battles.",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61798,
+"en": "When you're ready, come to Soten TV. I'll construct the perfect place for you to meet your doom.",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61799,
+"en": "(Gosh, I wonder what she has planned...)",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61800,
+"en": "(Soten TV, huh? I'll have to take a taxi.)",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61801,
+"en": "(Let's see. I'm pretty sure the letter said she'd be waiting somewhere around here.)",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61802,
+"en": "Oh, are you Noa Amon? The one who wrote the letter?",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61803,
+"en": "That's right. I am the eldest daughter of the Amon Clan.",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61804,
+"en": "I'm surprised you decided to show up. Pretty brave. I'll give you that much, Haruka Sawamura.",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61805,
+"en": "Um, do we know each other?",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61806,
+"en": "Hey, don't play dumb with me! You know perfectly well that I called you here to settle things between us, once and for all.",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61807,
+"en": "Now, let's do this!",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61808,
+"en": "(What do I do? I think there's something off about this person. It'd be better to not get involved.)",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61809,
+"en": "I'm sorry, I actually have something urgent to do. Maybe we can do this another time? Now, if you'll excuse me⑬",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61810,
+"en": "Hm!? How do you know that name?",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61811,
+"en": "The Amon Clan and Kiryu are archrivals. You were raised by him. You're practically his daughter. That means you and I, we are rivals too.",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61812,
+"en": "Wait a minute. What do you mean, archrivals? And who exactly is the Amon Clan anyways?",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61813,
+"en": "The Amon Clan is a legendary assassin group. Once targeted by the Amon, nobody escapes alive.",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61814,
+"en": "That is, until he showed up.",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61815,
+"en": "You mean Uncle Kaz?",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61816,
+"en": "That's right. Kazuma Kiryu. When he appeared, the Amon's reputation started to waver. Since then, our clan has sworn to bring him down.",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61817,
+"en": "I'd love to be able to take Kazuma Kiryu out myself, but the Amon Clan has an ironclad rule against women and men engaging in battle.",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61818,
+"en": "And I had the misfortune of being born a woman. But then, just when I felt I had to take my frustration out on someone, you came along.",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61819,
+"en": "That's right. You, Kazuma Kiryu's loved one. And not only that. A new pop idol with amazing performance skills, too.",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61820,
+"en": "If I defeated you, I could finally hold my head high as a member of the Amon Clan. Even if I can't fight Kazuma Kiryu myself.",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61821,
+"en": "I... I'm not sure what to say.",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61822,
+"en": "Then don't say anything! Ugh, you aren't anything like Kazuma Kiryu, are you? Just shut up and let your abilities do the talking!",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61823,
+"en": "We're going to do this, right now!",
+"ctx": "diálogo uid01690546"
+},
+{
+"id": 61824,
+"en": "Unbelievable! I barely even tried. Come on!",
+"ctx": "diálogo uid01690547"
+},
+{
+"id": 61825,
+"en": "Defeating someone as weak as you is hardly something I can be proud of.",
+"ctx": "diálogo uid01690547"
+},
+{
+"id": 61826,
+"en": "Ahh! Why!?",
+"ctx": "diálogo uid01690547"
+},
+{
+"id": 61827,
+"en": "Why can't I beat you!?",
+"ctx": "diálogo uid01690547"
+},
+{
+"id": 61828,
+"en": "The Amon Clan has passed our knowledge down through the generations, all with the aim of being the best!",
+"ctx": "diálogo uid01690547"
+},
+{
+"id": 61829,
+"en": "If I lose to someone like you, what does that make me!?",
+"ctx": "diálogo uid01690547"
+},
+{
+"id": 61830,
+"en": "Do you know what I think? I think that if your whole purpose in doing something is to be the best, you'll never be able to do so.",
+"ctx": "diálogo uid01690547"
+},
+{
+"id": 61831,
+"en": "I just mean, that if a person is truly good at what they do, they strive not to be the best, but rather toward a specific dream or conviction.",
+"ctx": "diálogo uid01690547"
+},
+{
+"id": 61832,
+"en": "A person needs to be motivated by something positive, not something like pride or revenge. If she wants to be truly great, there's no other way.",
+"ctx": "diálogo uid01690547"
+},
+{
+"id": 61833,
+"en": "I really believe that.",
+"ctx": "diálogo uid01690547"
+},
+{
+"id": 61834,
+"en": "...Heh.",
+"ctx": "diálogo uid01690547"
+},
+{
+"id": 61835,
+"en": "So not only do I lose, but I have to get a lecture, too? Looks like I'm still the disgrace of the Amon Clan.",
+"ctx": "diálogo uid01690547"
+},
+{
+"id": 61836,
+"en": "I didn't mean for it to be a lecture. I'm sorry.",
+"ctx": "diálogo uid01690547"
+},
+{
+"id": 61837,
+"en": "You have nothing to apologize for. That belief of yours got you this far. I mean, you won, didn't you? You're probably right.",
+"ctx": "diálogo uid01690547"
+},
+{
+"id": 61838,
+"en": "All my life, I've had a chip on my shoulder about being born a woman. I was always worried about bringing shame upon the Amon name.",
+"ctx": "diálogo uid01690547"
+},
+{
+"id": 61839,
+"en": "With that kind of negative thinking, I guess I was setting myself up to fail from the start.",
+"ctx": "diálogo uid01690547"
+},
+{
+"id": 61840,
+"en": "Amon-san...",
+"ctx": "diálogo uid01690547"
+},
+{
+"id": 61841,
+"en": "Well, you beat me this time. I must rethink what it means to be truly great.",
+"ctx": "diálogo uid01690547"
+},
+{
+"id": 61842,
+"en": "Haruka Sawamura. Thank you.",
+"ctx": "diálogo uid01690547"
+},
+{
+"id": 61843,
+"en": "I'm glad I got a chance to go up against you. But I'm warning you⑬next time I will not lose!",
+"ctx": "diálogo uid01690547"
+},
+{
+"id": 61844,
+"en": "(Amon-san, you're stronger than you think.)",
+"ctx": "diálogo uid01690547"
+},
+{
+"id": 61845,
+"en": "(But gosh. Uncle Kaz sure has a lot of enemies.)",
+"ctx": "diálogo uid01690547"
+},
+{
+"id": 61846,
+"en": "You got 50,000 experience points.",
+"ctx": "diálogo uid01690547"
+},
+{
+"id": 61847,
+"en": "(I came to Soten TV, like Amon-san said. But where is she?)",
+"ctx": "diálogo uid01690547"
+},
+{
+"id": 61848,
+"en": "I've been waiting for you, Haruka Sawamura.",
+"ctx": "diálogo uid01690547"
+},
+{
+"id": 61849,
+"en": "Oh. So, why Soten TV? Is there something you have in mind?",
+"ctx": "diálogo uid01690547"
+},
+{
+"id": 61850,
+"en": "Hmph. What else? That, of course!",
+"ctx": "diálogo uid01690547"
+},
+{
+"id": 61851,
+"en": "Obviously! What better place to defeat you than on your precious Princess League stage?",
+"ctx": "diálogo uid01690547"
+},
+{
+"id": 61852,
+"en": "Are you serious? How were you even able to arrange this?",
+"ctx": "diálogo uid01690547"
+},
+{
+"id": 61853,
+"en": "I told you. The Amon Clan is an assassin group. As such, we have done work for all kinds of very important people. From those in political circles, to those in the mafia.",
+"ctx": "diálogo uid01690547"
+},
+{
+"id": 61854,
+"en": "There isn't an industry here that the Amon Clan can't reach. Getting a stage set up identical to the Princess League was simple.",
+"ctx": "diálogo uid01690547"
+},
+{
+"id": 61855,
+"en": "Wow. I can't believe this.",
+"ctx": "diálogo uid01690547"
+},
+{
+"id": 61856,
+"en": "Oh, come on, let's get on with it! If you're supposed to be the best and I beat you, then that means I'm the best. Hehe. You'll make a fine stepping stone, Haruka Sawamura!",
+"ctx": "diálogo uid01690547"
+},
+{
+"id": 61857,
+"en": "(Should I change my outfit up a little?)",
+"ctx": "diálogo uid01690557"
+},
+{
+"id": 61858,
+"en": "(Oh! I'll wear this to my next job!)",
+"ctx": "diálogo uid01690557"
+},
+{
+"id": 61859,
+"en": "(All right. Back to the village.)",
+"ctx": "diálogo uid02090f28"
+},
+{
+"id": 61860,
+"en": "(I'll stay a bit longer.)",
+"ctx": "diálogo uid02090f28"
+},
+{
+"id": 61861,
+"en": "(Still gotta tag Yama-oroshi with a transmitter shot. Should I go back down first?)",
+"ctx": "diálogo uid02090f28"
+},
+{
+"id": 61862,
+"en": "What, you're going back down?",
+"ctx": "diálogo uid02090f28"
+},
+{
+"id": 61863,
+"en": "Yeah. We'll go back for now.",
+"ctx": "diálogo uid02090f28"
+},
+{
+"id": 61864,
+"en": "No. We'll keep goin'.",
+"ctx": "diálogo uid02090f28"
+},
+{
+"id": 61865,
+"en": "There they are.",
+"ctx": "diálogo uid020921cc"
+},
+{
+"id": 61866,
+"en": "Crouch down and sneak closer. Shoot when you're close enough.",
+"ctx": "diálogo uid020921cc"
+},
+{
+"id": 61867,
+"en": "Experienced hunters aim for the heart, but that's a difficult thing for beginners. For you, it'll be easier to aim for the head.",
+"ctx": "diálogo uid020921cc"
+},
+{
+"id": 61868,
+"en": "Target the one that presents you with the best shot.",
+"ctx": "diálogo uid020921cc"
+},
+{
+"id": 61869,
+"en": "You can fell game with just one bullet if you hit its head. Try sneaking up to your target quietly and dropping it with one head shot.",
+"ctx": "diálogo uid020921cc"
+}
+]

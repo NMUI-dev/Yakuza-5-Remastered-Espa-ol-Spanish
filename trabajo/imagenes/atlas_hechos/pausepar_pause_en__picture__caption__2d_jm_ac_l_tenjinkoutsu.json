@@ -1,0 +1,37 @@
+{
+ "textura": "pausepar_pause_en/picture/caption/2d_jm_ac_l_tenjinkoutsu",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    40,
+    20,
+    984,
+    108
+   ],
+   "en": "HEAD FOR",
+   "ocr": "HEAD FOR TENJIN",
+   "es": "VE A",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "alto": 60
+  },
+  {
+   "caja": [
+    60,
+    108,
+    964,
+    240
+   ],
+   "en": "TENJIN TRANSPORTATION",
+   "ocr": "HEAD FOR TENJIN",
+   "es": "TRANSPORTES TENJIN",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_taxi_en/taxi/2d_jm_taxi_nakamura",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    6,
+    4,
+    695,
+    124
+   ],
+   "en": "GENTLE NAKAMURA",
+   "ocr": "GENTLE NAKAMURA",
+   "es": "NAKAMURA EL AMABLE",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 685
+  }
+ ]
+}

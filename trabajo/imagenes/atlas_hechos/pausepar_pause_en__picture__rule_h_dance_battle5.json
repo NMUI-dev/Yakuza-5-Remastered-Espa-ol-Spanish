@@ -1,0 +1,162 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_h_dance_battle5",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    419,
+    9,
+    605,
+    43
+   ],
+   "en": "Dance Battle",
+   "ocr": "Dance Battle",
+   "es": "B. de baile",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 182,
+   "dejar": true
+  },
+  {
+   "caja": [
+    38,
+    70,
+    288,
+    109
+   ],
+   "en": "Dance Battle (6)",
+   "ocr": " Dance Battle (6)",
+   "es": "B. de baile (6)",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 250,
+   "dejar": true
+  },
+  {
+   "caja": [
+    60,
+    115,
+    662,
+    151
+   ],
+   "en": "When you push , the Dance Heat selection",
+   "ocr": ",theDanceHeatselection",
+   "es": "Cuando pulsas el botón, la Selección de Baile de furia",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 602,
+   "dejar": true
+  },
+  {
+   "caja": [
+    59,
+    152,
+    543,
+    183
+   ],
+   "en": "screen will appear, and you can choose",
+   "ocr": "screen will appear, and you can choose",
+   "es": "aparecerá en pantalla, y podrás Elegir",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 484,
+   "dejar": true
+  },
+  {
+   "caja": [
+    60,
+    186,
+    331,
+    215
+   ],
+   "en": "which skill to unleash.",
+   "ocr": "which skill to unleash.",
+   "es": "qué HABILIDAD Desatar.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 271,
+   "dejar": true
+  },
+  {
+   "caja": [
+    800,
+    144,
+    885,
+    170
+   ],
+   "en": "Heal Me Mix",
+   "ocr": "Heal Me Mix",
+   "es": "Mix cúrame",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 81,
+   "dejar": true
+  },
+  {
+   "caja": [
+    61,
+    253,
+    624,
+    284
+   ],
+   "en": "However, if you take too long to choose or fail",
+   "ocr": "However, if you take too long to choose or fail",
+   "es": "Sin embargo, si tardas demasiado en Elegir o si no puedes Tomar una decisión.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 559,
+   "dejar": true
+  },
+  {
+   "caja": [
+    58,
+    286,
+    845,
+    320
+   ],
+   "en": "to press the button displayed after making your choice, your skill",
+   "ocr": "to press the button displayed after making your choice, your skil",
+   "es": "para accionar con la Prensa el Botón mostrado después de hacer tu elección, tu HABILIDAD",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 783,
+   "dejar": true
+  },
+  {
+   "caja": [
+    59,
+    321,
+    320,
+    352
+   ],
+   "en": "will fail, so take care.",
+   "ocr": "will fail, so take care.",
+   "es": "fracasará, así que conviene Tomar Cuidado.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 257,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: lo hace el PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

@@ -1,0 +1,3527 @@
+[
+{
+"id": 2527,
+"en": "Watami Sake",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2528,
+"en": "Otorii Hepburn",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2529,
+"en": "Yamazaki Distillery 12 Years (Watami Excl.)",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2530,
+"en": "Takoyaki 8 pcs.",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2531,
+"en": "Takoyaki 16 pcs.",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2532,
+"en": "Cheese Takoyaki 8 pcs.",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2533,
+"en": "Premium Tebasaki Chicken Wings",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2534,
+"en": "Black Tebasaki Chicken Wings",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2535,
+"en": "Stir-fried Chicken and Vegetables",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2536,
+"en": "Nagoya Fried Pork Cutlet with Miso",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2537,
+"en": "Mustard Greens Fried Rice",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2538,
+"en": "Yamachan-style Fried Shrimp",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2539,
+"en": "Fried Pork Skewers with Miso",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2540,
+"en": "Fried Quail Eggs with Miso",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2541,
+"en": "Yamachan Croquettes",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2542,
+"en": "Stewed Pork Organ Meat",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2543,
+"en": "Yamachan Salad",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2544,
+"en": "Chicken Skin Yuzu Ponzu",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2545,
+"en": "Kishimen Italiana",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2546,
+"en": "Fresh Grapefruit Sour",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2547,
+"en": "Dainagoya Sour",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2548,
+"en": "Genki Sour",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2549,
+"en": "Wine on the Rocks",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2550,
+"en": "Seoul Makgeolli",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2551,
+"en": "Orange Juice",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2552,
+"en": "Miso Stewed Udon",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2553,
+"en": "Miso Stewed Udon with Tempura",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2554,
+"en": "Miso Stewed Udon with Nagoya Cochin Chicken",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2555,
+"en": "Miso Stewed Udon with Choice Kurobuta",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2556,
+"en": "Miso Stewed Udon with Motsu",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2557,
+"en": "Kashiwa Chicken Skewers with Miso",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2558,
+"en": "Chicken Skin Skewers with Miso",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2559,
+"en": "Tsukune Skewers with Miso",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2560,
+"en": "Grilled Chicken and Vegetables",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2561,
+"en": "Deep-fried Chicken Cartilage",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2562,
+"en": "Choice Tripe Skewer",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2563,
+"en": "Tripe Skewer",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2564,
+"en": "Bite-size Shrimp Tempura Rice Balls",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2565,
+"en": "Shrimp Tempura Daruma Roll",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2566,
+"en": "Fried Tebasaki Chicken Wings",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2567,
+"en": "Fried Shrimp",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2568,
+"en": "Hitsumabushi",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2569,
+"en": "Pork Tripe Skewer",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2570,
+"en": "Beef Sinew Skewer",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2571,
+"en": "Teppan Neapolitan",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2572,
+"en": "Taiwan Gatchan",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2573,
+"en": "Fujiyama Highball",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2574,
+"en": "Sanchome Highball",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2575,
+"en": "Okada Highball",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2576,
+"en": "Ryukyu Highball",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2577,
+"en": "Oolong Highball",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2578,
+"en": "Shandygaff",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2579,
+"en": "Mug of Wine",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2580,
+"en": "Shochu & Tomato Juice Highball",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2581,
+"en": "Seafood Tartare & Baguette",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2582,
+"en": "Big Seafood Pie",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2583,
+"en": "Nagoya Gatchan",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2584,
+"en": "Deep-fried Pork Skewers",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2585,
+"en": "Grilled Pork Spare Ribs",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2586,
+"en": "Nagoya Daifuku Chazuke",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2587,
+"en": "Unagi Hitsumabushi",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2588,
+"en": "Yonaki Curry Ramen",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2589,
+"en": "Korean Noodle Salad",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2590,
+"en": "Secret Cabbage Salad",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2591,
+"en": "Grilled Clams",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2592,
+"en": "Saltwater Eel Bone Senbei",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2593,
+"en": "Imo-nechan",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2594,
+"en": "Kaburaya Sweet Potato Shochu",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2595,
+"en": "The Highball",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2596,
+"en": "Bulk Shochu",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2597,
+"en": "Tebasaki Chicken Wings",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2598,
+"en": "Kishimen",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2599,
+"en": "Spaghetti with Ankake Sauce",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2600,
+"en": "Fresh-squeezed Grapefruit Sour",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2601,
+"en": "Men's Dry Ginger Highball",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2602,
+"en": "Hakushu",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2603,
+"en": "Yamazaki",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2604,
+"en": "All-Free",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2605,
+"en": "Hanako Original Turmeric Drink",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2606,
+"en": "Dried Hokkaido Mackerel",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2607,
+"en": "Fried Hokkaido Onions",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2608,
+"en": "Broiled Saffron Cod",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2609,
+"en": "Dried Salmon Fillets",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2610,
+"en": "Classic Hokkaido Ramen Salad",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2611,
+"en": "Chicken Zangi",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2612,
+"en": "Hokkaido Shiretoko Chicken Nanban",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2613,
+"en": "Teppan Kalbi Bone Meat Stir-fry",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2614,
+"en": "Hanako's Fried Curry Udon",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2615,
+"en": "Lamb Barbeque",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2616,
+"en": "Grade-A Lamb Barbeque",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2617,
+"en": "Lamb Rib Eye Barbeque",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2618,
+"en": "Chef's Special 3-spice Set",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2619,
+"en": "Lamb Steak",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2620,
+"en": "Bone-skewered Sausage",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2621,
+"en": "Udon Combo",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2622,
+"en": "Refreshing Sesame Seed Salt Salad",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2623,
+"en": "Gyoza",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2624,
+"en": "Gyoza Meal",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2625,
+"en": "Jumbo Meal",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2626,
+"en": "Curry",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2627,
+"en": "Fried Shrimp Curry",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2628,
+"en": "Gyoza Curry",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2629,
+"en": "Cheese Curry",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2630,
+"en": "Fried Pork Cutlet Curry",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2631,
+"en": "Miyoshino Extra Large Curry",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2632,
+"en": "Miyoshino Set",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2633,
+"en": "Homemade Arabiki Sausage Curry",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2634,
+"en": "Sumire Miso Ramen",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2635,
+"en": "Sumire Soy Sauce Ramen",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2636,
+"en": "Sumire Shio Ramen",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2637,
+"en": "Sumire Old-fashioned Ramen",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2638,
+"en": "Sumire Rice Bowl",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2639,
+"en": "Sumire Fried Rice",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2640,
+"en": "Chicken Curry Soup",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2641,
+"en": "Vegetable Curry Soup",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2642,
+"en": "Chicken and Vegetable Curry Soup",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2643,
+"en": "Chicken and Vegetable Curry",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2644,
+"en": "Special \"Taste of the North\" Curry Soup",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2645,
+"en": "Combo Set",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2646,
+"en": "Plain Lassi",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2647,
+"en": "Honeyberry Lassi",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2648,
+"en": "Kimchi Fried Rice",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2649,
+"en": "Crab Omelet on Rice",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2650,
+"en": "Chinese Rice Plate",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2651,
+"en": "Gyoza King Ramen",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2652,
+"en": "Yakisoba (Sauce Flavored)",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2653,
+"en": "Sweet-and-sour Pork",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2654,
+"en": "Sweet Vinegar Meatballs",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2655,
+"en": "Chop Suey",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2656,
+"en": "Shrimp in Chili Sauce",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2657,
+"en": "Fried Chicken",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2658,
+"en": "Ultimate Napolitan",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2659,
+"en": "Sundubu Jjigae with Sauce Américaine",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2660,
+"en": "Coconut Milk & Bouillon Soup Curry Pasta",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2661,
+"en": "Bolognese Ankake Spaghetti with Hatcho Miso",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2662,
+"en": "Madame Teruka's Egg Baumkuchen",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2663,
+"en": "Cream Stew Style Mizutaki Zosui",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2664,
+"en": "All 1's Charm",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2665,
+"en": "1-2-3 Gum",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2666,
+"en": "Trips Yokan",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2667,
+"en": "Piss Mountain Stone",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2668,
+"en": "Even Goro's Beads",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2669,
+"en": "Lopsided Cigarette",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2670,
+"en": "Banker's Piece",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2671,
+"en": "Player's Piece",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2672,
+"en": "Blackjack Amulet",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2673,
+"en": "Bust Amulet",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2674,
+"en": "Black Jewel",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2675,
+"en": "Red Jewel",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2676,
+"en": "Zero Jewel",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2677,
+"en": "Royal Joker Card",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2678,
+"en": "Lucky Hanafuda Card",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2679,
+"en": "10-10-1 Charm",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2680,
+"en": "Get-Rich-Quick Charm",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2681,
+"en": "Chance Stone",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2682,
+"en": "Gambler's Amulet",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2683,
+"en": "Give-up Piece",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2684,
+"en": "Lucky Tile",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2685,
+"en": "High Payout Token",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2686,
+"en": "High Win Rate Token",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2687,
+"en": "Auto Token",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2688,
+"en": "The Hedgeball",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2689,
+"en": "Hyper Turmeric",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2690,
+"en": "Horse Mackerel (Bait)",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2691,
+"en": "Squid (Bait)",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2692,
+"en": "Shrimp (Bait)",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2693,
+"en": "Vinegar Squid (Bait)",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2694,
+"en": "Worm",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2695,
+"en": "Manila Clam",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2696,
+"en": "Corbicula Clam",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2697,
+"en": "Prawn",
+"ctx": "tabla item|NAME + menú/texto string_tbl …"
+},
+{
+"id": 2698,
+"en": "Lobster",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2699,
+"en": "Special Worm",
+"ctx": "tabla item|NAME + tabla fishing_item|NAME …"
+},
+{
+"id": 2700,
+"en": "Gurukun",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2701,
+"en": "Porcupinefish",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2702,
+"en": "Mibai",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2703,
+"en": "Irabucha",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2704,
+"en": "Sea Snail",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2705,
+"en": "Coral Branch",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2706,
+"en": "Umbrella",
+"ctx": "tabla item|NAME + menú/texto string_tbl …"
+},
+{
+"id": 2707,
+"en": "Marlin",
+"ctx": "tabla item|NAME + menú/texto string_tbl …"
+},
+{
+"id": 2708,
+"en": "Coelacanth",
+"ctx": "tabla item|NAME + menú/texto string_tbl …"
+},
+{
+"id": 2709,
+"en": "Flounder",
+"ctx": "tabla item|NAME + menú/texto string_tbl …"
+},
+{
+"id": 2710,
+"en": "Sea Bream",
+"ctx": "tabla item|NAME + menú/texto string_tbl …"
+},
+{
+"id": 2711,
+"en": "Devil Scorpionfish",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2712,
+"en": "Thread-sail Filefish",
+"ctx": "tabla item|NAME + menú/texto string_tbl …"
+},
+{
+"id": 2713,
+"en": "Conger Eel",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2714,
+"en": "Goby",
+"ctx": "tabla item|NAME + menú/texto string_tbl …"
+},
+{
+"id": 2715,
+"en": "Oil Drum",
+"ctx": "tabla item|NAME + tabla fishing_fish|NAME"
+},
+{
+"id": 2716,
+"en": "Bag",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2717,
+"en": "Ito",
+"ctx": "tabla item|NAME + menú/texto string_tbl …"
+},
+{
+"id": 2718,
+"en": "Oarfish",
+"ctx": "tabla item|NAME + tabla fishing_fish|NAME"
+},
+{
+"id": 2719,
+"en": "Great White Shark",
+"ctx": "tabla item|NAME + menú/texto string_tbl …"
+},
+{
+"id": 2720,
+"en": "Giant Crab",
+"ctx": "tabla item|NAME + menú/texto string_tbl …"
+},
+{
+"id": 2721,
+"en": "Carp",
+"ctx": "tabla item|NAME + menú/texto string_tbl …"
+},
+{
+"id": 2722,
+"en": "Koi",
+"ctx": "tabla item|NAME + menú/texto string_tbl …"
+},
+{
+"id": 2723,
+"en": "Nishikigoi",
+"ctx": "tabla item|NAME + menú/texto string_tbl …"
+},
+{
+"id": 2724,
+"en": "Ghost Koi",
+"ctx": "tabla item|NAME + menú/texto string_tbl …"
+},
+{
+"id": 2725,
+"en": "Catfish",
+"ctx": "tabla item|NAME + menú/texto string_tbl …"
+},
+{
+"id": 2726,
+"en": "Black Bass",
+"ctx": "tabla item|NAME + menú/texto string_tbl …"
+},
+{
+"id": 2727,
+"en": "Rainbow Trout",
+"ctx": "tabla item|NAME + menú/texto string_tbl …"
+},
+{
+"id": 2728,
+"en": "Pond Turtle",
+"ctx": "tabla item|NAME + menú/texto string_tbl …"
+},
+{
+"id": 2729,
+"en": "Silver Arowana",
+"ctx": "tabla item|NAME + menú/texto string_tbl …"
+},
+{
+"id": 2730,
+"en": "Snakehead",
+"ctx": "tabla item|NAME + menú/texto string_tbl …"
+},
+{
+"id": 2731,
+"en": "Platinum Plate",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2732,
+"en": "Gold Plate",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2733,
+"en": "Silver Plate",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2734,
+"en": "Bronze Plate",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2735,
+"en": "Iron Plate",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2736,
+"en": "Fight Provisions 01",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2737,
+"en": "Fight Provisions 02",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2738,
+"en": "Fight Provisions 03",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2739,
+"en": "Fight Provisions 04",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2740,
+"en": "Fight Provisions 05",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2741,
+"en": "Fight Provisions 06",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2742,
+"en": "Fight Provisions 07",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2743,
+"en": "Fight Provisions 08",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2744,
+"en": "Kamurocho Fun Pack 01",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2745,
+"en": "Kamurocho Fun Pack 02",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2746,
+"en": "Kamurocho Fun Pack 03",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2747,
+"en": "Kamurocho Fun Pack 04",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2748,
+"en": "Kamurocho Fun Pack 05",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2749,
+"en": "Kamurocho Fun Pack 06",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2750,
+"en": "Kamurocho Fun Pack 07",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2751,
+"en": "Kamurocho Fun Pack 08",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2752,
+"en": "Snare",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2753,
+"en": "Leghold Trap",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2754,
+"en": "Cage Trap",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2755,
+"en": "Trap Mod Kit",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2756,
+"en": "Trap Repair Kit",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2757,
+"en": "Hut Repair Kit",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2758,
+"en": "Bear Meat",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2759,
+"en": "Bear Fat",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2760,
+"en": "Bear Bile",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2761,
+"en": "Bear Skin",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2762,
+"en": "Deer Meat",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2763,
+"en": "Deer Hide",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2764,
+"en": "Antler",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2765,
+"en": "Fox Meat",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2766,
+"en": "Fox Skin",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2767,
+"en": "Marten Meat",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2768,
+"en": "Marten Pelt",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2769,
+"en": "Rabbit Meat",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2770,
+"en": "Rabbit Pelt",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2771,
+"en": "Gold Stag Meat",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2772,
+"en": "Gold Stag Antler",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2773,
+"en": "Gold Stag Hide",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2774,
+"en": "Mushroom",
+"ctx": "tabla item|NAME + menú/texto string_tbl …"
+},
+{
+"id": 2775,
+"en": "Toxic Mushroom",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2776,
+"en": "Rare Mushroom",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2777,
+"en": "Wild Wasabi",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2778,
+"en": "Japanese Parsley",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 2779,
+"en": "Bear Ward Bell",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2780,
+"en": "Bear Bait",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2781,
+"en": "Deer Feed",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2782,
+"en": "Winter Provisions",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2783,
+"en": "Cold Weather Rations",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2784,
+"en": "Rifle Ammo",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2785,
+"en": "Carrot",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2786,
+"en": "Carved Wooden Doll",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2787,
+"en": "Wood",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2788,
+"en": "Chisel",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2789,
+"en": "Pin-up Girl Magazine",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2790,
+"en": "Snowball Fight Dummy Item",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2791,
+"en": "Pursuit Recovery Medicine (L)",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2792,
+"en": "Pursuit Recovery Medicine (S)",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2793,
+"en": "Repair Kit",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2794,
+"en": "Test Offering",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2795,
+"en": "German Teacup",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2796,
+"en": "Gold Pass",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2797,
+"en": "Modern Mahjong Cup Trophy",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2798,
+"en": "Hokkaido Walker",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2799,
+"en": "Tokyo Walker",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2800,
+"en": "Tokai Walker",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2801,
+"en": "Kansai Walker",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2802,
+"en": "Fukuoka Walker",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2803,
+"en": "Daddy Papa's Autograph",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2804,
+"en": "Mini Shrimp Tempura Soba",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2805,
+"en": "Grandia Dark Roast Bitter",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2806,
+"en": "Grandia Black",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2807,
+"en": "Handmade Seaweed Onigiri",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2808,
+"en": "Handmade Tuna Mayo Onigiri",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2809,
+"en": "Handmade Salmon Onigiri",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2810,
+"en": "Handmade Plum Onigiri",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2811,
+"en": "Hot Chef Deep-fried Pork Cutlet Bowl",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2812,
+"en": "Daily Special Lunch Set",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2813,
+"en": "Tricolor Ham Sandwiches",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2814,
+"en": "Assorted Sandwiches",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2815,
+"en": "Juicy Meat Yakisoba",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2816,
+"en": "Natto Roll",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2817,
+"en": "Kyogoku no Meisui Natural Mineral Water",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2818,
+"en": "Green Tea 500 ml",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2819,
+"en": "Sushi Kaiseki Chitose Course \"Snow\"",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2820,
+"en": "Dummy Normal 950",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2821,
+"en": "Dummy Normal 951",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2822,
+"en": "Dummy Normal 952",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2823,
+"en": "Dummy Normal 953",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2824,
+"en": "Dummy Normal 954",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2825,
+"en": "Dummy Normal 955",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2826,
+"en": "Dummy Normal 956",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2827,
+"en": "Dummy Normal 957",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2828,
+"en": "Dummy Normal 958",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2829,
+"en": "Dummy Normal 959",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2830,
+"en": "Dummy Normal 960",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2831,
+"en": "Dummy Normal 961",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2832,
+"en": "Dummy Normal 962",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2833,
+"en": "Dummy Normal 963",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2834,
+"en": "Dummy Normal 964",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2835,
+"en": "Dummy Normal 965",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2836,
+"en": "Dummy Normal 966",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2837,
+"en": "Dummy Normal 967",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2838,
+"en": "Dummy Normal 968",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2839,
+"en": "Dummy Normal 969",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2840,
+"en": "Dummy Normal 970",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2841,
+"en": "Dummy Normal 971",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2842,
+"en": "Dummy Normal 972",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2843,
+"en": "Dummy Normal 973",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2844,
+"en": "Dummy Normal 974",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2845,
+"en": "Dummy Normal 975",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2846,
+"en": "Dummy Normal 976",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2847,
+"en": "Dummy Normal 977",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2848,
+"en": "Dummy Normal 978",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2849,
+"en": "Dummy Normal 979",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2850,
+"en": "Dummy Normal 980",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2851,
+"en": "Dummy Normal 981",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2852,
+"en": "Dummy Normal 982",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2853,
+"en": "Dummy Normal 983",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2854,
+"en": "Dummy Normal 984",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2855,
+"en": "Dummy Normal 985",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2856,
+"en": "Dummy Normal 986",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2857,
+"en": "Dummy Normal 987",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2858,
+"en": "Dummy Normal 988",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2859,
+"en": "Dummy Normal 989",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2860,
+"en": "Dummy Normal 990",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2861,
+"en": "Dummy Normal 991",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2862,
+"en": "Dummy Normal 992",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2863,
+"en": "Dummy Normal 993",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2864,
+"en": "Dummy Normal 994",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2865,
+"en": "Dummy Normal 995",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2866,
+"en": "Dummy Normal 996",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2867,
+"en": "Dummy Normal 997",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2868,
+"en": "Dummy Normal 998",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2869,
+"en": "Dummy Normal 999",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2870,
+"en": "Dummy Normal 1000",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2871,
+"en": "Dummy Normal 1001",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2872,
+"en": "Dummy Normal 1002",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2873,
+"en": "Dummy Normal 1003",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2874,
+"en": "Dummy Normal 1004",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2875,
+"en": "Dummy Normal 1005",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2876,
+"en": "Dummy Normal 1006",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2877,
+"en": "Dummy Normal 1007",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2878,
+"en": "Dummy Normal 1008",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2879,
+"en": "Dummy Normal 1009",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2880,
+"en": "Dummy Normal 1010",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2881,
+"en": "Dummy Normal 1011",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2882,
+"en": "Dummy Normal 1012",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2883,
+"en": "Dummy Normal 1013",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2884,
+"en": "Dummy Normal 1014",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2885,
+"en": "Dummy Normal 1015",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2886,
+"en": "Dummy Normal 1016",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2887,
+"en": "Dummy Normal 1017",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2888,
+"en": "Dummy Normal 1018",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2889,
+"en": "Dummy Normal 1019",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2890,
+"en": "Dummy Normal 1020",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2891,
+"en": "Dummy Normal 1021",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2892,
+"en": "Dummy Normal 1022",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2893,
+"en": "Dummy Normal 1023",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2894,
+"en": "Dummy Normal 1024",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2895,
+"en": "««««««Weapons Below«««««««",
+"ctx": "tabla item|NAME + tabla item|EXPLANATION"
+},
+{
+"id": 2896,
+"en": "Test Katana",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2897,
+"en": "Test Dagger",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2898,
+"en": "Test Tonfa",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2899,
+"en": "Test Kali Sticks",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2900,
+"en": "Test Staff",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2901,
+"en": "Test Hammer",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2902,
+"en": "Test Nunchaku",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2903,
+"en": "Test Bat",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2904,
+"en": "Nameless Short Sword",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2905,
+"en": "Shortsword with Nicked Blade",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2906,
+"en": "Dagger with Nicked Blade",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2907,
+"en": "New Dagger",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2908,
+"en": "Army Knife",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2909,
+"en": "Stun Gun",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2910,
+"en": "Old Stun Gun",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2911,
+"en": "Hyper Stun Gun",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2912,
+"en": "Spicy Knife",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2913,
+"en": "Chinese Broadsword",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2914,
+"en": "Lotus Clan Chinese Saber",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2915,
+"en": "Divine Dragon Short Sword",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2916,
+"en": "Modified Divine Dragon Short Sword",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2917,
+"en": "Coliseum Short Sword",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2918,
+"en": "Sonic Knife",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2919,
+"en": "Crab Scissors",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2920,
+"en": "Sturdy Knife",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2921,
+"en": "Extremely Sturdy Knife",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2922,
+"en": "Wooden Katana",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2923,
+"en": "Fragile Wooden Katana",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2924,
+"en": "Nameless Katana",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2925,
+"en": "Katana with Nicked Blade",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2926,
+"en": "Spatula Blade",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2927,
+"en": "Sakura Storm",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2928,
+"en": "Photon Blade MG",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2929,
+"en": "Photon Blade PG",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2930,
+"en": "Muramasa Blade",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2931,
+"en": "Sturdy Katana",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2932,
+"en": "Extremely Sturdy Katana",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2933,
+"en": "Dragon Slayer",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2934,
+"en": "Modified Dragon Slayer",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2935,
+"en": "Coliseum Katana",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2936,
+"en": "Sledgehammer",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2937,
+"en": "Big Festival Fan",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2938,
+"en": "Warning Sign",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2939,
+"en": "Toy Hammer",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2940,
+"en": "Frozen Tuna",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2941,
+"en": "Raging Dragon Hammer",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2942,
+"en": "Modified Raging Dragon Hammer",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2943,
+"en": "Coliseum Hammer",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2944,
+"en": "Fortune Mallet",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2945,
+"en": "Snowman Hammer",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2946,
+"en": "Extendable Staff",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2947,
+"en": "Long Iron Pipe",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2948,
+"en": "Assassin's Spear",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2949,
+"en": "Photon Blade WG",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2950,
+"en": "Squid Spear",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2951,
+"en": "Uirou Pole",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2952,
+"en": "Great Marlin",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2953,
+"en": "Mighty Dragon Spear",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2954,
+"en": "Modified Mighty Dragon Spear",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2955,
+"en": "Coliseum Spear",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2956,
+"en": "Sturdy Pole",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2957,
+"en": "Extremely Sturdy Pole",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2958,
+"en": "Purgatory Rod",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2959,
+"en": "Penguin Spear",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2960,
+"en": "Brass Knuckles",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2961,
+"en": "Steel Gloves",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2962,
+"en": "Thorn Knuckles",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2963,
+"en": "Demon Gauntlets",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2964,
+"en": "Dragon Grudge Gloves",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2965,
+"en": "Modified Dragon Grudge Gloves",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2966,
+"en": "Coliseum Knuckles",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2967,
+"en": "Hungry Wolf Gloves",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2968,
+"en": "Pepper Spray",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2969,
+"en": "Slime Spray",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2970,
+"en": "Modified Lighter",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2971,
+"en": "Modified Stun Lighter",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2972,
+"en": "Bottomless Lighter",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2973,
+"en": "Salt",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2974,
+"en": "Pepper",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2975,
+"en": "Habanero Powder",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2976,
+"en": "Superglue",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2977,
+"en": "Skyrocket",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2978,
+"en": "Iron Tonfa",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2979,
+"en": "Steel Tonfa",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2980,
+"en": "Slashing Tonfa",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2981,
+"en": "Self-defense Ruler",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2982,
+"en": "Platinum Triangle Ruler",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2983,
+"en": "Dragon Horn",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2984,
+"en": "Modified Dragon Horn",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2985,
+"en": "Coliseum Tonfa",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2986,
+"en": "Wooden Nunchaku",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2987,
+"en": "Twin Hangers",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2988,
+"en": "Steel Nunchaku",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2989,
+"en": "Dragon Nunchaku",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2990,
+"en": "Modified Dragon Nunchaku",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2991,
+"en": "Coliseum Nunchaku",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2992,
+"en": "SPARK 20,000V",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2993,
+"en": "Frozen Banana",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2994,
+"en": "Double Slats",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2995,
+"en": "Wooden Kali Sticks",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2996,
+"en": "Spiked Taiko Sticks",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2997,
+"en": "Cutie Girl Sticks",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2998,
+"en": "Twin Dragon Sticks",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 2999,
+"en": "Modified Twin Dragon Sticks",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3000,
+"en": "Coliseum Kali Sticks",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3001,
+"en": "Love Shine Sticks",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3002,
+"en": "Love Shine Sticks (IF8)",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3003,
+"en": "Love Shine Leeks",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3004,
+"en": "Double Leeks",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3005,
+"en": "Black Umbrella",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3006,
+"en": "Gentleman's Umbrella",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3007,
+"en": "Elegant Umbrella",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3008,
+"en": "Blackjack",
+"ctx": "tabla item|NAME + menú/texto string_tbl …"
+},
+{
+"id": 3009,
+"en": "Superalloy Pipe",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3010,
+"en": "Ballbuster",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3011,
+"en": "Cod Roe Blackjack",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3012,
+"en": "Special Police Baton",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3013,
+"en": "Kamiyama Police Baton",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3014,
+"en": "Colorful Parasol",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3015,
+"en": "Master Ball",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 3016,
+"en": "Brickshitter Beer",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3017,
+"en": "Iron Pipe",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3018,
+"en": "Shachihoko",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3019,
+"en": "Fragile 9-iron",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3020,
+"en": "Wooden Driver",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3021,
+"en": "Damaged Metal Bat",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3022,
+"en": "Metal Bat",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3023,
+"en": "Titanium Driver",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3024,
+"en": "Cracked Spiked Bat",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3025,
+"en": "Spiked Bat",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3026,
+"en": "Patriarch's Driver",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3027,
+"en": "Patriarch's Bat",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3028,
+"en": "Golden Dragon Bat",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3029,
+"en": "Modified Golden Dragon Bat",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3030,
+"en": "Dragon-drive 99",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3031,
+"en": "9mm Automatic Pistol",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3032,
+"en": "Double Action Revolver",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3033,
+"en": "Drow-Z 55",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3034,
+"en": "Mr. Random",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3035,
+"en": "Golden Pistol",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3036,
+"en": "Replica Gun",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3037,
+"en": "Silver Bullet Gun",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3038,
+"en": "Broken M1985",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3039,
+"en": "Slime Gun",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3040,
+"en": "Zap Gun",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3041,
+"en": "Smoking Gun",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3042,
+"en": "Expulsion S-12",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3043,
+"en": "Sturdy Iron Pipe",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3044,
+"en": "Extremely Sturdy Iron Pipe",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3045,
+"en": "Fire Extinguisher",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 3046,
+"en": "Hazy Moon",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3047,
+"en": "Lv. 1 Rifle",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3048,
+"en": "Lv. 2 Rifle",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3049,
+"en": "Lv. 3 Rifle",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3050,
+"en": "Special Rifle",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3051,
+"en": "Golden Rifle",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 3052,
+"en": "Cheap 9-iron",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3053,
+"en": "Temp Weapon 15",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3054,
+"en": "Temp Weapon 16",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3055,
+"en": "Temp Weapon 17",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3056,
+"en": "Temp Weapon 18",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3057,
+"en": "Temp Weapon 19",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3058,
+"en": "Placeholder Weapon 20",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3059,
+"en": "Placeholder Weapon 21",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3060,
+"en": "Placeholder Weapon 22",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3061,
+"en": "Placeholder Weapon 23",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3062,
+"en": "Placeholder Weapon 24",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3063,
+"en": "Placeholder Weapon 25",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3064,
+"en": "Placeholder Weapon 26",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3065,
+"en": "Placeholder Weapon 27",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3066,
+"en": "Placeholder Weapon 28",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3067,
+"en": "Placeholder Weapon 29",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3068,
+"en": "Placeholder Weapon 30",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3069,
+"en": "Placeholder Weapon 31",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3070,
+"en": "Placeholder Weapon 32",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3071,
+"en": "Placeholder Weapon 33",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3072,
+"en": "Placeholder Weapon 34",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3073,
+"en": "Placeholder Weapon 35",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3074,
+"en": "Placeholder Weapon 36",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3075,
+"en": "Placeholder Weapon 37",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3076,
+"en": "Placeholder Weapon 38",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3077,
+"en": "Placeholder Weapon 39",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3078,
+"en": "Placeholder Weapon 40",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3079,
+"en": "Placeholder Weapon 41",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3080,
+"en": "Placeholder Weapon 42",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3081,
+"en": "Placeholder Weapon 43",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3082,
+"en": "Placeholder Weapon 44",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3083,
+"en": "Placeholder Weapon 45",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3084,
+"en": "Placeholder Weapon 46",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3085,
+"en": "Placeholder Weapon 47",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3086,
+"en": "Placeholder Weapon 48",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3087,
+"en": "Placeholder Weapon 49",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3088,
+"en": "Placeholder Weapon 50",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3089,
+"en": "Placeholder Weapon 51",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3090,
+"en": "Placeholder Weapon 52",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3091,
+"en": "Placeholder Weapon 53",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3092,
+"en": "Placeholder Weapon 54",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3093,
+"en": "Placeholder Weapon 55",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3094,
+"en": "ªªªªªªWeapons Aboveªªªªªªª",
+"ctx": "tabla item|NAME + tabla item|EXPLANATION"
+},
+{
+"id": 3095,
+"en": "««««««Gear Below«««««««",
+"ctx": "tabla item|NAME + tabla item|EXPLANATION"
+},
+{
+"id": 3096,
+"en": "Binding",
+"ctx": "tabla item|NAME + menú/texto string_tbl"
+},
+{
+"id": 3097,
+"en": "Fighter's Binding",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3098,
+"en": "Fearless Binding",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3099,
+"en": "Gambler's Binding",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3100,
+"en": "Dragon's Binding",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3101,
+"en": "Bloody Binding",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3102,
+"en": "Lucky Binding",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3103,
+"en": "Yellow Dragon's Binding",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3104,
+"en": "Strong Training Gear",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3105,
+"en": "Chain Mail",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3106,
+"en": "Battle Mail",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3107,
+"en": "Steel Mail",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3108,
+"en": "Antique Chain Mail",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3109,
+"en": "Dragon Mail",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3110,
+"en": "Fireproof Shirt",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3111,
+"en": "Insulated Shirt",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3112,
+"en": "Special Alloy Shirt",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3113,
+"en": "Jet Black Jacket",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3114,
+"en": "Dragon Shirt",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3115,
+"en": "Low-resilience Jacket",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3116,
+"en": "Yakuza Training Gear",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3117,
+"en": "Morning Glory Belly Warmer",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3118,
+"en": "Handmade Bracelet",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3119,
+"en": "Dance Fever Scrunchie",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3120,
+"en": "Night Black Gallant",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3121,
+"en": "Night Black Savage",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3122,
+"en": "Night Black Legend",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3123,
+"en": "Tiger Mail",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3124,
+"en": "Placeholder Gear 02",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3125,
+"en": "Placeholder Gear 03",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3126,
+"en": "Placeholder Gear 04",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3127,
+"en": "Placeholder Gear 05",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3128,
+"en": "Placeholder Gear 06",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3129,
+"en": "Placeholder Gear 07",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3130,
+"en": "Placeholder Gear 08",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3131,
+"en": "Placeholder Gear 09",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3132,
+"en": "Placeholder Gear 10",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3133,
+"en": "Placeholder Gear 11",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3134,
+"en": "Placeholder Gear 12",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3135,
+"en": "Placeholder Gear 13",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3136,
+"en": "Placeholder Gear 14",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3137,
+"en": "Placeholder Gear 15",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3138,
+"en": "Placeholder Gear 16",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3139,
+"en": "Placeholder Gear 17",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3140,
+"en": "Placeholder Gear 18",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3141,
+"en": "Placeholder Gear 19",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3142,
+"en": "Placeholder Gear 20",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3143,
+"en": "Placeholder Gear 21",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3144,
+"en": "Placeholder Gear 22",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3145,
+"en": "Placeholder Gear 23",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3146,
+"en": "Placeholder Gear 24",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3147,
+"en": "Placeholder Gear 25",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3148,
+"en": "Placeholder Gear 26",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3149,
+"en": "Placeholder Gear 27",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3150,
+"en": "Placeholder Gear 28",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3151,
+"en": "ªªªªªªGear Aboveªªªªªªª",
+"ctx": "tabla item|NAME + tabla item|EXPLANATION"
+},
+{
+"id": 3152,
+"en": "««««««Accessories Below«««««««",
+"ctx": "tabla item|NAME + tabla item|EXPLANATION"
+},
+{
+"id": 3153,
+"en": "Locker Key Radar",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3154,
+"en": "Ebisu Socks",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3155,
+"en": "Gion Bell",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3156,
+"en": "Mew Shoes",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3157,
+"en": "Silent Shoes",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3158,
+"en": "Beads of Good Fortune",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3159,
+"en": "Charismatic Photo",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3160,
+"en": "Leech Gloves",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3161,
+"en": "War God Talisman",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3162,
+"en": "Calming Towel",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3163,
+"en": "Rescue Card",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3164,
+"en": "Haruka's Necklace",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3165,
+"en": "Haruka's Amulet",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3166,
+"en": "Tourmaline Bracelet",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3167,
+"en": "Southpaw Bracelet",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3168,
+"en": "Amon's Sunglasses",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3169,
+"en": "Black Belt",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3170,
+"en": "Payback Ring",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3171,
+"en": "Springy Arm Guards",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3172,
+"en": "High-tech Arm Guards",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3173,
+"en": "High-tech Shin Guards",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3174,
+"en": "Tattered Scarf",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3175,
+"en": "Protective Amulet",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3176,
+"en": "Bulletproof Glass Amulet",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3177,
+"en": "Goddess of Children Amulet",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3178,
+"en": "Champion's Ring",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3179,
+"en": "Gauntlets",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3180,
+"en": "Steel Shin Guards",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3181,
+"en": "Morning Glory Scarf",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3182,
+"en": "Fat Stacks Amulet",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3183,
+"en": "Nishikigoi Amulet",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3184,
+"en": "Hercules Gloves",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3185,
+"en": "Immovable Belt",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3186,
+"en": "Balance Bracelet",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3187,
+"en": "Pitcher's Amulet",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3188,
+"en": "Sacrifice Stone",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3189,
+"en": "Comfy Soles",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3190,
+"en": "Contact Lenses",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3191,
+"en": "Rescue Radar",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3192,
+"en": "Encounter Finder",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3193,
+"en": "Tourist Spot Pointer",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3194,
+"en": "Hunger Belt",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3195,
+"en": "Tiger Skin Belt",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3196,
+"en": "Alertness Hood",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3197,
+"en": "Rage Ring",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3198,
+"en": "Collateral Damage Belt",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3199,
+"en": "Headgear",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3200,
+"en": "Celebrity Perfume",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3201,
+"en": "Platinum Membership Card",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3202,
+"en": "Angler's Hook",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3203,
+"en": "High-grade Cigarettes",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3204,
+"en": "MP3 Player",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3205,
+"en": "Fan Letter",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3206,
+"en": "Messages from Fans",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3207,
+"en": "Eager Earrings",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3208,
+"en": "Toughness Pin",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3209,
+"en": "Gold Ring",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3210,
+"en": "Placeholder Accessory 01",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3211,
+"en": "Placeholder Accessory 02",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3212,
+"en": "Placeholder Accessory 03",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3213,
+"en": "Placeholder Accessory 04",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3214,
+"en": "Placeholder Accessory 05",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3215,
+"en": "Placeholder Accessory 06",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3216,
+"en": "Placeholder Accessory 07",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3217,
+"en": "Placeholder Accessory 08",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3218,
+"en": "Placeholder Accessory 09",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3219,
+"en": "Placeholder Accessory 10",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3220,
+"en": "Placeholder Accessory 11",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3221,
+"en": "Placeholder Accessory 12",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3222,
+"en": "Placeholder Accessory 13",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3223,
+"en": "Placeholder Accessory 14",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3224,
+"en": "Placeholder Accessory 15",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3225,
+"en": "Placeholder Accessory 16",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3226,
+"en": "Placeholder Accessory 17",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3227,
+"en": "Placeholder Accessory 18",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3228,
+"en": "Placeholder Accessory 19",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3229,
+"en": "Placeholder Accessory 20",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3230,
+"en": "Placeholder Accessory 21",
+"ctx": "tabla item|NAME"
+},
+{
+"id": 3231,
+"en": "Placeholder Accessory 22",
+"ctx": "tabla item|NAME"
+}
+]

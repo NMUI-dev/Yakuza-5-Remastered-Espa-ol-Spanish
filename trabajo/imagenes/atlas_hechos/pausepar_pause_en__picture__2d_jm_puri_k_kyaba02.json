@@ -1,0 +1,53 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_k_kyaba02",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    17,
+    16,
+    237,
+    81
+   ],
+   "en": "Kiryufan",
+   "ocr": "KiryuFsan",
+   "es": "Kiryufan",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 216
+  },
+  {
+   "caja": [
+    301,
+    15,
+    471,
+    77
+   ],
+   "en": "Hinata",
+   "ocr": "Hinata",
+   "es": "Hinata",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 166
+  },
+  {
+   "caja": [
+    14,
+    275,
+    501,
+    372
+   ],
+   "en": "commemorative print",
+   "ocr": "Commemorative print",
+   "es": "Estampa conmemorativa",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 483
+  }
+ ]
+}

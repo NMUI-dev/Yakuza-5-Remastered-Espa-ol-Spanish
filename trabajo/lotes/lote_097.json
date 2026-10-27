@@ -1,0 +1,992 @@
+[
+{
+"id": 24196,
+"en": "Don't be such a baby! Your superior officer's orders are absolute, and I order you not to be afraid!",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24197,
+"en": "You're not my superior officer, or anyone's superior officer for that matter! But whatever. I'll trust you. I can trust you, right?",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24198,
+"en": "Good. Trust between comrades can turn the tide of battle.",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24199,
+"en": "All right, True Suicidal Running it is!",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24200,
+"en": "This one is like the previous Suicidal Running exercise in that you'll chase me through the streets of Sotenbori. Catch me, and you pass.",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24201,
+"en": "The only difference is I won't hold back this time.",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24202,
+"en": "You were holding back? So, what? You'll be running faster this time?",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24203,
+"en": "No, I'll lob grenades at you while you chase me.",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24204,
+"en": "You'll lob what at me!?",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24205,
+"en": "You know, grenades. Hand grenades. I know you civvies aren't too familiar with a mercenary's tools of the trade.",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24206,
+"en": "No, I know exactly what a grenade is. It's just, I mean, we're still in Japan, right?",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24207,
+"en": "Don't be a smart ass. Besides, a battlefield is wherever you make it.",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24208,
+"en": "Like before, my students will direct traffic. However, they'll also be lobbing grenades at you, too, so watch out.",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24209,
+"en": "They'll be coming from all directions, huh? You are one devious bastard. Hats off to you.",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24210,
+"en": "Respect for your superior officer is a given, but flattery won't get you promoted.",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24211,
+"en": "I'm more than happy to remain a private.",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24212,
+"en": "Well, are you ready?",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24213,
+"en": "All right, True Suicidal Shooting it is!",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24214,
+"en": "This time, I and three of my students will try to shoot you.",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24215,
+"en": "You'll pass if you defeat us all.",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24216,
+"en": "I don't get a gun this time? So it's four armed opponents against me, barehanded?",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24217,
+"en": "What? Do you have a problem with that?",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24218,
+"en": "Listen, those replica guns really hurt. And this time, I'm the only one on the receiving end of said pain?",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24219,
+"en": "You big baby. If you're scared of a little pain, what're you going to do when you're seriously wounded in battle?",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24220,
+"en": "You do realize this is Japan and not some war-torn country, right?",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24221,
+"en": "Stop fooling yourself! Life itself is a battlefield!",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24222,
+"en": "I should've figured you'd say that. I better quit while I'm ahead. Fine, let's do this.",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24223,
+"en": "All right, True Suicidal Combat it is!",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24224,
+"en": "In this exercise, we'll battle each other one-on-one. Defeat me, and you pass.",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24225,
+"en": "I won't be holding back this time. Naturally, I'll be using a machine gun again.",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24226,
+"en": "I don't see anything natural about it, but I guess complaining won't change anything.",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24227,
+"en": "And my students will back me up by lobbing grenades at you from outside the combat zone.",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24228,
+"en": "Nothing you could say fazes me anymore. Besides, you're just as likely to be blown to bits as me.",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24229,
+"en": "Think again, Akiyama-kun. I'll be wearing the latest cutting-edge ballistic armor.",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24230,
+"en": "I can keep on fighting without worrying about grenade explosions.",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24231,
+"en": "Hey, no fair!",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24232,
+"en": "Relax. The gunfire and explosions are only for training purposes. They may leave a mark and hurt like hell, but they won't kill you.",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24233,
+"en": "You're always so reassuring in your own special way. But fine, whatever. I'm used to it by now.",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24234,
+"en": "Hmph! Not bad. Not bad at all!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24235,
+"en": "You got 1000 experience points.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24236,
+"en": "But I simply allowed you to defeat me. Next time won't be so easy.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24237,
+"en": "Victory is mine! Oh, what a feeling!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24238,
+"en": "Come again soon! I'll be sure to give you another good whooping!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24239,
+"en": "Oh, there you are. Ready for some training?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24240,
+"en": "Sorry to bother you. I just wanted to say hi.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24241,
+"en": "Are you mocking me? Hmph. Well, come back when you're ready.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24242,
+"en": "Okay, you're on, Leo-kun!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24243,
+"en": "Bring it on, Shinada!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24244,
+"en": "Come now, Shinada. Is that all you've got?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24245,
+"en": "You disappoint me. You are below me in both skill and social standing, apparently.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24246,
+"en": "Come back when you're ready. I may deign to take you on again... if I'm bored.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24247,
+"en": "Shinada... I know you can do better than that.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24248,
+"en": "I want you to really bring it next time. You know where to find me!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24249,
+"en": "What is this place?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24250,
+"en": "One of my favorite places. I reserved the most popular girl for you.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24251,
+"en": "What is the meaning of this!? I couldn't possibly enter such an establishment!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24252,
+"en": "Oh, I should also mention, there're some pretty scary types running the joint, and they don't take kindly to sudden cancellations.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24253,
+"en": "Shinada! What have you done!?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24254,
+"en": "Ayanokojiii!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24255,
+"en": "Zounds! What are you doing!?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24256,
+"en": "Don't be so uptight!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24257,
+"en": "But... Why do I have to⑬",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24258,
+"en": "Fine, fine! I'll go...",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24259,
+"en": "All done.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24260,
+"en": "So, how was it?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24261,
+"en": "How shall I explain...?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24262,
+"en": "Many things don't seem as important anymore.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24263,
+"en": "Nice. I'd call that a breakthrough.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24264,
+"en": "What's that supposed to mean!?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24265,
+"en": "Admit it. You had a good time.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24266,
+"en": "Don't change the subject.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24267,
+"en": "You had a good time, right?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24268,
+"en": "Y... Yes...",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24269,
+"en": "And you learned it's okay not to set the bar so high?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24270,
+"en": "...Yes.",
+"ctx": "diálogo uid0013031b + diálogo uid0146005a"
+},
+{
+"id": 24271,
+"en": "And there it is! Nice job, Leo-kun! You're on the stairway to manhood!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24272,
+"en": "I am? Er, I mean, I am... I suppose.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24273,
+"en": "Yesss! Haha! Now you owe me!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24274,
+"en": "Argh, fine. Yes, I owe you.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24275,
+"en": "Sweet! I'm going to hold you to your word!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24276,
+"en": "Now let's see... Maybe I'll have you buy me a TV. No, wait, how about a car? Then again, cash is always king!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24277,
+"en": "What!? What're you babbling about? You said you wanted some training.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24278,
+"en": "Oh, right...",
+"ctx": "diálogo uid0013031b + diálogo uid00690235 …"
+},
+{
+"id": 24279,
+"en": "I'm going to beat some good lessons into you, so you'd better prepare yourself.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24280,
+"en": "Whoa, I don't like the sound of that. But okay, I'll be back when I'm ready.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24281,
+"en": "And here we are. Go on in.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24282,
+"en": "But, this is a hostess club! This was your plan? To just toss me in here!?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24283,
+"en": "Relax, this place is real classy, so don't go calling it vulgar or whatever. Just stop your whining, already!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24284,
+"en": "Then you must accompany me! Oh, I knew I shouldn't have gotten mixed up with a witless peasant!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24285,
+"en": "Zounds! Again with this!?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24286,
+"en": "There are moments in your life that you have to face head on. This is one of them!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24287,
+"en": "No, I could just as easily walk the other way! Just watch me!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24288,
+"en": "Fine, fine! I'll go in!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24289,
+"en": "But, Shinada, you must join me.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24290,
+"en": "Now how's that going to help you?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24291,
+"en": "I'm not going to be around when you meet the right woman. You're on your own here!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24292,
+"en": "Will you be joining us this evening, sir?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24293,
+"en": "Yeah, a table for my aristocratic friend here. And send over your number-one gal.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24294,
+"en": "I am overcome with fear.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24295,
+"en": "Bye. Have fun.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24296,
+"en": "Shinada! I return!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24297,
+"en": "Hey, there! You seem awfully chipper, Leo-kun!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24298,
+"en": "Yes, well... That was quite exhilarating!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24299,
+"en": "My hostess was truly number one! So beautiful, and an adept conversationalist, too!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24300,
+"en": "That's great! And just think, it's all thanks to me!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24301,
+"en": "What are you talking about? All you did was drop me off here.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24302,
+"en": "Oh, guess so...",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24303,
+"en": "Still, that was grand. I've never had so deep a conversation with a woman I'd met only this very day!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24304,
+"en": "Well, it helps that she's a pro at conversation.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24305,
+"en": "I'm unsure what all that was about the bottles and the like, but it was good fun nonetheless!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24306,
+"en": "Wait, how much did you end up spending?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24307,
+"en": "Oh, uh, about one million yen, and then half again as much.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24308,
+"en": "Wha⑬!? But you were only there about an hour and a half, weren't you?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24309,
+"en": "I decided I ought to buy the costliest bottle they had. Alas, I drank only one glass and gave the rest to her.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24310,
+"en": "That's some serious coin. Man, I could kill myself right now for not going in with you.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24311,
+"en": "Well, Shinada, I can say again and with honesty that I'm glad I heeded you despite all that's transpired.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24312,
+"en": "Yeah? Glad to hear it, I guess.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24313,
+"en": "Pay me a visit, and I shall whip you into shape, to use the vernacular of you common folk.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24314,
+"en": "That's great and all, but why do I feel like I lost?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24315,
+"en": "Hey, Leo-kun, you got any money?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24316,
+"en": "More than you could hope to lay eyes on in your mundane life.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24317,
+"en": "Great. I want you to go in this store and ask them to pick out a complete outfit for you.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24318,
+"en": "A complete outfit? But if I let someone else choose, how can I ensure they are giving me clothing that agrees with my noble complexion?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24319,
+"en": "Relax! Anything they choose couldn't possibly be worse than what you're wearing now!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24320,
+"en": "Now shut up and get in there!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24321,
+"en": "Very well. I... I suppose I'll give it a try.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24322,
+"en": "Thank you for shopping with us.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24323,
+"en": "And there he is! The nobleman himself!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24324,
+"en": "I don't know about this. What do you think?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24325,
+"en": "You look great, Leo-kun! Especially considering what you were wearing before.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24326,
+"en": "I am unsure how to explain it, but I feel as though I am lacking something.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24327,
+"en": "Yeah, what you're lacking is the millennium-old funk clinging to that outfit of yours. Welcome to the modern world.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24328,
+"en": "So, Leo-kun, what do you think about your new look?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24329,
+"en": "I feel... Hmm, how to put this? I feel rather patrician. Truly, this ensemble fits one of my high birth.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24330,
+"en": "Uh, not sure I got all that, but I can tell you're happy. You look great.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24331,
+"en": "Hah! If I need your opinion, I'll ask for it. You're one of the sloppiest dressers I know.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24332,
+"en": "Well that's just rude. I like the way I dress.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24333,
+"en": "In any case, I never imagined I could look this good in normal clothes. I guess it pays to try new things.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24334,
+"en": "So I did good?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24335,
+"en": "This didn't have quite the impact as what you've done so far, but I suppose it still counts nonetheless.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24336,
+"en": "Yes! I'm on a roll, baby!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24337,
+"en": "Now, return when you're prepared to train. The new, more stylish Ayanokoji will grind your face into the dirt like the commoner you are.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24338,
+"en": "Okay, I'll be back, but let's forget about grinding faces into dirt, all right?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24339,
+"en": "Ah, there you are. What do you want?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24340,
+"en": "So? What do you want?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24341,
+"en": "(He owes me after the advice I gave him, so I should have him give me a lesson.)",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24342,
+"en": "Let's train!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24343,
+"en": "Do you recall how I explained to you about protection and feudal service? You serve me, and I protect you.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24344,
+"en": "So what have you done for me lately? Well? I'm waiting.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24345,
+"en": "You need to do something for me first. That's feudal service. As you peasants say, scratch my back, and I'll scratch yours.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24346,
+"en": "(Fine. Maybe I'll give him some advice about his life. Then he'll owe me one.)",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24347,
+"en": "Sorry! I just remembered something I have to do.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24348,
+"en": "Tsk, stop wasting my time!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24349,
+"en": "My bad! I'll be back!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24350,
+"en": "Very well, but we must needs change locales.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24351,
+"en": "So, what shall we do?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24352,
+"en": "What!? Aren't you supposed to decide that?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24353,
+"en": "But I know nothing about you! How do you expect me to impart my science unto you!?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24354,
+"en": "Temper, temper, Leo-kun.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24355,
+"en": "Fine. Let us begin with a contest.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24356,
+"en": "I'm quite skilled with weapons, so I'll be armed. You can fight barehanded or with a weapon. I'll allow you to do whatever you like.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24357,
+"en": "But don't expect reimbursement if you wear out a weapon battling me. Any repairs that might be required are coming out of your pocket.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24358,
+"en": "<Color:7>Heat Actions are not available<Color:Default> in training battles. Make sure you are fully prepared as Ayanokoji is far more dangerous than he looks.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24359,
+"en": "All right, let's get started. Are you sure you're prepared?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24360,
+"en": "As ready as I'll ever be! Let's go!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24361,
+"en": "Very well. Then let the contest... begin!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24362,
+"en": "Okay, train me!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24363,
+"en": "Oh, all right, fine.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24364,
+"en": "So, what do you want to do?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24365,
+"en": "Aw, come on, not this again. It's like you don't even have a plan!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24366,
+"en": "Thankless peasant! You forget yourself! I'm giving you a choice, and yet you have the nerve to complain about it!?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24367,
+"en": "Just thought you should have a program or something. You know, like first we do this, and then that.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24368,
+"en": "This isn't some mindless course upon the internet. But I suppose it's beyond a witless peon like yourself to ascertain what you need to know.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24369,
+"en": "It's like going in circles with you. So very irksome...",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24370,
+"en": "Well, if you really want me to choose, how about a big, flashy special move?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24371,
+"en": "I should have seen that coming. Commoners are always drawn to the garish ones.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24372,
+"en": "Enough with the snarky remarks. Do you have a special move or not?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24373,
+"en": "Of course I do.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24374,
+"en": "Okay, lay it on me.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24375,
+"en": "Listen well, Shinada. Grandiose moves like that don't simply happen. They evolve out of those you use with frequency.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24376,
+"en": "That means they must come to you naturally if you ever hope to master them.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24377,
+"en": "Hey, pal, you're supposed to be the master here, so don't shirk your teaching duties.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24378,
+"en": "I've said naught of the sort. I will teach you.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24379,
+"en": "And now you doubt me? I say that I will put you through training designed to allow new techniques to come to you naturally. Can you grasp that?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24380,
+"en": "Oh, that's what you meant.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24381,
+"en": "I'll take that as a yes. Just keep that in mind as you practice.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24382,
+"en": "Okay, lay it on me!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24383,
+"en": "Very well, but somewhere with fewer common eyes.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24384,
+"en": "This time, I'll decide the content of your lesson.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24385,
+"en": "Whoa, really? Didn't see that coming!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24386,
+"en": "That's because you don't use the mush within your skull you so brazenly call a brain, witless peasant!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24387,
+"en": "Now, I shall put up an iron defense. I want you to figure out how to break through it. Understand?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24388,
+"en": "Whoa, now that sounds like real training!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24389,
+"en": "That's because it is, you dolt. Everything I do is perfect when I deign to put my mind to it.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24390,
+"en": "Of course, an iron defense ensures I suffer the least amount of pain, since you seem to be incapable of pulling your punches.",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24391,
+"en": "Well, yeah. How can I learn anything if I don't give it my all?",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24392,
+"en": "Lay some more training on me, nobleman!",
+"ctx": "diálogo uid0013031b"
+},
+{
+"id": 24393,
+"en": "Fine, peasant. I shall indulge you. But first, a change of scenery.",
+"ctx": "diálogo uid0013031b"
+}
+]

@@ -1,0 +1,897 @@
+[
+{
+"id": 26666,
+"en": "Don't turn down the offer, Kiryu-san! I can still get stronger, I know it! I'll train up more and take you on again!",
+"ctx": "diálogo uid00200023"
+},
+{
+"id": 26667,
+"en": "Come on! Give us a goal to aspire to!",
+"ctx": "diálogo uid00200023"
+},
+{
+"id": 26668,
+"en": "This isn't just for me. It's what all of the guys inspired by your strength want.",
+"ctx": "diálogo uid00200023"
+},
+{
+"id": 26669,
+"en": "You like a good challenge yourself, don't you? I know you do. I could feel it in your fists. A frenzied fight really gets your blood pumping!",
+"ctx": "diálogo uid00200023"
+},
+{
+"id": 26670,
+"en": "Heh... Fine, you win.",
+"ctx": "diálogo uid00200023"
+},
+{
+"id": 26671,
+"en": "Then you're on board!?",
+"ctx": "diálogo uid00200023"
+},
+{
+"id": 26672,
+"en": "Yeah. But keep things on the down-low in the future. My livelihood is at stake here.",
+"ctx": "diálogo uid00200023"
+},
+{
+"id": 26673,
+"en": "I wish you good luck with your battles, Kiryu-san.",
+"ctx": "diálogo uid00200023"
+},
+{
+"id": 26674,
+"en": "We're looking forward to seeing you in the Victory Road finals.",
+"ctx": "diálogo uid00200023"
+},
+{
+"id": 26675,
+"en": "Hey, you! Kazuma Kiryu!",
+"ctx": "diálogo uid00200028"
+},
+{
+"id": 26676,
+"en": "Oh, that's heartless. Don't you remember? It's me, Valery Garrett! Haven't seen you since you beat me at the Coliseum in Kamurocho.",
+"ctx": "diálogo uid00200028"
+},
+{
+"id": 26677,
+"en": "I heard you were in town, Valery. What's the trouble here?",
+"ctx": "diálogo uid00200028"
+},
+{
+"id": 26678,
+"en": "We're Victory Road contenders. This fucker was acting the fool when he went up against my friend!",
+"ctx": "diálogo uid00200028"
+},
+{
+"id": 26679,
+"en": "Hey, if I didn't hold back a little, he'd never get up again. I was just looking out for the guy. How can you call that acting the fool?",
+"ctx": "diálogo uid00200028"
+},
+{
+"id": 26680,
+"en": "We know what we're getting ourselves into! You think we're a bunch of pansies?",
+"ctx": "diálogo uid00200028"
+},
+{
+"id": 26681,
+"en": "There's just no talking sense into amateurs like you. Kazuma Kiryu, can you do something about these guys?",
+"ctx": "diálogo uid00200028"
+},
+{
+"id": 26682,
+"en": "That's not my problem.",
+"ctx": "diálogo uid00200028"
+},
+{
+"id": 26683,
+"en": "That's pretty cold, man.",
+"ctx": "diálogo uid00200028"
+},
+{
+"id": 26684,
+"en": "Just show them what you can really do.",
+"ctx": "diálogo uid00200028"
+},
+{
+"id": 26685,
+"en": "Fight someone you don't have to hold back against. Then you can really let loose.",
+"ctx": "diálogo uid00200028"
+},
+{
+"id": 26686,
+"en": "So you're saying you'll take me on? You versus Valery Garrett!?",
+"ctx": "diálogo uid00200028"
+},
+{
+"id": 26687,
+"en": "Heh... Hahaha! I like it! Good idea, Kazuma Kiryu!",
+"ctx": "diálogo uid00200028"
+},
+{
+"id": 26688,
+"en": "Think you'll need to pull punches with me?",
+"ctx": "diálogo uid00200028"
+},
+{
+"id": 26689,
+"en": "Oh, no need to worry about that. I don't have any plans of going easy!",
+"ctx": "diálogo uid00200028"
+},
+{
+"id": 26690,
+"en": "Good. I won't be holding anything back, either.",
+"ctx": "diálogo uid00200028"
+},
+{
+"id": 26691,
+"en": "Nor would I want you to! Here goes!",
+"ctx": "diálogo uid00200028"
+},
+{
+"id": 26692,
+"en": "*huff* *huff* That's how it's done, Kazuma Kiryu!",
+"ctx": "diálogo uid00200028"
+},
+{
+"id": 26693,
+"en": "Holy shit... These guys are both fucking monsters! We don't stand a chance!",
+"ctx": "diálogo uid00200028"
+},
+{
+"id": 26694,
+"en": "I guess I still haven't caught up to you yet. Every time I gain some ground, you go and get even stronger.",
+"ctx": "diálogo uid00200028"
+},
+{
+"id": 26695,
+"en": "But I'm still coming for you. And one of these days, I'll end up on top.",
+"ctx": "diálogo uid00200028"
+},
+{
+"id": 26696,
+"en": "Maybe we could even team up, huh? That could be a blast.",
+"ctx": "diálogo uid00200028"
+},
+{
+"id": 26697,
+"en": "Until next time, then.",
+"ctx": "diálogo uid00200028"
+},
+{
+"id": 26698,
+"en": "An excellent fight, Kiryu-san.",
+"ctx": "diálogo uid00200028"
+},
+{
+"id": 26699,
+"en": "I'm a tournament staff member. With this win, you have now passed the qualifiers.",
+"ctx": "diálogo uid00200028"
+},
+{
+"id": 26700,
+"en": "There is nobody else in this town who could beat you. We'll be in touch about competing in the Victory Road finals.",
+"ctx": "diálogo uid00200028"
+},
+{
+"id": 26701,
+"en": "They will be held at a place where all the strongest end up. You're already familiar with the Underground Coliseum, I believe.",
+"ctx": "diálogo uid00200028"
+},
+{
+"id": 26702,
+"en": "Go there once all finalists have been decided.",
+"ctx": "diálogo uid00200028"
+},
+{
+"id": 26703,
+"en": "And if I refuse to take part?",
+"ctx": "diálogo uid00200028"
+},
+{
+"id": 26704,
+"en": "Oh, don't worry. Fate has a way of drawing the most powerful fighters together there.",
+"ctx": "diálogo uid00200028"
+},
+{
+"id": 26705,
+"en": "I must be going for now. I look forward to seeing what you can do, Kiryu-san.",
+"ctx": "diálogo uid00200028"
+},
+{
+"id": 26706,
+"en": "Congratulations on passing the qualifiers. The Victory Road finals will be held in a certain pleasure quarter once the qualifiers in each city have been completed.",
+"ctx": "diálogo uid00200028 + diálogo uid00200036 …"
+},
+{
+"id": 26707,
+"en": "Though you have secured a place in the finals, Victory Road competitors will still challenge you in the street to test their skills. Keep fighting to stay in peak condition.",
+"ctx": "diálogo uid00200028 + diálogo uid00200036 …"
+},
+{
+"id": 26708,
+"en": "Hey, you all right? You feelin' sick?",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26709,
+"en": "Who are you? Are you competing in the qualifiers, too?",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26710,
+"en": "The name's Shirosaka. Kanta Shirosaka. I'm in the Victory Road qualifiers.",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26711,
+"en": "By the look of you, I'd say you're competing in the Victory Road, too. Am I right?",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26712,
+"en": "As you can see, I just got the shit kicked out of me. I haven't won a single bout. I just can't seem to shine when I'm up against humans.",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26713,
+"en": "I'm a hunter. I've even wrestled a bear into submission up in the mountains. I can keep up with the best when it comes to strength.",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26714,
+"en": "But I learned to fight against animals, not people, so I worry I'll get laughed at if I use my usual approach.",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26715,
+"en": "Ain't every day ya hear a story like that. Why'd ya sign up for the Victory Road, then?",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26716,
+"en": "I figured it was about time I saw the city. My dad wants me to become a hunter like him, but I'm sick of life out in the sticks!",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26717,
+"en": "Then forget about what other people think. Just be yourself and fight how ya want.",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26718,
+"en": "When it comes to fightin', ain't no such thing as city boy or country boy style.",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26719,
+"en": "You reckon?",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26720,
+"en": "Gotta be yourself when ya brawl. Otherwise it shows disrespect to the guy you're goin' up against.",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26721,
+"en": "I see. What's your name?",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26722,
+"en": "Saejima-san, huh? I feel like I've finally seen the light.",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26723,
+"en": "So it's all right to fight the way I know how to? I don't need to worry what people think?",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26724,
+"en": "Course not.",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26725,
+"en": "Then I think I'm ready for a fresh start! Yeah, I can do this!",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26726,
+"en": "Thanks, Saejima-san! Be seeing you!",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26727,
+"en": "Heh. Interesting guy. Never know who you're gonna meet on the Victory Road, I guess.",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26728,
+"en": "Long time no see. Do you remember me, Saejima-san?",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26729,
+"en": "It's Kanta Shirosaka. The hunter taking part in the Victory Road.",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26730,
+"en": "Oh yeah. That's right.",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26731,
+"en": "Thanks to your advice, I'm on a winning streak in the Victory Road qualifiers.",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26732,
+"en": "I went back to my own way of fighting. I'm a completely new man.",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26733,
+"en": "I didn't expect it'd come to this, but you're the next one I have to defeat.",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26734,
+"en": "The Victory Road is within sight. I know you really helped me out, but that's not going to stop me from doing my best to lay you out flat!",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26735,
+"en": "No way... I can beat a bear! How could I lose to a man?",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26736,
+"en": "That's how ya fight, huh? I gotta tell you, though, that wasn't really fighting. That was hunting.",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26737,
+"en": "What do you mean? You better not be mocking me. Hunting is my livelihood!",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26738,
+"en": "That ain't it. You were too eager to hunt me down. That'll only get ya so far.",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26739,
+"en": "The hell's that mean!?",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26740,
+"en": "You fight without guile, only focused on takin' down your prey with one shot. That makes ya easy to predict.",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26741,
+"en": "You'd take down a weaker foe easy, sure, but that ain't gonna fly when ya fight an equal. That's where real fighting begins.",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26742,
+"en": "I see... Seems I'll have to go back to the drawing board.",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26743,
+"en": "Well, this is the second time you've set me straight, Saejima-san. Mark my words, I won't be so easy to beat next time!",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26744,
+"en": "I'll be seeing you, Saejima-san!",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26745,
+"en": "(That oughta put him on the right track.)",
+"ctx": "diálogo uid00200034"
+},
+{
+"id": 26746,
+"en": "Who'd have thought I'd run into you on the Victory Road here, huh?",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26747,
+"en": "It's been quite a while, Saejima-san. Last time I saw you was at Sodachi Dojo.",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26748,
+"en": "Well if it ain't Tokita! How 'bout that? Thought it might be you.",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26749,
+"en": "What? Aren't you pleased to see me?",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26750,
+"en": "Oh, I get it! It must be sour grapes about getting overshadowed by your former apprentice. That's gotta suck!",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26751,
+"en": "You ain't changed a lick, I see.",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26752,
+"en": "Hah. You must mean these good looks of mine, right? Yeah. I still enjoy admiring myself every day.",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26753,
+"en": "Admirin' yourself?",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26754,
+"en": "Looking at myself in the mirror. Buck naked, usually. There's nothing quite like basking in your own glory.",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26755,
+"en": "Get to the point. Did ya stop me to brawl or not?",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26756,
+"en": "No need to be a sourpuss, Saejima. I've been training in the icy north ever since I left Sodachi Dojo, honing my strength.",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26757,
+"en": "And now I'm taking part in the Victory Road qualifiers here. I haven't lost once. Nobody can touch me!",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26758,
+"en": "Huh. Good for you.",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26759,
+"en": "What? Are you mocking me?",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26760,
+"en": "I'll admit, I used to psych myself up a bit to get me motivated.",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26761,
+"en": "But now it's different. My inner strength has finally caught up with my outer beauty.",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26762,
+"en": "And the cherry on top will be taking you down, Saejima-san.",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26763,
+"en": "Heh, you've set your sights high.",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26764,
+"en": "I know it's hard to face, but you're getting old. It's time to put you out to pasture.",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26765,
+"en": "Brace yourself! My beauty and brawn will leave you a whimpering mess!",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26766,
+"en": "Let's put that to the test then, yeah? Bring it!",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26767,
+"en": "You hit like a freight train. I had no idea you were this tough!",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26768,
+"en": "You did better than I expected, too. Ya musta trained hard.",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26769,
+"en": "Well, one punch from you snapped me out of my delusions. I can see how far I still have to go now.",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26770,
+"en": "I'll never be more beautiful than I am now, but I know I can be stronger.",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26771,
+"en": "Well fought, Saejima-san.",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26772,
+"en": "You're with the Victory Road, huh?",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26773,
+"en": "Yes, I'm supervising the tournament. With this win, you've qualified to fight in the Coliseum.",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26774,
+"en": "Nobody in this town can best you, so you've earned a place in the Victory Road finals.",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26775,
+"en": "Coliseum? Victory Road finals?",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26776,
+"en": "Indeed. They'll be held at the Underground Coliseum. I'm sure you're familiar with it.",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26777,
+"en": "We'll ask you to head there once all the competitors are decided.",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26778,
+"en": "The strongest fighters in the country all end up there sooner or later.",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26779,
+"en": "You may even meet your match there, too.",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26780,
+"en": "Looks like you beat me to the punch, so to speak, but I haven't given up yet. I'll catch up with you one day!",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26781,
+"en": "I bet I'll look glorious standing in that Coliseum with the spotlight shining down on me.",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26782,
+"en": "Heh. Yeah, yeah.",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26783,
+"en": "We'll meet again soon, Saejima. I'll see you at the Coliseum in the Victory Road finals!",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26784,
+"en": "Heh. Maybe we'll even be on the same team.",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26785,
+"en": "(Heh... I wouldn't expect any less of you, Tokita.)",
+"ctx": "diálogo uid00200036"
+},
+{
+"id": 26786,
+"en": "Dammit! I'm through with this shit.",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26787,
+"en": "Huh? What's up? You fighting in the Victory Road, too?",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26788,
+"en": "I guess you could say that. That makes you a competitor, too, huh?",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26789,
+"en": "Yeah, but I'm not looking for a fight right now. I just finished one up, so I'm beat.",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26790,
+"en": "Doesn't take much to dissuade you, huh? You're not like the other guys.",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26791,
+"en": "The name's Banba. Ryoichi Banba.",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26792,
+"en": "I'm Akiyama.",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26793,
+"en": "I didn't actually want to do this Victory Road thing. My dad signed me up for it without asking.",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26794,
+"en": "Your dad? Why'd he do that?",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26795,
+"en": "He runs a karate dojo, but lately there have been fewer people joining. He wanted to put our name out there through the Victory Road.",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26796,
+"en": "So I got stuck with doing it. Now I can't go two steps without some punk picking a fight with me.",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26797,
+"en": "Haha, you don't sound like a martial artist.",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26798,
+"en": "Well, a real martial artist doesn't seek to show off their skills.",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26799,
+"en": "All the competitors I've gone up against so far have been a piece of cake.",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26800,
+"en": "I wouldn't mind as much if the fights were more challenging, but this is getting pretty old.",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26801,
+"en": "I guess there's no point complaining to you, though. See you around.",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26802,
+"en": "(He seems pretty confident, but guys like him tend to get the rug pulled out from under them in the end.)",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26803,
+"en": "Hey, you okay?",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26804,
+"en": "Oh, it's you. Akiyama-san, right?",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26805,
+"en": "It's me, Banba. I'm doing the Victory Road thing.",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26806,
+"en": "Oh, right. You're the one who got signed up by your dad, aren't you?",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26807,
+"en": "That's right. I just got thrashed, though.",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26808,
+"en": "He was pretty tough, huh?",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26809,
+"en": "No, not at all. I just wasn't taking it seriously, and it bit me in the ass.",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26810,
+"en": "Enough of that kind of talk, Ryoichi!",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26811,
+"en": "Dad?",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26812,
+"en": "Let me tell you why I really entered you into the Victory Road.",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26813,
+"en": "Putting the dojo's name out there was just a cover. The real reason was to snap you out of this attitude of yours!",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26814,
+"en": "You do have ability, Ryoichi, but you've let it go to your head. Look at your training!",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26815,
+"en": "You're just wasting time aimlessly following lessons at the dojo.",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26816,
+"en": "You've become much weaker than you realize. Can't you see that?",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26817,
+"en": "Me? Weak? Don't be ridiculous! Did you forget I was top in the country for karate back in junior high!?",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26818,
+"en": "That's ancient history! Now you're only top in our tiny dojo, if that!",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26819,
+"en": "That's not true! I'll prove to you right now just how strong I am!",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26820,
+"en": "All right, Akiyama-san. You're signed up for the Victory Road, too, right? Then I challenge you to a fight right now!",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26821,
+"en": "I thought that might happen.",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26822,
+"en": "Sorry, man, but I'll be giving this all I've got. Here goes!",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26823,
+"en": "Shit! I can't believe this! I pulled out all the stops and still couldn't win!",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26824,
+"en": "Sorry. I guess I'm tougher than I look.",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26825,
+"en": "You're not kidding. I could tell as soon as we started. I did my best, but I lost in the end.",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26826,
+"en": "You showed me I'm still lacking, both in skill and mental strength.",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26827,
+"en": "That's got to be it.",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26828,
+"en": "Right, Dad?",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26829,
+"en": "That's it, all right.",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26830,
+"en": "Then I'd better head back to the dojo. I'll put myself through the toughest training I can imagine until I'm ready for the Victory Road!",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26831,
+"en": "Heh, sounds good.",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26832,
+"en": "Just wait, Akiyama-san! When I come back a new man, you and I are going to fight!",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26833,
+"en": "Heh. Looks like next time, my win won't be so easily won.",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26834,
+"en": "I owe you big time, Akiyama-san.",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26835,
+"en": "To tell you the truth, though, I did want him to win some recognition for the dojo. I thought my son would qualify without a problem.",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26836,
+"en": "I had no idea he'd meet as formidable a foe as you. I guess I'm just as guilty of overconfidence as he is.",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26837,
+"en": "Like father, like son, as they say.",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26838,
+"en": "Anyway, let's keep that just between the two of us.",
+"ctx": "diálogo uid0020003c"
+},
+{
+"id": 26839,
+"en": "Don't let one win go to your head! You don't even have the balls to show your face!",
+"ctx": "diálogo uid00200042"
+},
+{
+"id": 26840,
+"en": "Tch. Aren't you going to say anything, you coward?",
+"ctx": "diálogo uid00200042"
+},
+{
+"id": 26841,
+"en": "So you are fighting in Victory Road, too?",
+"ctx": "diálogo uid00200042"
+},
+{
+"id": 26842,
+"en": "Huh? Yeah, I am. Guessing that's what you're doing, then, right?",
+"ctx": "diálogo uid00200042"
+},
+{
+"id": 26843,
+"en": "My name is Hannya Kurokawa. That youth was my opponent.",
+"ctx": "diálogo uid00200042"
+},
+{
+"id": 26844,
+"en": "But it wasn't the battle that angered him.",
+"ctx": "diálogo uid00200042"
+}
+]

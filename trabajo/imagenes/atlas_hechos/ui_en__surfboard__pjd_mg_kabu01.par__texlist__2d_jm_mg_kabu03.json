@@ -1,0 +1,108 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_kabu01.par/texlist/2d_jm_mg_kabu03",
+ "fuente": "cour.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    136,
+    100,
+    159
+   ],
+   "en": "Kabufuda",
+   "es": "",
+   "fuente": "cour.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 95,
+   "dejar": true,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    105,
+    136,
+    150,
+    159
+   ],
+   "en": "On",
+   "es": "Sí",
+   "fuente": "cour.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 40,
+   "alto": 16,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    0,
+    168,
+    100,
+    191
+   ],
+   "en": "Hanafuda",
+   "es": "",
+   "fuente": "cour.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 95,
+   "dejar": true,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    105,
+    168,
+    150,
+    191
+   ],
+   "en": "Off",
+   "es": "No",
+   "fuente": "cour.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 40,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 13
+  },
+  {
+   "caja": [
+    190,
+    226,
+    272,
+    256
+   ],
+   "en": "Confirm",
+   "es": "Confirmar",
+   "fuente": "cour.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 80,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 13
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_kabu01.par/texlist/2d_yk_mg_result_asc",
+ "fuente": "times.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    15,
+    208,
+    245,
+    306
+   ],
+   "en": "Defeat",
+   "ocr": "Defeat",
+   "es": "Derrota",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 226
+  },
+  {
+   "caja": [
+    69,
+    16,
+    255,
+    94
+   ],
+   "en": "Kiryu",
+   "ocr": "Kiryu",
+   "es": "",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 182
+  },
+  {
+   "caja": [
+    8,
+    123,
+    251,
+    200
+   ],
+   "en": "Victory",
+   "ocr": "Victory",
+   "es": "Victoria",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 239
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "textura": "ui_en/surfboard/pjd_princess_muchup.par/texlist_0001/princess_muchup",
+ "fuente": "segoeuiz.ttf",
+ "margen": 6,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    184,
+    640,
+    236
+   ],
+   "en": "POP >> DANCE >> FINAL",
+   "es": "POP >> BAILE >> FINAL",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 628
+  },
+  {
+   "caja": [
+    0,
+    236,
+    384,
+    288
+   ],
+   "en": "Princess League",
+   "es": "",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 372,
+   "dejar": true
+  },
+  {
+   "caja": [
+    401,
+    240,
+    771,
+    288
+   ],
+   "en": "LIVE BATTLE",
+   "es": "BATALLA EN VIVO",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 358
+  },
+  {
+   "caja": [
+    20,
+    320,
+    320,
+    496
+   ],
+   "en": "Haruka Sawamura / DYNA CHAIR",
+   "es": "",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 288,
+   "dejar": true
+  },
+  {
+   "caja": [
+    372,
+    340,
+    700,
+    500
+   ],
+   "en": "T-SET / Osaka Talent",
+   "es": "",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 316,
+   "dejar": true
+  }
+ ]
+}

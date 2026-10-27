@@ -1,0 +1,44 @@
+{
+ "textura": "pausepar_pause_en/picture/chact/2d_jm_chact_mouko_noukudaki",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    13,
+    528,
+    463,
+    569
+   ],
+   "en": "TIGER ESSENCE OF BRAINING",
+   "ocr": "TIGER ESSENCE OF BRAINING",
+   "es": "ESENCIA DEL TIGRE: DESCALABRO",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 446
+  },
+  {
+   "caja": [
+    10,
+    597,
+    464,
+    640
+   ],
+   "en": "TIGER ESSENCE OF BRAINING",
+   "ocr": "TIGERESSENCEOFBRAINING",
+   "es": "ESENCIA DEL TIGRE: DESCALABRO",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 450,
+   "radio": 2.5,
+   "color": [
+    200,
+    25,
+    25
+   ]
+  }
+ ]
+}

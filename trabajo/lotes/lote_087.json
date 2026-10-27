@@ -1,0 +1,967 @@
+[
+{
+"id": 22414,
+"en": "I just find it strange how insistent he's being, even though you keep telling him he's got the wrong guy.",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22415,
+"en": "You gotta be kidding me! I would never do anything like that!",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22416,
+"en": "...I think you might be right, Muramatsu-san.",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22417,
+"en": "You serious!?",
+"ctx": "diálogo uid000c0dbe + diálogo uid01020765 …"
+},
+{
+"id": 22418,
+"en": "Look, Yuya, or whatever your name is. If you keep harassing us, we're going to have to call the police. You want that?",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22419,
+"en": "...Maybe I really do have the wrong guy.",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22420,
+"en": "(Sorry, Yuya!)",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22421,
+"en": "Okay then. I guess I'd better leave.",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22422,
+"en": "I'm glad you've come to your senses. That's really all I wanted. Sorry we had to get a bit forceful with you.",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22423,
+"en": "It seems he wasn't one of those crooks after all. I feel a little sorry for him now.",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22424,
+"en": "Yeah, me too.",
+"ctx": "diálogo uid000c0dbe + diálogo uid01340004 …"
+},
+{
+"id": 22425,
+"en": "Well, I should probably get going. There's always more work to do.",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22426,
+"en": "Right. Then, see you later.",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22427,
+"en": "(I feel bad about doing that to Yuya, but at least Muramatsu-san seems to have bought the act.)",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22428,
+"en": "Kiryu-san?",
+"ctx": "diálogo uid000c0dbe + diálogo uid0046005d …"
+},
+{
+"id": 22429,
+"en": "(Yuya!)",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22430,
+"en": "It is you, isn't it? There's no way I wouldn't recognize a friend.",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22431,
+"en": "I think I get what's happening. You were trying to hide your true identity from that Muramatsu guy you were with, right?",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22432,
+"en": "Heh, I wish you would've got the message a little quicker. Anyway, let's go somewhere else.",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22433,
+"en": "Oh, Kiryu-san, welcome...",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22434,
+"en": "Is something up? You seem a little flustered.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22435,
+"en": "Well, it's just that we've got some yakuza in the club right now...",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22436,
+"en": "Yakuza? Why'd you let them in?",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22437,
+"en": "The manager okayed it. It seems they're pressuring him for a payout. We're not under anybody's protection right now.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22438,
+"en": "Actually, the manager's been getting harassed about protection money for a while. He doesn't think there's any way around it.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22439,
+"en": "You don't seem too happy about that, Yuya.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22440,
+"en": "If you pay up once, there's no going back. The yakuza will prey on you forever.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22441,
+"en": "That's why I sent every yakuza looking for a payday packing when I was at Stardust.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22442,
+"en": "Why don't you do the same thing here, then?",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22443,
+"en": "Well, the manager's already decided to fork over the cash, and I'm just the new guy.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22444,
+"en": "I don't feel like it's my place to butt in.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22445,
+"en": "I see. Then I guess you've lost the pride you might've once had.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22446,
+"en": "Oof! What the hell, Kiryu-san!?",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22447,
+"en": "Sure has been a while since I last hit you. Did that refresh your memory?",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22448,
+"en": "When I first met you, you picked a fight with me out in front of Stardust, thinking I was yakuza.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22449,
+"en": "Back then, did you stop to consider your place before you came at me? Because that's not how I remember it.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22450,
+"en": "You did whatever it took to protect Stardust, even putting your life on the line. You had a fire in you that nothing could extinguish.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22451,
+"en": "Even yakuza were fair game for you if they threatened the club.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22452,
+"en": "Just think back to those times, and you'll realize how far you've fallen.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22453,
+"en": "What's it going to be, Yuya? Are you just going to stand there? Or do you want to get back what you've lost?",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22454,
+"en": "The choice is up to you.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22455,
+"en": "...Damn. You still pack a punch, Kiryu-san. Enough to knock some sense back into me, maybe. Yeah, I remember how I used to be...",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22456,
+"en": "Good. So how many yakuza are in the club right now?",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22457,
+"en": "Six. Seems like they came in numbers today to scare the manager into coughing up the cash.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22458,
+"en": "That could be problematic. Too many for you to take on?",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22459,
+"en": "Heheh, don't write me off just yet. I may have lost heart, but I still got plenty of heat. These guys are goin' down!",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22460,
+"en": "Looks like they already got what they came for.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22461,
+"en": "So... I guess that's that, then!",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22462,
+"en": "Yeah! We got your back now. You need anything at all, just come straight to us!",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22463,
+"en": "Okay... Thank you.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22464,
+"en": "Oh, Kazuki-kun. Our guests are leaving. See them out for me, will you?",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22465,
+"en": "Before that, I'll be taking back the money you gave these assholes.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22466,
+"en": "Huh? What are you saying!?",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22467,
+"en": "Kazuki-kun...!?",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22468,
+"en": "Who's this little punk think he is?",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22469,
+"en": "I won't say it again. This club isn't about to get shaken down by the likes of you!",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22470,
+"en": "Heheh. Big talk for a water boy. This place is under our protection now.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22471,
+"en": "Better stop runnin' your mouth and start showin' some respect, ya little dipshit!",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22472,
+"en": "You know what, Yuya? I think I'm going to step in after all. Got nothing better to do. How about you take five, and I take the other one?",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22473,
+"en": "Fine by me. Just don't complain if I end up beating them all down myself.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22474,
+"en": "Heh. No need to go getting greedy.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22475,
+"en": "Quit your posturing and put up your goddamn fists! Not that\nthey'll do ya much good while we're poundin' ya into the\nsidewalk!",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22476,
+"en": "Kiryu-san! Did you get my email?",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22477,
+"en": "I did. So you're really starting over, Yuya?",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22478,
+"en": "Yep. I'm doing whatever it takes to get the old me back.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22479,
+"en": "I thought waiter work at a cabaret club would be pretty tough, but it's not that bad at all.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22480,
+"en": "No matter what the job, once you have the experience of working your way up, you never forget the basics. That's why it's easy for you.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22481,
+"en": "Makes sense... It's strange, y'know. How feeling needed really motivates you.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22482,
+"en": "I haven't felt like this for a while.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22483,
+"en": "Hey, are you goofing off out here?",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22484,
+"en": "I could say the same about you. Haha, what's up, Momoka?",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22485,
+"en": "Oh, nothing. Just came to check up on you, Kazuki-kun.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22486,
+"en": "\"Kazuki\"?",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22487,
+"en": "Yeah... That's the name I go by here. Just run with it, \"Suzuki-san.\"",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22488,
+"en": "Heh. Fine.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22489,
+"en": "So, who's your buddy?",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22490,
+"en": "Suzuki-san here is an old friend who helped me out a lot back in the day.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22491,
+"en": "Oh yeah? Well, I guess I should tell you, Suzuki-san, I've\ngot my sights set on your old friend Kazuki-kun's heart.\nHe's a real sweetie pie, you know! ♪",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22492,
+"en": "Whoa, slow down there.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22493,
+"en": "Heh. I see you didn't waste any time blending in.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22494,
+"en": "Even though Kazuki-kun's new here, he seems to know the job like the back of his hand. All the girls love him!",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22495,
+"en": "He handles the drunks like a pro, and he gives us great advice on how to treat customers.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22496,
+"en": "Our manager really relies on him, too.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22497,
+"en": "Hey, shouldn't you be getting back to work?",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22498,
+"en": "Yeah, yeah. Hope I didn't interrupt you, Suzuki-san! Though, if you want to come back with me, you're more than welcome!",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22499,
+"en": "...Sorry about that.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22500,
+"en": "Don't worry. But, after seeing that, I have to wonder if you'll ever go back to Kamurocho.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22501,
+"en": "Ah, I don't even want to think about that just yet... I just can't seem to make up my mind.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22502,
+"en": "But when I finally do, I'll be sure to get in touch with Kazuki-san and the rest of the club.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22503,
+"en": "I see. I guess it's really none of my business.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22504,
+"en": "Don't be like that. I appreciate your concern.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22505,
+"en": "Well, I'll stop by again sometime. Keep your chin up, Yuya.",
+"ctx": "diálogo uid000c0dc4"
+},
+{
+"id": 22506,
+"en": "I will. Thank you!",
+"ctx": "diálogo uid000c0dc4 + diálogo uid01020bda"
+},
+{
+"id": 22507,
+"en": "Come on, Suzuki-san. Give Hors d'Oeuvre Morosawa his swan song. You're the only one who can pull this off!",
+"ctx": "diálogo uid000c0dc8"
+},
+{
+"id": 22508,
+"en": "(I wish I could help out. But I can't set foot in the ring without something to hide my face.)",
+"ctx": "diálogo uid000c0dc8"
+},
+{
+"id": 22509,
+"en": "(Maybe I'll find something back at my apartment.)",
+"ctx": "diálogo uid000c0dc8"
+},
+{
+"id": 22510,
+"en": "Huh? You got a problem? Quit staring at me!",
+"ctx": "diálogo uid000c0dc8"
+},
+{
+"id": 22511,
+"en": "(He's pretty drunk.)",
+"ctx": "diálogo uid000c0dc8"
+},
+{
+"id": 22512,
+"en": "What the hell're you looking at!?",
+"ctx": "diálogo uid000c0dc8"
+},
+{
+"id": 22513,
+"en": "You're talking to the great Hors d'Oeuvre Morosawa! Still want to pick a fight with me!?",
+"ctx": "diálogo uid000c0dc8"
+},
+{
+"id": 22514,
+"en": "You... named yourself after an appetizer?",
+"ctx": "diálogo uid000c0dc8"
+},
+{
+"id": 22515,
+"en": "You're goddamn right! And I'm not putting up with any lip from a little shit like you!",
+"ctx": "diálogo uid000c0dc8"
+},
+{
+"id": 22516,
+"en": "Kiryu-san! You're back in town!",
+"ctx": "diálogo uid000c0dd5"
+},
+{
+"id": 22517,
+"en": "Yeah. Everything going all right with you, Yuya?",
+"ctx": "diálogo uid000c0dd5"
+},
+{
+"id": 22518,
+"en": "Oh yeah, totally. Sorry again for the trouble back in Nagasu.",
+"ctx": "diálogo uid000c0dd5"
+},
+{
+"id": 22519,
+"en": "Are you gonna stay here for good now?",
+"ctx": "diálogo uid000c0dd5"
+},
+{
+"id": 22520,
+"en": "No, I don't know how things are going to pan out. I just came to see how you were doing.",
+"ctx": "diálogo uid000c0dd5"
+},
+{
+"id": 22521,
+"en": "I was worried you might have gone off on another one of those soul-searching trips.",
+"ctx": "diálogo uid000c0dd5"
+},
+{
+"id": 22522,
+"en": "Oh, come on, Kiryu-san. You promised you wouldn't bring that up anymore.",
+"ctx": "diálogo uid000c0dd5"
+},
+{
+"id": 22523,
+"en": "Heh, right. Anyway, I'm glad to see you doing well. Look after the place, okay?",
+"ctx": "diálogo uid000c0dd5"
+},
+{
+"id": 22524,
+"en": "You bet!",
+"ctx": "diálogo uid000c0dd5 + diálogo uid016901f9"
+},
+{
+"id": 22525,
+"en": "Oh, hi, Ta-chan! Let me see you bat.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22526,
+"en": "Those were some delicious wings, huh, Ta-chan?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22527,
+"en": "Yeah, they were pretty good. I had a lot of fun, too. Now I know why your jaw was hurting so much.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22528,
+"en": "Hehehe. That's the first time someone has made that misunderstanding.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22529,
+"en": "Hey, I already said I was sorry.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22530,
+"en": "Okay! I have to get back to work now.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22531,
+"en": "Uh, were you downing beers during work, Mi-chan?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22532,
+"en": "Wow! You did it, Ta-chan. You're the man!",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22533,
+"en": "Yes! Now I get a chicken wings date with you. And it's your treat! Woohoo!",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22534,
+"en": "Yup, I got it. I can't wait to bite into some wings. Let's go right now!",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22535,
+"en": "(Now, what to do...)",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22536,
+"en": "Hi, Mi-chan, how's it going?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22537,
+"en": "Oh, hi, Ta-chan. Would you like to take the challenge for our chicken wings date?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22538,
+"en": "The rules are the same as before. If you can hit all five pitches, you win!",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22539,
+"en": "Of course I'll do it. A date with you is on the line.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22540,
+"en": "Haha. Okay, Ta-chan. Let's see you bat.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22541,
+"en": "No, maybe another time.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22542,
+"en": "Oh, okay. I'll hold you to that, Ta-chan.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22543,
+"en": "Ooh, too bad! The chicken wings will have to wait, Ta-chan.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22544,
+"en": "Five hits on five pitches. It's tougher than I was expecting.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22545,
+"en": "(What to do?)",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22546,
+"en": "Oh, hi, Ta-chan! I was waiting for you!",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22547,
+"en": "Is that right? When I hear that from a young cutie like you, it sets my heart racing.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22548,
+"en": "Oh? Ta-chan, are you falling for me?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22549,
+"en": "Aww, Mi-chan, you're so darned cute. Especially compared to that old lady who was here before.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22550,
+"en": "Excuse me? Can you not compare me to some old coot? I'm only 23, you know.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22551,
+"en": "(Mi-chan's 23? Poor girl, already saddled with debt and working it off at some sleazy bathhouse.)",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22552,
+"en": "Listen, Ta-chan, we should have another bet.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22553,
+"en": "Are we betting over another homemade lunch?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22554,
+"en": "No, not this time. You know Sekai no Yamachan? The chicken wings place?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22555,
+"en": "If you can beat my challenge, how about I treat you to a meal there?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22556,
+"en": "That sounds awesome! But are you sure? You got it rough with your debt and all.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22557,
+"en": "Well, even a broke girl wants to eat something tasty sometimes, y'know?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22558,
+"en": "I love chicken wings, but it's too lonely to go eat by myself. I thought I could go with you!",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22559,
+"en": "If that's the case, forget the challenge and let's just go.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22560,
+"en": "We can, but I wouldn't be able to treat you then. Of course, if you're willing to pay, then we can totally go, hell, even tonight!",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22561,
+"en": "I mean, if I had money, then sure, but... Yeah.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22562,
+"en": "Well, then, you have to take my challenge. Besides, I like watching you bat, Ta-chan.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22563,
+"en": "Is that right? You're gonna make me blush. Okay, lay it on me. What's the challenge this time?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22564,
+"en": "How about five pitches again, but you have to hit all of them?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22565,
+"en": "Hmm, okay. If I blow even one, I lose.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22566,
+"en": "Is it too tough for even the mighty Ta-chan?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22567,
+"en": "Oh, no, there's a date with a pretty girl and some free chicken wings riding on this. It's definitely worth the effort.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22568,
+"en": "That's what I think. I can't wait to go get some wings with you, Ta-chan!",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22569,
+"en": "You can count on me. Let's get this show on the road.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22570,
+"en": "Are you going to bat today?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22571,
+"en": "Wow, that was awesome. I thought it might be a tough challenge, but there's no beating you, Ta-chan!",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22572,
+"en": "Heh, it was a piece of cake.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22573,
+"en": "Okay, I promised you something special, right?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22574,
+"en": "Here we go. What is it?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22575,
+"en": "It's... Mi-chan's special homemade lunch!",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22576,
+"en": "Huh? Homemade? Mi-chan, you can actually cook?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22577,
+"en": "What do you mean by that? I'm a good cook! Why is that such a surprise!?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22578,
+"en": "Uh, right. I mean, considering how you act and all... Never mind.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22579,
+"en": "(This girl's working at a sleazy bathhouse to pay off a debt... but I guess there's more to her than I thought.)",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22580,
+"en": "Trust me! It's really good. Go ahead, try it!",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22581,
+"en": "Okay, I'll do that.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22582,
+"en": "...Whoa!",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22583,
+"en": "Well, Ta-chan? How is it?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22584,
+"en": "Aww, this is delicious! Seriously, this is good stuff. It's a pleasant surprise, I can tell you that.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22585,
+"en": "See? I told you. That's a relief, though. I'd have been real embarrassed if you didn't like it.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22586,
+"en": "Hold on, Mi-chan... Did you make this lunch just for me?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22587,
+"en": "Oh, no. I just made an extra one this morning.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22588,
+"en": "Oh, uh, right, okay. But hey, it sure made me happy. Thanks, Mi-chan!",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22589,
+"en": "Haha, it was fun having this bet with you. We should do something like this again! I'm pretty bored around here, you know.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22590,
+"en": "Oh, hi, Ta-chan. Want to take another stab at our bet?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22591,
+"en": "If you can hit two home runs out of five, I'll give you something real special! Wanna give it another go?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22592,
+"en": "Of course I'll take the challenge. This time, I'm taking it seriously.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22593,
+"en": "Oh, no. Too bad. I guess two home runs out of five pitches is too tall of an order, huh...",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22594,
+"en": "Gah! I guess I'm not getting that special something...",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22595,
+"en": "Oh? What's up? Let me guess, you were waiting for me to swing by, yeah?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22596,
+"en": "That's exactly it. Listen, Ta-chan, we should have another bet like before.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22597,
+"en": "Sure. What are we betting on today?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22598,
+"en": "If you win, I'll give you something special. But I won't tell you what it is until you win. Fun, right?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22599,
+"en": "Okay. That means I can keep trying until I win. So what do I have to do?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22600,
+"en": "Let's give you five pitches. If you can hit two home runs, you win. Does that sound fair?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22601,
+"en": "And there's no penalty if I fail, right?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22602,
+"en": "Yup. We good, then? Let's do this!",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22603,
+"en": "Oh, hi, Ta-chan. Did you get my Bento Lunch Set?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22604,
+"en": "Uh, no, not yet.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22605,
+"en": "Oh, no, really? I'm starving.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22606,
+"en": "Sorry, sorry. I'll scoot off to the convenience store and get your Bento Lunch Set.",
+"ctx": "diálogo uid000c0dda"
+}
+]

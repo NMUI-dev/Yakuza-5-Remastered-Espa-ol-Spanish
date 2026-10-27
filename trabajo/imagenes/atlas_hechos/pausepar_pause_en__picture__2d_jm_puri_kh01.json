@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_kh01",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    20,
+    154,
+    492,
+    254
+   ],
+   "en": "Come at me <3 if you want to die!",
+   "ocr": "Comeatmey fepoguemnorm",
+   "es": "¡Ven por mí si quieres morir!",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 472
+  }
+ ]
+}

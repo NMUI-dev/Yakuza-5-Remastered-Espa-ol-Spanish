@@ -1,0 +1,41 @@
+{
+ "textura": "pausepar_pause_en/picture/takara/2d_jm_takarad_02",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    71,
+    147,
+    196,
+    170
+   ],
+   "en": "How many telephones",
+   "ocr": "How many telephon",
+   "es": "Muchos teléfonos",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 125,
+   "dejar": true
+  },
+  {
+   "caja": [
+    68,
+    163,
+    195,
+    183
+   ],
+   "en": "Each booth counts, eve",
+   "ocr": "Each booth coumts,eve",
+   "es": "Cada cabina suma Aciertos, cada",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 127,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: lo hace el PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

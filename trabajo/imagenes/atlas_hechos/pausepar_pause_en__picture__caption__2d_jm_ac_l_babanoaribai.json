@@ -1,0 +1,37 @@
+{
+ "textura": "pausepar_pause_en/picture/caption/2d_jm_ac_l_babanoaribai",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    344,
+    24,
+    687,
+    108
+   ],
+   "en": "VERIFY",
+   "ocr": "VERIFY BABASALIBI",
+   "es": "VERIFICA",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "alto": 60
+  },
+  {
+   "caja": [
+    184,
+    108,
+    843,
+    238
+   ],
+   "en": "BABA'S ALIBI",
+   "ocr": "VERIFY BABASALIBI",
+   "es": "LA COARTADA DE BABA",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro"
+  }
+ ]
+}

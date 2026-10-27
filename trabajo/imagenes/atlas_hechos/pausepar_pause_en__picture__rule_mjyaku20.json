@@ -1,0 +1,162 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_mjyaku20",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    445,
+    6,
+    579,
+    47
+   ],
+   "en": "Mahjong",
+   "ocr": "Mahjong",
+   "es": "Mahjong",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 130,
+   "dejar": true
+  },
+  {
+   "caja": [
+    48,
+    83,
+    437,
+    117
+   ],
+   "en": "Scoring Elements (Limit Hands)",
+   "ocr": "· Scoring Elements (Limit Hands)",
+   "es": "Elementos de Puntuación (Manos limitadas)",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 385,
+   "dejar": true
+  },
+  {
+   "caja": [
+    118,
+    138,
+    418,
+    169
+   ],
+   "en": "Heavenly Hand (Tenhou):",
+   "ocr": "Heavenly Hand (Tenhou):",
+   "es": "Mano celestial (Tenhou):",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 296,
+   "dejar": true
+  },
+  {
+   "caja": [
+    118,
+    170,
+    776,
+    201
+   ],
+   "en": "The dealer has a completed hand with his initial 14 tiles.",
+   "ocr": "The dealer has a completed hand with his initial 14 tiles.",
+   "es": "El Crupier ya ha Completado una mano con sus 14 fichas iniciales.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 654,
+   "dejar": true
+  },
+  {
+   "caja": [
+    119,
+    234,
+    395,
+    265
+   ],
+   "en": "Earthly Hand (Chiihou):",
+   "ocr": "Earthly Hand (Chiihou):",
+   "es": "Mano terrenal (Chiihou):",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 272,
+   "dejar": true
+  },
+  {
+   "caja": [
+    118,
+    266,
+    906,
+    297
+   ],
+   "en": "A non-dealer completes a hand on his first draw, but only if another",
+   "ocr": "A non-dealer completes a hand on his first draw, but only if another",
+   "es": "Un Jugador que no sea el Crupier completa una mano en su primer Empate, pero solo si otro Jugador ya pasó esa ficha.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 784,
+   "dejar": true
+  },
+  {
+   "caja": [
+    119,
+    297,
+    505,
+    331
+   ],
+   "en": "player has not claimed a discard.",
+   "ocr": "player has not claimed a discard.",
+   "es": "El Jugador no ha reclamado ningún descarte.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 382,
+   "dejar": true
+  },
+  {
+   "caja": [
+    117,
+    361,
+    484,
+    392
+   ],
+   "en": "Natural Limit (Kazoe Yakuman):",
+   "ocr": "Natural Limit (Kazoe Yakuman):",
+   "es": "Límite natural (Kazoe Yakuman):",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 363,
+   "dejar": true
+  },
+  {
+   "caja": [
+    117,
+    428,
+    192,
+    457
+   ],
+   "en": "more.",
+   "ocr": "more.",
+   "es": "más.",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 71,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: lo hace el PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

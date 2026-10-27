@@ -1,0 +1,23 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_ramen.par/texlist/2d_yk_ramen01",
+ "fuente": "georgiaz.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    11,
+    4,
+    337,
+    117
+   ],
+   "en": "Start!",
+   "ocr": "Start!",
+   "es": "¡Ya!",
+   "fuente": "timesbi.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 322
+  }
+ ]
+}

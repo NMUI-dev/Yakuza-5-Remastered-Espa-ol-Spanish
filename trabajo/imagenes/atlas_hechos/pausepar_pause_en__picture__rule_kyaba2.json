@@ -1,0 +1,366 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_kyaba2",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    453,
+    7,
+    574,
+    46
+   ],
+   "en": "Cabaret",
+   "ocr": "Cabaret",
+   "es": "Cabaret",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 117,
+   "dejar": true
+  },
+  {
+   "caja": [
+    35,
+    62,
+    505,
+    100
+   ],
+   "en": "Using Your Free Time Wisely (1)",
+   "ocr": "· Using Your Free Time Wisely (1)",
+   "es": "Usar sabiamente tu TIEMPO Gratis (1)",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 466,
+   "dejar": true
+  },
+  {
+   "caja": [
+    64,
+    108,
+    1015,
+    142
+   ],
+   "en": "During lulls in the conversation, you will have a short time to do as you please.",
+   "ocr": "During lulls in the conversation, you will have a short time to do as you please.",
+   "es": "Durante las pausas en la conversación, tendrás un breve TIEMPO para hacer lo que desees.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 947,
+   "dejar": true
+  },
+  {
+   "caja": [
+    63,
+    138,
+    644,
+    173
+   ],
+   "en": "Be proactive and get a good atmosphere going.",
+   "ocr": "Be proactive and get a good atmosphere going.",
+   "es": "Sé proactivo y genera un ambiente Bueno.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 577,
+   "dejar": true
+  },
+  {
+   "caja": [
+    768,
+    169,
+    950,
+    191
+   ],
+   "en": "Choose a Subject to Talk About",
+   "ocr": "Choosea Subject to TalkAbout",
+   "es": "Elige un tema de conversación",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 178,
+   "dejar": true
+  },
+  {
+   "caja": [
+    53,
+    192,
+    251,
+    228
+   ],
+   "en": "Bring up a topic",
+   "ocr": "Bring up a topic",
+   "es": "Plantea un tema.",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 194,
+   "dejar": true
+  },
+  {
+   "caja": [
+    768,
+    190,
+    863,
+    215
+   ],
+   "en": "Ask a Question",
+   "ocr": "AskaQuestion",
+   "es": "Hacer una pregunta",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 91,
+   "dejar": true
+  },
+  {
+   "caja": [
+    773,
+    213,
+    917,
+    235
+   ],
+   "en": "Make an Additional Order",
+   "ocr": "Make an Additional Order",
+   "es": "Hacer un pedido adicional",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 140,
+   "dejar": true
+  },
+  {
+   "caja": [
+    62,
+    223,
+    617,
+    261
+   ],
+   "en": "Don't just let the hostesses do all the talking,",
+   "ocr": "Don't just let the hostesses do all the talking.",
+   "es": "No dejes que las Anfitrionas se encarguen de toda la conversación.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 551,
+   "dejar": true
+  },
+  {
+   "caja": [
+    768,
+    235,
+    841,
+    258
+   ],
+   "en": "Give a Gift",
+   "ocr": "GiveaGift",
+   "es": "Dar un regalo",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 69,
+   "dejar": true
+  },
+  {
+   "caja": [
+    62,
+    255,
+    533,
+    289
+   ],
+   "en": "offer up something new now and then.",
+   "ocr": "offer up something new now and then.",
+   "es": "Ofrece algo nuevo de vez en cuando.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 467,
+   "dejar": true
+  },
+  {
+   "caja": [
+    768,
+    257,
+    867,
+    281
+   ],
+   "en": "Invite to a Date",
+   "ocr": "InvitetoaDate",
+   "es": "Invitar a una cita",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 95,
+   "dejar": true
+  },
+  {
+   "caja": [
+    775,
+    281,
+    813,
+    302
+   ],
+   "en": "Leave",
+   "ocr": "Leave",
+   "es": "Irse",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 34,
+   "dejar": true
+  },
+  {
+   "caja": [
+    53,
+    294,
+    238,
+    328
+   ],
+   "en": "Ask a question",
+   "ocr": "Ask a question",
+   "es": "Hacer una pregunta",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 181,
+   "dejar": true
+  },
+  {
+   "caja": [
+    64,
+    327,
+    580,
+    358
+   ],
+   "en": "Bounce some questions off the hostesses.",
+   "ocr": "Bouncesome questions off thehostesses.",
+   "es": "Lanza algunas preguntas a las Anfitrionas.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 512,
+   "dejar": true
+  },
+  {
+   "caja": [
+    768,
+    318,
+    817,
+    338
+   ],
+   "en": "Confirm",
+   "ocr": "Confirm",
+   "es": "Confirmar",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 45,
+   "dejar": true
+  },
+  {
+   "caja": [
+    823,
+    318,
+    859,
+    339
+   ],
+   "en": "Back",
+   "ocr": "Back",
+   "es": "Atrás",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 32,
+   "dejar": true
+  },
+  {
+   "caja": [
+    62,
+    356,
+    674,
+    389
+   ],
+   "en": "You can ask about something you're interested in,",
+   "ocr": "You can ask about something you're interested in,",
+   "es": "Puedes preguntar sobre algo que te interesa.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 608,
+   "dejar": true
+  },
+  {
+   "caja": [
+    64,
+    389,
+    634,
+    418
+   ],
+   "en": "or maybe find out what kind of things they like.",
+   "ocr": "or maybe find outwhat kind of things they like.",
+   "es": "O quizá puedes averiguar qué tipo de cosas les gustan.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 566,
+   "dejar": true
+  },
+  {
+   "caja": [
+    54,
+    427,
+    327,
+    459
+   ],
+   "en": "Order something extra",
+   "ocr": "Order something extra",
+   "es": "Haz un Pedido de algo EXTRA.",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 269,
+   "dejar": true
+  },
+  {
+   "caja": [
+    64,
+    458,
+    521,
+    489
+   ],
+   "en": "Get some food to go with your drinks.",
+   "ocr": "Get some food to go with your drinks.",
+   "es": "Consigue algo de comida para ir con tus bebidas.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 453,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: lo hace el PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

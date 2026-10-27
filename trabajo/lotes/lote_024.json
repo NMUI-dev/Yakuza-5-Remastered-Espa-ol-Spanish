@@ -1,0 +1,1617 @@
+[
+{
+"id": 7424,
+"en": "It's a post inviting batters to duel for cash.\nIs this even legal?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7425,
+"en": "Someone wants a pro player's advice. It\ndoesn't go into details, though. Maybe a coaching job?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7426,
+"en": "There's a campaign going for a new pitching\nmachine. I could win a spectacular prize!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7427,
+"en": "Someone wants leads on baseball-related stories.\nMaybe a reporter from some sports magazine.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7428,
+"en": "It's a message to me. Is this handwriting... Kurosaki's?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7429,
+"en": "It's a message to me. It's written by...\nYeah, Shirakawa. No doubt about it.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7430,
+"en": "I beat Shirakawa, but with Kurosaki involved\ntoo, things could get ugly.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7431,
+"en": "Takamine used an emery ball to cheat. He was\nsent by Shirakawa to test me.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7432,
+"en": "Michio chose his own dream and refused to pay\nKurosaki's bribe to get into that high school.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7433,
+"en": "The 145 kph course was Shirakawa's doing. It\nwas another test for me.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7434,
+"en": "Asada, the reporter, believed in my innocence.\nHe was sent in by Kurosaki, too.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7435,
+"en": "I finally settled things with Kurosaki. I hope\nhe'll let the past stay in the past.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7436,
+"en": "I put an end to the twenty-year quarrel with Shirakawa.\nBet we'll be back to our old friendship in no time.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7437,
+"en": "Opponent Wanted!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7438,
+"en": "Awesome Batter Sought",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7439,
+"en": "Get Our Field Back!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7440,
+"en": "My Miracle Pitch",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7441,
+"en": "My New Miracle Pitch",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7442,
+"en": "My Trump Card",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7443,
+"en": "Request to Users",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7444,
+"en": "Beware of Beanballs",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7445,
+"en": "I Want to be a Pro!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7446,
+"en": "Don't Look for Me",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7447,
+"en": "Drinking Pal Wanted",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7448,
+"en": "Your Sign is Next!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7449,
+"en": "A Foul Demonstration",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7450,
+"en": "Critical Surgery",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7451,
+"en": "Koshien in Spring",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7452,
+"en": "To Shinada",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7453,
+"en": "\"Opponent Wanted. Anyone welcome! Please accept my challenge.\" Wonder what this is about?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7454,
+"en": "\"I am looking for the awesome batter mentioned in Kotetsu's blog.\" Is that me? (No retry.)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7455,
+"en": "\"Batter wanted to beat former pro pitcher.\" Huh, what's this about a field? (No retry.)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7456,
+"en": "\"Someone try to hit my miracle pitch.\" Looks like a little kid wrote this.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7457,
+"en": "It's from that miracle pitch kid, Kenta. He's a brat, but his pitching is unreal.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7458,
+"en": "This must be from that miracle pitch kid, Kenta. He has to ease up or he'll hurt himself.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7459,
+"en": "\"Please don't damage or misuse equipment such as bats.\" What kind of idiot does that?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7460,
+"en": "\"The Beanball Bully is loose! He hurt me and others. Watch out!\" What is this?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7461,
+"en": "\"I'm going to turn pro no matter what!\" It's written over and over. Some high school kid?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7462,
+"en": "This is from Kyuma, that guy who's adamant about turning pro. He said he was off to train, but...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7463,
+"en": "\"Let's share drinks while talking baseball.\" That sounds pretty interesting.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7464,
+"en": "\"I'm coming to take your sign. Love, the batting center challenger.\" What's this now?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7465,
+"en": "\"I don't know how to cut fouls off pitches.\" It does take a certain kind of technique, I guess.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7466,
+"en": "\"I'm too scared to go in for surgery.\" Is this person hurt? I wish I could encourage them.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7467,
+"en": "\"Go for it, Kinei High! Koshien is within sight this spring!\" Well, good for them.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7468,
+"en": "\"Shinada. I'm looking forward to seeing you.\" It's for me? I wonder who left this. (No retry.)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7469,
+"en": "The guy was all talk. It's that blogger named Kotetsu who has me worried. ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7470,
+"en": "Yukina was such a fox. Who would've thought she was that banker's mistress?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7471,
+"en": "Bringing a former pro to a sandlot game is just dirty. Glad that's over with.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7472,
+"en": "That kid actually had a miracle pitch. Even pros don't throw a curve that wicked.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7473,
+"en": "The kid throws a ridiculous forkball. Even the majors don't have anyone throwing those.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7474,
+"en": "A disappearing fastball? That kid throws stuff you only see in cartoons.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7475,
+"en": "It takes a certain kind of idiot to abuse a bat. They even fought me over it, the dummies.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7476,
+"en": "A pitcher that can only throw beanballs. Now I've seen everything.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7477,
+"en": "I showed Kyuma how tough pros can be. But somehow, I don't think the lesson's sunk in.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7478,
+"en": "I showed Kyuma how tough pros can be again. He says he'll change course. Here's to hoping.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7479,
+"en": "That guy was a nasty drunk. If he doesn't tone down his drinking, he'll ruin his health.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7480,
+"en": "Is there any joy in collecting batting center signs? He said he was going away to train.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7481,
+"en": "I showed a high school kid how to cut fouls. I hope it helps improve his technique.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7482,
+"en": "I gave the kid courage to get surgery. I didn't realize it was for that bit of anatomy, though.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7483,
+"en": "Mikasa's arm was okay. I expect him to be a star at the spring nationals in Koshien.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7484,
+"en": "It was Ashida, my former batting pitcher. He's a great guy who was always on my side.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7485,
+"en": "Course",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7486,
+"en": "Points",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7487,
+"en": "Total Distance",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7488,
+"en": "Consecutive HR",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7489,
+"en": "Challenge",
+"ctx": "menú/texto string_tbl + tabla ultimate|CATEGORY"
+},
+{
+"id": 7490,
+"en": "Sawada",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7491,
+"en": "Professional",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7492,
+"en": "Main Missions: %d cleared",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7493,
+"en": "Sub Missions: %d/%d",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7494,
+"en": "Complete ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7495,
+"en": "Score %s pts to clear",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7496,
+"en": "Achieve a distance of %s m to clear",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7497,
+"en": "Complete %s missions",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7498,
+"en": "Use Heat Eye",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7499,
+"en": "Retry",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7500,
+"en": "Retry the mission.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7501,
+"en": "Quit the mission with a failure.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7502,
+"en": "Quit the mission with a failure.\nYou cannot retry this mission.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7503,
+"en": "Return to the Office",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7504,
+"en": "The mission will result in a failure, and you will not be able to retry. Are you sure?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7505,
+"en": "Accept a mission.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7506,
+"en": "Customize taxi.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7507,
+"en": "All Missions Completed",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7508,
+"en": "Tuning",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7509,
+"en": "Change Tires",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7510,
+"en": "Change Turbo",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7511,
+"en": "Change Chassis",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7512,
+"en": "Change Wheels",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7513,
+"en": "Change Body Color",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7514,
+"en": "Change Decals",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7515,
+"en": "Select Music",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7516,
+"en": "Mod your vehicle to improve its performance.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7517,
+"en": "Change tire type.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7518,
+"en": "Change turbo type.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7519,
+"en": "Change chassis type.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7520,
+"en": "Change wheels.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7521,
+"en": "Change vehicle color.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7522,
+"en": "Change decals on vehicle.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7523,
+"en": "Change race music.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7524,
+"en": "Purchase with points?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7525,
+"en": "Mission Contents",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7526,
+"en": "Beginner (1 Lap)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7527,
+"en": "Beginner (2 Laps)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7528,
+"en": "Beginner (1 Lap) → Intermediate (1 Lap)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7529,
+"en": "Intermediate (2 Laps)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7530,
+"en": "Intermediate (1 Lap) → Advanced (1 Lap)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7531,
+"en": "Advanced (2 Laps)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7532,
+"en": "Advanced (3 Laps)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7533,
+"en": "Rookie Driver",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7534,
+"en": "Expert Driver",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7535,
+"en": "Speed Demon",
+"ctx": "menú/texto string_tbl + tabla NagoyaCochinBirdEnemy|NAME"
+},
+{
+"id": 7536,
+"en": "Nagasu Speed King",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7537,
+"en": "Ultimate Driver",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7538,
+"en": "Taxi Legend",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7539,
+"en": "Driver Level",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7540,
+"en": "Next Level",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7541,
+"en": "Tires",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7542,
+"en": "Speed",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7543,
+"en": "Acceleration",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7544,
+"en": "Handling",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7545,
+"en": "Level %d",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7546,
+"en": "Level %s",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7547,
+"en": "Normal Tires",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7548,
+"en": "Pure Sport",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7549,
+"en": "Semi-Racing",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7550,
+"en": "<Sign:48>",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7551,
+"en": "<Sign:49>",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7552,
+"en": "<Sign:50>",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7553,
+"en": "<Sign:51>",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7554,
+"en": "<Sign:47>",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7555,
+"en": "Signal",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7556,
+"en": "No Entry",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7557,
+"en": "Stop Sign",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7558,
+"en": "Pedestrian!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7559,
+"en": "Destination",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7560,
+"en": "Course %s\nBest Time: %s",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7561,
+"en": "Take on this job?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7562,
+"en": "Select difficulty level.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7563,
+"en": "New jobs were added to your list!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7564,
+"en": "Easy",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7565,
+"en": "Horie",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7566,
+"en": "Yamaura",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7567,
+"en": "Look at the schedule board to see a list of jobs that are currently \navailable. Select a job from this list in order to take it on.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7568,
+"en": "There is a wide variety of jobs. There will be more jobs and job \ntypes as the game progresses.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7569,
+"en": "Taking on jobs improves Haruka's idol abilities, so try to take on \nas many different jobs as you can.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7570,
+"en": "When you complete jobs, the agency will deposit your wages \ninto your account.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7571,
+"en": "You can withdraw your wages at a convenience store ATM.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7572,
+"en": "Head to a convenience store whenever you need money.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7573,
+"en": "Okay, let's check out the schedule.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7574,
+"en": "You have two things on the board today.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7575,
+"en": "The big event, of course, is the Princess League finals at Soten TV \nin the afternoon.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7576,
+"en": "And in the morning, you have a handshake event sponsored by \nthe fan club.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7577,
+"en": "Your lessons are important, naturally, but these kinds of \nactivities are vital too, so keep plugging away at them.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7578,
+"en": "Okay. Let's head to the handshake event now.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7579,
+"en": "Select Handshake Event from the list.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7580,
+"en": "Sorry to hurry you, Haruka-chan,\nbut could you head out to that civic event?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7581,
+"en": "The Princess League event isn't until this\nafternoon. Let's go to the handshake event\nnow.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7582,
+"en": "We don't have much time, Haruka-chan. Let's go the handshake event.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7583,
+"en": "Okay, let's go!",
+"ctx": "menú/texto string_tbl + diálogo uid010d005c"
+},
+{
+"id": 7584,
+"en": "You cannot take on jobs right now.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7585,
+"en": "There's no time, Haruka-chan. Hurry out to that civic event!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7586,
+"en": "Haruka, get on over to the TV station.\nYou don't got time to be doing other jobs.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7587,
+"en": "Haruka, you don't have time for anything else.\nGet on over to the TV station.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7588,
+"en": "Girly Pop",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7589,
+"en": "Dance Tune",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7590,
+"en": "Slower Ballad",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7591,
+"en": "Finals",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7592,
+"en": "Semifinals",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7593,
+"en": "Haha, oh really?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7594,
+"en": "Oh, um... I'm not really sure.",
+"ctx": "menú/texto string_tbl + diálogo uid016900b1"
+},
+{
+"id": 7595,
+"en": "That's not true.",
+"ctx": "menú/texto string_tbl + diálogo uid01340012 …"
+},
+{
+"id": 7596,
+"en": "Oh, really?",
+"ctx": "menú/texto string_tbl + diálogo uid00330532 …"
+},
+{
+"id": 7597,
+"en": "I'm serious.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7598,
+"en": "I feel the same about you!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7599,
+"en": "I'm giving it my all!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7600,
+"en": "I'm so glad to see you!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7601,
+"en": "Crap, she's so freakin' adorable!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7602,
+"en": "I love your hair!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7603,
+"en": "Keep doing what you're doing!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7604,
+"en": "I hope I can see you again!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7605,
+"en": "I saw that show!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7606,
+"en": "Her face is so petite!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7607,
+"en": "Your hair's so shiny!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7608,
+"en": "Your hand is so warm...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7609,
+"en": "I'm rooting for you!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7610,
+"en": "You're too good!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7611,
+"en": "You're just the best.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7612,
+"en": "You're pretty sexy.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7613,
+"en": "Your smile's really cute.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7614,
+"en": "I'll be your fan till the end of time.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7615,
+"en": "Gosh, you're beautiful.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7616,
+"en": "You have a really special aura.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7617,
+"en": "Your eyes are so bright!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7618,
+"en": "Your hands are perfect.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7619,
+"en": "You're amazing.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7620,
+"en": "Good luck with idoling!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7621,
+"en": "I love how you're always doing your best.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7622,
+"en": "You're so energetic.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7623,
+"en": "You're a beauty.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7624,
+"en": "Be my girlfriend!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7625,
+"en": "You're so thin!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7626,
+"en": "Oh my gosh. Here she is in person!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7627,
+"en": "You're so cute!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7628,
+"en": "I really like your hairstyle.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7629,
+"en": "Keep on keepin' on!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7630,
+"en": "I love watching your shows!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7631,
+"en": "Damn, that face though.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7632,
+"en": "How do you get your hair so nice?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7633,
+"en": "Your hand is so warm.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7634,
+"en": "I've got your back!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7635,
+"en": "I like you, Haruka-chan!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7636,
+"en": "I love you so, so much.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7637,
+"en": "Sexy, sexy!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7638,
+"en": "Your smile is brilliant!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7639,
+"en": "I'm a big fan!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7640,
+"en": "You're super pretty.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7641,
+"en": "You're so brilliant.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7642,
+"en": "Your eyes are so bright.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7643,
+"en": "How are your hands so smooth?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7644,
+"en": "You're super wonderful.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7645,
+"en": "Do your best up there!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7646,
+"en": "You're doing great. Keep it up!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7647,
+"en": "I want to be just like you!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7648,
+"en": "I admire your energy!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7649,
+"en": "You're gorgeous!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7650,
+"en": "What's your fitness secret?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7651,
+"en": "I'm honored to meet you.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7652,
+"en": "You're so sweet, babe.",
+"ctx": "menú/texto string_tbl + frase de acompañante/calle STID_ST_KAMURO"
+},
+{
+"id": 7653,
+"en": "How do you get your hair like that?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7654,
+"en": "Do your best!",
+"ctx": "menú/texto string_tbl + diálogo uid00160088"
+},
+{
+"id": 7655,
+"en": "I'll be back.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7656,
+"en": "I saw you on TV!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7657,
+"en": "You have a real baby face.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7658,
+"en": "Your hair looks so healthy.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7659,
+"en": "Your hand's pretty warm.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7660,
+"en": "I hope you do well!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7661,
+"en": "You're amazing!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7662,
+"en": "You're my favorite.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7663,
+"en": "Such a sweet, young girl...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7664,
+"en": "You have such a sweet smile.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7665,
+"en": "I'll be your fan for life.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7666,
+"en": "You're so darn pretty.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7667,
+"en": "You're absolutely sparkling.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7668,
+"en": "Your eyes are like jewels.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7669,
+"en": "You have nice hands.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7670,
+"en": "You are simply splendid.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7671,
+"en": "You're doing great!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7672,
+"en": "I love your determination.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7673,
+"en": "You're in great shape.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7674,
+"en": "You're beautiful.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7675,
+"en": "Go out with me!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7676,
+"en": "You're very trim.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7677,
+"en": "I'm glad to finally meet you!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7678,
+"en": "You're adorable.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7679,
+"en": "That hairstyle looks good on you.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7680,
+"en": "I'll see you again.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7681,
+"en": "I watched your part on that show!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7682,
+"en": "You're face is so small!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7683,
+"en": "You have such beautiful hair.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7684,
+"en": "Your hand is warm...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7685,
+"en": "You've got my vote.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7686,
+"en": "I love you!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7687,
+"en": "You're my favorite idol.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7688,
+"en": "You're so mature.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7689,
+"en": "You have a wonderful smile.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7690,
+"en": "I'll support you forever.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7691,
+"en": "You look amazing.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7692,
+"en": "You are radiant.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7693,
+"en": "Your eyes are stunning.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7694,
+"en": "Oh, how pretty your hands are.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7695,
+"en": "You're so attractive. ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7696,
+"en": "Keep doing your best!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7697,
+"en": "You're always trying so hard.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7698,
+"en": "I really admire you.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7699,
+"en": "You're very fit.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7700,
+"en": "So pretty...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7701,
+"en": "So thin...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7702,
+"en": "Haruka-chan, you're an angel!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7703,
+"en": "Haruka's my freakin' waifu.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7704,
+"en": "Hehehehehehe...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7705,
+"en": "Uh... Uhm...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7706,
+"en": "Nice.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7707,
+"en": "I'm gonna cry...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7708,
+"en": "I can't stop the moe!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7709,
+"en": "My goddess!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7710,
+"en": "I'm touching her! Er, sorry...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7711,
+"en": "*gasp*",
+"ctx": "menú/texto string_tbl + diálogo uid00490215 …"
+},
+{
+"id": 7712,
+"en": "You're super cute!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7713,
+"en": "Marry me!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7714,
+"en": "Hey, how old do I look?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7715,
+"en": "She responded to me!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7716,
+"en": "I love the outfit.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7717,
+"en": "HARUKA-CHAAAN!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7718,
+"en": "Uhm... Uh...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7719,
+"en": "You smell so nice...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7720,
+"en": "I... love... you.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7721,
+"en": "Remember my face, okay?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7722,
+"en": "I bought your merch!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7723,
+"en": "I was expecting more...",
+"ctx": "menú/texto string_tbl + tabla idol_handshake_voice|IDOL_WRONG_VOICE"
+},
+{
+"id": 7724,
+"en": "Eh...",
+"ctx": "menú/texto string_tbl + tabla idol_handshake_voice|IDOL_WRONG_VOICE"
+},
+{
+"id": 7725,
+"en": "Is that really how you feel?",
+"ctx": "menú/texto string_tbl + tabla idol_handshake_voice|IDOL_WRONG_VOICE"
+},
+{
+"id": 7726,
+"en": "Please stop.",
+"ctx": "menú/texto string_tbl + tabla idol_handshake_voice|IDOL_WRONG_VOICE"
+},
+{
+"id": 7727,
+"en": "Agency Level",
+"ctx": "menú/texto string_tbl + tabla tips_tutorial|TIPS_NAME"
+},
+{
+"id": 7728,
+"en": "Fans",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7729,
+"en": "Idol Ability",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7730,
+"en": "Round 1:",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7731,
+"en": "Round 2:",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7732,
+"en": "Hard",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7733,
+"en": "House",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7734,
+"en": "Hip-hop",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7735,
+"en": "Rock",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7736,
+"en": "Jazz",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7737,
+"en": "Idol",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7738,
+"en": "Button icons will move down the four lines.\nPress each button just as its icon overlaps with\nthe circle. The more accurate button presses you\nmake in a row, the better your results will be.\n\n\nAt times, you will need to press and hold a\nbutton. Begin holding down the button when its\nfirst icon overlaps with the circle, and release\nthe button when its second icon overlaps.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7739,
+"en": "Make %d accurate button presses.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7740,
+"en": "As you make accurate button presses, the Score\nGauge will build up.\n\nWhen battling against a rival, a Battle Gauge is\nused in place of the Score Gauge.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7741,
+"en": "Gameplay changes during the song's interlude.\nNow's your chance to really show off your moves!\nPress the appropriate <Color:1><Action:Button_DPad_Left@Princess_League><Action:Button_DPad_Right@Princess_League><Action:Button_DPad_Up@Princess_League><Action:Button_DPad_Down@Princess_League><Color:10> button just as the \nblue circle overlaps the red circle.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7742,
+"en": "Make %d accurate button press.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7743,
+"en": "During play, you can enter <Color:40>Idol Heat Mode<Color:10> by\npressing <Color:1><Action:Button_L1@Princess_League><Color:10>. While <Color:40>Idol Heat Mode<Color:10> lasts, button\npresses will have a greater effect, such as\nfilling the gauge up more quickly.\n\n<Color:39>The number of times you can use Idol Heat Mode\nis limited to the number of heart marks that\nappear at the top left of the screen, so be sure\nto use it wisely.<Color:1>\n",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7744,
+"en": "Press <Color:1><Action:Button_L1@Princess_League><Color:10> to enter Idol Heat Mode and make %d accurate button presses.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7745,
+"en": "Button icons will move across one of the four bars.\nPress each button just as its icon overlaps with the circle \nat the right-hand end of the bar.\n\nPoints are added to your score with each\naccurate button press.\n\nIn dance battles and dance events, your Performance\nparameter affects how many points you get.\n\nThe one with the most points at the end of the battle wins.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7746,
+"en": "Use <Color:1><Action:Button_DPad_Left@Street_Battle><Action:Button_DPad_Right@Street_Battle><Action:Button_DPad_Up@Street_Battle><Action:Button_DPad_Down@Street_Battle><Color:10> to switch\nbetween the top, bottom, left, and right bars.\n\nIn order for a button press to be counted as correct,\nyou must have the appropriate bar selected beforehand.\n\nSwitching between bars and pressing the buttons accurately \nis the key to success.",
+"ctx": "menú/texto string_tbl"
+}
+]

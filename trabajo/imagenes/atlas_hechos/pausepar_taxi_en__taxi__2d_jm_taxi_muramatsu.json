@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_taxi_en/taxi/2d_jm_taxi_muramatsu",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    6,
+    8,
+    687,
+    123
+   ],
+   "en": "TOMOAKI MURAMATSU",
+   "ocr": "TOMOAKI MURAMATSU",
+   "es": "TOMOAKI MURAMATSU",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 677
+  }
+ ]
+}

@@ -1,0 +1,857 @@
+[
+{
+"id": 31299,
+"en": "Huh? Well, actually, there's no harm in your prank, and I\ndon't intend to do anything about it. Not sure why I chased\nyou, to be honest.",
+"ctx": "diálogo uid00490137"
+},
+{
+"id": 31300,
+"en": "Then, will you accept this? Just a little way to say\nsorry.",
+"ctx": "diálogo uid00490137"
+},
+{
+"id": 31301,
+"en": "You got <Color:8>Sacrifice Stone<Color:Default>.",
+"ctx": "diálogo uid00490137 + diálogo uid010c0db1"
+},
+{
+"id": 31302,
+"en": "So why do you do it? Is it really fun photobombing people's\nPrintCircle shots all dressed up like that?",
+"ctx": "diálogo uid00490137"
+},
+{
+"id": 31303,
+"en": "Well, at first, I just photobombed people. But after seeing\neveryone get scared and freak out, I figured dressing up\nwould be way more fun.",
+"ctx": "diálogo uid00490137"
+},
+{
+"id": 31304,
+"en": "Just making sure they get their money's worth.",
+"ctx": "diálogo uid00490137"
+},
+{
+"id": 31305,
+"en": "No one wants that, dummy. Besides, why are you still wearing\nthat mask? If you really mean to apologize, show some\nrespect, and take it off.",
+"ctx": "diálogo uid00490137"
+},
+{
+"id": 31306,
+"en": "Yeah, you're right. I'm sorry.",
+"ctx": "diálogo uid00490137"
+},
+{
+"id": 31307,
+"en": "...You know for a guy who likes terrifying high school girls, you're pretty non-descript.",
+"ctx": "diálogo uid00490137"
+},
+{
+"id": 31308,
+"en": "Well, yeah...",
+"ctx": "diálogo uid00490137"
+},
+{
+"id": 31309,
+"en": "All right. Take it easy from now on, okay? You don't want to\ncause the arcade any trouble.",
+"ctx": "diálogo uid00490137"
+},
+{
+"id": 31310,
+"en": "I'm really sorry. I think I'm ready to let go and move on\nfrom this sort of thing. It's time.",
+"ctx": "diálogo uid00490137"
+},
+{
+"id": 31311,
+"en": "Whatever makes you happy.",
+"ctx": "diálogo uid00490137"
+},
+{
+"id": 31312,
+"en": "Yeah. I'll be going now...",
+"ctx": "diálogo uid00490137"
+},
+{
+"id": 31313,
+"en": "(So much for that. No more a ghost than a sheet on a clothes\nline.)",
+"ctx": "diálogo uid00490137"
+},
+{
+"id": 31314,
+"en": "(Huh? Where'd he go...? Oh, well. It's not like he was\nhurting anybody.)",
+"ctx": "diálogo uid00490137"
+},
+{
+"id": 31315,
+"en": "You got 1,000 experience points.",
+"ctx": "diálogo uid00490137 + diálogo uid0102076b …"
+},
+{
+"id": 31316,
+"en": "A ghost shows up in the background, huh?",
+"ctx": "diálogo uid00490138"
+},
+{
+"id": 31317,
+"en": "That's what they say. Wouldn't it be awesome if it was\ntrue!?",
+"ctx": "diálogo uid00490138"
+},
+{
+"id": 31318,
+"en": "Huh? More like terrifying...",
+"ctx": "diálogo uid00490138"
+},
+{
+"id": 31319,
+"en": "Okay, take the picture!",
+"ctx": "diálogo uid00490138"
+},
+{
+"id": 31320,
+"en": "Augh! A monster! In the ph-photo!",
+"ctx": "diálogo uid00490138"
+},
+{
+"id": 31321,
+"en": "Huh!? Where, where!?",
+"ctx": "diálogo uid00490138"
+},
+{
+"id": 31322,
+"en": "Here! Right here!",
+"ctx": "diálogo uid00490138"
+},
+{
+"id": 31323,
+"en": "Huh? That's me, ya nitwit!",
+"ctx": "diálogo uid00490138"
+},
+{
+"id": 31324,
+"en": "Well, that sucks. Ain't no ghosts in this pic. Just a couple\nof babes...",
+"ctx": "diálogo uid00490138"
+},
+{
+"id": 31325,
+"en": "Way to be modest there, Sachi-san. Well, I guess it was just\nan urban legend after all.",
+"ctx": "diálogo uid00490138"
+},
+{
+"id": 31326,
+"en": "Oh well, let's go. All this makin' pretty faces and posin'\nfor the camera's made me hungry.",
+"ctx": "diálogo uid00490138"
+},
+{
+"id": 31327,
+"en": "(Hmm... Well, that figures. But since I'm here, I may as\nwell take a photo as a souvenir.)",
+"ctx": "diálogo uid00490138"
+},
+{
+"id": 31328,
+"en": "I'm truly sorry. The temperature calibration was a little off. It's not an easy thing, developing products...",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31329,
+"en": "It was more than just a little off. We coulda died in there!",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31330,
+"en": "I deeply apologize. Please accept this as recompense...",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31331,
+"en": "Please accept this, too. I'm just so sorry...",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31332,
+"en": "You got a pocket warmer.",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31333,
+"en": "I sure as hell don't want this pocket warmer if you made it...",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31334,
+"en": "Oh, no, no, no! Of course not! This was made by... someone else! Please, there's nothing to worry about.",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31335,
+"en": "I promise, I'm not trying to make you into a guinea pig again. Honest, I'm not!",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31336,
+"en": "Ya sure about that?",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31337,
+"en": "Yes, of course!",
+"ctx": "diálogo uid0049013c + diálogo uid0049015c …"
+},
+{
+"id": 31338,
+"en": "If you're lyin', this ain't gonna end well.",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31339,
+"en": "So.",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31340,
+"en": "Urm...",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31341,
+"en": "I'm waitin'.",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31342,
+"en": "Y-Yes, of course. I'm terribly sorry. It actually is one of my own prototypes. I'll take it back.",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31343,
+"en": "You returned the pocket warmer.",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31344,
+"en": "Incredible. You saw through my lies with such ease. It's like you're the Buddha himself.",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31345,
+"en": "I'm no enlightened man, I assure ya. You need to stop spoutin' nonsense and experimentin' with yer death traps. If I see anybody with one of 'em...",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31346,
+"en": "All riiight, I got it! I won't try to make the world a better place anymore! Sheesh!",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31347,
+"en": "Guy's a public health hazard.",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31348,
+"en": "(At least I ain't cold anymore, though.)",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31349,
+"en": "Ah, a man who looks downright frozen! Bet you'd like to try my ultimate cold weather gear, eh?",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31350,
+"en": "Does sound interestin', but... I'm busy right now. Another time.",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31351,
+"en": "Well, when your nose starts turning blue, just head on back here. You're gonna love my invention!",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31352,
+"en": "All right. It does sound interestin'. Lemme try it.",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31353,
+"en": "Excellent decision, sir! Please, follow me.",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31354,
+"en": "Hm? I can't just try it out right here?",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31355,
+"en": "Do you know how hard it is to get a patent? Someone could see my invention and steal it, and then where would I be?",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31356,
+"en": "Hoo, boy. Well, all right.",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31357,
+"en": "Hm... Anyone sick of this cold weather?",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31358,
+"en": "Why're ya lookin' around like that?",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31359,
+"en": "I'm scoping out the crowd for anyone feeling cold. Anyone who⑬ Wait a sec...",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31360,
+"en": "Look at you! You must hate the cold!",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31361,
+"en": "Huh? Who are ya and why do ya care?",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31362,
+"en": "Oh, I'm sorry, my name is Ideno. I'm an inventor!",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31363,
+"en": "I need a product tester who's feeling cold. You, good sir, appear to be such a fellow, what with your shorn hair and destitute apparel. How about it?",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31364,
+"en": "Destitute? That's rude of ya. But what do you wanna test?",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31365,
+"en": "I've been developing gear that will get people through these harsh winters in perfectly warm, cozy comfort!",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31366,
+"en": "I just completed the first prototype! That's why I need one lucky guinea pig⑬ *cough* Ahem!",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31367,
+"en": "I meant to say tester⑬a tester for my amazing prototype.",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31368,
+"en": "Gear that makes this sorta weather comfortable? Sure'd be convenient.",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31369,
+"en": "Right!? This product could be huge. Even people who can't stand the cold would be able to live in Tsukimino. The town would grow like crazy!",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31370,
+"en": "Looks like you're not from around here, so you're not used to the climate. That makes you the perfect tester!",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31371,
+"en": "There's compensation, of course. I wouldn't ask you to do this for free.",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31372,
+"en": "After all, as soon as this thing becomes a product, I'll be a millionaire! Heh.",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31373,
+"en": "(Bein' warm sure sounds great. What to do?)",
+"ctx": "diálogo uid0049013c"
+},
+{
+"id": 31374,
+"en": "Where is this Sky Finance place? It should be somewhere\naround here...",
+"ctx": "diálogo uid00490140"
+},
+{
+"id": 31375,
+"en": "(Hm? Looks like we might have another customer.)",
+"ctx": "diálogo uid00490140"
+},
+{
+"id": 31376,
+"en": "(I've already got a lot to deal with. What should I do with\nher?)",
+"ctx": "diálogo uid00490140"
+},
+{
+"id": 31377,
+"en": "(Sorry, lady, I've gotta run right now. I'll see to you\nwhen I get some time.)",
+"ctx": "diálogo uid00490140"
+},
+{
+"id": 31378,
+"en": "(If I don't deal with business once in a while, Hana-chan'll\nhave my hide.)",
+"ctx": "diálogo uid00490140"
+},
+{
+"id": 31379,
+"en": "Excuse me, were you looking for my office?",
+"ctx": "diálogo uid00490140"
+},
+{
+"id": 31380,
+"en": "Huh? Are you from Sky Finance, then?",
+"ctx": "diálogo uid00490140"
+},
+{
+"id": 31381,
+"en": "Bingo. I'm the president, Akiyama.",
+"ctx": "diálogo uid00490140"
+},
+{
+"id": 31382,
+"en": "Ooh! You're Akiyama-san? Fabulous. I've been looking for\nyou!",
+"ctx": "diálogo uid00490140"
+},
+{
+"id": 31383,
+"en": "Have you now? So, what might this be about?",
+"ctx": "diálogo uid00490140"
+},
+{
+"id": 31384,
+"en": "I want to borrow money!",
+"ctx": "diálogo uid00490140"
+},
+{
+"id": 31385,
+"en": "I see. You're after financing.",
+"ctx": "diálogo uid00490140"
+},
+{
+"id": 31386,
+"en": "That's not exactly something to be discussed in the street.\nHow about we take this to my office?",
+"ctx": "diálogo uid00490140"
+},
+{
+"id": 31387,
+"en": "Howdy.",
+"ctx": "diálogo uid00490142 + diálogo uid01020d94"
+},
+{
+"id": 31388,
+"en": "Oh, Akiyama-san.",
+"ctx": "diálogo uid00490142"
+},
+{
+"id": 31389,
+"en": "I'm just checking up on that Nanako Kodama-chan I sent your\nway. How's she working out?",
+"ctx": "diálogo uid00490142"
+},
+{
+"id": 31390,
+"en": "Nanako? She's been fantastic from the get-go. I've never\nseen a girl so eager to work.",
+"ctx": "diálogo uid00490142"
+},
+{
+"id": 31391,
+"en": "But enthusiasm isn't enough to win you requests from\nclients, is it? The world doesn't really work like that.",
+"ctx": "diálogo uid00490142"
+},
+{
+"id": 31392,
+"en": "All our girls are celebrities. That's our selling point⑬\nthe chance to meet stars. In terms of looks, our hostesses\nare unbeatable.",
+"ctx": "diálogo uid00490142"
+},
+{
+"id": 31393,
+"en": "But the girls have their pride, too. They see themselves as\nstars, so why serve drinks as hostesses?",
+"ctx": "diálogo uid00490142"
+},
+{
+"id": 31394,
+"en": "I can see that. They're only working here because their\nagencies make them.",
+"ctx": "diálogo uid00490142"
+},
+{
+"id": 31395,
+"en": "Well, their pride gets in the way of business. You can't\nexpect them to deliver friendly service with an attitude like that.",
+"ctx": "diálogo uid00490142"
+},
+{
+"id": 31396,
+"en": "It's nice to meet stars, but the service quality is\ndisappointing for the price. That's what you get for hiring\nreal hostesses.",
+"ctx": "diálogo uid00490142"
+},
+{
+"id": 31397,
+"en": "That's where Nanako-chan's different. She's incredibly\nfriendly and courteous⑬nothing like you'd expect from some snooty idol.",
+"ctx": "diálogo uid00490142"
+},
+{
+"id": 31398,
+"en": "She's been both humble and hard-working. Our guests get to\nknow her, and next thing you know, they're lining up at the\ndoor. She's really raking in the business!",
+"ctx": "diálogo uid00490142"
+},
+{
+"id": 31399,
+"en": "(Sounds like she might make number one. I'll go back to the\noffice and wait for the good news.)",
+"ctx": "diálogo uid00490142"
+},
+{
+"id": 31400,
+"en": "All right, the next test...",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31401,
+"en": "Huh? Exactly how many more hoops do I have to jump through?",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31402,
+"en": "Really. This is the final test, so listen closely.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31403,
+"en": "Change your stage name.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31404,
+"en": "Nanako Kodama's done. You continue your career under a new\nname.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31405,
+"en": "But I...",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31406,
+"en": "What's the matter? All you need to do is change your name.\nShouldn't be a problem.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31407,
+"en": "Well, yes, but...",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31408,
+"en": "I need an answer. You either change your name or fail the\ntest. You have ten seconds.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31409,
+"en": "Five, four, three, two, one, and zero.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31410,
+"en": "Time's up. You fail.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31411,
+"en": "You're awful! You gave me an impossible test, knowing I'd\nnever accept it, didn't you?",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31412,
+"en": "What makes it impossible? It's not a difficult task.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31413,
+"en": "If I stop being Nanako Kodama, it would be just like giving\nin to my agency and changing my persona like they asked.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31414,
+"en": "That's completely unacceptable! I have to stay true to\nmyself, and that includes keeping my name!",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31415,
+"en": "Akiyama-san, I've played along this whole time, but all\nyou've done is toy with me! You were never actually going to\nloan me the money, were you!?",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31416,
+"en": "Are you done making excuses?",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31417,
+"en": "I'm not making excuses! Besides, those were really strange\ntests. And it was all completely meaningless, wasn't it?",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31418,
+"en": "How would you know if any of it was meaningless or not?",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31419,
+"en": "In fact, the final test told me exactly what I needed to\nknow.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31420,
+"en": "It's impossible for you to go independent and start your\nown agency. You'd just be wasting your time.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31421,
+"en": "How dare you! What could you possibly learn about me from\nthose silly tests?",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31422,
+"en": "I learned quite a lot, actually.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31423,
+"en": "I wanted to see if you could swallow your pride and work\nhard as a hostess, compete against younger girls from your\nagency.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31424,
+"en": "I had to see if you had the courage to not back down in the\nface of danger and the smarts to achieve what you set out to do.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31425,
+"en": "And I also needed to know if you're physically capable of\npursuing your dream even when pushed to the absolute limit.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31426,
+"en": "The three tests I gave you were all to see if you had the\npower to make your dream come true.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31427,
+"en": "The power to make my dream come true? Well, I passed your\ntests, didn't I? Shouldn't I have it, then?",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31428,
+"en": "And if that's the case, what was with that final test? Why\ndo I have to change my name?",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31429,
+"en": "Power is one thing. Will is another. I needed to see just\nhow far you were willing to go for your dream.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31430,
+"en": "The final test confirmed it. Your dream isn't as precious as\nyou make it out to be. You're just unhappy with your agency.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31431,
+"en": "Am I wrong?",
+"ctx": "diálogo uid00490147 + diálogo uid01340021"
+},
+{
+"id": 31432,
+"en": "Power and will. They're equally important. Without one or\nthe other, you're guaranteed to fail.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31433,
+"en": "There was another woman like you before. She also came to me\nfor a loan of 300 million yen.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31434,
+"en": "It was going to take power and will for her to realize her\ndream. Mirei Park had them both.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31435,
+"en": "Mirei Park... You mean from Dyna Chair?",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31436,
+"en": "Yeah. A year and a half ago, she came to me for a loan to\nmake her dream come true, just like you.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31437,
+"en": "And I assigned her the same three tests I gave you. She\npassed them all without a single word of complaint.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31438,
+"en": "Even though she's a former pop star, it couldn't have been\neasy working as a hostess among girls half her age. But that\ndidn't stop her; she proved she could do it.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31439,
+"en": "What about the final test? Was it the same as the one you\ngave me?",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31440,
+"en": "Park-san's final test? I told her to get out of the\nproduction business once her current project had ended.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31441,
+"en": "Huh? But that would mean her story would have ended the same\nway⑬out of the business whether her project succeeded or not.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31442,
+"en": "It's not the same. Park-san turned her next chance into her\nlast chance. It helped strengthen her resolve to make her\ndream come true.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31443,
+"en": "It proved she was committed to making that girl a star.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31444,
+"en": "Wait. Do you mean that girl on Princess League?",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31445,
+"en": "Rather than her very livelihood as an agency president,\nMirei Park chose to make her dream come true, if just for a\nmoment.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31446,
+"en": "Once I saw that she had both the power and the will to\nrealize her dream, I happily gave her the loan.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31447,
+"en": "Your feelings toward your fans are real. Your desire to make\nit as a star is authentic, too. You have what it takes to succeed.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31448,
+"en": "Then, why...?",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31449,
+"en": "Because your dream itself⑬your desire to go independent⑬was a lie.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31450,
+"en": "You came to me because you were unhappy with your agency,\nisn't that right?",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31451,
+"en": "Yes...",
+"ctx": "diálogo uid00490147 + diálogo uid01020bda …"
+},
+{
+"id": 31452,
+"en": "You were angry with your agency for not understanding you.\nYou rebelled against their orders to change who you are.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31453,
+"en": "You took those negative emotions and sugarcoated them with\nthe convenient guise of a dream to fool yourself.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31454,
+"en": "Real dreams stem from something more positive. Don't you\nthink?",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31455,
+"en": "Akiyama-san...",
+"ctx": "diálogo uid00490147 + diálogo uid01020caf …"
+},
+{
+"id": 31456,
+"en": "Nanako-chan!",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31457,
+"en": "My manager? What are you doing here?",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31458,
+"en": "I've been looking everywhere for you. I had to ask all over\ntown to finally track you down.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31459,
+"en": "I'm sorry. I'm sorry I told you to make a change without\nconsidering your feelings. I didn't know how much I'd hurt\nyou.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31460,
+"en": "But I want you to know that the agency hasn't given up on\nyou. On the contrary, we think you can shine even brighter.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31461,
+"en": "Really...?",
+"ctx": "diálogo uid00490147 + diálogo uid01020b67 …"
+},
+{
+"id": 31462,
+"en": "I'm kicking myself for not properly taking this matter up\nwith you and discussing your career together.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31463,
+"en": "No... It's my fault, too. I was acting totally selfish in\nspite of all the support I was given over the years.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31464,
+"en": "It's thanks to the agency that I even became an idol. And\nwith fans who support me, no less. I somehow convinced\nmyself that it was all about me.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31465,
+"en": "Nanako-chan...",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31466,
+"en": "Um, so... I'm sorry for all the trouble I caused!",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31467,
+"en": "No, no, the fault is all mine. Please forgive me.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31468,
+"en": "Heh, see? They really do appreciate you.",
+"ctx": "diálogo uid00490147"
+},
+{
+"id": 31469,
+"en": "If you ask me, you've got a pretty good agency behind you.\nLike I said, you have what it takes to succeed.",
+"ctx": "diálogo uid00490147"
+}
+]

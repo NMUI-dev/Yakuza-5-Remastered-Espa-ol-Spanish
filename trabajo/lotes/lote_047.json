@@ -1,0 +1,867 @@
+[
+{
+"id": 13230,
+"en": "The Expulsion S-12 is a kickass shotgun.",
+"ctx": "menú/texto ex_shop0000"
+},
+{
+"id": 13231,
+"en": "That good enough for you?",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13232,
+"en": "A reward for achieving \"Legend of the Dragon\" in RGG Online. It's pretty rare!",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13233,
+"en": "A reward for achieving \"Ryu ga Gotoku All-Star\" in RGG Online. It's pretty rare!",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13234,
+"en": "A reward for achieving \"Great Leader\" in RGG Online. It's pretty rare!",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13235,
+"en": "A reward for achieving \"True Brawler\" in RGG Online. It's pretty rare!",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13236,
+"en": "A reward for achieving \"Gear Master\" in RGG Online. It's pretty rare!",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13237,
+"en": "A reward for achieving \"Bond of Friendship\" in RGG Online. It's pretty rare!",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13238,
+"en": "A reward for achieving \"Victor's Proof\" in RGG Online. It's pretty rare!",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13239,
+"en": "A reward for achieving \"Proof of the End\" in RGG Online. It's pretty rare!",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13240,
+"en": "A reward for achieving \"The Strong Become Stronger\" in RGG Online. It's pretty rare!",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13241,
+"en": "A reward for achieving \"Card Emperor\" in RGG Online. It improves your draws.",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13242,
+"en": "A reward for achieving \"Building Owner\" in RGG Online. It'll help you out in Cee-lo games.",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13243,
+"en": "A reward for achieving \"Completionist\" in RGG Online. Bring this if you want to win at baccarat.",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13244,
+"en": "A reward for achieving \"Card Minister\" in RGG Online. You might wanna bring that to a poker game.",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13245,
+"en": "A reward for achieving \"Initiate\" in RGG Online. It might confuse nearby gamblers.",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13246,
+"en": "A reward for achieving \"VIP\" in RGG Online. If you really want to throw off other gamblers, use these.",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13247,
+"en": "A reward for achieving \"Cup of Oaths\" in RGG Online. It's apparently a powerful weapon material.",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13248,
+"en": "A reward for achieving \"Kamuro Stylist\" in RGG Online. I heard you lose money if you think about it.",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13249,
+"en": "A reward for achieving \"Battle Ranker\" in RGG Online. Could come in handy in a Cee-lo game.",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13250,
+"en": "A reward for achieving \"Card Tuner\" in RGG Online. I heard you gain money if you think about it.",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13251,
+"en": "A reward for achieving \"Kamuro Ammo Dump\" in RGG Online. It's apparently a powerful weapon material.",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13252,
+"en": "A reward for achieving \"Rare Card Collector\" in RGG Online. This is a go-to item for instant wins.",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13253,
+"en": "A reward for achieving \"Kamuro Pioneer\" in RGG Online. It's apparently a powerful weapon material.",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13254,
+"en": "A reward for achieving \"Walking Megabank\" in RGG Online. Bring this if you want to win at baccarat.",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13255,
+"en": "A reward for achieving \"Troubleshooter\" in RGG Online. It puts pressure on the dealer.",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13256,
+"en": "A reward for achieving \"Thanks For The Feedback!\" in RGG Online. A must-have if you like slots.",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13257,
+"en": "A reward for achieving \"Kamuro Alchemist\" in RGG Online. It makes it easier to win at slots.",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13258,
+"en": "A reward for achieving \"Human Bulldozer\" in RGG Online. It's a charm that comes in handy during Cee-Lo.",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13259,
+"en": "A reward for achieving \"Mr. Gacha\" in RGG Online. Ueyama would kill for one of these.",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13260,
+"en": "A reward for achieving \"Risky Synthesis\" in RGG Online. Apparently, it makes pachinko tables spin like crazy.",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13261,
+"en": "A reward for achieving \"Regular Customer\" in RGG Online. It makes you win at pachinko more often.",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13262,
+"en": "A reward for achieving \"Fashion Leader\" in RGG Online. Maybe it'll come in handy when modding weapons!",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13263,
+"en": "A reward for achieving \"Card Collector\" in RGG Online. Maybe it'll come in handy when modding weapons!",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13264,
+"en": "A reward for achieving \"Kamuro Gunpowder Keg\" in RGG Online. Maybe it'll come in handy when modding weapons!",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13265,
+"en": "A reward for achieving \"Joy of Bonds\" in RGG Online. Maybe it'll come in handy when modding weapons!",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13266,
+"en": "A reward for achieving \"Gacha Debut\" in RGG Online. Ueyama is collecting these like a madman.",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13267,
+"en": "A reward for achieving \"First Steps\" in RGG Online. Maybe it'll come in handy when modding weapons!",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13268,
+"en": "A reward for achieving \"Thank You For Your Business!\" in RGG Online. It's a set of items that soothes the wounded body in combat.",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13269,
+"en": "A reward for achieving \"Moral Man\" in RGG Online. Maybe it'll come in handy when modding weapons!",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13270,
+"en": "A reward for achieving \"Kamuro Moneymaker\" in RGG Online. Use it as you please.",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13271,
+"en": "A reward for achieving \"First Completion\" in RGG Online. It's a set of items that soothes the wounded body in combat.",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13272,
+"en": "A reward for achieving \"Yakuza: Dead Souls\" in RGG Online. Ueyama would kill for one of these.",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13273,
+"en": "A reward for achieving \"Militant Enforcer\" in RGG Online. It's a set of items that soothes the wounded body in combat.",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13274,
+"en": "A reward for achieving \"Block Shops Complete\" in RGG Online. I heard it makes timing easier at slots.",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13275,
+"en": "A reward for achieving \"Traps Are Important\" in RGG Online. It's a set of items that soothes the wounded body in combat.",
+"ctx": "menú/texto ex_shop0001"
+},
+{
+"id": 13276,
+"en": "(Ain't got anything selected)  ",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13277,
+"en": "(Looks like I'm a little short.)  ",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13278,
+"en": "(I'm not hungry enough to eat right now.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13279,
+"en": "(I couldn't eat any more if I wanted to.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13280,
+"en": "(Couldn't shove down another bite.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13281,
+"en": "(Can't eat anymore.)  ",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13282,
+"en": "(Phew, I'm stuffed!)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13283,
+"en": "(Can't drink anymore.)  ",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13284,
+"en": "(That's good.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13285,
+"en": "(Tasty as anything.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13286,
+"en": "(Tastes pretty dang good.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13287,
+"en": "(This makes fine eatin'.)  ",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13288,
+"en": "(Wow, this is great!)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13289,
+"en": "(I could eat that every day.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13290,
+"en": "(Decent.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13291,
+"en": "(Ain't half bad.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13292,
+"en": "(Mmm, that ain't bad.)  ",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13293,
+"en": "(This is delicious)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13294,
+"en": "(Wow, I love that.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13295,
+"en": "(Really hits the spot.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13296,
+"en": "(Yeah, this is the life.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13297,
+"en": "(Just how I like it.)  ",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13298,
+"en": "(That's delicious.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13299,
+"en": "(Loving this flavor.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13300,
+"en": "(I'm lovin' this.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13301,
+"en": "(Love the flavor.)  ",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13302,
+"en": "(I've never tasted something this good!)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13303,
+"en": "(Huh, that's pretty good.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13304,
+"en": "(I can't get enough of that.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13305,
+"en": "(Mm, likin' the taste of that.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13306,
+"en": "(I could get used to this.)  ",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13307,
+"en": "(Mmm, that was amazing.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13308,
+"en": "(That's great.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13309,
+"en": "(Think I found a new favorite food.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13310,
+"en": "(Pretty good.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13311,
+"en": "(Pretty damn good.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13312,
+"en": "(I didn't realize food could taste this good.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13313,
+"en": "(Pretty tasty.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13314,
+"en": "(Yeah, that's the ticket.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13315,
+"en": "(Ain't too bad.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13316,
+"en": "(Not bad...)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13317,
+"en": "(Wow, this is the best!)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13318,
+"en": "(I really like that flavor.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13319,
+"en": "(Tastes incredible.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13320,
+"en": "(Likin' this.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13321,
+"en": "(This is pretty good.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13322,
+"en": "(Yum! This flavor is incredible!)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13323,
+"en": "(That's even better than I was expecting.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13324,
+"en": "(Yeah... That's good.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13325,
+"en": "(Yeah, that's real good.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13326,
+"en": "(Hmm, not bad.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13327,
+"en": "(That flavor is fascinating.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13328,
+"en": "(Heh, I knew this would be good.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13329,
+"en": "(Mm, that's good.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13330,
+"en": "(Could get used to this.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13331,
+"en": "(This isn't bad at all.)  ",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13332,
+"en": "(I could get used to this flavor.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13333,
+"en": "(Not sure I'd eat that again...)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13334,
+"en": "(I'd rather eat a week-old kalbi bento...)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13335,
+"en": "(Ugh... Ain't the greatest.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13336,
+"en": "(Hmm... This isn't too great.)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13337,
+"en": "(This is... Hm...)",
+"ctx": "menú/texto restaurant0000 + menú/texto restaurant0001 …"
+},
+{
+"id": 13338,
+"en": "(Think I'll order this.)",
+"ctx": "menú/texto restaurant0001"
+},
+{
+"id": 13339,
+"en": "The Aji Course? Looks like it's a set of two appetizers, sashimi, mizutaki, and your choice of porridge or champon. I can't decide which I like more.",
+"ctx": "menú/texto restaurant0001"
+},
+{
+"id": 13340,
+"en": "The Hana Course? It's a set of appetizers, a seasonal dish, sashimi, and dessert.",
+"ctx": "menú/texto restaurant0001"
+},
+{
+"id": 13341,
+"en": "The Kinka Course? It's only available by reservation, and is sure to delight you with its huge variety of dishes.",
+"ctx": "menú/texto restaurant0001"
+},
+{
+"id": 13342,
+"en": "The Hanamidori Mizutaki? It's a set including our famous mizutaki, appetizer, and sashimi. It goes well with a final course of porridge or champon.",
+"ctx": "menú/texto restaurant0001"
+},
+{
+"id": 13343,
+"en": "The Mizutaki Karaage? The fried chicken soaks up all the juices of the mizutaki. It's one of our specialties.",
+"ctx": "menú/texto restaurant0001"
+},
+{
+"id": 13344,
+"en": "Our house-made sauce goes perfectly with these juicy, mouth-watering Hanamidori Meatballs.",
+"ctx": "menú/texto restaurant0001"
+},
+{
+"id": 13345,
+"en": "This pudding is packed with collagen from free-range chickens. It's great for your skin.",
+"ctx": "menú/texto restaurant0001"
+},
+{
+"id": 13346,
+"en": "This salad is packed with collagen from free-range chickens. It's great for your skin.",
+"ctx": "menú/texto restaurant0001"
+},
+{
+"id": 13347,
+"en": "This is our Hana Course. It comes with appetizers, a seasonal dish, porridge, sashimi, and dessert.",
+"ctx": "menú/texto restaurant0002"
+},
+{
+"id": 13348,
+"en": "Welcome to tuna sushi paradise! This set includes prime fatty cuts, fatty cuts, lean cuts, negitoro, tuna rolls, and seared tuna.",
+"ctx": "menú/texto restaurant0007 + menú/texto restaurant0013"
+},
+{
+"id": 13349,
+"en": "Plenty of healthy vegetables, al dente noodles, and our flavorful brown sauce make this yakisoba out of this world.",
+"ctx": "menú/texto restaurant0020"
+},
+{
+"id": 13350,
+"en": "This takoyaki is topped with rich cheese and mayonnaise, filled with real Hakata spicy fish roe. It's our number one best-seller with female customers.",
+"ctx": "menú/texto restaurant0024 + menú/texto restaurant0025"
+},
+{
+"id": 13351,
+"en": "Octopus seasoned with garlic oil and sprinkled with paprika. A favorite Spanish delicacy, best enjoyed over drinks.",
+"ctx": "menú/texto restaurant0024 + menú/texto restaurant0025"
+},
+{
+"id": 13352,
+"en": "Special extra-thick noodles with thick-sliced pork and plenty of bean sprouts are combined with a rich brown sauce.",
+"ctx": "menú/texto restaurant0024"
+},
+{
+"id": 13353,
+"en": "This hot pot dish is made with domestically raised Japanese puffer. Enjoy it with our house ponzu dipping sauce, made with a secret recipe.",
+"ctx": "menú/texto restaurant0031"
+},
+{
+"id": 13354,
+"en": "Enjoy our fresh, firm Japanese pufferfish sashimi.",
+"ctx": "menú/texto restaurant0031"
+},
+{
+"id": 13355,
+"en": "Pickled crab, two kinds of crab sashimi, crab & egg custard, grilled crab, crab tempura, crab sushi, clear broth soup, and fruit.",
+"ctx": "menú/texto restaurant0038"
+},
+{
+"id": 13356,
+"en": "Appetizers, clear broth soup, choice sashimi, assorted small dishes, a main course, a fried entrée, soups, sushi, and dessert.",
+"ctx": "menú/texto restaurant0040"
+},
+{
+"id": 13357,
+"en": "Appetizers, clear broth soup, choice sashimi, assorted small dishes, a main course, a fried entrée, soups, choice sushi, and dessert.",
+"ctx": "menú/texto restaurant0040"
+},
+{
+"id": 13358,
+"en": "This cocktail is a blend of shochu with yuzu syrup and soda water. It's topped with a yuzu preserve for the finishing touch.",
+"ctx": "menú/texto restaurant0042"
+},
+{
+"id": 13359,
+"en": "Oolong tea, the quintessential nonalcoholic drink. Enjoy the fragrance and flavor of this distinctive tea.",
+"ctx": "menú/texto restaurant0042 + menú/texto restaurant0066"
+},
+{
+"id": 13360,
+"en": "The Kishu Nanko Plum Sour is a refreshing cocktail made with tart Kishu Nanko plums.",
+"ctx": "menú/texto restaurant0042"
+},
+{
+"id": 13361,
+"en": "The Moscow Mule is a well-known cocktail of vodka, lime juice, and ginger ale.",
+"ctx": "menú/texto restaurant0042"
+},
+{
+"id": 13362,
+"en": "The Gin and Tonic is a classic cocktail of gin mixed with tonic water and lime juice.",
+"ctx": "menú/texto restaurant0042 + menú/texto restaurant0066"
+},
+{
+"id": 13363,
+"en": "An extremely popular cocktail, Cassis & Orange is made with one hundred percent pure orange juice.",
+"ctx": "menú/texto restaurant0042"
+},
+{
+"id": 13364,
+"en": "These chicken wings are seasoned with a special spice mix with just the right amount of sweetness. You can't eat just one!",
+"ctx": "menú/texto restaurant0044"
+},
+{
+"id": 13365,
+"en": "A creamy parfait loaded with fresh strawberries. The anthocyanins lend it a pleasing, fruity hue.",
+"ctx": "menú/texto restaurant0054"
+},
+{
+"id": 13366,
+"en": "As advertised, our delicious Beef Rice meal with miso soup is sure to please.",
+"ctx": "menú/texto restaurant0055"
+},
+{
+"id": 13367,
+"en": "Beef Curry is a popular menu item, with tender chunks of beef and curry on one plate. Comes with miso soup.",
+"ctx": "menú/texto restaurant0055"
+},
+{
+"id": 13368,
+"en": "The Beef Yakiniku Meal is one of our popular standard entrées on the menu. Juicy BBQ beef comes with rice, miso soup, and vegetables.",
+"ctx": "menú/texto restaurant0055"
+},
+{
+"id": 13369,
+"en": "Our popular Kalbi Yakiniku Set is made with juicy BBQ rib meat and tasty sauce. Comes with rice, miso soup, and vegetables.",
+"ctx": "menú/texto restaurant0055"
+},
+{
+"id": 13370,
+"en": "A hot, juicy hamburg steak topped with egg and sweet demiglace sauce, served with rice, miso soup, and vegetables.",
+"ctx": "menú/texto restaurant0055"
+},
+{
+"id": 13371,
+"en": "Our Pork Yakiniku Meal has great-tasting pork for great stamina. Includes rice, miso soup, and fresh vegetables.",
+"ctx": "menú/texto restaurant0055"
+},
+{
+"id": 13372,
+"en": "The Ginger Pork Meal comes with plenty of succulent pork, white rice, miso soup, and vegetables.",
+"ctx": "menú/texto restaurant0055"
+},
+{
+"id": 13373,
+"en": "Sliced chicken is grilled up hot and juicy and paired with a perfectly matched sauce. Includes rice and salad.",
+"ctx": "menú/texto restaurant0055 + menú/texto shop0004"
+},
+{
+"id": 13374,
+"en": "This set includes a Teriyaki Smile Burger with special sauce, fries, and a drink.",
+"ctx": "menú/texto restaurant0056"
+},
+{
+"id": 13375,
+"en": "As advertised, this set comes with a King Smile Burger, fries, and a drink.",
+"ctx": "menú/texto restaurant0056"
+},
+{
+"id": 13376,
+"en": "A tasty Tuna Burger with a strange texture. Fries and a drink come with this set.",
+"ctx": "menú/texto restaurant0056"
+},
+{
+"id": 13377,
+"en": "A tender stewed pork burger with fries and a drink.",
+"ctx": "menú/texto restaurant0056 + menú/texto shop0058"
+},
+{
+"id": 13378,
+"en": "A Smile Shake made with fresh milk. Sure to put a smile on anyone's face.",
+"ctx": "menú/texto restaurant0056 + menú/texto shop0028"
+},
+{
+"id": 13379,
+"en": "This meat is from the belly of the cow. It's popular for its incredibly rich flavor. ",
+"ctx": "menú/texto restaurant0058"
+},
+{
+"id": 13380,
+"en": "Beef back strap with a light flavor and relatively low in fat.",
+"ctx": "menú/texto restaurant0058"
+},
+{
+"id": 13381,
+"en": "This beef skirt steak is actually considered to be entrails, but it is very popular.",
+"ctx": "menú/texto restaurant0058"
+},
+{
+"id": 13382,
+"en": "Harami taken from top grade Japanese beef. An incredible treat for your taste buds.",
+"ctx": "menú/texto restaurant0058"
+},
+{
+"id": 13383,
+"en": "Taste our egg sushi to get an idea of our overall quality. We take special pride in this.",
+"ctx": "menú/texto restaurant0060"
+},
+{
+"id": 13384,
+"en": "Unbelievably fresh! This sweet shrimp will melt in your mouth.",
+"ctx": "menú/texto restaurant0060"
+},
+{
+"id": 13385,
+"en": "Hirame, AKA olive flounder, is right in season. And ours is all-natural.",
+"ctx": "menú/texto restaurant0060"
+},
+{
+"id": 13386,
+"en": "This kinmedai was freshly caught early this morning. It's oily and better than ever.",
+"ctx": "menú/texto restaurant0060"
+},
+{
+"id": 13387,
+"en": "Can you tell natural and artificial salmon roe apart? This here's the best in the industry.",
+"ctx": "menú/texto restaurant0060 + menú/texto restaurant0061"
+},
+{
+"id": 13388,
+"en": "Did you know that akagai clams have red blood? Ancient records speak of an Akagai goddess named Princess Kisagahi.",
+"ctx": "menú/texto restaurant0060"
+},
+{
+"id": 13389,
+"en": "Top-grade sea urchin straight from Numazu Port.",
+"ctx": "menú/texto restaurant0060"
+},
+{
+"id": 13390,
+"en": "The Mozzarella Cheese Caprese is prepared from fresh tomatoes and mozzarella drizzled with light olive oil.",
+"ctx": "menú/texto restaurant0062"
+},
+{
+"id": 13391,
+"en": "This octopus carpaccio is made with soft Hokkaido octopus and zesty ponzu sauce.",
+"ctx": "menú/texto restaurant0062"
+},
+{
+"id": 13392,
+"en": "Spicy, bite-sized, Hawaiian-style Portuguese sausages. They go great with beer.",
+"ctx": "menú/texto restaurant0062"
+},
+{
+"id": 13393,
+"en": "Spicy fries made by seasoning Hokkaido Matilda potatoes with chipotle salt.",
+"ctx": "menú/texto restaurant0062"
+},
+{
+"id": 13394,
+"en": "Oven-roasted fragrant, spicy chorizo sausage seasoned with chipotle salt.",
+"ctx": "menú/texto restaurant0062"
+},
+{
+"id": 13395,
+"en": "Bite-sized pieces of crunchy white fish paired with crispy french fries.",
+"ctx": "menú/texto restaurant0062"
+},
+{
+"id": 13396,
+"en": "This gin-based cocktail is mixed with ginger ale and a squeeze of lime.",
+"ctx": "menú/texto restaurant0063"
+},
+{
+"id": 13397,
+"en": "This drink is Kakubin mixed with lemon and soda. The \"XL\" refers to its size, so you can take your time drinking it.",
+"ctx": "menú/texto restaurant0063"
+},
+{
+"id": 13398,
+"en": "The Light Kakubin Highball XL is a milder version of Kakubin Highball XL.",
+"ctx": "menú/texto restaurant0063"
+},
+{
+"id": 13399,
+"en": "The Bronze Yamazaki Highball is Yamazaki whisky mixed with lemon and soda. Served in a copper tumbler to keep it cold.",
+"ctx": "menú/texto restaurant0063"
+},
+{
+"id": 13400,
+"en": "Enjoy the fine flavor of this Macallan-based highball. A blend of three different liquors infused with Macallan's fine oak. Goes down smooth.",
+"ctx": "menú/texto restaurant0063"
+},
+{
+"id": 13401,
+"en": "This delicious spaghetti dish is made with authentic, spicy fish roe from Hakata.",
+"ctx": "menú/texto restaurant0064"
+},
+{
+"id": 13402,
+"en": "This is our rich carbonara, with a tasty soft-boiled egg on top of a creamy sauce.",
+"ctx": "menú/texto restaurant0064"
+}
+]

@@ -1,0 +1,145 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_kyaba3",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    453,
+    7,
+    574,
+    46
+   ],
+   "en": "Cabaret",
+   "ocr": "Cabaret",
+   "es": "Cabaret",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 117,
+   "dejar": true
+  },
+  {
+   "caja": [
+    37,
+    62,
+    505,
+    100
+   ],
+   "en": "Using Your Free Time Wisely (2)",
+   "ocr": " Using Your Free Time Wisely (2)",
+   "es": "Usar sabiamente tu TIEMPO Gratis (2)",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 464,
+   "dejar": true
+  },
+  {
+   "caja": [
+    53,
+    108,
+    303,
+    142
+   ],
+   "en": "Give them a present",
+   "ocr": "Give them a present",
+   "es": "Dales un regalo",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 246,
+   "dejar": true
+  },
+  {
+   "caja": [
+    62,
+    140,
+    646,
+    175
+   ],
+   "en": "You can give them something you own as a gift.",
+   "ocr": "You can give them something you own as a gift.",
+   "es": "Puedes darle algo que posees como regalo.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 580,
+   "dejar": true
+  },
+  {
+   "caja": [
+    53,
+    181,
+    301,
+    211
+   ],
+   "en": "Invite them out later",
+   "ocr": "Invite themout later",
+   "es": "Invítales a salir más tarde",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 244,
+   "dejar": true
+  },
+  {
+   "caja": [
+    64,
+    213,
+    589,
+    244
+   ],
+   "en": "Ask if a hostess wants to go out after work.",
+   "ocr": "Ask if a hostess wants to go out after work.",
+   "es": "Pregunta si una Anfitriona quiere salir después del trabajo.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 521,
+   "dejar": true
+  },
+  {
+   "caja": [
+    52,
+    253,
+    177,
+    288
+   ],
+   "en": "Get going",
+   "ocr": "Getgoing",
+   "es": "¡Ponte en marcha!",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 121,
+   "dejar": true
+  },
+  {
+   "caja": [
+    63,
+    284,
+    866,
+    317
+   ],
+   "en": "Even if you have time left, you can call it a day and leave the club.",
+   "ocr": "Even if you have time left, you can call it a day and leave the club.",
+   "es": "Aunque todavía tengas Tiempo restante, puedes darlo por terminado e Irse del club.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 799,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: lo hace el PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

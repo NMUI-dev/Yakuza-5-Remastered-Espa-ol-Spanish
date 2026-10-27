@@ -1,0 +1,967 @@
+[
+{
+"id": 53223,
+"en": "What color is it?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53224,
+"en": "What color? Is that really your question?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53225,
+"en": "Yeah. So what's the answer?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53226,
+"en": "Umm... Brown?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53227,
+"en": "Oh? You think y'know it already?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53228,
+"en": "Oooh! Someone's sure of himself!",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53229,
+"en": "Now, time for your final answer, Kiryu-san! What is the dish I'm going to make for you?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53230,
+"en": "Is it seafood paella?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53231,
+"en": "Oooooh!",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53232,
+"en": "Sorry! That ain't it!",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53233,
+"en": "It's not?",
+"ctx": "diálogo uid01340012 + diálogo uid016901aa"
+},
+{
+"id": 53234,
+"en": "Well, you'll see when it's done. Just wait a little bit.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53235,
+"en": "You're not going to tell me?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53236,
+"en": "Is it beef stew?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53237,
+"en": "Oooh!",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53238,
+"en": "That's right! How'd ya guess!?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53239,
+"en": "Guess I just had a hunch.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53240,
+"en": "I'm gonna make a beef stew like no one's ever had before! I'm real excited about it!",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53241,
+"en": "Well, I look forward to it.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53242,
+"en": "Curry?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53243,
+"en": "Huh? I said it was somethin' new!",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53244,
+"en": "I just figured curry would be the only sort of thing you knew how to make.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53245,
+"en": "What makes y'say that? You are wrong buddy! And here I was all excited to make it for ya. Now I almost don't even wanna let you try it.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53246,
+"en": "Ahh!",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53247,
+"en": "Seeing you just made me remember somethin' wicked important.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53248,
+"en": "Important, huh?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53249,
+"en": "I got slapped with a ticket the other day and I gotta go and pay the fine. This totally sucks.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53250,
+"en": "What did you do?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53251,
+"en": "I went down a street that was only one-way between certain hours.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53252,
+"en": "And you didn't see the signs, I guess.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53253,
+"en": "Yeah. I was wicked surprised.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53254,
+"en": "It's a street I always take and so I didn't even notice. I just happened to be later than usual, is all.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53255,
+"en": "You should go right away. Not paying the fine will make things worse.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53256,
+"en": "Worse how?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53257,
+"en": "You might wind up with some jail time.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53258,
+"en": "What!? They're gonna lock me up!?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53259,
+"en": "Well, more likely you'll get community service.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53260,
+"en": "Yikes! Well in that case, I gotta go run and pay this as soon as my shift's over! Thanks for letting me know, Kiryu-san!",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53261,
+"en": "What does that have to do with me?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53262,
+"en": "Um, it doesn't.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53263,
+"en": "But you just said seeing me reminded you of it. Is there some sort of connection in your mind?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53264,
+"en": "Huh? No, not really. I just happened to remember it when I saw ya, that's all.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53265,
+"en": "Uh. Sure, okay.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53266,
+"en": "Oh no! What's wrong?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53267,
+"en": "You first.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53268,
+"en": "But now I'm worried!",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53269,
+"en": "Uh, nothing. That just sorta came out.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53270,
+"en": "Sheesh, stop actin' like a baby!",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53271,
+"en": "What's worse is now I'm not gonna get my gold license anytime soon.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53272,
+"en": "That's a shame. I take it you hadn't had any traffic violations before?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53273,
+"en": "No, none! Ever since I got my license I've been tryin' my best to get gold.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53274,
+"en": "Keep trying. As long as you try to stay a safe driver, you'll get it eventually.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53275,
+"en": "Okay! I'll keep at it, then! You try not to cause any accidents too, Kiryu-san!",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53276,
+"en": "That's typical, though. You're only human. If you drive every day, then you'll wind up with a few violations sooner or later.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53277,
+"en": "That go for you too, Kiryu-san?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53278,
+"en": "Well, I'm a taxi driver. Sometimes my customers ask me to do things that wind up getting me slapped with a violation.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53279,
+"en": "Oh, really? Well, that's a relief.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53280,
+"en": "Still, I really want that gold license.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53281,
+"en": "Well, from now on, just be extra-cautious about being a safe driver.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53282,
+"en": "You don't need one. All a gold license really says is that you're someone who doesn't actually drive enough to get in trouble.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53283,
+"en": "What? But having a gold one means you don't gotta renew it as much, and the fees are cheaper to boot. It's better to have one, ain't it?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53284,
+"en": "Well, I guess money is a factor, but it still shouldn't affect your actual ability to drive.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53285,
+"en": "But money's important! I already gotta pay this stupid fine! It's not like I wanna pay more on top of that.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53286,
+"en": "Did ya work today?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53287,
+"en": "Yes, I did.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53288,
+"en": "Well, in that case, take a load off! What do ya do for a living, anyway?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53289,
+"en": "I'm a taxi driver.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53290,
+"en": "Oh, wow! Hey, maybe I've ridden in your cab before, huh?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53291,
+"en": "That's a secret.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53292,
+"en": "Aww, but I'm curious. C'mon just tell me!",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53293,
+"en": "Does it really matter? I'm just your normal, everyday salaryman, that's all.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53294,
+"en": "Huh, for real? I dunno. Ya don't really look like a normal, everyday guy to me.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53295,
+"en": "Well, looks can be deceiving.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53296,
+"en": "So hey, Kiryu-san, would ya say you're the kinda guy folks can rely on?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53297,
+"en": "Sure. People tend to rely on me more than I rely on them.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53298,
+"en": "I knew it! You kinda give off that impression, y'know?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53299,
+"en": "Not really. I'm a burden to my boss and my coworkers.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53300,
+"en": "Really? But ya give off this sorta aura of reliability and all.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53301,
+"en": "Why do you ask, anyway?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53302,
+"en": "I dunno. I guess I thought you and I were like two peas in a pod.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53303,
+"en": "Two peas in a pod? How so?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53304,
+"en": "It's just that folks are pretty much constantly comin' to me for advice on stuff.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53305,
+"en": "Some people even call me Counselor Riku. Ain't that cool?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53306,
+"en": "You do give off that vibe. I feel like I could open up to you about my problems pretty easily.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53307,
+"en": "See what I mean? I actually get lotsa folks coming to me for that sorta thing, if I do say so myself.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53308,
+"en": "In that case, do you mind if I talk to you about something?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53309,
+"en": "Go right ahead! Just lay your worries on ol' Riku-san, here!",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53310,
+"en": "Glad I can count on you.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53311,
+"en": "So, what'll it be? Are ya unlucky in love, Kiryu-san? I'm here listenin' if you've got girl problems!",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53312,
+"en": "Let me think about it, okay?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53313,
+"en": "I'm just kidding. I can take care of my own problems just fine.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53314,
+"en": "Whaaat? Lame.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53315,
+"en": "That's hard to believe. You don't exactly strike me as being all that reliable.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53316,
+"en": "Get outta town! I have folks comin' to me for advice every day. Every! Day!",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53317,
+"en": "That can't be true. For starters, in order to hear someone out, you need to be able to stop and listen to them.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53318,
+"en": "Whatcha talkin' about? I'm a great listener.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53319,
+"en": "What are y'looking at me like that for? I give up! You're a jerk, Kiryu-san!",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53320,
+"en": "Sheesh.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53321,
+"en": "Does that pay well?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53322,
+"en": "Ahahaha! I don't charge for it, silly. This is just something I do for my close friends.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53323,
+"en": "Sure, but in your case I'll have to charge ya.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53324,
+"en": "Hey now.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53325,
+"en": "So I had a pretty engaging consultation session with someone a little while back.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53326,
+"en": "Oh, you mean with the Counselor Riku thing?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53327,
+"en": "Yeah. I've got a buncha folks lined up with appointments. There's so many piled up that I can barely keep them all sorted.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53328,
+"en": "It's rough being popular. Soon enough all of your private time is going to be taken up with these consultations of yours.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53329,
+"en": "Nah, it's no big deal. I do it 'cause I like it.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53330,
+"en": "It's fun to have deep conversations with other people, I think. It's a nice way for me to spend my time.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53331,
+"en": "Should you take on that many? How do you even keep everything straight in your head when you have to listen to so many people?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53332,
+"en": "Don't worry! I forget what folks tell me pretty much right away.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53333,
+"en": "Later on folks'll be all, \"Hey, thanks for your help with that thing,\" and I'll be like, \"What thing?\"",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53334,
+"en": "That seems a bit inconsiderate. You're actually able to help people solve their problems that way?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53335,
+"en": "It's fine. The most important thing is for folks to talk to someone about their problems. Whether they solve 'em ain't my problem.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53336,
+"en": "It's better to get it off your chest than to be too afraid to do nothin' about it.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53337,
+"en": "I get you. It's definitely a relief just to be able to talk to someone.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53338,
+"en": "Yep! My duty ain't to actually fix the problem, just to put the other person's mind at ease.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53339,
+"en": "Are you sure? The person with the problem probably considers solving it to be the most important thing and expects you to help.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53340,
+"en": "Well, I... Yeah, I guess that's true. But ain't it kinda weak to expect someone else to solve your problems for ya?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53341,
+"en": "Well, that's what counseling is about, isn't it? You should try to be a bit more sympathetic and thoughtful next time.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53342,
+"en": "Right. I'll try to be more careful from now on.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53343,
+"en": "That's the same as being a hostess. You talk with customers to help them feel better.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53344,
+"en": "Oh, hey, you're right! Haha! I guess I must be well-suited to talkin' to folks for a living.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53345,
+"en": "Heh. It must be your calling.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53346,
+"en": "Ahaha! See, you're pretty good at this talkin' thing too, Kiryu-san.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53347,
+"en": "It's not just about talking, though. The person with the problem probably considers solving it to be the most important thing and expects you to help.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53348,
+"en": "Huh? Y'think so?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53349,
+"en": "If you can't meet their expectations, you should still choose your words carefully. There's always a chance things you say could backfire on you.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53350,
+"en": "Just take care to not say anything inconsiderate.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53351,
+"en": "Geez, Kiryu-san. Lecture much? C'mon, let's change the subject. How 'bout something that's actually fun and all.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53352,
+"en": "Anyone can do that. If all the person needs is someone to listen them, that someone doesn't need to be you.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53353,
+"en": "Well, am I right? Take me for instance. I can listen to someone just fine.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53354,
+"en": "So from now on, if you need someone to talk to, you can talk to me.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53355,
+"en": "No way! That's super lame. Then I'm not gonna have any fun!",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53356,
+"en": "You're so mean, Kiryu-san!",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53357,
+"en": "Hey, Kiryu-san? So I've got myself a little problem.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53358,
+"en": "That's unusual. People usually come to you for that sort of thing, don't they?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53359,
+"en": "I guess this must be how other folks feel, huh?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53360,
+"en": "I've got something on my mind, too. Think you could hear me out?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53361,
+"en": "What? Why ya gotta bring that up now? I thought y'were gonna listen to my problems!",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53362,
+"en": "So ya gonna hear me out or what?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53363,
+"en": "Go ahead. I'll see if I can help you out.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53364,
+"en": "Aw, I knew ya'd say that, Kiryu-san!",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53365,
+"en": "I'm not really here for that... Maybe we can go back to some lighter conversation?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53366,
+"en": "Oh, that's right. I'm sorry.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53367,
+"en": "But... I really don't know what I oughta do.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53368,
+"en": "Okay, fine. Tell me what's wrong.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53369,
+"en": "I don't come cheap. But if you want, I'll hear you out.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53370,
+"en": "What? You're chargin' me?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53371,
+"en": "Of course. I think I deserve a little payment for helping you solve your problems.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53372,
+"en": "Well, I guess. I just figured you'd be a good person to talk to about stuff, Kiryu-san.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53373,
+"en": "Heh, okay, okay. Tell me what's wrong.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53374,
+"en": "Just kidding. If you think I can help, I'll hear you out.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53375,
+"en": "Whew! Ya had me real worried for a sec!",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53376,
+"en": "Sorry. So, you were saying?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53377,
+"en": "I've got these two friends who come to me separately to talk 'bout stuff. Their names are Yuka-chan and Asumi-chan.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53378,
+"en": "What do they want to talk about?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53379,
+"en": "Well, it's about romance.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53380,
+"en": "You're asking the wrong guy. You should find someone else to talk to about this.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53381,
+"en": "Oh, shush! Just hear me out.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53382,
+"en": "Yuka-chan's living with her boyfriend, and she's wonderin' if they should get hitched.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53383,
+"en": "And Asumi-chan's worryin' her head off because her boyfriend proposed to her.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53384,
+"en": "So what's the problem, exactly?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53385,
+"en": "Well, after they told me all this, I got to thinkin' and put the pieces together.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53386,
+"en": "And I realized both of these girls are thinkin' about marrying the same guy!",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53387,
+"en": "It seems the guy's a two-timer. The girl who lives with him thinks he's her boyfriend, but he's just treatin' it like he's renting a room.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53388,
+"en": "These two girls don't know each other?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53389,
+"en": "No, I just know them both. They both said their guy is a host, but I thought that it was only a coincidence at first.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53390,
+"en": "A host, huh? Wait, this sounds like the guy is running a typical host's scam. He's just trying to get girls to visit him as a regular customer.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53391,
+"en": "Right! But I didn't realize that at the time, so I told 'em they should go ahead and get married.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53392,
+"en": "You need to come clean. It'll save them from more hurt later on.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53393,
+"en": "Yeeeah, but since I was all rah-rah thumbs up for them gettin' hitched, now I don't know if I can break the news to them.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53394,
+"en": "I know how you must feel, but the longer you let this go on, the harder it's going to be to tell them.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53395,
+"en": "Ugh, this bites. But you're right. I'll find some way to tell 'em.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53396,
+"en": "Just leave it alone. This isn't the sort of thing you should meddle in.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53397,
+"en": "I guess not...",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53398,
+"en": "Instead, the next time a friend comes to you looking for advice, make sure to listen to them carefully. You like doing that, right?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53399,
+"en": "Well yeah, 'course! I just need to keep my trap shut 'til someone asks me for advice.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53400,
+"en": "Hey, you remember that thing we talked about?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53401,
+"en": "Yeah. You mean the two girls who came to you for advice about the same host?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53402,
+"en": "Yeah, that! I just heard some real shady talk 'bout the host in question.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53403,
+"en": "No. Sorry, I don't remember.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53404,
+"en": "Gaaah, I'm talkin' 'bout the two girls who asked me for datin' advice about the same guy!",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53405,
+"en": "Ah, yes, now I remember. Your friends who were dating that host.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53406,
+"en": "What sort of talk?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53407,
+"en": "So this host⑬his name's Subaru-san⑬apparently has some secret connections with the yakuza.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53408,
+"en": "Really!? This is seriously bad news, and that's all y'have to say about it?",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53409,
+"en": "Having yakuza connections doesn't mean he's bad. He's still the same guy.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53410,
+"en": "Say what? Well, I guess that's true, but... Maybe I asked the wrong person for advice.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53411,
+"en": "That's not good. Respectable women shouldn't get mixed up with the yakuza like that.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53412,
+"en": "Right!? So now I'm in a real pickle!",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53413,
+"en": "If they blow all their money on this guy and go flat broke, they might get caught up in the sex trade, or be forced to take loans they gotta pay off.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53414,
+"en": "Hm. Guess there are guys like this no matter where you go.",
+"ctx": "diálogo uid01340012"
+},
+{
+"id": 53415,
+"en": "So, everything that's happened from the start has all been part of some criminal scheme. I gotta tell these girls what I know, right?",
+"ctx": "diálogo uid01340012"
+}
+]

@@ -1,0 +1,168 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_golf.par/texlist/2d_yk_golf",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    105,
+    20,
+    168,
+    34
+   ],
+   "en": "SCORE",
+   "ocr": "SCORE",
+   "es": "PUNTOS",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 59,
+   "alto": 12
+  },
+  {
+   "caja": [
+    178,
+    24,
+    353,
+    48
+   ],
+   "en": "NICE SHOT",
+   "ocr": "NICE SHOT",
+   "es": "¡BUEN TIRO!",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 172,
+   "alto": 19
+  },
+  {
+   "caja": [
+    105,
+    36,
+    157,
+    50
+   ],
+   "en": "BEST",
+   "ocr": "BEST",
+   "es": "MEJOR",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 48,
+   "alto": 12
+  },
+  {
+   "caja": [
+    180,
+    54,
+    306,
+    74
+   ],
+   "en": "MISSED",
+   "ocr": "MISSED",
+   "es": "FALLÓ",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 122,
+   "alto": 18
+  },
+  {
+   "caja": [
+    2,
+    219,
+    357,
+    243
+   ],
+   "en": "CONGRATULATIONS!",
+   "ocr": "CONGRATULATIONS!",
+   "es": "¡FELICIDADES!",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 351,
+   "alto": 20
+  },
+  {
+   "caja": [
+    0,
+    256,
+    200,
+    280
+   ],
+   "en": "Beginner's Course",
+   "ocr": "Beginner'sCourse",
+   "es": "Campo principiante",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 196,
+   "alto": 20
+  },
+  {
+   "caja": [
+    0,
+    280,
+    200,
+    304
+   ],
+   "en": "Intermediate Course",
+   "ocr": "IntermediateCourse",
+   "es": "Campo intermedio",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 196,
+   "alto": 16
+  },
+  {
+   "caja": [
+    0,
+    306,
+    200,
+    330
+   ],
+   "en": "Advanced Course",
+   "ocr": "AdvancedCourse",
+   "es": "Campo avanzado",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 196,
+   "alto": 16
+  },
+  {
+   "caja": [
+    0,
+    330,
+    200,
+    354
+   ],
+   "en": "Pro Course",
+   "ocr": "Pro Course",
+   "es": "Campo profesional",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 196,
+   "alto": 16
+  },
+  {
+   "caja": [
+    0,
+    356,
+    200,
+    380
+   ],
+   "en": "Challenge Course",
+   "ocr": "Challenge Course",
+   "es": "Campo de desafío",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 196,
+   "alto": 19
+  }
+ ]
+}

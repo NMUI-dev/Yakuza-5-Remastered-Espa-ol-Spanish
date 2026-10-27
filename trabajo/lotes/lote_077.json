@@ -1,0 +1,987 @@
+[
+{
+"id": 20576,
+"en": "It's important to savor your food. Meals are meant to be pleasurable. Seeing them just as a means of sustenance isn't any fun.",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20577,
+"en": "Oh, I agree! Since I only eat one meal a day, I make sure it's a tasty one!",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20578,
+"en": "For all I know, I might die tomorrow. So I don't want to have any regrets about not eating something delicious!",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20579,
+"en": "I've never thought about it in such... extreme terms before.",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20580,
+"en": "But I wouldn't want to lose the enjoyment of eating by obsessing over stuff like nutrition and dieting.",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20581,
+"en": "Exactly. It'd be lame to be thin but not liked by anyone. You're missing out on life by not enjoying your food.",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20582,
+"en": "I'm with you there.",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20583,
+"en": "Check please.",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20584,
+"en": "Here you are! Thanks!",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20585,
+"en": "Sorry. Something came up all of a sudden.",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20586,
+"en": "Ah, I see. Well, swing by again sometime.",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20587,
+"en": "Thank you very much. Your bill comes to %s.",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20588,
+"en": "Thank you very much. Please come again.",
+"ctx": "diálogo uid000c0163 + diálogo uid000c09f7 …"
+},
+{
+"id": 20589,
+"en": "Please follow me.",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20590,
+"en": "Welcome! What'll it be?",
+"ctx": "diálogo uid000c0163 + diálogo uid0033008a …"
+},
+{
+"id": 20591,
+"en": "What do you recommend today?",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20592,
+"en": "Any recommendations today?",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20593,
+"en": "Hey boss, whaddya recommend today?",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20594,
+"en": "Hey chief, what's good today?",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20595,
+"en": "Do you have any recommendations?",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20596,
+"en": "For today, I highly recommend the <Color:8>Whole Sea Eel<Color:Default>.\nIt's really good!",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20597,
+"en": "<Color:8>Whole Sea Eel<Color:Default>, huh? Sounds good.",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20598,
+"en": "<Color:8>Whole Sea Eel<Color:Default>, huh? That sounds good.",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20599,
+"en": "<Color:8>Whole Sea Eel<Color:Default>, huh? Sounds tasty.",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20600,
+"en": "<Color:8>Whole Sea Eel<Color:Default>, huh? Sounds good to me!",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20601,
+"en": "<Color:8>Whole Sea Eel<Color:Default>? Oh, that sounds delicious!",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20602,
+"en": "What'll it be?",
+"ctx": "diálogo uid000c0163 + diálogo uid01340015 …"
+},
+{
+"id": 20603,
+"en": "Sorry, but something came up. I have to get going.",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20604,
+"en": "My bad. I forgot somethin'. Sorry.",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20605,
+"en": "Sorry, sorry! There's this thing I gotta do. I have to get going.",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20606,
+"en": "I'm really sorry. Something just came up. You'll have to excuse me.",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20607,
+"en": "あ、えと、申し遅れました。私、\nTVBros.という雑誌の編集をしております、\n浅井と申します。",
+"ctx": "diálogo uid000c0164"
+},
+{
+"id": 20608,
+"en": "パスワードは「<Color:7>チャンス<Color:Default>」です。",
+"ctx": "diálogo uid000c05dc"
+},
+{
+"id": 20609,
+"en": "Hello. I'll exchange your pachinko balls for prizes.",
+"ctx": "diálogo uid000c05de"
+},
+{
+"id": 20610,
+"en": "Thank you. We look forward to your next visit.",
+"ctx": "diálogo uid000c05de + diálogo uid00330928 …"
+},
+{
+"id": 20611,
+"en": "I see. We look forward to your next visit.",
+"ctx": "diálogo uid000c05de + diálogo uid00330457 …"
+},
+{
+"id": 20612,
+"en": "The cold's really takin' hold tonight. A man needs a good woman to keep him warm.",
+"ctx": "diálogo uid000c0640"
+},
+{
+"id": 20613,
+"en": "After a night out with the boys, food stall ramen just goes down so smooth. But man, all that salt and fat...",
+"ctx": "diálogo uid000c0641"
+},
+{
+"id": 20614,
+"en": "Something's wrong. Only ten minutes till our meet-up time, and no one's shown up. They might be in some kinda trouble!",
+"ctx": "diálogo uid000c0642"
+},
+{
+"id": 20615,
+"en": "Oof, blegh... I shoulda capped it at aroun' eight beers...",
+"ctx": "diálogo uid000c0643"
+},
+{
+"id": 20616,
+"en": "Time's a scary thing. You get focused on somethin', and before ya know it, the whole day is over.",
+"ctx": "diálogo uid000c0644"
+},
+{
+"id": 20617,
+"en": "Man, my girl's gonna go gaga over this. I always get so creative with my texts. Here goes nothin'... \"Love ya!\" And... send!",
+"ctx": "diálogo uid000c0645"
+},
+{
+"id": 20618,
+"en": "Where are you!? The movie's startin' soon!",
+"ctx": "diálogo uid000c0646"
+},
+{
+"id": 20619,
+"en": "Where was that motsunabe place? I'm starvin' for some good ol' fashioned organ meat!",
+"ctx": "diálogo uid000c0647"
+},
+{
+"id": 20620,
+"en": "Do I muster up my courage and go inside, or do I duck out? Decision time, come on... This maid café thing is more challengin' than it looks, and I'm not even in the door yet.",
+"ctx": "diálogo uid000c0648"
+},
+{
+"id": 20621,
+"en": "I just jumped out into the street and nearly got smashed by a car! Ahaha! You better watch out, too!",
+"ctx": "diálogo uid000c0649"
+},
+{
+"id": 20622,
+"en": "These girls and their Hakata dialect are all kinds of cute. I can't stand it!",
+"ctx": "diálogo uid000c064a"
+},
+{
+"id": 20623,
+"en": "Where'd I leave that bike o' mine? Why's this always happen to me?",
+"ctx": "diálogo uid000c064b"
+},
+{
+"id": 20624,
+"en": "My gal's takin' forever to come. It's way past the time we promised. Wait... What am I sayin'? I ain't got a girlfriend.",
+"ctx": "diálogo uid000c064c"
+},
+{
+"id": 20625,
+"en": "Man, I don't believe this shit... Got my ass whooped by a\ntaxi driver!",
+"ctx": "diálogo uid000c069b"
+},
+{
+"id": 20626,
+"en": "Hey, I remember you.",
+"ctx": "diálogo uid000c069b"
+},
+{
+"id": 20627,
+"en": "Oh geez! It's that muscle-bound freak again!",
+"ctx": "diálogo uid000c069b"
+},
+{
+"id": 20628,
+"en": "All right, you. Mark my words! You're gonna wish you never\nmade an enemy of the Devil Killers!",
+"ctx": "diálogo uid000c069b"
+},
+{
+"id": 20629,
+"en": "You hear that, asshole!? Y'fucked up real good this time!",
+"ctx": "diálogo uid000c069b"
+},
+{
+"id": 20630,
+"en": "Damn... You know that guy?",
+"ctx": "diálogo uid000c069b"
+},
+{
+"id": 20631,
+"en": "Not really. He picked a fight with me on the street a while back.",
+"ctx": "diálogo uid000c069b"
+},
+{
+"id": 20632,
+"en": "No kiddin'? That was no ordinary driving there, though. Were you ever a street racer yourself?",
+"ctx": "diálogo uid000c069b"
+},
+{
+"id": 20633,
+"en": "Heheh. Just pulling your leg. Well, sorry for all the trouble. Let me treat you to a nice meal?",
+"ctx": "diálogo uid000c069b"
+},
+{
+"id": 20634,
+"en": "You don't have to do that.",
+"ctx": "diálogo uid000c069b"
+},
+{
+"id": 20635,
+"en": "Oh, come on. You've got to let me pay you back somehow. Besides, there's something I want to ask you about.",
+"ctx": "diálogo uid000c069b"
+},
+{
+"id": 20636,
+"en": "I'll tell you while we're eating. How's that sound?",
+"ctx": "diálogo uid000c069b"
+},
+{
+"id": 20637,
+"en": "...I suppose that's fine.",
+"ctx": "diálogo uid000c069b"
+},
+{
+"id": 20638,
+"en": "Hormone diet... hormone diet... hormone diet... hormone diet...",
+"ctx": "diálogo uid000c069d"
+},
+{
+"id": 20639,
+"en": "C'mon, we don't have that kinda money!",
+"ctx": "diálogo uid000c069e"
+},
+{
+"id": 20640,
+"en": "Don't try n' deny me my dream house! Sorry, but I ain't compromisin'!",
+"ctx": "diálogo uid000c069e"
+},
+{
+"id": 20641,
+"en": "Hey, what's it take to get good at fightin' games?",
+"ctx": "diálogo uid000c06a1"
+},
+{
+"id": 20642,
+"en": "It's easy. All y'gotta do is become one with the cabinet. Ya get me?",
+"ctx": "diálogo uid000c06a1"
+},
+{
+"id": 20643,
+"en": "Uh... Not really.",
+"ctx": "diálogo uid000c06a1"
+},
+{
+"id": 20644,
+"en": "Screw work... I don't ever wanna go back.",
+"ctx": "diálogo uid000c06a2"
+},
+{
+"id": 20645,
+"en": "Wait... The stalls aren't set up for business during the daytime?",
+"ctx": "diálogo uid000c06a3"
+},
+{
+"id": 20646,
+"en": "Come on, I can do this. It's not sad to karaoke solo. Go on, open the door...",
+"ctx": "diálogo uid000c06b8"
+},
+{
+"id": 20647,
+"en": "Ah... The river's a lovely place. Heals my soul, it does.",
+"ctx": "diálogo uid000c06b9"
+},
+{
+"id": 20648,
+"en": "He's just a taxi driver, right? They're all old guys who reek of tobacco and hair wax.",
+"ctx": "diálogo uid000c06bc"
+},
+{
+"id": 20649,
+"en": "No, it's true, though. A friend told me. She said he was super-hot, and she could tell he was a beast. I could go for a ride with that.",
+"ctx": "diálogo uid000c06bc"
+},
+{
+"id": 20650,
+"en": "You're wastin' your life bein' chickenshit like this. You gotta give it a try!",
+"ctx": "diálogo uid000c06be"
+},
+{
+"id": 20651,
+"en": "Yeah, but... I dunno...",
+"ctx": "diálogo uid000c06be"
+},
+{
+"id": 20652,
+"en": "My bike key's gone? What the heck? Where's my bag? Where'd I leave it!?",
+"ctx": "diálogo uid000c06c0"
+},
+{
+"id": 20653,
+"en": "Oh my goodness, I hate cliffhangers. And the author's taking a break next issue! Get back to work, darn it!",
+"ctx": "diálogo uid000c06c1"
+},
+{
+"id": 20654,
+"en": "Hmm... What do I feel like for lunch? After all, what you have for lunch determines how you feel for half your day.",
+"ctx": "diálogo uid000c06c2"
+},
+{
+"id": 20655,
+"en": "It can get rough around here. Watch yourself.",
+"ctx": "diálogo uid000c06d2"
+},
+{
+"id": 20656,
+"en": "So pissed, man. I got whupped again! Huh? Just talkin' video games, no biggie.",
+"ctx": "diálogo uid000c06d3"
+},
+{
+"id": 20657,
+"en": "Now, hold on here. You're sayin' Akemi did that? Akemi!? No shit?",
+"ctx": "diálogo uid000c06d4"
+},
+{
+"id": 20658,
+"en": "I doubted my eyes myself, too. I never thought I'd ever see Akemi doin' that. Sorry, man.",
+"ctx": "diálogo uid000c06d4"
+},
+{
+"id": 20659,
+"en": "Nice view, eh? This is my favorite scenery in town.",
+"ctx": "diálogo uid000c06d6"
+},
+{
+"id": 20660,
+"en": "Some scary goons mugged me. I can't even buy a soda now!",
+"ctx": "diálogo uid000c06d7"
+},
+{
+"id": 20661,
+"en": "Hmm... Huh? I, uh, I was just lookin'! Not gonna go to some sleazy place, honest.",
+"ctx": "diálogo uid000c06d8"
+},
+{
+"id": 20662,
+"en": "The first one after work's special. Talkin' ramen, of course.",
+"ctx": "diálogo uid000c06d9"
+},
+{
+"id": 20663,
+"en": "I got a hankerin' for ya that burns like the summer sun!",
+"ctx": "diálogo uid000c06da"
+},
+{
+"id": 20664,
+"en": "Huh? What did you say?",
+"ctx": "diálogo uid000c06da"
+},
+{
+"id": 20665,
+"en": "Oh, hi there, Suzuki-san.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20666,
+"en": "Something up, Muramatsu-san?",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20667,
+"en": "No... Uh, well...",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20668,
+"en": "I have to step out. Can you man the phone, Muramatsu-kun?",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20669,
+"en": "Yeah, sure. Leave it to me.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20670,
+"en": "How's it goin', Muramatsu-kun?",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20671,
+"en": "I'm afraid things aren't looking too good.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20672,
+"en": "Still actin' up, huh? You know anything 'bout computers, Suzuki-san?",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20673,
+"en": "Not much, no.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20674,
+"en": "Hmm. That computer's been actin' up lately. Runnin' slow all of a sudden.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20675,
+"en": "Huh? What's this!?",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20676,
+"en": "Empty windows keep popping up. They won't stop! Wait. I know what this is. It's one of those cyberterrorism attacks!",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20677,
+"en": "Cider terrorism? What's that?",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20678,
+"en": "Ya mean someone's hackin' into our computer? Whaddya think we should do, Suzuki-san!?",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20679,
+"en": "Cider? Hacking? Like... hacking up food?",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20680,
+"en": "I don't understand how this relates to computers. I'm not good with them.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20681,
+"en": "Same goes for the lot of us here! But that computer's got a ton of data on it we need to hold on to!",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20682,
+"en": "We're countin' on ya, Suzuki-san! Can't ya think of anythin'?",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20683,
+"en": "Okay. I'll see what I can do. First of all...",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20684,
+"en": "So this box here is the computer, huh? You should try hitting it.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20685,
+"en": "Ya sure that's a good idea!?",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20686,
+"en": "When something's acting up, I always give it a good whack first. That's how I fixed the TV back at Morning Glo⑬er, my last house.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20687,
+"en": "All righty, then. I'll give it a shot!",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20688,
+"en": "That didn't seem to do anything.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20689,
+"en": "Ya reckon this is gonna fix it? I get the feelin' this ain't how it's done.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20690,
+"en": "Okay, then. Well, next up...",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20691,
+"en": "We should tap on the keyboard a bit. It doesn't matter what keys. Just tap away.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20692,
+"en": "Ya gotta be kiddin' me! It can't be that simple, surely!",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20693,
+"en": "Maybe not, but doing nothing won't fix it, either. Even if it's only a small chance, we can't rule it out.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20694,
+"en": "Alrighty, then. We'll give it a shot!",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20695,
+"en": "Guess it ain't gonna work. Nothin's changed a bit.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20696,
+"en": "Well, we've eliminated that from the equation, at least. That's progress.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20697,
+"en": "But our precious data's gonna get stolen at this rate! We can't let that happen!",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20698,
+"en": "Of course not. Next up...",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20699,
+"en": "I think that cord at the back of the computer might be the answer.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20700,
+"en": "Cord? Oh, ya mean the LAN cable? What do I do with it!?",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20701,
+"en": "Pull it out. As hard as you can.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20702,
+"en": "I get it! That'd take it off the network, huh? Perfect! I see now!",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20703,
+"en": "So did that do the trick?",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20704,
+"en": "What's this, Suzuki-san? Some girl is moanin' through the computer speakers!",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20705,
+"en": "Uh-oh. I guess it was a trap, Nakajima-san. The attacker must have known what we'd do.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20706,
+"en": "They probably set it up to play that moaning sound when the cord is pulled out to stop us from getting to the bottom of this.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20707,
+"en": "Whoever came up with this plan knows our every move! We're up against a tough foe.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20708,
+"en": "Oh, c'mon! We can't have a girl moanin' in the office all day! 'Specially not one who keeps askin' us to \"put it back in\"!",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20709,
+"en": "Ya gotta do somethin', Suzuki-san!",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20710,
+"en": "Okay, next up...",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20711,
+"en": "Hit that box... er, computer again.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20712,
+"en": "That didn't do us a lick of good before! Ain't no point in bashin' the thing to pieces, right?",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20713,
+"en": "I guess there isn't much point in that, no. Okay, next up...",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20714,
+"en": "Let's try restarting the computer. That's the thing to do in an emergency.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20715,
+"en": "Aha! That's it! I shoulda thought of that myself!",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20716,
+"en": "Lemme see. Where's the restart...? Ah, there we go!",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20717,
+"en": "Hmm... That's weird. It ain't respondin' at all now.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20718,
+"en": "You mean it isn't doing what you tell it? That's a problem.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20719,
+"en": "Damn. Can't even shut the thing down now. Think I oughta just pull the power cable out, Suzuki-san?",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20720,
+"en": "The power plug? No, that would be dangerous. It could wreck the hard disk.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20721,
+"en": "Can't have that! What are we s'posed to do now, then?",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20722,
+"en": "Hmm. I guess we could...",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20723,
+"en": "I'm hitting the computer.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20724,
+"en": "Okay, okay! Whatever it takes. Just hurry it up!",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20725,
+"en": "All right, here goes.",
+"ctx": "diálogo uid000c06fe + diálogo uid01070961 …"
+},
+{
+"id": 20726,
+"en": "Hiyah!",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20727,
+"en": "Hrah!",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20728,
+"en": "Gah, I can't take much more of this! That voice is gettin' me all flustered. Do somethin' quick, Suzuki-san!",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20729,
+"en": "Calm down, Nakajima-san. We still have other options. Next, I'll...",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20730,
+"en": "I'll restart the computer.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20731,
+"en": "Okay, fine! I'll try anythin' at this point. Just make it fast!",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20732,
+"en": "Any luck?",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20733,
+"en": "No, it didn't seem to do anything.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20734,
+"en": "Shit! We're screwed, then!",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20735,
+"en": "Let's plug the cord back in.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20736,
+"en": "Yeah! That moanin' voice is tellin' us not to pull the LAN cable out! Good thinkin', Suzuki-san!",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20737,
+"en": "Aha! Did that stop the moanin'?",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20738,
+"en": "What's this, Suzuki-san!? It's sayin' somethin' different now! All this stuff about not pullin' out and puttin' it in deeper is gonna fry my damn circuits!",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20739,
+"en": "It seems they anticipated we'd do that as well.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20740,
+"en": "We'll never get any work done here with this racket goin' on! I guess we're gonna have to go with the last resort!",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20741,
+"en": "Last resort?",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20742,
+"en": "Pullin' the power cord outta the computer! That'll stop it in its tracks!",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20743,
+"en": "But that could place a lot of strain on the hard disk. You realize you could lose all the data, right!?",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20744,
+"en": "Well, we ain't got much of a choice!",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20745,
+"en": "The data is still intact now, though. It's just a moaning voice. I think it's too early to give up yet, Nakajima-san.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20746,
+"en": "We tried everythin'! That voice is drivin' me battier than a belfry at midnight!",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20747,
+"en": "I'm gonna do it! Let's get this over and done with! Stay outta the way, Suzuki-san!",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20748,
+"en": "(Maybe I should stop Nakajima-san.)",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20749,
+"en": "Okay, I won't stop you. Do what you think is best, Nakajima-san.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20750,
+"en": "Alrighty! Here goes! I'm pullin' it out!",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20751,
+"en": "It stopped!",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20752,
+"en": "Good call, Nakajima-san. That looks like it solved the problem for now.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20753,
+"en": "Oh, welcome back, Hirakawa-san.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20754,
+"en": "Did something happen while I was out? Why are you all crowded around the computer?",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20755,
+"en": "We almost got hit by some cyberterrorists, but we have it under control now.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20756,
+"en": "Under control? Ah! Did you pull the power cord out!?",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20757,
+"en": "We had to. The damn thing was makin' all these raunchy sounds.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20758,
+"en": "Raunchy sounds? Oh, was it saying something like \"Don't pull out\"?",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20759,
+"en": "You know about computers, Hirakawa-san?",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20760,
+"en": "I may not look it, but I'm pretty savvy with technology. Did you have antivirus software installed on your PC, Nakajima-san?",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20761,
+"en": "With antivirus software installed, you wouldn't have had this mess happen in the first place.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20762,
+"en": "If you pulled the power cable out...",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20763,
+"en": "Thought so. It's scrapped. It won't boot up anymore. The hard drive is dead as a doornail.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20764,
+"en": "You'll have to get a specialist to look at it. It'll probably cost you an arm and a leg to fix, too.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20765,
+"en": "I wish you'd waited until I got back. I could have fixed it in a flash.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20766,
+"en": "It sounds like it was just one of those joke programs, anyway. It probably wouldn't have done any harm.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20767,
+"en": "So you're sayin' if we just left it, this wouldn't have happened?",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20768,
+"en": "That's about the size of it, yes.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20769,
+"en": "I told you it could ruin the hard disk, Nakajima-san.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20770,
+"en": "It's my fault for not stopping him.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20771,
+"en": "Nah, don't go blaming yourself, Suzuki-san. This is the kind of program you often find lurking on adult sites.",
+"ctx": "diálogo uid000c06fe"
+},
+{
+"id": 20772,
+"en": "The people who were dumb enough to visit a site like that on a work PC are responsible.",
+"ctx": "diálogo uid000c06fe"
+}
+]

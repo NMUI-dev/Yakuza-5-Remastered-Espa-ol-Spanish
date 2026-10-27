@@ -1,0 +1,1267 @@
+[
+{
+"id": 61870,
+"en": "Go ahead.",
+"ctx": "diálogo uid020921cc"
+},
+{
+"id": 61871,
+"en": "Saejima⑬over there!",
+"ctx": "diálogo uid020921cd"
+},
+{
+"id": 61872,
+"en": "That's a trap site. There are many like it on the mountain. You just have to find them and set up traps on them.",
+"ctx": "diálogo uid020921cd"
+},
+{
+"id": 61873,
+"en": "Any trap sites you find will be automatically marked on the map.",
+"ctx": "diálogo uid020921cd"
+},
+{
+"id": 61874,
+"en": "Go ahead and set up a snare.",
+"ctx": "diálogo uid020921cd"
+},
+{
+"id": 61875,
+"en": "The first step is to walk up close to a trap site.",
+"ctx": "diálogo uid020921cd"
+},
+{
+"id": 61876,
+"en": "*pant* I just need to rest a little...",
+"ctx": "diálogo uid020921ce"
+},
+{
+"id": 61877,
+"en": "Alright there?",
+"ctx": "diálogo uid020921ce"
+},
+{
+"id": 61878,
+"en": "You know what?",
+"ctx": "diálogo uid020921ce"
+},
+{
+"id": 61879,
+"en": "I heard about an old man in the village. He's been after that monster for years, apparently?",
+"ctx": "diálogo uid020921ce"
+},
+{
+"id": 61880,
+"en": "Yeah. That's Okudera-han.",
+"ctx": "diálogo uid020921ce"
+},
+{
+"id": 61881,
+"en": "How does he keep going against a force of nature like that? Is it for the money? Bragging rights?",
+"ctx": "diálogo uid020921ce"
+},
+{
+"id": 61882,
+"en": "Where does he find the will to keep chasing that thing?",
+"ctx": "diálogo uid020921ce"
+},
+{
+"id": 61883,
+"en": "That's something I'd love to know myself.",
+"ctx": "diálogo uid020921ce"
+},
+{
+"id": 61884,
+"en": "But it sure ain't money or braggin' rights. The man's not moved by that type of thing.",
+"ctx": "diálogo uid020921ce"
+},
+{
+"id": 61885,
+"en": "Don't think anyone could keep up their motivation that way, actually. I'm still here 'cause I wanna know what inspires these folk.",
+"ctx": "diálogo uid020921ce"
+},
+{
+"id": 61886,
+"en": "...Hey, we can't dawdle here much longer. Can ya manage now?",
+"ctx": "diálogo uid020921ce"
+},
+{
+"id": 61887,
+"en": "Ya doin' good. Almost there.",
+"ctx": "diálogo uid020921cf"
+},
+{
+"id": 61888,
+"en": "I'm... saved.",
+"ctx": "diálogo uid020921cf"
+},
+{
+"id": 61889,
+"en": "(That tree... Is that the Ghost Pine?)",
+"ctx": "diálogo uid03091e21"
+},
+{
+"id": 61890,
+"en": "(That's it. Should be a time capsule buried at its foot.)",
+"ctx": "diálogo uid03091e21"
+},
+{
+"id": 61891,
+"en": "(Alright. Let's get diggin'.)",
+"ctx": "diálogo uid03091e21"
+},
+{
+"id": 61892,
+"en": "(Found the little bugger.)",
+"ctx": "diálogo uid03091e21"
+},
+{
+"id": 61893,
+"en": "You found <Color:8>Time Capsule<Color:Default>.",
+"ctx": "diálogo uid03091e21"
+},
+{
+"id": 61894,
+"en": "(Whew... Didn't know frozen ground was so tough to dig in. That fella in the village is lucky he didn't hafta do this.)",
+"ctx": "diálogo uid03091e21"
+},
+{
+"id": 61895,
+"en": "Pick up the pace, Suzuki-san.",
+"ctx": "diálogo uid030c0678"
+},
+{
+"id": 61896,
+"en": "Enjoying taxi driving?",
+"ctx": "diálogo uid030c0678"
+},
+{
+"id": 61897,
+"en": "Yes, things are going well.",
+"ctx": "diálogo uid030c0678"
+},
+{
+"id": 61898,
+"en": "Yeah? Guess you're made for the job, Suzuki-san.",
+"ctx": "diálogo uid030c0678"
+},
+{
+"id": 61899,
+"en": "It's still a bit difficult.",
+"ctx": "diálogo uid030c0678"
+},
+{
+"id": 61900,
+"en": "Yeah, it can be rough sometimes.",
+"ctx": "diálogo uid030c0678"
+},
+{
+"id": 61901,
+"en": "I'm having a really hard time.",
+"ctx": "diálogo uid030c0678"
+},
+{
+"id": 61902,
+"en": "Don't sweat it. You gotta start somewhere.",
+"ctx": "diálogo uid030c0678"
+},
+{
+"id": 61903,
+"en": "I know I told you I wasn't in a hurry, but this is ridiculous.",
+"ctx": "diálogo uid030c068f"
+},
+{
+"id": 61904,
+"en": "I've never had such a terrible taxi ride before! Ugh, just let me out here.",
+"ctx": "diálogo uid030c068f"
+},
+{
+"id": 61905,
+"en": "Yes, I'll go ahead and do that.",
+"ctx": "diálogo uid030c068f"
+},
+{
+"id": 61906,
+"en": "What the hell is your problem!?",
+"ctx": "diálogo uid030c068f"
+},
+{
+"id": 61907,
+"en": "That'd be good, thanks.",
+"ctx": "diálogo uid030c068f"
+},
+{
+"id": 61908,
+"en": "Great. I'm going to be late now.",
+"ctx": "diálogo uid030c0694"
+},
+{
+"id": 61909,
+"en": "Your driving is horrendous! I've just about had enough. Let me out here!",
+"ctx": "diálogo uid030c0694"
+},
+{
+"id": 61910,
+"en": "It's my daughter's piano recital today.",
+"ctx": "diálogo uid030c0694"
+},
+{
+"id": 61911,
+"en": "I'm always late because of work.",
+"ctx": "diálogo uid030c0694"
+},
+{
+"id": 61912,
+"en": "She told me to be sure I'm there on time today.",
+"ctx": "diálogo uid030c0694"
+},
+{
+"id": 61913,
+"en": "It matters to my daughter!",
+"ctx": "diálogo uid030c0694"
+},
+{
+"id": 61914,
+"en": "My family is just as important as my work!",
+"ctx": "diálogo uid030c0694"
+},
+{
+"id": 61915,
+"en": "Yes, I wouldn't want to disappoint my daughter.",
+"ctx": "diálogo uid030c0694"
+},
+{
+"id": 61916,
+"en": "Good. I think we should make it, though.",
+"ctx": "diálogo uid030c0694"
+},
+{
+"id": 61917,
+"en": "Don't go taking any risks.",
+"ctx": "diálogo uid030c0694"
+},
+{
+"id": 61918,
+"en": "Am I talking to a brick wall?",
+"ctx": "diálogo uid030c0694"
+},
+{
+"id": 61919,
+"en": "Think you're going to make it on time?",
+"ctx": "diálogo uid030c0694"
+},
+{
+"id": 61920,
+"en": "It's good to see a driver who's careful about safety.",
+"ctx": "diálogo uid030c0694"
+},
+{
+"id": 61921,
+"en": "Hey, I was just asking.",
+"ctx": "diálogo uid030c0694"
+},
+{
+"id": 61922,
+"en": "Grr! I told you I was in a hurry! That's it. I'm just going to walk.",
+"ctx": "diálogo uid030c07cf"
+},
+{
+"id": 61923,
+"en": "You're an awful driver! No way I'm riding in a death taxi like this!",
+"ctx": "diálogo uid030c07cf"
+},
+{
+"id": 61924,
+"en": "Just get me there on the double!",
+"ctx": "diálogo uid030c07cf"
+},
+{
+"id": 61925,
+"en": "I can't afford to be late today.",
+"ctx": "diálogo uid030c07cf"
+},
+{
+"id": 61926,
+"en": "What are you talking about? Driving's your job.",
+"ctx": "diálogo uid030c07cf"
+},
+{
+"id": 61927,
+"en": "Great! That's reassuring!",
+"ctx": "diálogo uid030c07cf"
+},
+{
+"id": 61928,
+"en": "Thanks! But do drive carefully. I wouldn't want you to crash.",
+"ctx": "diálogo uid030c07cf"
+},
+{
+"id": 61929,
+"en": "Hello? You listening?",
+"ctx": "diálogo uid030c07cf"
+},
+{
+"id": 61930,
+"en": "Today is my grandson's birthday. I wanted to look my best, but ending up taking too long to get ready.",
+"ctx": "diálogo uid030c07cf"
+},
+{
+"id": 61931,
+"en": "Oh, I got a text from my grandson. He says they're going to start without me! This is a disaster!",
+"ctx": "diálogo uid030c07cf"
+},
+{
+"id": 61932,
+"en": "Really? Well, I'm in your hands now. Let's not waste any time!",
+"ctx": "diálogo uid030c07cf"
+},
+{
+"id": 61933,
+"en": "Give up? How could you say that? Just hurry up and get me there!",
+"ctx": "diálogo uid030c07cf"
+},
+{
+"id": 61934,
+"en": "And what good would that do? Ugh, just hurry up and get me there already!",
+"ctx": "diálogo uid030c07cf"
+},
+{
+"id": 61935,
+"en": "Are you ignoring me!? Come on, step on it!",
+"ctx": "diálogo uid030c07cf"
+},
+{
+"id": 61936,
+"en": "Urp! This ain't gonna work!",
+"ctx": "diálogo uid030c07d3"
+},
+{
+"id": 61937,
+"en": "Hurk... Your driving sucks! I need to vomit, just let me out!",
+"ctx": "diálogo uid030c07d3"
+},
+{
+"id": 61938,
+"en": "Man, I feel bad asking for a ride when I'm so drunk.",
+"ctx": "diálogo uid030c07d3"
+},
+{
+"id": 61939,
+"en": "I know I'm putting you out here.",
+"ctx": "diálogo uid030c07d3"
+},
+{
+"id": 61940,
+"en": "Sorry, I'll try not to throw up.",
+"ctx": "diálogo uid030c07d3"
+},
+{
+"id": 61941,
+"en": "Yeah, right. I know you're just humoring me.",
+"ctx": "diálogo uid030c07d3"
+},
+{
+"id": 61942,
+"en": "Sure, just pretend I'm not here. Urp.",
+"ctx": "diálogo uid030c07d3"
+},
+{
+"id": 61943,
+"en": "Ohh, I don't think I can hold it in.",
+"ctx": "diálogo uid030c07d3"
+},
+{
+"id": 61944,
+"en": "What do I do!?",
+"ctx": "diálogo uid030c07d3"
+},
+{
+"id": 61945,
+"en": "Thanks, that'll help.",
+"ctx": "diálogo uid030c07d3"
+},
+{
+"id": 61946,
+"en": "Yeah, I heard that's a good idea.",
+"ctx": "diálogo uid030c07d3"
+},
+{
+"id": 61947,
+"en": "If that worked, nobody would ever have to throw up.",
+"ctx": "diálogo uid030c07d3"
+},
+{
+"id": 61948,
+"en": "You're not even listening, are you?",
+"ctx": "diálogo uid030c07d3"
+},
+{
+"id": 61949,
+"en": "Uh-oh... I think I...",
+"ctx": "diálogo uid030c080d"
+},
+{
+"id": 61950,
+"en": "Yikes! This is one bumpy ride. I don't think I can hold it in!",
+"ctx": "diálogo uid030c080d"
+},
+{
+"id": 61951,
+"en": "Gah! My bladder is gonna burst!",
+"ctx": "diálogo uid030c080d"
+},
+{
+"id": 61952,
+"en": "I'm about to spring a leak here!",
+"ctx": "diálogo uid030c080d"
+},
+{
+"id": 61953,
+"en": "Gah, I guess I can hold on if we're nearly there!",
+"ctx": "diálogo uid030c080d"
+},
+{
+"id": 61954,
+"en": "You're not making this any easier!",
+"ctx": "diálogo uid030c080d"
+},
+{
+"id": 61955,
+"en": "Why would I want a drink at a time like this?",
+"ctx": "diálogo uid030c080d"
+},
+{
+"id": 61956,
+"en": "You hear me?",
+"ctx": "diálogo uid030c080d"
+},
+{
+"id": 61957,
+"en": "Oh no. I'm getting the urge to go again.",
+"ctx": "diálogo uid030c080d"
+},
+{
+"id": 61958,
+"en": "You have any advice to help me get through this?",
+"ctx": "diálogo uid030c080d"
+},
+{
+"id": 61959,
+"en": "Okay! I'll do my best!",
+"ctx": "diálogo uid030c080d"
+},
+{
+"id": 61960,
+"en": "Huh? I don't think that's a good idea.",
+"ctx": "diálogo uid030c080d"
+},
+{
+"id": 61961,
+"en": "Yeah! It's mind over matter!",
+"ctx": "diálogo uid030c080d"
+},
+{
+"id": 61962,
+"en": "Uh, hello?",
+"ctx": "diálogo uid030c080d"
+},
+{
+"id": 61963,
+"en": "Mom, this taxi's going sooo slow. Let's just get out here already!",
+"ctx": "diálogo uid030c0813"
+},
+{
+"id": 61964,
+"en": "Mom, this guy's driving is making me dizzy!",
+"ctx": "diálogo uid030c0813"
+},
+{
+"id": 61965,
+"en": "Hey, driver.",
+"ctx": "diálogo uid030c0813"
+},
+{
+"id": 61966,
+"en": "Is Santa Claus real?",
+"ctx": "diálogo uid030c0813"
+},
+{
+"id": 61967,
+"en": "That's kind of you to say.",
+"ctx": "diálogo uid030c0813"
+},
+{
+"id": 61968,
+"en": "How can you be so cruel?",
+"ctx": "diálogo uid030c0813"
+},
+{
+"id": 61969,
+"en": "Hahaha. That's funny.",
+"ctx": "diálogo uid030c0813"
+},
+{
+"id": 61970,
+"en": "What kind of man ignores a child?",
+"ctx": "diálogo uid030c0813"
+},
+{
+"id": 61971,
+"en": "How are babies born?",
+"ctx": "diálogo uid030c0813"
+},
+{
+"id": 61972,
+"en": "Thank you for being prudent.",
+"ctx": "diálogo uid030c0813"
+},
+{
+"id": 61973,
+"en": "Hey! Now is not the time!",
+"ctx": "diálogo uid030c0813"
+},
+{
+"id": 61974,
+"en": "Sorry about the awkward question.",
+"ctx": "diálogo uid030c0813"
+},
+{
+"id": 61975,
+"en": "You shouldn't ignore kids.",
+"ctx": "diálogo uid030c0813"
+},
+{
+"id": 61976,
+"en": "For a taxi driver, you're pretty slow going.",
+"ctx": "diálogo uid030c08a5"
+},
+{
+"id": 61977,
+"en": "Oh man, I don't wanna die. Let me out of here!",
+"ctx": "diálogo uid030c08a5"
+},
+{
+"id": 61978,
+"en": "Time for a pop quiz!",
+"ctx": "diálogo uid030c08a5"
+},
+{
+"id": 61979,
+"en": "Question number one!",
+"ctx": "diálogo uid030c08a5"
+},
+{
+"id": 61980,
+"en": "What's my blood type?",
+"ctx": "diálogo uid030c08a5"
+},
+{
+"id": 61981,
+"en": "Geez, talk about rude!",
+"ctx": "diálogo uid030c08a5"
+},
+{
+"id": 61982,
+"en": "Bzzzt, wrong! The correct answer was alien blood!",
+"ctx": "diálogo uid030c08a5"
+},
+{
+"id": 61983,
+"en": "I wish you'd at least take a guess.",
+"ctx": "diálogo uid030c08a5"
+},
+{
+"id": 61984,
+"en": "Huh? You ignoring me? Come on!",
+"ctx": "diálogo uid030c08a5"
+},
+{
+"id": 61985,
+"en": "On to question number two! What's my name?",
+"ctx": "diálogo uid030c08a5"
+},
+{
+"id": 61986,
+"en": "Hey, you mad at me for some reason?",
+"ctx": "diálogo uid030c08a5"
+},
+{
+"id": 61987,
+"en": "Bzzzt, wrong! I'll have to keep the answer a secret, though. I'm a private person, okay!",
+"ctx": "diálogo uid030c08a5"
+},
+{
+"id": 61988,
+"en": "Nope, it's not Tricky or Ricky! Hehehe.",
+"ctx": "diálogo uid030c08a5"
+},
+{
+"id": 61989,
+"en": "Not speaking to me or something? Hmph.",
+"ctx": "diálogo uid030c08a5"
+},
+{
+"id": 61990,
+"en": "Look, driver! There's a UFO over there!",
+"ctx": "diálogo uid030c08a5"
+},
+{
+"id": 61991,
+"en": "I got you! Hehehe. You should have seen your face.",
+"ctx": "diálogo uid030c08a5"
+},
+{
+"id": 61992,
+"en": "Oh, come on. At least play along with me.",
+"ctx": "diálogo uid030c08a5"
+},
+{
+"id": 61993,
+"en": "What? Am I annoying you or something?",
+"ctx": "diálogo uid030c08a5"
+},
+{
+"id": 61994,
+"en": "So you're just going to ignore me?",
+"ctx": "diálogo uid030c08a5"
+},
+{
+"id": 61995,
+"en": "Oww. My stomach is really sore all of a sudden.",
+"ctx": "diálogo uid030c08a5"
+},
+{
+"id": 61996,
+"en": "Yeah, I was faking. But how could you tell?",
+"ctx": "diálogo uid030c08a5"
+},
+{
+"id": 61997,
+"en": "Hmph. At least show a little concern.",
+"ctx": "diálogo uid030c08a5"
+},
+{
+"id": 61998,
+"en": "Ha, fooled you! Thanks for showing you care, though.",
+"ctx": "diálogo uid030c08a5"
+},
+{
+"id": 61999,
+"en": "Hey, I was talking to you. You hear me?",
+"ctx": "diálogo uid030c08a5"
+},
+{
+"id": 62000,
+"en": "Uh-oh. I'm out of time.",
+"ctx": "diálogo uid030c08aa"
+},
+{
+"id": 62001,
+"en": "No, no. This won't do at all. Can you just let me out here?",
+"ctx": "diálogo uid030c08aa"
+},
+{
+"id": 62002,
+"en": "As fast as you can.",
+"ctx": "diálogo uid030c08aa"
+},
+{
+"id": 62003,
+"en": "Make that super fast.",
+"ctx": "diálogo uid030c08aa"
+},
+{
+"id": 62004,
+"en": "Triple the speed limit would be even better.",
+"ctx": "diálogo uid030c08aa"
+},
+{
+"id": 62005,
+"en": "What!? I was only joking!",
+"ctx": "diálogo uid030c08aa"
+},
+{
+"id": 62006,
+"en": "I know. It was just a joke.",
+"ctx": "diálogo uid030c08aa"
+},
+{
+"id": 62007,
+"en": "Yeah, that'd be best.",
+"ctx": "diálogo uid030c08aa"
+},
+{
+"id": 62008,
+"en": "Huh? Are you even listening?",
+"ctx": "diálogo uid030c08aa"
+},
+{
+"id": 62009,
+"en": "Ugh, that car is going so slow!",
+"ctx": "diálogo uid030c08aa"
+},
+{
+"id": 62010,
+"en": "What the hell's their problem?",
+"ctx": "diálogo uid030c08aa"
+},
+{
+"id": 62011,
+"en": "Just don't trigger any road rage.",
+"ctx": "diálogo uid030c08aa"
+},
+{
+"id": 62012,
+"en": "Huh!? That's taking it too far.",
+"ctx": "diálogo uid030c08aa"
+},
+{
+"id": 62013,
+"en": "Please do!",
+"ctx": "diálogo uid030c08aa"
+},
+{
+"id": 62014,
+"en": "Hmm? Didn't you hear me?",
+"ctx": "diálogo uid030c08aa"
+},
+{
+"id": 62015,
+"en": "(I see somethin'.)",
+"ctx": "diálogo uid030d002c + diálogo uid030d002d …"
+},
+{
+"id": 62016,
+"en": "You picked up Old Map Scrap A.",
+"ctx": "diálogo uid030d002c"
+},
+{
+"id": 62017,
+"en": "Old Map completed!",
+"ctx": "diálogo uid030d002c + diálogo uid030d002d …"
+},
+{
+"id": 62018,
+"en": "(There's somethin' written on it. A riddle? Might pay to solve it.)\n　 ",
+"ctx": "diálogo uid030d002c + diálogo uid030d002d …"
+},
+{
+"id": 62019,
+"en": "So, you found it at last.",
+"ctx": "diálogo uid030d002c + diálogo uid030d002d …"
+},
+{
+"id": 62020,
+"en": "Yikes, don't give me that look. I was just trying to create a little atmosphere.\n ",
+"ctx": "diálogo uid030d002c + diálogo uid030d002d …"
+},
+{
+"id": 62021,
+"en": "Er, let me introduce myself. I'm Tokuyama, head of the Tsukimino Merchants Association.\n ",
+"ctx": "diálogo uid030d002c + diálogo uid030d002d …"
+},
+{
+"id": 62022,
+"en": "What you picked up there is a key item in the treasure hunt event we're holding right now!\n \n ",
+"ctx": "diálogo uid030d002c + diálogo uid030d002d …"
+},
+{
+"id": 62023,
+"en": "Treasure hunt?",
+"ctx": "diálogo uid030d002c + diálogo uid030d002d …"
+},
+{
+"id": 62024,
+"en": "That's right. There are 24 other pieces just like the one you have. So that makes a total of 25 map pieces scattered around town.\n \n ",
+"ctx": "diálogo uid030d002c + diálogo uid030d002d …"
+},
+{
+"id": 62025,
+"en": "A single piece isn't much use. But as you collect the others, you can put them together to make treasure maps.\n \n ",
+"ctx": "diálogo uid030d002c + diálogo uid030d002d …"
+},
+{
+"id": 62026,
+"en": "There are five treasure maps in total. In other words, each is split into five pieces.\n \n ",
+"ctx": "diálogo uid030d002c + diálogo uid030d002d …"
+},
+{
+"id": 62027,
+"en": "Huh. So five treasure maps are scattered 'round town, split into 25 pieces?\n \n ",
+"ctx": "diálogo uid030d002c + diálogo uid030d002d …"
+},
+{
+"id": 62028,
+"en": "That's right! And what's more, the completed treasure maps take the form of riddles!\n \n ",
+"ctx": "diálogo uid030d002c + diálogo uid030d002d …"
+},
+{
+"id": 62029,
+"en": "We racked our brains and came up with the toughest riddles we could. Only those who solve them can claim the treasure.\n \n ",
+"ctx": "diálogo uid030d002c + diálogo uid030d002d …"
+},
+{
+"id": 62030,
+"en": "So, what do you say? Have I got you all fired up to go on a treasure hunting adventure?\n \n ",
+"ctx": "diálogo uid030d002c + diálogo uid030d002d …"
+},
+{
+"id": 62031,
+"en": "Guess I'll pick 'em up if I spot 'em.",
+"ctx": "diálogo uid030d002c + diálogo uid030d002d …"
+},
+{
+"id": 62032,
+"en": "Oh, don't play coy with me! I know you're all revved up and ready to go, you old grump.\n \n ",
+"ctx": "diálogo uid030d002c + diálogo uid030d002d …"
+},
+{
+"id": 62033,
+"en": "Er, anyway, I hope you enjoy the event!\n ",
+"ctx": "diálogo uid030d002c + diálogo uid030d002d …"
+},
+{
+"id": 62034,
+"en": "You picked up Old Map Scrap B.",
+"ctx": "diálogo uid030d002d"
+},
+{
+"id": 62035,
+"en": "You picked up Old Map Scrap C.",
+"ctx": "diálogo uid030d002e"
+},
+{
+"id": 62036,
+"en": "You picked up Old Map Scrap D.",
+"ctx": "diálogo uid030d0030"
+},
+{
+"id": 62037,
+"en": "You picked up Old Map Scrap E.",
+"ctx": "diálogo uid030d0031"
+},
+{
+"id": 62038,
+"en": "You picked up Questionable Map Scrap A.",
+"ctx": "diálogo uid030d0032"
+},
+{
+"id": 62039,
+"en": "Questionable Map completed!",
+"ctx": "diálogo uid030d0032 + diálogo uid030d0033 …"
+},
+{
+"id": 62040,
+"en": "You picked up Questionable Map Scrap B.",
+"ctx": "diálogo uid030d0033"
+},
+{
+"id": 62041,
+"en": "You picked up Questionable Map Scrap C.",
+"ctx": "diálogo uid030d0034"
+},
+{
+"id": 62042,
+"en": "You picked up Questionable Map Scrap D.",
+"ctx": "diálogo uid030d0035"
+},
+{
+"id": 62043,
+"en": "You picked up Questionable Map Scrap E.",
+"ctx": "diálogo uid030d0036"
+},
+{
+"id": 62044,
+"en": "You picked up Profound Map Scrap C.",
+"ctx": "diálogo uid030d0037"
+},
+{
+"id": 62045,
+"en": "Profound Map completed!",
+"ctx": "diálogo uid030d0037 + diálogo uid030d0038 …"
+},
+{
+"id": 62046,
+"en": "You picked up Profound Map Scrap A.",
+"ctx": "diálogo uid030d0038"
+},
+{
+"id": 62047,
+"en": "You picked up Profound Map Scrap B.",
+"ctx": "diálogo uid030d0039"
+},
+{
+"id": 62048,
+"en": "You picked up Profound Map Scrap D.",
+"ctx": "diálogo uid030d003a"
+},
+{
+"id": 62049,
+"en": "You picked up Profound Map Scrap E.",
+"ctx": "diálogo uid030d003b"
+},
+{
+"id": 62050,
+"en": "You picked up Suspicious Map Scrap A.",
+"ctx": "diálogo uid030d003c"
+},
+{
+"id": 62051,
+"en": "Suspicious Map completed!",
+"ctx": "diálogo uid030d003c + diálogo uid030d003d …"
+},
+{
+"id": 62052,
+"en": "You picked up Suspicious Map Scrap B.",
+"ctx": "diálogo uid030d003d"
+},
+{
+"id": 62053,
+"en": "You picked up Suspicious Map Scrap C.",
+"ctx": "diálogo uid030d003e"
+},
+{
+"id": 62054,
+"en": "You picked up Suspicious Map Scrap D.",
+"ctx": "diálogo uid030d003f"
+},
+{
+"id": 62055,
+"en": "You picked up Suspicious Map Scrap E.",
+"ctx": "diálogo uid030d0040"
+},
+{
+"id": 62056,
+"en": "You picked up Impressive Map Scrap A.",
+"ctx": "diálogo uid030d0041"
+},
+{
+"id": 62057,
+"en": "Impressive Map completed!",
+"ctx": "diálogo uid030d0041 + diálogo uid030d0042 …"
+},
+{
+"id": 62058,
+"en": "You picked up Impressive Map Scrap B.",
+"ctx": "diálogo uid030d0042"
+},
+{
+"id": 62059,
+"en": "You picked up Impressive Map Scrap C.",
+"ctx": "diálogo uid030d0043"
+},
+{
+"id": 62060,
+"en": "You picked up Impressive Map Scrap D.",
+"ctx": "diálogo uid030d0044"
+},
+{
+"id": 62061,
+"en": "You picked up Impressive Map Scrap E.",
+"ctx": "diálogo uid030d0045"
+},
+{
+"id": 62062,
+"en": "-Macro:ゴミ本文,0>",
+"ctx": "diálogo uid031003f3 + diálogo uid031003f5 …"
+},
+{
+"id": 62063,
+"en": "-Macro:タクシーＰ救済本文>",
+"ctx": "diálogo uid03100676 + diálogo uid03100677 …"
+},
+{
+"id": 62064,
+"en": "Damn. I won't make it in time now.",
+"ctx": "diálogo uid0320016d"
+},
+{
+"id": 62065,
+"en": "Uh-oh. This is bad.",
+"ctx": "diálogo uid0320016d"
+},
+{
+"id": 62066,
+"en": "Grrah!",
+"ctx": "diálogo uid0320016d"
+},
+{
+"id": 62067,
+"en": "You can save the game and use the Item Box by using phones or the time clock.",
+"ctx": "diálogo uid0333006d"
+},
+{
+"id": 62068,
+"en": "You can save the game at phone booths.",
+"ctx": "diálogo uid03330072"
+},
+{
+"id": 62069,
+"en": "You can save the game and use the Item Box at pay phones.",
+"ctx": "diálogo uid0333007e + diálogo uid0333007f …"
+},
+{
+"id": 62070,
+"en": "(A coin locker key? I'll have to check it out.)\n　 ",
+"ctx": "diálogo uid033306ad + diálogo uid033306af …"
+},
+{
+"id": 62071,
+"en": "(There's something shiny over there. Might be worth looking at.)\n　 ",
+"ctx": "diálogo uid033306ad + diálogo uid033306af …"
+},
+{
+"id": 62072,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key  A1<Color:Default>.\n ",
+"ctx": "diálogo uid033306ad"
+},
+{
+"id": 62073,
+"en": "(There's something here.)",
+"ctx": "diálogo uid033306ad + diálogo uid033306ae …"
+},
+{
+"id": 62074,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key A1<Color:Default>.\n ",
+"ctx": "diálogo uid033306ad"
+},
+{
+"id": 62075,
+"en": "(Looks like a coin locker key. I'll have to take a look)\n　 ",
+"ctx": "diálogo uid033306ae + diálogo uid033306b0 …"
+},
+{
+"id": 62076,
+"en": "(Hm, what is that? Looks shiny...)\n　 ",
+"ctx": "diálogo uid033306ae + diálogo uid033306b0 …"
+},
+{
+"id": 62077,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key B1<Color:Default>.\n ",
+"ctx": "diálogo uid033306ae"
+},
+{
+"id": 62078,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key  C1<Color:Default>.\n ",
+"ctx": "diálogo uid033306af"
+},
+{
+"id": 62079,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key C1<Color:Default>.\n ",
+"ctx": "diálogo uid033306af"
+},
+{
+"id": 62080,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key D1<Color:Default>.\n ",
+"ctx": "diálogo uid033306b0"
+},
+{
+"id": 62081,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key  E1<Color:Default>.\n ",
+"ctx": "diálogo uid033306b1"
+},
+{
+"id": 62082,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key E1<Color:Default>.\n ",
+"ctx": "diálogo uid033306b1"
+},
+{
+"id": 62083,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key F1<Color:Default>.\n ",
+"ctx": "diálogo uid033306b2"
+},
+{
+"id": 62084,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key G1<Color:Default>.\n ",
+"ctx": "diálogo uid033306b3"
+},
+{
+"id": 62085,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key H1<Color:Default>.\n ",
+"ctx": "diálogo uid033306b4"
+},
+{
+"id": 62086,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key I1<Color:Default>.\n ",
+"ctx": "diálogo uid033306b5"
+},
+{
+"id": 62087,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key  J1<Color:Default>.\n ",
+"ctx": "diálogo uid033306b6"
+},
+{
+"id": 62088,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key J1<Color:Default>.\n ",
+"ctx": "diálogo uid033306b6"
+},
+{
+"id": 62089,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key A2<Color:Default>.\n ",
+"ctx": "diálogo uid033306ca"
+},
+{
+"id": 62090,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key  B2<Color:Default>.\n ",
+"ctx": "diálogo uid033306cb"
+},
+{
+"id": 62091,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key B2<Color:Default>.\n ",
+"ctx": "diálogo uid033306cb"
+},
+{
+"id": 62092,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key C2<Color:Default>.\n ",
+"ctx": "diálogo uid033306cc"
+},
+{
+"id": 62093,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key D2<Color:Default>.\n ",
+"ctx": "diálogo uid033306cd"
+},
+{
+"id": 62094,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key  E2<Color:Default>.\n ",
+"ctx": "diálogo uid033306ce"
+},
+{
+"id": 62095,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key E2<Color:Default>.\n ",
+"ctx": "diálogo uid033306ce"
+},
+{
+"id": 62096,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key  F2<Color:Default>.\n ",
+"ctx": "diálogo uid033306cf"
+},
+{
+"id": 62097,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key F2<Color:Default>.\n ",
+"ctx": "diálogo uid033306cf"
+},
+{
+"id": 62098,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key  H5<Color:Default>.\n ",
+"ctx": "diálogo uid033306d0"
+},
+{
+"id": 62099,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key H5<Color:Default>.\n ",
+"ctx": "diálogo uid033306d0"
+},
+{
+"id": 62100,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key  G2<Color:Default>.\n ",
+"ctx": "diálogo uid033306d1"
+},
+{
+"id": 62101,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key G2<Color:Default>.\n ",
+"ctx": "diálogo uid033306d1"
+},
+{
+"id": 62102,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key  H2<Color:Default>.\n ",
+"ctx": "diálogo uid033306d2"
+},
+{
+"id": 62103,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key H2<Color:Default>.\n ",
+"ctx": "diálogo uid033306d2"
+},
+{
+"id": 62104,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key  I2<Color:Default>.\n ",
+"ctx": "diálogo uid033306d3"
+},
+{
+"id": 62105,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key I2<Color:Default>.\n ",
+"ctx": "diálogo uid033306d3"
+},
+{
+"id": 62106,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key J2<Color:Default>.\n ",
+"ctx": "diálogo uid033306d4"
+},
+{
+"id": 62107,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key  A3<Color:Default>.\n ",
+"ctx": "diálogo uid033306d5"
+},
+{
+"id": 62108,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key A3<Color:Default>.\n ",
+"ctx": "diálogo uid033306d5"
+},
+{
+"id": 62109,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key  B3<Color:Default>.\n ",
+"ctx": "diálogo uid033306d6"
+},
+{
+"id": 62110,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key B3<Color:Default>.\n ",
+"ctx": "diálogo uid033306d6"
+},
+{
+"id": 62111,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key  E5<Color:Default>.\n ",
+"ctx": "diálogo uid033306e1"
+},
+{
+"id": 62112,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key E5<Color:Default>.\n ",
+"ctx": "diálogo uid033306e1"
+},
+{
+"id": 62113,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key  B4<Color:Default>.\n ",
+"ctx": "diálogo uid033306e2"
+},
+{
+"id": 62114,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key B4<Color:Default>.\n ",
+"ctx": "diálogo uid033306e2"
+},
+{
+"id": 62115,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key C3<Color:Default>.\n ",
+"ctx": "diálogo uid033306e3"
+},
+{
+"id": 62116,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key  D3<Color:Default>.\n ",
+"ctx": "diálogo uid033306e5"
+},
+{
+"id": 62117,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key D3<Color:Default>.\n ",
+"ctx": "diálogo uid033306e5"
+},
+{
+"id": 62118,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key E3<Color:Default>.\n ",
+"ctx": "diálogo uid033306e6"
+},
+{
+"id": 62119,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key  F3<Color:Default>.\n ",
+"ctx": "diálogo uid033306e7"
+},
+{
+"id": 62120,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key F3<Color:Default>.\n ",
+"ctx": "diálogo uid033306e7"
+},
+{
+"id": 62121,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key G3<Color:Default>.\n ",
+"ctx": "diálogo uid033306e8"
+},
+{
+"id": 62122,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key  H3<Color:Default>.\n ",
+"ctx": "diálogo uid033306e9"
+}
+]

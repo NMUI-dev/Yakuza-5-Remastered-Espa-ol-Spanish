@@ -1,0 +1,208 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_tsukkomi.par/pjd_mg_tsukkomi/2d_jm_mg_tsukkomi",
+ "fuente": "timesbd.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    0,
+    256,
+    44
+   ],
+   "en": "Nice timing",
+   "ocr": "Nice timing",
+   "es": "Momento perfecto",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 252,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      255,
+      48,
+      198
+     ],
+     4
+    ],
+    "brillo": null
+   },
+   "alto": 28
+  },
+  {
+   "caja": [
+    0,
+    44,
+    256,
+    88
+   ],
+   "en": "Nicely said",
+   "ocr": "Nicely said",
+   "es": "Muy bien dicho",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 252,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      255,
+      65,
+      99
+     ],
+     4
+    ],
+    "brillo": null
+   },
+   "alto": 32
+  },
+  {
+   "caja": [
+    0,
+    88,
+    256,
+    132
+   ],
+   "en": "Good timing",
+   "ocr": "Good timing",
+   "es": "Buen momento",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 252,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      255,
+      178,
+      8
+     ],
+     4
+    ],
+    "brillo": null
+   },
+   "alto": 32
+  },
+  {
+   "caja": [
+    0,
+    132,
+    256,
+    176
+   ],
+   "en": "Well said",
+   "ocr": "Well said",
+   "es": "Bien dicho",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 252,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      255,
+      130,
+      8
+     ],
+     4
+    ],
+    "brillo": null
+   },
+   "alto": 24
+  },
+  {
+   "caja": [
+    0,
+    176,
+    256,
+    220
+   ],
+   "en": "Poorly worded",
+   "ocr": "Poorly worded",
+   "es": "Mal dicho",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 252,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      0,
+      77,
+      255
+     ],
+     4
+    ],
+    "brillo": null
+   },
+   "alto": 32
+  },
+  {
+   "caja": [
+    424,
+    56,
+    480,
+    80
+   ],
+   "en": "laughs",
+   "ocr": "laughs",
+   "es": "risas",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 52
+  }
+ ]
+}

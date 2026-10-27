@@ -1,0 +1,250 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_darts_menu.par/texlist/2d_yk_mg_darts_sentaku",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    239,
+    4,
+    352,
+    30
+   ],
+   "en": "OPPONENT",
+   "es": "OPONENTE",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 110,
+   "alto": 15
+  },
+  {
+   "caja": [
+    239,
+    30,
+    352,
+    56
+   ],
+   "en": "RULES",
+   "es": "REGLAS",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 110,
+   "alto": 15
+  },
+  {
+   "caja": [
+    239,
+    56,
+    352,
+    82
+   ],
+   "en": "Darts",
+   "es": "Dardos",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 110,
+   "alto": 15
+  },
+  {
+   "caja": [
+    239,
+    82,
+    352,
+    108
+   ],
+   "en": "Beginner",
+   "es": "Novato",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 110,
+   "alto": 19
+  },
+  {
+   "caja": [
+    239,
+    108,
+    352,
+    134
+   ],
+   "en": "Intermediate",
+   "es": "Intermedio",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 110,
+   "alto": 15
+  },
+  {
+   "caja": [
+    239,
+    134,
+    352,
+    160
+   ],
+   "en": "Advanced",
+   "es": "Avanzado",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 110,
+   "alto": 15
+  },
+  {
+   "caja": [
+    239,
+    160,
+    352,
+    186
+   ],
+   "en": "Play Solo",
+   "es": "Jugar solo",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 110,
+   "alto": 19
+  },
+  {
+   "caja": [
+    353,
+    4,
+    512,
+    30
+   ],
+   "en": "STANDARD",
+   "es": "ESTÁNDAR",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 155,
+   "alto": 20
+  },
+  {
+   "caja": [
+    353,
+    30,
+    512,
+    56
+   ],
+   "en": "RANDOM",
+   "es": "AL AZAR",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 155,
+   "alto": 20
+  },
+  {
+   "caja": [
+    353,
+    56,
+    512,
+    82
+   ],
+   "en": "HIDDEN",
+   "es": "OCULTO",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 155,
+   "alto": 20
+  },
+  {
+   "caja": [
+    353,
+    108,
+    512,
+    134
+   ],
+   "en": "CRICKET",
+   "es": "",
+   "dejar": true,
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 155,
+   "alto": 20
+  },
+  {
+   "caja": [
+    353,
+    134,
+    512,
+    160
+   ],
+   "en": "COUNT-UP",
+   "es": "",
+   "dejar": true,
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 155,
+   "alto": 20
+  },
+  {
+   "caja": [
+    108,
+    468,
+    283,
+    503
+   ],
+   "en": "Read the Rules",
+   "es": "Leer las reglas",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 170,
+   "alto": 18
+  },
+  {
+   "caja": [
+    340,
+    468,
+    395,
+    503
+   ],
+   "en": "OK",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 50
+  },
+  {
+   "caja": [
+    9,
+    467,
+    56,
+    493
+   ],
+   "en": "WIN",
+   "es": "",
+   "dejar": true,
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 43
+  },
+  {
+   "caja": [
+    440,
+    471,
+    489,
+    501
+   ],
+   "en": "OK",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 45
+  }
+ ],
+ "copiado_de": "ui_en__surfboard__pjd_mg_darts_anm.par__texlist__2d_yk_mg_darts_sentaku"
+}

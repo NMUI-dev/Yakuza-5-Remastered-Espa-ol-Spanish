@@ -1,0 +1,24 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_yuki_mission.par/2d_mg_sstory_yuki_mission_texlist/2d_jm_yuki_mission01",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    429,
+    37,
+    488,
+    60
+   ],
+   "en": "ID:01",
+   "ocr": "ID:01",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 55,
+   "dejar": true
+  }
+ ]
+}

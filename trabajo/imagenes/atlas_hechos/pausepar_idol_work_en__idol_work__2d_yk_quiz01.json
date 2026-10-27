@@ -1,0 +1,45 @@
+{
+ "textura": "pausepar_idol_work_en/idol_work/2d_yk_quiz01",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    51,
+    107,
+    204,
+    151
+   ],
+   "en": "Medium",
+   "ocr": "Medium",
+   "es": "Media",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 149,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     90,
+     225,
+     255
+    ],
+    "contorno": [
+     [
+      25,
+      45,
+      130
+     ],
+     2
+    ],
+    "brillo": null
+   }
+  }
+ ]
+}

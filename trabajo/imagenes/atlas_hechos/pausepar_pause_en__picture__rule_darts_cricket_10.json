@@ -1,0 +1,485 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_darts_cricket_10",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    333,
+    16,
+    694,
+    52
+   ],
+   "en": "CRICKET GAME RULE",
+   "ocr": "CRICKETGAMERULE",
+   "es": "REGLAS DE LA PARTIDA DE CRICKET",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 357,
+   "dejar": true
+  },
+  {
+   "caja": [
+    715,
+    2,
+    921,
+    74
+   ],
+   "en": "DARTSLIVE2",
+   "ocr": "DARTSLVE2",
+   "es": "DARTSLIVE2",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 202,
+   "dejar": true
+  },
+  {
+   "caja": [
+    57,
+    29,
+    203,
+    95
+   ],
+   "en": "TSLIVE2",
+   "ocr": "TSLVE2",
+   "es": "TSLIVE2",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 146,
+   "dejar": true
+  },
+  {
+   "caja": [
+    298,
+    84,
+    358,
+    109
+   ],
+   "en": "HIDDEN",
+   "ocr": "HIDDEN CRICKET",
+   "es": "OCULTO",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 60,
+   "dejar": true
+  },
+  {
+   "caja": [
+    299,
+    97,
+    360,
+    121
+   ],
+   "en": "CRICKET",
+   "ocr": "CRICKET",
+   "es": "CRICKET",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 61,
+   "dejar": true
+  },
+  {
+   "caja": [
+    640,
+    88,
+    726,
+    106
+   ],
+   "en": "DARTS & RESULT",
+   "ocr": "DARTS&RESULT",
+   "es": "DARDOS & RESULTADO",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 82,
+   "dejar": true
+  },
+  {
+   "caja": [
+    842,
+    84,
+    964,
+    140
+   ],
+   "en": "DARTS",
+   "ocr": "DARTSI",
+   "es": "DARDOS",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 122,
+   "dejar": true
+  },
+  {
+   "caja": [
+    651,
+    117,
+    715,
+    148
+   ],
+   "en": "1 Hit",
+   "ocr": "1 Hit",
+   "es": "1 Golpe",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 64,
+   "dejar": true
+  },
+  {
+   "caja": [
+    649,
+    144,
+    727,
+    176
+   ],
+   "en": "2 Hits",
+   "ocr": "2 Hits",
+   "es": "2 Golpes",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 78,
+   "dejar": true
+  },
+  {
+   "caja": [
+    667,
+    172,
+    728,
+    206
+   ],
+   "en": "3 Hits",
+   "ocr": "Hits",
+   "es": "3 Golpes",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 61,
+   "dejar": true
+  },
+  {
+   "caja": [
+    163,
+    117,
+    274,
+    173
+   ],
+   "en": "DARTS",
+   "ocr": "DARTS",
+   "es": "DARDOS",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 107,
+   "dejar": true
+  },
+  {
+   "caja": [
+    292,
+    146,
+    369,
+    174
+   ],
+   "en": "R2",
+   "ocr": "R2XX",
+   "es": "R2",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 73,
+   "dejar": true
+  },
+  {
+   "caja": [
+    492,
+    147,
+    530,
+    174
+   ],
+   "en": "BULL",
+   "ocr": "BULL",
+   "es": "DIANA",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 34,
+   "dejar": true
+  },
+  {
+   "caja": [
+    182,
+    205,
+    406,
+    236
+   ],
+   "en": "1 Hit + Open Bonus",
+   "ocr": "1Hit+OpenBonus",
+   "es": "1 Golpe + Bono de apertura",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 224,
+   "dejar": true
+  },
+  {
+   "caja": [
+    60,
+    224,
+    175,
+    277
+   ],
+   "en": "ARTSLIVE",
+   "ocr": "RTSLN",
+   "es": "ARTSLIVE",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 115,
+   "dejar": true
+  },
+  {
+   "caja": [
+    747,
+    182,
+    950,
+    254
+   ],
+   "en": "DARTSLIVE2",
+   "ocr": "DARTSLVE2",
+   "es": "DARTSLIVE2",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 203,
+   "dejar": true
+  },
+  {
+   "caja": [
+    490,
+    249,
+    534,
+    287
+   ],
+   "en": "CR",
+   "ocr": "CR",
+   "es": "CR",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 40,
+   "dejar": true
+  },
+  {
+   "caja": [
+    869,
+    268,
+    969,
+    322
+   ],
+   "en": "DART",
+   "ocr": "DART",
+   "es": "DART",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 100,
+   "dejar": true
+  },
+  {
+   "caja": [
+    196,
+    304,
+    271,
+    345
+   ],
+   "en": "DART",
+   "ocr": "DAR",
+   "es": "DART",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 75,
+   "dejar": true
+  },
+  {
+   "caja": [
+    324,
+    311,
+    357,
+    332
+   ],
+   "en": "Player",
+   "ocr": "player",
+   "es": "Jugador",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 29,
+   "dejar": true
+  },
+  {
+   "caja": [
+    623,
+    314,
+    691,
+    331
+   ],
+   "en": "Susumu Yamagata",
+   "ocr": "Susunu Yamagata",
+   "es": "Susumu Yamagata",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 64,
+   "dejar": true
+  },
+  {
+   "caja": [
+    54,
+    323,
+    130,
+    379
+   ],
+   "en": "VE2",
+   "ocr": "VE2",
+   "es": "VE2",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 76,
+   "dejar": true
+  },
+  {
+   "caja": [
+    388,
+    364,
+    638,
+    400
+   ],
+   "en": "《Game Overview》",
+   "ocr": "《GameOverview》",
+   "es": "《Resumen de la Partida》",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 250,
+   "dejar": true
+  },
+  {
+   "caja": [
+    182,
+    407,
+    793,
+    441
+   ],
+   "en": "Hitting a number three times will close it. Hitting a",
+   "ocr": "Hitting a number three times will close it. Hitting a",
+   "es": "Acertar un Número Tres veces lo hará Cerrar. Acertar un",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 611,
+   "dejar": true
+  },
+  {
+   "caja": [
+    182,
+    435,
+    842,
+    468
+   ],
+   "en": "hidden number for the first time will earn you a bonus.",
+   "ocr": "hidden number for the first time will earn you a bonus.",
+   "es": "Número Oculto por primera vez te otorgará un Bono.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 660,
+   "dejar": true
+  },
+  {
+   "caja": [
+    885,
+    360,
+    972,
+    419
+   ],
+   "en": "LIVE2",
+   "ocr": "IVE2",
+   "es": "LIVE2",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 87,
+   "dejar": true
+  },
+  {
+   "caja": [
+    53,
+    412,
+    139,
+    466
+   ],
+   "en": "DART",
+   "ocr": "DART",
+   "es": "DART",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 86,
+   "dejar": true
+  },
+  {
+   "caja": [
+    894,
+    450,
+    972,
+    504
+   ],
+   "en": "DAF",
+   "ocr": "DAF",
+   "es": "DAF",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 78,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: lo hace el PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

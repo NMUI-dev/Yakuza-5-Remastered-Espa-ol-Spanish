@@ -1,0 +1,576 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_cricket_0",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    76,
+    0,
+    253,
+    25
+   ],
+   "en": "STANDARD",
+   "es": "CRICKET",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "fondo": "lama",
+   "alin": "centro",
+   "ancho_max": 172,
+   "mediana": false,
+   "alto": 21,
+   "estilo": {
+    "arriba": [
+     255,
+     238,
+     160
+    ],
+    "abajo": [
+     232,
+     186,
+     80
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     2
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    76,
+    25,
+    253,
+    60
+   ],
+   "en": "CRICKET",
+   "es": "ESTÁNDAR",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "fondo": "lama",
+   "alin": "centro",
+   "ancho_max": 172,
+   "mediana": false,
+   "alto": 21,
+   "estilo": {
+    "arriba": [
+     255,
+     238,
+     160
+    ],
+    "abajo": [
+     232,
+     186,
+     80
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     2
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    282,
+    5,
+    456,
+    32
+   ],
+   "en": "Introduction",
+   "es": "Introducción",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 168,
+   "mediana": false
+  },
+  {
+   "caja": [
+    548,
+    4,
+    655,
+    37
+   ],
+   "en": "2MARKS",
+   "es": "",
+   "nota": "rótulo decorado del diagrama (serifa con contorno/degradado): se deja",
+   "dejar": true
+  },
+  {
+   "caja": [
+    292,
+    32,
+    491,
+    59
+   ],
+   "en": "SINGLE 1MARK",
+   "es": "",
+   "nota": "rótulo decorado del diagrama (serifa con contorno/degradado): se deja",
+   "dejar": true
+  },
+  {
+   "caja": [
+    549,
+    36,
+    656,
+    67
+   ],
+   "en": "3 MARKS",
+   "es": "",
+   "nota": "rótulo decorado del diagrama (serifa con contorno/degradado): se deja",
+   "dejar": true
+  },
+  {
+   "caja": [
+    291,
+    54,
+    505,
+    79
+   ],
+   "en": "DOUBLE 2MARKS",
+   "es": "",
+   "nota": "rótulo decorado del diagrama (serifa con contorno/degradado): se deja",
+   "dejar": true
+  },
+  {
+   "caja": [
+    861,
+    51,
+    946,
+    81
+   ],
+   "en": "CLOSE",
+   "es": "",
+   "nota": "rótulo decorado del diagrama (serifa con contorno/degradado): se deja",
+   "dejar": true
+  },
+  {
+   "caja": [
+    292,
+    74,
+    506,
+    100
+   ],
+   "en": "TRIPLE 3MARKS",
+   "es": "",
+   "nota": "rótulo decorado del diagrama (serifa con contorno/degradado): se deja",
+   "dejar": true
+  },
+  {
+   "caja": [
+    550,
+    65,
+    654,
+    97
+   ],
+   "en": "1 MARKS",
+   "es": "",
+   "nota": "rótulo decorado del diagrama (serifa con contorno/degradado): se deja",
+   "dejar": true
+  },
+  {
+   "caja": [
+    88,
+    92,
+    154,
+    122
+   ],
+   "en": "BULL",
+   "es": "DIANA",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "centro",
+   "ancho_max": 62,
+   "mediana": false
+  },
+  {
+   "caja": [
+    291,
+    97,
+    960,
+    128
+   ],
+   "en": "Close a number by hitting it three times.",
+   "es": "Cierra un número acertándole tres veces.",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 663
+  },
+  {
+   "caja": [
+    280,
+    130,
+    360,
+    164
+   ],
+   "en": "Note",
+   "es": "Nota",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 74,
+   "mediana": false
+  },
+  {
+   "caja": [
+    322,
+    174,
+    455,
+    218
+   ],
+   "en": "20 CLOSE",
+   "es": "",
+   "nota": "rótulo decorado del diagrama (serifa con contorno/degradado): se deja",
+   "dejar": true
+  },
+  {
+   "caja": [
+    722,
+    178,
+    795,
+    211
+   ],
+   "en": "CLOSE",
+   "es": "",
+   "nota": "rótulo decorado del diagrama (serifa con contorno/degradado): se deja",
+   "dejar": true
+  },
+  {
+   "caja": [
+    826,
+    182,
+    953,
+    212
+   ],
+   "en": "NO POINT",
+   "es": "",
+   "nota": "rótulo decorado del diagrama (serifa con contorno/degradado): se deja",
+   "dejar": true
+  },
+  {
+   "caja": [
+    80,
+    219,
+    252,
+    246
+   ],
+   "en": "15~20+BULL",
+   "es": "15~20+DIANA",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "centro",
+   "ancho_max": 166,
+   "mediana": false
+  },
+  {
+   "caja": [
+    303,
+    217,
+    610,
+    246
+   ],
+   "en": "Hit closed number to attain pts.",
+   "es": "Acierta un cerrado y suma pts.",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 301,
+   "mediana": false
+  },
+  {
+   "caja": [
+    634,
+    217,
+    958,
+    246
+   ],
+   "en": "No pts if number is closed by all.",
+   "es": "Sin pts si todos cerraron el número.",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 318,
+   "mediana": false
+  },
+  {
+   "caja": [
+    148,
+    253,
+    720,
+    340
+   ],
+   "en": "x",
+   "es": "·",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    40,
+    40,
+    0
+   ],
+   "fondo": "lama",
+   "alin": "centro",
+   "ancho_max": 6,
+   "alto": 2,
+   "mediana": false,
+   "nota": "comodín LaMa para las 3 líneas de arriba del bloque"
+  },
+  {
+   "caja": [
+    153,
+    256,
+    600,
+    283
+   ],
+   "en": "<Victory Conditions>",
+   "es": "<Condiciones de victoria>",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 441
+  },
+  {
+   "caja": [
+    150,
+    283,
+    700,
+    309
+   ],
+   "en": "Attain the most points.",
+   "es": "Consigue la mayor puntuación.",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 544
+  },
+  {
+   "caja": [
+    153,
+    317,
+    400,
+    343
+   ],
+   "en": "<Summary>",
+   "es": "<Resumen>",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 241
+  },
+  {
+   "caja": [
+    176,
+    340,
+    1010,
+    508
+   ],
+   "en": "x",
+   "es": "·",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    21,
+    21,
+    0
+   ],
+   "fondo": "lama",
+   "alin": "centro",
+   "ancho_max": 6,
+   "alto": 2,
+   "mediana": false,
+   "nota": "comodín: borra con LaMa todo el bloque de viñetas de una vez (por renglones dejaba rayitas); dibuja un punto del color del fondo"
+  },
+  {
+   "caja": [
+    178,
+    344,
+    1005,
+    371
+   ],
+   "en": "Valid Targets: Numbers 15 to 20 and Bull's-eye.",
+   "es": "Objetivos válidos: números del 15 al 20 y la diana.",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 821
+  },
+  {
+   "caja": [
+    178,
+    371,
+    1005,
+    397
+   ],
+   "en": "Single: One hit, Double: Two hits, Triple: Three hits",
+   "es": "Simple: 1 acierto, Doble: 2 aciertos, Triple: 3 aciertos",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 821
+  },
+  {
+   "caja": [
+    178,
+    397,
+    1005,
+    425
+   ],
+   "en": "Three hits closes a number (making it your own),",
+   "es": "Tres aciertos cierran un número (lo haces tuyo),",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 821
+  },
+  {
+   "caja": [
+    178,
+    425,
+    1005,
+    452
+   ],
+   "en": "and further hits yield points.",
+   "es": "y los siguientes aciertos dan puntos.",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 821
+  },
+  {
+   "caja": [
+    178,
+    452,
+    1005,
+    479
+   ],
+   "en": "A number no longer yields points when closed by all.",
+   "es": "Un número cerrado por todos ya no da puntos.",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 821
+  },
+  {
+   "caja": [
+    178,
+    479,
+    1010,
+    506
+   ],
+   "en": "Game ends when player with most pts closes all numbers.",
+   "es": "Termina cuando quien tiene más pts cierra todos los números.",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 826
+  }
+ ]
+}

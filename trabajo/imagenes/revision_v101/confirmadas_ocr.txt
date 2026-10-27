@@ -1,0 +1,9 @@
+(claude2, 25-10) Revisión a ojo de las 46 marcadas por OCR (hojas 00-05):
+ERROR (38): 1 treasure_map3_unite_l, 2 blackjack0, 3 chinchiro3, 4 countup_0, 5 darts_01_1, 7 darts_01_3, 8 darts_countup_1,
+ 9 cricket_02, 10 cricket_03, 11 cricket_07, 13 kabu7, 14 kyaba1, 16 kyaba4, 17 kyaba5, 18 mjrule12, 19 mjrule16, 20 mjrule4,
+ 21 mjrule7, 22 mjrule8 (filas cambiadas), 23 mjrule9, 24 mjyaku01, 25 mjyaku03, 26 mjyaku04, 27 mjyaku10, 28 mjyaku13,
+ 29 poker2, 30 poker3, 31 poker_ohama0, 32 ohama2, 33 ohama3, 34 pai0, 35 pai2, 36 pai3, 37 roulette_hai0, 38 shougi2,
+ 41 tougi_okite, 43 yukigassen_pt (HIT! to PLAYER), 44 akushu («Hold down button»).
+ Patrón: páginas rule_* con renglones que siguen en inglés y otros convertidos en letra diminuta/ilegible.
+DUDOSA (4): 0 common_akiyama, 39/40 títulos de capítulo (subtítulo inglés), 45 macsiv (Home/Terms/Login).
+BIEN (4): 6 darts_01_2, 12 h_dance_battle1, 15 kyaba2, 42 taiko (nombres de canciones).

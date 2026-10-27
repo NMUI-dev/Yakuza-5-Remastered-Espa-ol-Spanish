@@ -1,0 +1,219 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_chinchiro1",
+ "fuente": "verdana.ttf",
+ "margen": 0,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    459,
+    7,
+    565,
+    46
+   ],
+   "en": "Cee-lo",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    125,
+    66,
+    430,
+    101
+   ],
+   "en": "How to Play: Points",
+   "es": "Cómo jugar: puntos",
+   "fuente": "verdana.ttf",
+   "alin": "izq",
+   "ancho_max": 299,
+   "efecto": "nada",
+   "color": [
+    45,
+    45,
+    45
+   ],
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    143,
+    113,
+    900,
+    147
+   ],
+   "en": "A point's numerical value determines its strength.",
+   "es": "El valor numérico de un punto determina su fuerza.",
+   "fuente": "verdana.ttf",
+   "alin": "izq",
+   "ancho_max": 751,
+   "efecto": "nada",
+   "color": [
+    45,
+    45,
+    45
+   ],
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    143,
+    147,
+    900,
+    178
+   ],
+   "en": "6 is the strongest and 1 is the weakest. If you win with",
+   "es": "El 6 es el más fuerte y el 1 es el más débil. Si ganas con",
+   "fuente": "verdana.ttf",
+   "alin": "izq",
+   "ancho_max": 751,
+   "efecto": "nada",
+   "color": [
+    45,
+    45,
+    45
+   ],
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    143,
+    178,
+    900,
+    211
+   ],
+   "en": "points 1 through 6, the return is the same as your stake.",
+   "es": "un punto del 1 al 6, recibes una cantidad igual a tu apuesta.",
+   "fuente": "verdana.ttf",
+   "alin": "izq",
+   "ancho_max": 751,
+   "efecto": "nada",
+   "color": [
+    45,
+    45,
+    45
+   ],
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    143,
+    241,
+    900,
+    275
+   ],
+   "en": "If you do not establish a point after three rolls, it is",
+   "es": "Si no consigues formar un punto después de tres tiradas, eso es",
+   "fuente": "verdana.ttf",
+   "alin": "izq",
+   "ancho_max": 751,
+   "efecto": "nada",
+   "color": [
+    45,
+    45,
+    45
+   ],
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    143,
+    275,
+    900,
+    306
+   ],
+   "en": "counted as an automatic loss. If any of the dice fly",
+   "es": "una pérdida automática. Si algún dado sale fuera",
+   "fuente": "verdana.ttf",
+   "alin": "izq",
+   "ancho_max": 751,
+   "efecto": "nada",
+   "color": [
+    45,
+    45,
+    45
+   ],
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    143,
+    306,
+    900,
+    338
+   ],
+   "en": "out of the bowl, it is counted as \"missing the pot,\"",
+   "es": "del cuenco, se considera «fuera del bote»,",
+   "fuente": "verdana.ttf",
+   "alin": "izq",
+   "ancho_max": 751,
+   "efecto": "nada",
+   "color": [
+    45,
+    45,
+    45
+   ],
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    143,
+    338,
+    900,
+    369
+   ],
+   "en": "which is also an automatic loss.",
+   "es": "lo que también es una pérdida automática.",
+   "fuente": "verdana.ttf",
+   "alin": "izq",
+   "ancho_max": 751,
+   "efecto": "nada",
+   "color": [
+    45,
+    45,
+    45
+   ],
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    143,
+    401,
+    900,
+    433
+   ],
+   "en": "There are a number of additional combinations that hold",
+   "es": "Hay una serie de combinaciones adicionales que tienen",
+   "fuente": "verdana.ttf",
+   "alin": "izq",
+   "ancho_max": 751,
+   "efecto": "nada",
+   "color": [
+    45,
+    45,
+    45
+   ],
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    143,
+    433,
+    900,
+    467
+   ],
+   "en": "special values.",
+   "es": "valores especiales.",
+   "fuente": "verdana.ttf",
+   "alin": "izq",
+   "ancho_max": 751,
+   "efecto": "nada",
+   "color": [
+    45,
+    45,
+    45
+   ],
+   "fondo": "lama"
+  }
+ ]
+}

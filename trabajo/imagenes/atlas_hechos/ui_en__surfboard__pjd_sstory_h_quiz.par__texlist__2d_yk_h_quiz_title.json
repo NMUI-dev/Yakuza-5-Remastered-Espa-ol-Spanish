@@ -1,0 +1,24 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_h_quiz.par/texlist/2d_yk_h_quiz_title",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    256,
+    513,
+    314
+   ],
+   "en": "Sotenbori Love",
+   "ocr": "Sotenbori Love Check",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "der",
+   "ancho_max": 509,
+   "dejar": true
+  }
+ ]
+}

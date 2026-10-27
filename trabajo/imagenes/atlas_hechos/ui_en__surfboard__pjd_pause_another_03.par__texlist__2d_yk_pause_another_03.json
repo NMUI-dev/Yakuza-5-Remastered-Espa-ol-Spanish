@@ -1,0 +1,111 @@
+{
+ "textura": "ui_en/surfboard/pjd_pause_another_03.par/texlist/2d_yk_pause_another_03",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    5,
+    50,
+    205,
+    77
+   ],
+   "en": "The Road to Fame",
+   "es": "El camino a la fama",
+   "fuente": "timesbi.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 196
+  },
+  {
+   "caja": [
+    392,
+    4,
+    472,
+    27
+   ],
+   "en": "Singing",
+   "es": "Canto",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 76,
+   "alto": 13
+  },
+  {
+   "caja": [
+    392,
+    31,
+    472,
+    54
+   ],
+   "en": "Basic Skill",
+   "es": "Técnica",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 76,
+   "alto": 10
+  },
+  {
+   "caja": [
+    392,
+    58,
+    472,
+    81
+   ],
+   "en": "Performance",
+   "es": "Actuación",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 76,
+   "alto": 10
+  },
+  {
+   "caja": [
+    392,
+    85,
+    472,
+    108
+   ],
+   "en": "Appeal",
+   "es": "Encanto",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 76,
+   "alto": 13
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "textura": "pausepar_pause_en/picture/chact/2d_jm_chact_ukenagasi",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    12,
+    528,
+    384,
+    569
+   ],
+   "en": "DRAGON KING ESSENCE",
+   "ocr": "DRAGON KING ESSENCE",
+   "es": "ESENCIA DEL REY DRAGÓN",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 368
+  },
+  {
+   "caja": [
+    13,
+    597,
+    384,
+    640
+   ],
+   "en": "DRAGON KING ESSENCE",
+   "ocr": "DRAGONKINGESSENCE",
+   "es": "ESENCIA DEL REY DRAGÓN",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 367,
+   "radio": 2.5,
+   "color": [
+    200,
+    25,
+    25
+   ]
+  }
+ ]
+}

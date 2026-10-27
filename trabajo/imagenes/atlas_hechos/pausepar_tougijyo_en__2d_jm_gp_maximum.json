@@ -1,0 +1,38 @@
+{
+ "textura": "pausepar_tougijyo_en/2d_jm_gp_maximum",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    320,
+    39,
+    708,
+    124
+   ],
+   "en": "MAXIMUM",
+   "ocr": "MAXIMUM",
+   "es": "GRAN PREMIO",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 384
+  },
+  {
+   "caja": [
+    264,
+    116,
+    774,
+    221
+   ],
+   "en": "GRAND PRIX",
+   "ocr": "GRAND PRIX",
+   "es": "MÁXIMO",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 506
+  }
+ ]
+}

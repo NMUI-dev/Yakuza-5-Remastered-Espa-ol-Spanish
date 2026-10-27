@@ -1,0 +1,922 @@
+[
+{
+"id": 19182,
+"en": "It's the latest version of Inner Fighter! I call it Inner Fighter 8: Road Battle, or IF8 for short!",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19183,
+"en": "Indeed! It's my brand new game machine that uses special electromagnetic waves to let you experience realistic fights within your very mind.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19184,
+"en": "Sounds like a recipe for brain cancer.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19185,
+"en": "No no, there's nothing dangerous about it. In fact, playing it can actually help you.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19186,
+"en": "Says the mad scientist...",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19187,
+"en": "If you don't believe me, try it for yourself. Then you'll truly see the wonder that is IF8!",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19188,
+"en": "You could play right now if you'd like, of course.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19189,
+"en": "Don't be so quick to judge. I've been working on this arcade machine for many years.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19190,
+"en": "Oh, you must be Minamida. Your assistant in Kineicho was pestering me about playing this thing.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19191,
+"en": "So you've met my assistant? I take it you're up to speed, then?",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19192,
+"en": "(This old guy's got shady written all over him.)",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19193,
+"en": "One more thing. IF8 is not finished yet. We'll need to sink a lot more money into it before it'll be done.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19194,
+"en": "That's where you come in! We're hoping you'll help us with the necessary funds. You see, I may not look it, but I'm flat out broke.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19195,
+"en": "You'll benefit as well, because once it's complete, it will feed back a variety of data to you whenever you play.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19196,
+"en": "So please consider making an investment. It'll be well worth your while!",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19197,
+"en": "All we need is a little more data, and you'll be able to play in other towns. You'll have to be patient until then.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19198,
+"en": "One more thing... As I mentioned before, IF8 is not finished yet. We'll need to sink a lot more money into it before it'll be done.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19199,
+"en": "Tsukimino? All right, that will be 10,000 yen.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19200,
+"en": "Sotenbori? All right, that will be 10,000 yen.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19201,
+"en": "Kineicho? All right, that will be 10,000 yen.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19202,
+"en": "All right, let me explain flashback battles to you.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19203,
+"en": "In flashback battles, you fight powerful enemies from your past.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19204,
+"en": "IF8 faithfully recreates the battle based on your memories.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19205,
+"en": "Only some enemies are available, though. And you won't gain weapon proficiency or experience, so remember that!",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19206,
+"en": "But if you win, there will be a nice little surprise for you, just as with the road battles.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19207,
+"en": "The cost to play is the same, too. 10,000 yen.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19208,
+"en": "Would you care to play?",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19209,
+"en": "Flashback Battles cost 10,000 yen to play. Care to play?",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19210,
+"en": "All right, that will be 10,000 yen.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19211,
+"en": "Let the Flashback Battle commence!",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19212,
+"en": "Oh, all right then. I'll be here in case you feel like playing later.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19213,
+"en": "You got a <Color:8>Mystery Liquid<Color:Default>.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19214,
+"en": "You got a <Color:8>Small Motor<Color:Default>.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19215,
+"en": "You got a <Color:8>Snowman Hammer<Color:Default>.",
+"ctx": "diálogo uid00033d12 + diálogo uid00100303 …"
+},
+{
+"id": 19216,
+"en": "You got a <Color:8>Gravity Converter<Color:Default>.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19217,
+"en": "There's a weird old man in a white coat at the bottom of the escalator down there.",
+"ctx": "diálogo uid00033d13"
+},
+{
+"id": 19218,
+"en": "I'd stay away from him if I were you. He keeps talking about this thing called inner something-or-other. Talk about expensive!",
+"ctx": "diálogo uid00033d13"
+},
+{
+"id": 19219,
+"en": "You better pay up quick!",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19220,
+"en": "(What's going on here?)",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19221,
+"en": "Please! Just a little bit longer!",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19222,
+"en": "The money's due now. Stiff us again, and we'll be taking this place off your hands as payment!",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19223,
+"en": "No, not that...! I promise I'll pay all the money I owe soon!",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19224,
+"en": "Bah... Let's bounce.",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19225,
+"en": "Okay, boss!",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19226,
+"en": "Man... What now? There's no way I can put together that much money.",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19227,
+"en": "Everything okay? I noticed you had some trouble earlier.",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19228,
+"en": "I'll be fine... Oh, who am I kidding? There's no way I'm getting out of this mess.",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19229,
+"en": "Has business been bad or something?",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19230,
+"en": "Mm, you could say that. We've been running this café in Kamurocho for years now, and one way or another, we've made ends meet. But then I went and got greedy.",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19231,
+"en": "I decided to open up branches in Sapporo and Nagoya, and they haven't been doing well.",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19232,
+"en": "Even though business did start picking up there after what seemed like forever, I'm still up to my eyeballs in debt from the opening costs.",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19233,
+"en": "The branch here in Kamurocho does turn a little profit, but not enough to pay the interest.",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19234,
+"en": "So that's how it is...",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19235,
+"en": "At this rate, it won't be long before those moneylenders take my café away. They'd have every right to do it, too.",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19236,
+"en": "If only I could come up with a really special dish that brought in droves of customers... That's about all that could save me now.",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19237,
+"en": "But life isn't that simple, is it? *sigh*",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19238,
+"en": "(So he needs a miracle on his menu. Hmm...)",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19239,
+"en": "Oh, hello? It's me, Tatsuya.",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19240,
+"en": "Is that you, Suzuki-san?",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19241,
+"en": "Uh, yes. What's going on? Something I can help you with?",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19242,
+"en": "No, it's just that I'm in Kamurocho right now, and I wanted to get you a gift for helping me back in Fukuoka.",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19243,
+"en": "Any Tokyo specialties you like in particular?",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19244,
+"en": "Actually, I'm in Kamurocho now myself.",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19245,
+"en": "What, you are!? What a coincidence! I guess it was meant to be, then!",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19246,
+"en": "We should definitely meet up while we're both in the area!",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19247,
+"en": "I'll be at Theater Square. Come and see me when you can! Bye!",
+"ctx": "diálogo uid00034505 + diálogo uid01035075"
+},
+{
+"id": 19248,
+"en": "(Maybe Tatsuya can think of a dish that would save this place.)",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19249,
+"en": "(He said he was at Theater Square. I'll go meet him and see what he thinks.)",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19250,
+"en": "Hey! It's been a while, huh? How have you been doing?",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19251,
+"en": "(Maybe Tatsuya can think of a dish that would save Café Alps.)",
+"ctx": "diálogo uid00034505 + diálogo uid01035075"
+},
+{
+"id": 19252,
+"en": "Oh, there was something I wanted to ask you.",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19253,
+"en": "...I think I get the picture. He needs something tasty enough to get his business booming before time runs out.",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19254,
+"en": "I know you're busy, but do you think you can come up with anything?",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19255,
+"en": "Hmm, that's going to be tricky. I really wish I could help out.",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19256,
+"en": "<Color:40>But I'm still doing that project where I visit regional restaurants around the country.",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19257,
+"en": "<Color:40>Until I finish that, I won't be able to tackle anything new, I'm afraid.",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19258,
+"en": "<Color:1>I see. Sorry to ask such a big favor.",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19259,
+"en": "<Color:40>No worries. Once I'm done with my stuff, that café is the first place I'll head to!",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19260,
+"en": "<Color:1>Great. That'd be appreciated. I'll see you around then.",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19261,
+"en": "<Color:40>(Tatsuya is traveling the country developing new dishes for restaurants. He won't be able to help until that's finished.)",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19262,
+"en": "Welcome to...  Whoa! No way!",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19263,
+"en": "It's Tatsuya-san! The culinary crusader of Japan is here to visit <Italic>me</Italic>!?",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19264,
+"en": "Wait, you know him?",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19265,
+"en": "Of course I do! Practically everyone in the restaurant trade does! He's famous nationwide!",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19266,
+"en": "Oh, you flatter me. Hahaha.",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19267,
+"en": "But what are you doing in a dingy old café like this, Tatsuya-san?",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19268,
+"en": "Actually, I asked him to help you out. I didn't want to see the place go under.",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19269,
+"en": "You did? Really!? Thank you! And, Tatsuya-san, you're willing to help me turn this place around?",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19270,
+"en": "Let's just say I owe a favor to Suzuki-san. Now then. Allow me to work my magic and whip up the ultimate comfort food! This place will never be the same again!",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19271,
+"en": "I can't believe this is happening! Thank you!",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19272,
+"en": "Okay, then let's get started. You don't mind if I borrow your kitchen, do you?",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19273,
+"en": "Go right ahead!",
+"ctx": "diálogo uid00034505"
+},
+{
+"id": 19274,
+"en": "Ah, Suzuki-san! Good to see you! How are things?",
+"ctx": "diálogo uid0003450c"
+},
+{
+"id": 19275,
+"en": "Fair. How about you?",
+"ctx": "diálogo uid0003450c"
+},
+{
+"id": 19276,
+"en": "Oh yes. After meeting you in Nagasu, I traveled to Tsukimino, Sotenbori, and Kineicho looking for tasty local delicacies.",
+"ctx": "diálogo uid0003450c"
+},
+{
+"id": 19277,
+"en": "Now I have a ton of amazing recipe ideas swimming through my mind's eye. I'm getting the urge to create something new and exciting!",
+"ctx": "diálogo uid0003450c"
+},
+{
+"id": 19278,
+"en": "That's good... Listen, about that, I actually had a favor to ask you.",
+"ctx": "diálogo uid0003450c"
+},
+{
+"id": 19279,
+"en": "A favor? Such as?",
+"ctx": "diálogo uid0003450c"
+},
+{
+"id": 19280,
+"en": "I see... He needs something tasty enough to get his business booming before time runs out.",
+"ctx": "diálogo uid0003450c"
+},
+{
+"id": 19281,
+"en": "I know you're busy, but do you think you'd be able to come up with something?",
+"ctx": "diálogo uid0003450c"
+},
+{
+"id": 19282,
+"en": "Sure, I'd be glad to help! You just leave it to me.",
+"ctx": "diálogo uid0003450c"
+},
+{
+"id": 19283,
+"en": "Okay, no time to waste! Let's head to this café!",
+"ctx": "diálogo uid0003450c"
+},
+{
+"id": 19284,
+"en": "You've been a big help, Tatsuya. This is all thanks to your recipe.",
+"ctx": "diálogo uid0003450d"
+},
+{
+"id": 19285,
+"en": "Yes, with the way things are looking, I think we have a fighting chance! I really can't thank you enough!",
+"ctx": "diálogo uid0003450d"
+},
+{
+"id": 19286,
+"en": "No thanks required. This was a good chance to get a few of the ideas I had out of my head. And you know what? I think it turned out great.",
+"ctx": "diálogo uid0003450d"
+},
+{
+"id": 19287,
+"en": "Oh, why don't you try it while you're here, Suzuki-san?",
+"ctx": "diálogo uid0003450d"
+},
+{
+"id": 19288,
+"en": "You don't mind?",
+"ctx": "diálogo uid0003450d"
+},
+{
+"id": 19289,
+"en": "Of course not! Go on, have a seat!",
+"ctx": "diálogo uid0003450d"
+},
+{
+"id": 19290,
+"en": "This is the culmination of everything I learned from the people and the food of Nagasu, Tsukimino, Sotenbori, Kineicho, and Kamurocho.",
+"ctx": "diálogo uid0003450d"
+},
+{
+"id": 19291,
+"en": "I call it... the Ultimate Napolitan!",
+"ctx": "diálogo uid0003450d"
+},
+{
+"id": 19292,
+"en": "The Ultimate Napolitan, huh? That's quite a name to live up to.",
+"ctx": "diálogo uid0003450d"
+},
+{
+"id": 19293,
+"en": "Yes indeed. You know as well as I do, Napolitan spaghetti is a fixture at many Japanese cafés. This is my take on that old classic.",
+"ctx": "diálogo uid0003450d"
+},
+{
+"id": 19294,
+"en": "Instead of regular sausage, I use the salsiccia you often find in Italian dishes, and instead of plain old mushrooms I went with porcini.",
+"ctx": "diálogo uid0003450d"
+},
+{
+"id": 19295,
+"en": "That lends the dish the same rich aroma that you'd experience in a high-class Italian restaurant.",
+"ctx": "diálogo uid0003450d"
+},
+{
+"id": 19296,
+"en": "I also use Parmesan cheese and honey as accents, and these bring out even more of that sweet, gooey flavor.",
+"ctx": "diálogo uid0003450d"
+},
+{
+"id": 19297,
+"en": "That sounds amazing. Can I try it?",
+"ctx": "diálogo uid0003450d"
+},
+{
+"id": 19298,
+"en": "Of course! I want you to taste the medley of flavors that my culinary pilgrimage inspired.",
+"ctx": "diálogo uid0003450d"
+},
+{
+"id": 19299,
+"en": "Wow... All we did was spread a few flyers about Tatsuya-san crafting our new dish, and look at the turnout! I can hardly believe my eyes!",
+"ctx": "diálogo uid0003450f"
+},
+{
+"id": 19300,
+"en": "Incredible, isn't it?",
+"ctx": "diálogo uid0003450f"
+},
+{
+"id": 19301,
+"en": "Yeah! Let's go check it out inside!",
+"ctx": "diálogo uid0003450f"
+},
+{
+"id": 19302,
+"en": "Oh, sure.",
+"ctx": "diálogo uid0003450f"
+},
+{
+"id": 19303,
+"en": "I can't even begin to thank you, Tatsuya-san.",
+"ctx": "diálogo uid00034533"
+},
+{
+"id": 19304,
+"en": "Like I said, no thanks necessary. If you want to thank someone, thank Suzuki-san here.",
+"ctx": "diálogo uid00034533"
+},
+{
+"id": 19305,
+"en": "Right. If I hadn't met you, I would never have come up with such a unique creation.",
+"ctx": "diálogo uid00034533"
+},
+{
+"id": 19306,
+"en": "You were kind enough to show me around Nagasu when I was in a fix. Even though you were busy, you took me all over town.",
+"ctx": "diálogo uid00034533"
+},
+{
+"id": 19307,
+"en": "And it's not just you. In every town I visited, there were people willing to help me out of the kindness of their hearts. It was truly touching.",
+"ctx": "diálogo uid00034533"
+},
+{
+"id": 19308,
+"en": "So now I want to pay some of that kindness forward.",
+"ctx": "diálogo uid00034533"
+},
+{
+"id": 19309,
+"en": "Tatsuya...",
+"ctx": "diálogo uid00034533"
+},
+{
+"id": 19310,
+"en": "This recipe was based on the warmth and goodwill I felt from those who supported me.",
+"ctx": "diálogo uid00034533"
+},
+{
+"id": 19311,
+"en": "That's what makes it the ultimate dish. The experiences I've had taught me that.",
+"ctx": "diálogo uid00034533"
+},
+{
+"id": 19312,
+"en": "After all, what better way to season a dish than with a little love and gratitude?",
+"ctx": "diálogo uid00034533"
+},
+{
+"id": 19313,
+"en": "So being thankful is the ultimate seasoning... Heh, I guess I could see that being the case.",
+"ctx": "diálogo uid00034533"
+},
+{
+"id": 19314,
+"en": "I get the feeling this has really helped me grow as a chef. I won't run out of recipe ideas anytime soon, that's for sure.",
+"ctx": "diálogo uid00034533"
+},
+{
+"id": 19315,
+"en": "In fact... I can feel another dish calling to me, just waiting to be created! Time is precious, so I'd best be on my way!",
+"ctx": "diálogo uid00034533"
+},
+{
+"id": 19316,
+"en": "After all, I want to show my gratitude to as many people possible!",
+"ctx": "diálogo uid00034533"
+},
+{
+"id": 19317,
+"en": "That's a great attitude to have. I'm sure everyone's looking forward to what you'll come up with next.",
+"ctx": "diálogo uid00034533"
+},
+{
+"id": 19318,
+"en": "I hope so! Well, I've got to get going. Until we meet again!",
+"ctx": "diálogo uid00034533"
+},
+{
+"id": 19319,
+"en": "(I bet he has plenty more delicious dishes left in that creative mind of his. Good luck, Tatsuya.)",
+"ctx": "diálogo uid00034533"
+},
+{
+"id": 19320,
+"en": "Tatsuya's Ultimate Napolitan was added to the Café Alps menu\nat the Kamurocho branch.",
+"ctx": "diálogo uid00034533"
+},
+{
+"id": 19321,
+"en": "You got 3,000 experience points.",
+"ctx": "diálogo uid00034533 + diálogo uid00330554 …"
+},
+{
+"id": 19322,
+"en": "Come on, Santa! We want presents!",
+"ctx": "diálogo uid0003457f"
+},
+{
+"id": 19323,
+"en": "*pant* Geez, I'm spent. That's enough Santa for me!",
+"ctx": "diálogo uid0003457f"
+},
+{
+"id": 19324,
+"en": "Hey, you all right?",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19325,
+"en": "Urgh... I got beat up by a gang of Santa hunters.",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19326,
+"en": "Santa hunters? Look, can you just tell me if you're all right?",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19327,
+"en": "Yeah, I think so.",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19328,
+"en": "Well, you can stand, at least. That's a good sign.",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19329,
+"en": "Yes, sorry to have troubled you.",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19330,
+"en": "No worries. But what was that ya said earlier? Somethin' about Santa hunters?",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19331,
+"en": "They're a gang of delinquents. They make a game of beating up retail workers wearing Santa costumes.",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19332,
+"en": "Wow. Buncha punks...",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19333,
+"en": "Because of them, people don't consider the shopping district a safe place anymore. It ruins the festive mood entirely.",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19334,
+"en": "I'll give those kids a talkin' to.",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19335,
+"en": "Pardon? You're going to, what, lecture them? How?",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19336,
+"en": "They go after Santas, right? Lend me your outfit.",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19337,
+"en": "You're going to use yourself as bait? That's nuts. They've got close to ten kids. By yourself, you couldn't possibly...",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19338,
+"en": "Wasn't plannin' on fightin' them. They might just listen to reason.",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19339,
+"en": "I doubt that...",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19340,
+"en": "Don't worry. If things get ugly, I'll cut and run. I won't push it.",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19341,
+"en": "That's rough. Just gotta hope they'll regret it when they're older, right? But I gotta go now.",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19342,
+"en": "Oh. Okay, then.",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19343,
+"en": "Urff... Those punks...",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19344,
+"en": "Santa hunters, eh? Dumb kids.",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19345,
+"en": "All right. This should make the Santa hunters come lookin' for me.",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19346,
+"en": "Please be careful. They carry weapons, and they're not shy about using them.",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19347,
+"en": "I'll be fine.",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19348,
+"en": "(All right, let's find these so-called Santa hunters.)",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19349,
+"en": "Look, it's Santa again! Do you have my present now?",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19350,
+"en": "Oh, oh! What about me?",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19351,
+"en": "Santa! I want my present!",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19352,
+"en": "You all are just begging to end up on Santa's naughty list!",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19353,
+"en": "Hey, it's Santa!",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19354,
+"en": "Yaaay!",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19355,
+"en": "(Hehe, cute kids. Wearin' this getup around town ain't so bad!)",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19356,
+"en": "Santa, can I have my present now?",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19357,
+"en": "Sorry, tykes, ain't got nothin' on me. At least not stuff that would make good gifts for ya.",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19358,
+"en": "Huh? No fair! I want my present!",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19359,
+"en": "Pweeease, Santa!",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19360,
+"en": "No presents. I don't got my... uh, sleigh with me.",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19361,
+"en": "Why didn't you bring it!?",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19362,
+"en": "Look, it's Santa! I want a present!",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19363,
+"en": "What? Santa? *gasp* He's here!",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19364,
+"en": "Santa, can I sit on your lap?",
+"ctx": "diálogo uid00034584"
+},
+{
+"id": 19365,
+"en": "Do you have a present for <Italic>me</Italic>?",
+"ctx": "diálogo uid00034584"
+}
+]

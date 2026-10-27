@@ -1,0 +1,912 @@
+[
+{
+"id": 23829,
+"en": "Nah... Truth is, you and my gramps are still kicking some serious ass for your age.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23830,
+"en": "Plus, you guys got this cool, rough edge that only comes with growing older.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23831,
+"en": "What happened to all that trash talk about you being strong and good looking?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23832,
+"en": "Maybe this'll explain it. Got a minute?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23833,
+"en": "Clock's ticking.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23834,
+"en": "I never knew what my gramps looked like when I was a kid. My dad didn't want anything to do with him.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23835,
+"en": "That's because Gramps was a homeless loser.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23836,
+"en": "But I was kind of a wimpy little kid. Kids who were older and bigger would always pick on me.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23837,
+"en": "You were bullied when you were a kid?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23838,
+"en": "Yeah, pretty sad, right? So I ended up seeking out my gramps for help. Had him teach me the Komaki style.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23839,
+"en": "Long story short, I became the kickass fighter I am today. Gramps even said I had potential.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23840,
+"en": "But when I decided to go get my revenge against those bullies, my gramps stopped me.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23841,
+"en": "He told me, \"Technique alone is not enough. You must also have a strong heart.\"",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23842,
+"en": "Words of wisdom.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23843,
+"en": "Yeah? Well, I don't get it. Guess I'm really that dumb.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23844,
+"en": "The Komaki techniques are really powerful. I want to use them to stop bad guys. That's the right thing to do, isn't it?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23845,
+"en": "Opening a dojo and practicing together all friendly-like... Is that what the Komaki style is for?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23846,
+"en": "The right thing, huh? That's a tough one.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23847,
+"en": "It's easy to beat down punks who get on your nerves, but that's not necessarily the right thing to do.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23848,
+"en": "The people you call bad guys might be doing what they think is right, too. Ever think of that?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23849,
+"en": "I get what you're saying, but...",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23850,
+"en": "Oh, man! I'm so confused! And the stuff old dudes like you say just makes it worse!",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23851,
+"en": "The Komaki techniques are all I've got. I don't have anything else I can count on.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23852,
+"en": "I've got one more thing to teach you. It's something I came up with myself. Come on back when you're ready.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23853,
+"en": "After that, your training will be complete, and we can finally duke it out for keeps.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23854,
+"en": "Nice! You nailed that one!",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23855,
+"en": "Yeah. That one's bound to come in handy.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23856,
+"en": "You learned <Color:9>Ultimate Essence (Climax Heat)<Color:Default>.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23857,
+"en": "I thought you were hopeless at first. I didn't think you'd make it this far.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23858,
+"en": "That's a pretty backhanded compliment.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23859,
+"en": "You got me there, old man.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23860,
+"en": "But really, you're turning out a lot better than I thought you'd be.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23861,
+"en": "Heh. Thanks, I guess.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23862,
+"en": "No problem. Now you should be good enough that I don't have to hold back anymore.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23863,
+"en": "So now we can face off for real.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23864,
+"en": "What's the matter? You scared?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23865,
+"en": "You know how you noticed I'd gotten rusty? Well, I noticed something, too.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23866,
+"en": "Oh, this should be good. Let's hear it!",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23867,
+"en": "Relax. I just noticed that you're not at your full fighting potential, either.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23868,
+"en": "Huh? What're you babbling about, old man?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23869,
+"en": "I'm not one to talk, but your moves are more about violence than martial arts.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23870,
+"en": "If Master Komaki taught you himself, your form would be cleaner, and you'd put your heart and soul into each technique.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23871,
+"en": "I don't sense that in your fighting, even assuming that you're holding back.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23872,
+"en": "Are you just trying to piss me off now?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23873,
+"en": "Fine with me. That load of bullshit's given me even more motivation to kick your ass.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23874,
+"en": "I don't mind taking you on, but you're trying to prove something, not just fight.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23875,
+"en": "Just say what you mean already, old man.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23876,
+"en": "I'm not sure why, but...",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23877,
+"en": "Something tells me you should go see your grandfather.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23878,
+"en": "I get that you want to be the best and the strongest. I get that you think looks are a part of that.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23879,
+"en": "But it looks to me like you're just spinning your wheels.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23880,
+"en": "You trying to piss me off again?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23881,
+"en": "You're not trying to surpass your grandfather. You want to impress him.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23882,
+"en": "What the hell're you talking about!?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23883,
+"en": "By your reaction, I'd say I hit a nerve.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23884,
+"en": "Under all that machismo, you're just a little kid looking for a little affirmation.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23885,
+"en": "You son of a bitch! You think I'm gonna sit here and take that shit from you!?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23886,
+"en": "I don't care what that old geezer thinks. I already know I'm a total badass.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23887,
+"en": "Screw you, old man! Who do you think you are, anyway?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23888,
+"en": "I'm just pointing out the obvious. You decide what you need to do. But remember...",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23889,
+"en": "The more you resort to violence, the further you stray from your grandfather's path.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23890,
+"en": "That's all I have to say. Take some time to think about it.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23891,
+"en": "Screw this, we'll settle this next time! You'll pay for dissing me!",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23892,
+"en": "Now get your ugly ass out of my face!",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23893,
+"en": "You actually came. Thought I might never see you again by the way you acted.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23894,
+"en": "Just felt like stopping by.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23895,
+"en": "Yeah? Well, you're here, so that's all that matters.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23896,
+"en": "Let's get down to business. I noticed something when I watched you fight.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23897,
+"en": "You use Komaki techniques here and there. Did you learn them from Sotaro Komaki?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23898,
+"en": "You'd rather not say? There's no point in hiding it, but whatever.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23899,
+"en": "Sotaro Komaki's my grandpa. I learned the Komaki style from him.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23900,
+"en": "You probably noticed when we fought that we use some of the same moves.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23901,
+"en": "I was surprised at first, but I guess there are more of us than you'd think.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23902,
+"en": "So that's why you approached me.",
+"ctx": "diálogo uid001302db + diálogo uid0013085c"
+},
+{
+"id": 23903,
+"en": "Yeah, but that's not really the point.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23904,
+"en": "I won't ask you how you know my gramps's techniques if you don't want to talk about it.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23905,
+"en": "But I hardly ever run into one of his students, especially one that looks as tough as you. That's why I couldn't let it go.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23906,
+"en": "And that's why I need to beat the shit out of you. Sorry, but that's just the way it is.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23907,
+"en": "Gramps thought you were good enough for him to train, but the way you are now, there's no point in beating you.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23908,
+"en": "I'm going to train your rusty ass till you're in top form and can give me the fight I really want.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23909,
+"en": "Then I'll beat you down with all I've got.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23910,
+"en": "I get it. Then you'll feel like you've beaten your grandfather, too.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23911,
+"en": "But if you want to fight him, just do it man to man instead of being so roundabout with it.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23912,
+"en": "Man, you don't know what you're talking about.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23913,
+"en": "I could beat that old geezer with one hand tied behind my back. This is about so much more than that.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23914,
+"en": "What's it about, then?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23915,
+"en": "You really want to know? I get the feeling you couldn't care less.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23916,
+"en": "But if it turns out to be worth my time getting you back into shape, then I'll let you in on what I'm after.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23917,
+"en": "But if those lowlifes around town still give you a run for your money, you've got a ways to go.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23918,
+"en": "Using one big move after another isn't always the answer. Be more strategic in your battles.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23919,
+"en": "You can prevent the activation of Heat Actions by holding down <Action:Battle_Center_Camera@Combat>. Do this when you want to raise the Heat Gauge or take greater control of how you use your techniques.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23920,
+"en": "But I don't suppose I need to tell you that. You probably already figured it out yourself.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23921,
+"en": "Anyway, come see me whenever you feel like practicing. I'll smack you back into shape.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23922,
+"en": "If I'm not here, just come find me around town. I like to keep it casual like that.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23923,
+"en": "Hey, old man.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23924,
+"en": "You sound down in the dumps. What's up?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23925,
+"en": "I thought about what you said.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23926,
+"en": "And as much as I hate to admit it, I think you were right.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23927,
+"en": "I wanted my gramps to see me as a real man. That's all I've ever wanted.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23928,
+"en": "But I got caught up in proving how strong I was. That's why my Komaki techniques just turned into violence.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23929,
+"en": "Wait, are you actually admitting you were wrong?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23930,
+"en": "What? No! I don't second-guess myself, and I never have regrets.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23931,
+"en": "Right...",
+"ctx": "diálogo uid001302db + diálogo uid0013031a …"
+},
+{
+"id": 23932,
+"en": "It's just, as long as my fighting is nothing but violence, I'll never surpass my gramps, and I won't be the man I want to be.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23933,
+"en": "I have to open my eyes.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23934,
+"en": "I'm going to go slug it out with my gramps and face reality, just like you said.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23935,
+"en": "And if nothing changes, then I guess I'm not really all that.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23936,
+"en": "You're finally sounding like a man.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23937,
+"en": "Man, there you go again offering a compliment like you're better than me or something.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23938,
+"en": "Heh.",
+"ctx": "diálogo uid001302db + diálogo uid01020432 …"
+},
+{
+"id": 23939,
+"en": "Tsk, whatever.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23940,
+"en": "Time for me to bounce. I'm off to Kamurocho, and I won't be back till I'm good and ready.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23941,
+"en": "Okay, good luck.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23942,
+"en": "I'm going to need more help than \"good luck,\" old man.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23943,
+"en": "Well, you were the one who told me to go see my gramps, so...",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23944,
+"en": "You're not suggesting⑬",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23945,
+"en": "That's exactly what I'm suggesting. I mean, how could I possibly afford a trip to Kamurocho?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23946,
+"en": "It's your duty as an adult to help young people like me chase their dreams.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23947,
+"en": "Unbelievable...",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23948,
+"en": "Hey, old man. You decide to fund my trip yet?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23949,
+"en": "(30,000 yen should be enough to get him to Tokyo. Hmm...)",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23950,
+"en": "Don't be a spoiled brat. Get the money yourself.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23951,
+"en": "Man, really? Man, it's not like this is about the money or anything.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23952,
+"en": "You were pushing me to go see Gramps, but I wasn't sure if you really cared or if you were just saying it.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23953,
+"en": "I guess now I know.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23954,
+"en": "Sorry, I'm a little short right now. Maybe next time.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23955,
+"en": "I'll be waiting right here. Not like I have a choice, anyway.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23956,
+"en": "Sweet. I'll put it to good use.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23957,
+"en": "Is that your way of saying thank you?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23958,
+"en": "Hey, I may look and act cool, and that's because I am, but being grateful is a cool thing to do, too.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23959,
+"en": "Look, here's the deal.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23960,
+"en": "I won't forget this. And I'm going to pay you back someday.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23961,
+"en": "But not until I beat my gramps and prove that I'm the strongest of all.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23962,
+"en": "Hah. Well, I'll look forward to that day.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23963,
+"en": "I won't disappoint! Anyway, I'm off. See you!",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23964,
+"en": "I have a question, Master!",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 23965,
+"en": "Okay, let's hear it.",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 23966,
+"en": "Is it true that nothing is certain?",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 23967,
+"en": "Excellent question. I will answer it by saying this...",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 23968,
+"en": "I love curry! That is the only thing that is certain!",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 23969,
+"en": "Is it true that having someone special in your life makes you stronger?",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 23970,
+"en": "If you have time to find someone special, use it to do squats! That's guaranteed to make you stronger!",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 23971,
+"en": "Everyone puts a different kind of meat in curry. Which one's the right one?",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 23972,
+"en": "No matter what you put in curry, it still tastes like curry! Nothing you add can change that!",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 23973,
+"en": "My feet have been really stinky lately. What should I do?",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 23974,
+"en": "Wash between your toes! Most people only wash the bottom and sides of their feet!",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 23975,
+"en": "I waste money like crazy. How can I become more frugal?",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 23976,
+"en": "Donate all your money to charity! Then you won't have to worry about wasting it anymore!",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 23977,
+"en": "Aren't they overdoing it with all the \"Now serving chilled ramen\" signs around town?",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 23978,
+"en": "The real question is why chilled ramen is almost always the same! I prefer mine with sesame seed sauce!",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 23979,
+"en": "There are many theories about why the dinosaurs went extinct, but what do you think, Master?",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 23980,
+"en": "I am the one who made the dinosaurs go extinct!",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 23981,
+"en": "When I go out with friends, they always want to split the check evenly. The problem is I don't drink, so I feel cheated. What should I do?",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 23982,
+"en": "Make up the difference by pigging out! And focus on the most expensive dishes!",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 23983,
+"en": "I always feel kind of sad as winter nears. How about you, Master?",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 23984,
+"en": "When I dress up as Santa, children run the other way! It really bums me out!",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 23985,
+"en": "Maybe it's because of all the terrorism and war around the world. Is there anything we can do about it?",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 23986,
+"en": "Don't forget that feeling! And make sure not to fight! If everyone did that, violence would vanish from the world!",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 23987,
+"en": "I understand! Thank you, Master!",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 23988,
+"en": "What's wrong with you!? That was one big, epic fail!",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 23989,
+"en": "Make sure you're prepared in both body and spirit before you try again!",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 23990,
+"en": "All right, dismissed!",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 23991,
+"en": "Okay. You pass!",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 23992,
+"en": "Here's a reward. There's nothing better to soothe your post-training aches.",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 23993,
+"en": "You got a <Color:8>Staminan XX<Color:Default>.",
+"ctx": "diálogo uid0013031a + diálogo uid010c0cb0"
+},
+{
+"id": 23994,
+"en": "Repeating your training is a magnificent thing. Don't you ever forget that!",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 23995,
+"en": "Watching you reminds me of that one time...",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 23996,
+"en": "I ran alongside my war buddy's fighter plane to hand him his wallet after he forgot it.",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 23997,
+"en": "There's no way you could run that fast! Besides, who needs a wallet to fly a warplane?",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 23998,
+"en": "So, what did you learn this time?",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 23999,
+"en": "Hmm... I'm more nimble now, and it feels like my sense of balance has improved.",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24000,
+"en": "You learned <Color:9>Slash Kick Plus<Color:Default>.",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24001,
+"en": "Your fighting style is based on kicking, so you must train both your legs equally. Don't focus solely on your dominant one.",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24002,
+"en": "Remember that every time you go into battle!",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24003,
+"en": "I was out of ammo and about to die when one of my wisdom teeth fell out. So, I loaded it in and blew away my enemy. That was one close shave!",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24004,
+"en": "I've never heard of wisdom teeth suddenly falling out like that. And how could you possibly fire a tooth from a gun, anyway?",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24005,
+"en": "Hmm... I feel like I can literally dodge bullets after being shot at like that.",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24006,
+"en": "You learned <Color:9>Quickstep Attack<Color:Default>.",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24007,
+"en": "Dodging won't take out your enemy, so it's important to attack at the same time.",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24008,
+"en": "After everyone in camp went to sleep, my war buddy and I secretly enjoyed a late night snack of hardtack.",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24009,
+"en": "You sound like a couple of kids on a campout! But memories like that can put a smile on your face, I guess.",
+"ctx": "diálogo uid0013031a"
+},
+{
+"id": 24010,
+"en": "I guess actual fighting's the best training. I thought of a move that can really turn the tables in a fight.",
+"ctx": "diálogo uid0013031a"
+}
+]

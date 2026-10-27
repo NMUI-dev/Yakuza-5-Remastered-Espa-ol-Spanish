@@ -1,0 +1,23 @@
+{
+ "textura": "ui_en/surfboard/pjd_btl_weapon.par/texlist/2d_jm_rancher",
+ "fuente": "times.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    131,
+    100,
+    153
+   ],
+   "en": "Put Away",
+   "ocr": "PutAway",
+   "es": "Guardar",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 96
+  }
+ ]
+}

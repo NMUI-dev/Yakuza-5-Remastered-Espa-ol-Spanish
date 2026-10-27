@@ -1,0 +1,210 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_billiards05",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    473,
+    6,
+    552,
+    47
+   ],
+   "en": "Pool",
+   "es": "Billar",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "centro",
+   "ancho_max": 74,
+   "mediana": false
+  },
+  {
+   "caja": [
+    60,
+    65,
+    527,
+    98
+   ],
+   "en": "Rules of Eight-ball (2)",
+   "es": "Reglas del billar de 8 bolas (2)",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    33,
+    32,
+    33
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 460,
+   "mediana": false
+  },
+  {
+   "caja": [
+    90,
+    112,
+    880,
+    144
+   ],
+   "en": "To win, you must pocket the 8 ball after pocketing all of",
+   "es": "Para ganar, debes meter la bola 8 después de meter todas",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    8,
+    4,
+    8
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 783
+  },
+  {
+   "caja": [
+    90,
+    148,
+    887,
+    180
+   ],
+   "en": "the balls in your group. You can pocket the balls in your",
+   "es": "las bolas de tu grupo. Puedes meter las bolas de tu grupo",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    8,
+    4,
+    0
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 790
+  },
+  {
+   "caja": [
+    91,
+    184,
+    367,
+    216
+   ],
+   "en": "group in any order.",
+   "es": "en cualquier orden.",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    0,
+    4,
+    0
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 269
+  },
+  {
+   "caja": [
+    90,
+    244,
+    917,
+    276
+   ],
+   "en": "When you are ready to pocket the 8 ball, you must specify",
+   "es": "Cuando estés listo para meter la bola 8, debes indicar",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    8,
+    4,
+    8
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 820
+  },
+  {
+   "caja": [
+    90,
+    280,
+    823,
+    312
+   ],
+   "en": "the pocket that you will be aiming for. If the 8 ball",
+   "es": "el bolsillo que tomarás como objetivo. Si la bola 8 cae",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    0,
+    4,
+    0
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 726
+  },
+  {
+   "caja": [
+    90,
+    316,
+    832,
+    348
+   ],
+   "en": "falls into a different pocket, you immediately lose.",
+   "es": "en otro bolsillo, pierdes de inmediato. Meter la bola 8",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    8,
+    4,
+    8
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 735
+  },
+  {
+   "caja": [
+    92,
+    352,
+    883,
+    384
+   ],
+   "en": "Pocketing the 8 ball before all of the balls in your",
+   "es": "en un bolsillo antes de que se hayan metido todas las bolas",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    8,
+    4,
+    8
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 784
+  },
+  {
+   "caja": [
+    91,
+    388,
+    736,
+    420
+   ],
+   "en": "group have been sunk also counts as a loss.",
+   "es": "de tu grupo también cuenta como una derrota.",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    8,
+    4,
+    0
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 638
+  }
+ ]
+}

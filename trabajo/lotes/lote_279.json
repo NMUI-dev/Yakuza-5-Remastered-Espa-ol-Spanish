@@ -1,0 +1,887 @@
+[
+{
+"id": 57475,
+"en": "No way! Wow, you sure do move a lot. I've lived in Saitama since I was born.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57476,
+"en": "Oh, wow. At your parents' house, I take it?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57477,
+"en": "Yeah. My parents are cool with me working at night, so I don't live alone. But most hostesses have to move out of their parents' place.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57478,
+"en": "Saitama, huh?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57479,
+"en": "Hey, hold on. Are you sighing because you're disappointed?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57480,
+"en": "No, it's not that. It's just that you're not from Tokyo.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57481,
+"en": "Well, no. But the girls here come from places like Chiba and Yokohama, too. We're from all over.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57482,
+"en": "I suppose that's part of the charm of a Tokyo cabaret club.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57483,
+"en": "Have you been working here long?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57484,
+"en": "No, quite the opposite! Today's my first day!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57485,
+"en": "Oh really? So you didn't even work any trial shifts?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57486,
+"en": "Nope. But I did go through a lot of training.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57487,
+"en": "You don't look it. I'd expect you to be a lot more nervous for your first time.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57488,
+"en": "Maybe because I got so much training? It doesn't really feel like it's my first time.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57489,
+"en": "So does that mean I'm your very first client?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57490,
+"en": "Hehehe. I actually had another client right before you.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57491,
+"en": "Aww, it was just some pointless small talk for a bit, and then suddenly time was up!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57492,
+"en": "Good job. Some girls are so nervous their first time that they can barely hold a conversation.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57493,
+"en": "Really? I must have a knack for it, then!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57494,
+"en": "That's no good. If you don't try to get the customer to order more things, how are you going to make a profit?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57495,
+"en": "Oh yeah, right. I didn't even think about that!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57496,
+"en": "You'll pick it up with experience.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57497,
+"en": "Would you like to order something, Kiryu-san?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57498,
+"en": "Huh? Uh, sure.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57499,
+"en": "That's a shame. I wish I'd gotten here earlier.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57500,
+"en": "Well, you can still be the first client to request me by name!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57501,
+"en": "You're a real silver-tongued devil, aren't you? At this rate, you'll have regular clients lined up in no time.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57502,
+"en": "And wouldn't you like to be one of them, hmm?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57503,
+"en": "Hey, now. You do realize it's not that easy to get regular clients, right?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57504,
+"en": "Wow, talk about a wet blanket.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57505,
+"en": "Well, it's true.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57506,
+"en": "I'll consider it. I am going to be in town for a while.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57507,
+"en": "Really? Then you have to come back!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57508,
+"en": "You know, you don't want to look too desperate for customers, either.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57509,
+"en": "I'm guessing you were an assistant?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57510,
+"en": "Well, yes, but I still had to pay a lot of attention. It was tough.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57511,
+"en": "If you're not careful, you'll never be able to get a customer on your own. Even if you're an assistant, you should make yourself desirable to guests.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57512,
+"en": "Sounds like you have a lot of cabaret club experience, Kiryu-san. You could almost be a trainer, I bet.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57513,
+"en": "I was more or less, a long time ago.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57514,
+"en": "Oh hey, listen up!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57515,
+"en": "My rank here in the club went up!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57516,
+"en": "Well, look at you. You only just started, too. Do you already have that many regular clients?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57517,
+"en": "Only a few, but still, they've come back a number of times.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57518,
+"en": "Good. Guess I should step it up as well.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57519,
+"en": "Keep at it. It's much harder to maintain your rank than to raise it. It's going to be tough.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57520,
+"en": "I hear that. I'm going to give it my all!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57521,
+"en": "So, what's your rank?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57522,
+"en": "Honestly? I'm still just number twenty.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57523,
+"en": "For a club this big, that's pretty good.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57524,
+"en": "I guess. I really want to be top-tier soon.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57525,
+"en": "I'm sure you will. You've got what it takes.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57526,
+"en": "But how soon is soon? This is a big month for earning money, but I'm not making any progress at this rate.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57527,
+"en": "Soon enough. I have faith in you.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57528,
+"en": "All righty, then, Kiryu-san. Are you going to help get my rank up?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57529,
+"en": "Sure. There's a certain thrill in helping a hostess you like move up in the ranks.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57530,
+"en": "You're the best, Kiryu-san! So is it Gold Champagne time then?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57531,
+"en": "Hold up! I can't afford that.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57532,
+"en": "What? Ugh, in that case, don't make promises you can't keep.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57533,
+"en": "If you're going to be cheap, you shouldn't have come here in the first place.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57534,
+"en": "Hey, wait a second...",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57535,
+"en": "Maybe later. I'm kind of strapped for cash right now, but I'll be back for more as soon as I can.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57536,
+"en": "You mean it? Next time for sure then!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57537,
+"en": "Next time for sure.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57538,
+"en": "Is there something else going on? You shouldn't be in such a rush, you know.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57539,
+"en": "Don't change the subject! Are you gonna help me out or not?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57540,
+"en": "Wait until your birthday. Then you can get your clients to go on dates with you as part of your birthday present.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57541,
+"en": "But my birthday is on Valentine's Day. The club is having a special event for it, so I might not be able to make much money.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57542,
+"en": "Ah, well. You'll just have to try harder than usual to make money.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57543,
+"en": "Yeeeah. I'm not so sure.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57544,
+"en": "So what? That only makes it better. You'll have double the reason to earn enough to raise your rank.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57545,
+"en": "Right! Then you have to come see me in February, okay, Kiryu-san?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57546,
+"en": "I wonder if I'll still be in Kamurocho then.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57547,
+"en": "Don't try to rush things. You'll need help from your customers to make money, so you need to start by fostering relationships with them.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57548,
+"en": "All righty then, Kiryu-san. Are you gonna help get my rank up there?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57549,
+"en": "It's not that, exactly. But I heard that one new girl brought in three million yen in just three days.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57550,
+"en": "That's incredible. I imagine it's hard enough to bring in three million over a whole month. Was she really a new hostess?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57551,
+"en": "No way. She couldn't have been new, then. She had to be someone who had high-rollers as customers from another club.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57552,
+"en": "I heard she was completely new. So I thought I'd try to see if I could hit the same target that she did.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57553,
+"en": "I guess it's just not possible, though. I know it doesn't reflect badly on my own skills, but I'm still kind of disappointed.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57554,
+"en": "That's par for the course. Just be yourself. Don't push yourself to do the impossible.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57555,
+"en": "And things are looking up lately, aren't they? So even if it takes some time, I'm sure you'll be able to become the number one girl.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57556,
+"en": "I sure hope so. I'm just super worried that my rank might drop back down or something.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57557,
+"en": "Just work hard so that doesn't happen.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57558,
+"en": "Don't give up. It may not be doable now, but someday you might be able to bring in three million in three days. Aim high.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57559,
+"en": "Yeah, you're right! I'll keep at it, one day at a time, until that time comes!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57560,
+"en": "You know, you really might have it in you.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57561,
+"en": "I've thought this since I first met you, but you have a face that's really easy to remember, Kiryu-san. It's impossible to forget.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57562,
+"en": "I bet you've never met anyone who didn't recognize you again later.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57563,
+"en": "I guess you're right. Especially in this city, people will often call out to me when I'm walking around town.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57564,
+"en": "That's so cool! When I walk through this part of town, people think I'm a tourist.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57565,
+"en": "People will recognize you soon enough.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57566,
+"en": "That's not true. When I'm here in town, the same punks always try to mess with me. If they recognized me, they'd know better by now.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57567,
+"en": "Really? Yeah, I get ticked off because the same set of creeps keep bugging me. It's like, get with the program, you bozos.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57568,
+"en": "Yeah, it happens.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57569,
+"en": "I have the reverse problem. I run into people who recognize me all the time, but I can never put a name to their face.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57570,
+"en": "Ahaha! So you've got a bad memory, Kiryu-san? I didn't expect that from you!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57571,
+"en": "It comes with getting older. I've met hundreds, maybe thousands of people. It's hard to keep track of them all.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57572,
+"en": "I'm really good at remembering clients' faces. Like, one look and I'll remember right away what we've talked about and stuff.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57573,
+"en": "Impressive. I'm not sure I can even remember all the things I've talked about.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57574,
+"en": "Oh, really? Then have you forgotten everything the two of us have talked about, Kiryu-san?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57575,
+"en": "Yeah. When I go out drinking, I just want to have a good time. I don't really think back on it after the fact.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57576,
+"en": "Really? It seems kind of pointless for me to be the only one who remembers. Maybe I should forget about you too, Kiryu-san.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57577,
+"en": "It depends. You can't expect me to remember everything, after all.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57578,
+"en": "I'm fine when it comes to work. I remember everything I need.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57579,
+"en": "As a taxi driver, I have regular passengers who I recognize on sight. I don't even need to ask where they're going.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57580,
+"en": "Some passengers have specific routes they want me to take. I have to remember a lot of details, so as not to upset them.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57581,
+"en": "I see! I'm not that good yet, but I'll try to make sure I can remember more!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57582,
+"en": "Do your best.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57583,
+"en": "That's to be expected. It would be rude of you to not remember your own clients.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57584,
+"en": "So you do remember, Kiryu-san?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57585,
+"en": "But you just said yourself that you have a really bad memory!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57586,
+"en": "Of course. I have a lot of fun talking to you. It leaves a strong impression.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57587,
+"en": "No. When I go out drinking, I just want to have a good time. I don't really think back on it after the fact.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57588,
+"en": "Hey, that's way worse than me! I have a lot of customers to keep track of, and it's not easy.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57589,
+"en": " It's not possible for me. But it should be a necessary job skill for a hostess.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57590,
+"en": "You should be taking notes on what you talked about right after a client leaves, so you don't forget.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57591,
+"en": "What? Everyone does that?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57592,
+"en": "Men appreciate it when a hostess sends an email that includes details from their conversations. It makes them feel good that you remember them.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57593,
+"en": "Wow, really? And here I thought I was going above and beyond just remembering anything at all, but I guess I was wrong!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57594,
+"en": "That's how you get ahead of the game.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57595,
+"en": "Okay, so when's my birthday?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57596,
+"en": "January 4th, right?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57597,
+"en": "January 14th, right?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57598,
+"en": "January 24th, right?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57599,
+"en": "February 4th, right?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57600,
+"en": "It's February 14th, right?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57601,
+"en": "February 24th, right?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57602,
+"en": "December 4th, right?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57603,
+"en": "December 14th, right?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57604,
+"en": "December 24th, right?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57605,
+"en": "Wow, you really do remember! That makes me feel kinda warm and fuzzy.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57606,
+"en": "See, I told you.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57607,
+"en": "Huh? Wait, I never told you when my birthday was, Kiryu-san.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57608,
+"en": "Uh, you didn't?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57609,
+"en": "So wait, how did you know? Honestly, now I'm a little creeped out.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57610,
+"en": "Maybe it was just a lucky guess.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57611,
+"en": "Nope! See, you did forget! I'm so disappointed in you.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57612,
+"en": "Oops.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57613,
+"en": "Hold on. You've never told me when your birthday is.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57614,
+"en": "Huh? I haven't?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57615,
+"en": "Then why didn't you say so earlier? Of course you wouldn't have known it, silly!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57616,
+"en": "Heh. You're a real piece of work, you know that?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57617,
+"en": "Hey, so there's something I've been wondering about for a while.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57618,
+"en": "You know how they write \"LAST\" on the price board outside? Do you have any idea why they write it like that?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57619,
+"en": "I do. I've been coming to cabaret clubs for years now, after all.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57620,
+"en": "No, why? I don't stay out drinking until closing time much anymore, so I've never noticed.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57621,
+"en": "They do that?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57622,
+"en": "Uh, yeah! I would have expected you to be more perceptive than that.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57623,
+"en": "I used to think that the closing time would change based on how good business was doing  that day.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57624,
+"en": "But as it turns out, we can only be open until one o'clock.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57625,
+"en": "Well, if you say that you're usually open until one o'clock, customers might assume you're not open any later, and then they won't come.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57626,
+"en": "Right, 'cause the club is actually open past that, but on the down-low! I was kind of surprised, because cabaret clubs had this wholesome image.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57627,
+"en": "You're right. That's why for the last few years cabaret clubs have been open during the day, since they can't be open all night.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57628,
+"en": "Oh, I see. That makes sense.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57629,
+"en": "You didn't know that? That's why the cops will swing by every once in a while.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57630,
+"en": "Yeah, I know! It was so sudden that it gave me quite a shock.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57631,
+"en": "Oh? The police came here?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57632,
+"en": "Yeah, something happened.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57633,
+"en": "This cop showed up, telling us that we were open longer than we were supposed to be, and forced us to close right on the spot.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57634,
+"en": "Did anything happen to you?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57635,
+"en": "I was fine. But the last train home had already left, so I was going to crash at a net café. But then I got a call from the manager.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57636,
+"en": "She was like, \"We're reopening, so get back here right away.\"",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57637,
+"en": "You're manager made a bold move. You'd figure after catching heat, you'd want to lay low for a while.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57638,
+"en": "Oh, yeah. She really is a go-getter. She usually doesn't seem all that tough, but in this case she was pretty badass.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57639,
+"en": "Unbelievable. If you'd been caught again, they would have shut this place down for good.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57640,
+"en": "Right! And then we'd all be out of work. She should have considered our well-being a bit more.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57641,
+"en": "So, what did you do? Did you go back?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57642,
+"en": "I did, but a lot of the other girls had already taken cabs home.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57643,
+"en": "I guess they never expected they'd be asked to come back, huh?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57644,
+"en": "But there were actually customers who came at that hour, and one of them really liked me a lot!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57645,
+"en": "But we were understaffed because the other girls didn't come back. I had to go take care of other customers, and he got all mad and left.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57646,
+"en": "That's bad luck. He may have wound up becoming a good repeat customer.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57647,
+"en": "I know! And I worked super hard too! This is all the manager's fault!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57648,
+"en": "Did you complain to her about it?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57649,
+"en": "Yeah, so she's taking me out for yakiniku⑬the expensive kind! I'm going to eat a ton!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57650,
+"en": "You've got nerve, I'll give you that.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57651,
+"en": "Don't worry about it. If you work here long enough, that's bound to happen a few times.",
+"ctx": "diálogo uid0134003a"
+}
+]

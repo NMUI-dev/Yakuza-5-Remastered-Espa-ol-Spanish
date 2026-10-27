@@ -1,0 +1,179 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_kyaba0",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    453,
+    7,
+    574,
+    46
+   ],
+   "en": "Cabaret",
+   "ocr": "Cabaret",
+   "es": "Cabaret",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 117,
+   "dejar": true
+  },
+  {
+   "caja": [
+    48,
+    60,
+    819,
+    95
+   ],
+   "en": "Here, you can enjoy a few drinks while chatting with hostesses.",
+   "ocr": "Here, you can enjoy a few drinks while chatting with hostesses.",
+   "es": "Aquí puedes disfrutar de unas bebidas mientras conversas con anfitrionas.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 767,
+   "dejar": true
+  },
+  {
+   "caja": [
+    34,
+    110,
+    835,
+    148
+   ],
+   "en": "Fill up your Heat Gauge and become better acquainted!",
+   "ocr": "· Fill up your Heat Gauge and become better acquainted!",
+   "es": "¡Llena tu Barra de Heat y familiarízate más!",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 797,
+   "dejar": true
+  },
+  {
+   "caja": [
+    63,
+    156,
+    541,
+    189
+   ],
+   "en": "The bar at the top of the screen is your",
+   "ocr": "The bar at the top of the screen isyour",
+   "es": "La barra en la parte superior de la pantalla es tu barra de salud.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 474,
+   "dejar": true
+  },
+  {
+   "caja": [
+    63,
+    190,
+    219,
+    224
+   ],
+   "en": "Heat Gauge.",
+   "ocr": "Heat Gauge.",
+   "es": "Barra de Heat.",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 152,
+   "dejar": true
+  },
+  {
+   "caja": [
+    64,
+    238,
+    456,
+    274
+   ],
+   "en": "When you are witty and liven up",
+   "ocr": "When you are witty and liven up",
+   "es": "Cuando eres ingenioso, animas la conversación.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 388,
+   "dejar": true
+  },
+  {
+   "caja": [
+    64,
+    273,
+    587,
+    306
+   ],
+   "en": "the conversation, or order food and drinks,",
+   "ocr": "the conversation, or order food and drinks,",
+   "es": "Puedes animar la conversación o realizar un Pedido de comida y bebidas.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 519,
+   "dejar": true
+  },
+  {
+   "caja": [
+    64,
+    306,
+    354,
+    341
+   ],
+   "en": "the Heat Gauge fills up.",
+   "ocr": "the Heat Gauge fills up.",
+   "es": "La Barra de Heat se llena.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 286,
+   "dejar": true
+  },
+  {
+   "caja": [
+    64,
+    362,
+    546,
+    392
+   ],
+   "en": "In some situations, it can also go down.",
+   "ocr": "In some situations, it can also go down.",
+   "es": "En algunas situaciones, también puede bajar.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 478,
+   "dejar": true
+  },
+  {
+   "caja": [
+    64,
+    414,
+    784,
+    448
+   ],
+   "en": "When you've had your fun and exit the club, the hostesses'",
+   "ocr": "When you've had your fun and exit the club, the hostesses'",
+   "es": "Cuando termines de divertirte y salgas del club, las anfitrionas",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 716,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: lo hace el PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

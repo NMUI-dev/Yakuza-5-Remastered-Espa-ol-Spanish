@@ -1,0 +1,207 @@
+[
+{
+"id": 8551,
+"en": "Enemies are sometimes demoralized by fear. Unleashing big moves like Climax Heat Actions or defeating the leader of a group are effective ways to demoralize enemies.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8552,
+"en": "When an enemy thinks they are outmatched, they may call for reinforcements. They will take out their cell phone and try to call for help, so stop them at all costs. If you attack that enemy before they finish making the call, you can prevent reinforcements from coming.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8553,
+"en": "Cornered enemies may sometimes try to flee. If an enemy flees, you will have fewer opponents to deal with, making the fight easier. However, note that you don't receive rewards or experience points for enemies that flee.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8554,
+"en": "Enemies become enraged when rallied by their leader or when you defeat one of their numbers. Enraged enemies temporarily become extremely powerful, so either take care when you fight them, or wait until their rage subsides.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8555,
+"en": "When you gain a level, you receive 3 Soul Orbs. Soul Orbs are used to learn new Abilities on the Pause Menu. There are many powerful abilities, so learn them as soon as you can to give you more options in combat.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8556,
+"en": "You can upgrade your character from Abilities on the Pause Menu. Soul Orbs are required to learn new moves. They are categorized as Soul, Tech, Body, and Essence. Work on improving the abilities that your character needs at the time.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8557,
+"en": "Auto assignment mode automatically upgrades abilities when you level up. You can switch to auto assignment mode at any time under Settings on the Pause Menu. Turn this mode on when you find assigning upgrades too difficult, or off when you want to customize a character yourself.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8558,
+"en": "The Underground Coliseum in Purgatory is where all the strongest fighters go to face off. You can earn prize money and rare prizes by winning tournaments there, so complete the Victory Road qualifiers in each city to earn the right to compete. You can access Purgatory through the manhole at Children's Park in Kamurocho.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8559,
+"en": "The Victory Road is a street fighting tournament held all over the country. It seems the strongest competitors in the qualifiers for each area earn the right to take part in a tournament held at a certain coliseum. Victory Road participants can be found loitering around town, and when you approach they will challenge you to a fight. Each foe is very powerful, so you'll need to be in top form to defeat them.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8560,
+"en": "IF8 is an abbreviation for the game, Inner Fighter 8: Road Battle, developed by Doctor Minamida. You use a special machine to do battle in your mind with powerful enemies from your memory. You can play the game by talking to Doctor Minamida or his assistant in each city.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8561,
+"en": "Press <Action:Battle_Drop_Weapon@Combat> to pick up weapons lying on the ground. Weapons you can pick up glow when you get close. The weapons that you can pick up differ depending on the character, and some weapons cannot be used even if you pick them up.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8562,
+"en": "While holding a weapon, <Action:Battle_Normal_Attack@Combat>, <Action:Battle_Heavy_Attack@Combat>, and <Action:Battle_Drop_Weapon@Combat> each trigger different attacks. Weapons have durability and break once it is used up, but weapons you own can be repaired and used again after they break.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8563,
+"en": "If \"<Action:Battle_Extreme_Heat@Combat> Put Away\" appears when you pick up a weapon, you can press <Action:Battle_Extreme_Heat@Combat> to save it as an item. Weapons you have obtained can be equipped and used from Items on the Pause Menu.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8564,
+"en": "You can equip weapons from Items on the Pause Menu. You can equip up to three weapons, with each corresponding to the <Action:Battle_Pull_Weapon_Up@Combat>, <Action:Battle_Pull_Weapon_Left@Combat> or <Action:Battle_Pull_Weapon_Right@Combat> button. In addition to viewing them on the Pause Menu, you can also check equipped weapons from the menu displayed when you press <Action:Battle_Pull_Weapon_Up@Combat><Action:Battle_Pull_Weapon_Left@Combat><Action:Battle_Pull_Weapon_Right@Combat>.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8565,
+"en": "When you have multiple weapons equipped, you can press <Action:Battle_Pull_Weapon_Up@Combat><Action:Battle_Pull_Weapon_Left@Combat><Action:Battle_Pull_Weapon_Right@Combat> to switch between them. When you have a weapon equipped, press <Action:Battle_Hide_Weapon@Combat> to put away the weapon and use your fists.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8566,
+"en": "There is a skill level for each type of weapon. When you keep using a weapon, you'll get better at handling it, and you may unlock more powerful weapon attacks or the ability to use weapons you couldn't handle before. Check your weapon skill from Abilities on the Pause Menu.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8567,
+"en": "Each weapon has a certain amount of durability and once this reaches zero, the weapon breaks. Weapons picked up off the street disappear when they break, but those in your inventory can be repaired and used again after breaking.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8568,
+"en": "Press <Action:Battle_Heavy_Attack@Combat> to kick a weapon at an enemy. Kicking objects is faster than picking a weapon up and throwing it at an enemy far away. There are also weapons such as empty cans that don't show a <Sign:23> mark, indicating they cannot be picked up. These can only be kicked.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8569,
+"en": "At Kamiyama Works, you can buy, modify, and repair weapons. The lineup of weapons available at Kamiyama Works expands as you invest money and provide parts. If you find some rare parts, be sure to bring them in.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8570,
+"en": "You can use repair kits to repair weapons without taking them in to Kamiyama Works. Select a repair kit under Items on the Pause Menu, then select the weapon you want to repair to restore its durability.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8571,
+"en": "Press <Action:Battle_Extreme_Heat@Combat> to unleash Dragon Spirit when Kiryu is in Heat Mode. While Dragon Spirit is in effect, your attacks become more powerful, and you won't be staggered by enemy attacks. You can also press <Action:Battle_Normal_Attack@Combat> or <Action:Battle_Dodge@Combat> to rapidly close the distance to enemies. The Heat Gauge gradually drops while using Dragon Spirit and once it is empty, the effect ends.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8572,
+"en": "Saejima's <Action:Battle_Heavy_Attack@Combat> attack can be charged up for more power when you hold down the button. If the charge attack hits, the enemy is knocked to the ground or against a wall and becomes staggered, allowing you to follow up with more powerful attacks. As your ability grows, you can charge more attacks.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8573,
+"en": "Press <Action:Battle_Normal_Attack@Combat> or <Action:Battle_Heavy_Attack@Combat> when Saejima is grabbing an enemy's legs in Heat Mode to swing them around and use them as a weapon. If you upgrade and learn the Tiger Cyclone ability, you can also unleash a powerful throw with <Action:Battle_Drop_Weapon@Combat>. Both these powerful attacks inflict heavy damage on the grabbed enemy and other foes around you.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8574,
+"en": "Press <Action:Battle_Heavy_Attack@Combat> when Akiyama is in Heat Mode to launch an enemy into the air. Rapidly press <Action:Battle_Normal_Attack@Combat> to pummel the enemy with blows in a mid-air combo. Launch Strike can also be unleashed after a <Action:Battle_Normal_Attack@Combat><Action:Battle_Heavy_Attack@Combat> combo or when running up and pressing <Action:Battle_Heavy_Attack@Combat>, so use it as you see fit in each situation.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8575,
+"en": "Press <Action:Battle_Heavy_Attack@Combat><Action:Battle_Heavy_Attack@Combat> when Shinada is in Heat Mode to perform a tackle that grapples and pushes back enemies. You can develop My Meteor Tackle into a range of different attacks. Press <Action:Battle_Normal_Attack@Combat> to knock down an enemy, or <Action:Battle_Drop_Weapon@Combat> to throw them. You can also upgrade and learn Heat Actions that can only be performed during a tackle.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8576,
+"en": "Press <Action:Button_Square@Chase> during a chase to attack the enemy. You can chain up to 3 attacks together, so close the distance with your foe and keep landing blows on them. If you miss an attack, you'll fall behind a bit, so get as close as you can before attacking.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8577,
+"en": "Press <Action:Button_Cross@Chase> during a chase to jump. You can jump over obstacles such as garbage cans and bicycles, so when bypassing them would cause you to fall behind, try leaping over them instead.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8578,
+"en": "During a chase, press <Action:Button_L1@Chase> to sidestep left and <Action:Button_R1@Chase> to sidestep right. Smart use of sidestepping lets you avoid obstacles and other pedestrians. Sidestepping can also be handy for safely dodging objects thrown at you by enemies.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8579,
+"en": "The cardboard boxes you encounter during a chase can contain a variety of useful items. You can pick up the items inside a cardboard box by running into them. The items you can get include weapons for attacking with, so try to check every box you can.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8580,
+"en": "Press <Action:Button_Circle@Chase> during a chase to perform a throwing attack. You can attack enemies running in front of you with objects, such as the weapons found in cardboard boxes. The attack will be more likely to hit if the enemy is directly in front of you, so time your throws accordingly.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8581,
+"en": "Kiryu has got the attention of the Devil Killers, so when he is spotted around the city by members, they will pick a fight with him. After defeating Devil Killers in race battles, they will no longer show up on the street. Work to break up the Devil Killers by defeating them in races so they won't bother you anymore.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8582,
+"en": "Talk to the receptionist at Nagasu Taxi Co. to play Kiryu's Taxi Driver Side Story. In addition to races against the Devil Killers, there are taxi missions where you must deliver passengers safely to their destination. Playing through these Side Stories earns you experience points and money. You also get points for each mission you carry out. These can be used to customize your taxi to your liking.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8583,
+"en": "Wages will be deposited into your account by the company based on the number of taxi missions you have carried out. You can withdraw these wages from the ATMs found at convenience stores. If not withdrawn, the wages will continue to build up in your account. Withdraw them and use the money whenever you feel the time is right.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8584,
+"en": "Talk to Okudera in the village to play Saejima's \"Hunter and Killer\" Side Story. You can get to the village by boarding a taxi in Tsukimino.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8585,
+"en": "The Princess League is held over 3 rounds. Win the third and final round to be crowned Princess. Winning each of the first and second rounds gives you an advantage in the final round, providing you with a head start. To ensure you win the final round, do your best to prepare for the first and second rounds, too.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8586,
+"en": "Access the schedule board in Dyna Chair to perform jobs with Haruka. Jobs range from handshake events to interviews. Doing jobs improves your abilities, builds your fan base, and raises the agency level. Doing lots of jobs is a quick way to develop Haruka's abilities, so be sure to take them on when you can.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8587,
+"en": "Talk to dancers you find around the city to challenge them to dance battles. Press the buttons at the right time to earn the most points and win the battle. If your health reaches zero, you won't be able to continue dancing, so you'll lose. Dance battles are a great way to build up your <Color:255, 200, 200, 255>Performance<Color:Default> ability, which is hard to boost through jobs or lessons.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8588,
+"en": "Haruka's abilities are divided into Appeal, Performance, Basic Skill, and Singing. Your Basic Skill increases as you get experience and gain levels. Singing is improved mainly by taking lessons. Performance is best improved by taking part in dance battles. You can boost your Appeal through jobs and by undergoing Yoko's training. Each ability affects your score in concert battles.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8589,
+"en": "Talk to your dance instructor to take a lesson. Lessons follow the same format as concert battles, giving you practice for the actual Princess League rounds. Lessons mainly help you improve your Singing. If you want to boost your Singing ability, focus on taking lessons.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8590,
+"en": "Select \"Get an Evaluation\" when talking to your dance instructor to compare Haruka's current abilities with T-Set. He will tell you whether he thinks Haruka can win the Princess League. You don't get a second chance at each of the Princess League rounds, so before attempting each round, get your ability evaluated and brush up on areas you think you need to improve on.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8591,
+"en": "As Haruka carries out jobs, the Agency Level of Dyna Chair also increases. When your Agency Level goes up, more job opportunities arise. Dyna Chair can eventually hold events of its own, which will earn you more fans than usual.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+}
+]

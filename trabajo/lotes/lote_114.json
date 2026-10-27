@@ -1,0 +1,902 @@
+[
+{
+"id": 27027,
+"en": "Oh... Sorry.",
+"ctx": "diálogo uid0020013d + diálogo uid010c08a1"
+},
+{
+"id": 27028,
+"en": "Nicely handled, Shinada-san.",
+"ctx": "diálogo uid0020013d"
+},
+{
+"id": 27029,
+"en": "Huh? Are you one of those Victory Road people?",
+"ctx": "diálogo uid0020013d"
+},
+{
+"id": 27030,
+"en": "There is no longer anyone in this town who can compete with you. You have earned a place in the Victory Road finals.",
+"ctx": "diálogo uid0020013d"
+},
+{
+"id": 27031,
+"en": "Indeed. It will take place at the Underground Coliseum, where all the strongest fighters end up.",
+"ctx": "diálogo uid0020013d"
+},
+{
+"id": 27032,
+"en": "Head there once all the finalists have been decided.",
+"ctx": "diálogo uid0020013d"
+},
+{
+"id": 27033,
+"en": "The Underground Coliseum? Where would I find that?",
+"ctx": "diálogo uid0020013d"
+},
+{
+"id": 27034,
+"en": "In one of the country's greatest pleasure quarters. Fate has a way of bringing the most powerful fighters there.",
+"ctx": "diálogo uid0020013d"
+},
+{
+"id": 27035,
+"en": "(That's not all that helpful...)",
+"ctx": "diálogo uid0020013d"
+},
+{
+"id": 27036,
+"en": "Congratulations, Shinada, but I haven't given up yet, either.",
+"ctx": "diálogo uid0020013d"
+},
+{
+"id": 27037,
+"en": "I intend to gain entry into the Victory Road finals no matter how long it takes.",
+"ctx": "diálogo uid0020013d"
+},
+{
+"id": 27038,
+"en": "Next time we meet, you won't get off so easily. My spear will be sharper and land harder.",
+"ctx": "diálogo uid0020013d"
+},
+{
+"id": 27039,
+"en": "Haha. You'll have to go easy on me, then.",
+"ctx": "diálogo uid0020013d"
+},
+{
+"id": 27040,
+"en": "That you, Suzuki-san?",
+"ctx": "diálogo uid0020013e"
+},
+{
+"id": 27041,
+"en": "Hey, Wada-san. How's everything?",
+"ctx": "diálogo uid0020013e"
+},
+{
+"id": 27042,
+"en": "Not good. I'm just sitting here twiddling my thumbs. Apparently nobody wants a ride today.",
+"ctx": "diálogo uid0020013e"
+},
+{
+"id": 27043,
+"en": "That's unfortunate.",
+"ctx": "diálogo uid0020013e"
+},
+{
+"id": 27044,
+"en": "Whoa! Was that a hit-and-run just now!? I didn't see it clearly, but...",
+"ctx": "diálogo uid0020013e"
+},
+{
+"id": 27045,
+"en": "Wait! Yuta! Bring back my Yuta!",
+"ctx": "diálogo uid0020013e"
+},
+{
+"id": 27046,
+"en": "What's wrong? Was anyone hurt!?",
+"ctx": "diálogo uid0020013e"
+},
+{
+"id": 27047,
+"en": "My boy... They carried off my little boy! He's in the car that just drove away!",
+"ctx": "diálogo uid0020013e"
+},
+{
+"id": 27048,
+"en": "You mean he was kidnapped? All right, I'll go after them! I'm taking your taxi, Wada-san!",
+"ctx": "diálogo uid0020013e"
+},
+{
+"id": 27049,
+"en": "You'd better come, too, ma'am!",
+"ctx": "diálogo uid0020013e"
+},
+{
+"id": 27050,
+"en": "Of course! Please, get my Yuta back safe!",
+"ctx": "diálogo uid0020013e"
+},
+{
+"id": 27051,
+"en": "Thanks for letting me borrow your taxi today, Wada-san.",
+"ctx": "diálogo uid0020013e"
+},
+{
+"id": 27052,
+"en": "Don't mention it! That was a fine thing you did, Suzuki-san.",
+"ctx": "diálogo uid0020013e"
+},
+{
+"id": 27053,
+"en": "I'm sure anyone would've done it, had they been in my\nshoes. Anyway, I'll see you around.",
+"ctx": "diálogo uid0020013e"
+},
+{
+"id": 27054,
+"en": "Now there goes a hell of a guy.",
+"ctx": "diálogo uid0020013e"
+},
+{
+"id": 27055,
+"en": "You got 1,700 experience points.",
+"ctx": "diálogo uid0020013e + diálogo uid01690175 …"
+},
+{
+"id": 27056,
+"en": "Wada-san...",
+"ctx": "diálogo uid0020013e"
+},
+{
+"id": 27057,
+"en": "Oh, Suzuki-san! Did you get the kidnappers!?",
+"ctx": "diálogo uid0020013e"
+},
+{
+"id": 27058,
+"en": "No... I'm afraid I lost them.",
+"ctx": "diálogo uid0020013e"
+},
+{
+"id": 27059,
+"en": "Oh, that's not good... What's our next move?",
+"ctx": "diálogo uid0020013e"
+},
+{
+"id": 27060,
+"en": "Wait, that's my phone. Excuse me!",
+"ctx": "diálogo uid0020013e"
+},
+{
+"id": 27061,
+"en": "You're from the police? ...You did? ...Oh, that's such a relief! Really!?",
+"ctx": "diálogo uid0020013e"
+},
+{
+"id": 27062,
+"en": "Okay. I understand. I'll be right there! Thank you so much!",
+"ctx": "diálogo uid0020013e"
+},
+{
+"id": 27063,
+"en": "Yuta is fine. The police caught those horrible men!",
+"ctx": "diálogo uid0020013e"
+},
+{
+"id": 27064,
+"en": "That's good news. Shall I take you to the police station?",
+"ctx": "diálogo uid0020013e"
+},
+{
+"id": 27065,
+"en": "No, I'll be fine. The way you drive, it might take too long.",
+"ctx": "diálogo uid0020013e"
+},
+{
+"id": 27066,
+"en": "I understand...",
+"ctx": "diálogo uid0020013e"
+},
+{
+"id": 27067,
+"en": "Oh, I didn't mean to offend! Anyway, I'd best be going. Goodbye!",
+"ctx": "diálogo uid0020013e"
+},
+{
+"id": 27068,
+"en": "Well, at least nobody got hurt. Right, Suzuki-san?",
+"ctx": "diálogo uid0020013e"
+},
+{
+"id": 27069,
+"en": "Yeah, I suppose so.",
+"ctx": "diálogo uid0020013e + diálogo uid0134002d"
+},
+{
+"id": 27070,
+"en": "(Um, no. I can't do this.)",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27071,
+"en": "Ah, Shinada-sama. I'm very sorry, sir, but you are not yet qualified to compete in the Underground Coliseum.",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27072,
+"en": "Participation in our tournaments is strictly limited to those who have won their local Victory Road preliminaries.",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27073,
+"en": "Let's see... Ah, I'm happy to say that you are eligible to join the\npreliminaries in Kineicho.",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27074,
+"en": "We hope to see you advance from there.",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27075,
+"en": "(Victory Road preliminaries, huh? And they're going on in Kineicho...)",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27076,
+"en": "(I need to qualify for the tournament. So I'll just scoot on back to Kineicho and show those other hopefuls what's what.)",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27077,
+"en": "Ah, Akiyama-sama. I'm very sorry, sir, but you are not yet qualified to compete in the Underground Coliseum.",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27078,
+"en": "Let's see... Ah, I'm happy to say that you are eligible to join the\npreliminaries in Sotenbori.",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27079,
+"en": "(All righty, the Victory Road preliminaries are in Sotenbori.)",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27080,
+"en": "(To qualify, I have to edge out the other Victory Road players in Sotenbori. Those poor saps... they don't know what's coming.)",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27081,
+"en": "Ah, Saejima-sama. I'm very sorry, sir, but you are not yet qualified to compete in the Underground Coliseum.",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27082,
+"en": "Let's see... Ah, I'm happy to say you are eligible to join the\npreliminaries in Tsukimino.",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27083,
+"en": "But given your unique abilities, Saejima-sama, we could waive the prelim requirement.",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27084,
+"en": "For you, I imagine the preliminaries would just be a quick warm-up exercise. We look forward to seeing you in the tournament.",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27085,
+"en": "(Victory Road prelims are in Tsukimino.)",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27086,
+"en": "(Gotta win the prelims in Tsukimino if I wanna qualify fair n' square.)",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27087,
+"en": "Ah, Kiryu-sama. I'm very sorry, but you are not yet qualified to compete in the Underground Coliseum.",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27088,
+"en": "Let's see... Ah, I'm happy to say you are eligible to join the\npreliminaries in Nagasugai.",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27089,
+"en": "But given your unique abilities, Kiryu-sama, we could waive the preliminaries requirement.",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27090,
+"en": "(Need to remember those Victory Road preliminaries are in Nagasugai.)",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27091,
+"en": "(To qualify fairly, I'll have to survive the other Victory Road fighters back in Nagasugai.)",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27092,
+"en": "We've been waiting for you, Kiryu-san.",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27093,
+"en": "The Victory Road finals will begin soon, and a new champion of the Underground Coliseum will be crowned.",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27094,
+"en": "The audience is beside themselves with excitement. I've never seen them so worked up!",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27095,
+"en": "Are you ready, Kiryu-san? We would like to begin.",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27096,
+"en": "In the finals, you will face tough opponents one after another. It will be single knockout style⑬if you lose, you're out for good! It is therefore recommended that you save before you enter the tournament.",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27097,
+"en": "Excellent, sir. Please wait a moment while we prepare on our end.",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27098,
+"en": "I see. Please let me know when you are ready.",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27099,
+"en": "It should be just a little more time before we start the Victory Road finals. Thank you for your patience.",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27100,
+"en": "If you would like to participate in regular Coliseum tournaments, I can help you with that.",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27101,
+"en": "Congratulations on winning the Victory Road Championship Tournament! We're very happy for you and your incredible accomplishment.",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27102,
+"en": "Please note that, pursuant to our rights, we will be publicizing this event to educate the public about the premium violence available at the Underground Coliseum.",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27103,
+"en": "You agreed to let us use your likeness for this purpose when you registered for the tournament. We hope for your continued patronage. Have a nice day!",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27104,
+"en": "Welcome to the Coliseum. How may I help you?",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27105,
+"en": "Please choose a weapon. Also, be aware that any weapons and/or protective gear you currently have will be ineffective.",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27106,
+"en": "We look forward to your next visit.",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27107,
+"en": "Sorry. The Underground Coliseum's not ready for action yet.",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27108,
+"en": "Come back later.",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27109,
+"en": "You're cleared. Go on in.",
+"ctx": "diálogo uid0020015a"
+},
+{
+"id": 27110,
+"en": "Hey, are you all right?",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27111,
+"en": "Ugh... I think I sprained my ankle. Can't move a muscle. Agh! Damn, that smarts...",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27112,
+"en": "You should get that looked at by a doctor. Is there a hospital you can go to?",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27113,
+"en": "Can't right now! I got customers waitin' for their oden! Gotta start work right away!",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27114,
+"en": "You shouldn't take injuries lightly at your age.",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27115,
+"en": "Look, I been runnin' the same damn stall in the same damn place for thirty goddamn years.",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27116,
+"en": "And I'll be damned if I let this ankle stop me now!",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27117,
+"en": "...You okay?",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27118,
+"en": "No, gosh dangit... The rush'll be startin' soon! Can't just sit here. Gotta start haulin' ass on this thing!",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27119,
+"en": "You won't be hauling anything like that.",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27120,
+"en": "Then maybe I can getcha to haul it over for me?",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27121,
+"en": "Come on! I'll make it worth your while! Just move my stall over to South Nagasugawa Street!",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27122,
+"en": "But how are you going to get there?",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27123,
+"en": "Simple! I'll just take a cab and wait for ya! Now then. Treat the ol' girl gently, okay? Bitter and old I may be, but lose that stall and I might as well lose my life!",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27124,
+"en": "I'm beggin' ya! Do an old man a favor!",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27125,
+"en": "Okay. All I have to do is move this thing to South Nagasugawa Street, right? That shouldn't be too hard.",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27126,
+"en": "Great! I owe ya one! But business is gonna get busy real fast. Ya gotta hurry!",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27127,
+"en": "Sure. Leave it to me.",
+"ctx": "diálogo uid0020015f + diálogo uid010d005c"
+},
+{
+"id": 27128,
+"en": "Okay, thanks again! Remember, we're on a tight schedule here!",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27129,
+"en": "You come back to help me with my stall?",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27130,
+"en": "Sorry, you'll have to find someone else.",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27131,
+"en": "Oh, okay. I guess I can't force ya.",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27132,
+"en": "Hey, over here! Good work, man! I've got customers waitin'!",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27133,
+"en": "I hope I made it on time...",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27134,
+"en": "You did great! I never expected ya to show up so quick!",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27135,
+"en": "But did ya get the stall here in one piece?",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27136,
+"en": "Ah! She's in good shape, I see! Guess you treated her like a lady, huh?",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27137,
+"en": "Well, you did say you value it as much as your life, or something to that effect. So I didn't want to knock it around.",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27138,
+"en": "Thanks! You've got a good heart for such a young guy!",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27139,
+"en": "I was floored outta my gourd for a while there, but now I can get my customers the oden they've been cravin'!",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27140,
+"en": "It ain't a lot, but here's a little somethin' for luggin' my stall this whole way. Thanks!",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27141,
+"en": "You got <Color:8>20,000 yen<Color:Default>.",
+"ctx": "diálogo uid0020015f + diálogo uid00330997 …"
+},
+{
+"id": 27142,
+"en": "You got a pair of <Color:8>Hercules Gloves<Color:Default>.",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27143,
+"en": "I've been waitin' here for ages! How come it took ya so damn long!?",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27144,
+"en": "Oh, mercy! What the hell'd ya do to my baby!?",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27145,
+"en": "Something wrong?",
+"ctx": "diálogo uid0020015f + diálogo uid01020aef …"
+},
+{
+"id": 27146,
+"en": "The stall's a disaster inside! Which way'd ya come? I've never seen such a mess in my life!",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27147,
+"en": "Sorry... It's my first time pulling a street cart.",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27148,
+"en": "Ah well. I'll have it good as new again in no time. I'll have to ask the customers to wait a little while, though.",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27149,
+"en": "Hmm... It ain't a lot, but here's a little somethin' for luggin' my stall this whole way. Thanks!",
+"ctx": "diálogo uid0020015f"
+},
+{
+"id": 27150,
+"en": "The Vixen Zeroes are a team of gorgeous female racers. You have to win a race in order to see their face. Kinda intriguing, no?",
+"ctx": "diálogo uid00200170"
+},
+{
+"id": 27151,
+"en": "You're actually pretty cute, you know. You could earn a killing at our place.",
+"ctx": "diálogo uid0020017c + diálogo uid012003b8"
+},
+{
+"id": 27152,
+"en": "Oh, no thanks...",
+"ctx": "diálogo uid0020017c + diálogo uid012003b8"
+},
+{
+"id": 27153,
+"en": "Babe, don't be scared. We're just trying to have a little conversation.",
+"ctx": "diálogo uid0020017c + diálogo uid012003b8"
+},
+{
+"id": 27154,
+"en": "What he said. You're in good hands with us.",
+"ctx": "diálogo uid0020017c + diálogo uid012003b8"
+},
+{
+"id": 27155,
+"en": "Sorry, but I have somewhere to be.",
+"ctx": "diálogo uid0020017c + diálogo uid012003b8"
+},
+{
+"id": 27156,
+"en": "That's fine, it won't take long.",
+"ctx": "diálogo uid0020017c + diálogo uid012003b8"
+},
+{
+"id": 27157,
+"en": "Yeah, it'll all be over in no time. Here, just step into the club for a bit.",
+"ctx": "diálogo uid0020017c + diálogo uid012003b8"
+},
+{
+"id": 27158,
+"en": "I said I wasn't interested...",
+"ctx": "diálogo uid0020017c + diálogo uid012003b8"
+},
+{
+"id": 27159,
+"en": "Hey, quit bothering her, you clowns.",
+"ctx": "diálogo uid0020017c + diálogo uid012003b8"
+},
+{
+"id": 27160,
+"en": "Huh? What gives you the right to tell us what to do?",
+"ctx": "diálogo uid0020017c + diálogo uid012003b8"
+},
+{
+"id": 27161,
+"en": "Can't you see you're making her uncomfortable? Just let her be on her way.",
+"ctx": "diálogo uid0020017c + diálogo uid012003b8"
+},
+{
+"id": 27162,
+"en": "Aw, all we want is a moment of her time.",
+"ctx": "diálogo uid0020017c + diálogo uid012003b8"
+},
+{
+"id": 27163,
+"en": "Fuck your moment of time. Sweetie, you can go now.",
+"ctx": "diálogo uid0020017c + diálogo uid012003b8"
+},
+{
+"id": 27164,
+"en": "Oh, okay... Um, thank you!",
+"ctx": "diálogo uid0020017c + diálogo uid012003b8"
+},
+{
+"id": 27165,
+"en": "God freakin' dammit, she's gone! Oh well. 'Least she got replaced with an even prettier package. We'll talk her up instead.",
+"ctx": "diálogo uid0020017c + diálogo uid012003b8"
+},
+{
+"id": 27166,
+"en": "And boy does she have the goods. Mmph! And that fiery attitude... Just my type! Hey, hot stuff, you interested in makin' some serious cash?",
+"ctx": "diálogo uid0020017c + diálogo uid012003b8"
+},
+{
+"id": 27167,
+"en": "Yeah, if you came to work at our club, you'd be rolling in dough in no time.",
+"ctx": "diálogo uid0020017c + diálogo uid012003b8"
+},
+{
+"id": 27168,
+"en": "Yeah right. If the rest of your club operates like you two amateurs, I'd only be rolling in regret. So no thanks.",
+"ctx": "diálogo uid0020017c + diálogo uid012003b8"
+},
+{
+"id": 27169,
+"en": "You nasty little bitch. I dare you to say that again!",
+"ctx": "diálogo uid0020017c + diálogo uid012003b8"
+},
+{
+"id": 27170,
+"en": "Hah. This chick's so hot she thinks she can actually burn us. Hey, babe, if you want to make a good first impression, that's really not how you do it.",
+"ctx": "diálogo uid0020017c + diálogo uid012003b8"
+},
+{
+"id": 27171,
+"en": "Who said I wanted to impress you? Next time you talk to a lady, try having more class than, \"Hey, baby, I'm too dumb to treat you with respect. Wanna bang?\"",
+"ctx": "diálogo uid0020017c + diálogo uid012003b8"
+},
+{
+"id": 27172,
+"en": "This bimbo... I think we need to teach this biker babe wannabe some manners!",
+"ctx": "diálogo uid0020017c + diálogo uid012003b8"
+},
+{
+"id": 27173,
+"en": "Hey, back off!",
+"ctx": "diálogo uid0020017c + diálogo uid012003b8"
+},
+{
+"id": 27174,
+"en": "Seriously, cool it. You barkers aren't known for your restraint, but this is crossing the line.",
+"ctx": "diálogo uid0020017c + diálogo uid012003b8"
+},
+{
+"id": 27175,
+"en": "Tch. And who are you supposed to be?",
+"ctx": "diálogo uid0020017c + diálogo uid012003b8"
+},
+{
+"id": 27176,
+"en": "Just another person passing by. But if you think I'll keep\non walking while some goons harass a lady, you're mistaken.",
+"ctx": "diálogo uid0020017c + diálogo uid012003b8"
+},
+{
+"id": 27177,
+"en": "I appreciate the gesture, but I'm fine. These pricks don't know what kind of lady they're dealing with.",
+"ctx": "diálogo uid0020017c + diálogo uid012003b8"
+},
+{
+"id": 27178,
+"en": "Heh. Step right up, then. We're gonna pound you both into the ground!",
+"ctx": "diálogo uid0020017c + diálogo uid012003b8"
+},
+{
+"id": 27179,
+"en": "I don't know what your deal is, but I can't let your attitude go unpunished. Let's do this.",
+"ctx": "diálogo uid0020017c + diálogo uid012003b8"
+},
+{
+"id": 27180,
+"en": "Oh, Suzuki-san, it's you. Does this mean you're ready to take up the Spangled Meteor's challenge?",
+"ctx": "diálogo uid00200191"
+},
+{
+"id": 27181,
+"en": "Yeah. I won't let the same thing happen this time.",
+"ctx": "diálogo uid00200191"
+},
+{
+"id": 27182,
+"en": "Oh, is that so? Hehe. Our leader will be pleased to hear that.",
+"ctx": "diálogo uid00200191"
+},
+{
+"id": 27183,
+"en": "Sorry, I'm not interested.",
+"ctx": "diálogo uid00200191"
+},
+{
+"id": 27184,
+"en": "I see. Well, let me know if you ever change your mind.",
+"ctx": "diálogo uid00200191"
+},
+{
+"id": 27185,
+"en": "Suzuki-san... Does this mean you're ready to take up the Spangled Meteor's challenge?",
+"ctx": "diálogo uid00200191"
+},
+{
+"id": 27186,
+"en": "Sure, tell her it's on.",
+"ctx": "diálogo uid00200191 + diálogo uid01200192"
+},
+{
+"id": 27187,
+"en": "Haha, excellent. I guess she picked the right opponent.",
+"ctx": "diálogo uid00200191 + diálogo uid01200192"
+},
+{
+"id": 27188,
+"en": "Well, I'd better be going. Looking forward to seeing you on the road, Suzuki-san.",
+"ctx": "diálogo uid00200191 + diálogo uid01200192"
+},
+{
+"id": 27189,
+"en": "(So I'm set to race the Spangled Meteor now... I wonder what she wants with me.)",
+"ctx": "diálogo uid00200191 + diálogo uid01200192"
+},
+{
+"id": 27190,
+"en": "Sorry, but I'll have to pass.",
+"ctx": "diálogo uid00200191"
+},
+{
+"id": 27191,
+"en": "Mm. Sorry to hear that. Well, let me know if you ever change your mind.",
+"ctx": "diálogo uid00200191"
+},
+{
+"id": 27192,
+"en": "That's a good girl... Hold still now...",
+"ctx": "diálogo uid002001ac"
+},
+{
+"id": 27193,
+"en": "Is that a... chicken? You trying to catch it?",
+"ctx": "diálogo uid002001ac"
+},
+{
+"id": 27194,
+"en": "Shh! This situation demands the utmost concentration! Don't talk to me right now!",
+"ctx": "diálogo uid002001ac"
+},
+{
+"id": 27195,
+"en": "Cluck, cluck, squawk!",
+"ctx": "diálogo uid002001ac"
+},
+{
+"id": 27196,
+"en": "(What the heck's a chicken doing in the middle of the city?)",
+"ctx": "diálogo uid002001ac"
+},
+{
+"id": 27197,
+"en": "Noooooooooooooo! Come baaaaaaaaaaaaack!",
+"ctx": "diálogo uid002001ac"
+},
+{
+"id": 27198,
+"en": "Hey, don't just stand there gawking! Help me catch my beautiful baby bird!",
+"ctx": "diálogo uid002001ac"
+},
+{
+"id": 27199,
+"en": "Wait, why me?",
+"ctx": "diálogo uid002001ac"
+},
+{
+"id": 27200,
+"en": "That chicken⑬a Cochin, actually⑬is a prized avian beast!\nIts life is worth more than mine and yours put together!\nLook, I'll even give you a reward for helping. Sound good?",
+"ctx": "diálogo uid002001ac"
+},
+{
+"id": 27201,
+"en": "You should've said that first.",
+"ctx": "diálogo uid002001ac"
+},
+{
+"id": 27202,
+"en": "Then go forth! Run like the wind and bring my Cochin to me!",
+"ctx": "diálogo uid002001ac"
+},
+{
+"id": 27203,
+"en": "Thanks, buddy! Wasn't easy, was it? This little fella's got\nrocket fuel coursing through its veins!",
+"ctx": "diálogo uid002001ac"
+},
+{
+"id": 27204,
+"en": "Hoo... Haah... Yeah, that bird was bizarrely quick.",
+"ctx": "diálogo uid002001ac"
+},
+{
+"id": 27205,
+"en": "Dang it! Can't believe I got outrun by a chicken.",
+"ctx": "diálogo uid002001ac"
+},
+{
+"id": 27206,
+"en": "Hey, guess what? I caught my little cluckling at last!",
+"ctx": "diálogo uid002001ac"
+}
+]

@@ -1,0 +1,1247 @@
+[
+{
+"id": 53964,
+"en": "Whoa, hey. Would that make you that angry?",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 53965,
+"en": "What if I said no? Would you believe me?",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 53966,
+"en": "Hmm. Probably not.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 53967,
+"en": "See? In the end, talk is cheap. That's why I prove myself through my actions.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 53968,
+"en": "Oh yeah? All righty, then. You're gonna come by the club every day from now on, right?",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 53969,
+"en": "I, uh... Yeah. Sure.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 53970,
+"en": "How many guys have you dated?",
+"ctx": "diálogo uid01340014 + diálogo uid0134002d"
+},
+{
+"id": 53971,
+"en": "Hmm. Lemme think. Like, five, maybe?",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 53972,
+"en": "You don't sound too sure about that.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 53973,
+"en": "Wait, no. Three?",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 53974,
+"en": "Why'd the number go down?",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 53975,
+"en": "Well! Like, I don't know where things start to count as dating, is all.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 53976,
+"en": "Have you ever actually dated anyone?",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 53977,
+"en": "Geez, Kiryu-san, why do y'have to be such a creep? Do ya always ask these kinda things?",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 53978,
+"en": "Fine, you don't have to tell me.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 53979,
+"en": "Mind if I ask you something about yourself?",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 53980,
+"en": "About me?",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 53981,
+"en": "What's your best feature?",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 53982,
+"en": "Hmm. I guess I've got a pretty good collarbone.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 53983,
+"en": "I just like how it's shaped. Did ya know that water pools up in mine?",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 53984,
+"en": "Ah. They do say that's a mark of beauty.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 53985,
+"en": "Right? I smile when I see myself in the bathroom mirror.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 53986,
+"en": "Do you take actual baths?",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 53987,
+"en": "Oh, I'm absolutely a bath person! You gotta get in a good soak to get properly refreshed.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 53988,
+"en": "Isn't taking baths time-consuming, though?",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 53989,
+"en": "Well, that's why I read and stuff when I'm in the tub.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 53990,
+"en": "Sometimes on my days off, I'll blow through an entire novel while takin' a soak!",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 53991,
+"en": "That's incredible.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 53992,
+"en": "Are you a shower person?",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 53993,
+"en": "Do you only take showers, Kiryu-san?",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 53994,
+"en": "I get home from work late a lot of the time. When I do, I just take a quick shower and then go right to bed.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 53995,
+"en": "I see. I'll cut into my sleep time just to make sure I get a bath in.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 53996,
+"en": "You really like baths, huh?",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 53997,
+"en": "Let me be the judge of that.",
+"ctx": "diálogo uid01340014 + frase de acompañante/calle STID_ST_SAPPORO"
+},
+{
+"id": 53998,
+"en": "Ack, hey! What are ya doin'!?",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 53999,
+"en": "Weren't you trying to get me to check out your collarbone just now?",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54000,
+"en": "No! Stop ogling me like that! You're tryin' to sneak a look at my cleavage, aren't ya!?",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54001,
+"en": "I am not!",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54002,
+"en": "What do you consider your shortcomings?",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54003,
+"en": "Shortcomings, huh? I guess I can be pretty inattentive sometimes.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54004,
+"en": "Inattentive in what way?",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54005,
+"en": "Like, if a customer's talkin', I'll kinda randomly smile and nod and make 'em mad.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54006,
+"en": "I'm the same way. I'll have passengers chew me out for not listening to what they're talking about.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54007,
+"en": "You too!?",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54008,
+"en": "Yeah. It's worse when they're drunk. No matter what I say, they want to turn it into some kind of argument.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54009,
+"en": "I hear ya! That happens to me, too. Even when I'm actually listenin' carefully.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54010,
+"en": "We're in the same boat, you and me.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54011,
+"en": "You should listen more.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54012,
+"en": "But I couldn't care less about some guy prattlin' on about how good he's doin' at work.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54013,
+"en": "Is that so bad? A man who's good at his job is better than one that's not.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54014,
+"en": "That's not the point! Girls couldn't care less about guys braggin' about themselves! It's so, so annoying!",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54015,
+"en": "If that was all, I'd let 'em get away with it, but then it's, oh, I'm friends with so-and-so and they're so amazin', blah, blah, blah. Just stop braggin', dude!",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54016,
+"en": "Do guys think that kinda talk appeals to women? I mean, for reals?",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54017,
+"en": "Okay, I hear you. Calm down.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54018,
+"en": "Do you have any particular quirks?",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54019,
+"en": "Quirks, huh? Lemme think about that.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54020,
+"en": "Aha, I got one!",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54021,
+"en": "When I'm deep in thought, I look up and to the side.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54022,
+"en": "Heh, now that you mention it, I've picked up on that habit because it's so cute.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54023,
+"en": "Hahaha! Oh, Kiryu-san, y'sure do know how to flatter a girl!",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54024,
+"en": "Anything else?",
+"ctx": "diálogo uid01340014 + diálogo uid01340023 …"
+},
+{
+"id": 54025,
+"en": "Anything else? Hmm.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54026,
+"en": "Heh, you really do look up and to the side.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54027,
+"en": "Say, I've been wondering about something.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54028,
+"en": "What do you wear to bed?",
+"ctx": "diálogo uid01340014 + diálogo uid01340023 …"
+},
+{
+"id": 54029,
+"en": "What? Why do y'wanna know that?",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54030,
+"en": "I was just curious, that's all.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54031,
+"en": "Hey, you're just bein' a perv!",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54032,
+"en": "No, I'm not. It's normal to wonder.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54033,
+"en": "Well, I usually wear pajamas. They're kinda on the baggy side.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54034,
+"en": "Baggy pajamas, huh?",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54035,
+"en": "You're still bein' pretty pervy...",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54036,
+"en": "What kind of kisser are you?",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54037,
+"en": "Kisser!?",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54038,
+"en": "I'm just curious how you kiss, is all.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54039,
+"en": "Well, I guess I like simple ones. Pecks on the cheek and stuff. I'm not big on sloppy kissin'.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54040,
+"en": "How's it like? Can we try?",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54041,
+"en": "How's it like⑬oh no, I'm not fallin' for that!",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54042,
+"en": "Well, it was worth a try.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54043,
+"en": "What are your measurements?",
+"ctx": "diálogo uid01340014 + diálogo uid01340023 …"
+},
+{
+"id": 54044,
+"en": "I dunno. I'm not some pin-up girl y'know!",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54045,
+"en": "Well, how do you buy clothes without knowing your measurements?",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54046,
+"en": "Well, I know my chest and my waist sizes, but I dunno about my hips.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54047,
+"en": "Haha! Don't be so disappointed! Tell ya what. I'll go ahead and take my measurements for you next time, okay?",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54048,
+"en": "So you know your chest size, then.",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54049,
+"en": "Geez, you're bein' a total perv, Kiryu-san. Ewww. No way am I tellin' ya that!",
+"ctx": "diálogo uid01340014"
+},
+{
+"id": 54050,
+"en": "Just asking...",
+"ctx": "diálogo uid01340014 + diálogo uid0134003a"
+},
+{
+"id": 54051,
+"en": "Welcome, Kiryu-san! I'm so happy ya picked me!",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54052,
+"en": "You came to see me? Does that mean ya like me?",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54053,
+"en": "Kiryu-san, I've been waitin' for ya! Today's gonna be a blast!",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54054,
+"en": "Nice to meet you. I'm Riku!",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54055,
+"en": "Here's my card. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid01340015 + diálogo uid01340035"
+},
+{
+"id": 54056,
+"en": "Do you mind if I ask your name?",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54057,
+"en": "My name?",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54058,
+"en": "(Using my real name shouldn't be a problem.)",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54059,
+"en": "Kazuma Kiryu.",
+"ctx": "diálogo uid01340015 + diálogo uid01340035 …"
+},
+{
+"id": 54060,
+"en": "Well then, Kiryu-san, it's great to meet ya!",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54061,
+"en": "Nice to meet you too.",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54062,
+"en": "Hit me up anytime!",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54063,
+"en": "Just for you, Kiryu-san!",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54064,
+"en": "You smell really nice! <Color:255,200,200,255>⑮<Color:Default> Are you wearing cologne? I really like it!",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54065,
+"en": "Oh, look at you, all fancied up! <Color:255,200,200,255>⑮<Color:Default> You take real pride in your appearance, don't ya, Kiryu-san?",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54066,
+"en": "I like what you're wearing today. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54067,
+"en": "I see you're wearin' the usual.",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54068,
+"en": "Did y'think those clothes look good on you?",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54069,
+"en": "...You're really not lookin' so hot.",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54070,
+"en": "Whoa, really!?",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54071,
+"en": "Oh wow, Kiryu-san, that's so generous of you!",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54072,
+"en": "Gold Champagne it is!",
+"ctx": "diálogo uid01340015 + diálogo uid01340030 …"
+},
+{
+"id": 54073,
+"en": "Gonna try your luck, huh?",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54074,
+"en": "All right, then! We'll keep your bottle for ya, Kiryu-san.",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54075,
+"en": "One bottle for storage!",
+"ctx": "diálogo uid01340015 + diálogo uid01340024 …"
+},
+{
+"id": 54076,
+"en": "All right. A house bottle it is, then.",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54077,
+"en": "Could you get me my bottle?",
+"ctx": "diálogo uid01340015 + diálogo uid01340030 …"
+},
+{
+"id": 54078,
+"en": "May I join you for a drink?",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54079,
+"en": "Oh, all right...",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54080,
+"en": "Your glass is empty. Did y'want some more?",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54081,
+"en": "May I have another drink?",
+"ctx": "diálogo uid01340015 + diálogo uid01340030"
+},
+{
+"id": 54082,
+"en": "(Damn, I don't have the cash.)",
+"ctx": "diálogo uid01340015 + diálogo uid01340035"
+},
+{
+"id": 54083,
+"en": "Sorry, no.",
+"ctx": "diálogo uid01340015 + diálogo uid01340024 …"
+},
+{
+"id": 54084,
+"en": "I'm kind of hungry.",
+"ctx": "diálogo uid01340015 + diálogo uid01340035"
+},
+{
+"id": 54085,
+"en": "What would y'like?",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54086,
+"en": "I'll have this please.",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54087,
+"en": "Oh, you like that, huh? <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid01340015 + diálogo uid01340035"
+},
+{
+"id": 54088,
+"en": "You like that? I never woulda figured.",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54089,
+"en": "Okay. Another time then.",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54090,
+"en": "Wanna play the chocolate stick game?",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54091,
+"en": "Heh, sure.",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54092,
+"en": "Here, I'll feed it to ya. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54093,
+"en": "C'mere, please!",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54094,
+"en": "I'm puttin' it together now.",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54095,
+"en": "You're quite the drinker!",
+"ctx": "diálogo uid01340015 + diálogo uid01340024"
+},
+{
+"id": 54096,
+"en": "Your glass is empty. Lemme fix that.",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54097,
+"en": "Thanks for comin'! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid01340015 + diálogo uid01340024"
+},
+{
+"id": 54098,
+"en": "I have to be on my way.",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54099,
+"en": "Okay, can y'hang out somewhere and wait for me? I'll give you a call later, 'kay?",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54100,
+"en": "All right, let me get you your check, then.",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54101,
+"en": "You're leavin' already?",
+"ctx": "diálogo uid01340015 + diálogo uid01340024"
+},
+{
+"id": 54102,
+"en": "Sorry, I have to be on my way.",
+"ctx": "diálogo uid01340015 + diálogo uid01340035"
+},
+{
+"id": 54103,
+"en": "(Looks like we've run out of things to talk about. I should get going.)",
+"ctx": "diálogo uid01340015 + diálogo uid01340035"
+},
+{
+"id": 54104,
+"en": "Feel like coming out with me after this?",
+"ctx": "diálogo uid01340015 + diálogo uid01340035"
+},
+{
+"id": 54105,
+"en": "What? I already told ya no! Geez, you're a nag.",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54106,
+"en": "Askin' again ain't gonna change my mind!",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54107,
+"en": "Like after this?",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54108,
+"en": "Sorry, Kiryu-san. I've already got a previous engagement today. But ask me again next time.",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54109,
+"en": "Ah, all right. It's okay. I understand.",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54110,
+"en": "Hmm. Not today, sorry. I'm feelin' kinda off.",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54111,
+"en": "All right. Maybe another time, when you feel up to it.",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54112,
+"en": "Hmm. Maybe after we get t'know each other a bit better.",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54113,
+"en": "Okay, fine, if ya insist. But only for a little while, 'kay?",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54114,
+"en": "Haha. You wanna go out with me that bad? Sure. But just for a little bit, 'kay?",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54115,
+"en": "Sure. I've been wantin' to spend more time with ya myself.",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54116,
+"en": "Of course I do! There's no way I'd turn ya down, Kiryu-san.",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54117,
+"en": "That's what I like to hear.",
+"ctx": "diálogo uid01340015 + diálogo uid01340024"
+},
+{
+"id": 54118,
+"en": "Yeah, okay. I got nothin' else to do.",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54119,
+"en": "Oh wow, is this really for me?",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54120,
+"en": "But getting somethin' this expensive makes me feel kinda guilty.",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54121,
+"en": "Oh, no way! I had my eye on this! Thank you!",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54122,
+"en": "Are you sure!? I'll take good care of it!",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54123,
+"en": "Oh, thanks...",
+"ctx": "diálogo uid01340015 + diálogo uid01340024"
+},
+{
+"id": 54124,
+"en": "What's this? I dunno what to do with it.",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54125,
+"en": "Huh? You're givin' me another one?",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54126,
+"en": "But you already gave me this. Don't ya remember?",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54127,
+"en": "Kiryu-san, will y'come and see me again?",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54128,
+"en": "I'll ask for you next time.",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54129,
+"en": "You mean it? Then I'll be waitin'!",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54130,
+"en": "I had lotsa fun today!",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54131,
+"en": "Hehe. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54132,
+"en": "Thanks for comin' by! See ya later!",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54133,
+"en": "I'll be waitin' for ya!",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54134,
+"en": "I'll see ya later! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54135,
+"en": "Wonder what you're gonna get.",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54136,
+"en": "Oh, that one's kinda common.",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54137,
+"en": "Yeah, that's pretty okay I guess.",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54138,
+"en": "Oh, wow! Those are wicked rare!",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54139,
+"en": "Oh wow, you hit the jackpot! Congrats, Kiryu-san! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54140,
+"en": "Time for the chocolate stick game!",
+"ctx": "diálogo uid01340015 + diálogo uid01340035"
+},
+{
+"id": 54141,
+"en": "One bottle of champagne!",
+"ctx": "diálogo uid01340015"
+},
+{
+"id": 54142,
+"en": "Hello. Welcome to Prime.",
+"ctx": "diálogo uid01340020"
+},
+{
+"id": 54143,
+"en": "You'd like to see Honoka-san? This way, sir.",
+"ctx": "diálogo uid01340020"
+},
+{
+"id": 54144,
+"en": "I'm terribly sorry, sir, but Honoka-san isn't here at the moment, I'm afraid.",
+"ctx": "diálogo uid01340020"
+},
+{
+"id": 54145,
+"en": "(Oops. I don't have enough money.)",
+"ctx": "diálogo uid01340020"
+},
+{
+"id": 54146,
+"en": "(Maybe I should ask a question.)",
+"ctx": "diálogo uid01340020 + diálogo uid01340039"
+},
+{
+"id": 54147,
+"en": "(Maybe I should order something else.)",
+"ctx": "diálogo uid01340020"
+},
+{
+"id": 54148,
+"en": "(She already turned me down once. I should wait until next time before I ask her again.)",
+"ctx": "diálogo uid01340020"
+},
+{
+"id": 54149,
+"en": "Did ya come to Osaka for work, Akiyama-san?",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54150,
+"en": "Yeah. I was thinking about opening an office here, so I've been hitting up Sotenbori a lot.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54151,
+"en": "Oh really now? I bet you're super rich!",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54152,
+"en": "I do all right. I make enough money to spend my time drinking with you like this.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54153,
+"en": "Sounds like you're doin' well then! I hope you'll keep comin' to spend time here with me!",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54154,
+"en": "Don't I wish. I'm always running around trying to fix money problems.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54155,
+"en": "Yikes. Ain't that unfortunate for ya.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54156,
+"en": "Who knows? I've never stopped to think about just how much I have.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54157,
+"en": "Say what now!? That's somethin' a rich person would say! I hope I'll get to say that sorta thing someday!",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54158,
+"en": "What do you usually do, Honoka?",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54159,
+"en": "Me? I'm goin' to school right now. I'm in my third year.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54160,
+"en": "Of college? You're nothing like the typical girl who goes to college in Tokyo. You're much more of a go-getter, whereas they're more reserved.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54161,
+"en": "We Osaka girls are renowned for our cheerful dispositions! All the girls in Tokyo got goin' for 'em is their looks!",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54162,
+"en": "You can say that again.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54163,
+"en": "Of high school?",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54164,
+"en": "Could ya tell? Yeah, I'm actually still in high school...\n Pfft! As if! I'm no little kid!",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54165,
+"en": "Haha! I was kidding. But you've got a good sense of humor.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54166,
+"en": "I won a prize in a beauty contest at my college, I'll have ya know.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54167,
+"en": "Wow, that's amazing.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54168,
+"en": "Ain't it just? I'm the number one girl in this club and outside of it!",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54169,
+"en": "You give off that impression. It's like an aura.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54170,
+"en": "Yeah. Girls who can make number one all have something different about them than the rest.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54171,
+"en": "I was just pullin' yer leg, actually.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54172,
+"en": "Wait, seriously?",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54173,
+"en": "I mean I've won a prize, but not in any big name competition, and my rank here at the club is pretty average.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54174,
+"en": "Why did you lie about that?",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54175,
+"en": "Goin' with the flow? I thought it'd be funny.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54176,
+"en": "Do you study?",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54177,
+"en": "'Course. I'm takin' on more credits than I need so that come next year, I might not need to go to school as much.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54178,
+"en": "You're more diligent than I'd have guessed.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54179,
+"en": "You bet I am. If I didn't make sure to go to class, then payin' tuition would be a waste.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54180,
+"en": "No, I get that. It's just... Look, I think you've got a lot to be proud of.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54181,
+"en": "A prize? What place did you get?",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54182,
+"en": "Why're ya askin' for details I didn't give!? You're not supposed to go there!",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54183,
+"en": "It's just that usually someone would say they won the grand prize or whatever.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54184,
+"en": "Fine. I got third place.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54185,
+"en": "Go figure. I expected something like that.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54186,
+"en": "Still! I wasn't lyin' about winnin' a prize.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54187,
+"en": "I'm not saying that's bad. It takes courage to enter a beauty contest. And winning third prize is no small feat.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54188,
+"en": "Layin' the praise on me at this point doesn't really mean much after havin' said all that.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54189,
+"en": "Though speakin' of which, my rank at the club ain't really number one, either.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54190,
+"en": "That's still impressive. You shouldn't worry about admitting that.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54191,
+"en": "Yeah? But when I mentioned enterin' a beauty contest, the other girls got all snide, sayin' stuff like, \"Oh, so ya think you're cute, huh?\"",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54192,
+"en": "I bet they're all laughin' at me behind my back now.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54193,
+"en": "Let them talk. The people who voted for you still thought you were the best, right?",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54194,
+"en": "I never thought 'bout it that way. Hehe! Ya sure know how to butter a girl up, Akiyama-san!",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54195,
+"en": "Hey, it wasn't mere flattery.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54196,
+"en": "What's yer blood type, Akiyama-san?",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54197,
+"en": "My blood type? I'd... rather not say.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54198,
+"en": "Huh? How come?",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54199,
+"en": "Because you seem like the kind of girl that'll go into some blood type compatibility spiel if I do.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54200,
+"en": "Aha! Are ya afraid we're not compatible?",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54201,
+"en": "Basically. I keep my blood type a secret in order to avoid any weird preconceptions in my relationships.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54202,
+"en": "Hmm. So that's the kinda guy ya are. I think I've got yer blood type all figured out then!",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54203,
+"en": "Don't be ridiculous. You can't tell someone's personality from their blood type.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54204,
+"en": "Sure ya can! Like I could never date a guy who's type O!",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54205,
+"en": "You're not type O, are ya, Akiyama-san?",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54206,
+"en": "Guess you'll never know.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54207,
+"en": "And what's your blood type?",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54208,
+"en": "I'm AB!",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54209,
+"en": "And what personality does that indicate?",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54210,
+"en": "They say we come across as real prodigies, and that we're prone to split personalities.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54211,
+"en": "Split personalities? Okay, whatever.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54212,
+"en": "Also, we're introverts, have trouble expressin' our feelings or handlin' criticism, and can be really cold. But I dunno nothin' about that.",
+"ctx": "diálogo uid01340021"
+}
+]

@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_tougijyo_en/2d_jm_gp_victory",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    64,
+    74,
+    967,
+    183
+   ],
+   "en": "VICTORY ROAD FINALS",
+   "ocr": "VICTORY ROAD FINALS",
+   "es": "FINALES DEL VICTORY ROAD",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 899
+  }
+ ]
+}

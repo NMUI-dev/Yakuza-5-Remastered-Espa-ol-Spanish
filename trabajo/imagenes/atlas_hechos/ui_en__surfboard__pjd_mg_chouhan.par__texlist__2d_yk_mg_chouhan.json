@@ -1,0 +1,87 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_chouhan.par/texlist/2d_yk_mg_chouhan",
+ "fuente": "timesbd.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    7,
+    215,
+    41,
+    249
+   ],
+   "en": "Even",
+   "es": "Par",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "alin": "centro",
+   "alto": 13,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     150,
+     225,
+     236
+    ],
+    "abajo": [
+     95,
+     200,
+     222
+    ],
+    "contorno": [
+     [
+      8,
+      0,
+      0
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "ancho_max": 32,
+   "nota": "fable2: la palabra va en DIAGONAL sobre el boton (el kit no rota texto) y LaMa inventa el relleno del boton (rayas palidas): probado Par/Impar horizontal con lama y queda feo -> se deja en ingles",
+   "dejar": true
+  },
+  {
+   "caja": [
+    55,
+    215,
+    89,
+    249
+   ],
+   "en": "Odd",
+   "es": "Impar",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "alin": "centro",
+   "alto": 12,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     225,
+     195,
+     150
+    ],
+    "abajo": [
+     205,
+     160,
+     95
+    ],
+    "contorno": [
+     [
+      8,
+      0,
+      0
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "ancho_max": 32,
+   "nota": "fable2: la palabra va en DIAGONAL sobre el boton (el kit no rota texto) y LaMa inventa el relleno del boton (rayas palidas): probado Par/Impar horizontal con lama y queda feo -> se deja en ingles",
+   "dejar": true
+  }
+ ],
+ "ceñido": true
+}

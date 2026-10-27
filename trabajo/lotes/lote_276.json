@@ -1,0 +1,812 @@
+[
+{
+"id": 56982,
+"en": "Are you sure? I'll take really good care of it, promise.",
+"ctx": "diálogo uid01340035"
+},
+{
+"id": 56983,
+"en": "Oh. Thanks.",
+"ctx": "diálogo uid01340035"
+},
+{
+"id": 56984,
+"en": "What's this? What am I even supposed to do with it?",
+"ctx": "diálogo uid01340035"
+},
+{
+"id": 56985,
+"en": "What? You're giving me another one of these?",
+"ctx": "diálogo uid01340035"
+},
+{
+"id": 56986,
+"en": "You gave me this before. Do you give out so many you forget who you gave them to, or what?",
+"ctx": "diálogo uid01340035"
+},
+{
+"id": 56987,
+"en": "I hope you'll come see me again, Kiryu-san!",
+"ctx": "diálogo uid01340035"
+},
+{
+"id": 56988,
+"en": "I like you. I'll be sure to ask for you next time.",
+"ctx": "diálogo uid01340035"
+},
+{
+"id": 56989,
+"en": "Really!? I can't wait!",
+"ctx": "diálogo uid01340035"
+},
+{
+"id": 56990,
+"en": "I had lots of fun today!",
+"ctx": "diálogo uid01340035"
+},
+{
+"id": 56991,
+"en": "Haha! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid01340035"
+},
+{
+"id": 56992,
+"en": "Thanks for coming today. Stop by again, okay?",
+"ctx": "diálogo uid01340035"
+},
+{
+"id": 56993,
+"en": "See you next time.",
+"ctx": "diálogo uid01340035"
+},
+{
+"id": 56994,
+"en": "I'll see you around! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid01340035"
+},
+{
+"id": 56995,
+"en": "Oh, that's super common. But hey, at least it's useful.",
+"ctx": "diálogo uid01340035"
+},
+{
+"id": 56996,
+"en": "Oooh, that's a good one! Lucky you, Kiryu-san!",
+"ctx": "diálogo uid01340035"
+},
+{
+"id": 56997,
+"en": "No, I'm sure I can do better.",
+"ctx": "diálogo uid01340035"
+},
+{
+"id": 56998,
+"en": "Oh wow! I almost never see anyone win those! Better take care of that.",
+"ctx": "diálogo uid01340035"
+},
+{
+"id": 56999,
+"en": "Thanks for the tip.",
+"ctx": "diálogo uid01340035"
+},
+{
+"id": 57000,
+"en": "Whoa, you hit the jackpot! You're really lucky, Kiryu-san! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid01340035"
+},
+{
+"id": 57001,
+"en": "One bottle of champagne, please!",
+"ctx": "diálogo uid01340035"
+},
+{
+"id": 57002,
+"en": "Hello there. Welcome to Elise.",
+"ctx": "diálogo uid01340039"
+},
+{
+"id": 57003,
+"en": "You'd like to see Hinata-san? This way, sir.",
+"ctx": "diálogo uid01340039"
+},
+{
+"id": 57004,
+"en": "I'm terribly sorry, sir, but Hinata-san isn't here at the moment, I'm afraid.",
+"ctx": "diálogo uid01340039"
+},
+{
+"id": 57005,
+"en": "(Maybe I should order something.)",
+"ctx": "diálogo uid01340039"
+},
+{
+"id": 57006,
+"en": "(She already said yes. What am I trying to do here?)",
+"ctx": "diálogo uid01340039"
+},
+{
+"id": 57007,
+"en": "(She already turned me down once. I should wait a while before I ask her again.)",
+"ctx": "diálogo uid01340039"
+},
+{
+"id": 57008,
+"en": "This club has a big stage for singing karaoke, but I haven't used it yet.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57009,
+"en": "I guess there is one, huh? I've come to this club a number of times, but I've never seen anybody using it myself.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57010,
+"en": "I'm super into karaoke! I'm really itching to get up there and do it!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57011,
+"en": "I love being up on stage. Just seeing a mic stand gets me all pumped up to sing.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57012,
+"en": "Right!? So I was super happy to see I have a stage where I can sing every day. But for some reason I've just never gotten around to it.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57013,
+"en": "Lately, karaoke pubs are all the rage. This place doesn't have that kind of vibe.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57014,
+"en": "I get stage fright. I can't bring myself to sing in front of a bunch of people I don't know.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57015,
+"en": "What? No! It's really, really fun!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57016,
+"en": "You should just get up and sing your heart out! Once you get going, I guarantee you won't be able to stop!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57017,
+"en": "Easier said than done.",
+"ctx": "diálogo uid0134003a + frase de acompañante/calle STID_ST_KAMURO"
+},
+{
+"id": 57018,
+"en": "Are you taking requests? I can give you one if you want to get up there and sing.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57019,
+"en": "Well, the thing is, the stage is off-limits right now. It's reserved for special events and holidays like Christmas.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57020,
+"en": "Oh, really? Then yeah, I guess you wouldn't have much opportunity to use it.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57021,
+"en": "You should come during an event! I'll keep singing as long as I get requests!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57022,
+"en": "You like karaoke that much?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57023,
+"en": "I love it! If I'm not careful, I'll spend an entire day off singing.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57024,
+"en": "Wait. There's no way you can sing all day long.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57025,
+"en": "Oh yes there is! Get in first thing in the morning when it's free, sing until 7:00 PM, have a quick dinner, and then keep going all night long!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57026,
+"en": "That's amazing. Not only can you have fun for all that time, but you can get people to stay with you for so long, too.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57027,
+"en": "Well, sometimes I have to call in others partway through when they're free.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57028,
+"en": "People drop in and out. If everyone managed to stick around, the room would get so crowded!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57029,
+"en": "The more the merrier. It's fun to pass the mic around and do big group sing-alongs.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57030,
+"en": "Oh, no, I can't do that. It bugs me when someone interrupts me while I sing.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57031,
+"en": "And people who enter in a bunch of songs out of turn drive me up the wall.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57032,
+"en": "I guess we have different tastes.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57033,
+"en": "I prefer smaller groups. If there are too many people, I don't get to sing as much.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57034,
+"en": "Yeah, that's true! If you only get to sing once every hour, you get bored and just wind up messing around on your phone the whole time.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57035,
+"en": "I think four or five people is the ideal number.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57036,
+"en": "That's overdoing it. You'll mess up your throat if you keep singing for that long.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57037,
+"en": "Well, it's not like it's just me singing the entire time. I spend plenty of time listening to other people sing too, so it's fine.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57038,
+"en": "If anything, I think this job here is what's worse for my throat, given the constant talking and drinking liquor.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57039,
+"en": "The air quality here isn't good either. Even if all you're doing is talking, that definitely puts a strain on your throat.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57040,
+"en": "Right! That's why karaoke's better.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57041,
+"en": "And I always get no-smoking rooms for karaoke, too. Any smokers can take it outside.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57042,
+"en": "Yeah, singing in a room that's filled with tobacco smoke can't be good for you.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57043,
+"en": "It's still better than singing. Even one intense song can put a lot of strain on your throat.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57044,
+"en": "That's only bad if you sing from your throat! Do you speak from your throat, Kiryu-san?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57045,
+"en": "Well, of course I do.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57046,
+"en": "No, you don't. Your voice comes from your belly! With proper abdominal breathing, you don't need to risk injuring your throat.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57047,
+"en": "I don't think I could ever put in that much effort just to master my karaoke technique.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57048,
+"en": "You really don't tire of it? I'm usually only good for about two hours.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57049,
+"en": "Well, if it starts to get old, you can just shove the table aside and dance, or even just talk. Other people fall asleep later at night.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57050,
+"en": "At least you're not tone deaf. I think people who are embarrassed by their lack of singing talent have an easier time that way.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57051,
+"en": "Oh, I can't stand listening to tone deaf people sing. I keep smiling and pretend like I'm busy looking for my next song, but it's rough.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57052,
+"en": "Maybe you should be careful not to let other people see that.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57053,
+"en": "If you're just going to be doing whatever you want, it's better to stay home than it is to blow your money on going to karaoke.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57054,
+"en": "Yeah, that's maybe not a bad idea. I can do karaoke at home, after all.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57055,
+"en": "Lots of places have kicked me out for making too much of a racket, so maybe that's what I'll do next time!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57056,
+"en": "Just try not to keep the neighbors up.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57057,
+"en": "Kiryu-san, do you like liver sashimi?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57058,
+"en": "Yeah. Whenever I go out for yakiniku, that's usually what I wind up getting.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57059,
+"en": "Hehe. I love liver sashimi, too.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57060,
+"en": "Oh, really? I hear a lot of women do.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57061,
+"en": "Oh, yes! Whenever I go out for yakiniku with my girlfriends, we always get ourselves a plate apiece.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57062,
+"en": "Wow. Guess you really do like it.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57063,
+"en": "That's unusual. I didn't think most women liked it very much.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57064,
+"en": "What are you talking about? My friends eat it all the time, too.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57065,
+"en": "Huh. I wouldn't have guessed.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57066,
+"en": "I also crave iron like mad when I get anemic.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57067,
+"en": "But it's been tough lately because I haven't been able to eat any.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57068,
+"en": "Guess you'll have to tough it out. We have to wait until our raw meat is deemed safe enough to eat again.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57069,
+"en": "No! I don't care if it's safe or not. I just want to eat it!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57070,
+"en": "Wow, you really do like it. Guess you'll have to look for someplace where it's still available.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57071,
+"en": "Do you know any places, Kiryu-san?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57072,
+"en": "No, it's been a while since I've been back in Tokyo. I'm not really up to date on things.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57073,
+"en": "I see. I'm sure there has to be someplace here in Kamurocho that has it.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57074,
+"en": "Maybe I can keep an eye out for you.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57075,
+"en": "But you might die. Just be grateful that you were able to eat it up until now.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57076,
+"en": "Well, Kiryu-san. Drinking and smoking are bad for you, too, but you wouldn't quit that, right?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57077,
+"en": "Now that you mention it, even though I know full well it's bad for me, I still can't bring myself to stop.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57078,
+"en": "See? So there's nothing wrong with me wanting to have some liver sashimi!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57079,
+"en": "Alright, sure. Go for it.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57080,
+"en": "That's different. Drinking and smoking won't kill you if you don't overdo them, but even one bad piece of liver sashimi can be dangerous.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57081,
+"en": "Are you for real? Way, way, way more people have died because of alcohol and cigarettes than they have from liver sashimi!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57082,
+"en": "Okay, I can't really argue with you there. I guess I'd be fine with it if the place was somewhere that was certified to be safe.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57083,
+"en": "Why not find a substitute? There are similar foods out there you could eat.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57084,
+"en": "Oh yeah, like what?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57085,
+"en": "Let's see. One of my passengers told me about this new konjac jelly that's like liver sashimi.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57086,
+"en": "Konjac jelly!?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57087,
+"en": "Yeah. You eat it with sesame oil, and it apparently has a similar taste and texture.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57088,
+"en": "Wow, that's really a thing? I'll have to try it!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57089,
+"en": "I don't think it's rich in iron, though.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57090,
+"en": "I'm sure you could find some. Lots of places will serve it even if they don't put it on the menu.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57091,
+"en": "Well, that's what I was doing until recently, but that trick's a bust now. Restaurants just won't prepare it anymore.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57092,
+"en": "Really? Wow, then I guess you really can't eat it right now.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57093,
+"en": "Aww. All sorts of foods carry the risk of food poisoning, but nooo! For some reason, liver sashimi gets singled out. It's not fair!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57094,
+"en": "Guess you'll have to hope it gets deemed safe to eat again.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57095,
+"en": "Don't give up. Some places will make it, but not for customers they aren't familiar with.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57096,
+"en": "If they make it but won't serve it to me, then what's the point?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57097,
+"en": "It's just how secret menu stuff works. They'll make things as a special favor for regulars, but not for ordinary customers.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57098,
+"en": "So if you keep going a bunch and then ask, you'll get someplace to serve it to you eventually.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57099,
+"en": "Oh, I get it! So I need to become a regular someplace!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57100,
+"en": "What are you looking at?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57101,
+"en": "Oh, sorry. I was just checking Chatter.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57102,
+"en": "Is that an internet thing?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57103,
+"en": "Yeah. I was just wondering what everyone was up to right now.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57104,
+"en": "Young people are always messing around on their phones nowadays. I always see people at dinner who don't even bother to look up at each other.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57105,
+"en": "Yeah, that's for sure.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57106,
+"en": "That's rude, don't you think? Especially when someone's trying to have a conversation with you.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57107,
+"en": "Oh, I'm sorry.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57108,
+"en": "It's a generation gap thing. Back when I was your age, I don't think we even had cell phones.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57109,
+"en": "Wow, really!? Haha, I can't imagine life without cell phones!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57110,
+"en": "Hmph. Well, I don't understand why you youngsters can't keep your mitts off of them.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57111,
+"en": "Yeah, I'm such an addict! I can't sit for very long before I gotta get out my phone and start fiddling with it.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57112,
+"en": "So it's a time waster? Hm. When I'm bored because I don't have any passengers, I just reread the newspaper over and over.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57113,
+"en": "See? That's the problem! Magazines and stuff are way too easy to breeze through. But the internet always has plenty of new stuff to look at.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57114,
+"en": "Really? I've never gotten the hang of using a cell phone, myself. What the heck do you keep looking at on it anyways?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57115,
+"en": "Hmm. Well, I check people's blogs, social media feeds, and mess around with apps.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57116,
+"en": "But trying to keep up with everything would take way too much time, so I only focus on a small set of things.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57117,
+"en": "You must have a lot of friends. I don't know many people, so I'd be done checking up on them in no time.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57118,
+"en": "Hey, Kiryu-san, you should friend me! Then your screen will be full of all the stuff I post, and you'll never get bored!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57119,
+"en": "I don't think I'm ready for that yet.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57120,
+"en": "You know you don't need to read all of it. It'd be impossible for someone with a lot of friends.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57121,
+"en": "Yeah, I started trying to stick to just friends, but now I follow a lot of strangers, too.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57122,
+"en": "So I made a separate account for my close friends only, and I mostly stick to using that.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57123,
+"en": "I guess young people put a lot of effort into personal relationships, too.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57124,
+"en": "Why not try something else? What's the point of reading nothing but a bunch of silly messages?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57125,
+"en": "Well, that's my business. It's not like I spend all day looking at my phone. I do lots of other things, too.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57126,
+"en": "But you're supposed to be serving customers.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57127,
+"en": "That doesn't get tiresome? I like watching TV because when a show is over, you know you're done with it.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57128,
+"en": "Yeah, but people go to sleep at night, so updates tend to stop altogether by early in the morning.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57129,
+"en": "On the other hand, some people <Italic>only </Italic> update during those times. You figure they must work the night shift.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57130,
+"en": "So I'll tell them things like, \"Good luck at work!\" and stuff.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57131,
+"en": "I see. So you can always keep up with your friends. That's kind of neat.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57132,
+"en": "Sounds like an addiction all right. You should try to rein in your use, don't you think?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57133,
+"en": "That's easy for you to say, sure. But I bet you couldn't stop smoking either, Kiryu-san.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57134,
+"en": "Maybe not. I can't smoke while I'm driving, so if I have a long shift I get a bit cranky.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57135,
+"en": "See? That's how it goes with me and my phone, too.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57136,
+"en": "I know where you're coming from now. You need to take quick breaks from work to stay focused.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57137,
+"en": "Yeah, exactly. I knew you'd understand!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57138,
+"en": "Just don't do it so much that you wind up getting your customers upset with you for it.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57139,
+"en": "It's not the same. I can abstain when I'm on the clock, but you can't stop checking your phone, even at work.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57140,
+"en": "Aha! You got me there, Kiryu-san!",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57141,
+"en": "Are you sure you're okay?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57142,
+"en": "Aren't you on the clock now? You should focus on your customers.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57143,
+"en": "But if I go too long without checking my phone, I lose my ability to concentrate.",
+"ctx": "diálogo uid0134003a"
+}
+]

@@ -1,0 +1,90 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_chin02.par/texlist/2d_jm_mg_chinchiro03",
+ "fuente": "CaveatBrush-Regular.ttf",
+ "margen": 0,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    0,
+    0,
+    360,
+    112
+   ],
+   "en": "All-odds",
+   "es": "Todo impar",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 340,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     185,
+     185,
+     180
+    ],
+    "contorno": [
+     [
+      45,
+      45,
+      45
+     ],
+     1
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    0,
+    124,
+    360,
+    236
+   ],
+   "en": "All-evens",
+   "es": "Todo par",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 340,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     185,
+     185,
+     180
+    ],
+    "contorno": [
+     [
+      45,
+      45,
+      45
+     ],
+     1
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    0,
+    246,
+    360,
+    358
+   ],
+   "en": "Musashi",
+   "es": "",
+   "dejar": true,
+   "nota": "nombre propio (jugada del chinchirorin); la página de reglas lo deja"
+  }
+ ]
+}

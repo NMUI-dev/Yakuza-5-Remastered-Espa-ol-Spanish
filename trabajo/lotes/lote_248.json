@@ -1,0 +1,832 @@
+[
+{
+"id": 52086,
+"en": "Live yer own life. It ain't like everyone's gotta do things by a certain time.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52087,
+"en": "I used to think the same thing, but now I guess I was wrong.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52088,
+"en": "It's not just high schoolers making their debuts in show biz now. It starts with middle and grade school aged kids. After twenty, it's too late.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52089,
+"en": "Bein' recruited that young is rough. I bet only a small handful are able to stick it out.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52090,
+"en": "I'm not sure I'd be able to make any of my dreams come true in my late twenties, even if I tried my best at it.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52091,
+"en": "It is what it is. Not everybody has dreams. And only a few people even realize their dreams.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52092,
+"en": "So then I should just keep bouncing around from job to job until I find someone to settle down with, get married, and become a housewife?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52093,
+"en": "What's wrong with that? Ya could get married, have kids, and build a happy family. Be an upstandin' member of society. I can't do that.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52094,
+"en": "Yeah, I guess our values are different. I don't think of that as contributing to society. Or maybe I just don't want to do it.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52095,
+"en": "I wish the world was a kinder place to people who don't work or aren't married.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52096,
+"en": "Guess I'm old-fashioned that way.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52097,
+"en": "That ain't it. Ya shouldn't live yer life worried about if everythin's right or wrong.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52098,
+"en": "Even if others are against ya, livin' yer life with conviction is the best way to live without regret.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52099,
+"en": "When you say it like that, it sounds kind of cool to go against the grain. I kind of want to follow your example, Saejima-san!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52100,
+"en": "Maybe it's okay if I don't have any big goals.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52101,
+"en": "I think ya oughta give it some real thought.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52102,
+"en": "Don't give up. There's things only you can do. Bein' in yer late twenties, ya can do stuff no brat in their teens could pull off.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52103,
+"en": "I had to wait patiently for 25 years. There are flowers that can bloom at 45. It's never too late to dream.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52104,
+"en": "Maybe I should try to find something that I'm capable of doing now.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52105,
+"en": "I've only thought about what I want to do. I should consider things that I <Italic>can</Italic> do!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52106,
+"en": "Thanks for the advice, Saejima-san!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52107,
+"en": "But you said I was a disappointment to my parents, Saejima-san. I guess I really can't just drift around without a plan.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52108,
+"en": "Right, that's not a good idea.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52109,
+"en": "So I've looked into things a bit more, and I can't find any jobs I'd be good at doing.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52110,
+"en": "No jobs, huh? How come?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52111,
+"en": "I'm either outside of the age range they're hiring for, or I don't have enough experience.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52112,
+"en": "I see. I guess we're still in a recession.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52113,
+"en": "So it's just going to be tough to find a job, isn't it?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52114,
+"en": "Don't give up. You'll never accomplish anythin' if ya give up that easily.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52115,
+"en": "Yeah, I was thinking of looking a little more.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52116,
+"en": "There was one thing that looked kind of promising. It was an audition for models.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52117,
+"en": "They said they needed girls between eighteen and 25. And I turned 26 last month.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52118,
+"en": "That's too bad. If only ya'd gotten yerself in a little sooner.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52119,
+"en": "That's been happening to me a lot lately. If only I'd done such-and-such a little earlier. I'm full of regrets...",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52120,
+"en": "There'll be others. Lotsa places'll be hirin' after the new year, right?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52121,
+"en": "Sure, but they'll have the same requirements and I'll keep getting older. So it's not like I can just wait until next year.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52122,
+"en": "I see. Chances are gonna be gettin' fewer and fewer, huh?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52123,
+"en": "Well, ya can't do anythin' about yer age. Ya need to better yerself. If a rare chance does come by, ya need to be able to take it.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52124,
+"en": "Will a chance like that really come?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52125,
+"en": "It will. Effort is bound to pay off in time.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52126,
+"en": "It's reassuring to hear you say that!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52127,
+"en": "I've had my own string of failures in life.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52128,
+"en": "But I got to where I am now by not lettin' the few chances I had slip me by, and by havin' someone who trusted me enough to wait.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52129,
+"en": "Hmm. In that case, I'll have to do my best to live up to your expectations of me, Saejima-san!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52130,
+"en": "Heh. Ya've got my support.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52131,
+"en": "Look for other options. If yer outlook's too narrow, you'll never know when a good chance comes yer way.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52132,
+"en": "Good point. I should think a little more about what sort of things I can do!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52133,
+"en": "Yeah. Chances don't come along just by waitin'. Ya need to get out there and grab 'em.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52134,
+"en": "Will do!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52135,
+"en": "So lie about yer age. A single year ain't gonna be a big deal.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52136,
+"en": "What? I can't do that. They went out of their way to put strict age limits.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52137,
+"en": "Ya don't think you can make it?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52138,
+"en": "Well, I mean... What if I blow it because I get caught in my lie?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52139,
+"en": "If ya don't have the chops, it won't matter how old you are. First, you should try applyin' to see if ya even got what it takes.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52140,
+"en": "Oh, that's a good point. Then if I don't get it, it won't be because of my age.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52141,
+"en": "Don't worry 'bout that. Everyone does that sorta thing from time to time.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52142,
+"en": "Yeah. Even lyin' to achieve yer dreams shows ya really want it. If ya hesitate 'cause of yer age, it'll only hold ya back.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52143,
+"en": "If ya really wanna do somethin', then ya've gotta be willin' to try any and everything.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52144,
+"en": "You're right. I don't want to give up before I've even tried. If my application fails, I can accept that.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52145,
+"en": "That settles it! I'm going to get out there and try out for this audition!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52146,
+"en": "Good. The real battle starts now.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52147,
+"en": "Well, this has turned into a giant pain...",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52148,
+"en": "That arranged marriage thing from before.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52149,
+"en": "Ah, that. How'd it wind up goin'?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52150,
+"en": "I was told to go with the flow for the sake of the suitor, and that it was okay for me to turn him down if I didn't like him.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52151,
+"en": "Don't you think that's just a waste of time?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52152,
+"en": "Yeah. It ain't fair to the other person if ya go to a marriage meetin' ya've got no interest in seein' through.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52153,
+"en": "Right? I said the same thing, but they still insisted it was fine and that I come anyway.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52154,
+"en": "It's good to talk to new people. It's not like ya can flat-out tell yer parents no when ya haven't even met the guy.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52155,
+"en": "But I'd feel worse turning him down after we meet! I don't want to get his hopes up or anything.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52156,
+"en": "Then why not go and tell yer parents what ya really wanna do?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52157,
+"en": "Well, it's not just the arranged marriage that's the problem. I also don't want to go back to my parents' house.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52158,
+"en": "Because I'm afraid I'll get too comfortable there and wind up staying.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52159,
+"en": "I get that. I ain't exactly the lonesome sort. I feel better havin' people around than I do bein' alone.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52160,
+"en": "But moving back in with my parents feels kind of like giving up on my own life.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52161,
+"en": "I'm going to hear all about my classmates who are married, and since mooching off my parents just makes me feel guilty, I might start thinking about marriage too.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52162,
+"en": "Are ya homesick? That ain't like you.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52163,
+"en": "It's the other way around! I don't want to go back home!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52164,
+"en": "I live my life free from hassles like finding a job or getting married, so I'm not going to let my parents dictate how I live my life now.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52165,
+"en": "So whaddya wanna do?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52166,
+"en": "If I nail this audition, I can keep living on my own and I won't need to go back home to my parents.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52167,
+"en": "Interestin'. So ya've made yer decision?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52168,
+"en": "Audition?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52169,
+"en": "I mentioned it before! For the modeling job.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52170,
+"en": "Oh yeah, that. So yer gonna go for it.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52171,
+"en": "Yes. And if I blow the audition, then I'll go back home, do what my parents tell me, and go through with this arranged marriage meeting.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52172,
+"en": "So this is my first and last chance!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52173,
+"en": "That's the spirit. Go into it with that attitude and yer sure to get the gig. Ya gotta forge your own destiny.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52174,
+"en": "Yeah! I'm going to go and land this job!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52175,
+"en": "Don't get too eager. You need to psych yourself up, but if ya overdo it, ya might blow it. Try to be yerself as much as ya can.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52176,
+"en": "Good point! I'll try not to overthink this too much.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52177,
+"en": "If you were there with me on audition day, I'd be able to relax a lot more, you know.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52178,
+"en": "I can't make any promises...",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52179,
+"en": "There'll be other chances. Ya always have the option of starting yer life again. It's not like ya've only got one shot at things.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52180,
+"en": "Don't talk as if I've already failed! I'm really trying to make an effort here.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52181,
+"en": "That ain't what I meant...",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52182,
+"en": "There isn't much time left before my modeling audition. Oh, I'm super nervous!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52183,
+"en": "That's fine. Bein' a little nervous will make ya do better on the big day.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52184,
+"en": "You say that, but I'm going to be so nervous and stiff that I'll wind up acting like a robot!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52185,
+"en": "Ya gotta relax more. Too much anxiety will make ya screw up.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52186,
+"en": "I know that. That's why I'm so anxious!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52187,
+"en": "Oh yeah, what happened with the age thing for that audition? Was it a no-go?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52188,
+"en": "I decided to lie about my age. Unless I take a chance at this audition, I'm never going to open any doors for myself.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52189,
+"en": "Go get 'em. The key to success is never givin' up.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52190,
+"en": "No, this audition is my one and only shot. If I don't get it, I'm moving back in with my parents.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52191,
+"en": "Yeah, ya said that.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52192,
+"en": "Hope ya don't get caught. You seem like the sort who might let the wrong thing slip.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52193,
+"en": "Maybe so! Like when introducing myself I'll get careless and blurt out my real age or something.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52194,
+"en": "You should practice what yer gonna say.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52195,
+"en": "Good idea! Thanks for the advice, Saejima-san!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52196,
+"en": "How much younger did ya make yerself?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52197,
+"en": "Three years! So 23!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52198,
+"en": "Yeah, I guess ya look it. To be honest, I find it hard to tell with women.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52199,
+"en": "I hear foreigners think Japanese women look much younger than they are! Like they might think I'm still in my teens!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52200,
+"en": "Well, lyin' about yer age is one thing, but ya can't lie 'bout yer abilities. How're things goin' on that front?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52201,
+"en": "No way is that gonna fly. If these guys're pros, they're gonna see right through ya.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52202,
+"en": "I'll worry about that if I get caught. If it's a no-go, then that's that. If they're okay with it, then I guess I'm lucky.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52203,
+"en": "I've been getting ready for the audition every day after I get home from work. I'm practicing a number of different things.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52204,
+"en": "What kinda things?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52205,
+"en": "I practice posing in the mirror, how to walk more elegantly, and I'm also looking into current fashion trends.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52206,
+"en": "I'm used to lounging around after I get home, but now my days are so full of things to do!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52207,
+"en": "Ya've gotta glow about ya. Anyone can see yer attractive right now. Ain't got anythin' to do with yer age.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52208,
+"en": "You really mean it? I'm so happy to hear that!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52209,
+"en": "Folks workin' towards their dreams got a special look to 'em. Yer nothin' like the old you.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52210,
+"en": "Hmm. Speaking of which, what was the old me like exactly?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52211,
+"en": "Heh. Gonna hafta keep that a secret.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52212,
+"en": "Hey! Wait, what's that supposed to mean?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52213,
+"en": "It's important to relax, too. Keepin' to yer normal pace of doin' things might help ya be yer best.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52214,
+"en": "Hmm. But in my case, I don't think my normal pace is going to be enough.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52215,
+"en": "I have to do whatever I can so I don't waste my one chance. I want to give this my all.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52216,
+"en": "Yeah, okay. I get ya. Guess ya gotta put yer best foot forward.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52217,
+"en": "Saejima-san! I've got something to tell you!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52218,
+"en": "So I heard back about that audition I took the other day.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52219,
+"en": "Well, so...",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52220,
+"en": "I passed!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52221,
+"en": "Then we gotta celebrate!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52222,
+"en": "Thank you so much! I owe this all to you, Saejima-san!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52223,
+"en": "Yer kiddin'!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52224,
+"en": "It's true! I've read the email they sent me over and over!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52225,
+"en": "I see. Guess yer on the way to becomin' a rookie model now.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52226,
+"en": "That's right! I've turned down the arranged marriage, and now it's time for a fresh start to get my new life on track!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52227,
+"en": "Keep at it. It might be tough to get used to at first, but things oughta go fine for ya if you don't give up.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52228,
+"en": "Haha! You really are like a teacher, Saejima-san! Think you might still try to be one?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52229,
+"en": "Hey, might be interestin'.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52230,
+"en": "Ya gonna quit yer job here?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52231,
+"en": "I suppose. It looks like my time has come.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52232,
+"en": "Oh? Why, Saejima-san, are you implying that you're going to miss me when I'm gone?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52233,
+"en": "Nah... It ain't like that!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52234,
+"en": "Did ya manage to lie about yer age?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52235,
+"en": "Oh! You know, I completely forgot about that!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52236,
+"en": "Heh. Go figure.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52237,
+"en": "Yeah. But what if it comes up again and I run into problems over it?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52238,
+"en": "Ya might have a tough road ahead.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52239,
+"en": "<Color:255,200,200,255>You're so buff, Saejima-san! Just my type!<Color:Default>",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52240,
+"en": "<Color:255,200,200,255>Mmhm. I'm really into martial arts! Whenever I watch fights on TV, I'm on the edge of my seat!<Color:Default>",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52241,
+"en": "Me too. I used to watch pro wrestlin' a lot, but I'm more into martial arts now.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52242,
+"en": "<Color:255,200,200,255>Yeah! I'm really looking forward to the New Year's Eve broadcast!<Color:Default>",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52243,
+"en": "Yer pretty into it, huh?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52244,
+"en": "<Color:255,200,200,255>Oh, that's not the half of it! When it comes to guys, it's all about muscles for me! Those scrawny little host types? No thank you!<Color:Default>",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52245,
+"en": "Hah. I see.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52246,
+"en": "You can touch 'em if ya want.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52247,
+"en": "<Color:255,200,200,255>Huh!? Oh, no, I... What do I do?<Color:Default>",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52248,
+"en": "<Color:255,200,200,255>If I touched you now, I'd completely lose it! Maybe next time!<Color:Default>",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52249,
+"en": "Hey, whenever ya like.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52250,
+"en": "I wouldn't have guessed. I didn't think women were into that sorta thing.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52251,
+"en": "<Color:255,200,200,255>That's not true! What's not to like about watching a bunch of guys who are practically naked?<Color:Default>",
+"ctx": "diálogo uid01340003"
+}
+]

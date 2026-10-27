@@ -1,0 +1,122 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_shougi02.par/texlist/2d_mn_mg_shougi_ji",
+ "fuente": "segoeuiz.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    15,
+    18,
+    500,
+    122
+   ],
+   "en": "TAKE BACK",
+   "es": "DESHACER",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 477
+  },
+  {
+   "caja": [
+    525,
+    22,
+    1012,
+    120
+   ],
+   "en": "SURRENDER",
+   "es": "RENDIRSE",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 479
+  },
+  {
+   "caja": [
+    14,
+    150,
+    510,
+    252
+   ],
+   "en": "CHECKMATE",
+   "es": "JAQUE MATE",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 488
+  },
+  {
+   "caja": [
+    540,
+    150,
+    1000,
+    252
+   ],
+   "en": "GIVE UP",
+   "es": "ABANDONAR",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 452
+  },
+  {
+   "caja": [
+    110,
+    280,
+    410,
+    372
+   ],
+   "en": "CHECK",
+   "es": "JAQUE",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 292
+  },
+  {
+   "caja": [
+    130,
+    398,
+    900,
+    506
+   ],
+   "en": "SUPER TAKE BACK",
+   "es": "SÚPER DESHACER",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 762
+  }
+ ]
+}

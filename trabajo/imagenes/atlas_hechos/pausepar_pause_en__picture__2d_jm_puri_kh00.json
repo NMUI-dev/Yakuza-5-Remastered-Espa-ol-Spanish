@@ -1,0 +1,53 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_kh00",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    291,
+    9,
+    457,
+    68
+   ],
+   "en": "Haruka",
+   "ocr": "Haruka",
+   "es": "Haruka",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 162
+  },
+  {
+   "caja": [
+    34,
+    7,
+    256,
+    73
+   ],
+   "en": "Kazuma",
+   "ocr": "Kazuma",
+   "es": "Kazuma",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 218
+  },
+  {
+   "caja": [
+    15,
+    187,
+    495,
+    244
+   ],
+   "en": "Two people in love",
+   "ocr": "Two people in love",
+   "es": "Dos personas enamoradas",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 476
+  }
+ ]
+}

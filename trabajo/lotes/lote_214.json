@@ -1,0 +1,902 @@
+[
+{
+"id": 46200,
+"en": "Oh, yes, Bean Paste Buns. Three of them.",
+"ctx": "diálogo uid010c0da4"
+},
+{
+"id": 46201,
+"en": "And, I'll take two Pizza Buns. Oh, yes, the Bean Paste Buns, I asked for one too many. That'll be my order.",
+"ctx": "diálogo uid010c0da4"
+},
+{
+"id": 46202,
+"en": "(So, how many of what did he want?)",
+"ctx": "diálogo uid010c0da4"
+},
+{
+"id": 46203,
+"en": "By the way, do you carry postage stamps?",
+"ctx": "diálogo uid010c0da4"
+},
+{
+"id": 46204,
+"en": "Postage stamps? Uh...",
+"ctx": "diálogo uid010c0da4"
+},
+{
+"id": 46205,
+"en": "Ta-chan, we have those. We have two kinds, 50 and 80 yen.",
+"ctx": "diálogo uid010c0da4"
+},
+{
+"id": 46206,
+"en": "Oh, okay. Got it.",
+"ctx": "diálogo uid010c0da4"
+},
+{
+"id": 46207,
+"en": "Very well. May I have 390 yen worth of stamps?",
+"ctx": "diálogo uid010c0da4"
+},
+{
+"id": 46208,
+"en": "(Uh, 390 yen worth would be how many 50 yen and 80 yen stamps?)",
+"ctx": "diálogo uid010c0da4"
+},
+{
+"id": 46209,
+"en": "So, uh, that would be four 50 yen and three 80 yen stamps... I think?",
+"ctx": "diálogo uid010c0da4"
+},
+{
+"id": 46210,
+"en": "Hm? No, that would add up to 440 yen.",
+"ctx": "diálogo uid010c0da4"
+},
+{
+"id": 46211,
+"en": "Uh-oh, did I get it wrong? Uh, so 390 yen worth would be...",
+"ctx": "diálogo uid010c0da4"
+},
+{
+"id": 46212,
+"en": "So, would that be three 50 yen and three 80 yen stamps?",
+"ctx": "diálogo uid010c0da4"
+},
+{
+"id": 46213,
+"en": "Let me see... Ah, yes, that's right. That adds up to 390 yen.",
+"ctx": "diálogo uid010c0da4"
+},
+{
+"id": 46214,
+"en": "Great! Your total comes to 1,270 yen. Thank you for shopping with us.",
+"ctx": "diálogo uid010c0da4"
+},
+{
+"id": 46215,
+"en": "So, uh, that would be five 50 yen and two 80 yen stamps?",
+"ctx": "diálogo uid010c0da4"
+},
+{
+"id": 46216,
+"en": "Hm? No, that would add up to 410 yen.",
+"ctx": "diálogo uid010c0da4"
+},
+{
+"id": 46217,
+"en": "Uh-oh, did I get it wrong? Uh, so 390 yen worth of stamps should be...",
+"ctx": "diálogo uid010c0da4"
+},
+{
+"id": 46218,
+"en": "Sorry. I'm still fumbling with the calculation.",
+"ctx": "diálogo uid010c0da4"
+},
+{
+"id": 46219,
+"en": "Oh, that's fine. Please, take your time.",
+"ctx": "diálogo uid010c0da4"
+},
+{
+"id": 46220,
+"en": "I'm so sorry. Okay, so 390 yen worth of stamps should be...",
+"ctx": "diálogo uid010c0da4"
+},
+{
+"id": 46221,
+"en": "Way to go, Ta-chan! We finally got rid of that conniving kleptomaniac!",
+"ctx": "diálogo uid010c0daa"
+},
+{
+"id": 46222,
+"en": "Heh, that was the easy part. Working behind the register was\nway harder.",
+"ctx": "diálogo uid010c0daa"
+},
+{
+"id": 46223,
+"en": "I know what you mean. You always have to be thinking ahead,\ncrunching numbers, anticipating all kinds of problems...\nA lot's expected out of you for such little pay!",
+"ctx": "diálogo uid010c0daa"
+},
+{
+"id": 46224,
+"en": "Right, that's only like 700 yen an hour... At least it's steadier work than my writing gig.",
+"ctx": "diálogo uid010c0daa"
+},
+{
+"id": 46225,
+"en": "Wow, you freelance writers don't have it easy either, huh? Well, here's your pay.",
+"ctx": "diálogo uid010c0daa"
+},
+{
+"id": 46226,
+"en": "You got a <Color:8>Tauriner +<Color:Default>.",
+"ctx": "diálogo uid010c0daa"
+},
+{
+"id": 46227,
+"en": "You manned the counter like a veteran, too. You got it down, Ta-chan. Heck, I hope I can call on you as a pinch hitter if we're short-staffed.",
+"ctx": "diálogo uid010c0daa"
+},
+{
+"id": 46228,
+"en": "Hehe, thanks.",
+"ctx": "diálogo uid010c0daa"
+},
+{
+"id": 46229,
+"en": "You were pretty good behind the counter. Actually, you were great for your first time. Not bad at all, Ta-chan.",
+"ctx": "diálogo uid010c0daa"
+},
+{
+"id": 46230,
+"en": "Well, it seems like you had some issues behind the counter, but nothing too major.",
+"ctx": "diálogo uid010c0daa"
+},
+{
+"id": 46231,
+"en": "Today I learned I'm really not cut out for working at a convenience store.",
+"ctx": "diálogo uid010c0daa"
+},
+{
+"id": 46232,
+"en": "I added a reward for catching that crook in with your payment, too. Oh, and don't forget your bento!",
+"ctx": "diálogo uid010c0daa"
+},
+{
+"id": 46233,
+"en": "You got <Color:8>Expired Lunch Set<Color:Default>.",
+"ctx": "diálogo uid010c0daa"
+},
+{
+"id": 46234,
+"en": "Woohoo! Thanks! I really needed this.",
+"ctx": "diálogo uid010c0daa"
+},
+{
+"id": 46235,
+"en": "Hey, but this is a one-time deal, okay? Don't get it into your head that you can keep coming back for more.",
+"ctx": "diálogo uid010c0daa"
+},
+{
+"id": 46236,
+"en": "Haha... You had to go and say that.",
+"ctx": "diálogo uid010c0daa"
+},
+{
+"id": 46237,
+"en": "Anyway, you really came through today. Thanks a bunch, Ta-chan!",
+"ctx": "diálogo uid010c0daa"
+},
+{
+"id": 46238,
+"en": "Gee, even you couldn't nab that crook? He sure is a slippery\none.",
+"ctx": "diálogo uid010c0daa"
+},
+{
+"id": 46239,
+"en": "Sorry I couldn't come through for you. Especially after going through all that work at the register.",
+"ctx": "diálogo uid010c0daa"
+},
+{
+"id": 46240,
+"en": "Yeah, how was that? It's a job that makes you think ahead\nand keeps you calculating all the time. Not as easy as it\nlooks, is it?",
+"ctx": "diálogo uid010c0daa"
+},
+{
+"id": 46241,
+"en": "They sure expect a lot out of us, despite the bullshit pay!",
+"ctx": "diálogo uid010c0daa"
+},
+{
+"id": 46242,
+"en": "Wow, you freelance writers don't have it easy either, huh? Well, it's too bad you couldn't catch that crook, but here's your pay.",
+"ctx": "diálogo uid010c0daa"
+},
+{
+"id": 46243,
+"en": "You manned the counter like a veteran, too. I think you got it down. Heck, I wish I could call on you as a pinch hitter if we're short-staffed.",
+"ctx": "diálogo uid010c0daa"
+},
+{
+"id": 46244,
+"en": "You were pretty good behind the counter. Actually, you were great for your first time.",
+"ctx": "diálogo uid010c0daa"
+},
+{
+"id": 46245,
+"en": "You couldn't catch the shoplifter, but you were helpful with the customers. So here, you still get this.",
+"ctx": "diálogo uid010c0daa"
+},
+{
+"id": 46246,
+"en": "Woohoo! Thanks! I needed this.",
+"ctx": "diálogo uid010c0daa"
+},
+{
+"id": 46247,
+"en": "Haha, as if.",
+"ctx": "diálogo uid010c0daa"
+},
+{
+"id": 46248,
+"en": "Okay, thanks for helping. See you around, Ta-chan!",
+"ctx": "diálogo uid010c0daa"
+},
+{
+"id": 46249,
+"en": "To be honest, I wish you would've been better behind the counter. I hate to do this to you, but I had to dock your pay.",
+"ctx": "diálogo uid010c0daa"
+},
+{
+"id": 46250,
+"en": "I feel bad about that, so here, take this.",
+"ctx": "diálogo uid010c0daa"
+},
+{
+"id": 46251,
+"en": "...And who are you?",
+"ctx": "diálogo uid010c0daf"
+},
+{
+"id": 46252,
+"en": "Heh. Please don't tell me you forgot you promised this girl a date already.",
+"ctx": "diálogo uid010c0daf"
+},
+{
+"id": 46253,
+"en": "What? You're the cho-han dealer?",
+"ctx": "diálogo uid010c0daf"
+},
+{
+"id": 46254,
+"en": "Who else would I be? Or were you expecting someone else?",
+"ctx": "diálogo uid010c0daf"
+},
+{
+"id": 46255,
+"en": "No, it's just that... You look different.",
+"ctx": "diálogo uid010c0daf"
+},
+{
+"id": 46256,
+"en": "Heh. I'll tuck that away as a compliment. Okay, let's go.",
+"ctx": "diálogo uid010c0daf"
+},
+{
+"id": 46257,
+"en": "Sure. Where to?",
+"ctx": "diálogo uid010c0daf"
+},
+{
+"id": 46258,
+"en": "Where else? It's a nice place.",
+"ctx": "diálogo uid010c0daf"
+},
+{
+"id": 46259,
+"en": "That didn't go well. At all.",
+"ctx": "diálogo uid010c0db1"
+},
+{
+"id": 46260,
+"en": "Heh. Sometimes you're lucky, sometimes you're not. It's not your fault.",
+"ctx": "diálogo uid010c0db1"
+},
+{
+"id": 46261,
+"en": "Thanks for keeping me company today. Take this, with my thanks.",
+"ctx": "diálogo uid010c0db1"
+},
+{
+"id": 46262,
+"en": "I had a good time, but I have to go now. Drop by again to play cho-han, okay?",
+"ctx": "diálogo uid010c0db1"
+},
+{
+"id": 46263,
+"en": "I've never won like this before. I can't believe it.",
+"ctx": "diálogo uid010c0db1"
+},
+{
+"id": 46264,
+"en": "Feeling more confident now?",
+"ctx": "diálogo uid010c0db1"
+},
+{
+"id": 46265,
+"en": "Much more confident... Thank you. I'm glad I asked you to help me.",
+"ctx": "diálogo uid010c0db1"
+},
+{
+"id": 46266,
+"en": "Oh, that's right. We had a bet going. I won at roulette, but you clearly won our wager.",
+"ctx": "diálogo uid010c0db1"
+},
+{
+"id": 46267,
+"en": "Here, I'll give you something nice. Can you close your eyes?",
+"ctx": "diálogo uid010c0db1"
+},
+{
+"id": 46268,
+"en": "What for?",
+"ctx": "diálogo uid010c0db1"
+},
+{
+"id": 46269,
+"en": "Just do it!",
+"ctx": "diálogo uid010c0db1"
+},
+{
+"id": 46270,
+"en": "It's not much, but...",
+"ctx": "diálogo uid010c0db1"
+},
+{
+"id": 46271,
+"en": "Heh. Couldn't have asked for a better tip.",
+"ctx": "diálogo uid010c0db1"
+},
+{
+"id": 46272,
+"en": "Hmph! Well, that was fun, our date. Drop by for some cho-han again. See you.",
+"ctx": "diálogo uid010c0db1"
+},
+{
+"id": 46273,
+"en": "A casino?",
+"ctx": "diálogo uid010c0db1"
+},
+{
+"id": 46274,
+"en": "You're disappointed? Don't tell me you had your hopes up for something else.",
+"ctx": "diálogo uid010c0db1"
+},
+{
+"id": 46275,
+"en": "It's not that. I was just surprised that you⑬the face of the gambling hall⑬would choose a casino.",
+"ctx": "diálogo uid010c0db1"
+},
+{
+"id": 46276,
+"en": "There's actually a reason why I wanted to come here with you.",
+"ctx": "diálogo uid010c0db1"
+},
+{
+"id": 46277,
+"en": "I live in the world of gambling. Above all, I'm a cho-han dealer. Like you said, I'm the face of the gambling hall.",
+"ctx": "diálogo uid010c0db1"
+},
+{
+"id": 46278,
+"en": "So I have to be an expert in all kinds of gambling. That's what a pro does.",
+"ctx": "diálogo uid010c0db1"
+},
+{
+"id": 46279,
+"en": "Despite all that... I just can't get a feel for roulette. Believe me, I played it a lot, but I can't seem to win.",
+"ctx": "diálogo uid010c0db1"
+},
+{
+"id": 46280,
+"en": "I need to fill this hole in my repertoire. I want to feel confident about it. Of course, I can't say this to the boys at the hall.",
+"ctx": "diálogo uid010c0db1"
+},
+{
+"id": 46281,
+"en": "And that's where I come in.",
+"ctx": "diálogo uid010c0db1"
+},
+{
+"id": 46282,
+"en": "You catch on fast.",
+"ctx": "diálogo uid010c0db1"
+},
+{
+"id": 46283,
+"en": "So what do you want me to do?",
+"ctx": "diálogo uid010c0db1"
+},
+{
+"id": 46284,
+"en": "Well, I was hoping you could show me that it's actually possible to win at roulette.",
+"ctx": "diálogo uid010c0db1"
+},
+{
+"id": 46285,
+"en": "Excuse me, sir. Would you care to play as the dealer?",
+"ctx": "diálogo uid010c0db1"
+},
+{
+"id": 46286,
+"en": "Perhaps you could give a demonstration of your mastery to your guest.",
+"ctx": "diálogo uid010c0db1"
+},
+{
+"id": 46287,
+"en": "Most certainly. After all, you are a valued regular of the Dragon Palace.",
+"ctx": "diálogo uid010c0db1"
+},
+{
+"id": 46288,
+"en": "What do you think?",
+"ctx": "diálogo uid010c0db1 + diálogo uid0134002d"
+},
+{
+"id": 46289,
+"en": "Heh. It sounds like a perfect opportunity. While we're at it, what do you say to a little wager?",
+"ctx": "diálogo uid010c0db1"
+},
+{
+"id": 46290,
+"en": "You mean besides chips? What do you want to bet?",
+"ctx": "diálogo uid010c0db1"
+},
+{
+"id": 46291,
+"en": "I'm going to bet three times. Let me win and get my confidence up. If you can do that... I'll give you something nice.",
+"ctx": "diálogo uid010c0db1"
+},
+{
+"id": 46292,
+"en": "Fair enough. Let's do this.",
+"ctx": "diálogo uid010c0db1"
+},
+{
+"id": 46293,
+"en": "You did it!",
+"ctx": "diálogo uid010c0dbc + frase de acompañante/calle STID_ST_BANTAM"
+},
+{
+"id": 46294,
+"en": "Heh, just glad to be useful.",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46295,
+"en": "You definitely were! And you helped a total stranger. I mean, I just don't have the words to thank you properly.",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46296,
+"en": "So instead, here's a small gift.",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46297,
+"en": "You got a <Color:8>Balance Bracelet<Color:Default>.",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46298,
+"en": "I screwed it up.",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46299,
+"en": "Well, the ramen was ruined, but I'm still grateful that you tried to help. Who does that for a complete stranger?",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46300,
+"en": "Eh, doesn't change the fact that I wasn't useful to ya.",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46301,
+"en": "You did your best! And it was useful because it gave me some faith in humanity.",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46302,
+"en": "So, here's a small gift.",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46303,
+"en": "Hurry to the customer eagerly awaiting a bowl of steaming hot ramen. <Color:255,200,200,255>Approach him gingerly<Color:Default>, for the roads are <Color:255,200,200,255>icy slick<Color:Default>, and a fall will surely spell the noodles' demise! <Color:255,200,200,255>Keep calm and carry ramen!<Color:Default>",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46304,
+"en": "Keep in mind, it's not just you facing the dangers of an icy road. <Color:255,200,200,255>Other people<Color:Default> may slip and slide, <Color:255,200,200,255>becoming obstacles that can knock you over<Color:Default>. Avoid these flailing victims of the streets!",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46305,
+"en": "Hurry to the fallen deliveryman, but since the road is <Color:255,200,200,255>dangerously slick with ice<Color:Default>, you should <Color:255,200,200,255>approach gingerly<Color:Default>! If you run, you might trip, which will just slow you down.",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46306,
+"en": "Made it! Are ya okay?",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46307,
+"en": "It doesn't matter. Right now, this ramen is more important.",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46308,
+"en": "Please, I know you don't know me, but could you deliver it? We're almost out of time!",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46309,
+"en": "Uh, how is this ramen more important than you bein' hurt?",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46310,
+"en": "Please! Please just help me!",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46311,
+"en": "Fine, but where'm I supposed to take it, exactly?",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46312,
+"en": "The customer is waiting at the corner over there.",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46313,
+"en": "Hey! Over here! Hurry it up!",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46314,
+"en": "Oh no, he's already annoyed. Please! Leave me behind. Just save the ramen!",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46315,
+"en": "Soon the noodles will get all soggy...",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46316,
+"en": "Okay, okay. I'll take care of this. But you need to relax, fella.",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46317,
+"en": "I can't, I'm still worried about you walking across this slippery road. If you fall, the ramen won't survive. Please be careful.",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46318,
+"en": "It'll be okay. The ramen's gonna make it.",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46319,
+"en": "Help! Somebody!",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46320,
+"en": "(Hm? What's goin' on?)",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46321,
+"en": "Please! Oh, please, in heaven's name!",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46322,
+"en": "(Is that... a delivery guy? He hurt or somethin'?)",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46323,
+"en": "(Wait a sec...)",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46324,
+"en": "(The road's completely coated in ice.)",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46325,
+"en": "Sir, are you coming to help me?",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46326,
+"en": "When I slipped, I landed awkwardly, and now I can't move.",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46327,
+"en": "Yeah, but I cross the street, I'm just as likely to wipe out. Whaddaya expect me to do?",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46328,
+"en": "Maybe if you just walk carefully...",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46329,
+"en": "I guess that is the only way, but...",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46330,
+"en": "Please! There isn't a second to waste!",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46331,
+"en": "Oh, all right. Guess I should help him.",
+"ctx": "diálogo uid010c0dbc"
+},
+{
+"id": 46332,
+"en": "(Matsuo Lamb Barbeque. This place oughta get Tatsuya's attention.)",
+"ctx": "diálogo uid010c0dbf"
+},
+{
+"id": 46333,
+"en": "(I gotta help out the delivery guy now.)",
+"ctx": "diálogo uid010c0dc1"
+},
+{
+"id": 46334,
+"en": "Gotcha. So you're hiding your past so it doesn't hurt Haruka-chan's chances of becoming an idol?",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46335,
+"en": "Yeah. Having me around would only cause her trouble. This was the only option.",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46336,
+"en": "Did you really need to take a new name, though?",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46337,
+"en": "But man, I had no idea what was going on. Sorry for running\nmy mouth and almost blowing your cover.",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46338,
+"en": "No need to apologize. I didn't expect to run into anyone I knew down in Fukuoka.",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46339,
+"en": "Yeah, talk about a coincidence.",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46340,
+"en": "What brings you out here anyway?",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46341,
+"en": "Oh, uh... I just came out here for vacation. Thought it'd be nice to get out of Kamurocho for a change.",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46342,
+"en": "Okay, but what about the club? Kazuki put you in charge, so I hope there's someone capable filling your shoes while you're gone.",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46343,
+"en": "Don't worry, Stardust is still standing. Besides... it's not like it'd fall apart if I just up and left.",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46344,
+"en": "Yuya. Are you really just here on vacation?",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46345,
+"en": "Huh? What kind of question is that?",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46346,
+"en": "I'm asking if there's any other reason you're down here. You're acting kind of evasive.",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46347,
+"en": "You can tell me the truth. I can't promise I can do anything about it, but I can at least listen.",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46348,
+"en": "...All right. But this is between you and me, okay?",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46349,
+"en": "Sure. I understand.",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46350,
+"en": "Actually, Kiryu-san, I'm thinking of quitting the host business.",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46351,
+"en": "(Is he serious!?)",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46352,
+"en": "Stardust practically runs itself these days. We have no shortage of rising stars on staff, and everything's going smoother than ever.",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46353,
+"en": "And the guys I once thought of as newbies are now fully able\nto handle things on their own, so they hardly ever need my\nadvice.",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46354,
+"en": "As the years move on, I've started to get the feeling that I've lost my way. Kind of like something's missing in my life.",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46355,
+"en": "It was never like that before. I was always really driven to make Stardust a big success.",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46356,
+"en": "But now I don't have the same passion. I can tell it's all downhill from here.",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46357,
+"en": "Yuya...",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46358,
+"en": "So I thought I should put some distance between me and Stardust.",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46359,
+"en": "That seemed like the only way to find the fire that I used to have.",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46360,
+"en": "I see. And that's what brought you here, huh?",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46361,
+"en": "Haha... That's a thing, right? Going on a trip to do some soul-searching? That's pretty much what this is for me.",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46362,
+"en": "What about Kazuki? Didn't he leave Stardust in your hands?",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46363,
+"en": "I haven't told Kazuki anything. Not yet, anyway. It's hard\nenough admitting how I feel to myself, let alone the guy who\ngave me his business.",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46364,
+"en": "In any case, I'm useless to him the way I am now. If I had to go back like this, I'd be better off quitting.",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46365,
+"en": "Would you really go that far?",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46366,
+"en": "I can't go on like this, can I? Getting away from Kamurocho was all I could do to try and fix things, but I still don't know what to do with myself.",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46367,
+"en": "That said, running into you here has given me an idea.",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46368,
+"en": "I could start over in a new town, and become someone else. Like what you did here.",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46369,
+"en": "I want to make a fresh start, too! It'll be like the old days, when I still had the drive to make things happen. I think that'll help me get myself together!",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46370,
+"en": "And how do you plan to make a fresh start?",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46371,
+"en": "First, I'll find a job. It doesn't matter what it is.",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46372,
+"en": "Actually, I should probably find the kind of job nobody else wants to do. A job that forces you to work like crazy to get things done!",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46373,
+"en": "So you won't be going back to Stardust?",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46374,
+"en": "I don't think so, no.",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46375,
+"en": "I see. Kazuki won't be happy with me, but I don't think there's anything I can say to change your mind.",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46376,
+"en": "Thanks, Kiryu-san. I knew you'd get me!",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46377,
+"en": "Well, I'd better head off. I got some serious job hunting to do! Oh, and the udon was great!",
+"ctx": "diálogo uid010c0dc5"
+},
+{
+"id": 46378,
+"en": "(Udon West, huh? I could tell Tatsuya about this place.)",
+"ctx": "diálogo uid010c0dc9"
+},
+{
+"id": 46379,
+"en": "I need to apologize to you too, Kiryu-san. For crashing in on your new life. I guess I still have a long way to go as a leader.",
+"ctx": "diálogo uid010c0dcc"
+}
+]

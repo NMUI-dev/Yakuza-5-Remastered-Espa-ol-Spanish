@@ -1,0 +1,45 @@
+{
+ "textura": "ui_en/surfboard/pjd_onedari.par/texlist/2d_yk_onedari",
+ "fuente": "segoeuiz.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    58,
+    18,
+    312,
+    54
+   ],
+   "en": "Haruka's Mood",
+   "es": "Ánimo de Haruka",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 250,
+   "estilo": {
+    "arriba": [
+     125,
+     45,
+     145
+    ],
+    "abajo": [
+     105,
+     30,
+     125
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     2
+    ],
+    "brillo": null
+   },
+   "alto": 21
+  }
+ ]
+}

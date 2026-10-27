@@ -1,0 +1,130 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_h_tutorial_l.par/texlist_0001/2d_yk_h_tutorial_l00",
+ "fuente": "segoeui.ttf",
+ "margen": 2,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    111,
+    14,
+    145,
+    28
+   ],
+   "en": "Singing",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 30,
+   "dejar": true
+  },
+  {
+   "caja": [
+    20,
+    91,
+    56,
+    106
+   ],
+   "en": "Appeal",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 32,
+   "dejar": true
+  },
+  {
+   "caja": [
+    199,
+    91,
+    238,
+    106
+   ],
+   "en": "Basic Skill",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 35,
+   "dejar": true
+  },
+  {
+   "caja": [
+    109,
+    167,
+    148,
+    182
+   ],
+   "en": "Performance",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 35,
+   "dejar": true
+  },
+  {
+   "caja": [
+    266,
+    146,
+    338,
+    162
+   ],
+   "en": "Performance",
+   "es": "Actuación",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "centro",
+   "ancho_max": 64,
+   "alto": 13
+  },
+  {
+   "caja": [
+    340,
+    135,
+    428,
+    170
+   ],
+   "en": "UP!",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "centro",
+   "ancho_max": 84,
+   "dejar": true
+  }
+ ]
+}

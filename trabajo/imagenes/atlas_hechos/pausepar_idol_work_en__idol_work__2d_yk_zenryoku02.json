@@ -1,0 +1,41 @@
+{
+ "textura": "pausepar_idol_work_en/idol_work/2d_yk_zenryoku02",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    54,
+    88,
+    207,
+    117
+   ],
+   "en": "Running Girl",
+   "ocr": "Running Girl",
+   "es": "Corredora",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 149,
+   "dejar": true
+  },
+  {
+   "caja": [
+    88,
+    121,
+    166,
+    151
+   ],
+   "en": "Vol.2",
+   "ocr": "Vol.2",
+   "es": "Vol.2",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 74
+  }
+ ]
+}

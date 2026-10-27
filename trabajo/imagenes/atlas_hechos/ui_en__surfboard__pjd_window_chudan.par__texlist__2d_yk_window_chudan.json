@@ -1,0 +1,44 @@
+{
+ "textura": "ui_en/surfboard/pjd_window_chudan.par/texlist/2d_yk_window_chudan",
+ "fuente": "timesbd.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    7,
+    36,
+    115,
+    64
+   ],
+   "en": "Paused",
+   "es": "Pausa",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     170,
+     170,
+     170
+    ],
+    "abajo": [
+     245,
+     245,
+     245
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     3
+    ],
+    "brillo": null
+   },
+   "alin": "centro",
+   "ancho_max": 100,
+   "alto": 16
+  }
+ ]
+}

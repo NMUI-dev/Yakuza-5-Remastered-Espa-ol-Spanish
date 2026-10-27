@@ -1,0 +1,76 @@
+{
+ "textura": "pausepar_idol_work_en/idol_work/2d_yk_playspot05",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    60,
+    26,
+    184,
+    78
+   ],
+   "en": "Catch",
+   "ocr": "老天 Catch",
+   "es": "Pescar",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 120,
+   "dejar": true
+  },
+  {
+   "caja": [
+    79,
+    52,
+    209,
+    119
+   ],
+   "en": "Catch Challenge",
+   "ocr": "老天 oty Catch Challenge",
+   "es": "Desafío de Pescar",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 126,
+   "dejar": true
+  },
+  {
+   "caja": [
+    90,
+    62,
+    157,
+    86
+   ],
+   "en": "Catch",
+   "ocr": "oty Catch",
+   "es": "Pescar",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 63,
+   "dejar": true
+  },
+  {
+   "caja": [
+    85,
+    103,
+    165,
+    126
+   ],
+   "en": "Challenge",
+   "ocr": "Challenge",
+   "es": "Desafío",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 76,
+   "dejar": true
+  }
+ ]
+}

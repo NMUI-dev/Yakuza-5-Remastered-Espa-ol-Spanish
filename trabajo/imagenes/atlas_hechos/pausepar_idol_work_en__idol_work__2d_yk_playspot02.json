@@ -1,0 +1,58 @@
+{
+ "textura": "pausepar_idol_work_en/idol_work/2d_yk_playspot02",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    22,
+    10,
+    68,
+    37
+   ],
+   "en": "ツッタン",
+   "ocr": "Vyl",
+   "es": "ツッタン",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 46
+  },
+  {
+   "caja": [
+    101,
+    69,
+    195,
+    131
+   ],
+   "en": "Refuse to Lose",
+   "ocr": "戴！ Refuse to Lose",
+   "es": "Negarse a perder",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 90,
+   "dejar": true
+  },
+  {
+   "caja": [
+    104,
+    120,
+    189,
+    140
+   ],
+   "en": "Refuse to Lose",
+   "ocr": "Refuse to Lose",
+   "es": "Negarse a perder",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 81,
+   "dejar": true
+  }
+ ]
+}

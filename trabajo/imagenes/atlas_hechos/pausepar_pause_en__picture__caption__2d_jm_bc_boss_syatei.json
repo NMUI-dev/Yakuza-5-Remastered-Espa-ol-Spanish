@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_pause_en/picture/caption/2d_jm_bc_boss_syatei",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    110,
+    67,
+    922,
+    188
+   ],
+   "en": "KITAKATA FAMILY",
+   "ocr": "KITAKATA FAMILY",
+   "es": "FAMILIA KITAKATA",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 808
+  }
+ ]
+}

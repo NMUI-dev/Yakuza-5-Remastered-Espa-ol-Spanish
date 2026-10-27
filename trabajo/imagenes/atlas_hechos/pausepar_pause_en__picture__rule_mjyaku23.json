@@ -1,0 +1,179 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_mjyaku23",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    445,
+    7,
+    579,
+    46
+   ],
+   "en": "Mahjong",
+   "ocr": "Mahjong",
+   "es": "Mahjong",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 130,
+   "dejar": true
+  },
+  {
+   "caja": [
+    47,
+    82,
+    150,
+    117
+   ],
+   "en": "Points",
+   "ocr": "·Points",
+   "es": "Puntos",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 99,
+   "dejar": true
+  },
+  {
+   "caja": [
+    69,
+    147,
+    944,
+    180
+   ],
+   "en": "After your han is added up, you can calculate their point value worth based",
+   "ocr": "After your han is added up, you can calculate their point value worth based",
+   "es": "Después de sumar tu Han, puedes calcular cuántos Puntos vale según",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 875,
+   "dejar": true
+  },
+  {
+   "caja": [
+    71,
+    182,
+    635,
+    211
+   ],
+   "en": "on whether you are the dealer (higher pts) or not.",
+   "ocr": "onwhetheryou're thedealer(higherpts)or not.",
+   "es": "si eres el Crupier (más Puntos) o no.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 564,
+   "dejar": true
+  },
+  {
+   "caja": [
+    116,
+    218,
+    852,
+    249
+   ],
+   "en": "1-4 Han: Various points, dependent on the individual tiles used",
+   "ocr": "1-4 Han:Various points, dependent on the individual tiles used",
+   "es": "1-4 Han: Varios Puntos, según las fichas individuales usadas",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 736,
+   "dejar": true
+  },
+  {
+   "caja": [
+    112,
+    251,
+    578,
+    286
+   ],
+   "en": "4-5 Han: Mangan (12,000 / 8,000 pts)",
+   "ocr": "4-5 Han: Mangan (12,000 / 8,000 pts)",
+   "es": "4-5 Han: Mangan (12,000 / 8,000 Puntos)",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 466,
+   "dejar": true
+  },
+  {
+   "caja": [
+    102,
+    286,
+    611,
+    322
+   ],
+   "en": "6-7 Han: Haneman (18,000 / 12,100 pts)",
+   "ocr": "6-7 Han: Haneman (18,000 / 12,000 pts)",
+   "es": "6-7 Han: Haneman (18,000 / 12,100 Puntos)",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 509,
+   "dejar": true
+  },
+  {
+   "caja": [
+    115,
+    323,
+    609,
+    358
+   ],
+   "en": "8-10 Han: Baiman (24,000 / 16,000 pts)",
+   "ocr": "8-10 Han: Baiman (24,000 / 16,000 pts)",
+   "es": "8-10 Han: Baiman (24,000 / 16,000 Puntos)",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 494,
+   "dejar": true
+  },
+  {
+   "caja": [
+    102,
+    359,
+    665,
+    394
+   ],
+   "en": "9-12 Han: Sanbaiman (36,000 / 24,000 pts)",
+   "ocr": "11-12 Han: Sanbaiman (36,000 / 24,000 pts)",
+   "es": "9-12 Han: Sanbaiman (36,000 / 24,000 Puntos)",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 563,
+   "dejar": true
+  },
+  {
+   "caja": [
+    102,
+    396,
+    754,
+    430
+   ],
+   "en": "13+ Han or Limit: Yakuman (48,000 pts / 32,000 pts)",
+   "ocr": "13+ Han or Limit: Yakuman (48,000 pts / 32,000 pts)",
+   "es": "13+ Han o Límite: Yakuman (48,000 Puntos / 32,000 Puntos)",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 652,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: lo hace el PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

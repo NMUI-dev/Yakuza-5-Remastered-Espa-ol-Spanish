@@ -1,0 +1,907 @@
+[
+{
+"id": 18471,
+"en": "I entered that darts tournament I told you about, but lost to this guy in the finals. It was a pretty good game, though.",
+"ctx": "diálogo uid00021a89"
+},
+{
+"id": 18472,
+"en": "It was a great experience, though! Well, I'll see you in Nagasugai.",
+"ctx": "diálogo uid00021a89"
+},
+{
+"id": 18473,
+"en": "It was a great experience. Thanks for helping me practice.",
+"ctx": "diálogo uid00021a89"
+},
+{
+"id": 18474,
+"en": "What are you guys up to!?",
+"ctx": "diálogo uid00030f47"
+},
+{
+"id": 18475,
+"en": "(Uh-oh... Getting written up by the police could cause\n　problems for the company. Better make a run for it!)",
+"ctx": "diálogo uid00030f47"
+},
+{
+"id": 18476,
+"en": "The chase will begin 10 seconds into the battle.",
+"ctx": "diálogo uid00033582"
+},
+{
+"id": 18477,
+"en": "(I'll come back when I'm alone.)",
+"ctx": "diálogo uid00033641 + diálogo uid00033c4d …"
+},
+{
+"id": 18478,
+"en": "Excuse me, sir!",
+"ctx": "diálogo uid00033641 + diálogo uid00033d0f …"
+},
+{
+"id": 18479,
+"en": "Hm? What is it?",
+"ctx": "diálogo uid00033641 + diálogo uid00033d0f …"
+},
+{
+"id": 18480,
+"en": "We're looking for someone to playtest our newly developed, state-of-the-art gaming experience.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18481,
+"en": "Would you care to give it a try?",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18482,
+"en": "Sorry, but I don't have time to play games.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18483,
+"en": "But wait! This game is like none other you've ever experienced before!",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18484,
+"en": "It's the latest version of Inner Fighter, developed by Doctor Minamida, the most brilliant scientist of our age!",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18485,
+"en": "I'm his assistant, as you can probably tell.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18486,
+"en": "Doctor Minamida... The name does sound familiar.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18487,
+"en": "Now, take a gander at the latest version of Inner Fighter!\nWe call it Inner Fighter 8: Road Battle, or IF8 for short!",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18488,
+"en": "However, the game is still in development. We need data from\nactual players to finish up the testing phase. Otherwise, we\nhave no way of knowing how playable it actually is.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18489,
+"en": "So, will you be our guinea pi⑬ Er, beta tester?",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18490,
+"en": "How about taking IF8 for a spin?",
+"ctx": "diálogo uid00033641 + diálogo uid00033d0f …"
+},
+{
+"id": 18491,
+"en": "Okay, let me explain how this works.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18492,
+"en": "IF8 lets you play what we call Road Battles. Basically you walk through a town, fighting enemies until you reach their boss.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18493,
+"en": "Beating said boss will boost your abilities.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18494,
+"en": "Unfortunately, we still lack a lot of input on level design, so the game isn't playable in its entirety just yet.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18495,
+"en": "Once we collect a little more data, you'll be able to play all sorts of different stages.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18496,
+"en": "Oh, and as I mentioned before, IF8 is still in its beta\nbuild. There are still some costs we have to work out before\nwe can implement the rest of its intended features.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18497,
+"en": "That's why we're hoping you'll invest in its completion. Developing such things is an expensive endeavor, after all.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18498,
+"en": "Of course, there's something in it for you, too. Once the system is complete, it will be able to feed back a variety of data to you.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18499,
+"en": "So please, think about it. Eheheh...",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18500,
+"en": "Did I mention it costs 10,000 yen to play a game? It's a little steep, but well worth it.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18501,
+"en": "Well, would you like to play?",
+"ctx": "diálogo uid00033641 + diálogo uid00033d0f …"
+},
+{
+"id": 18502,
+"en": "Okay, now select the stage you wish to play.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18503,
+"en": "Nagasugai it is. That will be 10,000 yen please.",
+"ctx": "diálogo uid00033641 + diálogo uid00033d0f …"
+},
+{
+"id": 18504,
+"en": "Okay, then let the Road Battle begin! Bon voyage!",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18505,
+"en": "Kamurocho it is. That will be 10,000 yen please.",
+"ctx": "diálogo uid00033641 + diálogo uid00033d0f …"
+},
+{
+"id": 18506,
+"en": "Okay, gear up and get ready for ragin' Road Battle action!",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18507,
+"en": "I guess money's a little tight, huh? Sorry, but I'm going to have to ask you to come back when you can pay.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18508,
+"en": "IF8 development is quite expensive. Would you like to invest in its completion?",
+"ctx": "diálogo uid00033641 + diálogo uid00033c4d …"
+},
+{
+"id": 18509,
+"en": "Oh, you're really going through with it? You're wonderful!",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18510,
+"en": "Total investments so far have reached %s. How much will you contribute?",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18511,
+"en": "I think this is enough to upgrade IF8 to our latest version.",
+"ctx": "diálogo uid00033641 + diálogo uid00033c4d …"
+},
+{
+"id": 18512,
+"en": "It will just take a moment.",
+"ctx": "diálogo uid00033641 + diálogo uid00033d0f …"
+},
+{
+"id": 18513,
+"en": "All done! IF8 version 1.1 is now complete!",
+"ctx": "diálogo uid00033641 + diálogo uid00033d0f …"
+},
+{
+"id": 18514,
+"en": "You can now play the Kamurocho stage, thanks to the upgrade.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18515,
+"en": "I really hope you enjoy it. Well, see you again.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18516,
+"en": "Thank you for your contribution. Total investments have reached %s.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18517,
+"en": "We need 100,000 yen to finish a new playable stage.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18518,
+"en": "We'd really appreciate anything you can afford to part with.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18519,
+"en": "All done! IF8 version 1.2 is now complete!",
+"ctx": "diálogo uid00033641 + diálogo uid00033d0f …"
+},
+{
+"id": 18520,
+"en": "Version 1.2 lets you earn Soul Orbs by completing a stage.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18521,
+"en": "However, you have to complete the same stage a number of times. I hope you'll give it a try.",
+"ctx": "diálogo uid00033641 + diálogo uid00033d0f …"
+},
+{
+"id": 18522,
+"en": "By the way, this will be our final version. No need to invest any more money now. We really appreciate all your help!",
+"ctx": "diálogo uid00033641 + diálogo uid00033d0f …"
+},
+{
+"id": 18523,
+"en": "We could add new features if we had 200,000 yen.",
+"ctx": "diálogo uid00033641 + diálogo uid00033d0f …"
+},
+{
+"id": 18524,
+"en": "I guess money's a little tight. Sorry, but I'll have to ask you to come back when you're able to pay.",
+"ctx": "diálogo uid00033641 + diálogo uid00033d0f …"
+},
+{
+"id": 18525,
+"en": "This is the final version, so no more updates.",
+"ctx": "diálogo uid00033641 + diálogo uid00033cd6 …"
+},
+{
+"id": 18526,
+"en": "Oh, that's too bad. I'll be here if you change your mind.",
+"ctx": "diálogo uid00033641 + diálogo uid00033d0f …"
+},
+{
+"id": 18527,
+"en": "Please come again. I'll be waiting. Ehehe...",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18528,
+"en": "You don't want to invest in IF8? Ah, that's too bad.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18529,
+"en": "(I'll come back when I'm by myself.)",
+"ctx": "diálogo uid00033641 + diálogo uid012003d6"
+},
+{
+"id": 18530,
+"en": "Excuse me, young lady. Do you have a moment?",
+"ctx": "diálogo uid00033641 + diálogo uid00033d0f …"
+},
+{
+"id": 18531,
+"en": "Um... I guess?",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18532,
+"en": "We're looking for someone to playtest our newly developed, state-of-the-art gaming experience. Would you like to give it a try?",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18533,
+"en": "Sorry, but I don't know much about games. Good luck, though.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18534,
+"en": "No, please! Wait! This game is really quite revolutionary!",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18535,
+"en": "And the controls are very simple. I bet you could do it even if you've never played a game in your life.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18536,
+"en": "Also, it was developed by our very own Doctor Minamida, the most brilliant scientist of our age. It's the latest version of Inner Fighter.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18537,
+"en": "I'm his assistant, as you can probably surmise.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18538,
+"en": "I take it you've heard of the doctor before? Good. Then you know he's not some wacky old kook. He's more of a... misunderstood inventor. Anyway. On to the game.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18539,
+"en": "This is the latest version of Inner Fighter! We call it\nInner Fighter 8: Road Battle, or IF8 for short!",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18540,
+"en": "Still not interested? Well, we added a brand new feature\nthat just might sway your opinion, methinks.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18541,
+"en": "Have you ever wanted to be a magical girl who could cast\nspells and gracefully topple thugs with the twirl of a wand?\nWell now you <Italic>can</Italic>!",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18542,
+"en": "Hmm... That does sound kinda fun.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18543,
+"en": "Right!? Who wouldn't want to do stuff like that? IF8's a dream machine designed to make your fantasies come true!",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18544,
+"en": "More than that, playing it can even draw out your potential\nas an idol. Oh yes indeed.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18545,
+"en": "Wait, how did you know I'm trying to be an idol?",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18546,
+"en": "How could I not? I never miss an airing of the Princess League. You're Haruka Sawamura-san, right?",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18547,
+"en": "Well, Haruka-san, you have everything to gain and nothing to lose by playing IF8!",
+"ctx": "diálogo uid00033641 + diálogo uid00033d0f …"
+},
+{
+"id": 18548,
+"en": "So please... think about it. Eheheh...",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18549,
+"en": "Tsukimino it is. That will be 10,000 yen please.",
+"ctx": "diálogo uid00033641 + diálogo uid00033d0f"
+},
+{
+"id": 18550,
+"en": "Sotenbori it is. That will be 10,000 yen please.",
+"ctx": "diálogo uid00033641 + diálogo uid00033d0f …"
+},
+{
+"id": 18551,
+"en": "Sotenbori B it is. That will be 10,000 yen please.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18552,
+"en": "Kineicho it is. That will be 10,000 yen please.",
+"ctx": "diálogo uid00033641 + diálogo uid00033d11"
+},
+{
+"id": 18553,
+"en": "Beatdown 100 it is. That will be 10,000 yen please.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18554,
+"en": "Hairy Scary Bear it is. That will be 10,000 yen please.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18555,
+"en": "You can now play the Kamurocho stage thanks to the upgrade.",
+"ctx": "diálogo uid00033641 + diálogo uid00033d0f"
+},
+{
+"id": 18556,
+"en": "However, you have to complete the same stage\na number of times. I hope you'll give it a try.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18557,
+"en": "By the way, this will be our final version. No\nneed to invest any more money now. We really\nappreciate all your help!",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18558,
+"en": "A little light in the wallet, are we? Please come back when your financial situation improves.",
+"ctx": "diálogo uid00033641 + diálogo uid00033d0f …"
+},
+{
+"id": 18559,
+"en": "Ooh, you lost. That's too bad.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18560,
+"en": "But, aheh, I hope you'll try again.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18561,
+"en": "Congrats on winning that one.",
+"ctx": "diálogo uid00033641 + diálogo uid00033d0f …"
+},
+{
+"id": 18562,
+"en": "I see you've earned an ability boost. That will provide us with some valuable data.",
+"ctx": "diálogo uid00033641 + diálogo uid00033d0f …"
+},
+{
+"id": 18563,
+"en": "<Color:9>Your maximum Heat Gauge increased.<Color:Default>",
+"ctx": "diálogo uid00033641 + diálogo uid00033cd6 …"
+},
+{
+"id": 18564,
+"en": "You earned a Soul Orb thanks to the upgrade.",
+"ctx": "diálogo uid00033641 + diálogo uid00033d0f …"
+},
+{
+"id": 18565,
+"en": "<Color:9>You earned one Soul Orb.<Color:Default>",
+"ctx": "diálogo uid00033641 + diálogo uid00033c4d …"
+},
+{
+"id": 18566,
+"en": "Your abilities have been enhanced as far as they can go. Here's a prize instead.",
+"ctx": "diálogo uid00033641"
+},
+{
+"id": 18567,
+"en": "Your abilities can't go any higher with this version. Here's a prize instead.",
+"ctx": "diálogo uid00033641 + diálogo uid00033d0f …"
+},
+{
+"id": 18568,
+"en": "You got <Color:8>Snowman Hammer<Color:Default>.",
+"ctx": "diálogo uid00033641 + diálogo uid00033c4d …"
+},
+{
+"id": 18569,
+"en": "You got <Color:8>Gravity Converter<Color:Default>.",
+"ctx": "diálogo uid00033641 + diálogo uid00033c4d …"
+},
+{
+"id": 18570,
+"en": "You got a <Color:8>Staminan Royale<Color:Default>.",
+"ctx": "diálogo uid00033641 + diálogo uid00033c4d …"
+},
+{
+"id": 18571,
+"en": "You got <Color:8>Mystery Liquid<Color:Default>.",
+"ctx": "diálogo uid00033641 + diálogo uid00033c4d …"
+},
+{
+"id": 18572,
+"en": "You got <Color:8>Small Motor<Color:Default>.",
+"ctx": "diálogo uid00033641 + diálogo uid00033c4d …"
+},
+{
+"id": 18573,
+"en": "Hahaha! Found you!",
+"ctx": "diálogo uid000337f7"
+},
+{
+"id": 18574,
+"en": "Santa! Do you have presents? I want a present!",
+"ctx": "diálogo uid000337f7"
+},
+{
+"id": 18575,
+"en": "*pant* Arrrgh! I'm done with this Santa thing!",
+"ctx": "diálogo uid000337f7"
+},
+{
+"id": 18576,
+"en": "(Good thing I got away from all that...)",
+"ctx": "diálogo uid00033851"
+},
+{
+"id": 18577,
+"en": "Hey Santa, got some presents for us?",
+"ctx": "diálogo uid00033851"
+},
+{
+"id": 18578,
+"en": "Ah, you must be the Santa hunters. I been lookin' for you.",
+"ctx": "diálogo uid00033851"
+},
+{
+"id": 18579,
+"en": "You found us, old Nick! And we're so happy to see you... our third Santa today!",
+"ctx": "diálogo uid00033851"
+},
+{
+"id": 18580,
+"en": "We're the town's best Christmas carolers! Bashing your head in the snow... in a one-horse open slay... O'er the killing fields we go, laughing all the way!",
+"ctx": "diálogo uid00033851"
+},
+{
+"id": 18581,
+"en": "Why're ya doin' this?",
+"ctx": "diálogo uid00033851"
+},
+{
+"id": 18582,
+"en": "Trust me, we're just doing what everyone else wishes they could do. Who isn't sick of all this Christmas shit every fucking year?",
+"ctx": "diálogo uid00033851"
+},
+{
+"id": 18583,
+"en": "Yeah, just look at what you're wearin', man. Fuckin' stupid...",
+"ctx": "diálogo uid00033851"
+},
+{
+"id": 18584,
+"en": "Ain't ya got girlfriends or somethin'?",
+"ctx": "diálogo uid00033851"
+},
+{
+"id": 18585,
+"en": "Shut up! Just shut the hell up.",
+"ctx": "diálogo uid00033851"
+},
+{
+"id": 18586,
+"en": "Too bad your girlfriend won't be here to wash the blood out of your dinky suit!",
+"ctx": "diálogo uid00033851"
+},
+{
+"id": 18587,
+"en": "Stop, stop! We're sorry! Real sorry!",
+"ctx": "diálogo uid00033851"
+},
+{
+"id": 18588,
+"en": "Let me sing you a carol now. \"He's makin' a list, and checkin' it twice. Gonna find out who's naughty or nice...\"",
+"ctx": "diálogo uid00033851"
+},
+{
+"id": 18589,
+"en": "Santa Claus is coming to tooown!",
+"ctx": "diálogo uid00033851"
+},
+{
+"id": 18590,
+"en": "You kids! Like I said, I ain't got nothin' for ya.",
+"ctx": "diálogo uid00033851"
+},
+{
+"id": 18591,
+"en": "Come onnn! You're Santa, how could you not have presents?",
+"ctx": "diálogo uid00033851"
+},
+{
+"id": 18592,
+"en": "I'm all out. Well... 'cept for these things here, I guess.",
+"ctx": "diálogo uid00033851"
+},
+{
+"id": 18593,
+"en": "Wait, those are ours...",
+"ctx": "diálogo uid00033851"
+},
+{
+"id": 18594,
+"en": "Wow, baseball bats! Just what I wanted!",
+"ctx": "diálogo uid00033851"
+},
+{
+"id": 18595,
+"en": "Sports fan, huh? Take as many as ya like, then.",
+"ctx": "diálogo uid00033851"
+},
+{
+"id": 18596,
+"en": "I want this thing over here, Santa!",
+"ctx": "diálogo uid00033851"
+},
+{
+"id": 18597,
+"en": "Nunchaku? Ya like kung fu?",
+"ctx": "diálogo uid00033851"
+},
+{
+"id": 18598,
+"en": "Yeah! I watch kung fu movies all the time! Hi-yah!",
+"ctx": "diálogo uid00033851"
+},
+{
+"id": 18599,
+"en": "Not my nunchaku! They cost me a fortune!",
+"ctx": "diálogo uid00033851"
+},
+{
+"id": 18600,
+"en": "Seems fair to me. The kids could use some real Christmas cheer after you takin' it from them all season.",
+"ctx": "diálogo uid00033851"
+},
+{
+"id": 18601,
+"en": "If ya got a problem with that, though, I'm all ears. Your call.",
+"ctx": "diálogo uid00033851"
+},
+{
+"id": 18602,
+"en": "Uh, it's okay... Go ahead, little bros, take all you want...",
+"ctx": "diálogo uid00033851"
+},
+{
+"id": 18603,
+"en": "Yay! This is the best Christmas ever! Thanks, Santa!",
+"ctx": "diálogo uid00033851"
+},
+{
+"id": 18604,
+"en": "Heh, I could get used to this Santa gig. Merry Christmas, everyone!",
+"ctx": "diálogo uid00033851"
+},
+{
+"id": 18605,
+"en": "Oh, hi, Akiyama-san. Ya got a minute? I was hopin' to talk\nto you about Haruka.",
+"ctx": "diálogo uid0003385b"
+},
+{
+"id": 18606,
+"en": "To me? What about?",
+"ctx": "diálogo uid0003385b + diálogo uid00033864"
+},
+{
+"id": 18607,
+"en": "Don't tell Haruka, but I think she might have a stalker...",
+"ctx": "diálogo uid0003385b + diálogo uid00033864"
+},
+{
+"id": 18608,
+"en": "Something happen?",
+"ctx": "diálogo uid0003385b + diálogo uid00033864"
+},
+{
+"id": 18609,
+"en": "We were walkin' back to her apartment late the other night,\nand I caught some weirdo was followin' us.",
+"ctx": "diálogo uid0003385b + diálogo uid00033864"
+},
+{
+"id": 18610,
+"en": "I don't think Haruka noticed, but after saying goodnight,\nI came back out, and that same guy was still there, watchin'\nfrom a distance.",
+"ctx": "diálogo uid0003385b + diálogo uid00033864"
+},
+{
+"id": 18611,
+"en": "What happened then?",
+"ctx": "diálogo uid0003385b + diálogo uid00033864"
+},
+{
+"id": 18612,
+"en": "I was scared, but I went towards him to get a better look at\nhis face, and he took off runnin'. I figured he must've been\nspyin' on Haruka.",
+"ctx": "diálogo uid0003385b + diálogo uid00033864"
+},
+{
+"id": 18613,
+"en": "Interesting. Has anything like this ever happened before?",
+"ctx": "diálogo uid0003385b + diálogo uid00033864"
+},
+{
+"id": 18614,
+"en": "There's plenty of wacky people with all sorts of crazy ideas\nif Haruka's fan letters are anything to go by. There's no\nend to them.",
+"ctx": "diálogo uid0003385b + diálogo uid00033864"
+},
+{
+"id": 18615,
+"en": "But this time, the stalker knows where Haruka lives. That's\nwhat worries me.",
+"ctx": "diálogo uid0003385b + diálogo uid00033864"
+},
+{
+"id": 18616,
+"en": "Our agency has neither the staff nor the money\nto keep watch over Haruka 24/7. Still, it's not exactly\nsomething we can just ignore.",
+"ctx": "diálogo uid0003385b"
+},
+{
+"id": 18617,
+"en": "So, I was hoping to ask a favor of you. Would you mind\ntakin' a look around Haruka's apartment building every so\noften? Just when you have time.",
+"ctx": "diálogo uid0003385b"
+},
+{
+"id": 18618,
+"en": "If you spot anyone sneakin' around, I'd like you to give 'em\na stern talking-to.",
+"ctx": "diálogo uid0003385b + diálogo uid00033864"
+},
+{
+"id": 18619,
+"en": "Sure, but I think you might be a little too optimistic if\nyou think that'll be enough to scare them off.",
+"ctx": "diálogo uid0003385b + diálogo uid00033864"
+},
+{
+"id": 18620,
+"en": "But it's worth a try. I might be just the man for the job.",
+"ctx": "diálogo uid0003385b + diálogo uid00033864"
+},
+{
+"id": 18621,
+"en": "I'm counting on you, Akiyama-san.",
+"ctx": "diálogo uid0003385b + diálogo uid00033864"
+},
+{
+"id": 18622,
+"en": "...So what was this all about?",
+"ctx": "diálogo uid0003385b"
+},
+{
+"id": 18623,
+"en": "Gentlemen, would you care to explain, please?",
+"ctx": "diálogo uid0003385b"
+},
+{
+"id": 18624,
+"en": "I... I'm not a stalker. I admit I found Haruka-chan's\napartment, and I hung around hopin' I could maybe see her.",
+"ctx": "diálogo uid0003385b"
+},
+{
+"id": 18625,
+"en": "But then I noticed there was this shifty guy hangin' around\nthere, as well, so I told myself I had to protect her. It was\nsome guy in a tracksuit.",
+"ctx": "diálogo uid0003385b"
+},
+{
+"id": 18626,
+"en": "Wait! That's the same as me! I saw this brute sniffin'\naround Haruka-chan's place! She needed protectin' from him!",
+"ctx": "diálogo uid0003385b"
+},
+{
+"id": 18627,
+"en": "I saw that creep in the suit actin' all kinds of\nsuspicious. I was just tryna keep Haruka-chan safe!",
+"ctx": "diálogo uid0003385b"
+},
+{
+"id": 18628,
+"en": "All right, all right! I've heard enough!",
+"ctx": "diálogo uid0003385b"
+},
+{
+"id": 18629,
+"en": "Basically, all three of you are whistling the same tune⑬you\nall tried to keep Haruka-chan from a stalker, and you all\ngot mistaken for one.",
+"ctx": "diálogo uid0003385b"
+},
+{
+"id": 18630,
+"en": "Pfft. What a mixed-up bunch of white knights. How silly can\nya get!?",
+"ctx": "diálogo uid0003385b"
+},
+{
+"id": 18631,
+"en": "Well, it's a good thing it wasn't serious. These guys seem\nharmless enough⑬just some fans who took things a little too\nfar.",
+"ctx": "diálogo uid0003385b"
+},
+{
+"id": 18632,
+"en": "Sure caused us enough worry, though. You stay away from\nHaruka's place from now on. If I see ya again, I'm callin'\nthe cops!",
+"ctx": "diálogo uid0003385b"
+},
+{
+"id": 18633,
+"en": "It won't happen again!",
+"ctx": "diálogo uid0003385b"
+},
+{
+"id": 18634,
+"en": "Please forgive us!",
+"ctx": "diálogo uid0003385b"
+},
+{
+"id": 18635,
+"en": "Sorry for causin' ya trouble!",
+"ctx": "diálogo uid0003385b"
+},
+{
+"id": 18636,
+"en": "Phew... Thanks for clearing this up, Akiyama-san. I suppose\nI should thank you, huh? How about this?",
+"ctx": "diálogo uid0003385b"
+},
+{
+"id": 18637,
+"en": "You got a <Color:8>Royal Joker Card<Color:Default>.",
+"ctx": "diálogo uid0003385b + diálogo uid00100303 …"
+},
+{
+"id": 18638,
+"en": "You got 2,200 experience points.",
+"ctx": "diálogo uid0003385b + diálogo uid000c0dda …"
+},
+{
+"id": 18639,
+"en": "(Wow, seriously? Guy's none too secret about being a\nstalker, is he?)",
+"ctx": "diálogo uid0003385c"
+},
+{
+"id": 18640,
+"en": "Excuse me, pal. Mind telling me what you're up to?",
+"ctx": "diálogo uid0003385c"
+},
+{
+"id": 18641,
+"en": "Wha...? Who are you?",
+"ctx": "diálogo uid0003385c"
+},
+{
+"id": 18642,
+"en": "I'm with Dyna Chair. Ring a bell?",
+"ctx": "diálogo uid0003385c"
+},
+{
+"id": 18643,
+"en": "You're from Haruka-chan's agency!?",
+"ctx": "diálogo uid0003385c"
+},
+{
+"id": 18644,
+"en": "Yep. So, let me ask you again⑬what are you doing here?",
+"ctx": "diálogo uid0003385c"
+},
+{
+"id": 18645,
+"en": "Uh, well, you see, I... Nothin'! Later!",
+"ctx": "diálogo uid0003385c"
+},
+{
+"id": 18646,
+"en": "Hey! Stop!",
+"ctx": "diálogo uid0003385c + diálogo uid0116013a"
+},
+{
+"id": 18647,
+"en": "All right. I'll ask you nicely⑬quit skulking around\nHaruka-chan.",
+"ctx": "diálogo uid0003385c"
+},
+{
+"id": 18648,
+"en": "Stalking is an actual crime. You know that, right?",
+"ctx": "diálogo uid0003385c"
+},
+{
+"id": 18649,
+"en": "You got it all wrong! I'm no stalker! I was just tryin' to\nkeep Haruka-chan safe...",
+"ctx": "diálogo uid0003385c"
+},
+{
+"id": 18650,
+"en": "Sure, pal, that's what they all say.",
+"ctx": "diálogo uid0003385c"
+},
+{
+"id": 18651,
+"en": "I swear, I'm not lyin'! Haruka-chan really is bein' stalked!",
+"ctx": "diálogo uid0003385c"
+}
+]

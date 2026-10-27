@@ -1,0 +1,44 @@
+{
+ "textura": "ui_en/surfboard/pjd_tougi_gp_start.par/texlist/2d_jm_gp_1sen",
+ "fuente": "Knewave-Regular.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    78,
+    71,
+    442,
+    181
+   ],
+   "en": "ROUND 1",
+   "es": "RONDA 1",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      20,
+      20,
+      20
+     ],
+     2
+    ],
+    "brillo": null
+   },
+   "alin": "centro",
+   "ancho_max": 340,
+   "alto": 76
+  }
+ ]
+}

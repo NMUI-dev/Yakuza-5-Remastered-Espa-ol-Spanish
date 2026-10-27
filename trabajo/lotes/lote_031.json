@@ -1,0 +1,1227 @@
+[
+{
+"id": 8592,
+"en": "Carrying out training under the former celebrity stylist Yoko will mainly improve your Appeal. This training is also the only way to build up the gauge that lets you use Climax Heat special moves, which could decide your fate in the Princess League. You can also learn a range of other abilities and skills, like being able to use Idol Heat more times.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8593,
+"en": "Wages will be deposited into your account by the agency based on the number of job missions you have carried out. You can withdraw these wages from the ATMs found at convenience stores. If not withdrawn, the wages will continue to build up in your account. Withdraw them and use the money whenever you feel the time is right.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8594,
+"en": "Concert battles and dance events can be carried out in Normal or Easy difficulty. It is easier to get the timing right in Easy mode, but you may receive a lesser reward and rating after winning a battle or completing a job. Try the harder difficulty to train Haruka's abilities more effectively.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8595,
+"en": "If you quit out of a job, dance battle, or concert battle, it counts as a failure or defeat. You also don't receive any experience points when you quit, even though a normal failure would earn you points. You cannot make repeated attempts at jobs or Princess League rounds, so note that you will not get a chance to do these again if you quit.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8596,
+"en": "Talk to the receptionist at the batting center to play Shinada's Side Story. You can also earn experience points there, so go to the batting center whenever you get the chance.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8597,
+"en": "Receiving training from Coach Igarashi lets you boost special baseball abilities that are normally hard to improve. Coach Igarashi is at the bar called First Shot, so go and see him when you have time.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8598,
+"en": "In addition to training, Shinada's baseball abilities can also be improved with better baseball gear. You can change the gear you have equipped from the reception menu at the batting center. You can buy baseball gear from places such as pawn shops, so take a look around.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8599,
+"en": "TUTORIAL  ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8600,
+"en": "ABOUT_TIPS  ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8601,
+"en": "SAVE_POINT  ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8602,
+"en": "RECOVER_HP  ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8603,
+"en": "PLAYRER_CHANGE ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8604,
+"en": "MESSAGE_SKIP ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8605,
+"en": "ABOUT_L3_R3 ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8606,
+"en": "HOW_TO_USE_MAP ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8607,
+"en": "HOW_TO_EQUIP ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8608,
+"en": "HOW_TO_EQUIP2 ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8609,
+"en": "IMPOTANT_ITEM ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8610,
+"en": "ENCOUNT  ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8611,
+"en": "DRINK   ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8612,
+"en": "EXTEND_HP  ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8613,
+"en": "DRINK_PARAM_UP ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8614,
+"en": "BUY_ITEM  ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8615,
+"en": "TARGET_IN  ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8616,
+"en": "DAYNIGHT  ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8617,
+"en": "WANDERER  ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8618,
+"en": "ALCOHOL_EFFECT ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8619,
+"en": "TAXI   ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8620,
+"en": "MOVE_CITY  ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8621,
+"en": "KAMAE    ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8622,
+"en": "TUKAMI    ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8623,
+"en": "OIUCHI    ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8624,
+"en": "GUARD    ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8625,
+"en": "SWAY    ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8626,
+"en": "CHOHATSU   ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8627,
+"en": "CAMERA_OPERATION ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8628,
+"en": "SHIEN    ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8629,
+"en": "COMBO    ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8630,
+"en": "FINISH_BLOW  ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8631,
+"en": "BLOW    ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8632,
+"en": "REVERSAL_ATTACK ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8633,
+"en": "HACT_ACTION  ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8634,
+"en": "CLIMAX_HEAT  ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8635,
+"en": "ADD_HEAT  ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8636,
+"en": "KIZETSU   ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8637,
+"en": "WEAKNESS   ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8638,
+"en": "SKILL_SOUL   ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8639,
+"en": "ABLITY_UPGRADE  ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8640,
+"en": "AUTO_UPGRADE  ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8641,
+"en": "PICKUP_WEAPON  ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8642,
+"en": "WEAPON_ATTACK  ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8643,
+"en": "GET_WEAPON   ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8644,
+"en": "EQUIP_WEAPON  ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8645,
+"en": "CHANGE_WEAPON  ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8646,
+"en": "PERMANENCE   ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8647,
+"en": "REPAIR_KIT   ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8648,
+"en": "DORYU    ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8649,
+"en": "CHARGE_ATTACK  ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8650,
+"en": "MOUKO    ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8651,
+"en": "AIR_STRIKE   ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8652,
+"en": "RYUSEI    ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8653,
+"en": "JUMP   ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8654,
+"en": "STEP   ",
+"ctx": "tabla tips_tutorial|ENUM"
+},
+{
+"id": 8655,
+"en": "Information to help you progress in the game is displayed here.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8656,
+"en": "No Tips",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8657,
+"en": "You can save the game at phone booths and hideouts.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8658,
+"en": "Press the button shown when \"Talk,” etc. appears to perform that action.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8659,
+"en": "Recover health lost in battle, etc. by using items or eating at eateries.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8660,
+"en": "At certain points in the game, you can change characters at the hideout.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8661,
+"en": "The protagonists' money and Item Boxes are pooled after meeting at New Serena.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8662,
+"en": "Hold down <Action:Button_R1@Adventure> and press <Action:Button_Cross@Adventure> to skip messages.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8663,
+"en": "Your destination and stores are shown on the map in the lower left of the screen.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8664,
+"en": "When you get an email, you can read it from the Pause Menu.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8665,
+"en": "You can use items bought at stores from the Pause Menu.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8666,
+"en": "You can equip weapons, gear, and accessories in the Pause Menu.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8667,
+"en": "Some items increase your likeability with hostesses when equipped.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8668,
+"en": "Valuables are kept separately, and can be viewed from the Pause Menu.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8669,
+"en": "Red text bubbles indicate people on the street who are looking for a fight.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8670,
+"en": "Walk instead of running or pass behind troublemakers to avoid fighting them.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8671,
+"en": "Have a meal at an eatery to restore your health.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8672,
+"en": "Eating when your Health Gauge is full will fill up a second gauge.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8673,
+"en": "Eating at an eatery gives you a temporary ability boost.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8674,
+"en": "You can buy items, food, weapons, and gear at stores.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8675,
+"en": "A circle on the map shows your destination for the current storyline.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8676,
+"en": "Days are divided into daytime, evening, and nighttime.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8677,
+"en": "Colliding with people when running will stagger you and cost you time.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8678,
+"en": "When you're drunk, enemies are more likely to pick a fight, etc.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8679,
+"en": "You can sober up by running around or drinking coffee, etc.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8680,
+"en": "Get in a taxi at a taxi stand to move around the city quickly.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8681,
+"en": "You can travel between cities by taxi.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8682,
+"en": "Use <Action:Button_R3@Adventure> to enter first-person perspective mode.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8683,
+"en": "Open lockers with locker keys to obtain the items inside.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8684,
+"en": "Pick up downloaded item packs at Naomi's Palace or convenience stores.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8685,
+"en": "Talk to Haruka at New Serena to travel with her and fulfill her requests.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8686,
+"en": "Hold <Action:Battle_Fight_Stance@Combat> to enter a Fighting Stance against an enemy.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8687,
+"en": "Press <Action:Battle_Drop_Weapon@Combat> to grab an enemy, <Action:Battle_Normal_Attack@Combat> or <Action:Battle_Heavy_Attack@Combat> to strike them, and <Action:Battle_Drop_Weapon@Combat> to throw them.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8688,
+"en": "Press <Action:Battle_Heavy_Attack@Combat> to do extra damage to enemies on the ground.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8689,
+"en": "Hold <Action:Battle_Guard@Combat> to guard, but you cannot block knives and bullets.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8690,
+"en": "Press <Action:Battle_Dodge@Combat> to evade, and use <Action:Move_Forward@Combat><Action:Move_Back@Combat><Action:Move_Left@Combat><Action:Move_Right@Combat> to specify a direction.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8691,
+"en": "Press <Action:Battle_Extreme_Heat@Combat> to taunt.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8692,
+"en": "Use <Action:Turn_Camera_Up@Combat><Action:Turn_Camera_Down@Combat><Action:Turn_Camera_Left@Combat><Action:Turn_Camera_Right@Combat> to control the camera.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8693,
+"en": " Press <Action:Battle_Hide_Weapon@Combat> to smoke.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8694,
+"en": "Press <Action:Battle_Normal_Attack@Combat> to perform a Rush Combo.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8695,
+"en": "Press <Action:Battle_Heavy_Attack@Combat> during a Rush Combo to perform a Finishing Blow.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8696,
+"en": "Press <Action:Battle_Heavy_Attack@Combat> to perform a single frontal attack.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8697,
+"en": "Press back and <Action:Battle_Normal_Attack@Combat> for a turning attack, and <Action:Battle_Normal_Attack@Combat><Action:Battle_Heavy_Attack@Combat> to follow up.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8698,
+"en": "Press <Action:Battle_Heavy_Attack@Combat> while the Heat icon is displayed in the upper right of the screen.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8699,
+"en": "Press <Action:Battle_Heavy_Attack@Combat> while a red Heat icon is displayed to trigger.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8700,
+"en": "The Heat Gauge fills as you attack, and depletes when you take damage.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8701,
+"en": "Some Heat Actions can be developed into stronger abilities by using them often.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8702,
+"en": "When stunned, you cannot take any action for a set amount of time.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8703,
+"en": "Demoralize enemies by performing big moves or taking out their leader.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8704,
+"en": "Enemies may call for reinforcements. Watch out if someone pulls out a phone.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8705,
+"en": "Enemies sometimes flee when cornered. You receive no reward for them.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8706,
+"en": "Enraged enemies are temporarily more powerful, so be careful.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8707,
+"en": "Obtained when you gain levels, and used to upgrade your abilities.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8708,
+"en": "Upgrade characters from Abilities on the Pause Menu.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8709,
+"en": "A mode for automatic ability upgrades that you can turn on in Settings.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8710,
+"en": "You can battle a range of fighters at the Coliseum to win prize money.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8711,
+"en": "Pass the Victory Road qualifiers by defeating other participants.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8712,
+"en": "Talk to Minamida or his assistant to play IF8: Road Battle.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8713,
+"en": "Press <Action:Battle_Drop_Weapon@Combat> to pick up weapons on the ground, which glow when you approach.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8714,
+"en": "<Action:Battle_Normal_Attack@Combat>, <Action:Battle_Heavy_Attack@Combat>, and <Action:Battle_Drop_Weapon@Combat> trigger different attacks, and durability drops.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8715,
+"en": "Weapons with a <Action:Battle_Extreme_Heat@Combat> icon in the name field can be added to your inventory.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8716,
+"en": "You can equip up to three weapons via Items on the Pause Menu.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8717,
+"en": "Use <Action:Battle_Pull_Weapon_Up@Combat><Action:Battle_Pull_Weapon_Left@Combat><Action:Battle_Pull_Weapon_Right@Combat> to switch between equipped weapons.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8718,
+"en": "Using weapons will enable you to use previously unavailable weapons.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8719,
+"en": "Weapons break when durability hits 0, but you can fix weapons in inventory.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8720,
+"en": "Press <Action:Battle_Heavy_Attack@Combat> to kick a weapon at an enemy.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8721,
+"en": "At Kamiyama Works you can buy and modify weapons.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8722,
+"en": "You can use a repair kit to restore a weapon's durability.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8723,
+"en": "Press <Action:Battle_Extreme_Heat@Combat> in Heat Mode to trigger Dragon Spirit for a set time.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8724,
+"en": "Hold down the button for Saejima's <Action:Battle_Heavy_Attack@Combat> attack to increase its power.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8725,
+"en": "Press <Action:Battle_Normal_Attack@Combat><Action:Battle_Heavy_Attack@Combat><Action:Battle_Drop_Weapon@Combat> while grabbing an enemy's legs in Heat Mode.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8726,
+"en": "Press <Action:Battle_Heavy_Attack@Combat> in Heat Mode to launch an enemy, then follow with Launch Strike.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8727,
+"en": "Press <Action:Battle_Heavy_Attack@Combat><Action:Battle_Heavy_Attack@Combat> in Heat Mode to do a tackle that leads into many moves.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8728,
+"en": "You can press <Action:Button_Square@Chase> for a combo of up to 3 hits. Close in on the enemy!",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8729,
+"en": "Press <Action:Button_Cross@Chase> to jump over obstacles.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8730,
+"en": "Sidestep left with <Action:Button_L1@Chase> and right with <Action:Button_R1@Chase> to avoid enemy attacks, etc.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8731,
+"en": "Cardboard boxes contain a variety of items, including weapons.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8732,
+"en": "Press <Action:Button_Circle@Chase> for a throwing attack when the enemy is directly in front of you.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8733,
+"en": "You may be set upon by Devil Killers in town until you beat them in races.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8734,
+"en": "Talk with the receptionist at Nagasu Taxi to play Kiryu's Side Story.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8735,
+"en": "Your earned wages can be withdrawn from an ATM.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8736,
+"en": "Talk with Okudera to play Saejima's Side Story.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8737,
+"en": "There are 3 Princess League rounds, and each round counts!",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8738,
+"en": "Carry out jobs to improve your idol abilities and earn money.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8739,
+"en": "Talk to dancers to compete in dance battles and improve your Performance.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8740,
+"en": "Haruka's idol abilities are Appeal, Basic Skill, Performance, and Singing.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8741,
+"en": "Taking lessons at the lesson studio mainly improves your Singing.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8742,
+"en": "Talk with your dance instructor for an evaluation of your chances of winning.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8743,
+"en": "As your Agency Level gets higher, more jobs become available to you.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8744,
+"en": "Yoko's training boosts Performance and fills your Climax Heat Gauge.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8745,
+"en": "Easy mode is easier to time button presses, but offers fewer rewards.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8746,
+"en": "You receive no experience points when you quit a job or dance battle.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8747,
+"en": "See the receptionist at the batting center to play Shinada's Side Story.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8748,
+"en": "Take lessons from Coach Igarashi to learn special baseball abilities.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8749,
+"en": "You can buy baseball gear to raise baseball abilities at pawn shops, etc.",
+"ctx": "tabla tips_tutorial|RIGHT_BOTTOM_DISP"
+},
+{
+"id": 8750,
+"en": "Central Nagasu",
+"ctx": "tabla view_point|NAME"
+},
+{
+"id": 8751,
+"en": "Nagasu Food Stalls",
+"ctx": "tabla view_point|NAME"
+},
+{
+"id": 8752,
+"en": "Chikuzengawa",
+"ctx": "tabla view_point|NAME"
+},
+{
+"id": 8753,
+"en": "Don Quijote",
+"ctx": "tabla view_point|NAME"
+},
+{
+"id": 8754,
+"en": "Nagasugawa",
+"ctx": "tabla view_point|NAME"
+},
+{
+"id": 8755,
+"en": "TV Tower",
+"ctx": "tabla view_point|NAME"
+},
+{
+"id": 8756,
+"en": "North Lane",
+"ctx": "tabla view_point|NAME"
+},
+{
+"id": 8757,
+"en": "Tsukimino Tram",
+"ctx": "tabla view_point|NAME"
+},
+{
+"id": 8758,
+"en": "Nikka Sign",
+"ctx": "tabla view_point|NAME"
+},
+{
+"id": 8759,
+"en": "Lavender Street",
+"ctx": "tabla view_point|NAME"
+},
+{
+"id": 8760,
+"en": "Sotenbori Street",
+"ctx": "tabla view_point|NAME"
+},
+{
+"id": 8761,
+"en": "Iwao Bridge",
+"ctx": "tabla view_point|NAME"
+},
+{
+"id": 8762,
+"en": "Shofukucho",
+"ctx": "tabla view_point|NAME"
+},
+{
+"id": 8763,
+"en": "Ashitaba Park",
+"ctx": "tabla view_point|NAME"
+},
+{
+"id": 8764,
+"en": "Kinei TV tower",
+"ctx": "tabla view_point|NAME"
+},
+{
+"id": 8765,
+"en": "E-billboard",
+"ctx": "tabla view_point|NAME"
+},
+{
+"id": 8766,
+"en": "Mid Square",
+"ctx": "tabla view_point|NAME"
+},
+{
+"id": 8767,
+"en": "Ferris wheel",
+"ctx": "tabla view_point|NAME"
+},
+{
+"id": 8768,
+"en": "Owari Ebisu",
+"ctx": "tabla view_point|NAME"
+},
+{
+"id": 8769,
+"en": "Kamuro Theater",
+"ctx": "tabla view_point|NAME"
+},
+{
+"id": 8770,
+"en": "Millennium Tower",
+"ctx": "tabla view_point|NAME"
+},
+{
+"id": 8771,
+"en": "Tenkaichi Street",
+"ctx": "tabla view_point|NAME"
+},
+{
+"id": 8772,
+"en": "Nakamichi Street",
+"ctx": "tabla view_point|NAME"
+},
+{
+"id": 8773,
+"en": "A view of central Nagasugai.",
+"ctx": "tabla view_point|HINT_DAY + tabla view_point|HINT_EVENING …"
+},
+{
+"id": 8774,
+"en": "Food stalls appear on this strip at night, offering warm food to \nanyone with a few hundred yen.",
+"ctx": "tabla view_point|HINT_DAY"
+},
+{
+"id": 8775,
+"en": "A view of the Chikuzen River.",
+"ctx": "tabla view_point|HINT_DAY + tabla view_point|HINT_EVENING …"
+},
+{
+"id": 8776,
+"en": "A view of the Don Quijote building.",
+"ctx": "tabla view_point|HINT_DAY + tabla view_point|HINT_EVENING …"
+},
+{
+"id": 8777,
+"en": "A view of Nagasu River from Ose Bridge.",
+"ctx": "tabla view_point|HINT_DAY"
+},
+{
+"id": 8778,
+"en": "A view of the Tsukimino TV tower.",
+"ctx": "tabla view_point|HINT_DAY + tabla view_point|HINT_EVENING …"
+},
+{
+"id": 8779,
+"en": "A view of North Lane.",
+"ctx": "tabla view_point|HINT_DAY + tabla view_point|HINT_EVENING …"
+},
+{
+"id": 8780,
+"en": "A view of the Tsukimino tram.",
+"ctx": "tabla view_point|HINT_DAY + tabla view_point|HINT_EVENING …"
+},
+{
+"id": 8781,
+"en": "A view of the famous Nikka sign.",
+"ctx": "tabla view_point|HINT_DAY + tabla view_point|HINT_EVENING …"
+},
+{
+"id": 8782,
+"en": "A view of Lavender Street restaurants.",
+"ctx": "tabla view_point|HINT_DAY + tabla view_point|HINT_EVENING …"
+},
+{
+"id": 8783,
+"en": "A view of Sotenbori Street.",
+"ctx": "tabla view_point|HINT_DAY + tabla view_point|HINT_EVENING …"
+},
+{
+"id": 8784,
+"en": "A view from Iwao Bridge.",
+"ctx": "tabla view_point|HINT_DAY + tabla view_point|HINT_EVENING"
+},
+{
+"id": 8785,
+"en": "A view of Sotenbori.",
+"ctx": "tabla view_point|HINT_DAY + tabla view_point|HINT_EVENING …"
+},
+{
+"id": 8786,
+"en": "A view of Shofukucho.",
+"ctx": "tabla view_point|HINT_DAY + tabla view_point|HINT_EVENING …"
+},
+{
+"id": 8787,
+"en": "A view of Ashitaba Park.",
+"ctx": "tabla view_point|HINT_DAY + tabla view_point|HINT_EVENING …"
+},
+{
+"id": 8788,
+"en": "A view of the TV tower in Kineicho.",
+"ctx": "tabla view_point|HINT_DAY + tabla view_point|HINT_EVENING …"
+},
+{
+"id": 8789,
+"en": "A view of the e-billboard in Kineicho.",
+"ctx": "tabla view_point|HINT_DAY + tabla view_point|HINT_EVENING …"
+},
+{
+"id": 8790,
+"en": "A view of Mid Square in Kineicho.",
+"ctx": "tabla view_point|HINT_DAY + tabla view_point|HINT_EVENING …"
+},
+{
+"id": 8791,
+"en": "Kineicho's famous Ferris wheel.",
+"ctx": "tabla view_point|HINT_DAY + tabla view_point|HINT_EVENING …"
+},
+{
+"id": 8792,
+"en": "The Owari Ebisu sign.",
+"ctx": "tabla view_point|HINT_DAY + tabla view_point|HINT_EVENING …"
+},
+{
+"id": 8793,
+"en": "A view of the Kamuro Theater.",
+"ctx": "tabla view_point|HINT_DAY + tabla view_point|HINT_EVENING …"
+},
+{
+"id": 8794,
+"en": "A view of the Millennium Tower.",
+"ctx": "tabla view_point|HINT_DAY"
+},
+{
+"id": 8795,
+"en": "A view of Kamurocho Hills.",
+"ctx": "tabla view_point|HINT_DAY + tabla view_point|HINT_EVENING …"
+},
+{
+"id": 8796,
+"en": "A view of Tenkaichi Street.",
+"ctx": "tabla view_point|HINT_DAY + tabla view_point|HINT_EVENING …"
+},
+{
+"id": 8797,
+"en": "A view of Nakamichi Street.",
+"ctx": "tabla view_point|HINT_DAY + tabla view_point|HINT_EVENING …"
+},
+{
+"id": 8798,
+"en": "A view of the Nagasu food stalls.",
+"ctx": "tabla view_point|HINT_EVENING + tabla view_point|HINT_NIGHT"
+},
+{
+"id": 8799,
+"en": "A view of Nagasu River from\nOse Bridge.",
+"ctx": "tabla view_point|HINT_EVENING"
+},
+{
+"id": 8800,
+"en": "A view of Millennium Tower.",
+"ctx": "tabla view_point|HINT_EVENING + tabla view_point|HINT_NIGHT"
+},
+{
+"id": 8801,
+"en": "A view of neon lights reflected\nin the Nagasu River from Ose Bridge.",
+"ctx": "tabla view_point|HINT_NIGHT"
+},
+{
+"id": 8802,
+"en": "A view of the neon from Iwao Bridge.",
+"ctx": "tabla view_point|HINT_NIGHT"
+},
+{
+"id": 8803,
+"en": "2-Oct",
+"ctx": "tabla zactparam|ROBJID"
+},
+{
+"id": 8804,
+"en": "Batting Center Beginner Higher angle",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8805,
+"en": "Batting Center Beginner lower angle",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8806,
+"en": "Batting Center Beginner outer angle",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8807,
+"en": "Batting Center Beginner inner angle",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8808,
+"en": "Batting Center Beginner random",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8809,
+"en": "Batting Center Beginner Heat Eye",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8810,
+"en": "Batting Center Intermediate",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8811,
+"en": "Batting Center Advanced",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8812,
+"en": "Batting Center Missions",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8813,
+"en": "Batting Center Sawada",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8814,
+"en": "Batting Center Challenge",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8815,
+"en": "Batting Center Kamurocho",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8816,
+"en": "Main Scenario Batting Center",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8817,
+"en": "Main Scenario Sawada",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8818,
+"en": "Kuroda: Shirakawa's assassin",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8819,
+"en": "Kuroda: Aims to become a high school baseball player",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8820,
+"en": "Haibara: Velocity 145km/h",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8821,
+"en": "Haibara: Shinada's interview",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8822,
+"en": "Shiraki: The shadow of the spotlight",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8823,
+"en": "Shiraki: The battle 20 years ago",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8824,
+"en": "Grunt 01",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8825,
+"en": "Grunt 02",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8826,
+"en": "Grunt 03",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8827,
+"en": "Grunt 04",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8828,
+"en": "Grunt 05",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8829,
+"en": "Grunt 06",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8830,
+"en": "Grunt 07",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8831,
+"en": "Grunt 08",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8832,
+"en": "Grunt 09",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8833,
+"en": "Grunt 10",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8834,
+"en": "Grunt 11",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8835,
+"en": "Grunt 12",
+"ctx": "tabla BaseBallPitcher|NAME"
+},
+{
+"id": 8836,
+"en": "Grunt 13",
+"ctx": "tabla BaseBallPitcher|NAME"
+}
+]

@@ -1,0 +1,957 @@
+[
+{
+"id": 23431,
+"en": "Nope. That's the first I've heard of it.",
+"ctx": "diálogo uid000d0277"
+},
+{
+"id": 23432,
+"en": "You didn't hear that one? They said it was under the land where Kamurocho Hills went up, but I guess there wasn't any truth to it.",
+"ctx": "diálogo uid000d0277"
+},
+{
+"id": 23433,
+"en": "Maybe instead of wasting your time chasing urban legends, you could get a job.",
+"ctx": "diálogo uid000d0277"
+},
+{
+"id": 23434,
+"en": "The match going on in the Coliseum now isn't even worth watching. It's too one-sided.",
+"ctx": "diálogo uid000d0278"
+},
+{
+"id": 23435,
+"en": "If that's the best you can do and you still decide to go into the Coliseum, you better not cry when you get your shit kicked in.",
+"ctx": "diálogo uid000d0278"
+},
+{
+"id": 23436,
+"en": "I hear they finally completed Kamurocho Hills. It's kind of amazing they pulled it off, especially when you think about all the complications they had with the project.",
+"ctx": "diálogo uid000d027b"
+},
+{
+"id": 23437,
+"en": "Yeah. I wonder what happened to all the homeless that were living there, though. They're really cleaning up the city lately.",
+"ctx": "diálogo uid000d027b"
+},
+{
+"id": 23438,
+"en": "All right! Got your ticket?",
+"ctx": "diálogo uid000d0281"
+},
+{
+"id": 23439,
+"en": "Hell yeah I do!",
+"ctx": "diálogo uid000d0281"
+},
+{
+"id": 23440,
+"en": "Yay! I can't believe we got seats! I don't even care that they're kind of off to the side. Let's get things started!",
+"ctx": "diálogo uid000d0281"
+},
+{
+"id": 23441,
+"en": "Did you hear about that Dream Line thing?",
+"ctx": "diálogo uid000d0281"
+},
+{
+"id": 23442,
+"en": "Yeah! Talk about out of the blue!",
+"ctx": "diálogo uid000d0281"
+},
+{
+"id": 23443,
+"en": "I want to go so bad! I hope we can find a way to get tickets!",
+"ctx": "diálogo uid000d0281"
+},
+{
+"id": 23444,
+"en": "How come T-Set is doing a concert at the dome, and Haruka-chan's got canceled!?",
+"ctx": "diálogo uid000d0281"
+},
+{
+"id": 23445,
+"en": "Well, it's a nice surprise for me, but I can't help but wonder what happened. Think there will still be tickets available?",
+"ctx": "diálogo uid000d0281"
+},
+{
+"id": 23446,
+"en": "Damn, that Dream Line thing took me by surprise.",
+"ctx": "diálogo uid000d0282"
+},
+{
+"id": 23447,
+"en": "So there weren't any rumors floating about the industry about it?",
+"ctx": "diálogo uid000d0282"
+},
+{
+"id": 23448,
+"en": "Not a peep. They must've kept a pretty tight lid on it. That's Katsuya for you.",
+"ctx": "diálogo uid000d0282"
+},
+{
+"id": 23449,
+"en": "You don't think you were just left out of the loop?",
+"ctx": "diálogo uid000d0282"
+},
+{
+"id": 23450,
+"en": "No one saw that T-Set concert coming. Katsuya really knows how to work his angle.",
+"ctx": "diálogo uid000d0282"
+},
+{
+"id": 23451,
+"en": "What about Haruka Sawamura? She had all that good press after winning the Princess League. Is she just going to fade away?",
+"ctx": "diálogo uid000d0282"
+},
+{
+"id": 23452,
+"en": "Who knows? It sounds like she's signed up for a tiny production agency whose president offed herself not too long ago. I'm betting her career's over.",
+"ctx": "diálogo uid000d0282"
+},
+{
+"id": 23453,
+"en": "Wow. The industry's a cruel world...",
+"ctx": "diálogo uid000d0282"
+},
+{
+"id": 23454,
+"en": "I saw the president of T-Set's agency on TV. I think his name's Katsuya? Ugh, he's hot as hell.",
+"ctx": "diálogo uid000d0283"
+},
+{
+"id": 23455,
+"en": "Totally. I hear he's staying at that really expensive hotel in Kamurocho Hills.",
+"ctx": "diálogo uid000d0283"
+},
+{
+"id": 23456,
+"en": "Wow. I'd straight-up kill someone to spend the night with him there...",
+"ctx": "diálogo uid000d0283"
+},
+{
+"id": 23457,
+"en": "Huh? All the stores are closed today for \"emergency maintenance\"? What the hell?",
+"ctx": "diálogo uid000d0284"
+},
+{
+"id": 23458,
+"en": "What kind of maintenance would shut down all these stores? This really puts a wrench into my plans.",
+"ctx": "diálogo uid000d0284"
+},
+{
+"id": 23459,
+"en": "If all the stores are closed, why'd those guys go in just now?",
+"ctx": "diálogo uid000d0285"
+},
+{
+"id": 23460,
+"en": "They didn't look like maintenance men. My guess is yakuza.",
+"ctx": "diálogo uid000d0285"
+},
+{
+"id": 23461,
+"en": "Like I said, right, there's emergency maintenance. Huh? How am I supposed to know?",
+"ctx": "diálogo uid000d0286"
+},
+{
+"id": 23462,
+"en": "Anyway, it doesn't look like we'll get into the Hills today. Yeah, let's meet at Karaokekan.",
+"ctx": "diálogo uid000d0286"
+},
+{
+"id": 23463,
+"en": "It's not fair! I was really looking forward to going out today!",
+"ctx": "diálogo uid000d0287"
+},
+{
+"id": 23464,
+"en": "It's all right. We'll just have to shop somewhere else now. How about Le Marche? You said you were looking for a handbag, right?",
+"ctx": "diálogo uid000d0287"
+},
+{
+"id": 23465,
+"en": "I guess... But only because you're so sweet, Hide-kun.",
+"ctx": "diálogo uid000d0287"
+},
+{
+"id": 23466,
+"en": "Grr... I caved and bought Dream Line tickets from a scalper.",
+"ctx": "diálogo uid000d028f"
+},
+{
+"id": 23467,
+"en": "Apparently I have to pick them up at the venue. I might punch the guy when I see him, though. There goes this month's paycheck...",
+"ctx": "diálogo uid000d028f"
+},
+{
+"id": 23468,
+"en": "Shit, I can't find any Dream Line tickets.",
+"ctx": "diálogo uid000d028f"
+},
+{
+"id": 23469,
+"en": "There are a few for sale online, but there's no way I'm paying that kind of money. I hope those fucking resellers die in a fire!",
+"ctx": "diálogo uid000d028f"
+},
+{
+"id": 23470,
+"en": "Did you see the news about Dream Line?",
+"ctx": "diálogo uid000d0290"
+},
+{
+"id": 23471,
+"en": "Yeah, I did! They're all super cute! I think I'll copy Mai-chan's hairstyle next time I get mine styled!",
+"ctx": "diálogo uid000d0290"
+},
+{
+"id": 23472,
+"en": "Really? I like Haruka's style better.",
+"ctx": "diálogo uid000d0290"
+},
+{
+"id": 23473,
+"en": "Sorry, I don't think I'll be able to get you any Dream Line tickets...",
+"ctx": "diálogo uid000d0291"
+},
+{
+"id": 23474,
+"en": "Oh, well. It's not like I'm that that interested in them, anyway. Guess I'll just have to hit up a hostess club instead.",
+"ctx": "diálogo uid000d0291"
+},
+{
+"id": 23475,
+"en": "Uh, sure, okay. I'll make reservations.",
+"ctx": "diálogo uid000d0291"
+},
+{
+"id": 23476,
+"en": "Hey, isn't there any way you can get me some Dream Line tickets?",
+"ctx": "diálogo uid000d0291"
+},
+{
+"id": 23477,
+"en": "I mean, I can try, but it's probably gonna be tough...",
+"ctx": "diálogo uid000d0291"
+},
+{
+"id": 23478,
+"en": "I thought you knew someone who worked at that event company, right? C'mon, call in a favor, for me, yeah?",
+"ctx": "diálogo uid000d0291"
+},
+{
+"id": 23479,
+"en": "I guess I could try talking to them, but I'm pretty sure it won't do any good...",
+"ctx": "diálogo uid000d0291"
+},
+{
+"id": 23480,
+"en": "Ya remembered the tickets, right?",
+"ctx": "diálogo uid000d0292"
+},
+{
+"id": 23481,
+"en": "Yeah, I ain't gonna forget those. Man, I didn't see this one comin'. But here we are in Tokyo!",
+"ctx": "diálogo uid000d0292"
+},
+{
+"id": 23482,
+"en": "Who woulda guessed our first trip to Tokyo would be to see our darlings perform on stage? I'm so happy I could cry.",
+"ctx": "diálogo uid000d0292"
+},
+{
+"id": 23483,
+"en": "Well, we better go start linin' up for merch. I guess we go by train from here?",
+"ctx": "diálogo uid000d0292"
+},
+{
+"id": 23484,
+"en": "Yeah. Japan Dome, here we come!",
+"ctx": "diálogo uid000d0292"
+},
+{
+"id": 23485,
+"en": "FREE→会話。",
+"ctx": "diálogo uid00100008"
+},
+{
+"id": 23486,
+"en": "会話→FREE。",
+"ctx": "diálogo uid00100008"
+},
+{
+"id": 23487,
+"en": "First conversation.",
+"ctx": "diálogo uid00100235"
+},
+{
+"id": 23488,
+"en": "Last conversation.",
+"ctx": "diálogo uid00100235"
+},
+{
+"id": 23489,
+"en": "Warp to the office?",
+"ctx": "diálogo uid00100235"
+},
+{
+"id": 23490,
+"en": "武器には耐久度がありゼロになると使用できなくなります。\nゼロになってしまった武器は、ワークス上山で<Color:7>修理/補充<Color:Default>するか\n<Color:7>リペアキット<Color:Default>を使用することで、耐久度を戻すことができます。\n\n耐久度がゼロになってしまっても、壊れてなくなることはありません。\nどんどん使っていきましょう。",
+"ctx": "diálogo uid00100302"
+},
+{
+"id": 23491,
+"en": "基本的にお金を支払うことで制作してもらえます。\n一部の武器はお金以外に素材が必要になるものもあります。\n制作できる種類は<Color:7>ワークス上山のショップレベル<Color:Default>を上げることで増えていきます。\nショップレベルは<Color:7>投資<Color:Default>を行うことで上がっていきます。",
+"ctx": "diálogo uid00100302"
+},
+{
+"id": 23492,
+"en": "また、武器にはランクがあり★の数で表示されています。\n★の数は<Color:7>必要な武器熟練度<Color:Default>を示しており\n一定以上の武器熟練度になっていないと装備できないので注意して下さい。\n武器熟練度はポーズメニューの能力強化の画面で確認することができます。",
+"ctx": "diálogo uid00100302"
+},
+{
+"id": 23493,
+"en": "メニューの<Color:7>投資<Color:Default>からワークス上山に投資することができます。\n投資することでワークス上山のショップレベルが上がっていき\nより強力な武器防具が制作できるようになります。",
+"ctx": "diálogo uid00100302"
+},
+{
+"id": 23494,
+"en": "Hey, I'm Bob Utsunomiya B.",
+"ctx": "diálogo uid00100303"
+},
+{
+"id": 23495,
+"en": "You got a <Color:8>Payback Ring<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23496,
+"en": "You got a <Color:8>Champion's Ring<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23497,
+"en": "You got <Color:8>Eager Earrings<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23498,
+"en": "You got an <Color:8>Immovable Belt<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23499,
+"en": "You got a <Color:8>Shachihoko<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23500,
+"en": "You got a <Color:8>Golden Pistol<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23501,
+"en": "You got a <Color:8>Dragon Scale<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23502,
+"en": "You got a <Color:8>Seal of the Dragon<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23503,
+"en": "You got a <Color:8>Toughness Pin<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23504,
+"en": "You got a <Color:8>Dragon Tail<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23505,
+"en": "You got a <Color:8>Lucky Binding<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23506,
+"en": "You got a <Color:8>Ebisu Socks<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23507,
+"en": "You got a <Color:8>Love Shine Sticks<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23508,
+"en": "You got a <Color:8>Beads of Good Fortune<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23509,
+"en": "You got a <Color:8>Leech Gloves<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23510,
+"en": "You got an <Color:8>Encounter Finder<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23511,
+"en": "You got a <Color:8>Celebrity Perfume<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23512,
+"en": "You got a <Color:8>Penguin Spear<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23513,
+"en": "You got a <Color:8>Fortune Mallet<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23514,
+"en": "You got a <Color:8>Tiger Mail<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23515,
+"en": "You got a <Color:8>Expulsion S-12<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23516,
+"en": "You got a <Color:8>Frozen Banana<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23517,
+"en": "You got a <Color:8>SPARK 20,000V<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23518,
+"en": "You got a <Color:8>Platinum Triangle Ruler<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23519,
+"en": "You got a <Color:8>Eye of the Dragon<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23520,
+"en": "You got a <Color:8>Master Ball<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23521,
+"en": "You got a <Color:8>Frozen Tuna<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23522,
+"en": "You got a <Color:8>Dragon-drive 99<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23523,
+"en": "You got a <Color:8>Sacrifice Stone<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23524,
+"en": "You got a <Color:8>Muramasa Blade<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23525,
+"en": "You got a <Color:8>Dragon Mail<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23526,
+"en": "You got a <Color:8>War God Talisman<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23527,
+"en": "You got a <Color:8>Toughness Emperor<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23528,
+"en": "You got a <Color:8>Tauriner ++<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23529,
+"en": "You got a <Color:8>Toughness Infinity<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23530,
+"en": "You got a <Color:8>Tauriner Maximum<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23531,
+"en": "You got an <Color:8>Assassin's Spear<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23532,
+"en": "You got a <Color:8>Bulletproof Glass Amulet<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23533,
+"en": "You got a <Color:8>Ballbuster<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23534,
+"en": "You got a <Color:8>Battle Mail<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23535,
+"en": "You got a <Color:8>Brickshitter Beer<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23536,
+"en": "You got a <Color:8>Goddess of Children Amulet<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23537,
+"en": "You got a <Color:8>Patriarch's Driver<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23538,
+"en": "You got a <Color:8>Sakura Storm<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23539,
+"en": "You got a <Color:8>Gambler's Binding<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23540,
+"en": "You got <Color:8>Double Leeks<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23541,
+"en": "You got a <Color:8>Zap Gun<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23542,
+"en": "You got an <Color:8>Antique Chain Mail<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23543,
+"en": "You got a <Color:8>Drow-Z 55<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23544,
+"en": "You got a <Color:8>Yakuza Training Gear<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23545,
+"en": "You got a <Color:8>High Payout Token<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23546,
+"en": "You got a <Color:8>High Win Rate Token<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23547,
+"en": "You got an <Color:8>Auto Token<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23548,
+"en": "You got a <Color:8>Get-Rich-Quick Charm<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23549,
+"en": "You got a <Color:8>Chance Stone<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23550,
+"en": "You got a <Color:8>Gambler's Amulet<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23551,
+"en": "You got a <Color:8>Banker's Piece<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23552,
+"en": "You got a <Color:8>Player's Piece<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23553,
+"en": "You got a <Color:8>Blackjack Amulet<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23554,
+"en": "You got a <Color:8>Bust Amulet<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23555,
+"en": "You got a <Color:8>Lucky Hanafuda Card<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23556,
+"en": "You got an <Color:8>All 1's Charm<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23557,
+"en": "You got a <Color:8>Lopsided Cigarette<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23558,
+"en": "You got a <Color:8>Black Jewel<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23559,
+"en": "You got a <Color:8>Red Jewel<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23560,
+"en": "You got a <Color:8>Zero Jewel<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23561,
+"en": "You got a <Color:8>Lucky Tile<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23562,
+"en": "You got a <Color:8>1-2-3 Gum<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23563,
+"en": "You got a <Color:8>Trips Yokan<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23564,
+"en": "You got a <Color:8>10-10-1 Charm<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23565,
+"en": "You got a <Color:8>Give-up Piece<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23566,
+"en": "You got a <Color:8>Piss Mountain Stone<Color:Default>.",
+"ctx": "diálogo uid00100303 + diálogo uid00330025 …"
+},
+{
+"id": 23567,
+"en": "I'll only give you an item pack once, so take good care of it.",
+"ctx": "diálogo uid00100303"
+},
+{
+"id": 23568,
+"en": "If you lose it, I'll give you another one.",
+"ctx": "diálogo uid00100303"
+},
+{
+"id": 23569,
+"en": "Don't worry, there's no strings attached.",
+"ctx": "diálogo uid00100303"
+},
+{
+"id": 23570,
+"en": "Sorry, I don't have anything for you yet.",
+"ctx": "diálogo uid00100303"
+},
+{
+"id": 23571,
+"en": "『GREE』っていうゲームサービスのサイトから入れる\nんスが、それにちょっとお得な情報がありまして。",
+"ctx": "diálogo uid00100304"
+},
+{
+"id": 23572,
+"en": "So ya don't have a boyfriend, Haruka-chan?",
+"ctx": "diálogo uid001003e3"
+},
+{
+"id": 23573,
+"en": "Ain't that kinda sad at your age? Back in my hayday, I was fightin' 'em off left and right.",
+"ctx": "diálogo uid001003e3"
+},
+{
+"id": 23574,
+"en": "Y'know, I used to be quite the bad boy. Baddest on the block.",
+"ctx": "diálogo uid001003e3"
+},
+{
+"id": 23575,
+"en": "Everyone wanted to be with the coolest, toughest dude back in high school. That's why they all flocked straight to me.",
+"ctx": "diálogo uid001003e3"
+},
+{
+"id": 23576,
+"en": "After school, they'd pretend to run into me at the gate and be like, \"Hey, ya wanna hang out?\"",
+"ctx": "diálogo uid001003e3"
+},
+{
+"id": 23577,
+"en": "I couldn't just turn 'em down, so off we went.",
+"ctx": "diálogo uid001003e3"
+},
+{
+"id": 23578,
+"en": "Then we'd head behind the school, and a bunch of guys'd beat me up.",
+"ctx": "diálogo uid001003e3"
+},
+{
+"id": 23579,
+"en": "Wait, there's more. Every mornin' when I went to open my locker...",
+"ctx": "diálogo uid001003e3"
+},
+{
+"id": 23580,
+"en": "I'd swing it open and <Italic>BAM</Italic>! An avalanche of love letters would come floodin' out!",
+"ctx": "diálogo uid001003e3"
+},
+{
+"id": 23581,
+"en": "All of 'em said pretty much the same thing. \"Please, I want ya to be my...\"",
+"ctx": "diálogo uid001003e3"
+},
+{
+"id": 23582,
+"en": "\"Sparring partner.\"",
+"ctx": "diálogo uid001003e3"
+},
+{
+"id": 23583,
+"en": "There were others. One said, \"From the moment I laid eyes on ya, you're all I can think about!\"",
+"ctx": "diálogo uid001003e3"
+},
+{
+"id": 23584,
+"en": "\"I love everything about you. That sultry voice, those devilish eyes, those moist lips.\"",
+"ctx": "diálogo uid001003e3"
+},
+{
+"id": 23585,
+"en": "And he ended it with, \"Please go out with me.\"",
+"ctx": "diálogo uid001003e3"
+},
+{
+"id": 23586,
+"en": "But after all that, we only lasted a year.",
+"ctx": "diálogo uid001003e3"
+},
+{
+"id": 23587,
+"en": "Long story short, I've never had a girlfriend.",
+"ctx": "diálogo uid001003e3"
+},
+{
+"id": 23588,
+"en": "Haruka-chan, what's your dream job?",
+"ctx": "diálogo uid001003e4"
+},
+{
+"id": 23589,
+"en": "Really? Me, I wanna be a superhero.",
+"ctx": "diálogo uid001003e4"
+},
+{
+"id": 23590,
+"en": "Well, when I grow up, I'm gonna be a superhero no matter what!",
+"ctx": "diálogo uid001003e4"
+},
+{
+"id": 23591,
+"en": "No, I mean I'm gonna keep growin' till I'm really, <Italic>really</Italic> big!",
+"ctx": "diálogo uid001003e4"
+},
+{
+"id": 23592,
+"en": "Once I'm super ginormous, I'll start runnin' amok. Smashin' buildings n' the like.",
+"ctx": "diálogo uid001003e4"
+},
+{
+"id": 23593,
+"en": "And I'll shoot red-hot laser beams from my eyes and breathe fire from my mouth!",
+"ctx": "diálogo uid001003e4"
+},
+{
+"id": 23594,
+"en": "Ya got it all wrong. I'm sayin' I'm gonna be a superhero.",
+"ctx": "diálogo uid001003e4"
+},
+{
+"id": 23595,
+"en": "I got this fire for justice burnin' in my chest.",
+"ctx": "diálogo uid001003e4"
+},
+{
+"id": 23596,
+"en": "N' when I'm in trouble, I'll let it out and turn everythin' to ash!",
+"ctx": "diálogo uid001003e4"
+},
+{
+"id": 23597,
+"en": "Wait, there's more. The army's missiles and whatnot won't have any effect on me. I'll even be impervious to their new laser cannon!",
+"ctx": "diálogo uid001003e4"
+},
+{
+"id": 23598,
+"en": "But I am! I'm a superhero! A champion of justice!",
+"ctx": "diálogo uid001003e4"
+},
+{
+"id": 23599,
+"en": "'Course, it wouldn't be very interestin' if I were invincible.",
+"ctx": "diálogo uid001003e4"
+},
+{
+"id": 23600,
+"en": "Naturally, I'd have one key weakness.",
+"ctx": "diálogo uid001003e4"
+},
+{
+"id": 23601,
+"en": "I'd be weak to girls.",
+"ctx": "diálogo uid001003e4"
+},
+{
+"id": 23602,
+"en": "Just one look at a female monster, and it'd be all over for me.",
+"ctx": "diálogo uid001003e4"
+},
+{
+"id": 23603,
+"en": "I'd get so hot and bothered, I wouldn't be able to control myself.",
+"ctx": "diálogo uid001003e4"
+},
+{
+"id": 23604,
+"en": "Finally, all the tension would make me explode! And that would be the end of me.",
+"ctx": "diálogo uid001003e4"
+},
+{
+"id": 23605,
+"en": "So I've been thinkin' about takin' up a new hobby.",
+"ctx": "diálogo uid001003e5"
+},
+{
+"id": 23606,
+"en": "Figure I might as well do somethin' the ladies think is cool. Maybe motorcycles or somethin'.",
+"ctx": "diálogo uid001003e5"
+},
+{
+"id": 23607,
+"en": "I could go up to a girl I liked and say, \"How 'bout a spin, just you n' me?\"",
+"ctx": "diálogo uid001003e5"
+},
+{
+"id": 23608,
+"en": "Then I'd say something like, \"Let's become one with the wind.\" Pretty cool, right?",
+"ctx": "diálogo uid001003e5"
+},
+{
+"id": 23609,
+"en": "But what I really mean is, \"Our bodies are gonna be one.\"",
+"ctx": "diálogo uid001003e5"
+},
+{
+"id": 23610,
+"en": "\"I wanna hear your engine roar.\"",
+"ctx": "diálogo uid001003e5"
+},
+{
+"id": 23611,
+"en": "\"I'm gonna go full throttle on ya!\"",
+"ctx": "diálogo uid001003e5"
+},
+{
+"id": 23612,
+"en": "But motorcycles are great, huh? You can really get up close and personal with your girl.",
+"ctx": "diálogo uid001003e5"
+},
+{
+"id": 23613,
+"en": "She can't help snuggling up close to you because the seat's so small.",
+"ctx": "diálogo uid001003e5"
+},
+{
+"id": 23614,
+"en": "The two of us, bodies pressed together, feelin' the wind on our skin... I get all hot and bothered just thinkin' about it!",
+"ctx": "diálogo uid001003e5"
+},
+{
+"id": 23615,
+"en": "And my girl would feel my heart racin' as I press up against her back.",
+"ctx": "diálogo uid001003e5"
+},
+{
+"id": 23616,
+"en": "Well, yeah. I don't have a motorcycle license.",
+"ctx": "diálogo uid001003e5"
+},
+{
+"id": 23617,
+"en": "Ya know what a sidecar is? Those little things that attach to the side of a motorcycle?",
+"ctx": "diálogo uid001003e5"
+},
+{
+"id": 23618,
+"en": "'Parently you can use one with just a car license.",
+"ctx": "diálogo uid001003e5"
+},
+{
+"id": 23619,
+"en": "I hear it feels great wheelin' around in a sidecar.",
+"ctx": "diálogo uid001003e5"
+},
+{
+"id": 23620,
+"en": "The two of us would go around turns, balancin' with each other. It'd be some real teamwork.",
+"ctx": "diálogo uid001003e5"
+},
+{
+"id": 23621,
+"en": "Just like our teamwork in the sack!",
+"ctx": "diálogo uid001003e5"
+}
+]

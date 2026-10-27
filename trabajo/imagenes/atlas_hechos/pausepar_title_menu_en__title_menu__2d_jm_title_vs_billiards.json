@@ -1,0 +1,24 @@
+{
+ "textura": "pausepar_title_menu_en/title_menu/2d_jm_title_vs_billiards",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    173,
+    6,
+    249,
+    35
+   ],
+   "en": "Pool",
+   "ocr": "Pool",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 72,
+   "dejar": true
+  }
+ ]
+}

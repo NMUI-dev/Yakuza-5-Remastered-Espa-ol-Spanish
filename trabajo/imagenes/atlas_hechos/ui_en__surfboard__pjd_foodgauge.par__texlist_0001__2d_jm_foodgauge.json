@@ -1,0 +1,100 @@
+{
+ "textura": "ui_en/surfboard/pjd_foodgauge.par/texlist_0001/2d_jm_foodgauge",
+ "fuente": "times.ttf",
+ "margen": 1,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    0,
+    0,
+    72,
+    26
+   ],
+   "en": "Strength",
+   "es": "Fuerza",
+   "fuente": "times.ttf",
+   "alin": "izq",
+   "efecto": "nada",
+   "ancho_max": 66,
+   "alto": 20
+  },
+  {
+   "caja": [
+    72,
+    0,
+    144,
+    24
+   ],
+   "en": "Focus",
+   "es": "Enfoque",
+   "fuente": "times.ttf",
+   "alin": "izq",
+   "efecto": "nada",
+   "ancho_max": 66,
+   "alto": 15
+  },
+  {
+   "caja": [
+    144,
+    1,
+    216,
+    25
+   ],
+   "en": "Spirit",
+   "es": "Espíritu",
+   "fuente": "times.ttf",
+   "alin": "izq",
+   "efecto": "nada",
+   "ancho_max": 66,
+   "alto": 20,
+   "margen": 0
+  },
+  {
+   "caja": [
+    0,
+    40,
+    72,
+    64
+   ],
+   "en": "Strength",
+   "es": "Fuerza",
+   "fuente": "times.ttf",
+   "alin": "izq",
+   "efecto": "nada",
+   "ancho_max": 66,
+   "alto": 20
+  },
+  {
+   "caja": [
+    72,
+    40,
+    144,
+    64
+   ],
+   "en": "Focus",
+   "es": "Enfoque",
+   "fuente": "times.ttf",
+   "alin": "izq",
+   "efecto": "nada",
+   "ancho_max": 66,
+   "alto": 14
+  },
+  {
+   "caja": [
+    144,
+    40,
+    216,
+    64
+   ],
+   "en": "Spirit",
+   "es": "Espíritu",
+   "fuente": "times.ttf",
+   "alin": "izq",
+   "efecto": "nada",
+   "ancho_max": 66,
+   "alto": 20
+  }
+ ],
+ "ceñido": true
+}

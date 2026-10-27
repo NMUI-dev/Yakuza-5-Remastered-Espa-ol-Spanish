@@ -1,0 +1,78 @@
+(claude2, revisión FINAL es_final) faltas a corregir antes del rar
+f00 treasure_map3_unite_l: renglones mal partidos + último diminuto -> HECHO a mano (mapa_v101.py)
+f02 memo01a/01q/02a/02q: 3 de 4 tarjetas en inglés -> HECHO (memo_v101.py)
+f06 puri_button: falta el icono ✕ delante de «Cerrar» (borrado); «Anterior» más pequeño que «Cerrar/Siguiente»
+f06 rule_01_0: «Introducción»/«Nota» en letra gruesa distinta del original (fina espaciada); raya suelta a la derecha de «te pasas»
+f07 rule_baccarat4: falta la viñeta • de «Reglas del Baccarat (4-2)»
+f07 rule_baccarat6: «Apuesta realizada en EMPATE» -> «Apuesta acertada a EMPATE»; motas blancas sueltas
+f07 rule_baccarat3/5: motas sueltas en celdas («Total de...», «0, 1, 2, 3, 4 o 5»)
+f07 rule_baccarat_s_2: título «Baccarat (Super 6)» sin traducir; «4.» renglón más pequeño
+GENERAL: «Bacará» (título) vs «Reglas del Baccarat»: unificar «Bacará»
+f08 rule_baccarat_s_3/s_4/s_5: título «Baccarat (Super 6)» sin traducir; s_4 sin viñeta •; motas en cabecera de tabla
+f08 rule_billiards03: título «Billar» más pequeño que en las demás; resto «SI|f» al empezar «Si se agotan»
+f08 rule_billiards06: «Tiro de rebote» sin viñeta y fuera de margen
+f09 rule_blackjack0: «1 or 11» bajo las cartas sin traducir (1 o 11)
+f09 rule_countup_0: «SIMPLE»/«DOBLE» pisan el icono de la diana; rayita «_» suelta antes de «Área doble/triple»; «25 or 50POINTS»/«50POINTS» sin traducir
+f09 rule_cricket_0: «Introducción»/«Nota» en letra gruesa distinta; «CERRADO» más pequeño que el original
+f12 rule_h_dance_battle0: «If Si tienes éxito» mezcla; títulos de página («Batalla de baile») más pequeños que el original en TODAS las rule_h_* / rule_kabu / rule_hanafuda
+f12 rule_h_dance_battle3: «Power/Low/High» del medidor sin traducir (Potencia/Baja/Alta)
+f13 rule_h_live_battle4: «Batalla en vivo (6)» título pequeño
+f13 rule_kabu3: «una» con resto pegado (u̶n̶a) al inicio de renglón
+f13 rule_kabu7: «Cuatro-seis» mal alineado (no queda al lado de su texto: renglón 2 de Diez-diez-uno corrido)
+
+==== (claude1) REVISIÓN INDEPENDIENTE 25-10-2026 14:17 de es_v101 tal como está ahora (171 texturas, todo menos 78 mgs y 8 bacará) ====
+(hojas original|nuestra: revision_v101/claude1_revision/h00..h35.png + lista.txt)
+-- GRAVES --
+(claude1) rule_roulette_hai0: tabla ROTA: letra diminuta, manchas grises, «Apuesta» encima de otros textos, faltan los multiplicadores x36/x18/x12...
+(claude1) rule_roulette_kou1 y kou2: textos de explicación microscópicos («Cubre 11 números...») y manchas encima de las casillas 31-36
+(claude1) rule_shougi0: el tablero de «Rey» está deformado (mancha oscura y amarilla que baja hasta el de «Lancero»)
+(claude1) rule_mjyaku20: «Límite natural» sigue EN INGLÉS («A completed hand wherein... 13 han / más.»)
+(claude1) rule_mjrule12: Kan: «una cuarta coincidente / ficha», «para convierte(s) ese pon» (-> convertir); último renglón «Cada vez que se anuncia un kan...» DIMINUTO; Chi: renglones 2-3 más pequeños, «Esa» en mayúscula tras coma
+(claude1) rule_mjrule9: título «Consejos para principiantes» pegado al texto; «...viento de / asiento Puedes ganar» (título pegado al cuerpo); cabeceras perdieron el ROJO; renglón partido «una de las formas / más accesibles»
+HECHO (claude2: píldora redonda, dardos2) (claude1) rule_darts_cricket_00/04/06/07/08/10/11: la píldora azul del título se ha convertido en un RECTÁNGULO con restos de la píldora a los lados
+HECHO (claude2: ya no lo pisa dardos_v101) (claude1) rule_darts_cricket_01/05/09: bocadillo «Gana la puntuación más alta»: restos rojos «Gana» sobre la etiqueta «Player» y «Susumu Yamagata» emborronado
+(claude1) rule_poker_yaku1: «Cinco cartas en orden consecutive» (inglés) -> consecutivo
+HECHO (claude2: NIVEL +1) (claude1) 2d_jm_tougi_result: «LEVEL UP» sin traducir
+-- ESTILO / RESTOS --
+HECHO (claude2: dardos2, un estilo; título REGLAS DE COUNT-UP en ambas) (claude1) rule_darts_*: 3 estilos distintos de título (01_x blanco grueso; countup_0 fino que toca los bordes; cricket_02/03 letra estrecha alta con «《》» en vez de ««»»); cricket_03/05/09 motas en «REGLAS DEL CRICKET»; countup_0 «Regla de cuenta ascendente» vs countup_1 «Reglas de Count-Up» (unificar); countup_0 cambió el rótulo de pantalla «COUNT-UP» a «Count-Up»
+HECHO (claude2) (claude1) rule_darts_cricket_10: motas a los lados de «1 acierto + bono»
+HECHO (claude2: rojo) (claude1) rule_darts_cricket_04/08: se perdió el rojo de «seis números elegidos al azar» / «siete números ocultos»
+HECHO (claude2: intro_dardos_v101) (claude1) rule_01_0 (f06 sigue): «Introducción»/«Nota» desbordan su pestaña; raya «|» tras «te pasas»; «Objetivo: ...» se sale del marco por la derecha; «JUEGOS 01» gris en vez de blanco
+HECHO (claude2: intro_dardos_v101) (claude1) rule_cricket_0 (f09 sigue): «Introducción»/«Nota» desbordan la pestaña; ● pisa la primera letra de cada viñeta; motita sobre el primer ●; sellos «CLOSE» sin traducir en los iconos
+HECHO (claude2: intro_dardos_v101) (claude1) rule_countup_0 (f09 sigue): «25 or 50POINTS»/«50POINTS» sin traducir; «DOBLE» pisa la diana; rayas «_» antes de «Área doble/triple»; ● pisa la «C» de «Consigue»
+(claude1) rule_kyaba1: «Respuesta afirmativa» se sale de su caja; «Respuesta negativa» más pequeña que las otras
+(claude1) rule_kyaba4/kyaba5/mjrule11: se perdieron los colores naranja/rojo de las palabras clave; renglones partidos a destiempo («vale la / pena», «si / pides», «en la / página siguiente»); kyaba5 título «Consejos (2)» más pequeño que «Consejos (1)»
+(claude1) rule_mjrule13: renglón partido «puede / aumentar»; rule_poker2: las dos notas «*» juntas en un párrafo (van en 2 renglones)
+(claude1) rule_poker_ohama3 / pai3: primer párrafo más pequeño; «(El botón del / dealer gira...» partido (iba en su renglón); pai1: último párrafo más pequeño
+(claude1) rule_poker_ohama0 / pai0: ««Cómo ganar»» con comillas en una viñeta -> «Cómo ganar:»
+(claude1) GENERAL: «Póquer» (rule_poker1-3, ohama, pai) vs «Póker» (rule_poker_yaku0-3): unificar
+(claude1) rule_poker_yaku0/1/2/3: punto «·» suelto antes de «Una pareja», «Escalera», «Cuádruple», «Carta alta»; cabeceras de distinto tamaño; yaku3 «divide» baja y pisa la raya
+(claude1) rule_shougi0/1: punto «·» suelto antes de «Movimiento» / «Promoción»; rule_shougi4: cabeceras de distinto tamaño
+(claude1) rule_mjyaku10: «Doble / Riichi:» partido (la cabecera es «Doble riichi:»); «SanKantsu» sin espacio
+(claude1) rule_mjyaku03: Haitei/Houtei cabeceras más pequeñas que Kazehai; «asiento.» pisa la raya
+(claude1) rule_mjyaku22: «todos cerrados o todos abiertos» -> «cerrados o abiertos» (el original no exige que sean todos iguales)
+(claude1) rule_mjrule4: en la captura quedan manchas donde estaban «East 1» y «Kazuma Kiryu»
+(claude1) rule_kabu2/3/7/8, rule_hanafuda1, rule_h_live_battle4: títulos de página siguen más pequeños que el original; kabu7 «Cuatro-seis» sin «:» y columnas desalineadas; kabu7 dice «banca» y el resto «dealer»
+HECHO (claude2) (claude1) 2d_yk_map_yukiyama: «Montaña» más estrecha y pequeña que «Nevada»
+HECHO (claude2, margen 18 px) (claude1) 2d_jm_ac_l_tegatawo / ac_oe_saigou / bc_boss_kurosawa / bc_boss_yahatabuka / gp_hdeath / gp_ranker / gp_street: el texto toca los dos bordes (riesgo de corte; ¿«SUBORDINADOS DE YAHATA» ya cortada a la derecha?)
+HECHO (claude2: botones_puri_v101) (claude1) puri_button y puri_button_bb: «Anterior/Cerrar/Siguiente» en gris y más fino que el original (blanco), con cajas oscuras detrás
+HECHO (claude2: copia de la de pausepar) (claude1) ui puri_text: «Elige la foto que quieres cambiar» en letra estrecha distinta de la de pausepar puri_text
+HECHO (claude2) (claude1) 2d_jm_title_vs_billiards: «Billar» borroso sobre fondo emborronado (el original «Pool» es nítido)
+HECHO (claude2: umbral 75) (claude1) 2d_jm_tougi_okite y okite_ranking: restos fantasma claros del inglés a la derecha de varios renglones
+HECHO (claude2: tamaño de «Normal», 1.° sin rayita; y «Elige una canción» blanco con borde rojo como el original) (claude1) taiko_common_02 / taiko_music_select_01 / _02 (las 2 copias): «Fácil»/«Difícil» verticales más finas y pequeñas que «Normal»; «3.º» con rayita debajo
+HECHO (claude2: DE LLENO) (claude1) 2d_jm_mg_yukigassen: «STRIKE» sin traducir (también en _pt «¡STRIKE!»); «1.º» amarillo borroso
+HECHO (claude2) (claude1) 2d_yk_h_skill: «CERRADO» en letra estrecha con caja oscura (el original es fina y clara)
+HECHO (claude2) (claude1) 2d_yk_yakyu_result: la 4.ª «Victoria» mucho más borrosa que el original
+HECHO (claude2) (claude1) 2d_jm_yuki_mission: «Elegir lista» pisa «Armas / Equipo»
+HECHO (claude2: Ocasión de bomba, Nivel, Aciertos restantes, Hundida) (claude1) 2d_yk_mg_batting000: «Chance de bomba» -> «Ocasión de bomba»; «Pista» por Course -> «Nivel»; «Aciertos ... Resto» -> «Aciertos restantes»
+(claude1) Revisadas y BIEN: los 10 nombres propios sin tocar (taxi, puri_*), treasure_map, memos del reportero, puri_* frases, caption/chact, rule_billiards, blackjack, chinchiro, dance_battle, hanafuda texto, mahjong restantes.
+
+==== (claude1, cruzada) 25-10-2026 15:33 — revisión de tus 77 (revision_cruzada_claude2/c00..c19), comprobado también en los .dds REALES de es_v101 ====
+HECHO (claude2) (claude1, cruzada) GRAVE 2d_jm_taxi_result: «LEVEUP» sigue EN INGLÉS (abajo a la derecha) -> «SUBES DE NIVEL» (como en el resto del juego).
+HECHO (claude2) (claude1, cruzada) 2d_jm_tougi_result: «Emoción / Nivel» al revés -> «Nivel de / emoción»; «NIVEL   +1» con hueco raro (mejor «NIVEL +1» junto o «SUBES DE NIVEL»).
+HECHO (claude2) (claude1, cruzada) 2d_jm_mg_yukigassen_pt: «¡GOLPE!» (antes de «a JUGADOR1») diminuto y borroso comparado con «HIT!» del original y con «¡LANZA!»/«¡DE LLENO!».
+HECHO (claude2) (claude1, cruzada) rule_darts_* (las 18): el texto de explicación del recuadro inferior sale más pequeño que el original en todas, aunque quepa (p. ej. 01_0 «Intenta reducir...»).
+HECHO (claude2) (claude1, cruzada) rule_darts_01_3: el texto cian queda «...y la partida sigue con el / siguiente jugador.» (2.º renglón huérfano); mejor partir en el medio como el original.
+(claude1, cruzada) OJO hojas viejas: c17 F_rule_cricket_0 y c18 F_taikoV_taiko_music_select_02 muestran «SINGLE 1MARK…/CLOSE» y «Easy/Normal/Hard» en inglés, pero los .dds REALES ya están bien (miré es_v101): solo es la hoja desfasada.
+(claude1, cruzada) BIEN: rótulos 2d_jm_ac/bc/gp/chact, Ultimate Essence, taiko (las 3), billar, batting000, h_skill, yuki_mission, map_yukiyama, puri_button/_bb (ya iguales), puri_text, medidor, mapa, cricket0, 01_0, countup_0, rule_cricket_0, s_sa_001 «ALMA».
+(claude1, cruzada 2) 25-10-2026 15:36 2d_jm_mg_yukigassen_pt: al agrandar «¡GOLPE!» se borró la «A» final de «SAEJIMA» (columna izquierda, 3.ª fila: ahora «SAEJIM»). Antes estaba bien. Lo demás de las 5: BIEN.

@@ -1,0 +1,25 @@
+{
+ "textura": "pausepar_idol_work_en/idol_work/2d_yk_playspot01",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    103,
+    119,
+    190,
+    139
+   ],
+   "en": "Refuse to Lose",
+   "ocr": "Refuse to Lose",
+   "es": "Negarse a perder",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 83,
+   "dejar": true
+  }
+ ]
+}

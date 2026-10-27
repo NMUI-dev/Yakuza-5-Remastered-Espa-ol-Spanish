@@ -1,0 +1,65 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_airhockey.par/texlist/2d_yk_airhockey_rule",
+ "fuente": "timesbd.ttf",
+ "margen": 1,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    0,
+    128,
+    20
+   ],
+   "en": "Beginner",
+   "es": "Principiante",
+   "fuente": "timesbd.ttf",
+   "alin": "centro",
+   "efecto": "nada",
+   "ancho_max": 120
+  },
+  {
+   "caja": [
+    128,
+    0,
+    256,
+    20
+   ],
+   "en": "Intermediate",
+   "es": "Intermedio",
+   "fuente": "timesbd.ttf",
+   "alin": "centro",
+   "efecto": "nada",
+   "ancho_max": 120
+  },
+  {
+   "caja": [
+    0,
+    20,
+    128,
+    38
+   ],
+   "en": "Confirm",
+   "es": "Confirmar",
+   "fuente": "timesbd.ttf",
+   "alin": "centro",
+   "efecto": "nada",
+   "ancho_max": 120
+  },
+  {
+   "caja": [
+    128,
+    20,
+    256,
+    38
+   ],
+   "en": "Advanced",
+   "es": "Avanzado",
+   "fuente": "timesbd.ttf",
+   "alin": "centro",
+   "efecto": "nada",
+   "ancho_max": 120
+  }
+ ],
+ "ceñido": true
+}

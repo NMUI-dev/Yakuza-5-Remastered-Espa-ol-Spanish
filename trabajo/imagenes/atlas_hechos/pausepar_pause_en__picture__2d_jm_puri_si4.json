@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_si4",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    43,
+    155,
+    448,
+    256
+   ],
+   "en": "Champagne! Put it on my tab!",
+   "ocr": "Champagne! Putitonmytab!",
+   "es": "¡Champán! ¡Ponlo en mi cuenta!",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 405
+  }
+ ]
+}

@@ -1,0 +1,162 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_mjrule5",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    445,
+    7,
+    579,
+    46
+   ],
+   "en": "Mahjong",
+   "ocr": "Mahjong",
+   "es": "Mahjong",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 130,
+   "dejar": true
+  },
+  {
+   "caja": [
+    50,
+    82,
+    230,
+    118
+   ],
+   "en": "Game Layout",
+   "ocr": "GameLayout",
+   "es": "Diseño de la Partida",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 176,
+   "dejar": true
+  },
+  {
+   "caja": [
+    116,
+    146,
+    281,
+    179
+   ],
+   "en": "Discard Area:",
+   "ocr": "DiscardArea:",
+   "es": "Área de Descartar:",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 165,
+   "dejar": true
+  },
+  {
+   "caja": [
+    115,
+    179,
+    928,
+    213
+   ],
+   "en": "The region below the player name is the discard area. You can get an",
+   "ocr": "The region below the player name is the discard area. You can get an",
+   "es": "La zona debajo del Nombre del Jugador es el área de Descartar. Se puede obtener una",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 813,
+   "dejar": true
+  },
+  {
+   "caja": [
+    116,
+    212,
+    866,
+    244
+   ],
+   "en": "idea of the other players' hands by looking at what they discard.",
+   "ocr": "idea of the other players' hands by looking atwhat they discard.",
+   "es": "idea de las Manos de los Otros Jugadores al observar lo que Descartan.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 750,
+   "dejar": true
+  },
+  {
+   "caja": [
+    110,
+    275,
+    250,
+    308
+   ],
+   "en": "Meld Area:",
+   "ocr": "MeldArea:",
+   "es": "Área de fusiones:",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 140,
+   "dejar": true
+  },
+  {
+   "caja": [
+    118,
+    309,
+    927,
+    340
+   ],
+   "en": "The region to the right of your hand is your meld area. Sets made from",
+   "ocr": "The region to the right of your hand is your meld area. Sets made from",
+   "es": "La zona a la derecha de tus Manos es tu área de fusiones. Los conjuntos formados a partir de",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 809,
+   "dejar": true
+  },
+  {
+   "caja": [
+    117,
+    373,
+    928,
+    406
+   ],
+   "en": "cannot take them apart to change up your hand. Remember, your",
+   "ocr": "cannot take them apart to change up your hand. Remember, your",
+   "es": "No puedes Tomar las fichas por separado para Cambiar tu mano. Recuerda tus fichas.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 807,
+   "dejar": true
+  },
+  {
+   "caja": [
+    117,
+    403,
+    497,
+    438
+   ],
+   "en": "melds can be seen by everyone!",
+   "ocr": "melds canbe seenby everyone!",
+   "es": "¡Los conjuntos pueden verse por todos!",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 376,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: lo hace el PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

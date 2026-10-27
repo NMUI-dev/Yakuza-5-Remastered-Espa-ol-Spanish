@@ -1,0 +1,53 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_kh03",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    44,
+    10,
+    358,
+    53
+   ],
+   "en": "If you lay a finger on",
+   "ocr": "Ifyoulayafingeron",
+   "es": "Si pones un dedo en",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 314
+  },
+  {
+   "caja": [
+    40,
+    35,
+    364,
+    75
+   ],
+   "en": "my Haruka, I'll kill you.",
+   "ocr": "myHaruka,I'llkillyou.",
+   "es": "mi Haruka, te mato.",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 324
+  },
+  {
+   "caja": [
+    211,
+    175,
+    482,
+    247
+   ],
+   "en": "Hi, I'm Haruka!",
+   "ocr": "HiOmHaruka!",
+   "es": "¡Hola, soy Haruka!",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 267
+  }
+ ]
+}

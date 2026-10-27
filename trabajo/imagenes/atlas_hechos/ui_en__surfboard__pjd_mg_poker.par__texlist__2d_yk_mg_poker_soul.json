@@ -1,0 +1,302 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_poker.par/texlist/2d_yk_mg_poker_soul",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    277,
+    10,
+    500,
+    36
+   ],
+   "en": "LITTLE BLIND",
+   "es": "CIEGA PEQUEÑA",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 220,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     235,
+     235,
+     235
+    ],
+    "contorno": [
+     [
+      25,
+      25,
+      25
+     ],
+     2
+    ],
+    "brillo": null
+   },
+   "alto": 21
+  },
+  {
+   "caja": [
+    275,
+    40,
+    500,
+    69
+   ],
+   "en": "BIG BLIND",
+   "es": "CIEGA GRANDE",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 220,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     235,
+     235,
+     235
+    ],
+    "contorno": [
+     [
+      25,
+      25,
+      25
+     ],
+     2
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    277,
+    76,
+    347,
+    104
+   ],
+   "en": "BET",
+   "es": "IR",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 66,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     235,
+     235,
+     235
+    ],
+    "contorno": [
+     [
+      25,
+      25,
+      25
+     ],
+     2
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    352,
+    74,
+    480,
+    106
+   ],
+   "en": "CHECK",
+   "es": "PASAR",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 124,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     235,
+     235,
+     235
+    ],
+    "contorno": [
+     [
+      25,
+      25,
+      25
+     ],
+     2
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    277,
+    112,
+    375,
+    142
+   ],
+   "en": "CALL",
+   "es": "VER",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 94,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     235,
+     235,
+     235
+    ],
+    "contorno": [
+     [
+      25,
+      25,
+      25
+     ],
+     2
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    377,
+    110,
+    489,
+    142
+   ],
+   "en": "RAISE",
+   "es": "SUBIR",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 108,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     235,
+     235,
+     235
+    ],
+    "contorno": [
+     [
+      25,
+      25,
+      25
+     ],
+     2
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    275,
+    146,
+    375,
+    178
+   ],
+   "en": "FOLD",
+   "es": "NO IR",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 96,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     235,
+     235,
+     235
+    ],
+    "contorno": [
+     [
+      25,
+      25,
+      25
+     ],
+     2
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    50,
+    416,
+    220,
+    442
+   ],
+   "en": "CHIPS",
+   "es": "FICHAS",
+   "fuente": "timesi.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 160,
+   "fondo": "lama",
+   "alto": 17
+  },
+  {
+   "caja": [
+    50,
+    443,
+    220,
+    468
+   ],
+   "en": "BET",
+   "es": "APUESTA",
+   "fuente": "timesi.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 160,
+   "fondo": "lama",
+   "alto": 17
+  },
+  {
+   "caja": [
+    50,
+    470,
+    260,
+    496
+   ],
+   "en": "TOTAL BET",
+   "es": "APUESTA TOTAL",
+   "fuente": "timesi.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 200,
+   "fondo": "lama",
+   "alto": 17
+  }
+ ]
+}

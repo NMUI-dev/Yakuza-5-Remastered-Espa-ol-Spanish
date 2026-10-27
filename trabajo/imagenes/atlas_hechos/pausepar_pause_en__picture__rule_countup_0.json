@@ -1,0 +1,409 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_countup_0",
+ "fuente": "verdana.ttf",
+ "margen": 0,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    84,
+    3,
+    246,
+    32
+   ],
+   "en": "COUNT-UP",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    294,
+    44,
+    394,
+    76
+   ],
+   "en": "SINGLE",
+   "es": "SIMPLE",
+   "fuente": "timesbd.ttf",
+   "alin": "centro",
+   "ancho_max": 94,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "margen": 0
+  },
+  {
+   "caja": [
+    510,
+    44,
+    618,
+    76
+   ],
+   "en": "DOUBLE",
+   "es": "DOBLE",
+   "fuente": "timesbd.ttf",
+   "alin": "centro",
+   "ancho_max": 102,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "margen": 0
+  },
+  {
+   "caja": [
+    746,
+    44,
+    842,
+    74
+   ],
+   "en": "TRIPLE",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    312,
+    108,
+    505,
+    136
+   ],
+   "en": "Single Area(x1)",
+   "es": "",
+   "fuente": "verdana.ttf",
+   "alin": "centro",
+   "ancho_max": 187,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "margen": 0,
+   "es_propuesto": "Área simple (x1)",
+   "dejar": true
+  },
+  {
+   "caja": [
+    526,
+    108,
+    730,
+    136
+   ],
+   "en": "Double Area(x2)",
+   "es": "",
+   "fuente": "verdana.ttf",
+   "alin": "centro",
+   "ancho_max": 198,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "margen": 0,
+   "es_propuesto": "Área doble (x2)",
+   "dejar": true
+  },
+  {
+   "caja": [
+    768,
+    108,
+    955,
+    136
+   ],
+   "en": "Triple Area(x3)",
+   "es": "",
+   "fuente": "verdana.ttf",
+   "alin": "centro",
+   "ancho_max": 181,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "margen": 0,
+   "es_propuesto": "Área triple (x3)",
+   "dejar": true
+  },
+  {
+   "caja": [
+    285,
+    167,
+    357,
+    198
+   ],
+   "en": "BULL",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    413,
+    150,
+    578,
+    177
+   ],
+   "en": "25 or 50POINTS",
+   "es": "25 o 50 PUNTOS",
+   "fuente": "verdana.ttf",
+   "alin": "centro",
+   "ancho_max": 159,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "margen": 0
+  },
+  {
+   "caja": [
+    423,
+    180,
+    534,
+    207
+   ],
+   "en": "50POINTS",
+   "es": "50 PUNTOS",
+   "fuente": "verdana.ttf",
+   "alin": "centro",
+   "ancho_max": 105,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "margen": 0
+  },
+  {
+   "caja": [
+    305,
+    212,
+    548,
+    243
+   ],
+   "en": "Bull's-eye: 25 or 50 pts.",
+   "es": "",
+   "fuente": "verdana.ttf",
+   "alin": "centro",
+   "ancho_max": 237,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "margen": 0,
+   "alto": 26,
+   "es_propuesto": "Bull: 25 o 50 pts.",
+   "dejar": true
+  },
+  {
+   "caja": [
+    572,
+    212,
+    790,
+    243
+   ],
+   "en": "Max Pts: Triple 20.",
+   "es": "",
+   "fuente": "verdana.ttf",
+   "alin": "centro",
+   "ancho_max": 212,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "margen": 0,
+   "alto": 26,
+   "es_propuesto": "Máx. pts.: triple 20.",
+   "dejar": true
+  },
+  {
+   "caja": [
+    798,
+    212,
+    958,
+    243
+   ],
+   "en": "1 round = 3 throws.",
+   "es": "",
+   "fuente": "verdana.ttf",
+   "alin": "centro",
+   "ancho_max": 154,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "margen": 0,
+   "alto": 26,
+   "es_propuesto": "1 ronda = 3 tiros.",
+   "dejar": true
+  },
+  {
+   "caja": [
+    148,
+    252,
+    910,
+    362
+   ],
+   "en": "comodin",
+   "es": "·",
+   "fuente": "verdana.ttf",
+   "alin": "izq",
+   "ancho_max": 4,
+   "efecto": "nada",
+   "color": [
+    0,
+    55,
+    85
+   ],
+   "fondo": "lama",
+   "alto": 2,
+   "margen": 0
+  },
+  {
+   "caja": [
+    178,
+    362,
+    910,
+    424
+   ],
+   "en": "comodin",
+   "es": "·",
+   "fuente": "verdana.ttf",
+   "alin": "izq",
+   "ancho_max": 4,
+   "efecto": "nada",
+   "color": [
+    0,
+    55,
+    85
+   ],
+   "fondo": "lama",
+   "alto": 2,
+   "margen": 0
+  },
+  {
+   "caja": [
+    150,
+    255,
+    700,
+    284
+   ],
+   "en": "<Victory Conditions>",
+   "es": "<Condiciones de victoria>",
+   "fuente": "verdana.ttf",
+   "alin": "izq",
+   "ancho_max": 544,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "margen": 0
+  },
+  {
+   "caja": [
+    150,
+    284,
+    700,
+    312
+   ],
+   "en": "Attain the highest total score.",
+   "es": "Consigue la puntuación total más alta.",
+   "fuente": "verdana.ttf",
+   "alin": "izq",
+   "ancho_max": 544,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "margen": 0
+  },
+  {
+   "caja": [
+    150,
+    336,
+    500,
+    364
+   ],
+   "en": "<Summary>",
+   "es": "<Resumen>",
+   "fuente": "verdana.ttf",
+   "alin": "izq",
+   "ancho_max": 344,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "margen": 0
+  },
+  {
+   "caja": [
+    176,
+    364,
+    700,
+    392
+   ],
+   "en": "Gain the highest score.",
+   "es": "Consigue la puntuación más alta.",
+   "fuente": "verdana.ttf",
+   "alin": "izq",
+   "ancho_max": 518,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "margen": 0
+  },
+  {
+   "caja": [
+    176,
+    392,
+    900,
+    420
+   ],
+   "en": "Compete for the highest total after three rounds.",
+   "es": "Compite por el total más alto tras tres rondas.",
+   "fuente": "verdana.ttf",
+   "alin": "izq",
+   "ancho_max": 718,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "margen": 0
+  }
+ ]
+}

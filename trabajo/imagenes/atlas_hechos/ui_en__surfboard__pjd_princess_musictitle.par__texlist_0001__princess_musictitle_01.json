@@ -1,0 +1,86 @@
+{
+ "textura": "ui_en/surfboard/pjd_princess_musictitle.par/texlist_0001/princess_musictitle_01",
+ "fuente": "segoeuib.ttf",
+ "margen": 6,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    0,
+    24,
+    512,
+    96
+   ],
+   "en": "So Much More!",
+   "es": "",
+   "fuente": "consola.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 500,
+   "dejar": true
+  },
+  {
+   "caja": [
+    0,
+    134,
+    512,
+    200
+   ],
+   "en": "So Much More!",
+   "es": "",
+   "fuente": "consola.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 500,
+   "dejar": true
+  },
+  {
+   "caja": [
+    0,
+    437,
+    300,
+    467
+   ],
+   "en": "Lyrics by Ryosuke Horii",
+   "es": "Letra de Ryosuke Horii",
+   "fuente": "consolab.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 288
+  },
+  {
+   "caja": [
+    0,
+    477,
+    300,
+    507
+   ],
+   "en": "Music by ZENTA",
+   "es": "Música de ZENTA",
+   "fuente": "consolab.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 288
+  }
+ ]
+}

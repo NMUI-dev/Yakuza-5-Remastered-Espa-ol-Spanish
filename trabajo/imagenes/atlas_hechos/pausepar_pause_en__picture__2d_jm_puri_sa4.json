@@ -1,0 +1,24 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_sa4",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    111,
+    154,
+    407,
+    236
+   ],
+   "en": "Request me!",
+   "ocr": "Request me!",
+   "es": "¡Pídeme una cita!",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 292,
+   "alto": 59
+  }
+ ]
+}

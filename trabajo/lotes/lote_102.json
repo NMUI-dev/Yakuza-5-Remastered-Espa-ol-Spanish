@@ -1,0 +1,877 @@
+[
+{
+"id": 25054,
+"en": "I see. So you want to find places that serve local specialties.",
+"ctx": "diálogo uid00130339"
+},
+{
+"id": 25055,
+"en": "Exactly. But to find the best places, you have to ask the locals. That's where you come in.",
+"ctx": "diálogo uid00130339"
+},
+{
+"id": 25056,
+"en": "Hmm... I'm no expert, but if I find a good place, I'll let you know.",
+"ctx": "diálogo uid00130339"
+},
+{
+"id": 25057,
+"en": "Great! I can hardly wait!",
+"ctx": "diálogo uid00130339"
+},
+{
+"id": 25058,
+"en": "Ah, there you are. Find any great places?",
+"ctx": "diálogo uid00130339 + diálogo uid0013033b …"
+},
+{
+"id": 25059,
+"en": "Sorry, nothing new to report.",
+"ctx": "diálogo uid00130339"
+},
+{
+"id": 25060,
+"en": "Oh, really? Well, please stop by again. I'll be here!",
+"ctx": "diálogo uid00130339 + diálogo uid0013033b …"
+},
+{
+"id": 25061,
+"en": "(No eateries to recommend right now. Maybe I'll go try somewhere new and come back later.)",
+"ctx": "diálogo uid00130339"
+},
+{
+"id": 25062,
+"en": "(Hmm, which one should I recommend?)",
+"ctx": "diálogo uid00130339 + diálogo uid0013033c"
+},
+{
+"id": 25063,
+"en": "(Maybe next time.)",
+"ctx": "diálogo uid00130339 + diálogo uid0013033c …"
+},
+{
+"id": 25064,
+"en": "(Maybe I should recommend Hakataso.)",
+"ctx": "diálogo uid00130339"
+},
+{
+"id": 25065,
+"en": "Follow me.",
+"ctx": "diálogo uid00130339"
+},
+{
+"id": 25066,
+"en": "Right behind you!",
+"ctx": "diálogo uid00130339 + diálogo uid0013033b …"
+},
+{
+"id": 25067,
+"en": "(Maybe I should recommend Hango Zosui Yama.)",
+"ctx": "diálogo uid00130339"
+},
+{
+"id": 25068,
+"en": "(Maybe I should recommend Udon West.)",
+"ctx": "diálogo uid00130339"
+},
+{
+"id": 25069,
+"en": "Brrr... Hokkaido sure is cold.",
+"ctx": "diálogo uid0013033b"
+},
+{
+"id": 25070,
+"en": "I hope I find a good place soon. Hopefully a really warm one, too.",
+"ctx": "diálogo uid0013033b"
+},
+{
+"id": 25071,
+"en": "(What's with him? Wait, haven't I seen that guy before?)",
+"ctx": "diálogo uid0013033b"
+},
+{
+"id": 25072,
+"en": "Brrr... Ugh...",
+"ctx": "diálogo uid0013033b"
+},
+{
+"id": 25073,
+"en": "Hey, you there. I can't shake the feelin' I've seen you before. What's your name?",
+"ctx": "diálogo uid0013033b"
+},
+{
+"id": 25074,
+"en": "Ever hear of that celebrity chef Tatsuya? Well, that's me. Maybe you've seen me on TV or something.",
+"ctx": "diálogo uid0013033b"
+},
+{
+"id": 25075,
+"en": "Oh, right. That's where I've seen you. You're some kinda cooking master, ain't you?",
+"ctx": "diálogo uid0013033b"
+},
+{
+"id": 25076,
+"en": "Well, I'm not just a cook, exactly.",
+"ctx": "diálogo uid0013033b"
+},
+{
+"id": 25077,
+"en": "These days, I'm doing this spot on a TV show where I help out local eateries across Japan by coming up with new dishes!",
+"ctx": "diálogo uid0013033b"
+},
+{
+"id": 25078,
+"en": "I don't get it. If you got ideas for new dishes, why don't you use 'em at your own restaurant?",
+"ctx": "diálogo uid0013033b"
+},
+{
+"id": 25079,
+"en": "But that's the whole idea for the program, helping others with my new dishes.",
+"ctx": "diálogo uid0013033b"
+},
+{
+"id": 25080,
+"en": "With that in mind, I have to ask. Could you recommend any eateries here in Tsukimino?",
+"ctx": "diálogo uid0013033b"
+},
+{
+"id": 25081,
+"en": "I ain't from around here, so I really can't say.",
+"ctx": "diálogo uid0013033b"
+},
+{
+"id": 25082,
+"en": "Oh, you're a tourist? Ah, no matter. I still have to ask.",
+"ctx": "diálogo uid0013033b"
+},
+{
+"id": 25083,
+"en": "Would you let me know if you find a great place that serves local cuisine here in Tsukimino?",
+"ctx": "diálogo uid0013033b"
+},
+{
+"id": 25084,
+"en": "I'll go try it out, and hopefully it will help me come up with an idea for a new dish.",
+"ctx": "diálogo uid0013033b"
+},
+{
+"id": 25085,
+"en": "You want me to find tasty eats for you? Ain't that your job?",
+"ctx": "diálogo uid0013033b"
+},
+{
+"id": 25086,
+"en": "Sure, but there's a limit to how much one person can do. I'll take all the help I can get.",
+"ctx": "diálogo uid0013033b"
+},
+{
+"id": 25087,
+"en": "You got a point there.",
+"ctx": "diálogo uid0013033b"
+},
+{
+"id": 25088,
+"en": "Think of it as a good deed! But I understand if you're too busy.",
+"ctx": "diálogo uid0013033b"
+},
+{
+"id": 25089,
+"en": "Fine. I'll give you a hand if I get around to it.",
+"ctx": "diálogo uid0013033b"
+},
+{
+"id": 25090,
+"en": "Thank you! And don't worry. I'll make it worth your while!",
+"ctx": "diálogo uid0013033b"
+},
+{
+"id": 25091,
+"en": "I'll use my vast experience with both cooking food and eating it to teach you how to make the most of your meals.",
+"ctx": "diálogo uid0013033b"
+},
+{
+"id": 25092,
+"en": "Fine, fine. I'll let ya know if I find anything.",
+"ctx": "diálogo uid0013033b"
+},
+{
+"id": 25093,
+"en": "Great, thanks! I'm looking forward to your recommendations!",
+"ctx": "diálogo uid0013033b"
+},
+{
+"id": 25094,
+"en": "So, cooking is a combination of ingredients? I'll try remembering that when I eat.",
+"ctx": "diálogo uid0013033b"
+},
+{
+"id": 25095,
+"en": "There are emotions and stories behind every dish, huh? I ain't no cook, but I think I get it.",
+"ctx": "diálogo uid0013033b"
+},
+{
+"id": 25096,
+"en": "That was a lot to remember. But I think what you're sayin' is, I gotta enjoy eatin' tasty food. I can do that.",
+"ctx": "diálogo uid0013033b"
+},
+{
+"id": 25097,
+"en": "I heard there's a <Color:7>new café<Color:Default> around here. I'll think of a dish fit for that kind of a place.",
+"ctx": "diálogo uid0013033b + diálogo uid0013033d"
+},
+{
+"id": 25098,
+"en": "Sorry, got nothin' for you.",
+"ctx": "diálogo uid0013033b"
+},
+{
+"id": 25099,
+"en": "(Don't have anywhere to recommend. I'll come back later after I've tried somewhere new.)",
+"ctx": "diálogo uid0013033b + diálogo uid0013033c"
+},
+{
+"id": 25100,
+"en": "(Which joint should I recommend?)",
+"ctx": "diálogo uid0013033b"
+},
+{
+"id": 25101,
+"en": "(Never mind, maybe later.)",
+"ctx": "diálogo uid0013033b"
+},
+{
+"id": 25102,
+"en": "(I bet he'd like Matsuo Lamb Barbeque.)",
+"ctx": "diálogo uid0013033b"
+},
+{
+"id": 25103,
+"en": "(I bet he'd like Miyoshino.)",
+"ctx": "diálogo uid0013033b"
+},
+{
+"id": 25104,
+"en": "(I bet he'd like Curry Shop S.)",
+"ctx": "diálogo uid0013033b"
+},
+{
+"id": 25105,
+"en": "I thought it'd be a cinch to find a great place here in Sotenbori, but...",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25106,
+"en": "There're just too many to choose from! I'd like to try some more, but I'm already stuffed.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25107,
+"en": "(I've seen that guy on TV. I wonder what he's doing here?)",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25108,
+"en": "Oh, I give up. There's no way I'm going to be able to try even half the places here.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25109,
+"en": "Plus, I'm stuffed and hung over... Oh, my aching head.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25110,
+"en": "(Hey, isn't that guy on TV? What's he doing around here?)",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25111,
+"en": "Oh, I'm so full. I think I'm going to throw in the towel.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25112,
+"en": "Excuse me... Are you all right?",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25113,
+"en": "Hm? Oh, no, don't worry about me, I'm fine!",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25114,
+"en": "Oh, good. But I was wondering. Haven't I seen you on TV before?",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25115,
+"en": "You probably have. I'm Tatsuya. I'm something of a celebrity chef.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25116,
+"en": "I'm Haruka Sawamura. So you're that guy who shows people quick and easy recipes, right?",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25117,
+"en": "I'm glad you've heard of me. Makes all my hard work worth it.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25118,
+"en": "They say kids today don't watch much TV, so I'm always glad to meet one who does.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25119,
+"en": "Actually, I've been on TV too, so I like to watch other shows to see what they're like.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25120,
+"en": "Oh, are you a celebrity or something?",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25121,
+"en": "You could say that. I'm a pop idol, but I'm not very famous.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25122,
+"en": "I'm afraid I don't know much about music. I'm more chef than celebrity, you see.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25123,
+"en": "I almost didn't recognize you without the chef's uniform. So you're not on the job now?",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25124,
+"en": "Actually, I sort of am. I'm on this show where we try to help eateries across Japan by coming up with my own version of local dishes.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25125,
+"en": "I've been going around trying the local fare in order to come up with a new idea.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25126,
+"en": "Oh, so that's why you're so full. You really looked like you were in pain.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25127,
+"en": "Yeah, it's tough trying to cover so much ground by my lonesome. It would really help if I had someone who could recommend great places.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25128,
+"en": "Hey, what about you, Haruka-chan? Do you know any good places to eat around here?",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25129,
+"en": "Good places?",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25130,
+"en": "Yes, I was hoping you'd let me know if you ate anywhere that served really tasty local fare.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25131,
+"en": "I'm hoping that if I try it myself, I'll get some ideas for a new dish.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25132,
+"en": "Is anywhere that serves local dishes fine?",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25133,
+"en": "Anywhere's fine, but since you're underage, let's avoid places that serve alcohol.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25134,
+"en": "I'll ask someone else about places like that.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25135,
+"en": "I've already asked someone else about places like that.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25136,
+"en": "Okay, if all you need is some recommendations, I'd be glad to help.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25137,
+"en": "Great, thanks! And don't worry. I'll make it worth your while!",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25138,
+"en": "I'll give you some advice on making everyday meals yummier and fun. You won't regret this!",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25139,
+"en": "Ooh, sounds great. I can hardly wait.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25140,
+"en": "Well, you know where to find me! Bye!",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25141,
+"en": "Ohhh... I need that turmeric drink.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25142,
+"en": "Are you okay? You're hurting pretty bad by the looks of it.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25143,
+"en": "I've been going to bars and izakaya, night after night. It's part of my job, but I can't take it anymore.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25144,
+"en": "Hey, aren't you that guy who's on TV all the time? You're a chef or something, right?",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25145,
+"en": "It's always nice when someone's heard of me. I'm Tatsuya, celebrity⑬ Oooh...",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25146,
+"en": "Whoa, you sure you're all right? Try drinking some water or something.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25147,
+"en": "I think I'm okay now. Thanks.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25148,
+"en": "I don't know what sort of work you're doing, but drinking like that is hard on the body.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25149,
+"en": "I know, but I want to help eateries across Japan by coming up with new twists on local cuisine.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25150,
+"en": "So, I've been going around trying places that might give me some good ideas. You know, places with good local fare that's great with drinks.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25151,
+"en": "Right... You mean like pubs, taverns, and places like that?",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25152,
+"en": "So that explains your current state. I guess it really is all part of the job, huh?",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25153,
+"en": "I can't say no to a place that's supposed to be good.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25154,
+"en": "And I always finish what I order if it was recommended to me. As a chef myself, I feel that's important.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25155,
+"en": "You're even more serious about food than you are on TV. I thought it was all an act.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25156,
+"en": "Actually, the name recognition I get on TV helps draw more customers to my restaurant.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25157,
+"en": "Seeing me on TV might make people curious about me, but my greatest challenge is satisfying them when they come to eat my food.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25158,
+"en": "So your show is all part of that? You really have your hands full.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25159,
+"en": "You can say that again. But hey, you could help me out by letting me know if you find a great place that serves local cuisine.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25160,
+"en": "I don't think I could survive an attempt to visit every last restaurant myself.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25161,
+"en": "Well, it's not like I'm an expert or anything, but I'll help where I can.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25162,
+"en": "Great, thanks! You're a real lifesaver!",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25163,
+"en": "I don't think I can drink much more, so it would be great to pare down the places that serve alcohol to a promising few.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25164,
+"en": "I've asked someone else about places that don't serve alcohol, so if you could focus on those that do, that would be great.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25165,
+"en": "Honestly, I don't think I can drink much more, so you'd be doing me a huge favor.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25166,
+"en": "I see you're in a predicament. I'd be glad to help.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25167,
+"en": "If you introduce me to some good ones, I'll pay you back by teaching you my own special way to get the most out of your meals!",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25168,
+"en": "And that's something you don't want to miss!",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25169,
+"en": "Top-secret techniques from a TV personality? Sounds interesting.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25170,
+"en": "Great, because I'm counting on you! You know where to find me!",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25171,
+"en": "I think I see. Each dish is the sum of its parts. What an interesting way to look at it!",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25172,
+"en": "So there are stories and emotions behind a chef's creations? How interesting.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25173,
+"en": "Okay, so each meal should be a fun experience. That kind of reminds me of my work, too. We aim to please both our customers or audience.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25174,
+"en": "There's a <Color:7>café that's mainly focused on sweets<Color:Default>, so I should probably come up with something that would be a hit with the ladies.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25175,
+"en": "Interesting. I never would've thought of that. But I'll keep it in mind.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25176,
+"en": "I guess I never thought much about the person making the food. But yeah, it makes sense.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25177,
+"en": "You chefs sure think about a lot, don't you? This insider info is pretty interesting, though.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25178,
+"en": "The place I'm trying to help serves <Color:7>yakiniku<Color:Default>, but it's not in Sotenbori. I'll have to think up a <Color:7>new dish<Color:Default> that would suit a place like that.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25179,
+"en": "So this is the place you were talking about. Let's give it a try! Okay, I'll take one please!",
+"ctx": "diálogo uid0013033c + diálogo uid0013033d"
+},
+{
+"id": 25180,
+"en": "Oh, I like this. It's really tasty!",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25181,
+"en": "Sorry, I just stopped by to say hi.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25182,
+"en": "(I don't have any recommendations right now. Maybe I'll try a new place before I come back.)",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25183,
+"en": "(Which place should I recommend?)",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25184,
+"en": "(Maybe I should recommend Tsuruhashi Fugetsu.)",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25185,
+"en": "Okay, let's go. It's over this way.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25186,
+"en": "(Maybe I should recommend Kushikatsu Daruma.)",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25187,
+"en": "(Maybe I should recommend Magutako.)",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25188,
+"en": "Sorry, but nothing new to report. I'll stop by again some other time.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25189,
+"en": "(Maybe I'll recommend Zuboraya.)",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25190,
+"en": "Okay, let's go. I'll lead the way.",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25191,
+"en": "(Maybe I'll recommend Komian.)",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25192,
+"en": "(Maybe I'll recommend Kani Douraku.)",
+"ctx": "diálogo uid0013033c"
+},
+{
+"id": 25193,
+"en": "This isn't working. Most of the eateries around here are just too risky.",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25194,
+"en": "I'll never find a great place unless I get someone local to help me.",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25195,
+"en": "(What's with that guy? He doesn't look so good.)",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25196,
+"en": "What am I going to do? I feel like I'm in a minefield. I don't want to take another step.",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25197,
+"en": "You're looking kinda green. Is something wrong?",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25198,
+"en": "Huh? I look green? Well, I don't know if...",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25199,
+"en": "I'm not sure what that's supposed to mean, but I guess you're okay, so carry on.",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25200,
+"en": "No, wait! You live around here, don't you!?",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25201,
+"en": "I do, but why do you ask?",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25202,
+"en": "I'm Tatsuya, the celebrity chef. I have my own show on TV. Ring any bells?",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25203,
+"en": "What, really!? You're someone famous!?",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25204,
+"en": "Well, I wouldn't say famous, but I guess I am on TV.",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25205,
+"en": "How cool is that? Then again, I don't watch much TV, so I actually have no idea how cool that is.",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25206,
+"en": "I'm also wondering what a famous chef would possibly want with me.",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25207,
+"en": "Right, about that. I'm doing a show where I go around helping different eateries around Japan by coming up with new twists on local dishes.",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25208,
+"en": "I've been trying places that might give me some ideas, but Kineicho food is so different from what I'm used to. I don't know where to start.",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25209,
+"en": "Different? Oh, you must mean stuff like super spicy shaved ice or red bean paste pasta.",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25210,
+"en": "Yes! Exactly! It's been quite a shock. Everywhere I go, one strange dish after another!",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25211,
+"en": "Oh, come on now. Not everywhere. Sure, there are places like that, but they're pretty rare.",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25212,
+"en": "I beg to differ! No matter who I ask on the street, they steer me toward that kind of place.",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25213,
+"en": "Really? What exactly did you ask them?",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25214,
+"en": "I said, \"Do you know anywhere that specializes in food unique to this area?\"",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25215,
+"en": "There's your problem. If someone asked me that, I'd recommend something a little odd, too.",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25216,
+"en": "Maybe I should rephrase that and ask for places with tasty local dishes that aren't so strange.",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25217,
+"en": "I'm kind of broke right now, so pricey places are out, but I do know some reasonable ones.",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25218,
+"en": "Really!? Do tell! I'll make it worth your while!",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25219,
+"en": "Seriously!? All I have to do is tell you about them? Count me in!",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25220,
+"en": "Great, thanks! We have a win-win situation on our hands, then!",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25221,
+"en": "So, what exactly are we talking about here in terms of compensation?",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25222,
+"en": "Good question! I'll make it worth your while by... Drumroll, please...",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25223,
+"en": "Aww, fine. Well, I'll give you Tatsuya's special advice! It'll make your meals that much more enjoyable!",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25224,
+"en": "Special advice? Uh... What?",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25225,
+"en": "How to make your life better without money! With the right attitude, you can change your daily meals into something so much better!",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25226,
+"en": "Right... Later, pal.",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25227,
+"en": "No, please! Wait! Don't be like that!",
+"ctx": "diálogo uid0013033d"
+},
+{
+"id": 25228,
+"en": "If you say you're going to make it worth my while, you're gonna have to do better than giving me advice, ya quack.",
+"ctx": "diálogo uid0013033d"
+}
+]

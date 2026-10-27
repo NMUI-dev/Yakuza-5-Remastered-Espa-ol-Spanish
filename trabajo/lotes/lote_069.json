@@ -1,0 +1,942 @@
+[
+{
+"id": 18994,
+"en": "Well, that just about covers it. You can try it out right\naway, or if you prefer, you can have me explain again.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 18995,
+"en": "I'd like to play the game.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 18996,
+"en": "Very well. Then, without further delay...",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 18997,
+"en": "Let's begin!",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 18998,
+"en": "We'll need a great deal of money to complete our project.\nAre you willing to contribute?",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 18999,
+"en": "Really? Thank you very much! We're very grateful to you.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 19000,
+"en": "Our total investments have reached %s. How much would\nyou like to invest?",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 19001,
+"en": "This should be enough to upgrade IF8 to the latest version\nI've been working on.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 19002,
+"en": "And... done! IF8 has been upgraded to version 1.1!",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 19003,
+"en": "The Kamurocho stage is now playable, thanks to the upgrade.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 19004,
+"en": "I hope you'll try it sometime.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7 …"
+},
+{
+"id": 19005,
+"en": "Your cooperation is greatly appreciated. Total investments\nnow stand at %s.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 19006,
+"en": "Once we reach 100,000 yen, I'll be able to add a new stage\nfor you to play.",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 19007,
+"en": "I hope you'll make the necessary investment.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 19008,
+"en": "And... done! IF8 has been upgraded to version 1.2!",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 19009,
+"en": "Version 1.2 will allow you to earn Soul Orbs each time you\ncomplete a stage.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 19010,
+"en": "But you will need to complete the same stage a number of\ntimes. Give it a try!",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 19011,
+"en": "Oh, and this is the final upgrade, so there's no need for\nany more investments. Thank you for all of your help.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 19012,
+"en": "With 200,000 yen at hand, I could add new features.",
+"ctx": "diálogo uid00033cd6"
+},
+{
+"id": 19013,
+"en": "Hm, broke, are you? Well, I'm far too busy to be dealing\nwith looky-loos. Good day.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 19014,
+"en": "So you're not going to contribute after all? Please don't\ntease us, young lady.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 19015,
+"en": "I'm sorry, but no. I'm afraid I can't sign anything like\nthat... My apologies.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 19016,
+"en": "Oh, no!",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 19017,
+"en": "Don't worry. She'll be back. What young lady doesn't dream\nof becoming a magical heroine?",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 19018,
+"en": "I'm not sure, but I hope you're right...",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 19019,
+"en": "My dear, if you ever change your mind, please come on back\nand see us any time. We will be here waiting for you.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 19020,
+"en": "Now then, are you ready to play?",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 19021,
+"en": "Very well. Allow me to explain the particulars.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 19022,
+"en": "Defeat this boss, and you'll receive a boost to your own\nabilities. Mind you, we're still gathering data, so only one\ncity is available at the moment.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 19023,
+"en": "You'll be able to play in other cities once we've gathered\nenough data. Please be patient until then.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 19024,
+"en": "And one more thing. As I've mentioned, IF8 is still under\ndevelopment. We need funding to complete our project.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 19025,
+"en": "Please consider contributing so that we might see this\ndevice is fully completed. You see, I may not look it, but\nI'm flat broke.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 19026,
+"en": "Of course, it would benefit you as well. Once the device is\nfinished, we'll be able to provide you with a wide variety\nof feedback.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 19027,
+"en": "We certainly hope you'll give it some thought. Heheh.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 19028,
+"en": "Now then, one play is 10,000 yen. Quite a bargain, if you\nask me! However, we will allow you to play for free just\nthis once.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 19029,
+"en": "It looks like you cleared it! Congratulations!",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 19030,
+"en": "You should now experience a boost to your own abilities.\nHeheheh. You've given us some great data!",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 19031,
+"en": "You're welcome to come back any time! We'll be here waiting\nfor you.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 19032,
+"en": "Thank you for your help. We hope to see you again!",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 19033,
+"en": "You got 2,800 experience points.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7 …"
+},
+{
+"id": 19034,
+"en": "Oh, what a pity. It looks like it's game over for you.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 19035,
+"en": "But you can always try again. We'll be here should you\ndecide to come back.",
+"ctx": "diálogo uid00033cd6 + diálogo uid00033cd7"
+},
+{
+"id": 19036,
+"en": "Heheheh. You're back! Decided you want to be a magical\nheroine after all, have you?",
+"ctx": "diálogo uid00033cd7"
+},
+{
+"id": 19037,
+"en": "If you'd like to play IF8, I'm afraid you'll have to sign\nthe non-disclosure agreement. Would you be all right with that?",
+"ctx": "diálogo uid00033cd7"
+},
+{
+"id": 19038,
+"en": "Hmm. An agreement, huh?",
+"ctx": "diálogo uid00033cd7"
+},
+{
+"id": 19039,
+"en": "Oh, please, miss! We beg you! You wouldn't believe how\ndifficult it is to find a lady who's willing to participate!",
+"ctx": "diálogo uid00033cd7"
+},
+{
+"id": 19040,
+"en": "Reach 100,000 yen, and I'll be able to add a new stage.",
+"ctx": "diálogo uid00033cd7"
+},
+{
+"id": 19041,
+"en": "With 500,000 yen at hand, I could add new features.",
+"ctx": "diálogo uid00033cd7"
+},
+{
+"id": 19042,
+"en": "Hm? What do you want?",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19043,
+"en": "We're looking for someone to playtest our newly developed game system.",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19044,
+"en": "Please, won't you consider giving it a try?",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19045,
+"en": "No, please! Wait! This game is really quite amazing!",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19046,
+"en": "Aw, please, don't be like that!",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19047,
+"en": "It was developed by Doctor Minamida, the most brilliant scientist of our age. It's the latest version of Inner Fighter.",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19048,
+"en": "I'm Doctor Minamida's assistant.",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19049,
+"en": "Doctor Minamida...",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19050,
+"en": "We're calling the latest version Inner Fighter 8 Road Battle, or IF8 for short!",
+"ctx": "diálogo uid00033d0f"
+},
+{
+"id": 19051,
+"en": "However, IF8 is not yet complete. We need people to actually play so we can get the data we need to complete it.",
+"ctx": "diálogo uid00033d0f"
+},
+{
+"id": 19052,
+"en": "What do you say? Will you give it a try?",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10"
+},
+{
+"id": 19053,
+"en": "Okay, let me explain how to play.",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19054,
+"en": "IF8 allows you to play what we call \"road battles\" where you through a town fighting enemies until you reach their boss.",
+"ctx": "diálogo uid00033d0f"
+},
+{
+"id": 19055,
+"en": "If you manage to beat the boss, you'll get an ability boost.",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19056,
+"en": "I only have data for one town right now, but we're busy collecting data we need, so not all the stages are playable yet.",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19057,
+"en": "Once we collect a little more data, you'll be able to play a bunch of different stages, though.",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19058,
+"en": "Oh, and as I mentioned before, IF8 isn't done yet. There are a lot of costs associated with completing it.",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19059,
+"en": "That's why we're hoping you'll invest in the machine's completion. Developing such a thing is an expensive endeavor, after all.",
+"ctx": "diálogo uid00033d0f"
+},
+{
+"id": 19060,
+"en": "Of course, there's something in it for you, too. Once the machine's complete, it will be able to feed back a variety of data to you.",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19061,
+"en": "So please, think about it.\nIF8 is a marvel of arcade machine technology. And it's the brainchild of the brilliant Doctor Minamida!",
+"ctx": "diálogo uid00033d0f"
+},
+{
+"id": 19062,
+"en": "Did I mention it costs 10,000 yen to play a game? It's a little steep but well worth it.",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19063,
+"en": "Okay, now select the stage you want to play.",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19064,
+"en": "Okay, get ready for your road battle!",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19065,
+"en": "Oh, you really want to invest in IF8? You're a lifesaver!",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19066,
+"en": "Total investments so far have reached %s. How much will you invest?",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19067,
+"en": "I really hope you'll play it sometime. Well, see you again.",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19068,
+"en": "Thank you for your investment. Total investments have reached %s.",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19069,
+"en": "We need 100,000 yen to enable a new playable stage.",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10"
+},
+{
+"id": 19070,
+"en": "We'd really appreciate any amount you can afford to invest.",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19071,
+"en": "Your help is greatly appreciated. Total investments now stand at %s.",
+"ctx": "diálogo uid00033d0f"
+},
+{
+"id": 19072,
+"en": "Please come again. I'll be waiting.",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19073,
+"en": "You don't want to invest in IF8? That's too bad.",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19074,
+"en": "Excuse me, sir. Do you have a moment?",
+"ctx": "diálogo uid00033d0f"
+},
+{
+"id": 19075,
+"en": "Huh? You talkin' to me?",
+"ctx": "diálogo uid00033d0f"
+},
+{
+"id": 19076,
+"en": "Ain't got time for that right now. You're gonna have to find someone else.",
+"ctx": "diálogo uid00033d0f"
+},
+{
+"id": 19077,
+"en": "Doctor Minamida... That's the guy with that weird-ass machine under Kamurocho, right?",
+"ctx": "diálogo uid00033d0f"
+},
+{
+"id": 19078,
+"en": "So you've heard of the doctor? Then you must know Inner Fighter is the real deal. Let me explain.",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19079,
+"en": "This is the latest version of Inner Fighter! We call it Inner Fighter 8: Road Battle, or IF8 for short!",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19080,
+"en": "That's what this is all about?",
+"ctx": "diálogo uid00033d0f"
+},
+{
+"id": 19081,
+"en": "Exactly! We'd love for you to give it a try.",
+"ctx": "diálogo uid00033d0f"
+},
+{
+"id": 19082,
+"en": "Like I said, I ain't got time right now.",
+"ctx": "diálogo uid00033d0f"
+},
+{
+"id": 19083,
+"en": "Oh, well okay, then. I'll be here if you change your mind.",
+"ctx": "diálogo uid00033d0f"
+},
+{
+"id": 19084,
+"en": "If you say so.",
+"ctx": "diálogo uid00033d0f + diálogo uid00160035"
+},
+{
+"id": 19085,
+"en": "I hope to see you again soon!",
+"ctx": "diálogo uid00033d0f"
+},
+{
+"id": 19086,
+"en": "IF8 allows you to play what we call \"road battles\" where you go through a town fighting enemies until you reach their boss.",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19087,
+"en": "That's why we're hoping you'll invest in the machine's completion. Developing such things is an expensive endeavor, after all.",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19088,
+"en": "So please, think about it, won't you?\nIF8 is a marvel of arcade machine technology. And it's the brainchild of the brilliant Doctor Minamida!",
+"ctx": "diálogo uid00033d0f"
+},
+{
+"id": 19089,
+"en": "I'm sorry, but I don't know much about games.",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19090,
+"en": "It's very easy to play even if you don't know a thing about video games.",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19091,
+"en": "Still not interested? Well, we'd really love to have a young lady like you take IF8 for a spin.",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19092,
+"en": "Haven't you ever wanted to be a magical girl who could cast spells and gracefully beat down hordes of attacking thugs?",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19093,
+"en": "Hmm... That does sound kind of fun, but...",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19094,
+"en": "Exactly! Who wouldn't want to do stuff like that? IF8 makes dreams like that come true.",
+"ctx": "diálogo uid00033d0f"
+},
+{
+"id": 19095,
+"en": "And by playing, you'll be able to boost your idol abilities.",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19096,
+"en": "Wait, how did you know I'm an aspiring idol?",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19097,
+"en": "I never miss an airing of the Princess League. You're Haruka Sawamura-san right?",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19098,
+"en": "However, IF8 is not yet complete. We need people to actually play, so we can get the data we need to complete it.",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19099,
+"en": "So think about it, won't you?\nIF8 is a marvel of arcade machine technology. And it's the brainchild of the brilliant Doctor Minamida!",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19100,
+"en": "You can try again whenever you want, though.",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19101,
+"en": "You earned one Soul Orb.",
+"ctx": "diálogo uid00033d0f + diálogo uid00033d10 …"
+},
+{
+"id": 19102,
+"en": "Heat Gauge capacity increased.",
+"ctx": "diálogo uid00033d0f"
+},
+{
+"id": 19103,
+"en": "We call it Inner Fighter 8: Road Battle, or IF8 for short!",
+"ctx": "diálogo uid00033d10"
+},
+{
+"id": 19104,
+"en": "I'm Doctor Minamida's Assistant.",
+"ctx": "diálogo uid00033d10"
+},
+{
+"id": 19105,
+"en": "Right!? Who wouldn't want to do stuff like that? IF8 makes dreams like that come true.",
+"ctx": "diálogo uid00033d10 + diálogo uid00033d11"
+},
+{
+"id": 19106,
+"en": "I am.",
+"ctx": "diálogo uid00033d10 + diálogo uid01020b5a …"
+},
+{
+"id": 19107,
+"en": "Excuse me!",
+"ctx": "diálogo uid00033d10 + diálogo uid0049025e …"
+},
+{
+"id": 19108,
+"en": "Hm? I'm kind of in a hurry here.",
+"ctx": "diálogo uid00033d10"
+},
+{
+"id": 19109,
+"en": "I promise it won't take too long. We're looking for someone to playtest our newly developed game machine.",
+"ctx": "diálogo uid00033d10"
+},
+{
+"id": 19110,
+"en": "No thanks. This doesn't pass the sniff test.",
+"ctx": "diálogo uid00033d10"
+},
+{
+"id": 19111,
+"en": "You've got the wrong idea! There's nothing fishy about it! It's called Inner Fighter.",
+"ctx": "diálogo uid00033d10"
+},
+{
+"id": 19112,
+"en": "It's an arcade machine developed by the brilliant scientist, Doctor Minamida. We're working on the latest version right now.",
+"ctx": "diálogo uid00033d10"
+},
+{
+"id": 19113,
+"en": "Doctor Minamida?",
+"ctx": "diálogo uid00033d10"
+},
+{
+"id": 19114,
+"en": "I think I've heard that name before. He's the one who has the massive game machine down under Kamurocho, right?",
+"ctx": "diálogo uid00033d10"
+},
+{
+"id": 19115,
+"en": "Exactly. That's Inner Fighter.",
+"ctx": "diálogo uid00033d10"
+},
+{
+"id": 19116,
+"en": "And this is the latest Inner Fighter! We call it Inner Fighter 8: Road Battle, or IF8 for short!",
+"ctx": "diálogo uid00033d10 + diálogo uid00033d11"
+},
+{
+"id": 19117,
+"en": "IF8 is a marvel of arcade machine technology, and it's the brainchild of the brilliant Doctor Minamida!",
+"ctx": "diálogo uid00033d10"
+},
+{
+"id": 19118,
+"en": "Excuse me, sir! Would you like to play IF8?",
+"ctx": "diálogo uid00033d11"
+},
+{
+"id": 19119,
+"en": "IF8?",
+"ctx": "diálogo uid00033d11 + diálogo uid00033d12"
+},
+{
+"id": 19120,
+"en": "Yes, IF8. We're looking for someone to playtest our newly developed game system.",
+"ctx": "diálogo uid00033d11"
+},
+{
+"id": 19121,
+"en": "What kind of game are we talking about here?",
+"ctx": "diálogo uid00033d11"
+},
+{
+"id": 19122,
+"en": "Here, let me tell you a little more about it.",
+"ctx": "diálogo uid00033d11"
+},
+{
+"id": 19123,
+"en": "IF8 is the latest version of Inner Fighter, an arcade machine developed by the brilliant Doctor Minamida.",
+"ctx": "diálogo uid00033d11"
+},
+{
+"id": 19124,
+"en": "IF8 is a marvel of arcade machine technology. And it's the brainchild of the brilliant Doctor Minamida!",
+"ctx": "diálogo uid00033d11"
+},
+{
+"id": 19125,
+"en": "This time, I'll offer you a prize.",
+"ctx": "diálogo uid00033d11"
+},
+{
+"id": 19126,
+"en": "Oh my! Kiryu-kun, is that you!?",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19127,
+"en": "Long time no see, Minamida.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19128,
+"en": "Yes, far too long, indeed.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19129,
+"en": "Is this what I think it is?",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19130,
+"en": "Hehe. I see I've piqued your interest.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19131,
+"en": "This is the latest version of Inner Fighter, my epoch-making arcade machine.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19132,
+"en": "I call it Inner Fighter 8: Road Battle, or IF8 for short!",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19133,
+"en": "So you're still working on it, eh? Some things never change.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19134,
+"en": "The development of arcade machines is a never-ending endeavor.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19135,
+"en": "Anyway, you could play right now if you'd like.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19136,
+"en": "Ah, it's you.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19137,
+"en": "Minamida. Sorry for giving you the runaround back in Nagasugai.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19138,
+"en": "No need to hide your identity now?",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19139,
+"en": "That's right. So, you knew all along?",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19140,
+"en": "These old eyes aren't so easily deceived. But I could tell you had your reasons, so I didn't press the matter.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19141,
+"en": "I appreciate that.",
+"ctx": "diálogo uid00033d12 + diálogo uid00490215 …"
+},
+{
+"id": 19142,
+"en": "Don't you worry about it. As I said, you no doubt had your reasons.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19143,
+"en": "That I did. Anyway, about IF8. Have you finished it yet?",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19144,
+"en": "I'm glad you asked. Development is going along nicely thanks to the data we've collected.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19145,
+"en": "You could play right now if you'd like.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19146,
+"en": "Saejima-kun? It's been ages since I've seen you.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19147,
+"en": "Yeah, it's been a while, Minamida. Still workin' on your electric chair thing?",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19148,
+"en": "This is no electric chair! This is the latest version of Inner Fighter, my epoch-making arcade machine.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19149,
+"en": "You ain't changed a bit.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19150,
+"en": "IF8 is an incredible advancement in arcade machine technology.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19151,
+"en": "Yeah, it's been a while, Minamida.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19152,
+"en": "Ran into your assistant over in Tsukimino. Told me you were workin' on a new Inner Fighter.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19153,
+"en": "So I take you're up to speed, then?",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19154,
+"en": "You could play right now if you'd like, you know.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19155,
+"en": "Can I help you, my dear?",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19156,
+"en": "Oh, no. Never mind. Sorry to bother you.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19157,
+"en": "I wonder what this giant machine is.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19158,
+"en": "Has my IF8 caught your eye, young lady?",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19159,
+"en": "Oh, hello there.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19160,
+"en": "Say, didn't we meet over in Sotenbori?",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19161,
+"en": "Minamida-san, was it? So, what is this here?",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19162,
+"en": "This is the latest version of Inner Fighter. More precisely, it's the main unit of Inner Fighter 8: Road Battle.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19163,
+"en": "It's the same game you played in Sotenbori.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19164,
+"en": "Isn't this that Inner Fighter game machine? Didn't know it was still down here.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19165,
+"en": "I was hoping I might see you again, Akiyama-kun.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19166,
+"en": "Minamida, was it? Long time no see. Still tinkering with your machine?",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19167,
+"en": "But this looks just like the machine I saw last time.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19168,
+"en": "On the outside, yes, but on the inside, it's a completely different beast.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19169,
+"en": "This is the latest version of Inner Fighter! I call it Inner Fighter 8: Road Battle, or IF8 for short!",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19170,
+"en": "Right... It was IF7 last time.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19171,
+"en": "IF8 is my epoch-making advance in arcade machine technology.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19172,
+"en": "Hey, long time no see.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19173,
+"en": "Oh, Akiyama-kun! I was hoping I might run into you again.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19174,
+"en": "Your assistant told me you were still working on Inner Fighter.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19175,
+"en": "So you've met with my assistant, have you? I take it you're up to speed, then?",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19176,
+"en": "I'd expect nothing less from you.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19177,
+"en": "What's with the creepy machine?",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19178,
+"en": "Creepy? I'll have you know this is a marvel of modern science!",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19179,
+"en": "You're kind of creepy, too. What're you doing down here, anyway?",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19180,
+"en": "First of all, my name is Minamida, and I'm conducting research here.",
+"ctx": "diálogo uid00033d12"
+},
+{
+"id": 19181,
+"en": "And this is my arcade machine that I've been working on for many years.",
+"ctx": "diálogo uid00033d12"
+}
+]

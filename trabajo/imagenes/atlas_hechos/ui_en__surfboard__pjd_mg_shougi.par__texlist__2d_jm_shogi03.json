@@ -1,0 +1,97 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_shougi.par/texlist/2d_jm_shogi03",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    256,
+    100,
+    288
+   ],
+   "en": "Use",
+   "ocr": "Use",
+   "es": "Usar",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 96,
+   "alto": 15,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     235,
+     235,
+     235
+    ],
+    "contorno": [
+     [
+      25,
+      25,
+      25
+     ],
+     1
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    0,
+    287,
+    100,
+    307
+   ],
+   "en": "Don't Use",
+   "ocr": "Don'tUse",
+   "es": "No usar",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 96,
+   "alto": 15,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     235,
+     235,
+     235
+    ],
+    "contorno": [
+     [
+      25,
+      25,
+      25
+     ],
+     1
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    31,
+    308,
+    61,
+    336
+   ],
+   "en": "OK",
+   "ocr": "OK",
+   "es": "",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 26
+  }
+ ]
+}

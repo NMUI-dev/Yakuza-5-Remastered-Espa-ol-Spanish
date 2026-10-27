@@ -1,0 +1,489 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_kochin.par/texlist/2d_yk_kochin_00",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    416,
+    40,
+    512,
+    72
+   ],
+   "en": "Stamina",
+   "es": "Resistencia",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 94,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 14
+  },
+  {
+   "caja": [
+    416,
+    71,
+    512,
+    101
+   ],
+   "en": "Leg Power",
+   "es": "Potencia",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 94,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 18
+  },
+  {
+   "caja": [
+    416,
+    102,
+    512,
+    130
+   ],
+   "en": "Dirt",
+   "es": "Tierra",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 94,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 15
+  },
+  {
+   "caja": [
+    416,
+    130,
+    512,
+    158
+   ],
+   "en": "Dark",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 94,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "dejar": true
+  },
+  {
+   "caja": [
+    270,
+    158,
+    332,
+    188
+   ],
+   "en": "Back",
+   "es": "Atrás",
+   "fuente": "times.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 60,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 14
+  },
+  {
+   "caja": [
+    270,
+    188,
+    332,
+    218
+   ],
+   "en": "Back",
+   "es": "Atrás",
+   "fuente": "times.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 60,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 14
+  },
+  {
+   "caja": [
+    270,
+    218,
+    332,
+    248
+   ],
+   "en": "Back",
+   "es": "Atrás",
+   "fuente": "times.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 60,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 14
+  },
+  {
+   "caja": [
+    330,
+    160,
+    414,
+    192
+   ],
+   "en": "Condition",
+   "es": "Condición",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 82,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 15
+  },
+  {
+   "caja": [
+    416,
+    160,
+    512,
+    192
+   ],
+   "en": "Running Style",
+   "es": "Estilo",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 94,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 18
+  },
+  {
+   "caja": [
+    330,
+    192,
+    414,
+    222
+   ],
+   "en": "Race Limit",
+   "es": "Límite",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 82,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 14
+  },
+  {
+   "caja": [
+    416,
+    192,
+    512,
+    222
+   ],
+   "en": "Personality",
+   "es": "Personalidad",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 94,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 15
+  },
+  {
+   "caja": [
+    416,
+    226,
+    512,
+    258
+   ],
+   "en": "Skills",
+   "es": "Habilidades",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 94,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 13
+  },
+  {
+   "caja": [
+    160,
+    147,
+    208,
+    165
+   ],
+   "en": "Egg On",
+   "es": "",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 46,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 12,
+   "dejar": true
+  },
+  {
+   "caja": [
+    4,
+    316,
+    168,
+    338
+   ],
+   "en": "RESULTS",
+   "es": "RESULTADOS",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 162,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 12
+  },
+  {
+   "caja": [
+    0,
+    342,
+    80,
+    368
+   ],
+   "en": "Rage",
+   "es": "Furia",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 76,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 18
+  },
+  {
+   "caja": [
+    0,
+    373,
+    80,
+    398
+   ],
+   "en": "True Grit",
+   "es": "Agallas",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 76,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 13
+  },
+  {
+   "caja": [
+    0,
+    400,
+    80,
+    428
+   ],
+   "en": "Volatile",
+   "es": "Volátil",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 76,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 14
+  },
+  {
+   "caja": [
+    0,
+    429,
+    80,
+    460
+   ],
+   "en": "Instinct",
+   "es": "Instinto",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 76,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 13
+  },
+  {
+   "caja": [
+    0,
+    461,
+    80,
+    489
+   ],
+   "en": "Amplify",
+   "es": "Mejora",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 76,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 18
+  },
+  {
+   "caja": [
+    182,
+    288,
+    282,
+    388
+   ],
+   "en": "Newcomer",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 96,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "dejar": true
+  },
+  {
+   "caja": [
+    292,
+    288,
+    392,
+    388
+   ],
+   "en": "Challenger",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 96,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "dejar": true
+  },
+  {
+   "caja": [
+    402,
+    288,
+    502,
+    388
+   ],
+   "en": "Contender",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 96,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "dejar": true
+  },
+  {
+   "caja": [
+    182,
+    397,
+    282,
+    497
+   ],
+   "en": "Champion",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 96,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "dejar": true
+  },
+  {
+   "caja": [
+    292,
+    397,
+    392,
+    497
+   ],
+   "en": "Conqueror",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 96,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "dejar": true
+  }
+ ]
+}

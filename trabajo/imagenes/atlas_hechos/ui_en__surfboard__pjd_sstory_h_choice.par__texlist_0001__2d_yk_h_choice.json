@@ -1,0 +1,302 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_h_choice.par/texlist_0001/2d_yk_h_choice",
+ "fuente": "segoeui.ttf",
+ "margen": 4,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    265,
+    79,
+    327,
+    96
+   ],
+   "en": "NEW",
+   "es": "NUEVO",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 54,
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    338,
+    79,
+    440,
+    101
+   ],
+   "en": "NEW",
+   "es": "NUEVO",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 94,
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    2,
+    351,
+    160,
+    377
+   ],
+   "en": "Information",
+   "es": "Información",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 150,
+   "mediana": false,
+   "alto": 22
+  },
+  {
+   "caja": [
+    130,
+    546,
+    222,
+    568
+   ],
+   "en": "Back",
+   "es": "Atrás",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 84
+  },
+  {
+   "caja": [
+    0,
+    570,
+    256,
+    596
+   ],
+   "en": "Requester",
+   "es": "Solicitante",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 248
+  },
+  {
+   "caja": [
+    0,
+    596,
+    256,
+    622
+   ],
+   "en": "Fans Gained",
+   "es": "Fans ganados",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 248
+  },
+  {
+   "caja": [
+    0,
+    622,
+    256,
+    648
+   ],
+   "en": "Importance",
+   "es": "Importancia",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 248
+  },
+  {
+   "caja": [
+    0,
+    648,
+    256,
+    666
+   ],
+   "en": "Publicity",
+   "es": "Publicidad",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 248
+  },
+  {
+   "caja": [
+    362,
+    566,
+    408,
+    590
+   ],
+   "en": "Done",
+   "es": "Listo",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 38
+  },
+  {
+   "caja": [
+    370,
+    616,
+    400,
+    635
+   ],
+   "en": "Done",
+   "es": "Listo",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 22
+  },
+  {
+   "caja": [
+    97,
+    715,
+    161,
+    741
+   ],
+   "en": "Press",
+   "es": "Prensa",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 56,
+   "mediana": false
+  },
+  {
+   "caja": [
+    188,
+    138,
+    260,
+    166
+   ],
+   "en": "dych",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 64,
+   "dejar": true
+  },
+  {
+   "caja": [
+    60,
+    514,
+    450,
+    542
+   ],
+   "en": "dych Dyna Chair Productions",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 382,
+   "dejar": true
+  },
+  {
+   "caja": [
+    99,
+    667,
+    159,
+    694
+   ],
+   "en": "SIDE",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 52,
+   "dejar": true
+  },
+  {
+   "caja": [
+    0,
+    130,
+    260,
+    172
+   ],
+   "en": "FREE STORY BLANK / ALLSTORY",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 252,
+   "dejar": true
+  }
+ ]
+}

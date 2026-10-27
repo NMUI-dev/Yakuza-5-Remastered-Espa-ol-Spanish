@@ -1,0 +1,36 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_si6",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    27,
+    171,
+    482,
+    215
+   ],
+   "en": "I'll work hard and",
+   "ocr": "F worke hard and get out",
+   "es": "¡Trabajaré duro y",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro"
+  },
+  {
+   "caja": [
+    27,
+    215,
+    482,
+    256
+   ],
+   "en": "get out of debt!",
+   "ocr": "F worke hard and get out",
+   "es": "saldré de deudas!",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro"
+  }
+ ]
+}

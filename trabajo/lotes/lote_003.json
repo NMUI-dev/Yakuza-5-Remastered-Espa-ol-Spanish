@@ -1,0 +1,1022 @@
+[
+{
+"id": 695,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>when holding bike<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 696,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near enemy when holding superglue<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 697,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near enemy when holding skyrocket<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 698,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>when final Dragon Spirit combo lands<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 699,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>when enemy tries to call for backup<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 700,
+"en": "<Color:255,255,150,255>Enter Fighting Stance, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 701,
+"en": "<Action:Button_L3@Combat> + <Action:Button_R3@Combat> <Color:109,193,240,255>in Heat Mode<Color:Default>/<Color:255,255,150,255>Health flashing red<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 702,
+"en": "<Action:Battle_Heavy_Attack@Combat> during Finishing Blow",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 703,
+"en": "<Action:Battle_Heavy_Attack@Combat> while running",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 704,
+"en": "<Action:Battle_Guard@Combat> when your guard is broken",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 705,
+"en": "<Action:Battle_Normal_Attack@Combat> when you are down",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 706,
+"en": "<Action:Battle_Drop_Weapon@Combat> when next to head of downed enemy",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 707,
+"en": "<Action:Battle_Heavy_Attack@Combat> right before you are knocked down",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 708,
+"en": "<Action:Battle_Drop_Weapon@Combat> during Finishing Blow",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 709,
+"en": "<Action:Battle_Drop_Weapon@Combat> when being grabbed",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 710,
+"en": "<Action:Battle_Dodge@Combat> during Rush Combo/some finishing moves",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 711,
+"en": "Press <Action:Battle_Dodge@Combat> repeatedly when being held",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 712,
+"en": "Press <Action:Battle_Dodge@Combat> repeatedly when knocked down",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 713,
+"en": "<Action:Battle_Dodge@Combat> while Quickstepping",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 714,
+"en": "<Action:Battle_Dodge@Combat> right before getting knocked down",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 715,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>next to enemy fallen face up<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 716,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>when enemy is grabbing you<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 717,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>next to enemy fallen face down<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 718,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>next to enemies with certain weapons<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 719,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>before enemy attack hits/no stance<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 720,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>right before enemy sword attack hits<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 721,
+"en": "<Action:Battle_Extreme_Heat@Combat> <Color:109,193,240,255>when in Heat Mode and unarmed<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 722,
+"en": "<Action:Battle_Heavy_Attack@Combat> when guarding",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 723,
+"en": "<Action:Battle_Heavy_Attack@Combat> while Quickstepping",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 724,
+"en": "<Action:Battle_Drop_Weapon@Combat> in Fighting Stance before attack hits",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 725,
+"en": "<Action:Battle_Heavy_Attack@Combat> in Fighting Stance before attack hits",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 726,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:255,255,150,255>when drunk and in Fighting Stance<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 727,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:255,255,150,255>in Fighting Stance/health flashing red<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 728,
+"en": "<Color:109,193,240,255>Grab enemy next to black taxi, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 729,
+"en": "Pick up garbage can, then <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 730,
+"en": "Equip stove, then <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 731,
+"en": "Equip pliers, then <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 732,
+"en": "Press <Action:Battle_Drop_Weapon@Combat> When you are near an fallen enemy.",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 733,
+"en": "<Action:Battle_Heavy_Attack@Combat><Color:109,193,240,255> near enemy when using brass knuckles<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 734,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>when enemy is down<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 735,
+"en": "<Color:109,193,240,255>Grab enemy near fallen enemy, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 736,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near enemy when holding golf club <Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 737,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near enemy when nunchaku equipped <Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 738,
+"en": "Hold <Action:Battle_Extreme_Heat@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 739,
+"en": "Hold <Action:Battle_Extreme_Heat@Combat>, then release",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 740,
+"en": "<Action:Battle_Heavy_Attack@Combat> during Charging Finish",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 741,
+"en": "<Color:109,193,240,255>Grab legs, then<Color:Default> <Action:Battle_Drop_Weapon@Combat> <Color:109,193,240,255>(or <Color:Default><Action:Battle_Drop_Weapon@Combat> <Color:109,193,240,255>when bouncing)<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 742,
+"en": "Hold down <Action:Battle_Heavy_Attack@Combat> when grabbing enemy",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 743,
+"en": "<Action:Battle_Normal_Attack@Combat><Action:Battle_Normal_Attack@Combat><Action:Battle_Normal_Attack@Combat>, then <Action:Battle_Heavy_Attack@Combat> during Super Double Combo",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 744,
+"en": "Hold <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 745,
+"en": "<Color:109,193,240,255>Run in Heat Mode, then<Color:Default> <Color:109,193,240,255>hold<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 746,
+"en": "Hold <Action:Battle_Heavy_Attack@Combat> until end",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 747,
+"en": "<Color:109,193,240,255>Grab enemy's legs, then<Color:Default> <Color:109,193,240,255>hold<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 748,
+"en": "<Color:109,193,240,255>Face enemy bouncing off ground, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 749,
+"en": "<Color:109,193,240,255>Grab enemy then near wall<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 750,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:255,255,150,255>when health flashes red<Color:Default>/<Color:109,193,240,255>Grabbing legs<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 751,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near enemy when holding equipment<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 752,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>toward enemy rebounding from wall<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 753,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near guarding enemy<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 754,
+"en": "<Color:109,193,240,255>Grab legs, then<Color:Default> <Action:Battle_Normal_Attack@Combat> <Color:109,193,240,255>or<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 755,
+"en": "Hold <Action:Battle_Drop_Weapon@Combat> before removable equipment/signs",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 756,
+"en": "<Color:255,255,150,255>Grab an enemy, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 757,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:255,255,150,255>during Max Yellow Dragon Spirit<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 758,
+"en": "Hold carrot/carving, grab enemy, then <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 759,
+"en": "Equip potted plant, then <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 760,
+"en": "Equip bicycle tire, then <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 761,
+"en": "<Color:109,193,240,255>Grab enemy near wall then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 762,
+"en": "<Color:109,193,240,255>Grab from back near wall, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 763,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near guard rail or fence<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 764,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near pole<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 765,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near wall<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 766,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near enemy while holding tonfa <Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 767,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near enemy when holding staff <Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 768,
+"en": "<Action:Battle_Normal_Attack@Combat> x 4 then <Action:Battle_Heavy_Attack@Combat> during Double Finishing Kick",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 769,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near fallen enemy<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 770,
+"en": "<Color:109,193,240,255>Run amid three enemies, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 771,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>when guard broken by unarmed attack<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 772,
+"en": "<Color:109,193,240,255>Launch enemy into air, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 773,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>when enemy attacks from behind<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 774,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>in Heat Mode<Color:Default> <Color:109,193,240,255>then<Color:Default> <Color:109,193,240,255>rapidly press<Color:Default> <Action:Battle_Normal_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 775,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:255,255,150,255>when taunting<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 776,
+"en": "<Color:255,255,150,255>Launch enemy into air, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 777,
+"en": "Send enemy into air, then <Action:Battle_Heavy_Attack@Combat> near another",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 778,
+"en": "Equip bike (with basket), then hold <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 779,
+"en": "Equip beer crate, then <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 780,
+"en": "Equip bowling ball, then <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 781,
+"en": "<Color:255,255,150,255>Can be learned after Rainbow Prism Star <Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 782,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>when drawing weapon<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 783,
+"en": "<Color:109,193,240,255>Equip umbrella, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 784,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>next to enemy fallen near wall<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 785,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>when enemy rebounds off wall<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 786,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>when enemy is up against a wall<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 787,
+"en": "<Color:109,193,240,255>Grab enemy, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 788,
+"en": "<Color:109,193,240,255>Grab enemy from behind, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 789,
+"en": "<Color:109,193,240,255>Equip pole, run into a crowd of enemies, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 790,
+"en": "<Color:109,193,240,255>Equip knife, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 791,
+"en": "<Action:Battle_Heavy_Attack@Combat> after wall slam with My Meteor Tackle",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 792,
+"en": "<Action:Battle_Drop_Weapon@Combat> during Rush Combo",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 793,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>during My Meteor Tackle<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 794,
+"en": "<Color:109,193,240,255>Run between three enemies while wielding a sword, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 795,
+"en": "<Color:109,193,240,255>Equip tonfa, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 796,
+"en": "<Color:109,193,240,255>Equip pole, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 797,
+"en": "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>near enemy getting up<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 798,
+"en": "<Color:109,193,240,255>Equip pole, step away from enemy, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 799,
+"en": "<Action:Battle_Heavy_Attack@Combat><Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>or<Color:Default> <Action:Battle_Normal_Attack@Combat><Action:Battle_Normal_Attack@Combat><Action:Battle_Normal_Attack@Combat><Action:Battle_Heavy_Attack@Combat><Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>in Heat Mode<Color:Default>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 800,
+"en": "<Color:255,255,150,255>Equip pole, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 801,
+"en": "Hold <Action:Battle_Drop_Weapon@Combat> when throwing enemy",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 802,
+"en": "<Action:Battle_Drop_Weapon@Combat> during Quickstep",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 803,
+"en": "<Color:255,255,150,255>Equip 1-handed weapon, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 804,
+"en": "<Color:109,193,240,255>Equip 1-handed weapon, then<Color:Default> <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 805,
+"en": "Equip dolly, then <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 806,
+"en": "Equip desk, then hold <Action:Battle_Heavy_Attack@Combat>",
+"ctx": "tabla ability|CONTROL_EXPLANATION"
+},
+{
+"id": 807,
+"en": "None",
+"ctx": "tabla aiming_param|CATEGORY + tabla drive_parts|NAME …"
+},
+{
+"id": 808,
+"en": "battle_start != 0",
+"ctx": "tabla battle_condition|条件"
+},
+{
+"id": 809,
+"en": "battle_end != 0",
+"ctx": "tabla battle_condition|条件"
+},
+{
+"id": 810,
+"en": "battle_win != 0",
+"ctx": "tabla battle_condition|条件"
+},
+{
+"id": 811,
+"en": "battle_lose != 0",
+"ctx": "tabla battle_condition|条件"
+},
+{
+"id": 812,
+"en": "player_id==\"kiryu\" && player_down>=100",
+"ctx": "tabla battle_condition|条件"
+},
+{
+"id": 813,
+"en": "after_hact>=100 && player_id==\"kiryu\" ",
+"ctx": "tabla battle_condition|条件"
+},
+{
+"id": 814,
+"en": "(5-2)魔王inc.を探れ",
+"ctx": "tabla caption|NAME"
+},
+{
+"id": 815,
+"en": "/// BTL(BOSS)扱い",
+"ctx": "tabla caption|NAME"
+},
+{
+"id": 816,
+"en": "Head to Tenjin Transportation",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 817,
+"en": "Head to Nagasu Taxi",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 818,
+"en": "Head to Olivier",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 819,
+"en": "Find Yahata",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 820,
+"en": "Prove Baba's Alibi",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 821,
+"en": "Obtain a Casino Pass",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 822,
+"en": "Prepare for the Kidnapping",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 823,
+"en": "Head to Dyna Chair",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 824,
+"en": "Head to the Princess League",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 825,
+"en": "Find Christina",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 826,
+"en": "Head to Soten TV",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 827,
+"en": "Wait until Evening",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 828,
+"en": "Head to Osaka Talent",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 829,
+"en": "Head to Ousaka Enterprises",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 830,
+"en": "Rush to Shin-Osaka Station",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 831,
+"en": "Head to the Interview",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 832,
+"en": "Head to the Batting Center",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 833,
+"en": "Meet Up with Uno",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 834,
+"en": "Rush to the Port of Nagoya",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 835,
+"en": "Gather Intel",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 836,
+"en": "Go to Purgatory",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 837,
+"en": "Go to Sky Finance",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 838,
+"en": "Find Out More about MAO Inc.",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 839,
+"en": "Head to Kamurocho Hills",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 840,
+"en": "Street Punks",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 841,
+"en": "Yamagasa Family",
+"ctx": "tabla caption|SUBTITLE + tabla correlation_person|BELONG"
+},
+{
+"id": 842,
+"en": "Devil Killer Nagata",
+"ctx": "tabla caption|SUBTITLE + tabla drive_rival|NAME"
+},
+{
+"id": 843,
+"en": "Yu Morinaga and Masato Aizawa",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 844,
+"en": "Watase Family",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 845,
+"en": "Yahata, Captain of the Yamagasa Family",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 846,
+"en": "Yahata's Underlings",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 847,
+"en": "Yahata's Subordinate",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 848,
+"en": "Tojo Clan",
+"ctx": "tabla caption|SUBTITLE + tabla correlation_person|BELONG"
+},
+{
+"id": 849,
+"en": "Majima Family",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 850,
+"en": "Suspicious Men",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 851,
+"en": "Hiroshi Kugihara",
+"ctx": "tabla caption|SUBTITLE + tabla correlation_person|NAME"
+},
+{
+"id": 852,
+"en": "Prisoners",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 853,
+"en": "Giant Bear",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 854,
+"en": "Rescue Baba!",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 855,
+"en": "Kitakata Family",
+"ctx": "tabla caption|SUBTITLE + tabla correlation_person|BELONG"
+},
+{
+"id": 856,
+"en": "Shigeki Baba",
+"ctx": "tabla caption|SUBTITLE + tabla correlation_person|NAME"
+},
+{
+"id": 857,
+"en": "Kan Ogita",
+"ctx": "tabla caption|SUBTITLE + tabla correlation_person|NAME"
+},
+{
+"id": 858,
+"en": "Crest Bartender",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 859,
+"en": "Takeshi Hakamada of the Omi Alliance",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 860,
+"en": "Kamon Kanai, Ousaka Enterprises Captain",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 861,
+"en": "Ousaka Enterprises",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 862,
+"en": "Kubota Security",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 863,
+"en": "Ono Teppei",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 864,
+"en": "Kineicho Man",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 865,
+"en": "Atsushi Sakai",
+"ctx": "tabla caption|SUBTITLE + tabla correlation_person|NAME"
+},
+{
+"id": 866,
+"en": "Nagoya Family",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 867,
+"en": "Yasushi Kubota",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 868,
+"en": "Kanji Manabe",
+"ctx": "tabla caption|SUBTITLE + tabla correlation_person|NAME"
+},
+{
+"id": 869,
+"en": "Daigo Dojima",
+"ctx": "tabla caption|SUBTITLE + menú/texto string_tbl …"
+},
+{
+"id": 870,
+"en": "Kuroha Family",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 871,
+"en": "Masato Aizawa",
+"ctx": "tabla caption|SUBTITLE + tabla correlation_person|NAME"
+},
+{
+"id": 872,
+"en": "Masaru Watase, Omi Alliance Captain",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 873,
+"en": "Naoki Katsuya, Ousaka Enterprises Chairman",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 874,
+"en": "Taiga Saejima",
+"ctx": "tabla caption|SUBTITLE + menú/texto string_tbl …"
+},
+{
+"id": 875,
+"en": "Kazuma Kiryu",
+"ctx": "tabla caption|SUBTITLE + menú/texto string_tbl …"
+},
+{
+"id": 876,
+"en": "Kurosawa Family",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 877,
+"en": "Goro Majima",
+"ctx": "tabla caption|SUBTITLE + menú/texto string_tbl …"
+},
+{
+"id": 878,
+"en": "Sosuke Komaki",
+"ctx": "tabla caption|SUBTITLE + menú/texto mail"
+},
+{
+"id": 879,
+"en": "Sotaro Komaki",
+"ctx": "tabla caption|SUBTITLE + tabla tougijyo_participant|NAME …"
+},
+{
+"id": 880,
+"en": "Sotaro Komaki and Sosuke Komaki",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 881,
+"en": "Daijiro Saigo",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 882,
+"en": "Mountain God",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 883,
+"en": "Chase Saigo",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 884,
+"en": "Leo Ayanokoji",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 885,
+"en": "Yakuza",
+"ctx": "tabla caption|SUBTITLE + tabla drive_rival|NAME"
+},
+{
+"id": 886,
+"en": "Punks",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 887,
+"en": "Gang Members",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 888,
+"en": "Host",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 889,
+"en": "Nouveau Riche",
+"ctx": "tabla caption|SUBTITLE"
+},
+{
+"id": 890,
+"en": "Ren Higashino",
+"ctx": "tabla caption|SUBTITLE + tabla tougijyo_participant|NAME …"
+},
+{
+"id": 891,
+"en": "Valery Garrett",
+"ctx": "tabla caption|SUBTITLE + tabla tougijyo_participant|NAME"
+},
+{
+"id": 892,
+"en": "Kanta Shirosaka",
+"ctx": "tabla caption|SUBTITLE + tabla tougijyo_participant|NAME …"
+},
+{
+"id": 893,
+"en": "Makoto Tokita",
+"ctx": "tabla caption|SUBTITLE + tabla tougijyo_participant|NAME …"
+},
+{
+"id": 894,
+"en": "Ryoichi Banba",
+"ctx": "tabla caption|SUBTITLE + tabla tougijyo_participant|NAME …"
+},
+{
+"id": 895,
+"en": "Hannya Kurokawa",
+"ctx": "tabla caption|SUBTITLE + tabla tougijyo_participant|NAME …"
+},
+{
+"id": 896,
+"en": "Homura Kongo",
+"ctx": "tabla caption|SUBTITLE + tabla tougijyo_participant|NAME …"
+},
+{
+"id": 897,
+"en": "Kenichi Washino",
+"ctx": "tabla caption|SUBTITLE + tabla tougijyo_participant|NAME …"
+},
+{
+"id": 898,
+"en": "Shoji Yonashiro",
+"ctx": "tabla caption|SUBTITLE + tabla tougijyo_participant|NAME …"
+}
+]

@@ -1,0 +1,99 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_yakyu.par/texlist_0001/2d_yk_yakyu",
+ "fuente": "timesi.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    244,
+    0,
+    352,
+    73
+   ],
+   "en": "展示板 UP 決定",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    0,
+    133,
+    167,
+    176
+   ],
+   "en": "Equipment",
+   "es": "Equipo",
+   "fuente": "timesi.ttf",
+   "alin": "izq",
+   "ancho_max": 163,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 36
+  },
+  {
+   "caja": [
+    0,
+    176,
+    146,
+    212
+   ],
+   "en": "Abilities",
+   "es": "Habilidades",
+   "fuente": "timesi.ttf",
+   "alin": "izq",
+   "ancho_max": 142,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 29
+  },
+  {
+   "caja": [
+    0,
+    215,
+    166,
+    251
+   ],
+   "en": "Top Menu",
+   "es": "Menú",
+   "fuente": "times.ttf",
+   "alin": "izq",
+   "ancho_max": 162,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 33
+  },
+  {
+   "caja": [
+    255,
+    134,
+    485,
+    170
+   ],
+   "en": "Bulletin Board",
+   "es": "Tablón",
+   "fuente": "timesi.ttf",
+   "alin": "centro",
+   "ancho_max": 226,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 30
+  }
+ ]
+}

@@ -1,0 +1,356 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_batting.par/texlist/2d_yk_mg_batting000",
+ "fuente": "verdana.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    1,
+    160,
+    21
+   ],
+   "en": "Number Correct",
+   "es": "Aciertos",
+   "fuente": "verdana.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 156
+  },
+  {
+   "caja": [
+    163,
+    1,
+    267,
+    21
+   ],
+   "en": "Destroyed",
+   "es": "Destruidos",
+   "fuente": "verdana.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 100
+  },
+  {
+   "caja": [
+    268,
+    1,
+    394,
+    21
+   ],
+   "en": "Out of range",
+   "es": "Fuera de rango",
+   "fuente": "verdana.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 122
+  },
+  {
+   "caja": [
+    376,
+    36,
+    508,
+    60
+   ],
+   "en": "Bomb chance",
+   "es": "Chance de bomba",
+   "fuente": "timesbi.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 128
+  },
+  {
+   "caja": [
+    31,
+    56,
+    92,
+    84
+   ],
+   "en": "Close",
+   "es": "Cerrar",
+   "fuente": "verdana.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 57
+  },
+  {
+   "caja": [
+    123,
+    56,
+    184,
+    84
+   ],
+   "en": "Close",
+   "es": "Cerrar",
+   "fuente": "verdana.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 57
+  },
+  {
+   "caja": [
+    7,
+    86,
+    118,
+    106
+   ],
+   "en": "RESULT",
+   "es": "",
+   "fuente": "verdanaz.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 107,
+   "dejar": true,
+   "nota": "celda de 109 px: RESULTADO en negrita cursiva no cabe y en Oswald no parece el original"
+  },
+  {
+   "caja": [
+    12,
+    106,
+    97,
+    131
+   ],
+   "en": "Course",
+   "es": "Pista",
+   "fuente": "verdana.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 81
+  },
+  {
+   "caja": [
+    99,
+    106,
+    172,
+    131
+   ],
+   "en": "EASY",
+   "es": "FÁCIL",
+   "fuente": "verdana.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 69
+  },
+  {
+   "caja": [
+    194,
+    106,
+    312,
+    131
+   ],
+   "en": "NORMAL",
+   "es": "",
+   "fuente": "verdana.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 114,
+   "dejar": true,
+   "nota": "igual en español"
+  },
+  {
+   "caja": [
+    330,
+    106,
+    482,
+    131
+   ],
+   "en": "ACADEMIC",
+   "es": "ACADÉMICO",
+   "fuente": "verdana.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 148
+  },
+  {
+   "caja": [
+    12,
+    129,
+    108,
+    153
+   ],
+   "en": "EXTRA",
+   "es": "EXTRA",
+   "fuente": "verdana.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 92
+  },
+  {
+   "caja": [
+    110,
+    129,
+    212,
+    153
+   ],
+   "en": "HARD",
+   "es": "DIFÍCIL",
+   "fuente": "verdana.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 98
+  },
+  {
+   "caja": [
+    214,
+    129,
+    276,
+    153
+   ],
+   "en": "Rank",
+   "es": "Rango",
+   "fuente": "verdana.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 58
+  },
+  {
+   "caja": [
+    296,
+    129,
+    375,
+    153
+   ],
+   "en": "S A B C",
+   "es": "",
+   "fuente": "verdana.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 75,
+   "dejar": true,
+   "nota": "letras de rango sueltas"
+  },
+  {
+   "caja": [
+    381,
+    129,
+    457,
+    153
+   ],
+   "en": "Points",
+   "es": "Puntos",
+   "fuente": "verdana.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 72
+  },
+  {
+   "caja": [
+    185,
+    157,
+    230,
+    178
+   ],
+   "en": "+ ×",
+   "es": "",
+   "fuente": "verdana.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 41,
+   "dejar": true,
+   "nota": "símbolos"
+  },
+  {
+   "caja": [
+    238,
+    157,
+    400,
+    178
+   ],
+   "en": "NEW RECORD",
+   "es": "NUEVO RÉCORD",
+   "fuente": "verdanaz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 158
+  },
+  {
+   "caja": [
+    198,
+    180,
+    358,
+    200
+   ],
+   "en": "Number Correct",
+   "es": "Aciertos",
+   "fuente": "verdana.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 156
+  },
+  {
+   "caja": [
+    358,
+    180,
+    404,
+    200
+   ],
+   "en": "Left",
+   "es": "Resto",
+   "fuente": "verdana.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 43
+  },
+  {
+   "caja": [
+    420,
+    165,
+    511,
+    185
+   ],
+   "en": "Fastball",
+   "es": "Bola rápida",
+   "fuente": "verdana.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 87
+  },
+  {
+   "caja": [
+    420,
+    186,
+    511,
+    205
+   ],
+   "en": "Curveball",
+   "es": "Bola curva",
+   "fuente": "verdana.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 87
+  },
+  {
+   "caja": [
+    418,
+    206,
+    511,
+    225
+   ],
+   "en": "Sinker",
+   "es": "",
+   "fuente": "verdana.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 89,
+   "dejar": true,
+   "nota": "'Bola hundida' no cabe (68 px); 'sinker' se usa igual en español"
+  },
+  {
+   "caja": [
+    400,
+    226,
+    486,
+    248
+   ],
+   "en": "km/h pts",
+   "es": "",
+   "fuente": "verdana.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 82,
+   "dejar": true,
+   "nota": "igual en español"
+  }
+ ]
+}

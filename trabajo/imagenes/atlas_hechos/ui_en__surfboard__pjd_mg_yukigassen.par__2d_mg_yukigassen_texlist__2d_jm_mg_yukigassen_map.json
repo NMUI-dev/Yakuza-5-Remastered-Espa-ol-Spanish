@@ -1,0 +1,29 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_yukigassen.par/2d_mg_yukigassen_texlist/2d_jm_mg_yukigassen_map",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    160,
+    33,
+    256,
+    57
+   ],
+   "en": "RESULTS",
+   "ocr": "RESULTS",
+   "es": "RESULTADOS",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "der",
+   "ancho_max": 94,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 17
+  }
+ ]
+}

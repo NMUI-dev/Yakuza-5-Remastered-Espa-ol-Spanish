@@ -1,0 +1,1307 @@
+[
+{
+"id": 7747,
+"en": "During dance battles, a Judgment Gauge is displayed\nin the center of the screen.\n\nWhen the clock hand makes one full rotation, the final judgment\nwill be made. The dancer with fewer accurate button presses\nby then will take damage and lose health.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7748,
+"en": "The amount of damage that will be dealt to the loser is shown by the color\nof the bomb icon on the Judgment Gauge.\nDuring the battle, the bomb icon continually moves toward the dancer\nwith fewer accurate button presses.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7749,
+"en": "If a dancer's health reaches zero,\nhe or she becomes unable to dance\nand loses the battle at that point, regardless of the score.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7750,
+"en": "When the Heat Gauge reaches a certain point, the Dance Heat icon\nwill appear at the top left of the screen.\nPress <Color:1><Action:Button_L1@Street_Battle><Color:10> during this time to use a Dance Heat move.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7751,
+"en": "Pressing <Color:1><Action:Button_L1@Street_Battle><Color:10> will display the Dance Heat selection screen.\nHere, you can choose the Dance Heat move you wish to use.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7752,
+"en": "However, if you don't make a selection within the limited time provided, \nyou will lose that opportunity to use a Dance Heat move.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7753,
+"en": "The icon next to the Health Gauge represents the dancer's spirits.\nThe higher the spirit, the more efficiently the dancer will earn points.\nSpirit is affected by the number of accurate button presses.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7754,
+"en": "Play the Tutorial Again",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7755,
+"en": "Haruka's idol abilities rise as she takes lessons and performs jobs.\n\nThere are four idol abilities.\n\n<Color:35>Singing: Improved mainly through lessons.\n<Color:36>Appeal: Improved mainly via jobs such as handshake events.\n<Color:37>Performance: Improved mainly via dance events and dance battles.\n<Color:38>Basic Skill: Improved by raising Haruka's level.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7756,
+"en": "In concert battles, each ability corresponds to a button. The higher these abilities,\nthe more points you will get for accurate button presses.\n\n<Color:39>Raising the idol abilities as high as you can is the key to success in concert battles,\nso be sure to improve Haruka's abilities through activities such as jobs and lessons.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7757,
+"en": "Now that Haruka has received a quick-change outfit from Yoko,\nshe can use Climax Heat on the Princess League.\n\nWhen an icon like the one at the right appears during a concert battle.\npress the button indicated, and Haruka will change costumes.\nIdol Heat will then remain until the end of the song,\nmaking button presses more effective.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7758,
+"en": "In order to use Climax Heat on the Princess League,\nyour Climax Heat Gauge must be filled beforehand.\nGo see Yoko before the final round to fill your gauge.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7759,
+"en": "<Color:2>Empty<Color:10>",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7760,
+"en": "Dance Heat actions are not set.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7761,
+"en": "Remove the selected Dance Heat action.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7762,
+"en": "Animal",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7763,
+"en": "Plant",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7764,
+"en": "Deer",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7765,
+"en": "Doe",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7766,
+"en": "Rabbit",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7767,
+"en": "Marten",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7768,
+"en": "Fox",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7769,
+"en": "Supply the Trader",
+"ctx": "menú/texto string_tbl + tabla yukiyama_menu_mission|MISSION"
+},
+{
+"id": 7770,
+"en": "Pray to Jizo Statues",
+"ctx": "menú/texto string_tbl + tabla yukiyama_menu_mission|MISSION"
+},
+{
+"id": 7771,
+"en": "Find the Time Capsule",
+"ctx": "menú/texto string_tbl + tabla yukiyama_menu_mission|MISSION"
+},
+{
+"id": 7772,
+"en": "Dummy Mission 4",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7773,
+"en": "Dummy Mission 5",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7774,
+"en": "Dummy Mission 6",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7775,
+"en": "Dummy Mission 7",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7776,
+"en": "Dummy Mission 8",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7777,
+"en": "Dummy Mission 9",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7778,
+"en": "Dummy Mission 10",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7779,
+"en": "Dummy Mission 11",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7780,
+"en": "Dummy Mission 12",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7781,
+"en": "Dummy Result 1",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7782,
+"en": "Dummy Result 2",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7783,
+"en": "Dummy Result 3",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7784,
+"en": "Dummy Result 4",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7785,
+"en": "Dummy Result 5",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7786,
+"en": "Dummy Result 6",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7787,
+"en": "Dummy Result 7",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7788,
+"en": "Dummy Result 8",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7789,
+"en": "Dummy Result 9",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7790,
+"en": "Dummy Result 10",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7791,
+"en": "Dummy Result 11",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7792,
+"en": "Dummy Result 12",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7793,
+"en": "Horizontal Double",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7794,
+"en": "Vertical Double (1)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7795,
+"en": "Vertical Double (2)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7796,
+"en": "Vertical Double (3)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7797,
+"en": "Dummy Accessory 1",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7798,
+"en": "Dummy Accessory 2",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7799,
+"en": "Hunting Hut",
+"ctx": "menú/texto string_tbl + tabla jisseki_snow|NAME"
+},
+{
+"id": 7800,
+"en": "Trap Site",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7801,
+"en": "Rescues",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7802,
+"en": "Dummy Results 1",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7803,
+"en": "Dummy Results 2",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7804,
+"en": "Dummy Results 3",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7805,
+"en": "Dummy Results 4",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7806,
+"en": "Dummy Skill 1",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7807,
+"en": "Dummy Skill 2",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7808,
+"en": "Dummy Skill 3",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7809,
+"en": "Dummy Skill 4",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7810,
+"en": "Dummy Skill 5",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7811,
+"en": "Dummy Skill 6",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7812,
+"en": "Completed",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7813,
+"en": "Come with me. ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7814,
+"en": "Stay put.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7815,
+"en": "Snow Wear",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7816,
+"en": "Status",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7817,
+"en": "Legend",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7818,
+"en": "Recommended for players who are new to action games or the Yakuza series.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7819,
+"en": "This is the standard difficulty level.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7820,
+"en": "Recommended for players who are skilled at action games.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7821,
+"en": "A punishing mode where you can't use continues.\nFor those who want the ultimate challenge.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7822,
+"en": "Danger! Do not choose!\nSerious injury may result from this mode!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7823,
+"en": "Special Games",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7824,
+"en": "Network",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7825,
+"en": "New Game",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7826,
+"en": "New Game+",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7827,
+"en": "Ultimate Match",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7828,
+"en": "Reminisce",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7829,
+"en": "Warning",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7830,
+"en": "Load Clear Data",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7831,
+"en": "Start New Game",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7832,
+"en": "Start a new game from the beginning.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7833,
+"en": "Continue a previously saved game.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7834,
+"en": "Start a new game from the beginning, retaining\nall abilities, items, and money from Clear Data.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7835,
+"en": "Explore the game world without following the story.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7836,
+"en": "A high difficulty mode where you clear out battle missions with\nvarious conditions. You can obtain a rare item if you clear them all.\n",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7837,
+"en": "View cutscenes that you have watched at least once before.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7838,
+"en": "Play special game modes that you unlock by\nmeeting specific conditions.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7839,
+"en": "Check information pertaining to Extra Modes.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7840,
+"en": "Change a variety of settings, including camera control.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7841,
+"en": "Experience a part of the story.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7842,
+"en": "Explore the game world.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7843,
+"en": "Please read before playing.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7844,
+"en": "Retain Clear Data and explore the game world\nwithout following the story.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7845,
+"en": "Start a new game from scratch and explore\nthe game world without following the story.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7846,
+"en": "Stats:",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7847,
+"en": "Of The End",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7848,
+"en": "%s times",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7849,
+"en": "Completion Rate ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7850,
+"en": "%s yen",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7851,
+"en": "Continues",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7852,
+"en": "Distance Traveled",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7853,
+"en": "Times Defeated",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7854,
+"en": "Objects Destroyed",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7855,
+"en": "Total Money Collected",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7856,
+"en": "Meals Eaten",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7857,
+"en": "Recovery Items Used",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7858,
+"en": "Number of Street Fights",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7859,
+"en": "Heat Actions Used",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7860,
+"en": "Heat Action Finishes",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7861,
+"en": "Completion Total",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7862,
+"en": "You can now obtain %s.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7863,
+"en": "You got a %s.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7864,
+"en": "A new mode has been added to the main menu.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7865,
+"en": "Legend difficulty has been unlocked.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7866,
+"en": "You can claim it by visiting Naomi's Palace\nif you start the game in New Game+\nor Premium Adventure mode.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7867,
+"en": "You can now claim it by starting the game in New Game+\nor Premium Adventure mode.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7868,
+"en": "You can now select %s %s.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7869,
+"en": "Legendary",
+"ctx": "menú/texto string_tbl + tabla ultimate|LEVEL"
+},
+{
+"id": 7870,
+"en": "Weakest",
+"ctx": "menú/texto string_tbl + tabla ultimate|LEVEL"
+},
+{
+"id": 7871,
+"en": "About the Network Service",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7872,
+"en": "Extra Modes",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7873,
+"en": "Manual Update",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7874,
+"en": "Network Menu",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7875,
+"en": "Connect 2 input devices.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7876,
+"en": "Check information pertaining to services that use the Network and additional content.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7877,
+"en": "Updates will occur automatically when the console has a network connection, but if the console is disconnected and a failure occures, you are able to manually update from here.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7878,
+"en": "Extra Modes are the additional content that was available via network in the regular version of Yakuza 3. ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7879,
+"en": " In Yakuza 3 the Best the additional content was already available and there was no need for updates. *Some content may differ from the regular version.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7880,
+"en": "Battle Against P2",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7881,
+"en": "Special Karaoke",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7882,
+"en": "Network Play",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7883,
+"en": "Game mode where you can play certain games with 2 players. This can be unlocked by earning certain trophies.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7884,
+"en": "A Special Karaoke mode that opens up when the scenario mode is cleared.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7885,
+"en": "Play games with others via the Network.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7886,
+"en": "Nothing to select right now.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7887,
+"en": "Taiko No Tatsujin",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|NAME"
+},
+{
+"id": 7888,
+"en": "Virtua Fighter 2",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|NAME"
+},
+{
+"id": 7889,
+"en": "A 2-player game of pool.\nThis mode is playable by acquiring the \"Dandy\" trophy.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7890,
+"en": "A 2-player game of darts.\nThis mode is playable by acquiring the \"Dandy\" trophy.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7891,
+"en": "A 2-player game of Taiko No Tatsujin.\nThis mode is playable by acquiring the \"***\" trophy.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7892,
+"en": "A 2-player game of golf.\nThis mode is playable by acquiring the \"Outdoor Master\" trophy.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7893,
+"en": "A 2-player game of bowling.\nThis mode is playable by acquiring the \"Indoor Sports Guy\" trophy.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7894,
+"en": "A 2-player game of Virtua Fighter 2.\nThis mode is playable by acquiring the \"***\" trophy.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7895,
+"en": "An online match mode for Virtua Fighter 2.",
+"ctx": "menú/texto string_tbl + tabla extra|MSG_WINDOW"
+},
+{
+"id": 7896,
+"en": "Majima and Kiryu Karaoke",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7897,
+"en": "Karaoke with Majima.\nCombine your singing powers!\nCannot save rankings.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7898,
+"en": "Character Select (P1)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7899,
+"en": "Character Select (P2)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7900,
+"en": "Select the character P1 will use.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7901,
+"en": "Select the character P2 will use.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7902,
+"en": "2 input devices are required.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7903,
+"en": "A network error occurred.\n",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7904,
+"en": "Closing network rankings.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7905,
+"en": "Out of Area　",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7906,
+"en": "Getting scores...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7907,
+"en": "Not submitted",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7908,
+"en": "<Action:Button_Circle>Do Not Agree",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7909,
+"en": "Transmit and receive ranking data?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7910,
+"en": "*This process may take a few seconds.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7911,
+"en": "Connecting...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7912,
+"en": "Completed data transmission. Starting tabulation on server. *Please check the updated ranking after some time has passed. *You can also check at your hideout.　　　",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7913,
+"en": "Completed data transmission. Continuous tabulations are being done on server. *Please check the updated ranking after some time has passed.　",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7914,
+"en": "A network error occurred. Ending network ranking.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7915,
+"en": "No Ranking Data",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7916,
+"en": "Network Ranking Menu",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7917,
+"en": "Mode Select",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7918,
+"en": "Two-player Versus Mode",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7919,
+"en": "Music Video Mode",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7920,
+"en": "Play select two-player minigames.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7921,
+"en": "Watch videos of concert battles.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7922,
+"en": "A two-player versus mode for Taiko No Tatsujin. ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7923,
+"en": "A two-player versus mode for Virtua Fighter 2.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7924,
+"en": "A two-player versus mode for Pool.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7925,
+"en": "A two-player versus mode for Darts.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7926,
+"en": "A two-player versus mode for Bowling.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7927,
+"en": "Watch \"So Much More!\"",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7928,
+"en": "Watch \"Loneliness Loop.\"",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7929,
+"en": "Watch \"Because I Have You.\"",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7930,
+"en": "Watch \"Dream.\"",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7931,
+"en": "Unlock by downloading Extra Modes.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7932,
+"en": "Unlock by downloading Extra Content.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7933,
+"en": "Unlock by playing \"So Much More!\"",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7934,
+"en": "Unlock by playing \"Loneliness Loop\".",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7935,
+"en": "Unlock by playing \"Because I Have You\".",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7936,
+"en": "Unlock by playing \"Dream\".",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7937,
+"en": "Play Virtua Fighter 2",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7938,
+"en": "Play Virtua Fighter 2.1",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7939,
+"en": "Adjust Controls",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7940,
+"en": "Adjust Screen",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7941,
+"en": "A 2 player mode for Virtua Fighter 2.",
+"ctx": "menú/texto string_tbl + tabla extra|MSG_WINDOW"
+},
+{
+"id": 7942,
+"en": "A 2 player mode for Virtua Fighter 2.1.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7943,
+"en": "Change the controls for Virtua Fighter 2.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7944,
+"en": "Change the screen settings for Virtua Fighter 2.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7945,
+"en": "These settings apply only to Virtua Fighter 2.",
+"ctx": "menú/texto string_tbl + diálogo uid0111064f"
+},
+{
+"id": 7946,
+"en": "Use <Action:Button_DPad_Up> to zoom in and <Action:Button_DPad_Down> to zoom out. These settings \napply only to Virtua Fighter 2.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7947,
+"en": "Turn this on to automatically assign Soul Orbs\nand improve your abilities when you gain a level.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7948,
+"en": "Start an online match.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7949,
+"en": "It's all on you!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7950,
+"en": "Push 'em back!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7951,
+"en": "Brace yourself!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7952,
+"en": "Fight with me!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7953,
+"en": "Difficulty:",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7954,
+"en": "Win Rate %3d%",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7955,
+"en": "Round 1%s",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7956,
+"en": "Semifinals%s",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7957,
+"en": "Finals%s",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7958,
+"en": "Popularity Points Earned",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7959,
+"en": "%s Coliseum Points ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7960,
+"en": "Round 1",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|STRING"
+},
+{
+"id": 7961,
+"en": "Entries",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7962,
+"en": "Cannot participate. You do not have a partner.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7963,
+"en": "View Details",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7964,
+"en": "Legendary Arena Grand Prix",
+"ctx": "menú/texto string_tbl + tabla tougijyo_mode|NAME"
+},
+{
+"id": 7965,
+"en": "Ranked Arena Grand Prix",
+"ctx": "menú/texto string_tbl + tabla complete_tougijyo|NAME …"
+},
+{
+"id": 7966,
+"en": "Maximum Grand Prix",
+"ctx": "menú/texto string_tbl + tabla complete_tougijyo|NAME …"
+},
+{
+"id": 7967,
+"en": "Twin Dragon Grand Prix",
+"ctx": "menú/texto string_tbl + tabla complete_tougijyo|NAME …"
+},
+{
+"id": 7968,
+"en": "Weapon Master Grand Prix",
+"ctx": "menú/texto string_tbl + tabla complete_tougijyo|NAME …"
+},
+{
+"id": 7969,
+"en": "Street Fight Grand Prix",
+"ctx": "menú/texto string_tbl + tabla complete_tougijyo|NAME …"
+},
+{
+"id": 7970,
+"en": "Limited Berserk",
+"ctx": "menú/texto string_tbl + tabla complete_tougijyo|NAME …"
+},
+{
+"id": 7971,
+"en": "King of Kings",
+"ctx": "menú/texto string_tbl + tabla complete_tougijyo|NAME …"
+},
+{
+"id": 7972,
+"en": "Deathmatch 100",
+"ctx": "menú/texto string_tbl + tabla complete_tougijyo|NAME …"
+},
+{
+"id": 7973,
+"en": "Breakout Grand Prix",
+"ctx": "menú/texto string_tbl + tabla complete_tougijyo|NAME …"
+},
+{
+"id": 7974,
+"en": "Heat Bomber Grand Prix",
+"ctx": "menú/texto string_tbl + tabla complete_tougijyo|NAME …"
+},
+{
+"id": 7975,
+"en": "The Legendary Arena Grand Prix pits the top ranked fighter against\nthe next three highest ranked contenders itching to be number one.\nWho will be left standing after this clash of the titans!?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7976,
+"en": "The Ranked Arena Grand Prix is open to only the highest ranked\nfighters chosen to wage battle in the Underground Coliseum. This\nis truly a battle to crown the ultimate fighter!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7977,
+"en": "The Maximum Grand Prix features the greatest battles waged between\nthe ultimate fighters. Bear witness to epic combat between heroic\nwarriors who have overcome countless ordeals to make it here!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7978,
+"en": "The team attacks come fast and furious in the Twin Dragon Grand\nPrix, where the Underground Coliseum's number one tag team will\nbe decided!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7979,
+"en": "The Weapon Master Grand Prix was established to satisfy those fans\nwho felt craved more from unarmed combat. Get ready for the thrills\nand chills that can only come in an epic clash of weaponry!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7980,
+"en": "Anything goes in the Street Fight Grand Prix. Lethal weapons and\nblatant infractions are legal, and even encouraged to faithfully recreate\nthe fights waged on the streets of Kamurocho!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7981,
+"en": "Limited health and many opponents! That's what Limited Berserk\nis all about. How long can you keep fighting under such extreme\nconditions? The only things you can count on are your wits and skill!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7982,
+"en": "King of Kings is a battle royale waged between the best fighters\nunder the most extreme conditions. This is the violent bloodletting\nthe Underground Coliseum has been waiting for!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7983,
+"en": "Get ready for Deathmatch 100, a seemingly endless journey of\nviolence and opponents beyond measure! But the journey does end\nif you survive, and awaiting you is a fortune in prize money!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7984,
+"en": "A black abyss lies just beyond the confines of the shattered battle\ncage. Fall in, and you automatically lose. In the Breakout Grand Prix,\nknocking out your opponents takes on a whole new meaning!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7985,
+"en": "Bombs rain down and scorching hot plates increase as time goes by.\nWelcome to the Heat Bomber Grand Prix. You've never seen a coliseum\nbattle like this!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7986,
+"en": "This mode is not yet unlocked.\nUnlock by mastering the rankings.\nOnly playable in Premium Adventure mode.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7987,
+"en": "This mode is not yet unlocked.\nUnlock by placing 10th or higher in the Battle Rankings.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7988,
+"en": "Maximum Grand Prix unlocked (debug text)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7989,
+"en": "Twin Dragon Grand Prix unlocked (debug text)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7990,
+"en": "Weapon Master Grand Prix unlocked (debug text)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7991,
+"en": "Street Fight Grand Prix unlocked (debug text)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7992,
+"en": "This mode is not yet unlocked.\nUnlock by placing 4th or higher in the Battle Rankings.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7993,
+"en": "This mode is not yet unlocked.\nUnlock by placing 20th or higher in the Battle Rankings.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7994,
+"en": "This mode is not yet unlocked.\nUnlock by placing 30th or higher in the Battle Rankings.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7995,
+"en": "This mode is not yet unlocked.\nUnlock by finishing the Victory Road tournament.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7996,
+"en": "Victory Points",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7997,
+"en": "Cheers",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7998,
+"en": "Perfect Rounds",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7999,
+"en": "Total Time",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 8000,
+"en": "High Voltage",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 8001,
+"en": "Go nuts!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 8002,
+"en": "Applause",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 8003,
+"en": "Wet Blanket",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 8004,
+"en": "Runner-Up",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 8005,
+"en": "Lost in Semifinals",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 8006,
+"en": "Lost in Round 1",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 8007,
+"en": "This veteran of the Underground Coliseum once faced off against Kiryu.\nThe bond between them, one that could only be forged through mortal\ncombat, is what made him decide to form a tag team with his former rival.",
+"ctx": "menú/texto string_tbl"
+}
+]

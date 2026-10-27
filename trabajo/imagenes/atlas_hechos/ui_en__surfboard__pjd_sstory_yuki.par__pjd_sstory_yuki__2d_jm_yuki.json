@@ -1,0 +1,69 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_yuki.par/pjd_sstory_yuki/2d_jm_yuki",
+ "fuente": "segoeuib.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    71,
+    88,
+    121,
+    105
+   ],
+   "en": "Done",
+   "es": "Listo",
+   "fuente": "times.ttf",
+   "alin": "centro",
+   "ancho_max": 48,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 14,
+   "margen": 0
+  },
+  {
+   "caja": [
+    0,
+    66,
+    64,
+    82
+   ],
+   "en": "mission",
+   "es": "misión",
+   "fuente": "segoeuib.ttf",
+   "alin": "izq",
+   "ancho_max": 60,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 13
+  },
+  {
+   "caja": [
+    0,
+    83,
+    44,
+    99
+   ],
+   "en": "clear",
+   "es": "hecha",
+   "fuente": "segoeuib.ttf",
+   "alin": "izq",
+   "ancho_max": 41,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 12
+  }
+ ]
+}

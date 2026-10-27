@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_sa2",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    94,
+    133,
+    417,
+    253
+   ],
+   "en": "You gotta be kiddin' me",
+   "ocr": "Yougottabe Kiddinme",
+   "es": "¿Me estás tomando el pelo?",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 323
+  }
+ ]
+}

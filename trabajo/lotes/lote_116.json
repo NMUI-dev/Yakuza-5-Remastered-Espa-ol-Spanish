@@ -1,0 +1,722 @@
+[
+{
+"id": 27345,
+"en": "<Color:7>Personality<Color:Default> affects how condition varies. It may\nchange through breeding.\n\nEarnest: Unlikely to be Lousy or Perfect.\nRogue: Often Poor, but has Good or Perfect runs.\nFickle: Often Perfect, but Lousy just as often.\nMoody: Often Good or Perfect, but stops often.",
+"ctx": "diálogo uid002001ac"
+},
+{
+"id": 27346,
+"en": "There are three <Color:7>running styles<Color:Default>. They may change\nfrom breeding.\n\nNormal: Gradually speeds up.\nSprint: Hits top speed early; gradually fades.\nDistance: Initially slow; strong second half.",
+"ctx": "diálogo uid002001ac"
+},
+{
+"id": 27347,
+"en": "Select <Color:7>Train a Cochin<Color:Default> from the main page to\nhave a trainer work on a bird in exchange for a\ngift. <Color:7>The more expensive a gift, the better the\nparameter gain.<Color:Default> Each trainer has an area they\nfocus on when training birds. Though rare, your\nCochin may learn a skill. Cochins cannot be\ntrained beyond their potential, but their growth\npotential can be extended through breeding.",
+"ctx": "diálogo uid002001ac"
+},
+{
+"id": 27348,
+"en": "Select <Color:7>Breeding<Color:Default> from the main page to breed\nyour Cochin with a hen of your choice.",
+"ctx": "diálogo uid002001ac"
+},
+{
+"id": 27349,
+"en": "Breeding has the following effects:\n\n<Color:16>- Boosts parameter growth limits.<Color:Default>\n<Color:16>- Passes on skills.<Color:Default>\n<Color:16>- Reduces the race limit to zero.<Color:Default>\n<Color:16>- If there are five skills, one is forgotten.<Color:Default>\n<Color:16>- A new skill may be learned.<Color:Default>\n<Color:16>- The personality may change.<Color:Default>\n<Color:16>- The running style may change.<Color:Default>",
+"ctx": "diálogo uid002001ac"
+},
+{
+"id": 27350,
+"en": "Breeding is free, but the Cochin must <Color:7>run a\ncertain number of races<Color:Default> before it can breed.",
+"ctx": "diálogo uid002001ac"
+},
+{
+"id": 27351,
+"en": "There are four classes, each with five races.\nA Cochin can advance to a higher class only by\nwinning all five races in a class.",
+"ctx": "diálogo uid002001ac"
+},
+{
+"id": 27352,
+"en": "By satisfying certain conditions, a Cochin can\nearn titles after racing. View them by selecting\n<Color:7>View Titles<Color:Default> from the main page.",
+"ctx": "diálogo uid002001ac"
+},
+{
+"id": 27353,
+"en": "Your bird can earn prestigious titles, such as:\n\n\n- Flash: Leg Power of 500 or more.\n- Peerless: Win 3 in a row with the same bird.\n- Challenger: Win a race in Challenger Class.",
+"ctx": "diálogo uid002001ac"
+},
+{
+"id": 27354,
+"en": "You're leaving? Come by again when you can.",
+"ctx": "diálogo uid002001ac"
+},
+{
+"id": 27355,
+"en": "This is the Kineicho Branch of Kamiyama Works. What can I do for you?",
+"ctx": "diálogo uid002001d6"
+},
+{
+"id": 27356,
+"en": "Great, I'll be sure to let Kamiyama know. What're you going to invest?",
+"ctx": "diálogo uid002001d6"
+},
+{
+"id": 27357,
+"en": "What do you want to know about?",
+"ctx": "diálogo uid002001d6 + diálogo uid002001d7 …"
+},
+{
+"id": 27358,
+"en": "Kamiyama Works is a custom weapon and gear shop operated by the Kamiyama brothers. They craft a wide variety of equipment for a fee. Better weapons and protective gear will improve your chances against tough foes.",
+"ctx": "diálogo uid002001d6 + diálogo uid002001d7 …"
+},
+{
+"id": 27359,
+"en": "Weapons have limited durability⑬once durability drops to zero, the weapon becomes unusable until it is <Color:7>repaired or reloaded<Color:Default> at a Kamiyama Works shop or with a <Color:7>Repair Kit<Color:Default>. (You will not lose the weapon if its durability is depleted.)",
+"ctx": "diálogo uid002001d6 + diálogo uid002001d7 …"
+},
+{
+"id": 27360,
+"en": "For the most part, equipment is produced in exchange for money. Some require additional materials.\nThe range of offerings widens as the <Color:7>shop level<Color:Default> rises. The shop level can be raised by <Color:7>investing<Color:Default> in the shop.",
+"ctx": "diálogo uid002001d6 + diálogo uid002001d7 …"
+},
+{
+"id": 27361,
+"en": "All weapons are ranked (indicated by stars). The number of stars indicates the <Color:7>weapon skill level needed to equip the weapon<Color:Default>. You can view weapon skill levels under Abilities in the Pause Menu.",
+"ctx": "diálogo uid002001d6 + diálogo uid002001d7 …"
+},
+{
+"id": 27362,
+"en": "You can invest in Kamiyama Works by selecting <Color:7>Invest<Color:Default> from Kamiyama's menu. Investing raises the shop level, enabling the crafting of better weapons and protective gear.",
+"ctx": "diálogo uid002001d6 + diálogo uid002001d7 …"
+},
+{
+"id": 27363,
+"en": "Some weapons and protective gear become available only if certain materials are donated as investments. Kamiyama Works will accept any item as an investment.",
+"ctx": "diálogo uid002001d6 + diálogo uid002001d7 …"
+},
+{
+"id": 27364,
+"en": "Can I do anything else for you?",
+"ctx": "diálogo uid002001d6 + diálogo uid002001d7 …"
+},
+{
+"id": 27365,
+"en": "You know where to find us if you need anything.",
+"ctx": "diálogo uid002001d6 + diálogo uid002001d7"
+},
+{
+"id": 27366,
+"en": "Howdy. This is the Sotenbori Branch of Kamiyama Works. How can I serve you today?",
+"ctx": "diálogo uid002001d7"
+},
+{
+"id": 27367,
+"en": "Great. I'll let Kamiyama know about your investment. What will it be?",
+"ctx": "diálogo uid002001d7"
+},
+{
+"id": 27368,
+"en": "This is the Tsukimino Branch of Kamiyama Works. What can I do for you today?",
+"ctx": "diálogo uid002001d8"
+},
+{
+"id": 27369,
+"en": "Thanks! I'll make sure Kamiyama gets everything. So what are you going to invest?",
+"ctx": "diálogo uid002001d8"
+},
+{
+"id": 27370,
+"en": "We're always here if you need us.",
+"ctx": "diálogo uid002001d8"
+},
+{
+"id": 27371,
+"en": "Kazuma Kiryu?",
+"ctx": "diálogo uid00200228"
+},
+{
+"id": 27372,
+"en": "Word is you're undefeated here at the Underground Coliseum.",
+"ctx": "diálogo uid00200228"
+},
+{
+"id": 27373,
+"en": "The name's Raiden.",
+"ctx": "diálogo uid00200228"
+},
+{
+"id": 27374,
+"en": "Ah...",
+"ctx": "diálogo uid00200228 + diálogo uid0102071d"
+},
+{
+"id": 27375,
+"en": "What kind of greeting is that?",
+"ctx": "diálogo uid00200228"
+},
+{
+"id": 27376,
+"en": "I've yet to sign up for the qualifier, but we'll be facing each other soon enough.",
+"ctx": "diálogo uid00200228"
+},
+{
+"id": 27377,
+"en": "I heard the qualifying round here in Kamuro is packed with strong contenders. Hope you'll be rooting for me to make it to the finals.",
+"ctx": "diálogo uid00200228"
+},
+{
+"id": 27378,
+"en": "Why would I do that? I don't know you.",
+"ctx": "diálogo uid00200228"
+},
+{
+"id": 27379,
+"en": "Sorry. I don't know your customs here in Japan.",
+"ctx": "diálogo uid00200228"
+},
+{
+"id": 27380,
+"en": "What a peaceful nation this must be to have such a tournament as entertainment. Your fat cats must be really starved for blood.",
+"ctx": "diálogo uid00200228"
+},
+{
+"id": 27381,
+"en": "Are you done?",
+"ctx": "diálogo uid00200228"
+},
+{
+"id": 27382,
+"en": "Yeah, that's all I wanted to say.",
+"ctx": "diálogo uid00200228"
+},
+{
+"id": 27383,
+"en": "(Raiden... Seems he'll be in the qualifier. Probably means I'll run into him in town.)",
+"ctx": "diálogo uid00200228"
+},
+{
+"id": 27384,
+"en": "*huff* *cough*",
+"ctx": "diálogo uid00200279"
+},
+{
+"id": 27385,
+"en": "And the winner is... Kazuma Kiryu! The Dragon of Dojima is the Victory Road champion!",
+"ctx": "diálogo uid00200279"
+},
+{
+"id": 27386,
+"en": "It's over, Raiden.",
+"ctx": "diálogo uid00200279"
+},
+{
+"id": 27387,
+"en": "I don't understand. How could I have lost to someone like you? Your country... it's soft and weak!",
+"ctx": "diálogo uid00200279"
+},
+{
+"id": 27388,
+"en": "It doesn't matter if you survive in a living hell for a hundred years. It takes more than that to be strong.",
+"ctx": "diálogo uid00200279"
+},
+{
+"id": 27389,
+"en": "What? What are you talking about?",
+"ctx": "diálogo uid00200279"
+},
+{
+"id": 27390,
+"en": "You're obsessed with your tortured past, but true strength is more than that.",
+"ctx": "diálogo uid00200279"
+},
+{
+"id": 27391,
+"en": "What a load of bullshit! How could a coward like you know what I've been through!?",
+"ctx": "diálogo uid00200279"
+},
+{
+"id": 27392,
+"en": "You're just another fool who wears his misfortunes like a badge of honor. This country's full of 'em.",
+"ctx": "diálogo uid00200279"
+},
+{
+"id": 27393,
+"en": "The hell'd you say!?",
+"ctx": "diálogo uid00200279"
+},
+{
+"id": 27394,
+"en": "Fools like you want to make others suffer just like they did. And they always seek to victimize those who are weaker than themselves.",
+"ctx": "diálogo uid00200279"
+},
+{
+"id": 27395,
+"en": "Parents beat their kids and say it's because they were abused as children. Swindlers claim they were victims of fraud.",
+"ctx": "diálogo uid00200279"
+},
+{
+"id": 27396,
+"en": "But true strength is overcoming that kind of misery, not perpetuating it.",
+"ctx": "diálogo uid00200279"
+},
+{
+"id": 27397,
+"en": "You'll never defeat me as long as you think your suffering gives you a right to make others miserable, too.",
+"ctx": "diálogo uid00200279"
+},
+{
+"id": 27398,
+"en": "Damn you! Damn you to hell!",
+"ctx": "diálogo uid00200279"
+},
+{
+"id": 27399,
+"en": "Kazuma Kiryu!!!",
+"ctx": "diálogo uid00200279"
+},
+{
+"id": 27400,
+"en": "What can I do for you today?",
+"ctx": "diálogo uid002002d9 + diálogo uid00330446 …"
+},
+{
+"id": 27401,
+"en": "What will you invest?",
+"ctx": "diálogo uid002002d9 + diálogo uid00330446"
+},
+{
+"id": 27402,
+"en": "What would you like to know?",
+"ctx": "diálogo uid002002d9 + diálogo uid00330446 …"
+},
+{
+"id": 27403,
+"en": "For the most part, equipment is produced in exchange for money. Some require additional materials. The range of offerings widens as the <Color:7>shop level<Color:Default> rises. The shop level can be raised by <Color:7>investing<Color:Default> in the shop.",
+"ctx": "diálogo uid002002d9"
+},
+{
+"id": 27404,
+"en": "Thank you. Anything else?",
+"ctx": "diálogo uid002002d9 + diálogo uid00330446"
+},
+{
+"id": 27405,
+"en": "Please come again.",
+"ctx": "diálogo uid002002d9 + diálogo uid00330446 …"
+},
+{
+"id": 27406,
+"en": "I'm all outta cash... I'm all outta schemes... The hell am I gonna do?",
+"ctx": "diálogo uid0020069f"
+},
+{
+"id": 27407,
+"en": "Uh, you okay there?",
+"ctx": "diálogo uid0020069f"
+},
+{
+"id": 27408,
+"en": "Augh! Goddammit! You nearly scared the piss outta me!",
+"ctx": "diálogo uid0020069f"
+},
+{
+"id": 27409,
+"en": "Hm? Hey, I know you. Seen you at the race track.",
+"ctx": "diálogo uid0020069f"
+},
+{
+"id": 27410,
+"en": "What race track? Oh, could you mean the Cochin Cup?",
+"ctx": "diálogo uid0020069f"
+},
+{
+"id": 27411,
+"en": "Yeah. Ukai was showin' you around, right? Great, then I'll get straight to the point!",
+"ctx": "diálogo uid0020069f"
+},
+{
+"id": 27412,
+"en": "How would you like a brand-new cock, sir?",
+"ctx": "diálogo uid0020069f"
+},
+{
+"id": 27413,
+"en": "Whoa! Just like that?",
+"ctx": "diálogo uid0020069f"
+},
+{
+"id": 27414,
+"en": "He's one heckuva bird, lemme tell ya. He's got the chops to go for the Champion Class, but right now I'm really strapped for cash.",
+"ctx": "diálogo uid0020069f"
+},
+{
+"id": 27415,
+"en": "There's a turf war brewin', so I gotta load up on supplies at that there shop...",
+"ctx": "diálogo uid0020069f"
+},
+{
+"id": 27416,
+"en": "Oops, never mind, you didn't hear that. So, how 'bout that Cochin? Yours for only a hundred grand!",
+"ctx": "diálogo uid0020069f"
+},
+{
+"id": 27417,
+"en": "(Oof. Now that's a big-budget bird... But still, it would be nice to win that cup.)",
+"ctx": "diálogo uid0020069f"
+},
+{
+"id": 27418,
+"en": "Then we got ourselves a deal.",
+"ctx": "diálogo uid0020069f"
+},
+{
+"id": 27419,
+"en": "You handed over <Color:8>100,000 yen<Color:Default>.",
+"ctx": "diálogo uid0020069f"
+},
+{
+"id": 27420,
+"en": "You got a <Color:8>Cochin Chicken with Piercing Eyes<Color:Default>.",
+"ctx": "diálogo uid0020069f"
+},
+{
+"id": 27421,
+"en": "What, too expensive for ya? This boy's got rockets on his feet, ya know.",
+"ctx": "diálogo uid0020069f"
+},
+{
+"id": 27422,
+"en": "Okay, fine, I'll sweeten the deal. Take my boy for only 30,000 yen. It's a steal at that price!",
+"ctx": "diálogo uid0020069f"
+},
+{
+"id": 27423,
+"en": "You handed over <Color:8>30,000 yen<Color:Default>.",
+"ctx": "diálogo uid0020069f"
+},
+{
+"id": 27424,
+"en": "You got <Color:8>Cochin Chicken with Piercing Eyes<Color:Default>.",
+"ctx": "diálogo uid0020069f"
+},
+{
+"id": 27425,
+"en": "You're hagglin' me down even more? You're takin' me to the cleaners here! Have some pity.",
+"ctx": "diálogo uid0020069f"
+},
+{
+"id": 27426,
+"en": "...But beggars can't be choosers. This is my final offer. It's grand larceny at a mere 10,000 yen. Now buy my bird already!",
+"ctx": "diálogo uid0020069f"
+},
+{
+"id": 27427,
+"en": "Okay, we got ourselves a deal. You sure stuck it to me, though. What a deal you got! But, that's how it goes.",
+"ctx": "diálogo uid0020069f"
+},
+{
+"id": 27428,
+"en": "You handed over <Color:8>10,000 yen<Color:Default>.",
+"ctx": "diálogo uid0020069f"
+},
+{
+"id": 27429,
+"en": "That so... Well, I can't go any lower. Come back when you got real money to spend.",
+"ctx": "diálogo uid0020069f"
+},
+{
+"id": 27430,
+"en": "What, you're broke? I ain't some kinda chicken charity here.\nCome back when you got real money to spend.",
+"ctx": "diálogo uid0020069f"
+},
+{
+"id": 27431,
+"en": "Oh, it's you. Changed your mind about buying my cock?",
+"ctx": "diálogo uid0020069f"
+},
+{
+"id": 27432,
+"en": "Okay, fella, raise my boy right. I'm tellin ya, he'll take you to the poultry Promised Land!",
+"ctx": "diálogo uid0020069f"
+},
+{
+"id": 27433,
+"en": "Ah, what timing!",
+"ctx": "diálogo uid002006a0"
+},
+{
+"id": 27434,
+"en": "I saw you at the Cochin racetrack. As a fellow owner, I gotta commend you on a job well done.",
+"ctx": "diálogo uid002006a0"
+},
+{
+"id": 27435,
+"en": "Oh, thanks. Us chickenmeisters gotta stick together, right?",
+"ctx": "diálogo uid002006a0"
+},
+{
+"id": 27436,
+"en": "I'll be a former chickenmeister soon enough. I'm leaving town to work in Macau for a year.",
+"ctx": "diálogo uid002006a0"
+},
+{
+"id": 27437,
+"en": "Macau? Whoa, that's like, the gambling capital of the world! I envy you, man.",
+"ctx": "diálogo uid002006a0"
+},
+{
+"id": 27438,
+"en": "Yeah, but if I leave town for that long, I have to leave my bird behind.",
+"ctx": "diálogo uid002006a0"
+},
+{
+"id": 27439,
+"en": "So listen, can I give you my Cochin? You'd honestly be doing me a favor.",
+"ctx": "diálogo uid002006a0"
+},
+{
+"id": 27440,
+"en": "You serious?",
+"ctx": "diálogo uid002006a0 + diálogo uid00490128 …"
+},
+{
+"id": 27441,
+"en": "Well, I hate to let my champ go, but there's no way I can bring it to Macau with me.",
+"ctx": "diálogo uid002006a0"
+},
+{
+"id": 27442,
+"en": "It'll make me feel better knowing my bird's with an owner like you. You're the kind of guy who raises his Cochin to win.",
+"ctx": "diálogo uid002006a0"
+},
+{
+"id": 27443,
+"en": "Do me this favor. Can you raise my boy up right? With tender, loving care?",
+"ctx": "diálogo uid002006a0"
+},
+{
+"id": 27444,
+"en": "(Good thing he's not asking for money. I guess it wouldn't hurt.)",
+"ctx": "diálogo uid002006a0"
+},
+{
+"id": 27445,
+"en": "Great! I'm sure you'll bring out his true potential. Either way, he's yours now.",
+"ctx": "diálogo uid002006a0"
+},
+{
+"id": 27446,
+"en": "You got a <Color:8>Strong-looking Cochin Chicken<Color:Default>.",
+"ctx": "diálogo uid002006a0"
+},
+{
+"id": 27447,
+"en": "Okay. I'm not leaving for Macau just yet, so come back if you change your mind.",
+"ctx": "diálogo uid002006a0"
+},
+{
+"id": 27448,
+"en": "Hey! Change your mind about taking my bird?",
+"ctx": "diálogo uid002006a0"
+},
+{
+"id": 27449,
+"en": "He's all yours. Well, guess I'd better be heading off to Macau... Can't wait to see him all grown up and happy when I come back!",
+"ctx": "diálogo uid002006a0"
+},
+{
+"id": 27450,
+"en": "I'm back! Chargin' went on a little long!",
+"ctx": "diálogo uid002006cb"
+},
+{
+"id": 27451,
+"en": "Alrighty! It's... HYPER. YONASHIRO. TIME.",
+"ctx": "diálogo uid002006cb"
+},
+{
+"id": 27452,
+"en": "Uh, all you did was take your hat off. Is that all this \"hyper\" business is about?",
+"ctx": "diálogo uid002006cb"
+},
+{
+"id": 27453,
+"en": "Man, and I thought you were at least sharp enough to cut butter! Like I told ya, I'm uncappin' my power level! Cap on equals regular. Cap off equals ASS-KICKIN' HYPER TIME!",
+"ctx": "diálogo uid002006cb"
+},
+{
+"id": 27454,
+"en": "Umm... Are you all right?",
+"ctx": "diálogo uid002006cb"
+},
+{
+"id": 27455,
+"en": "Why does everyone keep askin' me that!? Shut up and fight me! Fight meee!",
+"ctx": "diálogo uid002006cb"
+},
+{
+"id": 27456,
+"en": "Holy... Shit... You did it. You beat my final form!",
+"ctx": "diálogo uid002006cb"
+},
+{
+"id": 27457,
+"en": "Hold... Hold on... Goin' Hyper Yonashiro takes a lot outta me. Gotta... rest.",
+"ctx": "diálogo uid002006cb"
+},
+{
+"id": 27458,
+"en": "You sure fought a lot harder this time. I don't get how taking your hat off makes such a big difference, though.",
+"ctx": "diálogo uid002006cb"
+},
+{
+"id": 27459,
+"en": "Nah, man. I couldn't beat you even in hyper mode. I'm small time. Maybe I oughta sign up to apprentice with the weapon master dude 'round these parts. Maybe that'll help me become big time!",
+"ctx": "diálogo uid002006cb"
+},
+{
+"id": 27460,
+"en": "Weapon master?",
+"ctx": "diálogo uid002006cb"
+},
+{
+"id": 27461,
+"en": "Didn't ya know? Word is there's a top weapon master right here in this city. The enticing scent of his skill is what drew me here in the first place.",
+"ctx": "diálogo uid002006cb"
+},
+{
+"id": 27462,
+"en": "Now, if you'll excuse me, I'm gonna get him to kick my ass until there's nothin' left to kick. Then I'll rise from the ashes a new man! The Omega Yonashiro!",
+"ctx": "diálogo uid002006cb"
+},
+{
+"id": 27463,
+"en": "Okey dokey, pokey! Catch ya later!",
+"ctx": "diálogo uid002006cb"
+},
+{
+"id": 27464,
+"en": "(Strange guy. I hope he makes it through the qualifiers.)",
+"ctx": "diálogo uid002006cb"
+},
+{
+"id": 27465,
+"en": "Doesn't look like anyone's here.",
+"ctx": "diálogo uid0020071a"
+},
+{
+"id": 27466,
+"en": "You have business here, too?",
+"ctx": "diálogo uid0020071a"
+},
+{
+"id": 27467,
+"en": "No, I was just...",
+"ctx": "diálogo uid0020071a"
+},
+{
+"id": 27468,
+"en": "Well, it looks like we both wasted our time, since no one's here.",
+"ctx": "diálogo uid0020071a"
+},
+{
+"id": 27469,
+"en": "But the guy who runs the place is usually over on <Color:7>West Ose Bridge Boulevard<Color:Default> when he's not here.",
+"ctx": "diálogo uid0020071a"
+},
+{
+"id": 27470,
+"en": "I'm good, though. It's too far for me. I can wait till later.",
+"ctx": "diálogo uid0020071a"
+},
+{
+"id": 27471,
+"en": "(<Color:7>West Ose Bridge Boulevard<Color:Default>, huh? That's near my apartment. Maybe I should look into what kind of place he's got here.)",
+"ctx": "diálogo uid0020071a"
+},
+{
+"id": 27472,
+"en": "Hello. Please purchase a meal ticket.",
+"ctx": "diálogo uid00330014 + diálogo uid00330015"
+},
+{
+"id": 27473,
+"en": "You're underage, aren't you, miss? I'm sorry, but I'm not allowed to serve you any alcohol.",
+"ctx": "diálogo uid00330016"
+},
+{
+"id": 27474,
+"en": "Hello, Kiryu-san. What can I get you?",
+"ctx": "diálogo uid00330016"
+},
+{
+"id": 27475,
+"en": "Kiryu-san, I think you've had enough.",
+"ctx": "diálogo uid00330016"
+},
+{
+"id": 27476,
+"en": "Would you like another, Kiryu-san?",
+"ctx": "diálogo uid00330016"
+},
+{
+"id": 27477,
+"en": "I see. Please do come again.",
+"ctx": "diálogo uid00330016 + diálogo uid00330764"
+},
+{
+"id": 27478,
+"en": "Welcome. Have you decided what you would like to order?",
+"ctx": "diálogo uid00330016"
+},
+{
+"id": 27479,
+"en": "Excuse me, but I think you've had enough.",
+"ctx": "diálogo uid00330016 + diálogo uid00330538 …"
+},
+{
+"id": 27480,
+"en": "Would you like another?",
+"ctx": "diálogo uid00330016 + diálogo uid00330764"
+},
+{
+"id": 27481,
+"en": "Uncle Kaz, wanna hear a joke about tuna? Um... Actually, can you just get me a <Color:8>Tuna Onigiri<Color:Default>, please?",
+"ctx": "diálogo uid00330025 + diálogo uid01690472"
+},
+{
+"id": 27482,
+"en": "(Haruka wants a <Color:8>Tuna Onigiri<Color:Default>. I think I already heard that joke...)",
+"ctx": "diálogo uid00330025 + diálogo uid01690472"
+},
+{
+"id": 27483,
+"en": "Aw, but I wanted a <Color:8>Tuna Onigiri<Color:Default>... I didn't even tell the joke this time.",
+"ctx": "diálogo uid00330025"
+},
+{
+"id": 27484,
+"en": "I have some items from the Online Shop. Please take a look.\n ",
+"ctx": "diálogo uid00330025 + diálogo uid00330026 …"
+},
+{
+"id": 27485,
+"en": "You received a package from the Online Shop.  ",
+"ctx": "diálogo uid00330025 + diálogo uid00330026 …"
+},
+{
+"id": 27486,
+"en": "Thank you. We look forward to having you again.",
+"ctx": "diálogo uid00330025 + diálogo uid01330043 …"
+},
+{
+"id": 27487,
+"en": "You're here to pick up your items? Which one would you like to pick up?\n ",
+"ctx": "diálogo uid00330025 + diálogo uid00330026 …"
+},
+{
+"id": 27488,
+"en": "I was told, \"I will only send an item pack once.\"  Please come again.\n \n ",
+"ctx": "diálogo uid00330025 + diálogo uid00330026 …"
+}
+]

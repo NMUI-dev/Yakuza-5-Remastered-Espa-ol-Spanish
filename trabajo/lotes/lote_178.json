@@ -1,0 +1,882 @@
+[
+{
+"id": 39176,
+"en": "I wish you the best of luck, sir.",
+"ctx": "diálogo uid01021042 + diálogo uid01021043 …"
+},
+{
+"id": 39177,
+"en": "How to Play '01 Games",
+"ctx": "diálogo uid01021043 + diálogo uid01021049 …"
+},
+{
+"id": 39178,
+"en": "The players attempt to reduce their score from a fixed number until they reach exactly zero.\n ",
+"ctx": "diálogo uid01021043 + diálogo uid01021049 …"
+},
+{
+"id": 39179,
+"en": "You bust if you go under zero, at which point your opponent gets to play. Your points will revert to what they were when the round started.\n \n ",
+"ctx": "diálogo uid01021043 + diálogo uid01021049 …"
+},
+{
+"id": 39180,
+"en": "The first player to reach exactly zero at the end of the assigned number of rounds wins.\n ",
+"ctx": "diálogo uid01021043 + diálogo uid01021049 …"
+},
+{
+"id": 39181,
+"en": "If neither player can reach zero during the allotted rounds, the player with fewer remaining points is declared the winner.\n \n ",
+"ctx": "diálogo uid01021043 + diálogo uid01021049 …"
+},
+{
+"id": 39182,
+"en": "In '01 Games, both the outer and inner bull are worth 50 points.\n \n ",
+"ctx": "diálogo uid01021043 + diálogo uid01021049 …"
+},
+{
+"id": 39183,
+"en": "How to Play Cricket",
+"ctx": "diálogo uid01021044 + diálogo uid0102104a …"
+},
+{
+"id": 39184,
+"en": "In cricket, only the numbers 15 through 20 and the bull's-eye are used.\n ",
+"ctx": "diálogo uid01021044 + diálogo uid0102104a …"
+},
+{
+"id": 39185,
+"en": "Singles count as one hit, Doubles count as two hits, and Triples count as three hits.\n \n ",
+"ctx": "diálogo uid01021044 + diálogo uid01021045 …"
+},
+{
+"id": 39186,
+"en": "Three hits on a number closes it. \n ",
+"ctx": "diálogo uid01021044 + diálogo uid01021045 …"
+},
+{
+"id": 39187,
+"en": "The points from subsequent hits on a number you closed are added to your score. \n \n ",
+"ctx": "diálogo uid01021044 + diálogo uid0102104a …"
+},
+{
+"id": 39188,
+"en": "When all rounds are concluded, the player with the higher score is declared the winner.\n ",
+"ctx": "diálogo uid01021044 + diálogo uid01021045 …"
+},
+{
+"id": 39189,
+"en": "However, the game will also end if all numbers are closed before the end of the assigned number of rounds, and the player with the higher score is declared the winner.\n \n ",
+"ctx": "diálogo uid01021044 + diálogo uid01021045 …"
+},
+{
+"id": 39190,
+"en": "How to Play Random Cricket",
+"ctx": "diálogo uid01021045 + diálogo uid0102104b …"
+},
+{
+"id": 39191,
+"en": "Unlike standard cricket, random cricket uses the bullseye and six randomly selected numbers.\n \n ",
+"ctx": "diálogo uid01021045 + diálogo uid0102104b …"
+},
+{
+"id": 39192,
+"en": "The points from subsequent hits on a number you closed are added to your score.\n \n ",
+"ctx": "diálogo uid01021045 + diálogo uid01021046 …"
+},
+{
+"id": 39193,
+"en": "How to Play Hidden Cricket",
+"ctx": "diálogo uid01021046 + diálogo uid0102104c …"
+},
+{
+"id": 39194,
+"en": "Unlike standard cricket, hidden cricket uses seven hidden numbers.\n ",
+"ctx": "diálogo uid01021046 + diálogo uid0102104c …"
+},
+{
+"id": 39195,
+"en": "The seven numbers are hidden at the start of the game and are not revealed until they are hit by a player. \n ",
+"ctx": "diálogo uid01021046 + diálogo uid0102104c …"
+},
+{
+"id": 39196,
+"en": "Players who reveal a hidden number by hitting it for the first time receive an open bonus.\n ",
+"ctx": "diálogo uid01021046 + diálogo uid0102104c …"
+},
+{
+"id": 39197,
+"en": "Hitting numbers in the single ring counts as one hit, the double ring as two hits, and the triple ring as three hits.\n ",
+"ctx": "diálogo uid01021046 + diálogo uid0102104c …"
+},
+{
+"id": 39198,
+"en": "Oh my, looks like you won a <Color:8>Tauriner ++<Color:Default>. Congratulations!\n ",
+"ctx": "diálogo uid0102104e + diálogo uid01021053 …"
+},
+{
+"id": 39199,
+"en": "Oh my, looks like you won a <Color:8>Staminan XX<Color:Default>. Congratulations!\n ",
+"ctx": "diálogo uid0102104f + diálogo uid01021054 …"
+},
+{
+"id": 39200,
+"en": "You got <Color:8>Staminan XX<Color:Default>.",
+"ctx": "diálogo uid0102104f + diálogo uid01021054 …"
+},
+{
+"id": 39201,
+"en": "Oh my, looks like you won a <Color:8>Toughness Z<Color:Default>. Congratulations!\n ",
+"ctx": "diálogo uid01021050 + diálogo uid01021055 …"
+},
+{
+"id": 39202,
+"en": "You got <Color:8>Toughness Z<Color:Default>.",
+"ctx": "diálogo uid01021050 + diálogo uid01021055 …"
+},
+{
+"id": 39203,
+"en": "Oh my, looks like you won a <Color:8>French Handbag<Color:Default>. Congratulations!\n ",
+"ctx": "diálogo uid01021051 + diálogo uid01021056 …"
+},
+{
+"id": 39204,
+"en": "You got <Color:8>French Handbag<Color:Default>.",
+"ctx": "diálogo uid01021051 + diálogo uid01021056 …"
+},
+{
+"id": 39205,
+"en": "Oh my, looks like you won a <Color:8>Kiss on the Cheek<Color:Default>. Congratulations!\n ",
+"ctx": "diálogo uid01021052 + diálogo uid01021057 …"
+},
+{
+"id": 39206,
+"en": "Welcome. Have you decided on your order?",
+"ctx": "diálogo uid01021082"
+},
+{
+"id": 39207,
+"en": "Let's see, what would you recommend?",
+"ctx": "diálogo uid01021082"
+},
+{
+"id": 39208,
+"en": "I'd say our original mizutaki is what we're known for.",
+"ctx": "diálogo uid01021082"
+},
+{
+"id": 39209,
+"en": "Perfect. I'll have that, then.",
+"ctx": "diálogo uid01021082"
+},
+{
+"id": 39210,
+"en": "Coming right up.",
+"ctx": "diálogo uid01021082"
+},
+{
+"id": 39211,
+"en": "Thank you for waiting. Here's your mizutaki, folks.",
+"ctx": "diálogo uid01021082"
+},
+{
+"id": 39212,
+"en": "Wow, it looks almost like a home-cooked meal. Well, without further ado!",
+"ctx": "diálogo uid01021082"
+},
+{
+"id": 39213,
+"en": "It's incredible!",
+"ctx": "diálogo uid01021082"
+},
+{
+"id": 39214,
+"en": "This is beyond expectation! Something that could change a man's life!",
+"ctx": "diálogo uid01021082"
+},
+{
+"id": 39215,
+"en": "Honestly, I wasn't sure what to expect. I know it's a local favorite, but I was worried it might end up tasting like every other stew that's out there.",
+"ctx": "diálogo uid01021082"
+},
+{
+"id": 39216,
+"en": "But this is on a whole new level. This chicken broth is fantastic. The flavors are all in harmony. I bet they work hard to get it like this.",
+"ctx": "diálogo uid01021082"
+},
+{
+"id": 39217,
+"en": "Mm, I'm just... blown away right now!",
+"ctx": "diálogo uid01021082"
+},
+{
+"id": 39218,
+"en": "Oh, you are too kind! Our chef would love to hear that.",
+"ctx": "diálogo uid01021082"
+},
+{
+"id": 39219,
+"en": "Driver, I can't thank you enough for taking me here!",
+"ctx": "diálogo uid01021082"
+},
+{
+"id": 39220,
+"en": "Oh, sure... Glad you're enjoying yourself.",
+"ctx": "diálogo uid01021082"
+},
+{
+"id": 39221,
+"en": "(...At least in here, no one can hear him call me by name.)",
+"ctx": "diálogo uid01021088"
+},
+{
+"id": 39222,
+"en": "...And boy, did I run into a fiasco in India! How'd they\nexpect me to know⑬ Hey, are you listening, Kiryu-san?",
+"ctx": "diálogo uid01021088"
+},
+{
+"id": 39223,
+"en": "Oh, uh, yeah. How have you been?",
+"ctx": "diálogo uid01021088"
+},
+{
+"id": 39224,
+"en": "You know me, man. Busy as a globetrotting bumblebee, looking for all those perfect shots.",
+"ctx": "diálogo uid01021088"
+},
+{
+"id": 39225,
+"en": "How would you define a perfect shot?",
+"ctx": "diálogo uid01021088"
+},
+{
+"id": 39226,
+"en": "Let me tell you like this. It's when a scene catches your\neye, and next thing you know, it sucks you into a trance.\nSomething so powerful, it gives you a Revelation.",
+"ctx": "diálogo uid01021088"
+},
+{
+"id": 39227,
+"en": "A Revelation, huh...",
+"ctx": "diálogo uid01021088"
+},
+{
+"id": 39228,
+"en": "You betcha. See, when someone's got a Revelation, it means\ntheir brain is going on overdrive. That hyped-up mode of\nthinking unlocks new powers within.",
+"ctx": "diálogo uid01021088"
+},
+{
+"id": 39229,
+"en": "Not to toot my own horn, but as a photographic phenom, it's\nmy mission in life to compile as many groundbreaking,\nbreathtaking, Revelation-triggering snapshots as possible!",
+"ctx": "diálogo uid01021088"
+},
+{
+"id": 39230,
+"en": "Yeah... I remember you saying something like that when we last met.",
+"ctx": "diálogo uid01021088"
+},
+{
+"id": 39231,
+"en": "Oh for sure. You helped me out a ton back then, remember?",
+"ctx": "diálogo uid01021088"
+},
+{
+"id": 39232,
+"en": "Did I?",
+"ctx": "diálogo uid01021088 + diálogo uid010d0017"
+},
+{
+"id": 39233,
+"en": "Of course! All those super-wicked shots you sent me changed my life! And I don't say that lightly.",
+"ctx": "diálogo uid01021088"
+},
+{
+"id": 39234,
+"en": "Though lately, you haven't sent me a thing.",
+"ctx": "diálogo uid01021088"
+},
+{
+"id": 39235,
+"en": "That was a bitter pill to swallow, seeing all that premium Kiryu content dwindle down to nothingness in my inbox. My emotional life was impacted.",
+"ctx": "diálogo uid01021088"
+},
+{
+"id": 39236,
+"en": "Sorry about that... As you can see, I've been a bit busy.",
+"ctx": "diálogo uid01021088"
+},
+{
+"id": 39237,
+"en": "Ah, don't worry, it's cool. All water under the bridge!\nYou can always start fresh when it comes to finding perfect\nshots⑬so let's make some new Revelations on the double!",
+"ctx": "diálogo uid01021088"
+},
+{
+"id": 39238,
+"en": "Aww, don't tell me you forgot how!",
+"ctx": "diálogo uid01021088"
+},
+{
+"id": 39239,
+"en": "Well hey. That's no problem.",
+"ctx": "diálogo uid01021088"
+},
+{
+"id": 39240,
+"en": "I'm sure my ultra-bestie Kiryu-san can retrain himself to snap up perfect pictures in no time!",
+"ctx": "diálogo uid01021088"
+},
+{
+"id": 39241,
+"en": "Ooh, let me out here, please!",
+"ctx": "diálogo uid01021088"
+},
+{
+"id": 39242,
+"en": "We're offering a little contest here for couples who play together. Would you care to try it out?\n \n ",
+"ctx": "diálogo uid010210ff + diálogo uid01021100 …"
+},
+{
+"id": 39243,
+"en": "Throw the dart at the wheel. The color you hit determines the prize you win!\n 　\n ",
+"ctx": "diálogo uid010210ff + diálogo uid01021100 …"
+},
+{
+"id": 39244,
+"en": "If you hit the bull's-eye, you win the gray prize!\n ",
+"ctx": "diálogo uid010210ff + diálogo uid01021100 …"
+},
+{
+"id": 39245,
+"en": "Your lady friend will have to work extra hard for some of these prizes. What do you say?\n ",
+"ctx": "diálogo uid010210ff + diálogo uid01021100 …"
+},
+{
+"id": 39246,
+"en": "Ooh! Sounds fun! <Color:255,200,200,255>⑮<Color:Default> Want to give it a try?\n ",
+"ctx": "diálogo uid010210ff + diálogo uid01021100 …"
+},
+{
+"id": 39247,
+"en": "Whoa, that sounds fun! <Color:255,200,200,255>⑮<Color:Default> Let's do it. <Color:255,200,200,255>⑮<Color:Default>\n ",
+"ctx": "diálogo uid010210ff + diálogo uid01021100 …"
+},
+{
+"id": 39248,
+"en": "Yeah. Let's give it a try.",
+"ctx": "diálogo uid010210ff + diálogo uid01021100 …"
+},
+{
+"id": 39249,
+"en": "Yeah, let's give it a shot.",
+"ctx": "diálogo uid010210ff + diálogo uid01021100 …"
+},
+{
+"id": 39250,
+"en": "Huh, sounds like fun! <Color:255,200,200,255>⑮<Color:Default> Let's have a go at it! <Color:255,200,200,255>⑮<Color:Default>\n ",
+"ctx": "diálogo uid010210ff + diálogo uid01021100 …"
+},
+{
+"id": 39251,
+"en": "Yeah, I'm down to give it a shot.",
+"ctx": "diálogo uid010210ff + diálogo uid01021100 …"
+},
+{
+"id": 39252,
+"en": "Hehe, sounds fun! <Color:255,200,200,255>⑮<Color:Default> I'm interested!\n ",
+"ctx": "diálogo uid010210ff + diálogo uid01021100 …"
+},
+{
+"id": 39253,
+"en": "All right! Let's give it a shot!",
+"ctx": "diálogo uid010210ff + diálogo uid01021100 …"
+},
+{
+"id": 39254,
+"en": "<Color:7>Launch Strike<Color:Default> Tutorial\n\nIn this battle, you can only deal damage to Saigo with the\n<Color:7>Launch Strike<Color:Default> move.",
+"ctx": "diálogo uid0102115b"
+},
+{
+"id": 39255,
+"en": "While in Heat Mode, you can launch your opponent into the\nair with <Action:Battle_Heavy_Attack@Combat> to activate <Color:7>Launch Strike<Color:Default>.\n\nTry for a combo attack by rapidly tapping <Action:Battle_Normal_Attack@Combat> after launching\nyour opponent with <Action:Battle_Heavy_Attack@Combat>.",
+"ctx": "diálogo uid0102115b"
+},
+{
+"id": 39256,
+"en": "Ugh... He got us good...",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39257,
+"en": "And so, I single-handedly sent those delinquents packing, thus proving my manliness and passionate love for Kaguya-chan!",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39258,
+"en": "All right, I think that's enough.",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39259,
+"en": "But there's more! All of a sudden I saw...",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39260,
+"en": "Lights out in five minutes!",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39261,
+"en": "Aw man, it's bedtime?",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39262,
+"en": "Guess we have to call it a night.",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39263,
+"en": "Well, how'd you like that, Saejima-san?",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39264,
+"en": "Really feels like I ate somethin'. Weird.",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39265,
+"en": "Weird? It should feel great! A beautiful woman and a tasty meal. Ah, with any luck, we'll be enjoying the real thing soon.",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39266,
+"en": "So there I was, happily stuffed full of food, when a problem arose.",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39267,
+"en": "Yeah. Just as I got to this intersection, a horde of punks swarmed the place.",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39268,
+"en": "You heard me, a bunch of punks! Imagine them, please. Imagine hard!",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39269,
+"en": "How d'ya expect me to...?",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39270,
+"en": "Oh, okay. Imagination's more powerful than I thought. But why's this happening, exactly?",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39271,
+"en": "You mean why <Italic>did</Italic> it happen. It was over Kaguya-chan. The leader of this little gang was in love with her.",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39272,
+"en": "So he brought his stooges to rough you up? Sounds cheesy.",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39273,
+"en": "Hey, you! Asshole! The only cheesy guy here is you, 'cause you're the rat who's been bothering my girl!",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39274,
+"en": "This happened? He'd hafta do this to every customer.",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39275,
+"en": "No, no, not every customer. Just me, because I hit it off so well with Kaguya-chan and had that karaoke date.",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39276,
+"en": "Ya sure 'bout that?",
+"ctx": "diálogo uid01021169 + diálogo uid01460148"
+},
+{
+"id": 39277,
+"en": "Of course I am! Anyway there I was, staring death in the face. And I grinned right back.",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39278,
+"en": "What the hell are you smiling at? Guys, let's stomp this little weasel!",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39279,
+"en": "The boss was shouting! The punks were edging closer! But I calmly struck a fighting pose...",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39280,
+"en": "Brawlin' ain't really what I wanted to do in my 'magination. I get enough of this in real life.",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39281,
+"en": "And so, I had a wonderful karaoke date with darling Kaguya-chan. How'd you like it? Did you picture it in your mind?",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39282,
+"en": "Been a while since I talked to a woman. But it was a good time, even if imaginary...",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39283,
+"en": "Glad to hear it!",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39284,
+"en": "So, after all that fun, I was just famished. I decided to go have a meal.",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39285,
+"en": "Suddenly, hunger welled up out of nowhere!",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39286,
+"en": "Food, huh? Nothin' around here looks any good, though.",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39287,
+"en": "Nonsense, there are loads of good places to eat in Tsukimino.",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39288,
+"en": "My go-to joint is Matsuo Lamb Barbeque for some mutton hot pot.",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39289,
+"en": "But if you're not that hungry, you can get a small bite and drink at Gindaco Highball Tavern.",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39290,
+"en": "And if you're still hungry for female company, there's Izakaya Hanako as well.",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39291,
+"en": "Hm, where did I go on this particular night? Uh, let's just imagine eating wherever Saejima chooses.",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39292,
+"en": "Mutton BBQ, takoyaki, or a pub. Any of 'em sound pretty good. Hm...",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39293,
+"en": "Thank you for waiting. Where shall we go?",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39294,
+"en": "I dunno. Not familiar with the neighborhood.",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39295,
+"en": "Come on, man! Karaoke! Where else would you go on a date?",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39296,
+"en": "Uh... How about karaoke?",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39297,
+"en": "Oh, I haven't done that in quite a while! I'd love to!",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39298,
+"en": "Here's the club! Looks cool, huh?",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39299,
+"en": "Looks expensive, is what I was gonna say. You could afford a joint like this?",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39300,
+"en": "Heheh. At one point in my life, I had ten million yen to play with. Ah, those were the days...",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39301,
+"en": "You're shittin' me. Ten mil?",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39302,
+"en": "Oh yeah. I might not look it, but I used to be a real high roller.",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39303,
+"en": "Go ahead, pretend you've got oodles of yen burning a damn hole in your pocket. You need to party hard tonight!",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39304,
+"en": "10 million yen <Color:8>appeared in your wallet<Color:Default>.",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39305,
+"en": "Hey, that wasn't hard to imagine.",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39306,
+"en": "There you go! Doesn't it feel spectacular to be loaded with cash? Like anything's possible?",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39307,
+"en": "That's how I felt as I went into the club...",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39308,
+"en": "So this is Tsukimino?",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39309,
+"en": "Yup. Gorgeous, right?",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39310,
+"en": "Can't tell. I can only imagine a little of it from your map.",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39311,
+"en": "No problem! I'll tell you a story from when I was there⑬that'll fill in the gaps in your imagination!",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39312,
+"en": "Uh, I don't get it, but okay.",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39313,
+"en": "Where to begin? I know! I'll tell you about a time I visited a hostess club.",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39314,
+"en": "The club was in the south part of town. On Lavender Street!",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39315,
+"en": "All right. I'll just... imagine myself walking there, I guess.",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39316,
+"en": "But I'm not wearin' the right duds for it...",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39317,
+"en": "That's better. Been too long since I wore this.",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39318,
+"en": "Okay, off we go! Lavender Street awaits.",
+"ctx": "diálogo uid01021169"
+},
+{
+"id": 39319,
+"en": "Oh, it's Gindaco Highball Tavern. In there you can snack on piping-hot takoyaki and wash it down with the best highballs in town. How about it?",
+"ctx": "diálogo uid01021178"
+},
+{
+"id": 39320,
+"en": "How 'bout we look somewhere else?",
+"ctx": "diálogo uid01021178 + diálogo uid01021179 …"
+},
+{
+"id": 39321,
+"en": "Sure, I miss takoyaki.",
+"ctx": "diálogo uid01021178"
+},
+{
+"id": 39322,
+"en": "Excellent! Let's go in.",
+"ctx": "diálogo uid01021178"
+},
+{
+"id": 39323,
+"en": "This is Izakaya Hanako, a place where you can get some female companionship besides Kaguya-chan. You'd like that, eh? Hehe, I get you Saejima-san!",
+"ctx": "diálogo uid01021179"
+},
+{
+"id": 39324,
+"en": "Sure, prison definitely don't have what they're offerin'.",
+"ctx": "diálogo uid01021179"
+},
+{
+"id": 39325,
+"en": "Right? It's killing me! Let's go in.",
+"ctx": "diálogo uid01021179"
+},
+{
+"id": 39326,
+"en": "Here we are: Matsuo Lamb Barbeque. When it comes to dining in Hokkaido, you can't go wrong with mutton BBQ.",
+"ctx": "diálogo uid0102117a"
+},
+{
+"id": 39327,
+"en": "Yeah, I could go for that.",
+"ctx": "diálogo uid0102117a"
+},
+{
+"id": 39328,
+"en": "You won't be sorry!",
+"ctx": "diálogo uid0102117a"
+},
+{
+"id": 39329,
+"en": "*slurp* *gulp* Damn, this is good!",
+"ctx": "diálogo uid01021187 + diálogo uid01021188 …"
+},
+{
+"id": 39330,
+"en": "What a meal!",
+"ctx": "diálogo uid01021187 + diálogo uid01021188 …"
+},
+{
+"id": 39331,
+"en": "And so, I once again saved the town from peril! Applause, please!",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39332,
+"en": "Whoops. Come on, Saejima-san, get it together!",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39333,
+"en": "Huh. A missin' chunk of imagination feels weird.",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39334,
+"en": "Well, even though Saejima-san got whupped, I once again saved the town from peril. Applause, please!",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39335,
+"en": "Mighty heroic of ya. But come on, all this talk of bein' a former detective, it's all a pack a' lies, right?",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39336,
+"en": "I would never! How can you accuse me of such a thing?",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39337,
+"en": "Heh. Whatever, man.",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39338,
+"en": "Nothin'. This was fun. Think that's enough, though.",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39339,
+"en": "Alrighty!",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39340,
+"en": "Yup, they were well-aware of being tailed.",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39341,
+"en": "So, what'd ya do?",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39342,
+"en": "You really need to ask? I fought them! To protect the town.",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39343,
+"en": "Hah! What a load! But fine, let's do this.",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39344,
+"en": "You did exactly what I did! I too deftly sidestepped their insidious car-attack!",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39345,
+"en": "Come on, Saejima-san, get it together! When they came at me like that, I stepped aside with a flourish.",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39346,
+"en": "Hah, more of your horse dung.",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39347,
+"en": "And I knew my near-death experience wasn't a coincidence. They were aware of my tailing them.",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39348,
+"en": "But still, I refused to be intimidated, for I was an officer of the law. I resolved to protect the town and bring honor to my proud and noble profession!",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39349,
+"en": "Weren't ya busted for corruption?",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39350,
+"en": "Ouch. That's a sore point, boss. Come on, let's keep after those mobsters!",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39351,
+"en": "At some point while I was chasing the mafia, I entered an intersection. Suddenly...!",
+"ctx": "diálogo uid01021198"
+}
+]

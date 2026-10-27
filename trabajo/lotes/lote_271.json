@@ -1,0 +1,652 @@
+[
+{
+"id": 56177,
+"en": "Sounds like a stalker all right. You should be careful.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56178,
+"en": "I just wonder who it could be. I don't think it's one of the clients here at the club.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56179,
+"en": "Do you have any ideas, Shinada-san?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56180,
+"en": "Come to think of it, while we were out on that date, there was someone who was taking pictures of you, remember?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56181,
+"en": "Oh, yes! You're absolutely right!",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56182,
+"en": "Do you think that's who it is?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56183,
+"en": "Maybe so. I do feel like I've seen him somewhere before.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56184,
+"en": "But why would he be following me? Oh, I am quite troubled by not knowing why.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56185,
+"en": "Want me to escort you? This can be a dangerous neighborhood, so don't count on strangers stopping if you need help.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56186,
+"en": "Oh, I'd feel much better having you with me, Shinada-san! I'd love it if you did that for me!",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56187,
+"en": "Sure. I mean, I have to work too, so I can't stick with you 24/7.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56188,
+"en": "But if you feel like you're being followed, give me a call right away.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56189,
+"en": "You really have no ideas? Maybe someone's got a grudge against you, and you don't even realize it.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56190,
+"en": "Let's see. Could there be someone who's advances I had spurned?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56191,
+"en": "No. I can't remember any of them.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56192,
+"en": "Yikes. I almost feel bad for those guys.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56193,
+"en": "How should I know? It's not like I'm a detective or anything. Based on the little you've told me, if I did know anything, I'd either be a genius or the culprit.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56194,
+"en": "Oh, good idea! I could hire a detective to look into the matter for me.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56195,
+"en": "Good idea! Sounds kinda fun, actually. Like you're in some crazy soap opera or something.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56196,
+"en": "Oh, it's not all that odd for me. I know a number of people who have hired private investigators.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56197,
+"en": "For what? To check if their husbands are having an affair? They really are like those rich TV housewives, huh?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56198,
+"en": "Indeed! Everyone knows that their husbands are cheating, so collecting the photographic proof becomes a fun competition.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56199,
+"en": "Heh. I'd love to see the look on the husband's face when he sees those pics.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56200,
+"en": "Isn't that expensive? Like 100,000 yen a day?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56201,
+"en": "Oh, please don't turn this into a case of penny-pinching, Shinada-san. Aren't you the least bit worried about my well-being?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56202,
+"en": "Haha. I guess being cheap is a habit I can't break.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56203,
+"en": "In any case, you're right, it isn't inexpensive. I hope I can make do with my own funds.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56204,
+"en": "Yeah, you don't want to worry your folks.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56205,
+"en": "I've spoken to my mother about what I've been dealing with. She told me to stop being too proud to ask for help.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56206,
+"en": "And that, above all else, my late father would want me to lead a fulfilling life.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56207,
+"en": "I agree. You were only lying to yourself. You gotta be who you really are inside.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56208,
+"en": "I'd never have realized it without you, Shinada-san. Thank you!",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56209,
+"en": "You could've stayed as you were. There's nothing wrong with living your life in the lap of luxury.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56210,
+"en": "No. I'm done with all that now. Trying to be someone I'm not wasn't very enjoyable at all.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56211,
+"en": "I feel like, at long last, a heavy burden has been lifted from my shoulders.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56212,
+"en": "I was actually thinking of introducing you to my mother, Shinada-san. I've made a reservation for us at a restaurant later.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56213,
+"en": "Ah! I'm all self-conscious now! I've never been to a real live fancy dinner before.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56214,
+"en": "My mother is rather vocal about table manners, so you'd better be on your best behavior!",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56215,
+"en": "What? Aw man, give me a break here! I'm having second thoughts already.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56216,
+"en": "That's kinda sudden... I'm not dressed for that sort of thing today. Just look!",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56217,
+"en": "You needn't worry about that. I'd like you to come just as you are, Shinada-san.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56218,
+"en": "I'm, uh, not so sure about this...",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56219,
+"en": "I, uh, have to be going now! Got a deadline today!",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56220,
+"en": "Too bad, Shinada-san! I told my mother how taken you are with me, and that you insisted on meeting with her!",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56221,
+"en": "Hah, you really haven't changed at all, have you?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56222,
+"en": "<Color:255,200,200,255>Are you married, Shinada-san?<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56223,
+"en": "<Color:255,200,200,255>Oh. Why not? Is there any particular reason?<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56224,
+"en": "Hmm. Why not, you ask?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56225,
+"en": "<Color:255,200,200,255>Do you have someone you want to marry, but can't? Or is it because you don't have enough money?<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56226,
+"en": "I don't have the money. I bust my ass and can barely feed myself, let alone a wife and kids.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56227,
+"en": "<Color:255,200,200,255>Really? Perhaps if you didn't drink so much, you might be able to put aside some sort of savings.<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56228,
+"en": "Yeah, I'm fine staying single.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56229,
+"en": "I don't have anyone. If there was someone I'd consider marrying, I'd already be married.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56230,
+"en": "<Color:255,200,200,255>Then you would like to get married someday?<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56231,
+"en": "Hey, I want to be happy just as much as the next guy. If someone likes me for who I am, I'd marry her for sure.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56232,
+"en": "<Color:255,200,200,255>Oh, how passionate of you! Still, it's not good to rush into marriage.<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56233,
+"en": "Yeah, but I've never been one to think stuff through.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56234,
+"en": "I don't want to get married. Is that reason enough for you?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56235,
+"en": "<Color:255,200,200,255>Many men are like that, I suppose. There are quite a few of you who date several women without having a dedicated partner.<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56236,
+"en": "Yep, and there's plenty of guys who can still get babes when they're older. I hope to be that kind of silver fox one day.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56237,
+"en": "<Color:255,200,200,255>Well, I've been starting to think about getting married. I need to find the right man, though.<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56238,
+"en": "Lovers wanted, huh?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56239,
+"en": "<Color:255,200,200,255>I suppose you could call it that. But rather than waiting for a man  to voice his interest, I feel I should be the one on the lookout.<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56240,
+"en": "You can't get a man? I don't believe it.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56241,
+"en": "<Color:255,200,200,255>It isn't that I can't get one. I simply haven't found one who's a suitable match for me yet. Honestly, you are quite rude.<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56242,
+"en": "<Color:255,200,200,255>Well, I certainly don't want to date a man who is not of my caliber.<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56243,
+"en": "Just don't rush it. You never know when you might meet that special someone. I'm sure the right guy will show up eventually.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56244,
+"en": "<Color:255,200,200,255>But if I keep waiting, eventually I'll wind up an old maid.<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56245,
+"en": "So what? Old people can find love, too! Maybe you'll find a nice man when you're that age. Someone to spend your pleasant twilight years with.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56246,
+"en": "<Color:255,200,200,255>Oh my, that would be lovely! Still, I'd rather find someone I get along with enough to marry while we're still young.<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56247,
+"en": "That's harsh. I'm not sure many guys are up to your standards, Shion-chan.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56248,
+"en": "<Color:255,200,200,255>True. I suppose that's why I haven't dated many men before.<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56249,
+"en": "Nothing wrong with that. Lots of guys prefer a girl who doesn't have as much experience.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56250,
+"en": "<Color:255,200,200,255>Really? They don't come across as childish and unlikable?<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56251,
+"en": "Not at all! Men hate being compared to previous boyfriends. We're happier when a woman hasn't dated many other people.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56252,
+"en": "<Color:255,200,200,255>I see. Then I shall continue my search for a suitable gentleman.<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56253,
+"en": "Personally, I prefer girls who've been around the block a time or two, but...",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56254,
+"en": "You should get out more. If you get married without knowing much about guys, it's bound to not end well.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56255,
+"en": "<Color:255,200,200,255>Not end well, how, exactly?<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56256,
+"en": "Well, you might get cheated on, or be subjected to domestic violence. Or you might get a guy who's into weird stuff.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56257,
+"en": "If you date a variety of guys, you'll be able to tell in advance what kind of guy he's probably gonna be.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56258,
+"en": "<Color:255,200,200,255>But I don't want to have to go through the experience of dating men like that. I'd rather date someone I've carefully picked out myself.<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56259,
+"en": "That's what everyone has to deal with, though. As long as you don't get stuck with some weirdo, you should date as much as you can.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56260,
+"en": "How many are we talking here?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56261,
+"en": "<Color:255,200,200,255>Excuse me?<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56262,
+"en": "<Color:255,200,200,255>Oh. Uh, one.<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56263,
+"en": "No way! Only one?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56264,
+"en": "<Color:255,200,200,255>You don't need to sound so surprised. Do I look like a girl who gets around?<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56265,
+"en": "No, it's not that! I'm just jealous there's another guy who's had the pleasure of dating you, Shion-chan. That's all.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56266,
+"en": "<Color:255,200,200,255>Yes, well. I hope I find someone suitable soon.<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56267,
+"en": "Wow, you really are itching to get married, aren't you?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56268,
+"en": "<Color:255,200,200,255>I cannot stand people who are careless with their finances. Especially those who borrow or lend to others excessively.<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56269,
+"en": "Wait, what? You got a problem with people who lend out their money, too?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56270,
+"en": "<Color:255,200,200,255>Borrowing and lending based on halfhearted verbal promises tends to lead to trouble. It's better to have an agreement that's strictly documented.<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56271,
+"en": "<Color:255,200,200,255>Moreover, giving money to someone who cannot afford to pay on their own only allows them to spend beyond their means.<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56272,
+"en": "Tell me about it. Lending money to someone who's broke is as good as giving it away. And I'd know, hehe.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56273,
+"en": "<Color:255,200,200,255>Indeed! The act of giving is quite the noble one. Expecting that to be repaid strikes me as quite tactless.<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56274,
+"en": "Haha. I wish everyone thought like that. It'd sure help me out!",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56275,
+"en": "That's not true. Even corporations have to get financing from banks, don't they? It's seems unavoidable to me.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56276,
+"en": "<Color:255,200,200,255>But you're taking a gamble that the other party will be able to repay it. Even banks have gone into bankruptcy over that sort of thing.<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56277,
+"en": "Heheh. You're really intense about this.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56278,
+"en": "<Color:255,200,200,255>Speaking of which, I've noticed you always pay with cash, Shinada-san.<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56279,
+"en": "Hey, you know it.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56280,
+"en": "<Color:255,200,200,255>Our club levies a service charge on cards. Is that why you pay cash?<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56281,
+"en": "Yep! Even a small percentage at a club like this can be a whole lot of money. I'm all about spending as little as I can.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56282,
+"en": "<Color:255,200,200,255>I suppose so. But some people still ask for a formal receipt so they can expense their club charges. They ought to pay that on their own.<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56283,
+"en": "That's a dirty trick! Taking someone out for a business deal is one thing, but if you're out drinking on your own, you should foot the bill on your own, too.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56284,
+"en": "<Color:255,200,200,255>Some of my customers ask for dates because they request me all the time. I would prefer men like that to use their own money.<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56285,
+"en": "Yeah, that's basically like the guy's company is putting in requests for you, not him.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56286,
+"en": "That's not a bad idea. In the end, money is money, no matter where it comes from.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56287,
+"en": "<Color:255,200,200,255>What do you mean?<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56288,
+"en": "Unless you're an exec, a company won't reimburse charges from a cabaret club. So, asking for a receipt means the guy at least has some pull.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56289,
+"en": "After all, a businessman's worth is determined by how much of the company's money they let the guy spend.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56290,
+"en": "<Color:255,200,200,255>I hadn't considered that. I always figured it was best to simply pay your own way, if you had the cash on hand to do so.<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56291,
+"en": "<Color:255,200,200,255>But I suppose asking for a receipt is a form of showing off his manliness. You've taught me something new, Shinada-san!<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56292,
+"en": "Maybe I can write this off as an expense too...",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56293,
+"en": "I'm all about cash. Credit is nothing but trouble. Don't most people still pay cash?",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56294,
+"en": "<Color:255,200,200,255>But having a credit card establishes some level of financial responsibility, so it's a good idea to have one.<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56295,
+"en": "You mean like gold cards and black cards and stuff? People with those are loaded.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56296,
+"en": "<Color:255,200,200,255>Oh, but we've also had disputes with customers who claimed their cards were used fraudulently.<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56297,
+"en": "Really? Yeah, that's a big risk. You're better off not getting one at all, if you ask me.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56298,
+"en": "<Color:255,200,200,255>Is that why you don't have one, Shinada-san?<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56299,
+"en": "I don't trust them. I like being able to control my own money.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56300,
+"en": "<Color:255,200,200,255>Really? You're more dependable than you seem, Shinada-san! I seem to have misjudged you!<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56301,
+"en": "See? In fact, people say if you looked up dependable in the dictionary, you'd find my handsome mug right there!",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56302,
+"en": "More like I can't get one.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56303,
+"en": "<Color:255,200,200,255>Oh? Why not?<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56304,
+"en": "I've kind of been blacklisted. My credit score is in the toilet. Heh.",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56305,
+"en": "<Color:255,200,200,255>Do you mean you're in debt? Oh dear, Shinada-san. I can't believe you're one of those people. In fact, my entire image of you has been ruined.<Color:Default>",
+"ctx": "diálogo uid0134002d"
+},
+{
+"id": 56306,
+"en": "Heh, oops. Maybe I should've kept that to myself.",
+"ctx": "diálogo uid0134002d"
+}
+]

@@ -1,0 +1,50 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_h_tutorial.par/texlist_0001/2d_yk_h_tutorial_b",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    52,
+    3,
+    127,
+    22
+   ],
+   "en": "Next",
+   "es": "Siguiente",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "color": [
+    75,
+    75,
+    75
+   ],
+   "alin": "centro",
+   "ancho_max": 72,
+   "alto": 18
+  },
+  {
+   "caja": [
+    52,
+    28,
+    127,
+    47
+   ],
+   "en": "Next",
+   "es": "Siguiente",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "color": [
+    75,
+    75,
+    75
+   ],
+   "alin": "centro",
+   "ancho_max": 72,
+   "alto": 18
+  }
+ ]
+}

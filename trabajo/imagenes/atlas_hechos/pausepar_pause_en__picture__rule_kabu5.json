@@ -1,0 +1,400 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_kabu5",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    428,
+    10,
+    597,
+    43
+   ],
+   "en": "Oicho-kabu",
+   "ocr": "Oicho-kabu",
+   "es": "Oicho-kabu",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 165,
+   "dejar": true
+  },
+  {
+   "caja": [
+    105,
+    67,
+    653,
+    99
+   ],
+   "en": "How to Play: Normal and Special Hands",
+   "ocr": "How toPlay:Normal and Special Hands",
+   "es": "Cómo jugar: manos normales y especiales",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 544,
+   "dejar": true
+  },
+  {
+   "caja": [
+    143,
+    131,
+    332,
+    163
+   ],
+   "en": "Normal Hands",
+   "ocr": "Normal Hands",
+   "es": "Manos Normales",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 185,
+   "dejar": true
+  },
+  {
+   "caja": [
+    157,
+    161,
+    238,
+    198
+   ],
+   "en": "Zero:",
+   "ocr": "Zero:",
+   "es": "Cero:",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 77,
+   "dejar": true
+  },
+  {
+   "caja": [
+    286,
+    164,
+    576,
+    195
+   ],
+   "en": "Ones digit of sum is 0",
+   "ocr": "Ones digit of sum is 0",
+   "es": "La cifra de las unidades de la suma es 0",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 286,
+   "dejar": true
+  },
+  {
+   "caja": [
+    157,
+    191,
+    233,
+    230
+   ],
+   "en": "One:",
+   "ocr": "One:",
+   "es": "Uno:",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 72,
+   "dejar": true
+  },
+  {
+   "caja": [
+    286,
+    195,
+    576,
+    228
+   ],
+   "en": "Ones digit of sum is 1",
+   "ocr": "Ones digit of sum is 1",
+   "es": "La cifra de las unidades de la suma es 1",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 286,
+   "dejar": true
+  },
+  {
+   "caja": [
+    157,
+    225,
+    232,
+    262
+   ],
+   "en": "Two:",
+   "ocr": "Two:",
+   "es": "Dos:",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 71,
+   "dejar": true
+  },
+  {
+   "caja": [
+    287,
+    228,
+    578,
+    259
+   ],
+   "en": "Ones digit of sum is 2",
+   "ocr": "Ones digit of sum is 2",
+   "es": "La cifra de las unidades de la suma es 2",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 287,
+   "dejar": true
+  },
+  {
+   "caja": [
+    158,
+    257,
+    252,
+    293
+   ],
+   "en": "Three:",
+   "ocr": "Three:",
+   "es": "Tres:",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 90,
+   "dejar": true
+  },
+  {
+   "caja": [
+    286,
+    260,
+    576,
+    291
+   ],
+   "en": "Ones digit of sum is 3",
+   "ocr": "Ones digit of sum is 3",
+   "es": "La cifra de las unidades de la suma es 3",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 286,
+   "dejar": true
+  },
+  {
+   "caja": [
+    157,
+    288,
+    238,
+    326
+   ],
+   "en": "Four:",
+   "ocr": "Four:",
+   "es": "Cuatro:",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 77,
+   "dejar": true
+  },
+  {
+   "caja": [
+    286,
+    292,
+    579,
+    323
+   ],
+   "en": "Ones digit of sum is 4",
+   "ocr": "Ones digit of sum is 4",
+   "es": "La cifra de las unidades de la suma es 4",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 289,
+   "dejar": true
+  },
+  {
+   "caja": [
+    157,
+    320,
+    232,
+    359
+   ],
+   "en": "Five:",
+   "ocr": "Five:",
+   "es": "Cinco:",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 71,
+   "dejar": true
+  },
+  {
+   "caja": [
+    286,
+    324,
+    578,
+    355
+   ],
+   "en": "Ones digit of sum is 5",
+   "ocr": "Ones digit of sum is 5",
+   "es": "La cifra de las unidades de la suma es 5",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 288,
+   "dejar": true
+  },
+  {
+   "caja": [
+    158,
+    353,
+    218,
+    390
+   ],
+   "en": "Six:",
+   "ocr": "Six:",
+   "es": "Seis:",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 56,
+   "dejar": true
+  },
+  {
+   "caja": [
+    286,
+    355,
+    578,
+    388
+   ],
+   "en": "Ones digit of sum is 6",
+   "ocr": "Ones digit of sum is 6",
+   "es": "La cifra de las unidades de la suma es 6",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 288,
+   "dejar": true
+  },
+  {
+   "caja": [
+    158,
+    387,
+    258,
+    421
+   ],
+   "en": "Seven:",
+   "ocr": "Seven:",
+   "es": "Siete:",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 96,
+   "dejar": true
+  },
+  {
+   "caja": [
+    288,
+    389,
+    576,
+    418
+   ],
+   "en": "Ones digit of sum is 7",
+   "ocr": "Ones digit of sum is 7",
+   "es": "La cifra de las unidades de la suma es 7",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 284,
+   "dejar": true
+  },
+  {
+   "caja": [
+    158,
+    418,
+    245,
+    454
+   ],
+   "en": "Eight:",
+   "ocr": "Eight:",
+   "es": "Ocho:",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 83,
+   "dejar": true
+  },
+  {
+   "caja": [
+    286,
+    419,
+    578,
+    452
+   ],
+   "en": "Ones digit of sum is 8",
+   "ocr": "Ones digit of sum is 8",
+   "es": "La cifra de las unidades de la suma es 8",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 288,
+   "dejar": true
+  },
+  {
+   "caja": [
+    157,
+    449,
+    238,
+    486
+   ],
+   "en": "Nine:",
+   "ocr": "Nine:",
+   "es": "Nueve:",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 77,
+   "dejar": true
+  },
+  {
+   "caja": [
+    286,
+    452,
+    577,
+    483
+   ],
+   "en": "Ones digit of sum is 9",
+   "ocr": "Ones digit of sum is 9",
+   "es": "La cifra de las unidades de la suma es 9",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 287,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: lo hace el PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

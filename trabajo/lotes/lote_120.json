@@ -1,0 +1,992 @@
+[
+{
+"id": 28039,
+"en": "Wow, I can't believe it was that close! That really got my blood pumping good!",
+"ctx": "diálogo uid0033045f + diálogo uid00330536 …"
+},
+{
+"id": 28040,
+"en": "That was a lot of fun! I need to head back home now, though. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid0033045f + diálogo uid010c0c20 …"
+},
+{
+"id": 28041,
+"en": "That was a lot of fun! Please give me a call again sometime! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid0033045f + diálogo uid010c0c22 …"
+},
+{
+"id": 28042,
+"en": "Oh, I win! I knew I wouldn't lose to you, Shinada-san.",
+"ctx": "diálogo uid0033045f + diálogo uid0034004a …"
+},
+{
+"id": 28043,
+"en": "How remarkable that we managed to have a draw! I'll be sure to win next time, though!",
+"ctx": "diálogo uid0033045f + diálogo uid0069021f …"
+},
+{
+"id": 28044,
+"en": "That was quite fun! I'll be heading back to Nagoya now. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid0033045f + diálogo uid010c0c20 …"
+},
+{
+"id": 28045,
+"en": "That was such fun! Please do call me again! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid0033045f + diálogo uid010c0c23 …"
+},
+{
+"id": 28046,
+"en": "You're really good at that, Kiryu-san! I'm kinda surprised!",
+"ctx": "diálogo uid0033045f + diálogo uid01330748 …"
+},
+{
+"id": 28047,
+"en": "Yay, I win! Looks like you have to practice some more, Kiryu-san!",
+"ctx": "diálogo uid0033045f + diálogo uid0034004b …"
+},
+{
+"id": 28048,
+"en": "Wow, I can't believe it was a tie! But I'm gonna win next time!",
+"ctx": "diálogo uid0033045f + diálogo uid0069021f …"
+},
+{
+"id": 28049,
+"en": "That was super fun! Ask me out again sometime! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid0033045f + diálogo uid0069021f …"
+},
+{
+"id": 28050,
+"en": "That was fun! I'm here to take you on anytime you want! See ya!",
+"ctx": "diálogo uid0033045f"
+},
+{
+"id": 28051,
+"en": "Welcome! How would you like to play today?",
+"ctx": "diálogo uid0033045f"
+},
+{
+"id": 28052,
+"en": "Not right now, sorry.",
+"ctx": "diálogo uid0033045f + diálogo uid00330536"
+},
+{
+"id": 28053,
+"en": "No, not right now.",
+"ctx": "diálogo uid0033045f + diálogo uid00330536 …"
+},
+{
+"id": 28054,
+"en": "Nah, not now.",
+"ctx": "diálogo uid0033045f + diálogo uid00330536"
+},
+{
+"id": 28055,
+"en": "No, not now.",
+"ctx": "diálogo uid0033045f + diálogo uid00330536 …"
+},
+{
+"id": 28056,
+"en": "Sorry, but I can't.",
+"ctx": "diálogo uid0033045f + diálogo uid00330536"
+},
+{
+"id": 28057,
+"en": "I see. Please come again anytime.",
+"ctx": "diálogo uid0033045f + diálogo uid00330536"
+},
+{
+"id": 28058,
+"en": "I'll be playing by myself.",
+"ctx": "diálogo uid0033045f + diálogo uid00330536"
+},
+{
+"id": 28059,
+"en": "I'll play solo.",
+"ctx": "diálogo uid0033045f + diálogo uid00330536"
+},
+{
+"id": 28060,
+"en": "It'll just be me playin'.",
+"ctx": "diálogo uid0033045f + diálogo uid00330536"
+},
+{
+"id": 28061,
+"en": "Is it cool if I play alone?",
+"ctx": "diálogo uid0033045f + diálogo uid00330536"
+},
+{
+"id": 28062,
+"en": "I'll be playing alone.",
+"ctx": "diálogo uid0033045f + diálogo uid00330536"
+},
+{
+"id": 28063,
+"en": "Very well. That'll be 500 yen, please.",
+"ctx": "diálogo uid0033045f + diálogo uid00330536"
+},
+{
+"id": 28064,
+"en": "Okay, sure.",
+"ctx": "diálogo uid0033045f + diálogo uid00330536 …"
+},
+{
+"id": 28065,
+"en": "This okay?",
+"ctx": "diálogo uid0033045f + diálogo uid00330536"
+},
+{
+"id": 28066,
+"en": "Ah, sure, sure.",
+"ctx": "diálogo uid0033045f + diálogo uid00330536"
+},
+{
+"id": 28067,
+"en": "Sure, all right.",
+"ctx": "diálogo uid0033045f + diálogo uid00330536 …"
+},
+{
+"id": 28068,
+"en": "Three frames.",
+"ctx": "diálogo uid0033045f + diálogo uid00330536"
+},
+{
+"id": 28069,
+"en": "Ten frames.",
+"ctx": "diálogo uid0033045f + diálogo uid00330536"
+},
+{
+"id": 28070,
+"en": "(I ain't got the money.)",
+"ctx": "diálogo uid0033045f + diálogo uid00330536 …"
+},
+{
+"id": 28071,
+"en": "You can play against me.",
+"ctx": "diálogo uid0033045f + diálogo uid00330536"
+},
+{
+"id": 28072,
+"en": "I'll play against you.",
+"ctx": "diálogo uid0033045f + diálogo uid00330536"
+},
+{
+"id": 28073,
+"en": "You and me, let's do this.",
+"ctx": "diálogo uid0033045f + diálogo uid00330536"
+},
+{
+"id": 28074,
+"en": "Can I have a game against you?",
+"ctx": "diálogo uid0033045f + diálogo uid00330536"
+},
+{
+"id": 28075,
+"en": "Can I play against you?",
+"ctx": "diálogo uid0033045f"
+},
+{
+"id": 28076,
+"en": "That'll be 500 yen.",
+"ctx": "diálogo uid0033045f + diálogo uid00330536"
+},
+{
+"id": 28077,
+"en": "Sure, please.",
+"ctx": "diálogo uid0033045f + diálogo uid00330536"
+},
+{
+"id": 28078,
+"en": "Then let's begin.",
+"ctx": "diálogo uid0033045f"
+},
+{
+"id": 28079,
+"en": "I'll play a split game, please.",
+"ctx": "diálogo uid0033045f + diálogo uid00330536"
+},
+{
+"id": 28080,
+"en": "I'll have a split game, please.",
+"ctx": "diálogo uid0033045f + diálogo uid00330536"
+},
+{
+"id": 28081,
+"en": "I'll do a split game.",
+"ctx": "diálogo uid0033045f"
+},
+{
+"id": 28082,
+"en": "Is it cool if I play a split game?",
+"ctx": "diálogo uid0033045f + diálogo uid00330536"
+},
+{
+"id": 28083,
+"en": "I see. That'll be 500 yen, please.",
+"ctx": "diálogo uid0033045f"
+},
+{
+"id": 28084,
+"en": "Y'gotta be kiddin' me! Y'called me all the way out to Tokyo jus' to go bowling!?",
+"ctx": "diálogo uid0033045f"
+},
+{
+"id": 28085,
+"en": "Well, you can do some sightseeing before you head back, too. Shall we get started?",
+"ctx": "diálogo uid0033045f + diálogo uid0069021f"
+},
+{
+"id": 28086,
+"en": "It'll be 1,000 yen for two players. How many frames would you like to play?",
+"ctx": "diálogo uid0033045f"
+},
+{
+"id": 28087,
+"en": "Sorry to keep y'waiting! You wanted to go bowlin' with me, Kiryu-san?",
+"ctx": "diálogo uid0033045f"
+},
+{
+"id": 28088,
+"en": "Ready to get started?",
+"ctx": "diálogo uid0033045f + diálogo uid0107095f …"
+},
+{
+"id": 28089,
+"en": "It'll be 1,000 yen for the two of you. How many frames would you like to play?",
+"ctx": "diálogo uid0033045f + diálogo uid00330536"
+},
+{
+"id": 28090,
+"en": "Going into work is enough of a pain as it is, but you go and call me all the way out here to Tokyo!? Unbelievable!",
+"ctx": "diálogo uid0033045f + diálogo uid0069021f …"
+},
+{
+"id": 28091,
+"en": "Sorry for the wait! It's good to get out every once in a while! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid0033045f + diálogo uid00330536"
+},
+{
+"id": 28092,
+"en": "Wanna get started?",
+"ctx": "diálogo uid0033045f + diálogo uid00330536"
+},
+{
+"id": 28093,
+"en": "Ya called up a student who's busy lookin' for a job all the way out in Osaka, just to go bowlin'? If this is a joke, I ain't laughin'.",
+"ctx": "diálogo uid0033045f"
+},
+{
+"id": 28094,
+"en": "Sorry for makin' ya wait! You're really up for anything, aren't ya, Akiyama-san? <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid0033045f"
+},
+{
+"id": 28095,
+"en": "Apologies for the delay! I'm rather nervous. It's been quite a while since I last bowled.",
+"ctx": "diálogo uid0033045f"
+},
+{
+"id": 28096,
+"en": "(I'll give Hinata a call.)",
+"ctx": "diálogo uid0033045f + diálogo uid010c0c21 …"
+},
+{
+"id": 28097,
+"en": "Sorry for the wait! And wow, I almost never go bowling with just two people!  <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid0033045f"
+},
+{
+"id": 28098,
+"en": "Want to get started?",
+"ctx": "diálogo uid0033045f + diálogo uid0069021f …"
+},
+{
+"id": 28099,
+"en": "(I'll give Hinata-chan a call.)",
+"ctx": "diálogo uid0033045f + diálogo uid010c0c20 …"
+},
+{
+"id": 28100,
+"en": "It's all right. Shall we begin?",
+"ctx": "diálogo uid0033045f + diálogo uid010c0c20 …"
+},
+{
+"id": 28101,
+"en": "(I should give Mach-ko a call.)",
+"ctx": "diálogo uid0033045f"
+},
+{
+"id": 28102,
+"en": "(I'll give that Mach-ko a call.)",
+"ctx": "diálogo uid0033045f"
+},
+{
+"id": 28103,
+"en": "(Guess I'll give that Mach-ko a call.)",
+"ctx": "diálogo uid0033045f"
+},
+{
+"id": 28104,
+"en": "(I should call up that Mach-ko gal.)",
+"ctx": "diálogo uid0033045f"
+},
+{
+"id": 28105,
+"en": "(Maybe I should call that Mach-ko-san person.)",
+"ctx": "diálogo uid0033045f"
+},
+{
+"id": 28106,
+"en": "Hehe! Sorry to keep you waiting! There are no words necessary between bowling aficionados. Just bring your A game!",
+"ctx": "diálogo uid0033045f"
+},
+{
+"id": 28107,
+"en": "You going to fish here? Y'know what, I bet you are. You look like quite the fisherman, I just know it!",
+"ctx": "diálogo uid00330492 + diálogo uid003309bb"
+},
+{
+"id": 28108,
+"en": "No, I...",
+"ctx": "diálogo uid00330492 + diálogo uid003309bb"
+},
+{
+"id": 28109,
+"en": "Huh? Me?",
+"ctx": "diálogo uid00330492 + diálogo uid003309bb"
+},
+{
+"id": 28110,
+"en": "By the way, if you don't have any bait, I'll sell you some. I always come here with a veritable mountain of bait, I do.",
+"ctx": "diálogo uid00330492 + diálogo uid003309bb"
+},
+{
+"id": 28111,
+"en": "See, I love fishing, but I'm not the best fisherman. Never catch anything myself. So, if you ever have too many fish, I'll buy 'em off you. Good deal, huh?",
+"ctx": "diálogo uid00330492 + diálogo uid003309bb"
+},
+{
+"id": 28112,
+"en": "Oh, and that fishing rod there is mine, but you're more'n welcome to use it. I'm going to take me a quick break.",
+"ctx": "diálogo uid00330492 + diálogo uid003309bb"
+},
+{
+"id": 28113,
+"en": "Hey, you a fishing enthusiast too? Let me know if there's any way I can help you. I got me a soft spot for new and aspiring fishermen.",
+"ctx": "diálogo uid00330492 + diálogo uid003309bb"
+},
+{
+"id": 28114,
+"en": "Alrighty then, what would you like?",
+"ctx": "diálogo uid00330492 + diálogo uid003309bb"
+},
+{
+"id": 28115,
+"en": "Thanks. Say the word if you need more.",
+"ctx": "diálogo uid00330492"
+},
+{
+"id": 28116,
+"en": "Alrighty then, what do you got for me?",
+"ctx": "diálogo uid00330492 + diálogo uid003309bb"
+},
+{
+"id": 28117,
+"en": "Thank you. Take care now.",
+"ctx": "diálogo uid00330492 + diálogo uid003309bb"
+},
+{
+"id": 28118,
+"en": "Is that so? Well, you come by again whenever you're in the fishin' mood.",
+"ctx": "diálogo uid00330492 + diálogo uid003309bb"
+},
+{
+"id": 28119,
+"en": "(I can't afford the fare. Better scrounge up 710 yen...)",
+"ctx": "diálogo uid00330493 + diálogo uid00330495 …"
+},
+{
+"id": 28120,
+"en": "The base fare is 710 yen. Where are you headed?",
+"ctx": "diálogo uid00330493 + diálogo uid00330495 …"
+},
+{
+"id": 28121,
+"en": "Sorry, I have urgent business back in Sotenbori.",
+"ctx": "diálogo uid00330493 + diálogo uid00330495 …"
+},
+{
+"id": 28122,
+"en": "No problem. I'll be waiting here, so let me know when you get back.",
+"ctx": "diálogo uid00330493 + diálogo uid00330495 …"
+},
+{
+"id": 28123,
+"en": "Would you like to go back to Kamurocho?",
+"ctx": "diálogo uid00330494"
+},
+{
+"id": 28124,
+"en": "Ah, Shinada. Hm? You're with a friend. We'll leave any talk of training for another day.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28125,
+"en": "Coach Igarashi.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28126,
+"en": "Oh, right, Shinada. I found another good online shop. Here, I'll show you.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28127,
+"en": "You learned about Import.net!\n...Time to get clicking!",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28128,
+"en": "There's nothing left for me to teach you.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28129,
+"en": "I've given you all the training you'll need. And I must say, you've grown quite admirably.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28130,
+"en": "Now go on and settle things from your past.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28131,
+"en": "I see you finally put your past to rest, huh? Well done.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28132,
+"en": "But the road to better batting continues without end. Stay the course, kid.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28133,
+"en": "Coach, I did it. I caught a marlin.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28134,
+"en": "Ah, well done. Your dynamic visual acuity should've improved significantly.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28135,
+"en": "Specifically, your ability to concentrate on pitches will have improved⑬the length of time the ball appears stationary will be longer.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28136,
+"en": "I sure hope so. That was one slippery challenge, and not the\nkind I'm used to!",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28137,
+"en": "You've reached a new breakthrough in batting potential!\nYour Heat Eye was enhanced.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28138,
+"en": "So this is it for training, huh?",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28139,
+"en": "Yes. You know, I'm really impressed that you stuck with it to the end. You are my best student, after all.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28140,
+"en": "Nah... I just did as I was told. You're the one who decided to train me, Coach.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28141,
+"en": "Heh. You're about the only student who has that sort of attitude.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28142,
+"en": "Aw shucks...",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28143,
+"en": "You see, I retired because no one was listening to me anymore.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28144,
+"en": "Scientific training methods are all the rage these days. People called my ways outdated and gave up on me.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28145,
+"en": "But you know, seeing your incredible growth, I'm convinced my style wasn't wrong. I feel confident as a trainer again.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28146,
+"en": "Then, does that mean what I think it means?",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28147,
+"en": "Yes. I think I'm going to resume coaching. My retirement's canceled.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28148,
+"en": "You're too young to be going out to pasture anyway.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28149,
+"en": "I'll stay in Nagoya a while longer, though. I want to see how things turn out for you.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28150,
+"en": "Cool.",
+"ctx": "diálogo uid003304a1 + diálogo uid00690224"
+},
+{
+"id": 28151,
+"en": "Go to Nagoya Wharf and catch a marlin. A marlin has power and endurance like you wouldn't believe, so it'll take everything you got to land one.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28152,
+"en": "Here I am for training, Coach.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28153,
+"en": "Good, let's get to it. What were we going to do? Improve your dynamic visual acuity?",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28154,
+"en": "Yes. Something about getting nutrition and building a foundation.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28155,
+"en": "That's right. By getting the nutrition one needs, the benefits of training become more pronounced.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28156,
+"en": "As such, proper nutrition is essential to improving dynamic visual acuity.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28157,
+"en": "Okay. So what should I do?",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28158,
+"en": "Hold your horses. You should know, this will be your final\ntraining session.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28159,
+"en": "Huh? This is it?",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28160,
+"en": "That's right. This last training will bring your batting skills up to where they need to be.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28161,
+"en": "After that, there's nothing more for me to teach.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28162,
+"en": "I see... Well, what's this final training you have for me?",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28163,
+"en": "Go sea fishing. Nagoya's wharf will do.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28164,
+"en": "Sea fishing!? Nope, never mind⑬I've decided nothing surprises me anymore. Why that, though?",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28165,
+"en": "To get you to focus. When sea fishing, concentrating on the movements of your catch is absolutely paramount, lest your line be broken.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28166,
+"en": "The fish are also more powerful. Some of them you'll have to battle for quite a while before you can finally reel them in.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28167,
+"en": "Yeesh. Sounds intense.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28168,
+"en": "As it should be. You need stamina to win a battle of endurance. That's why I've been telling you to get the fundamental nutrients you need.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28169,
+"en": "Okay... I'm sorta convinced?",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28170,
+"en": "See? I've thought your training through.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28171,
+"en": "All right then, Coach. Off to the rough and stormy waters I go.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28172,
+"en": "Hold on, hold on. You need to catch a marlin. Understood?",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28173,
+"en": "...Does it have to be a marlin?",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28174,
+"en": "Of course. Did you think you could just snag a goby and be done with it?",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28175,
+"en": "A marlin is the pinnacle of piscine power and endurance. It will take your all to land one.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28176,
+"en": "Got it. Then I'm gonna reel me in the biggest marlin you ever saw!",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28177,
+"en": "I'm back, Coach.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28178,
+"en": "Ah, Shinada. Did you go eat some chicken dishes?",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28179,
+"en": "Sure did. I ate chicken at at least three restaurants, just like you said.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28180,
+"en": "Good. Your dynamic visual acuity should be better. You'll be able to see the ball in motion with better clarity.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28181,
+"en": "I sure hope so. Gotta test it out next time.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28182,
+"en": "Oh, and if I want to keep improving my vision, I should keep eating more chicken?",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28183,
+"en": "No, I'm afraid it doesn't work that way.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28184,
+"en": "...Knew it.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28185,
+"en": "Consider this akin to laying down the foundation of a building. The nutrients found in chicken are the basis for further growth in your abilities.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28186,
+"en": "Next time, I'll teach you that training method.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28187,
+"en": "Today, chicken's on the menu. Eat it at three different places in Kineicho, minimum. And three things at the same restaurant won't count. That'd just be dishonest.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28188,
+"en": "I'm here, Coach! Train me up right!",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28189,
+"en": "Oh, you're back again. All right, let's not waste any time. I'll have you hone your dynamic visual acuity even further.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28190,
+"en": "Oh, like the time you made me eat anthocyanins? What should I do this time?",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28191,
+"en": "Hit the town and go scarf down some chicken.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28192,
+"en": "Chicken? So I should be eating more protein now?",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28193,
+"en": "That's right. Chicken is ideal for its ample amount of animal protein. Plus, Nagoya's famous for the stuff.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28194,
+"en": "You get to eat well, and you gain the benefits of training. Isn't that a win-win situation?",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28195,
+"en": "It would be... if I didn't have to pay for it.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28196,
+"en": "Did I mention you have to try at least three different restaurants? You can't just go to one place and expect to learn everything.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28197,
+"en": "Aww, why not?",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28198,
+"en": "Every restaurant prepares and flavors their food differently. Nutritional intake varies with the cooking method, temperature, added ingredients, and so on.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28199,
+"en": "This training also makes you locate good restaurants. That alone should improve your attention and mental strength.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28200,
+"en": "You really think so? Well, I'm not one to argue.  Then I'm off to find the tastiest chicken in town!",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28201,
+"en": "You do that. Get some good nutrition into you.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28202,
+"en": "Ah, yes. Well? Did you manage to eat food with anthocyanins?",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28203,
+"en": "I did. It certainly was a challenge, but I managed somehow.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28204,
+"en": "Good. That should have improved your dynamic visual acuity.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28205,
+"en": "Remember your ability to focus and see pitches as if they were suspended in time? That ability should be more pronounced now.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28206,
+"en": "Oh, that thing. Yeah, I'll definitely give that a try.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28207,
+"en": "I'll go eat some more anthocyanins, too. That's gonna keep improving my vision, right?",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28208,
+"en": "I highly doubt that.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28209,
+"en": "...Why?",
+"ctx": "diálogo uid003304a1 + diálogo uid010c07fb"
+},
+{
+"id": 28210,
+"en": "Training isn't that simple. This time, your dynamic visual acuity was improved using a certain form of nutrition, but don't expect that to happen every time.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28211,
+"en": "Anyhow. If you want to enhance this ability further, come see me again.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28212,
+"en": "Go out and find food that contains anthocyanins. There should be plenty in town.  Simple enough for you?",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28213,
+"en": "Hey, Coach. What you got for me today?",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28214,
+"en": "Ah, Shinada. Here to train? Then I'd be glad to help you.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28215,
+"en": "Let's see now... How about working on your dynamic visual acuity?",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28216,
+"en": "Oh, was that the one where you made me go fishing? Okay, I'll go grab some worms off the ground and⑬",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28217,
+"en": "Don't get ahead of yourself. It's not fishing this time.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28218,
+"en": "...Then what is it?",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28219,
+"en": "You should like this. We're taking a nutritional approach this time.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28220,
+"en": "Nutritional? As in, I should eat something?",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28221,
+"en": "That's right. By giving your body the nutrition it needs, the benefits of training become more pronounced.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28222,
+"en": "I can dig it. Hey, isn't there some nutrient that's good for the eyes or whatever?",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28223,
+"en": "Indeed there is. It's called anthocyanin. Now go eat something that contains it.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28224,
+"en": "That's it? Psh, that doesn't sound too hard.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28225,
+"en": "Of course not. All you're doing is eating. There's no challenge whatsoever, unless you've stuffed yourself beforehand or something.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28226,
+"en": "Heheh, this one's in the bag. So what kind of food contains\nanthocyanins?",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28227,
+"en": "No idea.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28228,
+"en": "...Come again?",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28229,
+"en": "I said I have no idea. You go find it yourself, whatever has anthocyanins in it.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28230,
+"en": "Coach, have I ever told you you're a hardass?",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28231,
+"en": "Shut your whine-hole and get on with it.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28232,
+"en": "Dammit. Fine, I'll get out there...",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28233,
+"en": "Ah, you're back. Did you get your prize?",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28234,
+"en": "Yup. Got the dragon, as instructed.",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28235,
+"en": "Good job. So, how was it? Do you feel like you can foul off pitches better?",
+"ctx": "diálogo uid003304a1"
+},
+{
+"id": 28236,
+"en": "I haven't noticed that yet, no. But, I do feel like I've gotten into the habit of seeing better in three-dimensional space.",
+"ctx": "diálogo uid003304a1"
+}
+]

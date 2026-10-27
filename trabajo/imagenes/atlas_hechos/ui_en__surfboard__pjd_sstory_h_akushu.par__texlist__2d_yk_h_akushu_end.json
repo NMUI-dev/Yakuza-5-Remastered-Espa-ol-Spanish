@@ -1,0 +1,43 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_h_akushu.par/texlist/2d_yk_h_akushu_end",
+ "fuente": "segoeuib.ttf",
+ "margen": 6,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    12,
+    12,
+    502,
+    116
+   ],
+   "en": "Finished",
+   "es": "Terminado",
+   "fuente": "verdanab.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 470,
+   "estilo": {
+    "arriba": [
+     245,
+     255,
+     245
+    ],
+    "abajo": [
+     110,
+     210,
+     150
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     4
+    ],
+    "brillo": null
+   }
+  }
+ ]
+}

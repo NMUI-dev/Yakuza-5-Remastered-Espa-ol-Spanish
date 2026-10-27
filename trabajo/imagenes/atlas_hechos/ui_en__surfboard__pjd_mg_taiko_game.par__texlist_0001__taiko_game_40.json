@@ -1,0 +1,25 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_taiko_game.par/texlist_0001/taiko_game_40",
+ "fuente": "segoeuib.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    20,
+    726,
+    348,
+    785
+   ],
+   "en": "Not Cleared",
+   "ocr": "Not Cleared",
+   "es": "No superado",
+   "fuente": "trebucbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 324,
+   "alto": 32,
+   "margen": 10
+  }
+ ]
+}

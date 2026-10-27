@@ -1,0 +1,77 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_taiko_title.par/texlist_0001/taiko_title",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    536,
+    896,
+    1024,
+    952
+   ],
+   "en": "PRESS ANY BUTTON",
+   "ocr": "PRESS ANY BUTTON",
+   "es": "PRESIONA UN BOTÓN",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 484,
+   "alto": 30,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     240,
+     240,
+     240
+    ],
+    "contorno": [
+     [
+      30,
+      20,
+      10
+     ],
+     3
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    476,
+    301,
+    811,
+    343
+   ],
+   "en": "Taiko No Tatsujin",
+   "ocr": "TaikoNo Tatsujin",
+   "es": "",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 331,
+   "dejar": true
+  },
+  {
+   "caja": [
+    392,
+    596,
+    887,
+    634
+   ],
+   "en": "© 2011 BANDAI NAMCO Entertainment Inc.",
+   "ocr": "@ 2011 BANDAI NAMC0 Entertainment Inc.",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 491,
+   "dejar": true
+  }
+ ]
+}

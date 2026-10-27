@@ -1,0 +1,1037 @@
+[
+{
+"id": 23622,
+"en": "She could honk my horn all night long!",
+"ctx": "diálogo uid001003e5"
+},
+{
+"id": 23623,
+"en": "I'd totally let her pop my clutch!",
+"ctx": "diálogo uid001003e5"
+},
+{
+"id": 23624,
+"en": "My eyes locked on my girl, there in the driver's seat next to me.",
+"ctx": "diálogo uid001003e5"
+},
+{
+"id": 23625,
+"en": "Well, duh. I don't have a driver's license, either.",
+"ctx": "diálogo uid001003e5"
+},
+{
+"id": 23626,
+"en": "Hello! Welcome to Club SEGA. Can I help you with anything?",
+"ctx": "diálogo uid00110673 + diálogo uid0011067d …"
+},
+{
+"id": 23627,
+"en": "Can you restock the UFO Catcher?",
+"ctx": "diálogo uid00110673 + diálogo uid0011067d …"
+},
+{
+"id": 23628,
+"en": "Can I get you to restock the UFO Catcher?",
+"ctx": "diálogo uid00110673 + diálogo uid0011067d …"
+},
+{
+"id": 23629,
+"en": "Can ya restock the UFO Catcher for me?",
+"ctx": "diálogo uid00110673 + diálogo uid0011067d …"
+},
+{
+"id": 23630,
+"en": "Could you restock the UFO Catcher, please?",
+"ctx": "diálogo uid00110673 + diálogo uid0011067d …"
+},
+{
+"id": 23631,
+"en": "Of course! Give me one moment.",
+"ctx": "diálogo uid00110673 + diálogo uid0011067d …"
+},
+{
+"id": 23632,
+"en": "Thank you for waiting.",
+"ctx": "diálogo uid00110673 + diálogo uid0011067d …"
+},
+{
+"id": 23633,
+"en": "No, it's fine. Thanks.",
+"ctx": "diálogo uid00110673 + diálogo uid0011067d …"
+},
+{
+"id": 23634,
+"en": "Uh, no, nothing. Thanks.",
+"ctx": "diálogo uid00110673 + diálogo uid0011067d …"
+},
+{
+"id": 23635,
+"en": "Never mind.",
+"ctx": "diálogo uid00110673 + diálogo uid0011067d …"
+},
+{
+"id": 23636,
+"en": "Uh, no, I don't need anything.",
+"ctx": "diálogo uid00110673 + diálogo uid0011067d …"
+},
+{
+"id": 23637,
+"en": "Oh, sorry, no. I don't need anything.",
+"ctx": "diálogo uid00110673 + diálogo uid0011067d …"
+},
+{
+"id": 23638,
+"en": "If you need any assistance, we're here to help. Have fun!",
+"ctx": "diálogo uid00110673 + diálogo uid0011067d …"
+},
+{
+"id": 23639,
+"en": "Think you could change out the prizes in the UFO Catchers?",
+"ctx": "diálogo uid00110689"
+},
+{
+"id": 23640,
+"en": "All right, here we are, sir! Please have an enjoyable time!",
+"ctx": "diálogo uid001107bd"
+},
+{
+"id": 23641,
+"en": "Okay, let's see what this is like.",
+"ctx": "diálogo uid001107bd"
+},
+{
+"id": 23642,
+"en": "All right, here we are! Hope you have a good time!",
+"ctx": "diálogo uid001107da + diálogo uid001107e1 …"
+},
+{
+"id": 23643,
+"en": "Let's see what happens.",
+"ctx": "diálogo uid001107da"
+},
+{
+"id": 23644,
+"en": "Okay, let's check this place out.",
+"ctx": "diálogo uid001107e1"
+},
+{
+"id": 23645,
+"en": "Right, let's do this.",
+"ctx": "diálogo uid001107ff"
+},
+{
+"id": 23646,
+"en": "All right, let's give it a try.",
+"ctx": "diálogo uid0011080b"
+},
+{
+"id": 23647,
+"en": "Hey, you there. I know you...",
+"ctx": "diálogo uid00130111 + diálogo uid00130112"
+},
+{
+"id": 23648,
+"en": "(Shit! Looks like my cover's blown!)",
+"ctx": "diálogo uid00130111 + diálogo uid00130112"
+},
+{
+"id": 23649,
+"en": "You're that prison escapee, Saejima! Hold it right there!",
+"ctx": "diálogo uid00130111 + diálogo uid00130112"
+},
+{
+"id": 23650,
+"en": "(I should come back when I'm alone.)",
+"ctx": "diálogo uid001302bd"
+},
+{
+"id": 23651,
+"en": "Would you like to participate in a snowball fight?",
+"ctx": "diálogo uid001302bd"
+},
+{
+"id": 23652,
+"en": "I'm sorry, sir, but it costs 1,000 yen to enter. Please come back when you have the entry fee.",
+"ctx": "diálogo uid001302bd"
+},
+{
+"id": 23653,
+"en": "Please select a course.",
+"ctx": "diálogo uid001302bd"
+},
+{
+"id": 23654,
+"en": "I'll take your 1,000 yen entry fee, then.",
+"ctx": "diálogo uid001302bd"
+},
+{
+"id": 23655,
+"en": "Good luck to you!",
+"ctx": "diálogo uid001302bd"
+},
+{
+"id": 23656,
+"en": "Sorry, maybe some other time.",
+"ctx": "diálogo uid001302bd + diálogo uid010d005c"
+},
+{
+"id": 23657,
+"en": "I see. We'll look forward to you joining us.",
+"ctx": "diálogo uid001302bd"
+},
+{
+"id": 23658,
+"en": "You may participate in a snowball fight by speaking to the receptionist.\nEach game costs 1,000 yen to play.",
+"ctx": "diálogo uid001302bd"
+},
+{
+"id": 23659,
+"en": "The participants are ranked according to the points they earn during the regulation time, with the winner earning a prize.",
+"ctx": "diálogo uid001302bd"
+},
+{
+"id": 23660,
+"en": "Points are awarded and subtracted as follows:\n\nHit an enemy with a snowball (strike): +3 Pts\nGet hit by a snowball (hit): -2 Pts\n\nYou cannot earn negative points. Scoring doubles in the final thirty seconds.",
+"ctx": "diálogo uid001302bd"
+},
+{
+"id": 23661,
+"en": "You may not make your own snowballs. Get your snowballs from the restocking points in the four corners of the playing field.",
+"ctx": "diálogo uid001302bd"
+},
+{
+"id": 23662,
+"en": "By winning battles, you can advance to more challenging courses. The tougher courses offer better prizes.",
+"ctx": "diálogo uid001302bd"
+},
+{
+"id": 23663,
+"en": "I'm so sorry, but we stopped accepting new entries for our snowball fights. We hope you'll stick around to watch and take in the festival.",
+"ctx": "diálogo uid001302bd"
+},
+{
+"id": 23664,
+"en": "Good try out there! Please take this consolation prize.",
+"ctx": "diálogo uid001302bd"
+},
+{
+"id": 23665,
+"en": "You got <Color:8>Carved Wooden Doll<Color:Default>.",
+"ctx": "diálogo uid001302bd"
+},
+{
+"id": 23666,
+"en": "We hope you'll participate again.",
+"ctx": "diálogo uid001302bd"
+},
+{
+"id": 23667,
+"en": "Congratulations! Here's your prize. You deserve it!",
+"ctx": "diálogo uid001302bd"
+},
+{
+"id": 23668,
+"en": "You got <Color:8>Toughness ZZ<Color:Default>.",
+"ctx": "diálogo uid001302bd + diálogo uid00330366 …"
+},
+{
+"id": 23669,
+"en": "You got <Color:8>Tauriner ++<Color:Default>.",
+"ctx": "diálogo uid001302bd + diálogo uid0102104e …"
+},
+{
+"id": 23670,
+"en": "We look forward to having you join us again.",
+"ctx": "diálogo uid001302bd"
+},
+{
+"id": 23671,
+"en": "(I should come back here when I'm alone.)",
+"ctx": "diálogo uid001302db + diálogo uid0013031a …"
+},
+{
+"id": 23672,
+"en": "This sucks...",
+"ctx": "diálogo uid001302db + frase de acompañante/calle STID_ST_FUKUOKA …"
+},
+{
+"id": 23673,
+"en": "(He seems really down. I'll just let him be.)",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23674,
+"en": "Get your ugly mug outta my face.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23675,
+"en": "(Hey, isn't that Sosuke?)",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23676,
+"en": "Hey, what's wrong? You seem kind of down.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23677,
+"en": "Huh? Oh, hey, old man. It's nothing, I'm just kind of hungry.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23678,
+"en": "You want to go get something to eat? Your treat, of course.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23679,
+"en": "Huh? Okay...",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23680,
+"en": "How broke are you, old man? You're making me pay? That's just sad.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23681,
+"en": "Er, well... Sorry.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23682,
+"en": "Man, what a meal! Thanks for the treat, old man.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23683,
+"en": "(So he really is going to stick me with the check. Too late to say no now.)",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23684,
+"en": "Phew... I was feeling kinda down, but now that my belly's full, I don't really care anymore.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23685,
+"en": "Guess it's true what they say about simple minds. I don't know what was bothering you, but are you okay now?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23686,
+"en": "It seems kinda silly, but remember that talk we had about being popular with the ladies?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23687,
+"en": "Well, it's not like it's all about the ladies, but it's just...",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23688,
+"en": "I dunno, being admired... it just feels good, you know? What people think about you matters.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23689,
+"en": "Yeah, I guess it does.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23690,
+"en": "But growing up, no one ever really looked up to me. Nobody told me I was good at anything.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23691,
+"en": "I guess that kind of thing bothers me a lot more than I thought it did.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23692,
+"en": "But no biggie. I mean, if I worried about what everyone thought about me, I'd never get anything done.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23693,
+"en": "Anyway, I'm done worrying about that crap for now.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23694,
+"en": "I'll be back at the usual place any time you got some time to kill.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23695,
+"en": "You're back. Want to do some training?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23696,
+"en": "No, maybe later.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23697,
+"en": "Yeah? Catch you later, then.",
+"ctx": "diálogo uid001302db + diálogo uid0013085a"
+},
+{
+"id": 23698,
+"en": "Sure, let's do this.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23699,
+"en": "You're on!",
+"ctx": "diálogo uid001302db + diálogo uid01690547"
+},
+{
+"id": 23700,
+"en": "Let's start with guarding, the most basic part of fighting.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23701,
+"en": "It's good to keep your guard tight, but just doing that won't win you any fights.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23702,
+"en": "If you want to win, try this move. It's called the Komaki Knock Back.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23703,
+"en": "Knock back?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23704,
+"en": "I'll use the move on you so you can remember how it's done.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23705,
+"en": "If you beat me, that means you figured out what I was doing. After that, mastering the move will be a snap.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23706,
+"en": "<Color:7>Heat Actions are not available<Color:Default> in training battles. Also, make sure you are fully prepared, as Sosuke is a threat to be reckoned with.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23707,
+"en": "You ready?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23708,
+"en": "Yeah, let's get started.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23709,
+"en": "All right, then. Oh, before I forget...",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23710,
+"en": "This is a training session, so I'll let you hit me a little. But if you get carried away, I might get a little ticked off.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23711,
+"en": "What kind of training is this?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23712,
+"en": "Look, this isn't a dojo. I do things my own way out here.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23713,
+"en": "This time, we'll focus on the most basic of the basics: evasion.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23714,
+"en": "Think of it this way. You can't lose if your opponent never hits you.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23715,
+"en": "Then again, you'll never win if you don't go on the offensive, either.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23716,
+"en": "So if you can attack while evading, you'll be unstoppable. Pretty simple, huh?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23717,
+"en": "Yeah. The old evade and strike, right?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23718,
+"en": "Right. The Komaki Evade & Strike to be exact. It's the perfect combination of both evasion and attacking.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23719,
+"en": "Of course, it has its drawbacks. You won't be able to attack at full power, since you're evading at the same time.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23720,
+"en": "The idea is to evade and strike to create an opening, then follow up with more attacks.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23721,
+"en": "I'll show you by using the technique on you. That's the best way to learn.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23722,
+"en": "Okay, you ready?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23723,
+"en": "All right, then. Oh, and like I said before...",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23724,
+"en": "You'll get ticked off if I hit you too much? It's not like I'm going to hold back.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23725,
+"en": "Suit yourself. You're the one who's going to suffer if it comes to that.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23726,
+"en": "But enough talking. Let's go!",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23727,
+"en": "Now let's go over a way to take advantage of the opening an opponent leaves when he attacks.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23728,
+"en": "The idea is to break through the attacker's defenses by using the momentum of his attack against him.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23729,
+"en": "And to do that, you use the Komaki Parry.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23730,
+"en": "Timing's everything with this one. Get it wrong, and your opponent eats your lunch.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23731,
+"en": "But the only way to learn is the hard way. And by hard, I mean painful.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23732,
+"en": "You know the drill, old man.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23733,
+"en": "And remember, try not to get too carried away.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23734,
+"en": "Heh, no promises.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23735,
+"en": "It's your funeral, old man. All right, let's start!",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23736,
+"en": "Like last time, this is another way to use the opening an opponent leaves when he attacks.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23737,
+"en": "Even the best of the masters leave themselves exposed for just an instant as they attack.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23738,
+"en": "That's when you use the Komaki Tiger Drop, a vicious move that seizes that opportunity.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23739,
+"en": "The Tiger Drop...",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23740,
+"en": "If you've used it before, you'll know you only have a brief moment to pull it off.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23741,
+"en": "Study your opponent's attacks so you'll know the perfect time to unleash it.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23742,
+"en": "The Tiger Drop is not an easy move to pull off.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23743,
+"en": "But for now, I'll be using it like crazy. Just remember that it takes years to master.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23744,
+"en": "It's one of those high-risk, high-return moves. Always good to have one in your bag of tricks.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23745,
+"en": "I won't be taking it quite as easy on you this time. I won't be going all out, either, of course.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23746,
+"en": "Heh, save the excuses and just get to it.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23747,
+"en": "I like your style, old man. Let's go!",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23748,
+"en": "This time, I'll teach you something more conceptual instead of a straight-up technique.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23749,
+"en": "Conceptual?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23750,
+"en": "Yeah, it's different from before where I just tell you about a move and how to use it.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23751,
+"en": "I don't follow.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23752,
+"en": "You're not that good at flexible thinking, are you?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23753,
+"en": "Well, don't worry, buddy. I'm going to teach you anyway.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23754,
+"en": "People have a way of tapping into unimaginable power when their back's against the wall. What if we were able to do that at will?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23755,
+"en": "It would be a huge advantage.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23756,
+"en": "The fact that you can use Komaki style moves shows that you've trained your soul, technique, and body.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23757,
+"en": "That means you should be able to tap into this off-the-charts power when you're backed into a corner, just like me.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23758,
+"en": "Off-the-charts power?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23759,
+"en": "The best way to learn is by doing, so brace yourself. The kid gloves are coming off.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23760,
+"en": "Remember, you have to be backed into a corner. Just let me take care of that. The rest is for you to figure out.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23761,
+"en": "Finally, some real training.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23762,
+"en": "It's all been totally real. Want to take this seriously, old man?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23763,
+"en": "Right. Sorry.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23764,
+"en": "Whatever, let's get going.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23765,
+"en": "Okay, let's do this!",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23766,
+"en": "Okay, you passed the test.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23767,
+"en": "Knock backs are really useful in creating opportunities to attack, especially against tough opponents.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23768,
+"en": "I couldn't care less if you forgot what my gramps taught, but you better remember what you learned from me, old man.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23769,
+"en": "You learned <Color:9>Komaki Knock Back<Color:Default>.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23770,
+"en": "About that... I'm sensing you have a lot of hostility toward the elder Komaki.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23771,
+"en": "It's not hostility. I admit the old coot's got good stuff.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23772,
+"en": "But he's getting old. I'm on the way up, while he's on a one-way trip down.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23773,
+"en": "That makes me better than him. Wait, I take that back. I'm better than him even without taking that stuff into account.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23774,
+"en": "Arrogant, aren't you? Personally, I don't think your grandfather's lost much of his edge.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23775,
+"en": "It doesn't matter how good you are. If you don't do anything with your skill, what's the point?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23776,
+"en": "What're you getting at?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23777,
+"en": "Heh. Enough talk for now.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23778,
+"en": "We can continue this conversation next time. That is, if you can complete the training I assign you.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23779,
+"en": "Come on, old man. That was just plain sad.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23780,
+"en": "Let's pretend that didn't happen, okay? Come back when you're ready to be a winner.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23781,
+"en": "Okay, good enough. You pass.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23782,
+"en": "To use Evade & Strike right, you gotta be able to evade when needed, you know?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23783,
+"en": "If all you're thinking about is landing a blow, you'll be in for a world of pain.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23784,
+"en": "Yeah, I get it.",
+"ctx": "diálogo uid001302db + diálogo uid0013085c"
+},
+{
+"id": 23785,
+"en": "You learned <Color:9>Komaki Evade & Strike<Color:Default>.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23786,
+"en": "But hey, you move pretty well for an old dude.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23787,
+"en": "You don't look like you play sports. So what, did you bust some heads back in the day?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23788,
+"en": "No comment.",
+"ctx": "diálogo uid001302db + diálogo uid00360063 …"
+},
+{
+"id": 23789,
+"en": "Keeping your past a secret, old man? Aw, whatever. It's not like I really care.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23790,
+"en": "Hey, do you know how Gramps is doing?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23791,
+"en": "I haven't seen him in a long time, but the last time we met, he was doing fine.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23792,
+"en": "Huh...",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23793,
+"en": "If you're so interested, why don't you just go see him yourself? He'll be at the Kamurocho dojo unless he's moved on.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23794,
+"en": "A dojo in Kamurocho, huh? Figures.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23795,
+"en": "That's exactly why that old geezer's no good.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23796,
+"en": "Anyway, the point is, I'm stronger and better looking to boot.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23797,
+"en": "Wait, what're we talking about now?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23798,
+"en": "Relax, old man. You'll go bald sweating the details like that.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23799,
+"en": "Come on back if you feel the need. Later.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23800,
+"en": "Okay, that's that. Let's just say you passed.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23801,
+"en": "You learned <Color:9>Komaki Parry<Color:Default>.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23802,
+"en": "As cocky as ever, aren't you? You're bound to piss people off if you keep acting like that. That'll be your problem, though.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23803,
+"en": "So you say, but with my overwhelming strength and good looks, you'd have to be a moron to pick a fight with me.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23804,
+"en": "Good looks have nothing to do with it. But as long as we're on the subject, are you what passes for good looking these days?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23805,
+"en": "You may have a decent face, but you're kind of scrawny. No one I'd want to count on, at least.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23806,
+"en": "What? Oh, I get it.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23807,
+"en": "You're stuck in the past, old man. You're in serious dinosaur country.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23808,
+"en": "Let me fill you in. Girls don't go for big, bulky musclemen anymore.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23809,
+"en": "They're into the more sensitive types and guys who are ripped but still thin. You know, like me.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23810,
+"en": "Thin but ripped?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23811,
+"en": "Can't blame you if you're behind the times. I mean, you're old, anyway. Suffice to say, I'm the kinda guy the ladies are into these days.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23812,
+"en": "So you're saying you're popular with the ladies?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23813,
+"en": "No, that's a different matter.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23814,
+"en": "How so?",
+"ctx": "diálogo uid001302db + diálogo uid00690235 …"
+},
+{
+"id": 23815,
+"en": "It just is.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23816,
+"en": "I'm the type of guy that's in right now. Ladies go for guys like me.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23817,
+"en": "Just, you know, not right at this exact moment.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23818,
+"en": "What? Sorry, you lost me there.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23819,
+"en": "Ladies should be all over me, but they're not.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23820,
+"en": "Come on, relax. I don't know what you're talking about, but does it really matter?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23821,
+"en": "Guess not.",
+"ctx": "diálogo uid001302db + diálogo uid01020b6c"
+},
+{
+"id": 23822,
+"en": "(He looks really depressed all of a sudden. I hope he snaps out of it.)",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23823,
+"en": "You made it through. I guess you pass, then.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23824,
+"en": "You learned <Color:9>Komaki Tiger Drop<Color:Default>.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23825,
+"en": "Either I pass or I don't. What's to guess about it?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23826,
+"en": "You really like to fuss over the details, huh?",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23827,
+"en": "Man, I really hope I don't end up a useless old geezer like you and my gramps.",
+"ctx": "diálogo uid001302db"
+},
+{
+"id": 23828,
+"en": "What, are you worried about growing old at your age?",
+"ctx": "diálogo uid001302db"
+}
+]

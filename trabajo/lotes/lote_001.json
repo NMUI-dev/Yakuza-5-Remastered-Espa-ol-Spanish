@@ -1,0 +1,747 @@
+[
+{
+"id": 421,
+"en": "Surprise an opponent while you're knocked down by breaking their shins",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 422,
+"en": "A secret street fighting technique. Skillfully use a lit cigarette to create an opening.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 423,
+"en": "Strike down your opponents with frightful speed.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 424,
+"en": "Work with an ally to deliver a vicious blow.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 425,
+"en": "After an ally smashes the back of your opponent's head into the ground with a powerbomb, cave in their face with a stomp.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 426,
+"en": "Knee and headbutt a rising opponent to break his nose.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 427,
+"en": "Ram a bike into your enemy putting all your weight behind it.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 428,
+"en": "Glue two enemies together with superglue, then watch them struggle before viciously tearing them apart.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 429,
+"en": "Launch a skyrocket at your enemy.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 430,
+"en": "Unleash after Dragon Spirit to mow down surrounding enemies all at once.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 431,
+"en": "Attack an enemy calling for backup, then smash his phone. No one's coming to save him now.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 432,
+"en": "Build up power before delivering a savage kick. <Color:255,255,150,255>Only possible when the Climax Heat Gauge is full.<Color:Default>",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 433,
+"en": "Taunt enemies with the spirit of the white tiger to boost morale and increase your Heat Gauge.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 434,
+"en": "Block enemy attacks with the spirit of the black tortoise to increase your Heat Gauge.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 435,
+"en": "Earn more experience points when finishing off enemies with Heat Actions.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 436,
+"en": "You will be less likely to recoil from enemy attacks while in Heat Mode.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 437,
+"en": "The phoenix's spirit automatically fills up the Heat Gauge if your Health Gauge is flashing red.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 438,
+"en": "Stay alive while in Heat Mode with the tireless strength of the azure dragon.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 439,
+"en": "Guard against bladed weapons and bullets with your bare hands while in Heat Mode.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 440,
+"en": "Recover health slightly using the Heat Gauge while in Heat Mode.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 441,
+"en": "Heat Gauge rises slightly when landing an attack on an enemy even while Dragon Spirit is in effect.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 442,
+"en": "Press the button at the right time to break your enemy's guard with the next attack of your combo.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 443,
+"en": "A devastating strike executed after a Finishing Blow.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 444,
+"en": "Leap in the air to deliver a powerful two-legged kick.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 445,
+"en": "Swiftly regain your guard if it has been broken.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 446,
+"en": "Allows you to the break an enemy's guard with certain attacks.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 447,
+"en": "Knock enemies down by kicking the legs out from under them while rising to your feet.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 448,
+"en": "Force a downed enemy onto his feet.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 449,
+"en": "Regain your footing when you are about to get knocked down, then perform a counterattack. ",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 450,
+"en": "Throw your enemy after unleashing a Finishing Blow.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 451,
+"en": "Throw an enemy who has grabbed on to you.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 452,
+"en": "Evade danger by performing Quickstep right after an attack. This will lower your Heat Gauge.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 453,
+"en": "Boost your health's maximum value.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 454,
+"en": "Escape enemy holds more easily.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 455,
+"en": "Get back on your feet faster after getting knocked down.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 456,
+"en": "Throw enemies you grab with greater ease.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 457,
+"en": "Do more damage to surrounding enemies when hitting them with thrown enemies.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 458,
+"en": "Pull off an impressive dodge by rolling after Quickstep.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 459,
+"en": "Extend the time you are invulnerable during Quickstep.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 460,
+"en": "Regain your footing to avoid getting knocked down.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 461,
+"en": "Avoid recoiling from attacks during your combo by entering your next combo at the right time.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 462,
+"en": "Deliver a vicious attack to a fallen enemy. Acquire new finishing moves the more you use it.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 463,
+"en": "Boost the Heat Gauge's maximum value.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 464,
+"en": "Show an enemy grabbing you that they should keep their hands to themselves by piledriving them.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 465,
+"en": "Deal massive damage to an enemy by grating his face against the ground.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 466,
+"en": "Deliver a vicious strike, then steal your enemy's weapon. Does not work against certain weapons.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 467,
+"en": "Deliver a vicious attack by using an enemy's own large weapon against him.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 468,
+"en": "Perform a powerful counter move against an enemy's attack. The move differs by direction.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 469,
+"en": "Stop enemies with firearms from shooting, then deliver a vicious strike.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 470,
+"en": "Deliver a powerful counterattack against an enemy's sword attack.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 471,
+"en": "Boost the amount the Heat Gauge rises when attacking.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 472,
+"en": "Unleash pent up rage to deliver powerful combos or throws for a short time.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 473,
+"en": "Knock back your enemy while you are guarding creating a chance for a counterattack.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 474,
+"en": "Evade enemy attacks with Quickstep while attacking at the same time.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 475,
+"en": "Neutralize an enemy attack by parrying it, then knock your enemy out. Some enemies can't be knocked out.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 476,
+"en": "Deliver a vicious counterattack while your enemy is attacking.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 477,
+"en": "Improve the odds of Komaki Tiger Drop working by learning to better judge when enemies will attack.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 478,
+"en": "Thrust your body into your enemy for major damage. <Color:255,255,150,255>Only possible when the Climax Heat Gauge is full.<Color:Default>",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 479,
+"en": "Perform the ultimate reversal move while at death's door. <Color:255,255,150,255>Only possible when the Climax Heat Gauge is full.<Color:Default>",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 480,
+"en": "A brutal attack in which you slam your enemy's head in a car door with all your might.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 481,
+"en": "Master the use of garbage cans to immobilize enemies by flipping them over their heads and into the trash.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 482,
+"en": "Master the art of jamming lit stoves into enemy faces.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 483,
+"en": "Master the use of pliers to tear the side of your enemy's face to shreds.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 484,
+"en": "Unlock the second level of health and use food to boost different abilities. ",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 485,
+"en": "Boost Strength, Focus, and Fighting Spirit to the second level to achieve greater bonuses.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 486,
+"en": "Lower the rate at which the second level of health automatically declines.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 487,
+"en": "Move the camera up, down, left, or right. Change the controls in Options from the Pause Menu.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 488,
+"en": "This powerful finish after a Rush Combo sends your enemy flying. ",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 489,
+"en": "A stronger Finishing Blow that is charged and unleashed after a Rush Combo.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 490,
+"en": "Deliver a vicious brass knuckles attack that lifts your enemy into the air.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 491,
+"en": "Trap your opponent and send them flying. Makes use of powerful centrifugal force. ",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 492,
+"en": "Lift enemies up from between their legs and slam them onto the ground.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 493,
+"en": "Pound the ground with built-up power to send enemies flying. <Color:255,255,150,255>Only possible when the Climax Heat Gauge is full.<Color:Default>",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 494,
+"en": "Raise the Heat Gauge by psyching yourself up.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 495,
+"en": "Earn more experience points when finishing off enemies with charged attacks.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 496,
+"en": "Dramatically raise your Heat Gauge by psyching yourself up to the extreme.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 497,
+"en": "Run to build up speed, then deliver a powerful ramming attack.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 498,
+"en": "Swing an enemy around like a weapon, then hurl him at surrounding enemies.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 499,
+"en": "Build up power, then deliver a violent knee strike to the enemy you grabbed.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 500,
+"en": "Deliver a violent Finishing Blow after a Super Double Combo.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 501,
+"en": "Deliver a powerful uppercut after building up power.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 502,
+"en": "Unleash a violent throw that starts with Tiger Charge. <Color:255,255,150,255>Lowers the Heat Gauge when activated.<Color:Default>",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 503,
+"en": "Build up enormous power, then whirl while crashing into your enemy.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 504,
+"en": "Swing an enemy around, then bash him into the ground, striking other enemies.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 505,
+"en": "Throw enemies you grab with even greater ease.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 506,
+"en": "Further boost damage to surrounding enemies when hitting them with thrown enemies.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 507,
+"en": "Boost the damage of the next attack of a combo by pressing the button at just the right time.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 508,
+"en": "Grab the legs of an enemy to give him a brutal\nclothesline and a nice view of the sky.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 509,
+"en": "Slam a gigantic weapon into your enemy then strike him again as only the powerfully built Saejima could.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 510,
+"en": "Carry your enemy over to a wall, then perform a heroic throw.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 511,
+"en": "Grab an enemy's head and swing him around like a weapon, bludgeoning other enemies all around.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 512,
+"en": "Deliver a devastating blow with a giant piece of equipment ripped out of the ground.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 513,
+"en": "Lift up an enemy who bounced back from a wall, then ram him into it again full force.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 514,
+"en": "Catch your opponents on guard! Sweep out the feet of guarding enemies to watch them crumble.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 515,
+"en": "Grab a fallen enemy and swing him around like a weapon, striking other enemies all around.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 516,
+"en": "Rip equipment or a road sign out of the ground, then use it as a devastating weapon.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 517,
+"en": "Lift up an enemy you have grabbed, then slam him down. <Color:255,255,150,255>Only possible when the Climax Heat Gauge is full.<Color:Default>",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 518,
+"en": "Never flinch from enemy attacks as long as you are in Heat Mode.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 519,
+"en": "Charge forward and send your enemy flying. <Color:255,255,150,255>Only possible when the Climax Heat Gauge is full.<Color:Default>",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 520,
+"en": "Violently roll your enemy in the snow, turning him into a human snowman.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 521,
+"en": "Smash a potted plant over an enemy's head. An eco-friendly takedown.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 522,
+"en": "Disable an enemy with your mastery of the bicycle tire.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 523,
+"en": "Perform a combo that can lead to a variety of other attacks. Transition to a Slash Kick by pressing <Action:Battle_Normal_Attack@Combat> three times and then mashing <Action:Battle_Normal_Attack@Combat>.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 524,
+"en": "Violently slam your enemy against a guard rail, then finish him off with a kick.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 525,
+"en": "Race up a pole and use the height advantage to deliver a vicious kick. ",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 526,
+"en": "Deliver a series of vicious kicks to an enemy you have slammed against a wall.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 527,
+"en": "Send enemies out of the park with a powerful swing.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 528,
+"en": "Use a long pole to launch your body high in the air and deliver a vicious attack.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 529,
+"en": "A secret technique where you jump and knee the face of an enemy that was picked up and thrown.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 530,
+"en": "Deliver a combo of assorted kicks. <Color:255,255,150,255>Only possible when the Climax Heat Gauge is full.<Color:Default>",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 531,
+"en": "Squat down and taunt a downed enemy.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 532,
+"en": "Taunt an enemy you grabbed by glaring at him.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 533,
+"en": "Taunt your enemy as you get up from the ground.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 534,
+"en": "Earn more experience points when you finish off an enemy with Launch Strike.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 535,
+"en": "Your attacks grow more powerful while you are drunk.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 536,
+"en": "Your Heat Gauge will rise higher when using any kind of taunt.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 537,
+"en": "Raise your Heat Gauge gain on your next attack by pressing the button at the right time.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 538,
+"en": "Deliver a vicious Finishing Blow after a Double Finishing Kick",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 539,
+"en": "Boost the attack speed of the Rush Combo.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 540,
+"en": "Take major evasive actions by performing Quickstep twice in a row.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 541,
+"en": "The Heat Gauge will not go down when you use Evasive Quickstep.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 542,
+"en": "Enemies will be unable to guard against Launch Strike.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 543,
+"en": "Perform an extremely evasive Quickstep that your enemy cannot score a hit on.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 544,
+"en": "A vicious drop to the face of a fallen enemy.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 545,
+"en": "Mow down your enemies with a trinity of strikes.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 546,
+"en": "When you are in danger after your guard is broken, turn the tables with a backspin kick.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 547,
+"en": "Deliver a powerful strike to an airborne enemy, then slam him to the ground.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 548,
+"en": "Turn your back on your enemy, then deliver a debilitating kick when he least expects it.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 549,
+"en": "Launch your enemy back into the air after slamming him down with Alpha Drive.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 550,
+"en": "After Beta Drive, violently kick your enemy away while he is still in the air.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 551,
+"en": "Launch your enemy into the air, then deliver a violent combo attack. Unleash with <Action:Battle_Normal_Attack@Combat><Action:Battle_Heavy_Attack@Combat><Action:Battle_Heavy_Attack@Combat> or <Action:Battle_Heavy_Attack@Combat> while running.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 552,
+"en": "Increase the number of times Slash Kick can be performed.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 553,
+"en": "Deliver a devastating attack as you come hurtling down. <Color:255,255,150,255>Only possible when the Climax Heat Gauge is full.<Color:Default>",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 554,
+"en": "Increase the number of times Launch Strike can be performed.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 555,
+"en": "Violently slam an airborne enemy down to the ground. <Color:255,255,150,255>Only possible when the Climax Heat Gauge is full.<Color:Default>",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 556,
+"en": "Send one enemy into the air, and while he is helpless, slam another nearby enemy into him.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 557,
+"en": "After mastering the use of bikes as a weapon, you can now send them rolling into enemies.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 558,
+"en": "After mastering the use of beer crates, you can slam them over an enemy's head to blind them.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 559,
+"en": "After mastering the use of the bowling ball as a weapon, you can now strike enemies with your superb bowling form.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 560,
+"en": "Slightly recover your health through proper breathing and concentration during a dance battle.",
+"ctx": "tabla ability|EXPLANATION + tabla dance_battle_skill|EXPLANATION"
+},
+{
+"id": 561,
+"en": "Wake the Fighting Spirit that sleeps within you to raise your Spirits one level during a dance battle.",
+"ctx": "tabla ability|EXPLANATION + tabla dance_battle_skill|EXPLANATION"
+},
+{
+"id": 562,
+"en": "Recover your health through even better breathing and concentration during a dance battle.",
+"ctx": "tabla ability|EXPLANATION + tabla dance_battle_skill|EXPLANATION"
+},
+{
+"id": 563,
+"en": "Lower your opponent's Spirits one level by showing off your hunger for victory during a dance battle.",
+"ctx": "tabla ability|EXPLANATION + tabla dance_battle_skill|EXPLANATION"
+},
+{
+"id": 564,
+"en": "Recover even more of your health through intense breathing control and concentration during a dance battle.",
+"ctx": "tabla ability|EXPLANATION + tabla dance_battle_skill|EXPLANATION"
+},
+{
+"id": 565,
+"en": "Wake even greater Fighting Spirit within you to raise your Spirits two levels during a dance battle.",
+"ctx": "tabla ability|EXPLANATION + tabla dance_battle_skill|EXPLANATION"
+},
+{
+"id": 566,
+"en": "Lower your opponent's Spirits two levels by showing off an even greater hunger for victory during a dance battle.",
+"ctx": "tabla ability|EXPLANATION + tabla dance_battle_skill|EXPLANATION"
+},
+{
+"id": 567,
+"en": "Win the hearts of the crowd with a sweet performance during a dance battle, causing your opponent's Heat to fall a bit.",
+"ctx": "tabla ability|EXPLANATION + tabla dance_battle_skill|EXPLANATION"
+},
+{
+"id": 568,
+"en": "Learn the ropes so that you can slightly decrease the health you lose due to the fatigue that results if you fail at a job.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 569,
+"en": "Win the hearts of the crowd with a seriously sweet performance during a dance battle, causing your opponent's Heat to fall.",
+"ctx": "tabla ability|EXPLANATION + tabla dance_battle_skill|EXPLANATION"
+}
+]

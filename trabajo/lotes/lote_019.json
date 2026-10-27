@@ -1,0 +1,2652 @@
+[
+{
+"id": 4795,
+"en": "The controller was disconnected.\nPlease reconnect it or use a different controller to resume playing.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4796,
+"en": "Would you like to revert all controls binding?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4797,
+"en": "Resume",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4798,
+"en": "Player 1, press a button on the input device\nyou wish to use to control the game.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4799,
+"en": "Player 2, press a button on the input device\nyou wish to use to control the game.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4800,
+"en": "Press any key",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4801,
+"en": "Failed to load save data.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4802,
+"en": "Weapon Details",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4803,
+"en": "Gear Details",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4804,
+"en": "Growth",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4805,
+"en": "Power",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4806,
+"en": "Ammo",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4807,
+"en": "Reload",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4808,
+"en": "Recoil",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4809,
+"en": "Rapid Fire",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4810,
+"en": "Attack Range",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4811,
+"en": "Expansion Multiplier",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4812,
+"en": "Attack Type",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4813,
+"en": "Defense",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4814,
+"en": "Fireproof",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4815,
+"en": "Explosion Proof",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4816,
+"en": "Explosion",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4817,
+"en": "Stun",
+"ctx": "menú/texto string_tbl + tabla tips_tutorial|TIPS_NAME"
+},
+{
+"id": 4818,
+"en": "Use <Action:Button_LS_Up><Action:Button_LS_Down> to select a destination.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4819,
+"en": "Part 1: Kazuma Kiryu",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4820,
+"en": "Part 1: Complete",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4821,
+"en": "Part 2: Taiga Saejima",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4822,
+"en": "Part 2: Complete",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4823,
+"en": "Part 3, Act 1: Haruka Sawamura",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4824,
+"en": "Part 3, Act 2: Shun Akiyama & Haruka Sawamura",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4825,
+"en": "Part 3: Complete",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4826,
+"en": "Part 4: Tatsuo Shinada",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4827,
+"en": "Part 4: Complete",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4828,
+"en": "Finale",
+"ctx": "menú/texto string_tbl + tabla correlation_person|CATEGORY_BU"
+},
+{
+"id": 4829,
+"en": "Final Chapter: Dreams Fulfilled",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4830,
+"en": "-The End-",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4831,
+"en": "Prologue",
+"ctx": "menú/texto string_tbl + menú/texto scenario_state"
+},
+{
+"id": 4832,
+"en": "Part 3: Shun Akiyama & Haruka Sawamura",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4833,
+"en": "You got %s.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4834,
+"en": "You lost %s.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4835,
+"en": "Your health was restored.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4836,
+"en": "You received %s.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4837,
+"en": "%s Experience Points",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4838,
+"en": "You picked up %s (%d liters).",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4839,
+"en": "Item Box is full.\nReturning item to locker.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4840,
+"en": "Returned item to locker.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4841,
+"en": "The item was sent to the Item Box.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4842,
+"en": "You can't carry any more items.\nReturning item to locker.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4843,
+"en": "Choose which locker you would like to open.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4844,
+"en": "Equipment",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4845,
+"en": "Stop Autoplay",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4846,
+"en": "Autoplaying",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4847,
+"en": "R3: Autoplay",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4848,
+"en": "Your inventory is full.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4849,
+"en": "Premium Adventure",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4850,
+"en": "Go where you want to go. The world is your oyster!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4851,
+"en": "1st Adventure Mode",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4852,
+"en": "Enjoy the sights at your leisure. Head to Sky Finance when you're finished.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4853,
+"en": "${title}Play Time: ${hour}:${min}:${sec}\nSaves: ${save}\nContinues: ${continue}\nDifficulty: ${difficulty}${hint}",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4854,
+"en": "Clear Data\nClear Time: ${hour}:${min}:${sec}\nSaves: ${save}Continues: ${continue}\nDifficulty: ${difficulty}",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4855,
+"en": "Premium Adventure\nPlay Time: ${hour}:${min}:${sec}\nSaves: ${save}\nContinues: ${continue}${hint}",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4856,
+"en": "Mack's Training A",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4857,
+"en": "Mack's Training B",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4858,
+"en": "Mack's Training C",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4859,
+"en": "Mack's Ultimate Training",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4860,
+"en": "<Action:Button_R1@Chase> Dash",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4861,
+"en": "<Action:Button_L1@Chase> Display Tips",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4862,
+"en": "<Action:Button_Cross@Chase> Jump",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4863,
+"en": "<Action:Button_Square@Chase> Tackle",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4864,
+"en": "<Action:Button_Square@Chase> Roll",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4865,
+"en": "Chase Gauge restored. ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4866,
+"en": "Downtown Ryukyu",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4867,
+"en": "View Requests",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4868,
+"en": "Reward: %s",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4869,
+"en": "Investigation Details",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4870,
+"en": "Target Information",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4871,
+"en": "Name",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4872,
+"en": "Reward",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4873,
+"en": "Combat Strength",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4874,
+"en": "Location Information",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4875,
+"en": "<Action:Button_Cross> OK",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4876,
+"en": "<Action:Button_Circle> Back",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4877,
+"en": "<Action:Button_Cross> Accept",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4878,
+"en": "<Action:Button_Circle> Back　",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4879,
+"en": "Accept Request",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4880,
+"en": "There are no missions at this time.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4881,
+"en": "There is no new information about hitmen.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4882,
+"en": "Reaper Boss",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4883,
+"en": "Sell",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4884,
+"en": "Eat",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4885,
+"en": "Switch",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4886,
+"en": "Zoom In",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4887,
+"en": "Zoom Out",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4888,
+"en": "Use",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4889,
+"en": "Discard",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4890,
+"en": "View",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4891,
+"en": "Valuables",
+"ctx": "menú/texto string_tbl + tabla tips_tutorial|TIPS_NAME"
+},
+{
+"id": 4892,
+"en": "Inventory",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4893,
+"en": "List",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4894,
+"en": "Remove",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4895,
+"en": "Buy",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4896,
+"en": "Align",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4897,
+"en": "Move",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4898,
+"en": "Map of Tokyo",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4899,
+"en": "Full Equip",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4900,
+"en": "Sort",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4901,
+"en": "Standard Display",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4902,
+"en": "Descending Order",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4903,
+"en": "Ascending Order",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4904,
+"en": "Tools",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4905,
+"en": "Release",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4906,
+"en": "Tools on Hand",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4907,
+"en": "Equip",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4908,
+"en": "Select",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4909,
+"en": "Details",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4910,
+"en": "Abilities",
+"ctx": "menú/texto string_tbl + tabla tips_tutorial|TIPS_NAME"
+},
+{
+"id": 4911,
+"en": "Upgrade Abilities",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4912,
+"en": "Items",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4913,
+"en": "Map Select",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4914,
+"en": "Materials Needed",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4915,
+"en": "Play All",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4916,
+"en": "Rotate",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4917,
+"en": "Protagonist  ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4918,
+"en": "Storage",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4919,
+"en": "Weapons",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4920,
+"en": "Auto Sort",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4921,
+"en": "Select All",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4922,
+"en": "Reply",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4923,
+"en": "Reset Current Game Mode",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4924,
+"en": "Reset All Game Modes",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4925,
+"en": "Apply",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4926,
+"en": "Return and save",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4927,
+"en": "Delete",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4928,
+"en": "｜Article List｜",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4929,
+"en": "≪ Previous Article",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4930,
+"en": "Next Article ≫",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4931,
+"en": "Theme: Revelations",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4932,
+"en": "<Action:Button_Circle> Close",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4933,
+"en": "Close",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4934,
+"en": "Revelations\nMorning Glory\nCity",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4935,
+"en": "New Mail",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4936,
+"en": "Mack",
+"ctx": "menú/texto string_tbl + menú/texto mail"
+},
+{
+"id": 4937,
+"en": "Alan",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4938,
+"en": "Dave",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4939,
+"en": "Eddy",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4940,
+"en": "Jon",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4941,
+"en": "Jack",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4942,
+"en": "Mark",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4943,
+"en": "Mike",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4944,
+"en": "Paul",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4945,
+"en": "Peter",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4946,
+"en": "Rick",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4947,
+"en": "Rob",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4948,
+"en": "Barry",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4949,
+"en": "Benny",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4950,
+"en": "Dan",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4951,
+"en": "Doug",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4952,
+"en": "Frank",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4953,
+"en": "Jeff",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4954,
+"en": "George",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4955,
+"en": "Rich-looking Man",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4956,
+"en": "Free",
+"ctx": "menú/texto string_tbl + menú/texto bs_present_item …"
+},
+{
+"id": 4957,
+"en": "Attack!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4958,
+"en": "Assist",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4959,
+"en": "Heal",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4960,
+"en": "Unable to command",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4961,
+"en": "Back Out",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4962,
+"en": "Launch ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4963,
+"en": "Move Reticle",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4964,
+"en": "Scoop Up",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4965,
+"en": "Quit",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4966,
+"en": "Swap Ammo",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4967,
+"en": "Select Ball",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4968,
+"en": "Fastball",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4969,
+"en": "Forkball",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4970,
+"en": "Sinker",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4971,
+"en": "Curveball",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4972,
+"en": "Charge",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4973,
+"en": "Unleash",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4974,
+"en": "Stack Up Cargo",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4975,
+"en": "Put Down Cargo",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4976,
+"en": "Forward",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4977,
+"en": "Reverse",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4978,
+"en": "Zoom",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4979,
+"en": "Aim",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4980,
+"en": "Bulldozer",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4981,
+"en": "Chainsaw",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4982,
+"en": "Flamethrower",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4983,
+"en": "Forklift",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4984,
+"en": "Mortar",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4985,
+"en": "Pitching Machine",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4986,
+"en": "Railgun",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4987,
+"en": "Tank",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4988,
+"en": "Armored Car",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4989,
+"en": "Anti-tank Cannon",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4990,
+"en": "Sniper Rifle",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4991,
+"en": "No Equipment",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4992,
+"en": "No Target Selected",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4993,
+"en": "Ammo Reload Required",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4994,
+"en": "Total Score",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4995,
+"en": "%d time(s)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4996,
+"en": "Floor B%d",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4997,
+"en": "%d yen",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4998,
+"en": "EXP Earned",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4999,
+"en": "Order Complete",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5000,
+"en": "Additional Order Complete",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5001,
+"en": "Knocked Out",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5002,
+"en": "Sent Item to Storage.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5003,
+"en": "Certain items are at maximum capacity and could not be sent.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5004,
+"en": "Weapon storage is full. Remove some items from storage and try again.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5005,
+"en": "Progressing Substories",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5006,
+"en": "Free Battling",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5007,
+"en": "Levels and EXP you acquire will be carried onto the next protagonist. Any items and weapons held will automatically be sent to the hideout. This information has been added as a memo. Read memos by selecting Memos in the Pause Menu. Access the Pause Menu with <Action:Button_Options@Adventure>.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5008,
+"en": "You can switch ability tabs with <Action:Button_L1> and <Action:Button_R1>.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5009,
+"en": "You can switch items and weapons with <Action:Button_L1> and <Action:Button_R1>.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5010,
+"en": "The destination you're sending to is full. Discard?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5011,
+"en": "A new item can be crafted.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5012,
+"en": "There are things that you can't use. Are you sure?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5013,
+"en": "Set Marker",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5014,
+"en": "<Action:Button_Triangle> 2D Code <Action:Button_Circle> Next",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5015,
+"en": "<Action:Button_Triangle> Close 2D Code",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5016,
+"en": "Essence of Counterattack",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5017,
+"en": "When nearing victory against a powerful enemy, you are able to perform an <Color:7>Essence of Counterattack<Color:Default>. If your Heat Gauge isn't filled, rapidly press the indicated button <Color:9>to enter <Color:9>Heat Mode<Color:Default> within the given amount of time.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5018,
+"en": "<Action:Button_Circle> Reset Gaze",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5019,
+"en": "<Action:Button_RS_Left><Action:Button_RS_Right><Action:Button_RS_Up><Action:Button_RS_Down> Move Gaze",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5020,
+"en": "Required",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5021,
+"en": "Care",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5022,
+"en": "Mission",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5023,
+"en": "Aizawa",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5024,
+"en": "Skip",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5025,
+"en": "Menu",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5026,
+"en": "<Action:Button_Triangle@UI> Return to Title",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5027,
+"en": "<Action:Button_Triangle@UI> Quit",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5028,
+"en": "<Action:Button_Triangle@UI> Return to Game Select",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5029,
+"en": "Save",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5030,
+"en": "Results",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5031,
+"en": "Layout",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5032,
+"en": "Change Clothes",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5033,
+"en": "Ranking",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5034,
+"en": "Map",
+"ctx": "menú/texto string_tbl + menú/texto scenario_state"
+},
+{
+"id": 5035,
+"en": "Abandon the Mountain",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5036,
+"en": "Change Characters",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5037,
+"en": "Normal",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5038,
+"en": "Change",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5039,
+"en": "You are able to change the costumes of all four playable characters. Please select the character that you wish to change costumes for.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5040,
+"en": "In certain locations and situations, your costume will automatically be changed.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5041,
+"en": "Outside of a few instances, the chosen costume will be displayed regardless of location or situation.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5042,
+"en": "Please select a starting point.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5043,
+"en": "Please select a destination.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5044,
+"en": "Quantity",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5045,
+"en": "All",
+"ctx": "menú/texto string_tbl + tabla correlation_group|GROUP"
+},
+{
+"id": 5046,
+"en": "Recovery",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5047,
+"en": "Others",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5048,
+"en": "In Kiryu's Possession",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5049,
+"en": "In Akiyama's Possession",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5050,
+"en": "In Saejima's Possession",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5051,
+"en": "In Shinada's Possession",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5052,
+"en": "Normal Results",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5053,
+"en": "Total Kills",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5054,
+"en": "Please select a character.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5055,
+"en": "From this battle on, you will be able to select a character to use. \nPlease select one of the characters to proceed.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5056,
+"en": "You can explore Nagasugai, Fukuoka as Kiryu.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5057,
+"en": "You can explore Kamurocho, Tokyo as Akiyama.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5058,
+"en": "You can explore Tsukimino, Sapporo as Saejima.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5059,
+"en": "You can explore Kineicho, Nagoya as Shinada.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5060,
+"en": "You can explore Sotenbori, Osaka as Haruka.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5061,
+"en": "JANJAN焼そば　コクソース",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5062,
+"en": "Seicofresh北海道牛乳１Ｌ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5063,
+"en": "ラブシャインスティック(IF8R)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5064,
+"en": "Dragon-Drive99",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5065,
+"en": "Mr.Random",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5066,
+"en": "BROKEN M1985",
+"ctx": "menú/texto string_tbl + tabla EncountTable_1|CATEGORY …"
+},
+{
+"id": 5067,
+"en": "EXPULSION SPAS-12",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5068,
+"en": "CD「MachineGun Kiss」",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5069,
+"en": "CD「GET TO THE TOP!」",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5070,
+"en": "CD「Let's go away」",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5071,
+"en": "CD「Remember R-001」",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5072,
+"en": "CD「magical sound shower」",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5073,
+"en": "DARTSLIVE MEMBERS CARD",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5074,
+"en": "Don't have anything I can use.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5075,
+"en": "What to use?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5076,
+"en": "Use this item?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5077,
+"en": "Bet",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5078,
+"en": "Payout",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5079,
+"en": "Panther Pose",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5080,
+"en": "All object balls were sunk. Reracking.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5081,
+"en": "Foul by both players.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5082,
+"en": "%s goes first.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5083,
+"en": "%s's turn.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5084,
+"en": "Redo break shot?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5085,
+"en": "Lows",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5086,
+"en": "Highs",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5087,
+"en": "Lows/highs decided. \n\n%s : %s\n%s : %s",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5088,
+"en": "The player who shot first reached game point.\nThe second player gets one last shot.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5089,
+"en": "Place the cue ball.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5090,
+"en": "Thinking...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5091,
+"en": "Select a pocket in which to sink the ball.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5092,
+"en": "<Action:Button_LS_Up@Billard><Action:Button_LS_Down@Billard><Action:Button_LS_Left@Billard><Action:Button_LS_Right@Billard> Select direction <Action:Button_RS_Left@Billard><Action:Button_RS_Right@Billard><Action:Button_RS_Up@Billard><Action:Button_RS_Down@Billard> Camera controls <Action:Button_Circle@Billard> Shooting mode",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5093,
+"en": "<Action:Button_L2@Billard> Reset camera",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5094,
+"en": "<Action:Button_RS_Up@Billard><Action:Button_RS_Down@Billard> Shoot",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5095,
+"en": "<Action:Button_LS_Up@Billard><Action:Button_LS_Down@Billard><Action:Button_LS_Left@Billard><Action:Button_LS_Right@Billard> Adjust impact point <Action:Button_RS_Up@Billard><Action:Button_RS_Down@Billard> Shoot <Action:Button_Cross@Billard> View mode",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5096,
+"en": "<Action:Button_Square@Billard> Change camera",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5097,
+"en": "Results\n\n  Accuracy: %5s\n  Fouls: %5s\n  Combination Shots: %5s\n  Kiss Shots: %5s\n  Carom Shots: %5s",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5098,
+"en": "Results\n\n%s%-10s%s      %s%10s\n\n%s%-5s%s      Accuracy      %s%5s\n%s%-5s%s        Fouls      %s%5s\n%s%-5s%s Combination Shots%s%5s\n%s%-5s%s     Kiss Shots    %s%5s\n%s%-5s%s    Carom Shots   %s%5s",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5099,
+"en": "Results\n\n%s%-10s%s      %s%10s\n\n\n\n\n\n%s%-5s%s      Accuracy      %s%5s\n",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5100,
+"en": "Let's do this!",
+"ctx": "menú/texto string_tbl + diálogo uid013307a8 …"
+},
+{
+"id": 5101,
+"en": "I won't go easy on you!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5102,
+"en": "All right.",
+"ctx": "menú/texto string_tbl + menú/texto ai_popup …"
+},
+{
+"id": 5103,
+"en": "Dammit...",
+"ctx": "menú/texto string_tbl + diálogo uid010206af …"
+},
+{
+"id": 5104,
+"en": "Hmph./All right.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5105,
+"en": "Looking good./Just like this.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5106,
+"en": "Heh, sorry",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5107,
+"en": "Oh man...",
+"ctx": "menú/texto string_tbl + diálogo uid01340012"
+},
+{
+"id": 5108,
+"en": "Not bad./I need to step it up.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5109,
+"en": "What's wrong?/You're using too much power.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5110,
+"en": "Eight ball to the side pocket.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5111,
+"en": "Eight ball to the corner pocket.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5112,
+"en": "Okay, let's get started",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5113,
+"en": "All right, let's do this",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5114,
+"en": "Argh!",
+"ctx": "menú/texto string_tbl + tabla response_roulette|POPUP …"
+},
+{
+"id": 5115,
+"en": "Oh?/Pretty good!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5116,
+"en": "On a roll!/Feelin' it!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5117,
+"en": "Whoa!",
+"ctx": "menú/texto string_tbl + tabla tsukkomi|TSUKKOMI …"
+},
+{
+"id": 5118,
+"en": "Sorry",
+"ctx": "menú/texto string_tbl + menú/texto mail"
+},
+{
+"id": 5119,
+"en": "Aww, man.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5120,
+"en": "Go easy on me./You're good.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5121,
+"en": "You should relax./Try and have fun.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5122,
+"en": "Here I go!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5123,
+"en": "Don't be holdin' back on me.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5124,
+"en": "Well, that's how it goes.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5125,
+"en": "Gotta have some off days, I guess.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5126,
+"en": "Alright!/That's good.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5127,
+"en": "Lookin' good./Not bad.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5128,
+"en": "Come on...",
+"ctx": "menú/texto string_tbl + diálogo uid0013033d …"
+},
+{
+"id": 5129,
+"en": "Can't hang with that.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5130,
+"en": "Looks like I win.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5131,
+"en": "No good.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5132,
+"en": "Impressive!/Oho!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5133,
+"en": "Well, don't sweat it./You're overdoin' it.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5134,
+"en": "Heh, oh well.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5135,
+"en": "Alright!/Good, good.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5136,
+"en": "Dammit!",
+"ctx": "menú/texto string_tbl + tabla response_chase|POPUP …"
+},
+{
+"id": 5137,
+"en": "I win!",
+"ctx": "menú/texto string_tbl + diálogo uid000211d4 …"
+},
+{
+"id": 5138,
+"en": "I'm doin' great today!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5139,
+"en": "Aw, I lost.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5140,
+"en": "Hey, go easy on me!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5141,
+"en": "I got this.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5142,
+"en": "All right!",
+"ctx": "menú/texto string_tbl + menú/texto mail …"
+},
+{
+"id": 5143,
+"en": "Hmm/Ooh?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5144,
+"en": "Yah!",
+"ctx": "menú/texto string_tbl + diálogo uid000c06fe …"
+},
+{
+"id": 5145,
+"en": "I got this./Wahaha!/Got the read!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5146,
+"en": "Oh no./That was tough./Oops.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5147,
+"en": "You're great, Kiryu-san!/Impressive, Kiryu-san./You're amazing, Kiryu-san.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5148,
+"en": "I'm going for it!/This one's mine!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5149,
+"en": "Looks like I won!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5150,
+"en": "I'm doin' super today!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5151,
+"en": "Aww, I lost!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5152,
+"en": "Go easy on me!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5153,
+"en": "Hmm./Ooh?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5154,
+"en": "You're great, Akiyama-san!/Impressive, Akiyama-san./You're amazing, Akiyama-san.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5155,
+"en": "I'm doing great today!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5156,
+"en": "So Much More!",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|STRING"
+},
+{
+"id": 5157,
+"en": "Loneliness Loop",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|STRING"
+},
+{
+"id": 5158,
+"en": "Because I Have You",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|STRING"
+},
+{
+"id": 5159,
+"en": "Baka Mitai (I've Been a Fool)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5160,
+"en": "Kamurocho Lullaby",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|STRING"
+},
+{
+"id": 5161,
+"en": "Ring",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|STRING"
+},
+{
+"id": 5162,
+"en": "Rouge of Love",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|STRING"
+},
+{
+"id": 5163,
+"en": "Raindrops",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5164,
+"en": "Play Count: %d; Previous Score: %d; High Score: %d",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5165,
+"en": "Play Count: 0; Previous Score: none; High Score: none",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5166,
+"en": "Ano yume mo akogare mo",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5167,
+"en": "Itoshisa no kizuguchi wa",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5168,
+"en": "Zutto issho dato",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5169,
+"en": "Baka mitai kodomo na no ne",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5170,
+"en": "Midnight shadow kirisaku",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5171,
+"en": "Nagareyuku yoru no chou",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5172,
+"en": "Omedetou mo arigatou mo",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5173,
+"en": "Sou yasumono yo PLASTIC sei no",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5174,
+"en": "Aisou warai Dotakyan dogeza",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5175,
+"en": "Totsuzen furidashita Yuutsu iro no",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5176,
+"en": "A bird without wings, can no longer fly",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5177,
+"en": "I've been a fool, and you've been",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5178,
+"en": "Midnight shadow evaporates",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5179,
+"en": "Butterflies of the night, how they",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5180,
+"en": "Congratulations, I'm so happy for you",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5181,
+"en": "So, I'm just what you think a plastic",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5182,
+"en": "Insincere, indirect So busy, so sorry",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5183,
+"en": "Out of the blue it all starts falling",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5184,
+"en": "Karaoke Dragon",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5185,
+"en": "Karaoke King",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5186,
+"en": "Karaoke Pro",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5187,
+"en": "Karaoke Fool",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5188,
+"en": "Tone Deaf",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5189,
+"en": "Unattempted",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5190,
+"en": "Simple",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5191,
+"en": "Passionate",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5192,
+"en": "Style",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5193,
+"en": "GREAT!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5194,
+"en": "Score",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5195,
+"en": "High Score",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5196,
+"en": "End Song",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5197,
+"en": "Return to Game",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5198,
+"en": "(I don't think I have any bait I can use...\nI'll come back when I find some.)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5199,
+"en": "What do you want to use as bait?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5200,
+"en": "You caught a %d cm <Color:8>%s<Color:Default>!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5201,
+"en": "You caught a %d cm <Color:8>%s<Color:Default>! \n<Color:5>A new record!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5202,
+"en": "<Color:8>%s<Color:Default> was inside the briefcase!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5203,
+"en": "Tuna",
+"ctx": "menú/texto string_tbl + tabla fishing_fish|NAME"
+},
+{
+"id": 5204,
+"en": "Steel Drum",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5205,
+"en": "Treasure Chest",
+"ctx": "menú/texto string_tbl + tabla fishing_fish|NAME"
+},
+{
+"id": 5206,
+"en": "Giant Oarfish",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5207,
+"en": "Blowfish",
+"ctx": "menú/texto string_tbl + tabla fishing_fish|NAME"
+},
+{
+"id": 5208,
+"en": "%s %dcm\n %s fisher",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5209,
+"en": "Select Frame",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5210,
+"en": "Split Game",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5211,
+"en": "Balls Left",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5212,
+"en": "Hmph!/Hah!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5213,
+"en": "I'm on a roll!/Feelin' it!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5214,
+"en": "Hehe.",
+"ctx": "menú/texto string_tbl + diálogo uid013303c5 …"
+},
+{
+"id": 5215,
+"en": "Ugh...",
+"ctx": "menú/texto string_tbl + diálogo uid00200010 …"
+},
+{
+"id": 5216,
+"en": "Aww!",
+"ctx": "menú/texto string_tbl + diálogo uid016900c2 …"
+},
+{
+"id": 5217,
+"en": "Yes!",
+"ctx": "menú/texto string_tbl + tabla bakuto_en|MSG01 …"
+},
+{
+"id": 5218,
+"en": "Figured as much...",
+"ctx": "menú/texto string_tbl + tabla bakuto_en|MSG02"
+},
+{
+"id": 5219,
+"en": "Caba",
+"ctx": "menú/texto string_tbl + menú/texto scenario_state"
+},
+{
+"id": 5220,
+"en": "Haruka",
+"ctx": "menú/texto string_tbl + tabla roulette_npc|FIRST_NAME"
+},
+{
+"id": 5221,
+"en": "Kiryu",
+"ctx": "menú/texto string_tbl + tabla complete_tougijyo|CATEGORY …"
+},
+{
+"id": 5222,
+"en": "Akiyama",
+"ctx": "menú/texto string_tbl + tabla complete_tougijyo|CATEGORY …"
+},
+{
+"id": 5223,
+"en": "Saejima",
+"ctx": "menú/texto string_tbl + tabla complete_tougijyo|CATEGORY …"
+},
+{
+"id": 5224,
+"en": "Tanimura",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5225,
+"en": "Simple Black",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5226,
+"en": "Hat Trick",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5227,
+"en": "Geos",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5228,
+"en": "Simple Green",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5229,
+"en": "Speedy Billy",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5230,
+"en": "Jupiter",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5231,
+"en": "10 pound",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5232,
+"en": "8 pound",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5233,
+"en": "13 pound",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5234,
+"en": "16 pound",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5235,
+"en": "6 pound",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5236,
+"en": "Balls Left: %s",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5237,
+"en": "Billboard Prize",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5238,
+"en": "Question #%s",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5239,
+"en": "Final Question",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5240,
+"en": "%1.2f seconds left",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5241,
+"en": "Naoto Hikone",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5242,
+"en": "Hiroshi Adachi",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5243,
+"en": "Isao Tagura",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5244,
+"en": "Ichiro Yayama",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5245,
+"en": "Makoto Narazaki",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5246,
+"en": "Ryo Matono",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5247,
+"en": "Yu Emori",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5248,
+"en": "Kenichi Notodani",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5249,
+"en": "Yamato Tsuruga",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5250,
+"en": "Shino",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5251,
+"en": "Ebisu",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5252,
+"en": "Himeko",
+"ctx": "menú/texto string_tbl + tabla dance_battle|NAME"
+},
+{
+"id": 5253,
+"en": "Well, it's not the prettiest thing in the world, but...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5254,
+"en": "This doesn't look that well made...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5255,
+"en": "The design's pretty simple, but it's not bad.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5256,
+"en": "This is pretty cool.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5257,
+"en": "This is wonderful!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5258,
+"en": "Has everything you'd want in a dart.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5259,
+"en": "A dart that's fairly accurate and packs a punch.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5260,
+"en": "A dart that's fairly accurate and highly stable.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5261,
+"en": "A dart that's highly stable and packs a punch.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5262,
+"en": "A dart that's fairly accurate and well balanced.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5263,
+"en": "A dart that's fairly accurate but lacks stability.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5264,
+"en": "A dart that's fairly accurate but lacks power.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5265,
+"en": "A dart that's fairly accurate but is lacking in both stability and power.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5266,
+"en": "A well balanced dart that packs a punch.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5267,
+"en": "A dart with a lot of power but little stability.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5268,
+"en": "A dart with a lot of power but which lacks accuracy.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5269,
+"en": "A dart with a lot of power. Doesn't have much else going for it.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5270,
+"en": "A stable and balanced dart.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5271,
+"en": "A stable dart that lacks power.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5272,
+"en": "A stable dart that lacks accuracy.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5273,
+"en": "A stable dart with no other notable traits.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5274,
+"en": "A sad, sad dart. Don't expect to win much with this.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5275,
+"en": "A standard dart that gets the job done.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5276,
+"en": "Kiss on the Cheek",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5277,
+"en": "Bantam",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5278,
+"en": "Bee Bar",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5279,
+"en": "Ambitious",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5280,
+"en": "<Action:Button_Circle@Darts> Back",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5281,
+"en": "Please enter your name on your new card.\n(Special characters will not be displayed in-game.)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5282,
+"en": "Dart Parts",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5283,
+"en": "Flight Parts",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5284,
+"en": "Not saved.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5285,
+"en": "Select which dart to customize.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5286,
+"en": "Select which parts to customize.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5287,
+"en": "Select the parts.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5288,
+"en": "<Action:Button_Cross@Darts> OK  ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5289,
+"en": "<Action:Button_Triangle@Darts> Delete  ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5290,
+"en": "End",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5291,
+"en": "Opponent",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5292,
+"en": "Rules",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5293,
+"en": "Darts",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|NAME"
+},
+{
+"id": 5294,
+"en": "Intermediate",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5295,
+"en": "Advanced",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5296,
+"en": "Solo",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5297,
+"en": "Cricket",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5298,
+"en": "Count-Up",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5299,
+"en": "Bull Hunter",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5300,
+"en": "Standard",
+"ctx": "menú/texto string_tbl + tabla BaseBallPitcher|NAME"
+},
+{
+"id": 5301,
+"en": "Random",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5302,
+"en": "Hidden",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5303,
+"en": "Darts %d",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5304,
+"en": "Ramen King",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|STRING"
+},
+{
+"id": 5305,
+"en": "Top Tier Ramen Shop",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5306,
+"en": "Secretly Popular Shop",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5307,
+"en": "So-so Ramen Shop",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5308,
+"en": "Dingy Shop",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5309,
+"en": "Deserted Shop",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5310,
+"en": "Rank S",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5311,
+"en": "Rank A",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5312,
+"en": "Rank B",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5313,
+"en": "Rank C",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5314,
+"en": "Rank D",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5315,
+"en": "Rank E",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5316,
+"en": "%d streak",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5317,
+"en": "Ramen King Complete",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5318,
+"en": "Incomplete",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5319,
+"en": "Select the photo to swap.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5320,
+"en": "Swap",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5321,
+"en": "Previous Page",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5322,
+"en": "Next Page",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5323,
+"en": "Eek! Is someone peeping!?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5324,
+"en": "Oh, it's you, Kiryu-san...",
+"ctx": "menú/texto string_tbl"
+}
+]

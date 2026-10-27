@@ -1,0 +1,329 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_liveb01.par/texlist/2d_yk_live_h",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    300,
+    32,
+    350,
+    46
+   ],
+   "en": "Rank",
+   "es": "Rango",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     235,
+     235,
+     235
+    ],
+    "contorno": [
+     [
+      25,
+      25,
+      25
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "alin": "izq",
+   "ancho_max": 48,
+   "alto": 11
+  },
+  {
+   "caja": [
+    48,
+    126,
+    112,
+    140
+   ],
+   "en": "CLIMAX",
+   "es": "CLÍMAX",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     235,
+     235,
+     235
+    ],
+    "contorno": [
+     [
+      25,
+      25,
+      25
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "alin": "izq",
+   "ancho_max": 62
+  },
+  {
+   "caja": [
+    160,
+    126,
+    232,
+    140
+   ],
+   "en": "HEAT",
+   "es": "HEAT",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     235,
+     235,
+     235
+    ],
+    "contorno": [
+     [
+      25,
+      25,
+      25
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "alin": "izq",
+   "ancho_max": 70,
+   "dejar": true
+  },
+  {
+   "caja": [
+    232,
+    126,
+    260,
+    140
+   ],
+   "en": "IDOL",
+   "es": "IDOL",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     235,
+     235,
+     235
+    ],
+    "contorno": [
+     [
+      25,
+      25,
+      25
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "alin": "izq",
+   "ancho_max": 26,
+   "dejar": true
+  },
+  {
+   "caja": [
+    256,
+    128,
+    382,
+    142
+   ],
+   "en": "Great Ratings",
+   "es": "Buenas notas",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     235,
+     235,
+     235
+    ],
+    "contorno": [
+     [
+      25,
+      25,
+      25
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "alin": "izq",
+   "ancho_max": 124,
+   "alto": 17
+  },
+  {
+   "caja": [
+    256,
+    153,
+    372,
+    170
+   ],
+   "en": "Max COMBO",
+   "es": "COMBO máx.",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     235,
+     235,
+     235
+    ],
+    "contorno": [
+     [
+      25,
+      25,
+      25
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "alin": "izq",
+   "ancho_max": 114
+  },
+  {
+   "caja": [
+    256,
+    178,
+    312,
+    196
+   ],
+   "en": "Score",
+   "es": "Puntos",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     235,
+     235,
+     235
+    ],
+    "contorno": [
+     [
+      25,
+      25,
+      25
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "alin": "izq",
+   "ancho_max": 54
+  },
+  {
+   "caja": [
+    44,
+    144,
+    104,
+    164
+   ],
+   "en": "EASY",
+   "es": "FÁCIL",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     235,
+     235,
+     235
+    ],
+    "contorno": [
+     [
+      25,
+      25,
+      25
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "alin": "izq",
+   "ancho_max": 58,
+   "alto": 13
+  },
+  {
+   "caja": [
+    104,
+    144,
+    168,
+    164
+   ],
+   "en": "HARD",
+   "es": "DIFÍCIL",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     235,
+     235,
+     235
+    ],
+    "contorno": [
+     [
+      25,
+      25,
+      25
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "alin": "izq",
+   "ancho_max": 62,
+   "alto": 13
+  }
+ ]
+}

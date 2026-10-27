@@ -1,0 +1,3117 @@
+[
+{
+"id": 6307,
+"en": "This ain't a comedy.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6308,
+"en": "Of course I won.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6309,
+"en": "Now aren't you a nice guy?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6310,
+"en": "Whatever you wanna do, friend.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6311,
+"en": "I've got this in the bag.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6312,
+"en": "My, my, what's this?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6313,
+"en": "Sorry I'm so good.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6314,
+"en": "How cruel.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6315,
+"en": "Now I'm all sad...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6316,
+"en": "I ain't givin' up till I win!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6317,
+"en": "Luck is coming my way.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6318,
+"en": "Maybe I'll buy something for Haruka.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6319,
+"en": "I see.  ",
+"ctx": "menú/texto string_tbl + menú/texto ai_popup"
+},
+{
+"id": 6320,
+"en": "You don't know when to quit...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6321,
+"en": "You're goin' down.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6322,
+"en": "I don't have any luck today.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6323,
+"en": "Heh.  ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6324,
+"en": "Oh, can I get some tea?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6325,
+"en": "Should probably stop by sometime.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6326,
+"en": "Oh, making a move huh.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6327,
+"en": "*yawn*",
+"ctx": "menú/texto string_tbl + diálogo uid01340021"
+},
+{
+"id": 6328,
+"en": "Now, let's get started.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6329,
+"en": "Eh, whatever.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6330,
+"en": "Great!",
+"ctx": "menú/texto string_tbl + tabla bakuto_en|MSG03 …"
+},
+{
+"id": 6331,
+"en": "Sorry 'bout this!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6332,
+"en": "I'm on a roll!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6333,
+"en": "I'm down to do this all night!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6334,
+"en": "Bah!",
+"ctx": "menú/texto string_tbl + tabla response_roulette|POPUP"
+},
+{
+"id": 6335,
+"en": "Time to do this!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6336,
+"en": "Nice goin'!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6337,
+"en": "That ain't right...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6338,
+"en": "I'm likin' this.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6339,
+"en": "Aw hell!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6340,
+"en": "This is lookin' good...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6341,
+"en": "I'm starvin'...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6342,
+"en": "Can't let ya do that!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6343,
+"en": "I've already won!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6344,
+"en": "Gotta be kiddin' me...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6345,
+"en": "This it?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6346,
+"en": "Here it comes!",
+"ctx": "menú/texto string_tbl + diálogo uid011302ef"
+},
+{
+"id": 6347,
+"en": "Not good...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6348,
+"en": "(I can't give up.)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6349,
+"en": "(A tsumo would be bad right now...)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6350,
+"en": "(Don't get cocky.)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6351,
+"en": "(Hurry it up.)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6352,
+"en": "(You're just lucky.)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6353,
+"en": "(Dammit!)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6354,
+"en": "(Feels great!)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6355,
+"en": "Wha⑬!?",
+"ctx": "menú/texto string_tbl + diálogo uid0013085c …"
+},
+{
+"id": 6356,
+"en": "Argh...",
+"ctx": "menú/texto string_tbl + diálogo uid0169007d"
+},
+{
+"id": 6357,
+"en": "Grahh!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6358,
+"en": "Ah... Argh...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6359,
+"en": "Raah, agh, ugh...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6360,
+"en": "King of Kamurocho",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6361,
+"en": "Digital Ryo",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6362,
+"en": "10k Mahjong Sticks",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6363,
+"en": "Magician of Naniwa",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6364,
+"en": "Fundoshi Toku",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6365,
+"en": "Talkative Hikaru",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6366,
+"en": "Lucky Fumiko",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6367,
+"en": "Manzu Hunter Jin",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6368,
+"en": "Sakai the Slob",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6369,
+"en": "Bulldozer Maeda",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6370,
+"en": "One-Punch Karasawa",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6371,
+"en": "Ginza Willow Shizuka",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6372,
+"en": "Daily Tatsukawa",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6373,
+"en": "Silent Yusaku",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6374,
+"en": "North Wind Mamiko",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6375,
+"en": "Demon Banker Suzuki",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6376,
+"en": "Iron Mask Matsukawa",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6377,
+"en": "Praying Kikugoro",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6378,
+"en": "Sumire Haneda",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6379,
+"en": "Midnight Junichi",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6380,
+"en": "Snake Eyes",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6381,
+"en": "Boppin' Arakawa",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6382,
+"en": "Broke Takego",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6383,
+"en": "Oyuki the Cougar",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6384,
+"en": "Wrong Hand Yasuo",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6385,
+"en": "All Nighter Shingo",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6386,
+"en": "Gamblin' Hideaki",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6387,
+"en": "Tanyao Yoriko",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6388,
+"en": "Cautious Wataru",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6389,
+"en": "Shun Akiyama",
+"ctx": "menú/texto string_tbl + tabla correlation_person|NAME …"
+},
+{
+"id": 6390,
+"en": "Tatsuo Shinada",
+"ctx": "menú/texto string_tbl + tabla correlation_person|NAME …"
+},
+{
+"id": 6391,
+"en": "Undefeated Chin",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6392,
+"en": "Flinger Hyodo",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6393,
+"en": "Godly Kazuya",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6394,
+"en": "Ittetsu Ryuzoji",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6395,
+"en": "Heavenly Woman",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6396,
+"en": "Whipped Michisuke",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6397,
+"en": "Narrow Wataru",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6398,
+"en": "Earthly Man",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6399,
+"en": "Slow Nobuko",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6400,
+"en": "Crybaby Akiko",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6401,
+"en": "Masahiko the Third",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6402,
+"en": "Amazing Taku",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6403,
+"en": "Cheapo Masuoka",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6404,
+"en": "Okyo of Michinoku",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6405,
+"en": "Unlucky Hako",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6406,
+"en": "Undefeated Zhao",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6407,
+"en": "Kito the Swift",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6408,
+"en": "Lucky Taka",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6409,
+"en": "Soichiro Kanzaki",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6410,
+"en": "Explosive Rinka",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6411,
+"en": "Defensive Haruki",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6412,
+"en": "Railway Kouta",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6413,
+"en": "Silent Elder Gon",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6414,
+"en": "North Wind Miki",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6415,
+"en": "Iron Wall Mariko",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6416,
+"en": "Takashi the Second",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6417,
+"en": "Gambler Ken",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6418,
+"en": "Godspeed Joe",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6419,
+"en": "Great Sky Marie",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6420,
+"en": "Lucky Draw Yuko",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6421,
+"en": "Friendly Hiro",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6422,
+"en": "Camo Paul",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6423,
+"en": "Regular Yuuki",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6424,
+"en": "Bored Masato",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6425,
+"en": "Friendly Tom",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6426,
+"en": "Mike the Regular",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6427,
+"en": "Bored Heintz",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6428,
+"en": "Shogo Sakuragi",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6429,
+"en": "Chiaki Takachiho",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6430,
+"en": "10th Kyu",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6431,
+"en": "9th Kyu",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6432,
+"en": "8th Kyu",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6433,
+"en": "7th Kyu",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6434,
+"en": "6th Kyu",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6435,
+"en": "5th Kyu",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6436,
+"en": "4th Kyu",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6437,
+"en": "3rd Kyu",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6438,
+"en": "2nd Kyu",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6439,
+"en": "1st Kyu",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6440,
+"en": "1st Dan",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6441,
+"en": "2nd Dan",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6442,
+"en": "3rd Dan",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6443,
+"en": "4th Dan",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6444,
+"en": "5th Dan",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6445,
+"en": "6th Dan",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6446,
+"en": "7th Dan",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6447,
+"en": "8th Dan",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6448,
+"en": "9th Dan",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6449,
+"en": "10th Dan",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6450,
+"en": "Shogi King",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6451,
+"en": "12 years old",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6452,
+"en": "Challenge 1",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6453,
+"en": "Challenge 2",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6454,
+"en": "Challenge 3",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6455,
+"en": "Challenge 4",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6456,
+"en": "Challenge 5",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6457,
+"en": "Challenge 6",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6458,
+"en": "Challenge 7",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6459,
+"en": "Challenge 8",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6460,
+"en": "Challenge 9",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6461,
+"en": "Challenge 10",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6462,
+"en": "Final Challenge",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6463,
+"en": "Promote",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6464,
+"en": "Don't Promote",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6465,
+"en": "Use a Take Back?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6466,
+"en": "Checkmate. Use a Take Back?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6467,
+"en": "Move limit exceeded. Use a Take Back?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6468,
+"en": "Use Super Take Back?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6469,
+"en": "Toss pieces to determine who goes first.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6470,
+"en": "Press <Action:Button_Cross@Shogi> button to stop pieces.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6471,
+"en": "More pawns. You go first.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6472,
+"en": "More promoted pawns. Opponent goes first.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6473,
+"en": "You go first.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6474,
+"en": "Opponent goes first.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6475,
+"en": "Win in %d or fewer moves.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6476,
+"en": "Haha! Now you've done it!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6477,
+"en": "I know your every move!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6478,
+"en": "Can't keep this up...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6479,
+"en": "Ugh, this is tough.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6480,
+"en": "I think I'm done...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6481,
+"en": "I got it!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6482,
+"en": "You sure about that, friend?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6483,
+"en": "Can't get a break...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6484,
+"en": "Argh! Urgh!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6485,
+"en": "Hargh hargh hargh!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6486,
+"en": "Hrgh... Hrah...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6487,
+"en": "Ugh... Hurgh...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6488,
+"en": "View Rules",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6489,
+"en": "Types of Pieces",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6490,
+"en": "Illegal Moves",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6491,
+"en": "Take Back",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6492,
+"en": "Time Limit",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6493,
+"en": "Move %3d",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6494,
+"en": "Disabled",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6495,
+"en": "Moves Left: %d",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6496,
+"en": "Handicap",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6497,
+"en": "Who do you want to play?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6498,
+"en": "Which challenge do you want to try?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6499,
+"en": "Play this opponent?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6500,
+"en": "Mita",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6501,
+"en": "Maruyama",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6502,
+"en": "Nishino",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6503,
+"en": "Takahashi",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6504,
+"en": "Hirano",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6505,
+"en": "Kanai",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6506,
+"en": "Nagakura",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6507,
+"en": "Osaki",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6508,
+"en": "Fujimura",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6509,
+"en": "Katsuragi",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6510,
+"en": "Moriya",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6511,
+"en": "Sugishita",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6512,
+"en": "Kawakami",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6513,
+"en": "Sawanobori",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6514,
+"en": "Kunimi",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6515,
+"en": "Morikawa",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6516,
+"en": "Shiina",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6517,
+"en": "Tokunaga",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6518,
+"en": "Kimitsu",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6519,
+"en": "Tomitabayashi",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6520,
+"en": "Yuasa",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6521,
+"en": "Zhao",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6522,
+"en": "Amenomori",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6523,
+"en": "Hazama",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6524,
+"en": "Shinmon",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6525,
+"en": "Tachibana",
+"ctx": "menú/texto string_tbl + tabla NagoyaCochinBirdMesu|NAME"
+},
+{
+"id": 6526,
+"en": "Kuroda",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6527,
+"en": "Saki",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6528,
+"en": "Tsuzuki",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6529,
+"en": "Mikogami",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6530,
+"en": "Fickle Beginner",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6531,
+"en": "Sloppy Offense",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6532,
+"en": "Slow Defense",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6533,
+"en": "Always on Offense",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6534,
+"en": "Balanced Strategy",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6535,
+"en": "Builds Defensive Wall",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6536,
+"en": "Attacks down the Middle",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6537,
+"en": "Solid Defense",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6538,
+"en": "Adaptable",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6539,
+"en": "Endures Long Bouts",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6540,
+"en": "Strong but Inconsistent",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6541,
+"en": "Calm, Collected Offense",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6542,
+"en": "Attacks with Major Pieces",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6543,
+"en": "Creative with the Rook",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6544,
+"en": "Likes Counterattacks",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6545,
+"en": "Skilled with the Rook",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6546,
+"en": "Good but Impulsive",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6547,
+"en": "Builds a Tough Defense",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6548,
+"en": "Attacks your Weak Points",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6549,
+"en": "Solid Offense/Defense",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6550,
+"en": "Relentless Offense",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6551,
+"en": "A Reputation for Defense",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6552,
+"en": "Uses Varied Tactics",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6553,
+"en": "Offensive Expert",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6554,
+"en": "Attacks Swiftly",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6555,
+"en": "Has a Varied Defense",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6556,
+"en": "Moves Rook to Center",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6557,
+"en": "Well-planned Offense",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6558,
+"en": "Master of All Tactics",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6559,
+"en": "Shogi is Life",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6560,
+"en": "Match Points",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6561,
+"en": "Take Backs Left: %d x 50",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6562,
+"en": "Unused Super Take Backs",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6563,
+"en": "ENORMOUS GUN SALUTES",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6564,
+"en": "HOSTILE GAZE",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6565,
+"en": "BOXCELIOS FOREVER",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6566,
+"en": "ARROW OF INDRA",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6567,
+"en": "TRUE VALHALLA",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6568,
+"en": "A BARRAGE",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6569,
+"en": "Gunrhein",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|NAME"
+},
+{
+"id": 6570,
+"en": "Throw 1",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6571,
+"en": "Throw 2",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6572,
+"en": "Throw 3",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6573,
+"en": "No Points",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6574,
+"en": "Missed",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6575,
+"en": "Triple Throw",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6576,
+"en": "Evens",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6577,
+"en": "Odds",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6578,
+"en": "Guess One Number",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6579,
+"en": "Guess Both Numbers",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6580,
+"en": "Bet on Difference",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6581,
+"en": "0 (Payout: x6)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6582,
+"en": "1 (Payout: x3)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6583,
+"en": "2 (Payout: x4)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6584,
+"en": "3 (Payout: x6)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6585,
+"en": "4 (Payout: x9)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6586,
+"en": "5 (Payout: x18)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6587,
+"en": "Continue",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6588,
+"en": "Current Bets",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6589,
+"en": "%d people",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6590,
+"en": "Round %d",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6591,
+"en": "Current Winnings",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6592,
+"en": "Result Table",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6593,
+"en": "Moderate Akira",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6594,
+"en": "Striker Tetsu",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6595,
+"en": "Silent Tatsu",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6596,
+"en": "Laidback Sachiko",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6597,
+"en": "Razor Gen",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6598,
+"en": "Miracle Masa",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6599,
+"en": "Coward Yuta",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6600,
+"en": "Intuitive Billy",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6601,
+"en": "Smart Ken",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6602,
+"en": "Sabu the Regular",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6603,
+"en": "Balanced Daiji",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6604,
+"en": "Alchemist Yorimitsu",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6605,
+"en": "Thousand Plan Maika",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6606,
+"en": "Moon/C. Blossom Viewing",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6607,
+"en": "Rounds",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6608,
+"en": "Month %s",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6609,
+"en": "Total %s pts",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6610,
+"en": "Total %s <Color:255,128,128,255>x 2<Color:Default> = %s pts",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6611,
+"en": "Five Lights",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6612,
+"en": "Four Lights",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6613,
+"en": "Rainy Four Lights",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6614,
+"en": "Three Lights",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6615,
+"en": "Cherry Blossom Viewing",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6616,
+"en": "Moon Viewing",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6617,
+"en": "Boar, Deer, Butterfly",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6618,
+"en": "Red Poetry Ribbons",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6619,
+"en": "Blue Poetry Ribbons",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6620,
+"en": "Variety",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6621,
+"en": "Poetry Ribbons",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6622,
+"en": "Junk",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6623,
+"en": "Four of a Kind",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6624,
+"en": "Four Pairs",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6625,
+"en": "Season",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6626,
+"en": "%d-round match",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6627,
+"en": "You won!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6628,
+"en": "You lost.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6629,
+"en": "Draw.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6630,
+"en": "Total %s x %s = %s pts",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6631,
+"en": "Change the settings.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6632,
+"en": "Pick a card to determine the dealer.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6633,
+"en": "You are the dealer.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6634,
+"en": "Your opponent is the dealer.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6635,
+"en": "No hands were formed. Dealer changes.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6636,
+"en": "Change Settings",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6637,
+"en": "Hands",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6638,
+"en": "<Action:Button_Cross> OK <Action:Button_Circle> Back",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6639,
+"en": "Difficulty",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6640,
+"en": "Double pts for 7+",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6641,
+"en": "Check Settings",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6642,
+"en": "View Hands",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6643,
+"en": "Call Koi",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6644,
+"en": "Don't Call Koi",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6645,
+"en": "Play Again",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6646,
+"en": "You don't have enough points to play.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6647,
+"en": "Advanced difficulty unlocked.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6648,
+"en": "Expert difficulty unlocked.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6649,
+"en": "Junk Modifier",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6650,
+"en": "Hand Guide",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6651,
+"en": "You're close to: %s.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6652,
+"en": "Your opponent's close to: %s.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6653,
+"en": "Other",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6654,
+"en": "Possible",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6655,
+"en": "Formed",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6656,
+"en": "Impossible",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6657,
+"en": "Count Sake Cup as junk? (Form junk hands.)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6658,
+"en": "Count Sake Cup as junk? (Junk will change from %d to %d pts.)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6659,
+"en": "<Action:Button_Square@Hafanuda> Close",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6660,
+"en": "Draw Card",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6661,
+"en": "One more!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6662,
+"en": "Showdown with three!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6663,
+"en": "Showdown!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6664,
+"en": "Showdown",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6665,
+"en": "Irresponsible Sakata",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6666,
+"en": "Troubled Komugai",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6667,
+"en": "Newbie Shindo",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6668,
+"en": "Stable Toriyama",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6669,
+"en": "Aggressive Atsukawa",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6670,
+"en": "Wait-and-See Kaido",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6671,
+"en": "Stormy Sakuraba",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6672,
+"en": "Instinctive Mitsui",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6673,
+"en": "Ace Osakabe",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6674,
+"en": "Select where to place your bet.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6675,
+"en": "Decide how much to bet.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6676,
+"en": "Other players are selecting.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6677,
+"en": "Select player to challenge.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6678,
+"en": "Going into showdown with this hand.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6679,
+"en": "The dealer is challenging.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6680,
+"en": "Out of points. Exiting.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6681,
+"en": "Bet\t%s pts",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6682,
+"en": "Result\t%s pts",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6683,
+"en": "Ten-Ten-One",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6684,
+"en": "Four-Six",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6685,
+"en": "Card Type",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6686,
+"en": "Don't Use",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6687,
+"en": "Kabufuda",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6688,
+"en": "Hanafuda",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6689,
+"en": "Retiring with a 4-6.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6690,
+"en": "You won the same amount as your bet.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6691,
+"en": "You won double your bet with a 4-1.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6692,
+"en": "You won double your bet with a 9-1.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6693,
+"en": "You won triple your bet with a Three of a Kind.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6694,
+"en": "You won 20 times your bet with a 10-10-1.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6695,
+"en": "You lost your bet.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6696,
+"en": "You lost double your bet to a 4-1.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6697,
+"en": "You lost double your bet to a 9-1.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6698,
+"en": "You lost triple your bet to a Three of a Kind.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6699,
+"en": "You lost 20 times your bet to a 10-10-1.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6700,
+"en": "Continue playing?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6701,
+"en": "Select the cards to challenge with.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6702,
+"en": "The dealer wins.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6703,
+"en": "The result is zero.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6704,
+"en": "The player wins.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6705,
+"en": "The result is double.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6706,
+"en": "Continue doubling up?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6707,
+"en": "Winnings exceed losses. Bet amount increased.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6708,
+"en": "Losses exceed winnings. Bet amount decreased.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6709,
+"en": "Winnings equal to losses. No change in bet amount.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6710,
+"en": "Double Up",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6711,
+"en": "Shinada",
+"ctx": "menú/texto string_tbl + tabla complete_tougijyo|CATEGORY …"
+},
+{
+"id": 6712,
+"en": "Riku",
+"ctx": "menú/texto string_tbl + tabla caba_profile|NAME …"
+},
+{
+"id": 6713,
+"en": "Kaguya",
+"ctx": "menú/texto string_tbl + tabla caba_profile|NAME …"
+},
+{
+"id": 6714,
+"en": "Honoka",
+"ctx": "menú/texto string_tbl + tabla caba_profile|NAME …"
+},
+{
+"id": 6715,
+"en": "Shion",
+"ctx": "menú/texto string_tbl + tabla caba_profile|NAME …"
+},
+{
+"id": 6716,
+"en": "Hinata Osaki",
+"ctx": "menú/texto string_tbl + tabla caba_profile|NAME …"
+},
+{
+"id": 6717,
+"en": "Hinata",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6718,
+"en": "<Name:Riona>",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6719,
+"en": "<Name:Kyoko>",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6720,
+"en": "<Name:Nanami>",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6721,
+"en": "Player 1",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6722,
+"en": "Player 2",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6723,
+"en": "Tora",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6724,
+"en": "Shiro",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6725,
+"en": "Yusaku",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6726,
+"en": "Seira",
+"ctx": "menú/texto string_tbl + tabla dance_battle|NAME"
+},
+{
+"id": 6727,
+"en": "King Kazumasa",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6728,
+"en": "Mona-chan",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6729,
+"en": "Fighter Joni ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6730,
+"en": "Sumisu-han",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6731,
+"en": "Moriyoshi Jon",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6732,
+"en": "Machine Gun Gesu",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6733,
+"en": "Robu-san",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6734,
+"en": "Haru-hime",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6735,
+"en": "Darirurero",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6736,
+"en": "Minami",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6737,
+"en": "Ema",
+"ctx": "menú/texto string_tbl + tabla dance_battle|NAME"
+},
+{
+"id": 6738,
+"en": "Manager",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6739,
+"en": "Mach-ko",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6740,
+"en": "Gachita",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6741,
+"en": "Nagaharu",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6742,
+"en": "Freelancer Masa",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6743,
+"en": "Kaneshiro the Storm",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6744,
+"en": "Thick-cut Tetsu",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6745,
+"en": "Yuko the Celeb",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6746,
+"en": "Gen the Reaper",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6747,
+"en": "Sleazy Nao",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6748,
+"en": "Greedy Shima",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6749,
+"en": "Lucky Harris",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6750,
+"en": "Incompetent Kondo",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6751,
+"en": "Mystery Gambler 1",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6752,
+"en": "Mystery Gambler 2",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6753,
+"en": "Mystery Gambler 3",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6754,
+"en": "Extreme Chase Challenge",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6755,
+"en": "Bull Hunter Ranking",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6756,
+"en": "Batting Champion Ranking",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6757,
+"en": "Strike King Ranking",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6758,
+"en": "Nagoya Home Run Ranking",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6759,
+"en": "Kazuto Arase",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6760,
+"en": "Gai Kendo",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6761,
+"en": "Makoto Date",
+"ctx": "menú/texto string_tbl + tabla correlation_person|NAME"
+},
+{
+"id": 6762,
+"en": "Junya",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6763,
+"en": "Kurotaka",
+"ctx": "menú/texto string_tbl + tabla tougijyo_participant|NAME …"
+},
+{
+"id": 6764,
+"en": "Marina",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6765,
+"en": "Yuna",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6766,
+"en": "Saaya Kawai",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6767,
+"en": "Hina Sakuragi",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6768,
+"en": "Miyabi Tateishi",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6769,
+"en": "Erika Mizushima",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6770,
+"en": "Ai Sakura",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6771,
+"en": "Yuria Hayashida",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6772,
+"en": "Tomoaki Nagahama",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6773,
+"en": "Misuzu Asagi",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6774,
+"en": "Ryuji Goda",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6775,
+"en": "Homeless Man  ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6776,
+"en": "Partner List",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6777,
+"en": "Life Gauge",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6778,
+"en": "Skill Slot",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6779,
+"en": "Skill List",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6780,
+"en": "Level",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6781,
+"en": "Shooting Accuracy",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6782,
+"en": "Trust",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6783,
+"en": "Health Increase",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6784,
+"en": "Body Modification",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6785,
+"en": "Medicine Box",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6786,
+"en": "Rescue",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6787,
+"en": "Sociability",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6788,
+"en": "Precision Fire",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6789,
+"en": "Focus Fire",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6790,
+"en": "Modding",
+"ctx": "menú/texto string_tbl + tabla complete_select|NAME"
+},
+{
+"id": 6791,
+"en": "Illegal Mod",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6792,
+"en": "Headshot",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6793,
+"en": "Power Shot",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6794,
+"en": "Bowling Shot ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6795,
+"en": "Indomitable Will",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6796,
+"en": "Phoenix",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6797,
+"en": "Learning Ability",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6798,
+"en": "Life Saver",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6799,
+"en": "Additional Materials",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6800,
+"en": "Spirit of the War God",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6801,
+"en": "Body of the War God",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6802,
+"en": "Spirit of Diamond",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6803,
+"en": "Body of Diamond",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6804,
+"en": "Spirit of the Goddess",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6805,
+"en": "Body of the Goddess",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6806,
+"en": "Spirit of the Dragon God",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6807,
+"en": "Body of the Dragon God",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6808,
+"en": "Increases health by a little. ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6809,
+"en": "Increases health by a lot. ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6810,
+"en": "First Aid Kit maximum increased by 1. Can hold 1 more First Aid Kit than normal.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6811,
+"en": "First Aid Kit maximum increased by 2. Can hold 2 more First Aid Kits than normal.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6812,
+"en": "Increases trust with the player.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6813,
+"en": "Increases Shooting Accuracy by a little.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6814,
+"en": "Increases Shooting Accuracy by a lot. ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6815,
+"en": "Increases weapon attack power by a little. ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6816,
+"en": "Increases weapon attack power by a lot.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6817,
+"en": "Chance to make your attacks a Headshot. ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6818,
+"en": "Increases your weapon's impact by a little.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6819,
+"en": "Knock back enemies that are hit by attacks.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6820,
+"en": "Increases attack power greatly when health goes below a certain amount. Unable to use First Aid Kits when this occurs.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6821,
+"en": "Nullifies being knocked out once. Come back at half health, and First Aid Kits are lost.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6822,
+"en": "Increases the EXP gained.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6823,
+"en": "When main character's health falls below a certain amount, they will perform an emergency procedure and recover health.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6824,
+"en": "Regenerates First Aid Kits over time. However, kits cannot exceed maximum amount.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6825,
+"en": "Activates when equipped with Body of the War God. Increases attack power by a drastic amount.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6826,
+"en": "Activates when equipped with Spirit of the War God. Increases attack power by a drastic amount.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6827,
+"en": "Activates when equipped with Body of Diamond. Increases health by a drastic amount.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6828,
+"en": "Activates when equipped with Spirit of Diamond. Increases health by a drastic amount.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6829,
+"en": "Activates when equipped with Body of the Goddess. First Aid Kits heal your partner and your character.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6830,
+"en": "Activates when equipped with Spirit of the Goddess. First Aid Kits heal your partner and your character.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6831,
+"en": "Activates when equipped with Body of the Dragon God. Headshot chance increased greatly.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6832,
+"en": "Activates when equipped with Spirit of the Dragon God. Headshot chance increased greatly. ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6833,
+"en": "Check status.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6834,
+"en": "Equip skills.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6835,
+"en": "This character's skills cannot be changed.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6836,
+"en": "You do not have any equippable skills.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6837,
+"en": "Shotgun",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6838,
+"en": "Mini Skirt Dress",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6839,
+"en": "Spaghetti Strap Dress",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6840,
+"en": "Flashy Suit",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6841,
+"en": "Balloon Dress",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6842,
+"en": "Lovely One-Piece",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6843,
+"en": "Schoolgirl Uniform",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6844,
+"en": "Maid Outfit",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6845,
+"en": "Cheongsam",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6846,
+"en": "Skills",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6847,
+"en": "Item List",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6848,
+"en": "Pause Menu",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6849,
+"en": "Cell Phone",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6850,
+"en": "Character Profiles",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6851,
+"en": "Side Stories",
+"ctx": "menú/texto string_tbl + tabla tips_tutorial|CATEGORY"
+},
+{
+"id": 6852,
+"en": "Substories",
+"ctx": "menú/texto string_tbl + tabla tips_tutorial|TIPS_NAME"
+},
+{
+"id": 6853,
+"en": "Completion List",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6854,
+"en": "Memos",
+"ctx": "menú/texto string_tbl + tabla tips_tutorial|TIPS_NAME"
+},
+{
+"id": 6855,
+"en": "Options",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6856,
+"en": "Substory List",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6857,
+"en": "Check Status",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6858,
+"en": "Controls",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6859,
+"en": "Weapon Skill",
+"ctx": "menú/texto string_tbl + tabla tips_tutorial|TIPS_NAME"
+},
+{
+"id": 6860,
+"en": "Email",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6861,
+"en": "Shopping",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6862,
+"en": "Maxiv",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6863,
+"en": "You can upgrade abilities.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6864,
+"en": "Battle for Survival in Progress",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6865,
+"en": "Survival Tag in Progress",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6866,
+"en": "Battle King Championship in Progress",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6867,
+"en": "Fastest Killer Championship in Progress",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6868,
+"en": "Weapon Inventory List",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6869,
+"en": "Valuables List",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6870,
+"en": "Weapon Inventory",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6871,
+"en": "Who will use the item?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6872,
+"en": "You cannot change equipment now.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6873,
+"en": "Power %3d Rounds %3d",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6874,
+"en": "Defense %3d Fire Resistance %3d Explosive Resistance %3d",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6875,
+"en": "Power %3d Rounds ∞",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6876,
+"en": "Total Defense",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6877,
+"en": "Equipment List",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6878,
+"en": "To Next Level:",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6879,
+"en": "Soul",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6880,
+"en": "Tech",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6881,
+"en": "Body",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6882,
+"en": "Heat",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6883,
+"en": "Other Abilities",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6884,
+"en": "Body Abilities",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6885,
+"en": "Ancient Martial Arts",
+"ctx": "menú/texto string_tbl + tabla tougijyo_participant|STYLE"
+},
+{
+"id": 6886,
+"en": "Test Upgrade",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6887,
+"en": "Basic Abilities",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6888,
+"en": "Learn skill?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6889,
+"en": "Soul Orb Cost",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6890,
+"en": "Stats",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6891,
+"en": "In <Color:109,193,240,255>Heat mode<Color:Default>",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6892,
+"en": "In <Color:255,100,100,255>Red Heat mode<Color:Default>",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6893,
+"en": "Cannot upgrade further.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6894,
+"en": "Auto Assignment is turned on.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6895,
+"en": "No weapon category.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6896,
+"en": "One-Handed Light Weapons",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6897,
+"en": "Two-Handed Light Weapons",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6898,
+"en": "Two-Handed Heavy Weapons",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6899,
+"en": "Knives",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6900,
+"en": "Katanas",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6901,
+"en": "Poles",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6902,
+"en": "Hammers",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6903,
+"en": "Guns",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6904,
+"en": "Weapon Category Totals",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6905,
+"en": "Use item?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6906,
+"en": "Discard item?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6907,
+"en": "Save game?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6908,
+"en": "Temporarily switch to Easy difficulty?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6909,
+"en": "Are you sure you want to switch to Easy?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6910,
+"en": "Continue watching?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6911,
+"en": "You may now end the Battle for Survival.\nIf you choose to do so, you will keep the money and experience points\nplus bonus money you've earned so far.\nContinue the Battle for Survival?\n",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6912,
+"en": "You haven't cleared all tutorial challenges.\nQuit anyway and continue with the story?\n",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6913,
+"en": "Your Weapon Inventory is full.\nSelect a weapon to transfer to the Item Box.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6914,
+"en": "Your Item List is full.\nSelect an item to transfer to the Item Box.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6915,
+"en": "Downloading the selected item.\nThe target item will be removed from RGG Online.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6916,
+"en": "You have not selected an item. Are you sure?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6917,
+"en": "Are you sure?",
+"ctx": "menú/texto string_tbl + menú/texto ai_popup …"
+},
+{
+"id": 6918,
+"en": "Are you sure you want to delete My Darts?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6919,
+"en": "Save changes to this dart?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6920,
+"en": "Are you done sorting items?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6921,
+"en": "Changing protagonists at this time would return you to New Serena in Kamurocho. Are you sure you want to change protagonists?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6922,
+"en": "Changing protagonists at this time would return you to Sky Finance in Sotenbori. Are you sure you want to change protagonists?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6923,
+"en": "Changing protagonists at this time would return you to Haruka's apartment in Sotenbori. Are you sure you want to change protagonists?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6924,
+"en": "Changing protagonists at this time would return you to the Florist's residence in Kamurocho. Are you sure you want to change protagonists?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6925,
+"en": "Are you sure? Your progress on the mountain will be reset.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6926,
+"en": "You could not use the item.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6927,
+"en": "You could not load the gun.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6928,
+"en": "You could not discard the item.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6929,
+"en": "You can't discard that.",
+"ctx": "menú/texto string_tbl"
+}
+]

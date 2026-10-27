@@ -1,0 +1,56 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_hanafuda01.par/texlist/2d_jm_mg_hanafuda02",
+ "fuente": "times.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    363,
+    4,
+    394,
+    34
+   ],
+   "en": "Bk",
+   "ocr": "Bk",
+   "es": "",
+   "fuente": "times.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 27,
+   "dejar": true
+  },
+  {
+   "caja": [
+    226,
+    72,
+    321,
+    110
+   ],
+   "en": "Scoring",
+   "ocr": "Scoring",
+   "es": "Puntuación",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "der",
+   "ancho_max": 93,
+   "alto": 24
+  },
+  {
+   "caja": [
+    324,
+    70,
+    484,
+    108
+   ],
+   "en": "Combinations",
+   "ocr": "Combinations",
+   "es": "combinaciones",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 156,
+   "alto": 24
+  }
+ ]
+}

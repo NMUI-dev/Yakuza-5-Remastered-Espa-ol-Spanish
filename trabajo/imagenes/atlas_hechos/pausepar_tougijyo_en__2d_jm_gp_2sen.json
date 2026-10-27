@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_tougijyo_en/2d_jm_gp_2sen",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    14,
+    76,
+    503,
+    176
+   ],
+   "en": "SEMIFINALS",
+   "ocr": "SEMIFINALS",
+   "es": "SEMIFINALES",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 485
+  }
+ ]
+}

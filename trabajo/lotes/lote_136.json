@@ -1,0 +1,927 @@
+[
+{
+"id": 30919,
+"en": "Anyhow, here's a little somethin' as a token of thanks.",
+"ctx": "diálogo uid004900e1"
+},
+{
+"id": 30920,
+"en": "You got <Color:8>Zero Jewel<Color:Default>.",
+"ctx": "diálogo uid004900e1"
+},
+{
+"id": 30921,
+"en": "Hope to see ya at Kushikatsu Daruma, Akiyama-san!",
+"ctx": "diálogo uid004900e1"
+},
+{
+"id": 30922,
+"en": "You got 1,300 experience points.",
+"ctx": "diálogo uid004900e1 + diálogo uid0049016e …"
+},
+{
+"id": 30923,
+"en": "Gimme a break, gramps! Outta my way!",
+"ctx": "diálogo uid004900e1"
+},
+{
+"id": 30924,
+"en": "First pick up that cigarette ya tossed! This ain't a garbage\ndump! Everyone uses this street!",
+"ctx": "diálogo uid004900e1"
+},
+{
+"id": 30925,
+"en": "Stupid old fuck! The street's full of litter already! Why\nyou gotta pick on me!?",
+"ctx": "diálogo uid004900e1"
+},
+{
+"id": 30926,
+"en": "Oh, so if the street's already dirty, it's okay? How'd you\nlike it if I threw my garbage away at your house?",
+"ctx": "diálogo uid004900e1"
+},
+{
+"id": 30927,
+"en": "Hey, the fuck's goin' on over here!?",
+"ctx": "diálogo uid004900e1"
+},
+{
+"id": 30928,
+"en": "Ah, there ya are! This old goat won't leave me alone!",
+"ctx": "diálogo uid004900e1"
+},
+{
+"id": 30929,
+"en": "Well, I was just tellin' him not to throw his cigarette\nbutts into the street.",
+"ctx": "diálogo uid004900e1"
+},
+{
+"id": 30930,
+"en": "Ain't so high and mighty now, are ya? One look at my boy\nhere's got ya pissin' your pants!",
+"ctx": "diálogo uid004900e1"
+},
+{
+"id": 30931,
+"en": "I just...",
+"ctx": "diálogo uid004900e1 + diálogo uid01460065"
+},
+{
+"id": 30932,
+"en": "Hey, gramps, how 'bout an apology? Get down on the street\nand grovel a little. C'mon, hurry up!",
+"ctx": "diálogo uid004900e1"
+},
+{
+"id": 30933,
+"en": "You can't just go around disrespectin' people, old man.",
+"ctx": "diálogo uid004900e1"
+},
+{
+"id": 30934,
+"en": "But if ya bow down to us, all will be forgiven. You have my\nword. Just kneel down and don't make a fuss.",
+"ctx": "diálogo uid004900e1"
+},
+{
+"id": 30935,
+"en": "You can't...",
+"ctx": "diálogo uid004900e1"
+},
+{
+"id": 30936,
+"en": "Just show us you learned your lesson, and we won't have to\nbreak your legs. You got that?",
+"ctx": "diálogo uid004900e1"
+},
+{
+"id": 30937,
+"en": "Hmph. What kinda man do you fools take me for!? If you think\nfor one second I'm gonna bow down to you, then you're even\ndumber than you look!",
+"ctx": "diálogo uid004900e1"
+},
+{
+"id": 30938,
+"en": "Ain't nothin' for me to apologize about. You won't catch me\nkneelin' down to the likes of you. You wanna fight, I'm more\nthan willing!",
+"ctx": "diálogo uid004900e1"
+},
+{
+"id": 30939,
+"en": "No point in bein' bullheaded, gramps. You wanna go to the\nhospital over a cigarette butt?",
+"ctx": "diálogo uid004900e1"
+},
+{
+"id": 30940,
+"en": "Zip it! You're the one causin' trouble here! I'll teach you\nblockheads a lesson!",
+"ctx": "diálogo uid004900e1"
+},
+{
+"id": 30941,
+"en": "Very funny, gramps. You spit in our faces, so you oughta\nknow there ain't no way we're backin' down now.",
+"ctx": "diálogo uid004900e1"
+},
+{
+"id": 30942,
+"en": "Might be a good idea, if you ask me.",
+"ctx": "diálogo uid004900e1"
+},
+{
+"id": 30943,
+"en": "The two of you picking on this old timer? You'd never live\nthat one down.",
+"ctx": "diálogo uid004900e1"
+},
+{
+"id": 30944,
+"en": "What? You sure you wanna take that attitude with us?",
+"ctx": "diálogo uid004900e1"
+},
+{
+"id": 30945,
+"en": "I'll tell you what, you walk away, and I'll back down, too.",
+"ctx": "diálogo uid004900e1"
+},
+{
+"id": 30946,
+"en": "But if you lay a finger on this guy, you'll have to deal\nwith me.",
+"ctx": "diálogo uid004900e1"
+},
+{
+"id": 30947,
+"en": "Just a passerby. It was nice to hear someone sticking up for\nhimself for a change.",
+"ctx": "diálogo uid004900e1"
+},
+{
+"id": 30948,
+"en": "Heh. Say, thanks!",
+"ctx": "diálogo uid004900e1"
+},
+{
+"id": 30949,
+"en": "You talk a big game, but you really oughta think of the\nconsequences before mouthin' off. Your life just got a whole\nlot shorter.",
+"ctx": "diálogo uid004900e1"
+},
+{
+"id": 30950,
+"en": "We'd never hear the end of it if we just let this go. Got no\nchoice but to spill some blood!",
+"ctx": "diálogo uid004900e1"
+},
+{
+"id": 30951,
+"en": "Uh-oh! Now ya really made him mad! Hahaha, too bad! That'll\nteach ya to mess with us!",
+"ctx": "diálogo uid004900e1"
+},
+{
+"id": 30952,
+"en": "Oh, hi, Akiyama-san! I was getting tired of waiting. Did you\nfind out anything?",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30953,
+"en": "Hold on, Saida-san. That watch you're wearing... It's pretty\nhigh-end, isn't it? Probably goes for about a million yen?",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30954,
+"en": "Good eye! A watch plays an important role in defining a\nman's status. That's why I chose this piece here. Highly\nrespected brand, you know.",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30955,
+"en": "That's just it, Saida-san.",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30956,
+"en": "Huh? What's just it?",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30957,
+"en": "That watch. There's no questioning its brand power. And it's\nobviously a respectable piece of jewelry.",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30958,
+"en": "Heheh, I don't doubt it. Not one bit.",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30959,
+"en": "But at the same time, it also happens to be a very standard\nchoice. As far as expressing one's own fashion sense goes,\nit's hardly unique.",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30960,
+"en": "Some might even say it's... unhip.",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30961,
+"en": "Oh no...",
+"ctx": "diálogo uid004900e8 + diálogo uid01690153 …"
+},
+{
+"id": 30962,
+"en": "Your fashion sense has no sense of freedom. It's just too\nperfect.",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30963,
+"en": "Wealthy or not, not many women will be drawn to a man who\nplays things so by the book.",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30964,
+"en": "Fine, then. What kind of watch do you suggest I wear?",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30965,
+"en": "How about this? We'll go to a brand shop now and check out\nsome watches.",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30966,
+"en": "We can continue this conversation there.",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30967,
+"en": "Okay, let's do that!",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30968,
+"en": "Oh, Akiyama-san! Learn anything?",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30969,
+"en": "No. Nothing useful yet.",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30970,
+"en": "Oh... You're my only hope. I'm counting on you!",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30971,
+"en": "Good grief...",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30972,
+"en": "Please, would you ask Miyu-chan just what exactly makes me\nso unhip?",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30973,
+"en": "I'm so ashamed by this. If I don't fix it, I won't be able\nto go to your club ever again.",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30974,
+"en": "(Damn. What to do? He's a loyal customer and a big spender.\nTurning him down would be bad for business.)",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30975,
+"en": "All right, sure. I'll have a chat with Miyu.",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30976,
+"en": "You will? Thank you!",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30977,
+"en": "Got to hand it to you on your negotiating skills. How could I\nturn down a regular when they're threatening not to return?",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30978,
+"en": "Ahaha, sorry...",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30979,
+"en": "I'll pop over to the club. Mind waiting here?",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30980,
+"en": "(Oh boy, another fine mess. Miyu should still be at Elise.\nI'd better talk to her.)",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30981,
+"en": "I'm terribly sorry, but I can't give preferential treatment\nto a specific client like that. You understand, don't you?",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30982,
+"en": "Oh, but... that means I won't be able to visit your club\nanymore. You're telling me to take my business elsewhere.",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30983,
+"en": "Damn it! What about me is unhip?",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30984,
+"en": "(Hm? I know that guy...)",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30985,
+"en": "(That's right. That's Saida-san. He's a regular at Elise.)",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30986,
+"en": "Saida-san.",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30987,
+"en": "Hm? Well, if it isn't Elise's owner himself. Hello,\nAkiyama-san. Imagine running into you here.",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30988,
+"en": "Is there a problem?",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30989,
+"en": "It's not so much a problem, but...",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30990,
+"en": "Akiyama-san, I need you to be honest with me.",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30991,
+"en": "Am I really that unhip?",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30992,
+"en": "I'm sorry?",
+"ctx": "diálogo uid004900e8 + diálogo uid00490147 …"
+},
+{
+"id": 30993,
+"en": "Well, am I?",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30994,
+"en": "Uh... Well...",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30995,
+"en": "I'd say so, yeah.",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30996,
+"en": "So, I really am unhip. Why is that?",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30997,
+"en": "It's not exactly something I can pinpoint, but... There's\njust something a little off, I think.",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30998,
+"en": "Well, that doesn't help me! What am I supposed to do?",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 30999,
+"en": "Hold on, hold on. What brought this up?",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 31000,
+"en": "I wouldn't say that. On the contrary, I'd say you're\nreasonably with it.",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 31001,
+"en": "That's what I thought, too. I've always thought that. So now\nI'm not sure what to do.",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 31002,
+"en": "What happened, exactly?",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 31003,
+"en": "Well, you know how our firm regularly uses your club to\nentertain clients?",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 31004,
+"en": "Yes, of course. And we do appreciate your patronage.",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 31005,
+"en": "I have a confession⑬I've fallen for one of your hostesses.\nIt's Miyu-chan...",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 31006,
+"en": "Miyu? Heh...",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 31007,
+"en": "I wanted to get to know her better, so I built up some\ncourage and asked her out.",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 31008,
+"en": "She shot me down. \"You're just not hip enough for me,\" she said.",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 31009,
+"en": "I see. So that's what has you down.",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 31010,
+"en": "I don't mean to toot my own horn here, but I'm a successful\nbusinessman with a top-name company. I have a certain level\nof confidence in myself.",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 31011,
+"en": "Being close to forty, I know I'm a bit old, but I wouldn't\nsay I've lost my looks. The suit I'm wearing is the latest\nin today's fashion, too.",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 31012,
+"en": "True. People in the know would recognize you to be very\nwell-off.",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 31013,
+"en": "If she turned me down because she doesn't like me as a\nperson, well, that wouldn't be great either. But I could at least come to terms with that.",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 31014,
+"en": "But to say I'm not hip enough... I just don't understand it.",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 31015,
+"en": "Did Miyu say anything else about that?",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 31016,
+"en": "I... Actually, I was so stunned by her rejection, I stumbled\nout of the club without probing any deeper. Pathetic, I\nknow.",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 31017,
+"en": "I see...",
+"ctx": "diálogo uid004900e8 + diálogo uid00490128 …"
+},
+{
+"id": 31018,
+"en": "Akiyama-san, please, can you ask Miyu-chan just why she\nthinks I'm so unhip?",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 31019,
+"en": "That's honestly out of my hands... If you have a complaint\nabout our service quality, I'm all ears. But if it's a\nprivate matter...",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 31020,
+"en": "Please! I'm so ashamed by this. If I don't fix it, I won't\nbe able to go to your club ever again.",
+"ctx": "diálogo uid004900e8"
+},
+{
+"id": 31021,
+"en": "Here. You might want to read this.",
+"ctx": "diálogo uid004900fe"
+},
+{
+"id": 31022,
+"en": "Mature men with a dash of bad boy...",
+"ctx": "diálogo uid004900fe"
+},
+{
+"id": 31023,
+"en": "I get it now. Women like this kind of thing!",
+"ctx": "diálogo uid004900fe"
+},
+{
+"id": 31024,
+"en": "That's exactly it. What you were missing was that dash of\nwickedness.",
+"ctx": "diálogo uid004900fe"
+},
+{
+"id": 31025,
+"en": "You mean that thing about \"roguish appeal\"?",
+"ctx": "diálogo uid004900fe"
+},
+{
+"id": 31026,
+"en": "That's it. Of course, that doesn't mean you should actually\nbe wicked or evil or anything.",
+"ctx": "diálogo uid004900fe"
+},
+{
+"id": 31027,
+"en": "But don't you think there are times when a guy can afford to\nshow off his \"bad side\" a little?",
+"ctx": "diálogo uid004900fe"
+},
+{
+"id": 31028,
+"en": "On a logical level, women seek stability, but on an\ninstinctual level, they're often attracted to danger. Lots\nof women seek a little more than just honesty and decency.",
+"ctx": "diálogo uid004900fe"
+},
+{
+"id": 31029,
+"en": "The dangerous side of men...",
+"ctx": "diálogo uid004900fe"
+},
+{
+"id": 31030,
+"en": "I get it now!",
+"ctx": "diálogo uid004900fe"
+},
+{
+"id": 31031,
+"en": "Thanks for everything, Akiyama-san! I'm going to ask Miyu\nout again!",
+"ctx": "diálogo uid004900fe"
+},
+{
+"id": 31032,
+"en": "Excellent. I'm sure you'll succeed this time.",
+"ctx": "diálogo uid004900fe"
+},
+{
+"id": 31033,
+"en": "(That should do it. I better swing by Elise later and see\nhow it all turns out.)",
+"ctx": "diálogo uid004900fe"
+},
+{
+"id": 31034,
+"en": "Miyu, do you have a minute?",
+"ctx": "diálogo uid00490100"
+},
+{
+"id": 31035,
+"en": "Oh, hi, boss. For you, always. What do you need?",
+"ctx": "diálogo uid00490100"
+},
+{
+"id": 31036,
+"en": "Saida-san stopped by earlier, right?",
+"ctx": "diálogo uid00490100"
+},
+{
+"id": 31037,
+"en": "Yes, he did. What about it?",
+"ctx": "diálogo uid00490100"
+},
+{
+"id": 31038,
+"en": "Well, no sense beating around the bush⑬what made you turn\nhim down?",
+"ctx": "diálogo uid00490100"
+},
+{
+"id": 31039,
+"en": "Are you kidding? He's so not hip. He's a wonderful customer,\nsure, but to be seen in public together, he's just so...",
+"ctx": "diálogo uid00490100"
+},
+{
+"id": 31040,
+"en": "Unhip. Right.",
+"ctx": "diálogo uid00490100"
+},
+{
+"id": 31041,
+"en": "You say that, but is that really true? Saida-san wears the\nlatest fashions from all the top brands. He's far better\ndressed than most guys, wouldn't you say?",
+"ctx": "diálogo uid00490100"
+},
+{
+"id": 31042,
+"en": "Not you too, boss. You don't get it either. That's exactly\nwhat makes him so unhip!",
+"ctx": "diálogo uid00490100"
+},
+{
+"id": 31043,
+"en": "That man's fashion sense is... how do I put it? It's like\nhe's a mannequin. So neat, and tidy, and boooring.",
+"ctx": "diálogo uid00490100"
+},
+{
+"id": 31044,
+"en": "Well, now that you mention it, he does wear his collar\nbuttoned to the top. I guess he might come across as kind of\nstuffy.",
+"ctx": "diálogo uid00490100"
+},
+{
+"id": 31045,
+"en": "He's so prim and proper even when he's drinking here. A date\nwould be just so tedious.",
+"ctx": "diálogo uid00490100"
+},
+{
+"id": 31046,
+"en": "A serious company man married to his job isn't my idea of\nfun. I prefer a man who knows how to cut loose and enjoy\nhimself.",
+"ctx": "diálogo uid00490100"
+},
+{
+"id": 31047,
+"en": "Okay, so would dressing a little more like me help?",
+"ctx": "diálogo uid00490100"
+},
+{
+"id": 31048,
+"en": "In a cheesy suit like that?",
+"ctx": "diálogo uid00490100"
+},
+{
+"id": 31049,
+"en": "Huh...?",
+"ctx": "diálogo uid00490100 + diálogo uid01021169"
+},
+{
+"id": 31050,
+"en": "You only need a touch of playfulness.",
+"ctx": "diálogo uid00490100"
+},
+{
+"id": 31051,
+"en": "And a touch would be how much?",
+"ctx": "diálogo uid00490100"
+},
+{
+"id": 31052,
+"en": "Come on, boss, instead of counting on me to give you all the\nanswers, why don't you do some research on your own?",
+"ctx": "diálogo uid00490100"
+},
+{
+"id": 31053,
+"en": "Okay, okay, fine.",
+"ctx": "diálogo uid00490100"
+},
+{
+"id": 31054,
+"en": "(Studying up on fashion? Maybe there's a good magazine at\none of the convenience stores.)",
+"ctx": "diálogo uid00490100"
+},
+{
+"id": 31055,
+"en": "Hmm... The watch I'm wearing appears to be the most\nexpensive one on the market.",
+"ctx": "diálogo uid00490101"
+},
+{
+"id": 31056,
+"en": "Saida-san, comparing price tags won't make you more\nfashionable. You need to consider the design.",
+"ctx": "diálogo uid00490101"
+},
+{
+"id": 31057,
+"en": "Design?",
+"ctx": "diálogo uid00490101"
+},
+{
+"id": 31058,
+"en": "Hey! Your watch... That's a pretty unique design!",
+"ctx": "diálogo uid00490101"
+},
+{
+"id": 31059,
+"en": "Oh, you noticed. It's a GaGa Milano.",
+"ctx": "diálogo uid00490101"
+},
+{
+"id": 31060,
+"en": "A GaGa Milano? Are those famous?",
+"ctx": "diálogo uid00490101"
+},
+{
+"id": 31061,
+"en": "Yes. It's a brand that's becoming increasingly popular,\nespecially among pro athletes and entertainers.",
+"ctx": "diálogo uid00490101"
+},
+{
+"id": 31062,
+"en": "The watch face's design is striking, isn't it? I think it'd\nmake a pretty big statement if it was worn alongside some\nformal business attire.",
+"ctx": "diálogo uid00490101"
+},
+{
+"id": 31063,
+"en": "That's true. If I'm wearing a suit that's formal and\nreserved, a flashy watch is sure to catch an eye or two!",
+"ctx": "diálogo uid00490101"
+},
+{
+"id": 31064,
+"en": "Think about it this way: even if you're great at your job,\nyou shouldn't have to lose your sense of fun.",
+"ctx": "diálogo uid00490101"
+},
+{
+"id": 31065,
+"en": "Let me ask you⑬do you ever find people who are super\ncommitted to their jobs to be a little too much so? As if they have no time for anything but their job?",
+"ctx": "diálogo uid00490101"
+},
+{
+"id": 31066,
+"en": "Right, I get it now. What I lacked was a sense of fun. I was\ntoo much of a stuffed shirt.",
+"ctx": "diálogo uid00490101"
+},
+{
+"id": 31067,
+"en": "I'll buy this watch and try to show my fun side.",
+"ctx": "diálogo uid00490101"
+},
+{
+"id": 31068,
+"en": "I can't believe I'm wearing something this flashy. I've worn\nclothes so conservatively all my life⑬I feel like a new\nman!",
+"ctx": "diálogo uid00490102"
+},
+{
+"id": 31069,
+"en": "Great. Now that you're feeling it, why don't you try asking\nMiyu out again?",
+"ctx": "diálogo uid00490102"
+},
+{
+"id": 31070,
+"en": "Huh? But I...",
+"ctx": "diálogo uid00490102"
+},
+{
+"id": 31071,
+"en": "Well, you see, you know how I always use your club to\nentertain clients?",
+"ctx": "diálogo uid00490102"
+},
+{
+"id": 31072,
+"en": "I've never been there in my private time. I could never work\nup the courage to go on my own.",
+"ctx": "diálogo uid00490102"
+},
+{
+"id": 31073,
+"en": "Huh? What are you talking about? It's no different than when\nyou go on business.",
+"ctx": "diálogo uid00490102"
+},
+{
+"id": 31074,
+"en": "Business and private situations are completely different,\nthough. Miyu would just think of me as some pervy old man\nif I were to come in by myself.",
+"ctx": "diálogo uid00490102"
+},
+{
+"id": 31075,
+"en": "(No wonder the guy's no hit with the ladies.)",
+"ctx": "diálogo uid00490102"
+},
+{
+"id": 31076,
+"en": "(Leon claimed that women go for mature men with a little bit\nof a bad side. I guess they're not too far off the mark.)",
+"ctx": "diálogo uid00490102"
+},
+{
+"id": 31077,
+"en": "Uh, Saida-san.",
+"ctx": "diálogo uid00490102"
+},
+{
+"id": 31078,
+"en": "You're missing something.",
+"ctx": "diálogo uid00490102"
+},
+{
+"id": 31079,
+"en": "Come with me, and I'll show you.",
+"ctx": "diálogo uid00490102"
+},
+{
+"id": 31080,
+"en": "Saida-san. Looks like things went well.",
+"ctx": "diálogo uid00490103"
+},
+{
+"id": 31081,
+"en": "Yes, they did! I'm going on my dream date with Miyu-chan\nafter her shift, and it's all thanks to your advice!",
+"ctx": "diálogo uid00490103"
+},
+{
+"id": 31082,
+"en": "Oh no, I just passed on what I read in Leon.",
+"ctx": "diálogo uid00490103"
+},
+{
+"id": 31083,
+"en": "I'm going on a date with a hostess⑬that makes me feel a\nlittle like a bad boy.",
+"ctx": "diálogo uid00490103"
+},
+{
+"id": 31084,
+"en": "Heh, sounds like you gained a lot of confidence.",
+"ctx": "diálogo uid00490103"
+},
+{
+"id": 31085,
+"en": "Consider me your customer for life. This is hardly adequate,\nbut please take it.",
+"ctx": "diálogo uid00490103"
+},
+{
+"id": 31086,
+"en": "You got a <Color:8>Durable Cloth<Color:Default>.",
+"ctx": "diálogo uid00490103"
+},
+{
+"id": 31087,
+"en": "Whoops, it's almost time. I'll be going now!",
+"ctx": "diálogo uid00490103"
+},
+{
+"id": 31088,
+"en": "(Didn't expect things to work out so well. Guess ladies\nreally do like the older bad boys, after all.)",
+"ctx": "diálogo uid00490103"
+},
+{
+"id": 31089,
+"en": "Huh? You want something?",
+"ctx": "diálogo uid00490126"
+},
+{
+"id": 31090,
+"en": "(He looks pretty down on somethin'... Maybe I oughta hear his story?)",
+"ctx": "diálogo uid00490126"
+},
+{
+"id": 31091,
+"en": "Say, what's makin' ya drink like that?",
+"ctx": "diálogo uid00490126"
+},
+{
+"id": 31092,
+"en": "What's it to you? Every man needs a drink now and then.",
+"ctx": "diálogo uid00490126"
+},
+{
+"id": 31093,
+"en": "There's a proper way to drink. And it ain't no way to lift your spirits.",
+"ctx": "diálogo uid00490126"
+},
+{
+"id": 31094,
+"en": "What happened? You really want to know?",
+"ctx": "diálogo uid00490126"
+},
+{
+"id": 31095,
+"en": "Nothing happened. I'm just not much use anymore. So what else is there for me to do but drink?",
+"ctx": "diálogo uid00490126"
+},
+{
+"id": 31096,
+"en": " What, ya lose your job or somethin'?",
+"ctx": "diálogo uid00490126"
+},
+{
+"id": 31097,
+"en": "But I might as well have. A perp I'd been chasing for years suddenly went poof.",
+"ctx": "diálogo uid00490126"
+},
+{
+"id": 31098,
+"en": "Perp? Are you a detective?",
+"ctx": "diálogo uid00490126"
+},
+{
+"id": 31099,
+"en": "That I am. Detective Araseki of the Tsukimino Police Department, at your service.",
+"ctx": "diálogo uid00490126"
+},
+{
+"id": 31100,
+"en": "(Aw, shit.)",
+"ctx": "diálogo uid00490126"
+},
+{
+"id": 31101,
+"en": "What do you look so surprised for? A detective can't enjoy a drink on his own time?",
+"ctx": "diálogo uid00490126"
+},
+{
+"id": 31102,
+"en": "Uh, no, 'course you can.",
+"ctx": "diálogo uid00490126"
+},
+{
+"id": 31103,
+"en": "(Guess he hasn't cottoned onto me bein' a wanted man. No surprise considerin' how wasted he is.)",
+"ctx": "diálogo uid00490126"
+}
+]

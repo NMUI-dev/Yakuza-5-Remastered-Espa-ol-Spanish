@@ -1,0 +1,997 @@
+[
+{
+"id": 17885,
+"en": "Still, T-Set's no doubt gonna give ya a run for your money.\nWe can't count on round two goin' the same way. You're gonna\nhave to work for it!",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17886,
+"en": "Once ya feel confident, select \"Princess League\" from the\nschedule board. Good luck, Haruka!",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17887,
+"en": "What a shame, huh, Haruka? I think maybe ya let your guard\ndown a little bit.",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17888,
+"en": "But there are special rules this time. Apparently, they'll\nlet ya do round one over. So make sure you're well prepared,\nthen go out and get your revenge!",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17889,
+"en": "Once you're fully prepared and feelin' confident, select\n\"Princess League\" from the schedule board. You can do this,\nHaruka!",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17890,
+"en": "Way to go, kid! Your singin' never sounded better! Only\nthing left is that all-important final round!",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17891,
+"en": "But T-Set is gonna come at ya, guns blazin'. You gotta make\nsure you're completely prepared!",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17892,
+"en": "You did it, Haruka! You really did it!",
+"ctx": "diálogo uid00020c82 + diálogo uid01020cb7"
+},
+{
+"id": 17893,
+"en": "Congratulations, Haruka. That was a brilliant performance.",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17894,
+"en": "Thank you! I couldn't have done it without everyone's help.",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17895,
+"en": "Park-san really found a gem in you. I'm sure she's real\nproud, Haruka.",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17896,
+"en": "Yamaura-san...",
+"ctx": "diálogo uid00020c82 + diálogo uid00490266 …"
+},
+{
+"id": 17897,
+"en": "Here's a little something for all your hard work. Think of\nit as a gift from Park-san.",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17898,
+"en": "You got <Color:8>Cutie Girl Sticks<Color:Default>.",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17899,
+"en": "Wow, thank you!",
+"ctx": "diálogo uid00020c82 + diálogo uid00690254"
+},
+{
+"id": 17900,
+"en": "I bet ya feel like a real weight has been lifted, huh? Now\nyou can spend your time however ya like⑬at least for a\nlittle while.",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17901,
+"en": "Okay! Thank you!",
+"ctx": "diálogo uid00020c82 + diálogo uid000c0c3f …"
+},
+{
+"id": 17902,
+"en": "Congratulations, Haruka! Truly!",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17903,
+"en": "Once ya feel confident, select \"Princess League\" from the\n\"Princess League\" from the schedule board. You can do this,\nHaruka!",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17904,
+"en": "Hey, kid. Round one of the Princess League is almost here,\nhuh?",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17905,
+"en": "Until then, do work or take lessons to up your skills. Once\nyou feel confident, select \"Princess League\" from the\nschedule board.",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17906,
+"en": "Good luck, Haruka!",
+"ctx": "diálogo uid00020c82 + diálogo uid0069033f …"
+},
+{
+"id": 17907,
+"en": "Just check out \"Princess League\" on the schedule board\nwhenever you're ready.",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17908,
+"en": "Whaddya think, Haruka? Ready to head out to the Princess League taping?",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17909,
+"en": "But listen to me, Haruka...",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17910,
+"en": "If ya beat T-Set today, your face is gonna be known all over\nthe country.",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17911,
+"en": "There's no going back to a regular life after that. I want you to be prepared.",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17912,
+"en": "So if there's anything ya wanna get outta the way first,\nnow's the time to do it.",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17913,
+"en": "Right, okay.",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17914,
+"en": "Okay, ready to go?",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17915,
+"en": "I'm sorry. Could I have just a little more time?",
+"ctx": "diálogo uid00020c82 + diálogo uid00020d56 …"
+},
+{
+"id": 17916,
+"en": "Sure, just come on back when you're ready.",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17917,
+"en": "Yes, I'm all set.",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17918,
+"en": "Great! Let's get started, then.",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17919,
+"en": "There ya are, Haruka. Not much time until the Princess\nLeague.",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17920,
+"en": "Whaddya wanna do? You wanna go now?",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17921,
+"en": "There ain't much time left, ya know. You wanna go now?",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17922,
+"en": "That's fine, but we're cutting it pretty close. Don't take\ntoo long.",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17923,
+"en": "Okay, I won't.",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17924,
+"en": "I'm ready to go to the Princess League.",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17925,
+"en": "Great! You look ready!",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17926,
+"en": "Okay, take a look at the schedule board, and check out the\npart that says \"Princess League.\"",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17927,
+"en": "All set? Let's go!",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17928,
+"en": "This will work out great! She's gonna be performing at\nCastle Records, they said. Get out there and get that\nautograph!",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17929,
+"en": "Haruka, if ya don't hurry up and get over to that audition,\nthe positions'll get filled! You ready to go?",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17930,
+"en": "I'm afraid I'm not ready to go just yet. I want to prepare a\nlittle first.",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17931,
+"en": "There you are, Haruka. Ready to hear about that audition?",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17932,
+"en": "That's right. This one'll be a little different from\na regular audition, however. It's gonna be a joint audition\nthis time around.",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17933,
+"en": "Really? You mean right now?",
+"ctx": "diálogo uid00020c82"
+},
+{
+"id": 17934,
+"en": "Good morning, Haruka. Today, we begin your lessons in\nearnest.",
+"ctx": "diálogo uid00020d56"
+},
+{
+"id": 17935,
+"en": "We don't have much time left, so I'm really going to need\nyour focus. Now, are you ready to begin?",
+"ctx": "diálogo uid00020d56"
+},
+{
+"id": 17936,
+"en": "Haruka, are you ready now?",
+"ctx": "diálogo uid00020d56"
+},
+{
+"id": 17937,
+"en": "Time is money, as they say. Do try to hurry.",
+"ctx": "diálogo uid00020d56"
+},
+{
+"id": 17938,
+"en": "I'm ready. Thank you for doing this!",
+"ctx": "diálogo uid00020d56"
+},
+{
+"id": 17939,
+"en": "It's my pleasure. Let's get started.",
+"ctx": "diálogo uid00020d56"
+},
+{
+"id": 17940,
+"en": "Oh, Haruka-chan. How did it go? No major mishaps?",
+"ctx": "diálogo uid00020d70"
+},
+{
+"id": 17941,
+"en": "I think it went okay...",
+"ctx": "diálogo uid00020d70"
+},
+{
+"id": 17942,
+"en": "Musta been a rough assignment. But there'll be plenty more\nlike it in the future, I'm sure.",
+"ctx": "diálogo uid00020d70"
+},
+{
+"id": 17943,
+"en": "Don't let it get to you.",
+"ctx": "diálogo uid00020d70"
+},
+{
+"id": 17944,
+"en": "I won't. By the way, what's my schedule like for the rest of\nthe day?",
+"ctx": "diálogo uid00020d70"
+},
+{
+"id": 17945,
+"en": "Oh, Park-san didn't tell ya?",
+"ctx": "diálogo uid00020d70"
+},
+{
+"id": 17946,
+"en": "Tell me what?",
+"ctx": "diálogo uid00020d70"
+},
+{
+"id": 17947,
+"en": "She said that, when you get back, she's gonna take you out\nshoppin' for cute clothes and whatnot.",
+"ctx": "diálogo uid00020d70"
+},
+{
+"id": 17948,
+"en": "In fact, she's probably waitin' for ya at the office right now.",
+"ctx": "diálogo uid00020d70"
+},
+{
+"id": 17949,
+"en": "She remembered...",
+"ctx": "diálogo uid00020d70"
+},
+{
+"id": 17950,
+"en": "She's a real woman of action, that Park-san.",
+"ctx": "diálogo uid00020d70"
+},
+{
+"id": 17951,
+"en": "We'd better scoot back.",
+"ctx": "diálogo uid00020d70"
+},
+{
+"id": 17952,
+"en": "Oh, that's right! I gotta stop by the drugstore first.",
+"ctx": "diálogo uid00020d70"
+},
+{
+"id": 17953,
+"en": "The drugstore?",
+"ctx": "diálogo uid00020d70"
+},
+{
+"id": 17954,
+"en": "Yeah, for Park-san's hand. It's still swollen, so she asked\nme to pick up a compress.",
+"ctx": "diálogo uid00020d70"
+},
+{
+"id": 17955,
+"en": "I'll go with you, then. I've been worried about her hand.",
+"ctx": "diálogo uid00020d70"
+},
+{
+"id": 17956,
+"en": "Okay, great. Ready to go, then?",
+"ctx": "diálogo uid00020d70"
+},
+{
+"id": 17957,
+"en": "Ready.",
+"ctx": "diálogo uid00020d70"
+},
+{
+"id": 17958,
+"en": "Oh, hello, Haruka. Come for a lesson, have you?",
+"ctx": "diálogo uid00020de7"
+},
+{
+"id": 17959,
+"en": "I'm glad to see your enthusiasm, but you look exhausted. If\nyou can't focus properly, you may end up getting hurt. You\nreally should rest first.",
+"ctx": "diálogo uid00020de7"
+},
+{
+"id": 17960,
+"en": "All right. I understand.",
+"ctx": "diálogo uid00020de7 + diálogo uid016900c7"
+},
+{
+"id": 17961,
+"en": "Very well. Let's begin. Why don't you tell me what you'd\nlike to work on?",
+"ctx": "diálogo uid00020de7"
+},
+{
+"id": 17962,
+"en": "(I think I'll try an easy \"Loneliness Loop\" lesson.)",
+"ctx": "diálogo uid00020de7 + diálogo uid01690214"
+},
+{
+"id": 17963,
+"en": "(I think I'll try \"Loneliness Loop.\")",
+"ctx": "diálogo uid00020de7 + diálogo uid01690214"
+},
+{
+"id": 17964,
+"en": "(I think I'll try a hard \"Loneliness Loop\" lesson.)",
+"ctx": "diálogo uid00020de7 + diálogo uid01690214"
+},
+{
+"id": 17965,
+"en": "(I think I'll try an easy \"Because I Have You\" lesson.)",
+"ctx": "diálogo uid00020de7 + diálogo uid01690214"
+},
+{
+"id": 17966,
+"en": "(I think I'll try \"Because I Have You.\")",
+"ctx": "diálogo uid00020de7 + diálogo uid01690214"
+},
+{
+"id": 17967,
+"en": "(I think I'll try a hard \"Because I Have You\" lesson.)",
+"ctx": "diálogo uid00020de7 + diálogo uid01690214"
+},
+{
+"id": 17968,
+"en": "I see. All right, well, when you're ready for a lesson, just\ncome let me know anytime.",
+"ctx": "diálogo uid00020de7"
+},
+{
+"id": 17969,
+"en": "Um... How am I doing so far? Do you really think I can win\nthe Princess League?",
+"ctx": "diálogo uid00020de7"
+},
+{
+"id": 17970,
+"en": "With your abilities as they stand right now?",
+"ctx": "diálogo uid00020de7"
+},
+{
+"id": 17971,
+"en": "Well, to be honest, I think it'd be pretty difficult.\nThere's still quite a gap between you and your opponents. You\nhave to hone your skills.",
+"ctx": "diálogo uid00020de7"
+},
+{
+"id": 17972,
+"en": "Hmm. It might be a little difficult. However, if you manage\nto pull off a particularly flawless performance, it could\nvery well be possible.",
+"ctx": "diálogo uid00020de7"
+},
+{
+"id": 17973,
+"en": "Yes, I think you have a real chance, but you have to be\ncautious. If you lose focus, your opponents could still\ncatch you.",
+"ctx": "diálogo uid00020de7"
+},
+{
+"id": 17974,
+"en": "You know, I think you can. Provided you don't make any serious\nmistakes and can perform to your usual ability, I'm almost\ncertain you can win.",
+"ctx": "diálogo uid00020de7"
+},
+{
+"id": 17975,
+"en": "Oh, did you? Well, when you're ready for a lesson, just let\nme know anytime.",
+"ctx": "diálogo uid00020de7"
+},
+{
+"id": 17976,
+"en": "Saejima-san! Good to see you!",
+"ctx": "diálogo uid00020e06"
+},
+{
+"id": 17977,
+"en": "Hey. Is Majima around?",
+"ctx": "diálogo uid00020e06"
+},
+{
+"id": 17978,
+"en": "Nah, the boss hasn't been by.",
+"ctx": "diálogo uid00020e06"
+},
+{
+"id": 17979,
+"en": "Huh. Guess I dropped in too early.",
+"ctx": "diálogo uid00020e06"
+},
+{
+"id": 17980,
+"en": "Looks like it. By the way, isn't this your last night on the outside?",
+"ctx": "diálogo uid00020e06"
+},
+{
+"id": 17981,
+"en": "You should enjoy some time on the town while you can. Least that's what I'd do if I were you.",
+"ctx": "diálogo uid00020e06"
+},
+{
+"id": 17982,
+"en": "Besides, it might be good to get out and spread your wings a bit. Your ass-kicking wings, I mean.",
+"ctx": "diálogo uid00020e06"
+},
+{
+"id": 17983,
+"en": "A bigtime Tojo name like you is sure to get recognized in jail, and someone in there might even be dumb enough to try and fight you.",
+"ctx": "diálogo uid00020e06"
+},
+{
+"id": 17984,
+"en": "Not that I doubt you can hold your own, of course. But with all the punks in town, why not hit two birds with one stone?",
+"ctx": "diálogo uid00020e06"
+},
+{
+"id": 17985,
+"en": "It'll help you knock some of the rust off, <Italic>and</Italic> send a bloody message to anyone who's thinking about taking a shot at you in prison.",
+"ctx": "diálogo uid00020e06"
+},
+{
+"id": 17986,
+"en": "I'm about to turn myself in, and you're tellin' me to go raise hell? What kinda fool are ya?",
+"ctx": "diálogo uid00020e06"
+},
+{
+"id": 17987,
+"en": "Sorry, sir. I just thought...",
+"ctx": "diálogo uid00020e06"
+},
+{
+"id": 17988,
+"en": "It's all good. And hey, ya ain't wrong. This town's in a rough spot. Too many idiots runnin' around not givin' a shit about anyone else.",
+"ctx": "diálogo uid00020e06"
+},
+{
+"id": 17989,
+"en": "...Yeah, y'know what? Maybe I will go enjoy myself. Like ya said, I oughta get the most outta this place while I can.",
+"ctx": "diálogo uid00020e06"
+},
+{
+"id": 17990,
+"en": "Yes! See you later, sir!",
+"ctx": "diálogo uid00020e06"
+},
+{
+"id": 17991,
+"en": "Oh, you're back!",
+"ctx": "diálogo uid00020e06"
+},
+{
+"id": 17992,
+"en": "Majima here yet?",
+"ctx": "diálogo uid00020e06"
+},
+{
+"id": 17993,
+"en": "Nah, the boss must've had a lot to do first.",
+"ctx": "diálogo uid00020e06"
+},
+{
+"id": 17994,
+"en": "Huh. Looks like I gotta come back later, then.",
+"ctx": "diálogo uid00020e06"
+},
+{
+"id": 17995,
+"en": "Sure! See you later tonight, sir!",
+"ctx": "diálogo uid00020e06"
+},
+{
+"id": 17996,
+"en": "Saejima-san! It's good to see you.",
+"ctx": "diálogo uid00020e06"
+},
+{
+"id": 17997,
+"en": "Majima here?",
+"ctx": "diálogo uid00020e06"
+},
+{
+"id": 17998,
+"en": "Oh, yes. He's right inside, ready and waiting for you.",
+"ctx": "diálogo uid00020e06"
+},
+{
+"id": 17999,
+"en": "(Majima's waitin' for me. But should I blow off some more steam before seein' him? Only got a few hours left of freedom, after all.)",
+"ctx": "diálogo uid00020e06"
+},
+{
+"id": 18000,
+"en": "Good to see you, sir! The boss is waiting for you inside.",
+"ctx": "diálogo uid00020e06"
+},
+{
+"id": 18001,
+"en": "Just remembered an errand I gotta run. Tell Majima to wait just a little longer, will ya?",
+"ctx": "diálogo uid00020e06"
+},
+{
+"id": 18002,
+"en": "Will do, sir! He never does like waiting, but I think he'll make an exception for you!",
+"ctx": "diálogo uid00020e06"
+},
+{
+"id": 18003,
+"en": "Better go say my final goodbye.",
+"ctx": "diálogo uid00020e06"
+},
+{
+"id": 18004,
+"en": "Hey, Nishida? While I'm gone... look after Majima for me, will ya?",
+"ctx": "diálogo uid00020e06"
+},
+{
+"id": 18005,
+"en": "Of course, sir! And you look after yourself, too!",
+"ctx": "diálogo uid00020e06"
+},
+{
+"id": 18006,
+"en": "Whew. I managed to win, somehow!",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18007,
+"en": "Un, if you're willing, I'd love to play you again!",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18008,
+"en": "Ouch. You got me.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18009,
+"en": "Here, take these, as thanks for your time.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18010,
+"en": "You got <Color:8>Limited-ed. Color Torpedo Barrel and Point<Color:Default>.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18011,
+"en": "You got <Color:8>Rocket Shot Flight and Shaft<Color:Default>.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18012,
+"en": "Uh, please don't get angry, but I want to tell you something.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18013,
+"en": "I, uh, don't get nervous when I play other people anymore. Except you, Saejima-san.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18014,
+"en": "Like, uh, you're intimidating, Saejima-san, just from the way you look, so playing you was like good training, I mean...",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18015,
+"en": "Is that so? Good to hear.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18016,
+"en": "Yes, it was a great experience. Thank you very much.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18017,
+"en": "By the way, weren't ya sayin' you're gonna enter a big tournament?",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18018,
+"en": "Yes, I am. I'll do my best!",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18019,
+"en": "Um, may I challenge you to a darts match?",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18020,
+"en": "Some other time.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18021,
+"en": "Oh, I'm sorry, you must be busy. Please give me a shout if you'd like to play.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18022,
+"en": "Trainin' hard, huh? Sure thing. I'll play ya.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18023,
+"en": "Oh, thank you so much. Okay, let's play cricket!",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18024,
+"en": "Whew. I squeaked out a win.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18025,
+"en": "You're plenty good now, Ebi-chan. Why do ya need more trainin'?",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18026,
+"en": "I suppose... But I don't think I've played to the best of my ability yet. I'd like to keep playing with you, if I may.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18027,
+"en": "Ouch. You got me. I tense up when I get nervous.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18028,
+"en": "Looks that way. You seem to be settlin' down a little, though.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18029,
+"en": "Uh, yes, I think so, too. Please take these, as thanks for playing with me today.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18030,
+"en": "You got <Color:8>Tungsten Torpedo Barrel and Point<Color:Default>.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18031,
+"en": "You got <Color:8>Beware of Bears Flight and Shaft<Color:Default>.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18032,
+"en": "You got <Color:8>Grandpa's Handmade Flight and Shaft<Color:Default>.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18033,
+"en": "Um, if you have the time, I hope you'll play with me again.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18034,
+"en": "Uh, um, would you like to play a game of darts?",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18035,
+"en": "Uh-huh, sure.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18036,
+"en": "Okay! Then, could we play a cricket match?",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18037,
+"en": "Whew. I won. I'm so glad!",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18038,
+"en": "Um, if you have the time, please play with me again. I'm a regular here.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18039,
+"en": "Aww... Guess I'm not good enough after all.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18040,
+"en": "Oh, yes, Saejima-san, these are my thanks for your time today.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18041,
+"en": "You got <Color:8>Tungsten Straight Barrel and Point<Color:Default>.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18042,
+"en": "You got <Color:8>Slim Flight and Shaft<Color:Default>.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18043,
+"en": "You got <Color:8>Standard Flight and Shaft<Color:Default>.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18044,
+"en": "They're parts for customizing darts.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18045,
+"en": "You can combine them to make your own custom darts. It's kind of fun.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18046,
+"en": "Um, please play with me again if you get a chance.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18047,
+"en": "I'm busy.",
+"ctx": "diálogo uid000210cf + diálogo uid000210d0"
+},
+{
+"id": 18048,
+"en": "Oh, uh, sorry to bother you.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18049,
+"en": "Oh, uh, then I'd like to challenge you to a game of cricket.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18050,
+"en": "You will? Thank you.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18051,
+"en": "I'm thinking of entering a major tournament...",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18052,
+"en": "But when I play someone, I get so nervous that I fumble and mess up! I do so well by myself, but with someone else, I'm just hopeless...",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18053,
+"en": "So that's why you're challenging strangers to play?",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18054,
+"en": "Yes. I thought maybe if I could get over this anxiety of mine, then maybe...",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18055,
+"en": "Oh, yeah. I get it. I'm Saejima. You, what do ya go by?",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18056,
+"en": "Uh, Ebisu.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18057,
+"en": "Ebisu? What, is that your last name? I'll just call ya Ebi-chan. That's good. Now, let's play.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18058,
+"en": "...Ebi-chan? Uh, um, yes, a cricket match, please.",
+"ctx": "diálogo uid000210cf"
+},
+{
+"id": 18059,
+"en": "I win! Hahaha. I'm getting pretty good at this, huh? Let's do it again sometime!",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18060,
+"en": "Damn it. I lost.",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18061,
+"en": "Oh, yeah. Here's a little something for playing with me today.",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18062,
+"en": "You got <Color:8>Limited-edition Color Barrel and Point<Color:Default>.",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18063,
+"en": "You got <Color:8>Sweet Flight and Shaft<Color:Default>.",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18064,
+"en": "Man, all that practice for nothing. Guess I don't have what it takes yet.",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18065,
+"en": "You make a good opponent, though.",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18066,
+"en": "It's been fun hanging out. Thank you!",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18067,
+"en": "Glad to hear it. Didn't you say you had a tournament coming up?",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18068,
+"en": "Yeah. It's just a little one for amateurs, though. Can't wait to see how high I'll rank!",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18069,
+"en": "Hey! I've been practicing up a storm lately, and I think I'm really getting the hang of this. Let's play a game!",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18070,
+"en": "Oh, okay. That's a shame. Well, say the word if you ever feel like playing, okay?",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18071,
+"en": "Yay! Okay, we'll play 301. No need to cut me any slack!",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18072,
+"en": "I win! Hahaha. I told you I'd been honing my skills. Let's play another game sometime!",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18073,
+"en": "How did you get so good at this?",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18074,
+"en": "Nothing, sorry. Oh, yeah! Do you want these? I don't need them anymore.",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18075,
+"en": "You got <Color:8>Brass Torpedo Barrel and Point<Color:Default>.",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18076,
+"en": "You got <Color:8>Hito-nyan Flight and Shaft<Color:Default>.",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18077,
+"en": "You got <Color:8>Flashy Butterfly Flight and Shaft<Color:Default>.",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18078,
+"en": "I'm going to brush up on my skills. Give me another shot at beating you later, okay?!",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18079,
+"en": "Hey! I put in some practice, and I'm playing way better now. Want another game of darts with me?",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18080,
+"en": "Okay, let's play 301. This should be fun!",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18081,
+"en": "All right! I won! Let's play another game sometime!",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18082,
+"en": "Gah! I lost. Damn it!",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18083,
+"en": "Nothing, sorry. Oh, yeah! You can have these as thanks for playing with me today!",
+"ctx": "diálogo uid000210d0"
+}
+]

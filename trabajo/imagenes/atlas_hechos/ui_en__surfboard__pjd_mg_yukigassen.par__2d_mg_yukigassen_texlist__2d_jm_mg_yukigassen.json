@@ -1,0 +1,246 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_yukigassen.par/2d_mg_yukigassen_texlist/2d_jm_mg_yukigassen",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    404,
+    4,
+    476,
+    44
+   ],
+   "en": "HIT",
+   "es": "GOLPE",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 66,
+   "alto": 20,
+   "margen": 6,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     235
+    ],
+    "abajo": [
+     255,
+     230,
+     140
+    ],
+    "contorno": null,
+    "brillo": [
+     255,
+     150,
+     0
+    ]
+   }
+  },
+  {
+   "caja": [
+    374,
+    46,
+    500,
+    96
+   ],
+   "en": "STRIKE",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 120,
+   "dejar": true
+  },
+  {
+   "caja": [
+    374,
+    98,
+    500,
+    140
+   ],
+   "en": "SHOOT",
+   "es": "LANZA",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 120,
+   "alto": 21,
+   "margen": 6,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     235
+    ],
+    "abajo": [
+     255,
+     230,
+     140
+    ],
+    "contorno": null,
+    "brillo": [
+     255,
+     150,
+     0
+    ]
+   }
+  },
+  {
+   "caja": [
+    8,
+    214,
+    60,
+    250
+   ],
+   "en": "1st",
+   "es": "1.º",
+   "fuente": "seguisb.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 46,
+   "alto": 20,
+   "margen": 4,
+   "estilo": {
+    "arriba": [
+     255,
+     250,
+     150
+    ],
+    "abajo": [
+     255,
+     225,
+     40
+    ],
+    "contorno": null,
+    "brillo": [
+     255,
+     200,
+     0
+    ]
+   }
+  },
+  {
+   "caja": [
+    70,
+    216,
+    124,
+    250
+   ],
+   "en": "2nd",
+   "es": "2.º",
+   "fuente": "seguisb.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 48,
+   "alto": 20,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    133,
+    216,
+    187,
+    250
+   ],
+   "en": "3rd",
+   "es": "3.º",
+   "fuente": "seguisb.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 48,
+   "alto": 20,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    198,
+    216,
+    252,
+    250
+   ],
+   "en": "4th",
+   "es": "4.º",
+   "fuente": "seguisb.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 48,
+   "alto": 20,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    284,
+    205,
+    384,
+    228
+   ],
+   "en": "POINT ×2",
+   "es": "PUNTOS ×2",
+   "fuente": "seguisb.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 94,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    427,
+    222,
+    509,
+    236
+   ],
+   "en": "Remaining",
+   "es": "Bolas",
+   "fuente": "seguisb.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 76,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 11,
+   "dejar": true
+  },
+  {
+   "caja": [
+    427,
+    236,
+    509,
+    252
+   ],
+   "en": "snowballs",
+   "es": "restantes",
+   "fuente": "seguisb.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 76,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 11,
+   "dejar": true
+  }
+ ]
+}

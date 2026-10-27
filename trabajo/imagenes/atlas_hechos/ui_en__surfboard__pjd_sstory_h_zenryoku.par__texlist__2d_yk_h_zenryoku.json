@@ -1,0 +1,70 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_h_zenryoku.par/texlist/2d_yk_h_zenryoku",
+ "fuente": "segoeui.ttf",
+ "margen": 6,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    130,
+    64,
+    660,
+    150
+   ],
+   "en": "Let's Start !",
+   "es": "¡Empecemos!",
+   "fuente": "timesbi.ttf",
+   "efecto": "brillo",
+   "color": [
+    255,
+    228,
+    240
+   ],
+   "alin": "centro",
+   "ancho_max": 500,
+   "alto": 62
+  },
+  {
+   "caja": [
+    0,
+    170,
+    500,
+    240
+   ],
+   "en": "Let's Start !",
+   "es": "¡Empecemos!",
+   "fuente": "timesbi.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 480,
+   "alto": 62
+  },
+  {
+   "caja": [
+    532,
+    178,
+    906,
+    212
+   ],
+   "en": "Running Girl",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    703,
+    389,
+    857,
+    420
+   ],
+   "en": "Running Girl",
+   "es": "",
+   "dejar": true
+  }
+ ]
+}

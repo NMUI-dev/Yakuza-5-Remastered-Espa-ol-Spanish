@@ -1,0 +1,43 @@
+{
+ "textura": "ui_en/surfboard/pjd_pause_another_01.par/texlist/2d_yk_pause_another_01",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    34,
+    50,
+    167,
+    77
+   ],
+   "en": "Taxi Driver",
+   "ocr": "TaxiDriver",
+   "es": "Taxista",
+   "fuente": "timesbi.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 129,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    305,
+    206,
+    512,
+    247
+   ],
+   "en": "KAZUMA KIRYU",
+   "ocr": "KAZUMA KIRYU",
+   "es": "",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 203
+  }
+ ]
+}

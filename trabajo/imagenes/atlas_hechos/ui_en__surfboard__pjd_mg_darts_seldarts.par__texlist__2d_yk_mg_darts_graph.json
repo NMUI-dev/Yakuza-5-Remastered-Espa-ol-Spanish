@@ -1,0 +1,68 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_darts_seldarts.par/texlist/2d_yk_mg_darts_graph",
+ "fuente": "segoeuib.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    419,
+    0,
+    511,
+    20
+   ],
+   "en": "Accuracy",
+   "ocr": "Accuracy",
+   "es": "Precisión",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 88
+  },
+  {
+   "caja": [
+    419,
+    22,
+    485,
+    42
+   ],
+   "en": "Design",
+   "ocr": "Design",
+   "es": "Diseño",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 62
+  },
+  {
+   "caja": [
+    419,
+    44,
+    480,
+    64
+   ],
+   "en": "Power",
+   "ocr": "Power",
+   "es": "Potencia",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 57
+  },
+  {
+   "caja": [
+    419,
+    65,
+    497,
+    85
+   ],
+   "en": "stability",
+   "ocr": "Stability",
+   "es": "Estabilidad",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 74
+  }
+ ]
+}

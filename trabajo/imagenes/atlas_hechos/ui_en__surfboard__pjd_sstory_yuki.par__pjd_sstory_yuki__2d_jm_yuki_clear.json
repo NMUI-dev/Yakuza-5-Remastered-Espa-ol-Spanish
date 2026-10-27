@@ -1,0 +1,74 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_yuki.par/pjd_sstory_yuki/2d_jm_yuki_clear",
+ "fuente": "timesbd.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    0,
+    256,
+    64
+   ],
+   "en": "Mission",
+   "es": "M i s i ó n",
+   "fuente": "timesbd.ttf",
+   "alin": "centro",
+   "ancho_max": 240,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     250
+    ],
+    "contorno": null,
+    "brillo": [
+     210,
+     155,
+     0
+    ]
+   },
+   "alto": 34
+  },
+  {
+   "caja": [
+    0,
+    64,
+    256,
+    128
+   ],
+   "en": "Complete",
+   "es": "C u m p l i d a",
+   "fuente": "timesbd.ttf",
+   "alin": "centro",
+   "ancho_max": 246,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     250
+    ],
+    "contorno": null,
+    "brillo": [
+     210,
+     155,
+     0
+    ]
+   },
+   "alto": 37
+  }
+ ]
+}

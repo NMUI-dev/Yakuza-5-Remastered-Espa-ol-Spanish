@@ -1,0 +1,23 @@
+{
+ "textura": "ui_en/surfboard/pjd_onedari_info.par/texlist_0001/2d_yk_onedari_info",
+ "fuente": "segoeuiz.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    116,
+    132,
+    144
+   ],
+   "en": "Request made...",
+   "ocr": "Request made...",
+   "es": "Petición hecha...",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 130
+  }
+ ]
+}

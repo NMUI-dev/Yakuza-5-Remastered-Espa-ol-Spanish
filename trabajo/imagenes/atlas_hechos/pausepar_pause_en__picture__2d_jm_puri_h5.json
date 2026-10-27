@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_h5",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    105,
+    157,
+    398,
+    255
+   ],
+   "en": "Love to See You Smile!",
+   "ocr": "LovetoSee Smile!",
+   "es": "¡Nos encanta verte sonreír!",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 293
+  }
+ ]
+}

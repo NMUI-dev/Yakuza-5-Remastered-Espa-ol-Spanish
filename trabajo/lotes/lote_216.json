@@ -1,0 +1,812 @@
+[
+{
+"id": 46538,
+"en": "Now then, Saegusa-sensei. If you would start the lesson.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46539,
+"en": "All right. Well, Sawamura-san, it looks like you're the only\none here, but let's begin, shall we?",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46540,
+"en": "We'll begin with a lesson on proper language usage.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46541,
+"en": "As you know, many people are guilty of misusing language in\ntheir everyday lives.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46542,
+"en": "Of course, this doesn't pose much of a problem when speaking\nto friends or family, but it won't do for an announcer\nspeaking on national TV.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46543,
+"en": "How embarrassing would it be to make a mistake when\nspeaking in front of millions?",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46544,
+"en": "That would be embarrassing, wouldn't it?",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46545,
+"en": "This brings us to your first problem to consider. I will\ngive you three sentences. You tell me which of them\ncontains a mistake.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46546,
+"en": "So I choose the sentence that is incorrect?",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46547,
+"en": "Precisely. Here we go!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46548,
+"en": "(Hmm. Which sentence has a mistake in it?)",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46549,
+"en": "I think number one, \"He is just as tall as Alyssa and I,\" is\nincorrect.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46550,
+"en": "Oh, too bad! That one is correct. Some people say \"as tall\nas me,\" but \"as\" is a conjunction, and pronoun forms have to\nmatch on either side.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46551,
+"en": "Right. \"He\" is the subjective case of the pronoun, so \"I\" must also be the subjective case when making this comparison using \"as.\"",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46552,
+"en": "The one that is incorrect is number two, \"Alyssa and me did\nour homework together.\"",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46553,
+"en": "What's incorrect about it?",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46554,
+"en": "Well, the people who did their homework are the subject of\nthe sentence, so the pronoun should be in subjective form:\ni.e., \"I,\" not \"me.\"",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46555,
+"en": "Oh, I see! You do hear that kind of thing quite a lot,\nthough, don't you?",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46556,
+"en": "Yes, it's commonly used and readily understood but still\nincorrect nonetheless.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46557,
+"en": "Let's continue on to the next problem, shall we?",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46558,
+"en": "I think number two, \"Alyssa and me did our homework\ntogether,\" is incorrect.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46559,
+"en": "That's correct! Very good, Sawamura-san!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46560,
+"en": "Well! You're quite good at this, aren't you?",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46561,
+"en": "I don't think that one was all that difficult...",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46562,
+"en": "Perhaps, but I believe a lot of people wouldn't have known\nthe answer.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46563,
+"en": "Indeed. The people who did their homework are the subject of\nthe sentence, so the pronoun should be in subjective form:\ni.e., \"I,\" not \"me.\"",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46564,
+"en": "But you do hear that kind of thing quite a lot, though, don't you?",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46565,
+"en": "I think number three, \"This is as good as it gets for Alyssa\nand me,\" is incorrect.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46566,
+"en": "Oh, too bad! That one is correct. Some people might say \"for\nAlyssa and I,\" but \"for\" is a preposition, so the pronoun should be objective.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46567,
+"en": "Oh, I see! \"Me\" is an object of the preposition.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46568,
+"en": "Oh, I see! You do hear that kind of thing a lot, though,\ndon't you?",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46569,
+"en": "Now, then. Which one of these three sentences contains a\nmistake?",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46570,
+"en": "I think number one, \"I literally cried for an hour,\" is\nincorrect.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46571,
+"en": "No, that one is fine. Many people do tend to use \"literally\"\nincorrectly, however, when something isn't the actual,\nliteral truth.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46572,
+"en": "For example, \"I literally cried my eyes out,\" when, of course, they really didn't.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46573,
+"en": "The one that is incorrect is number three, \"If I'd known, I\nwould of done it differently.\"",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46574,
+"en": "Well, it should be \"would have,\" not \"would of.\" People do\nmisinterpret \"would have\" as \"would of\" fairly often in\ncolloquial speech, but they are in fact incorrect.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46575,
+"en": "Yes, I do hear those a lot.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46576,
+"en": "Hehe. Interesting, isn't it? Let's keep going, shall we?",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46577,
+"en": "I think number two, \"I will do it regardless of the cost,\"\nis incorrect.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46578,
+"en": "No, that one is fine. The one that is incorrect is number\nthree, \"If I'd known, I would of done it differently.\"",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46579,
+"en": "I think number three, \"If I'd known, I would of done it\ndifferently,\" is incorrect.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46580,
+"en": "Wonderful! You are correct!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46581,
+"en": "Oh, I'm so glad!",
+"ctx": "diálogo uid010c0de4 + diálogo uid016901c9 …"
+},
+{
+"id": 46582,
+"en": "Saegusa-sensei, could you please explain what the mistake\nis? I'm afraid I'm not sure, myself.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46583,
+"en": "Fujimoto-san, I'm appalled! How can you claim to represent\nour school with such a shaky understanding of the language?",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46584,
+"en": "Please forgive me!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46585,
+"en": "It should be \"would have,\" not \"would of.\" People do\nmisinterpret \"would have\" as \"would of\" fairly often in\ncolloquial speech, but they are in fact incorrect.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46586,
+"en": "I think number one, \"I accidently took the wrong bus,\" is\nincorrect.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46587,
+"en": "I see. And what makes you say that?",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46588,
+"en": "It should be \"accidentally,\" not \"accidently.\"",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46589,
+"en": "You're exactly right! I'm very impressed, Sawamura-san!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46590,
+"en": "Well, that's enough of an introduction to proper language\nusage. There are other skills that need to be cultivated as\nwell for voice-related work.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46591,
+"en": "I think number two, \"He made a complete 180-degree\nturnabout,\" is incorrect.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46592,
+"en": "I think number three, \"I love fruit⑬e.g., bananas and\ngrapes,\" is incorrect.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46593,
+"en": "No, actually, that one is fine. The one that is incorrect is\nnumber one, \"I accidently took the wrong bus.\"",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46594,
+"en": "Really? What's wrong with that one?",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46595,
+"en": "My goodness! I didn't even notice that.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46596,
+"en": "Yes. Proper language use is a difficult thing, which is why\nour course comes so highly recommended. I do hope you'll\nconsider enrolling.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46597,
+"en": "(Hmm. I only came because she said it was free, but I guess\nthey're going to try and persuade me to sign up.)",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46598,
+"en": "But you are a very bright student of proper language usage,\naren't you? You got all of the problems correct, after all!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46599,
+"en": "Hmm. Yes. I'm starting to worry there isn't much we can\nteach you here.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46600,
+"en": "But Saegusa-sensei! Surely there must be something else!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46601,
+"en": "Ahem! No, you're right, of course. There is plenty more to\nlearn! Plenty! Let's move on to a new topic, shall we?",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46602,
+"en": "Now, through the use of tongue twisters, we'll practice\nspeaking rapidly yet clearly, an essential skill for any announcer!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46603,
+"en": "That said, Sawamura-san, you did very well indeed! You got\nmost of the problems correct!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46604,
+"en": "But what do you think so far, Sawamura-san? Our course is\npacked full with useful information, wouldn't you agree?",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46605,
+"en": "Er⑬ Yes, of course.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46606,
+"en": "I sincerely hope you'll enroll and continue studying with\nus!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46607,
+"en": "Now don't get ahead of yourself, Saegusa-sensei! The class\nisn't over just yet!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46608,
+"en": "Right! Now, through the use of tongue twisters, we'll\npractice being able to speak rapidly yet clearly, an\nessential skill for any announcer!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46609,
+"en": "Tongue twisters?",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46610,
+"en": "That's right. Clear enunciation and fluency are essential\nfor any voice-related career!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46611,
+"en": "Are you ready to start? I'll give you a tongue twister, and\nyou'll say it as fast as you can.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46612,
+"en": "We'll start with one of the more common tongue twisters,\n\"She sells seashells.\"",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46613,
+"en": "She sells seasnells by the seashore!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46614,
+"en": "She sells seashells by the seasnore!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46615,
+"en": "No, I'm afraid that's incorrect. It's \"She sells seashells\nby the seashore,\" isn't that right?",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46616,
+"en": "Yes, I'm afraid I got a little tongue-tied.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46617,
+"en": "Don't you worry, Sawamura-san! Keep practicing and study\nhard, and you'll get there!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46618,
+"en": "Fujimoto-san is right. Now, let's try a different tongue\ntwister, shall we?",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46619,
+"en": "Um, let's see...",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46620,
+"en": "Too slow! I'm afraid you took much too long, Sawamura-san.\nThe point is to say it as quickly as you can.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46621,
+"en": "Yes, perhaps I was being too careful.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46622,
+"en": "She sells seashells by the seashore!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46623,
+"en": "Very good! Now, say it again!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46624,
+"en": "Great! One more time!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46625,
+"en": "That was perfect! You're quite a fluent speaker!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46626,
+"en": "That one was just a warmup, however. On to the next tongue\ntwister!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46627,
+"en": "This next one is also fairly well-known. It's the one about\n\"Peter Piper.\"",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46628,
+"en": "Peter Piper pecked a pick of pickled peppers!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46629,
+"en": "Peter Piper picked a peck of peckled pippers!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46630,
+"en": "Nope, sorry. It's supposed to be \"Peter Piper picked a peck\nof pickled peppers.\"",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46631,
+"en": "Wow, it's more difficult than I thought it would be.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46632,
+"en": "That's all right! You can't be expected to do everything\nperfectly right from the start! That's what training is for.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46633,
+"en": "Still, this last one is going to be quite difficult. Are you\nsure you're ready?",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46634,
+"en": "Too slow! I'm afraid you took much too long, Miss Sawamura.\nDon't worry about making a mistake. Just go for it!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46635,
+"en": "Okay, I'll try.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46636,
+"en": "Peter Piper picked a peck of pickled peppers!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46637,
+"en": "Great! Say it one last time!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46638,
+"en": "You did it, Sawamura-san! Well done!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46639,
+"en": "That was amazing!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46640,
+"en": "Now, this last one should prove quite difficult. Are you\nsure you're ready?",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46641,
+"en": "And now for the big finish! This one is a little less\ncommon. Have you heard it before?",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46642,
+"en": "It goes, \"Many an anemone sees an enemy anemone.\" And please note that it's pronounced \"uh-NEM-uh-nee.\"",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46643,
+"en": "Anemone? Those colorful sea creatures with the tentacles,\nright? \"Many an anemone sees an enemy anemone.\" Okay. I'll\ndo my best!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46644,
+"en": "Many a nemone sees a nenemy nemone!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46645,
+"en": "\"Many a nemone\"? That wasn't quite right, was it?",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46646,
+"en": "Many an enemy sees an anemone enemy!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46647,
+"en": "\"Many an enemy\"? That wasn't quite right, was it?",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46648,
+"en": "Hmm. That one is really hard!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46649,
+"en": "Not to worry! You'd have to be a professional to have this\none come easily. It takes training, and that's what we're\nhere for.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46650,
+"en": "That was too slow, I'm afraid, Sawamura-san.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46651,
+"en": "Many an anemone sees an enemy anemone!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46652,
+"en": "I can't believe it! You got it exactly right! That was\nincredible, Sawamura-san!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46653,
+"en": "I can't believe it, either!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46654,
+"en": "Ooh, I'm so happy!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46655,
+"en": "I'm very impressed! You must have a natural aptitude for\nthis sort of thing.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46656,
+"en": "That concludes our introductory class. Thank you very much\nfor coming today.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46657,
+"en": "Thank you for such an interesting lesson!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46658,
+"en": "Well... I really wanted to recommend that you enroll in our\nschool...",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46659,
+"en": "Nevertheless, Sawamura-san, it would seem you got all of our\npractice problems perfectly correct.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46660,
+"en": "I'm afraid you've left me without a way to persuade you to\njoin.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46661,
+"en": "And after Saegusa-sensei gave you this introductory\nlesson for free and everything!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46662,
+"en": "I'm sorry, Ms. Fujimoto, but I'm afraid there's really\nnothing left for me to teach Sawamura-san.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46663,
+"en": "Next time, I hope you can bring me a student who requires\na bit more help.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46664,
+"en": "Yes, I'll do my best.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46665,
+"en": "(Aw, they seem like such nice people. I feel kind of guilty,\nbut at least now I can have confidence in my speaking\nskills!)",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46666,
+"en": "You already possess some solid skills, but enrolling in our\nschool will help you refine them. Have you any interest in\nbeing an announcer?",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46667,
+"en": "What do you say, Miss Sawamura? What a wonderful career that\nwould be!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46668,
+"en": "(I really don't have the time for that right now. I only\ntook the class because it was free.)",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46669,
+"en": "I know what you're thinking. Your life is so busy already, and you just don't have the time.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46670,
+"en": "Yes, I'm afraid that's true. I'm sorry, but I can't enroll\nin your school...",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46671,
+"en": "Not to worry! We also have a home-study kit for busy\nstudents like you. You can train in your spare time at home!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46672,
+"en": "The kit includes a textbook on proper language usage, and an\nanthology of one thousand tongue twisters as well! They can\nbe yours for only 500,000 yen!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46673,
+"en": "What!? 500,000 yen!?",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46674,
+"en": "At least, that's the usual price. But because you already\nhave such a solid foundation, we would like to give you a\ndiscounted price of only 490,000 yen!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46675,
+"en": "I'm afraid that, if you truly are interested in a voice-related career, you would need quite a bit of training here at our school first.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46676,
+"en": "I'm sure you could tell from the introductory class that you\nhave many areas of weakness.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46677,
+"en": "But don't you worry, Sawamura-san! We can help you! We'll\nsupport you every step of the way as you work toward your dreams!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46678,
+"en": "But, I...",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46679,
+"en": "At least, that's the usual price. But because you already\nhave some foundation, we would give you a discounted price\nof only 490,000 yen!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46680,
+"en": "Oh, no, Saegusa-sensei! Are you sure? That's far too much\nof a discount for these wonderful materials!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46681,
+"en": "Yes, well, Miss Sawamura is truly special. She deserves the\nopportunity! What do you say, Miss Sawamura? Don't let this\nchance slip away!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46682,
+"en": "But I don't have that kind of money.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46683,
+"en": "Think of it as an investment in your future! It may seem like a\nlot of money now, but the return will be well worth it!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46684,
+"en": "Both me and Fujimoto-san think that, with these materials,\nyou will learn the proper use of the language and gain\nconfidence in your skills!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46685,
+"en": "\"Me and Fujimoto-san think\"? I thought you said that's\nincorrect. Shouldn't it be \"Fujimoto-san and I think\"?",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46686,
+"en": "Saegusa-sensei! What were you thinking!?",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46687,
+"en": "I'm sorry, but I don't have that kind of money. I'm afraid I\nwon't be buying your study kit.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46688,
+"en": "But they really are wonderful materials, well worth the price.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46689,
+"en": "Do they contain example sentences such as \"Me and\nFujimoto-san think\"?",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46690,
+"en": "Oh, uh, well, that was just a simple slip of the tongue on\nmy part.",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46691,
+"en": "I'm sorry, but I'm afraid I have to be going now. I really\ndid enjoy the lesson, though. Thank you very much for your\ntime!",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46692,
+"en": "Darn. I really thought we had her...",
+"ctx": "diálogo uid010c0de4"
+},
+{
+"id": 46693,
+"en": "Wait, what!? All these guys... By yourself? Screw this, I'm\noutta here!",
+"ctx": "diálogo uid010c0de8"
+},
+{
+"id": 46694,
+"en": "You're amazing, Akiyama-san.",
+"ctx": "diálogo uid010c0de8"
+},
+{
+"id": 46695,
+"en": "Heh. You all right?",
+"ctx": "diálogo uid010c0de8"
+},
+{
+"id": 46696,
+"en": "I'm so glad you were my manager today, Akiyama-san.",
+"ctx": "diálogo uid010c0de8"
+},
+{
+"id": 46697,
+"en": "But now this really is the end, isn't it?",
+"ctx": "diálogo uid010c0de8"
+},
+{
+"id": 46698,
+"en": "Yeah. That's how it goes.",
+"ctx": "diálogo uid010c0de8"
+},
+{
+"id": 46699,
+"en": "I get to meet all kinds of people in this job, but things\ntend to move so quickly, I usually never see them again.",
+"ctx": "diálogo uid010c0de8"
+}
+]

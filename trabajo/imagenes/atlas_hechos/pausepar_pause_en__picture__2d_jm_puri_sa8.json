@@ -1,0 +1,22 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_sa8",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    19,
+    189,
+    488,
+    237
+   ],
+   "en": "Gimme miso cutlets!",
+   "ocr": "miso cutlets!",
+   "es": "¡Dame chuletas de miso!",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro"
+  }
+ ]
+}

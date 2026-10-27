@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_pause_en/picture/caption/2d_jm_bc_ss_assign",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    78,
+    78,
+    946,
+    177
+   ],
+   "en": "NO TITLE ASSIGNED",
+   "ocr": "NO TITLE ASSIGNED",
+   "es": "SIN TÍTULO ASIGNADO",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 864
+  }
+ ]
+}

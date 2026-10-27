@@ -1,0 +1,119 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_taxi.par/pjd_sstory_taxi_texlist/2d_jm_taxi",
+ "fuente": "verdana.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    400,
+    0,
+    456,
+    24
+   ],
+   "en": "km/h",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    64,
+    480,
+    120,
+    512
+   ],
+   "en": "time",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    280,
+    240,
+    464,
+    288
+   ],
+   "en": "Step on the pedal!",
+   "es": "¡Pisa el acelerador!",
+   "fuente": "verdana.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     0,
+     0,
+     0
+    ],
+    "abajo": [
+     0,
+     0,
+     0
+    ],
+    "contorno": null,
+    "brillo": [
+     255,
+     255,
+     255
+    ]
+   },
+   "alin": "centro",
+   "ancho_max": 178
+  },
+  {
+   "caja": [
+    248,
+    291,
+    344,
+    310
+   ],
+   "en": "Total Time",
+   "es": "Tiempo total",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 92,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    344,
+    291,
+    424,
+    310
+   ],
+   "en": "Distance",
+   "es": "Distancia",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 78,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    424,
+    291,
+    464,
+    310
+   ],
+   "en": "Lap",
+   "es": "Vuelta",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 38,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  }
+ ]
+}

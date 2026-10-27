@@ -1,0 +1,417 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_roulette_setu0",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    448,
+    10,
+    575,
+    44
+   ],
+   "en": "Roulette",
+   "ocr": "Roulette",
+   "es": "Ruleta",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 123,
+   "dejar": true
+  },
+  {
+   "caja": [
+    38,
+    55,
+    894,
+    88
+   ],
+   "en": "Place chips on the layout to predict where the ball will land.",
+   "ocr": "Place chips on the layout to predict where the ball will land.",
+   "es": "Coloca Fichas en el Diseño para predecir dónde caerá la BOLA.",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 852,
+   "dejar": true
+  },
+  {
+   "caja": [
+    32,
+    87,
+    567,
+    123
+   ],
+   "en": "There is a time limit for placing bets.",
+   "ocr": "·There is a time limit for placing bets.",
+   "es": "Hay un Límite de tiempo para hacer APUESTAS.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 531,
+   "dejar": true
+  },
+  {
+   "caja": [
+    33,
+    122,
+    594,
+    157
+   ],
+   "en": "Each space has different payout odds.",
+   "ocr": "·Each space has different payout odds.",
+   "es": "Cada espacio tiene distintos Impares de Pago.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 557,
+   "dejar": true
+  },
+  {
+   "caja": [
+    29,
+    156,
+    966,
+    192
+   ],
+   "en": "Placing bets on the lines can cover between two and six numbers.",
+   "ocr": "· Placing bets on the lines can cover between two and six numbers.",
+   "es": "Las APUESTAS en las líneas pueden cubrir entre dos y seis números.",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 933,
+   "dejar": true
+  },
+  {
+   "caja": [
+    731,
+    199,
+    813,
+    232
+   ],
+   "en": "2to1",
+   "ocr": "2to1",
+   "es": "2 a 1",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 78,
+   "dejar": true
+  },
+  {
+   "caja": [
+    21,
+    229,
+    235,
+    260
+   ],
+   "en": "Special numbers.",
+   "ocr": "Special numbers.",
+   "es": "Números Especiales.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 210,
+   "dejar": true
+  },
+  {
+   "caja": [
+    688,
+    238,
+    708,
+    317
+   ],
+   "en": "2tol",
+   "ocr": "2tol2tol",
+   "es": "2 a 1",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 20,
+   "dejar": true
+  },
+  {
+   "caja": [
+    730,
+    229,
+    946,
+    260
+   ],
+   "en": "Bet on a column.",
+   "ocr": "Bet on a column.",
+   "es": "Apuesta por una columna.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 212,
+   "dejar": true
+  },
+  {
+   "caja": [
+    19,
+    258,
+    292,
+    290
+   ],
+   "en": "Neither black nor red.",
+   "ocr": "Neither black nor red.",
+   "es": "Ni Negro ni Rojo.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 269,
+   "dejar": true
+  },
+  {
+   "caja": [
+    730,
+    297,
+    955,
+    329
+   ],
+   "en": "Bet on either low",
+   "ocr": "Bet on either low",
+   "es": "Apuesta por los números de categoría Baja o Alta.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 221,
+   "dejar": true
+  },
+  {
+   "caja": [
+    21,
+    323,
+    258,
+    354
+   ],
+   "en": "Either red or black.",
+   "ocr": "Eitherredorblack.",
+   "es": "O rojo o Negro.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 233,
+   "dejar": true
+  },
+  {
+   "caja": [
+    376,
+    322,
+    423,
+    348
+   ],
+   "en": "1ST. 12",
+   "ocr": "[ST.12",
+   "es": "1ER. 12",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 43,
+   "dejar": true
+  },
+  {
+   "caja": [
+    489,
+    323,
+    537,
+    347
+   ],
+   "en": "2ND. 12",
+   "ocr": "2ND.12",
+   "es": "2DO. 12",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 44,
+   "dejar": true
+  },
+  {
+   "caja": [
+    603,
+    322,
+    653,
+    347
+   ],
+   "en": "3RD. 12",
+   "ocr": "3RD.12",
+   "es": "3ER. 12",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 46,
+   "dejar": true
+  },
+  {
+   "caja": [
+    732,
+    330,
+    950,
+    358
+   ],
+   "en": "or high numbers.",
+   "ocr": "orhighnumbers.",
+   "es": "O puedes elegir Números de categoría Alta.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 214,
+   "dejar": true
+  },
+  {
+   "caja": [
+    21,
+    358,
+    200,
+    395
+   ],
+   "en": "1st/2nd/3rd",
+   "ocr": "1st/2nd/3rd",
+   "es": "1er/2do/3er",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 175,
+   "dejar": true
+  },
+  {
+   "caja": [
+    406,
+    353,
+    450,
+    377
+   ],
+   "en": "EVEN",
+   "ocr": "EVEN",
+   "es": "PAR",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 40,
+   "dejar": true
+  },
+  {
+   "caja": [
+    579,
+    353,
+    619,
+    377
+   ],
+   "en": "ODD",
+   "ocr": "ODD",
+   "es": "IMPAR",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 36,
+   "dejar": true
+  },
+  {
+   "caja": [
+    19,
+    391,
+    485,
+    422
+   ],
+   "en": "Bet on low, middle, or high numbers.",
+   "ocr": "Bet on low, middle, or high numbers.",
+   "es": "Apuesta por números de categoría Baja, Media o Alta.",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 462,
+   "dejar": true
+  },
+  {
+   "caja": [
+    21,
+    429,
+    168,
+    463
+   ],
+   "en": "Even Odd",
+   "ocr": "Even Odd",
+   "es": "Par Impares",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 143,
+   "dejar": true
+  },
+  {
+   "caja": [
+    557,
+    428,
+    707,
+    462
+   ],
+   "en": "Red/Black",
+   "ocr": "Red/Black",
+   "es": "Rojo/Negro",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 146,
+   "dejar": true
+  },
+  {
+   "caja": [
+    19,
+    459,
+    463,
+    491
+   ],
+   "en": "Bet on either even or odd numbers.",
+   "ocr": "Bet on either evenor odd numbers.",
+   "es": "Apuesta por los números Par o Impares.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 440,
+   "dejar": true
+  },
+  {
+   "caja": [
+    558,
+    460,
+    1003,
+    491
+   ],
+   "en": "Bet on either red or black numbers.",
+   "ocr": "Betoneitherredorblacknumbers.",
+   "es": "Apuesta por el rojo o el Negro.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 441,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: lo hace el PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

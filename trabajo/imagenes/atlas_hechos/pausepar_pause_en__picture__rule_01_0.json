@@ -1,0 +1,267 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_01_0",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    86,
+    1,
+    242,
+    35
+   ],
+   "en": "01 GAMES",
+   "es": "JUEGOS 01",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "centro",
+   "ancho_max": 150,
+   "mediana": false
+  },
+  {
+   "caja": [
+    279,
+    3,
+    455,
+    32
+   ],
+   "en": "Introduction",
+   "es": "Introducción",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 170,
+   "mediana": false
+  },
+  {
+   "caja": [
+    294,
+    101,
+    940,
+    131
+   ],
+   "en": "Objective: Reduce score to exactly zero.",
+   "es": "Objetivo: reducir la puntuación a cero exacto.",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 640
+  },
+  {
+   "caja": [
+    280,
+    142,
+    360,
+    173
+   ],
+   "en": "Note",
+   "es": "Nota",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 74,
+   "mediana": false
+  },
+  {
+   "caja": [
+    530,
+    177,
+    656,
+    214
+   ],
+   "en": "BUST",
+   "es": "PASA",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "fondo": "lama",
+   "alin": "centro",
+   "ancho_max": 120,
+   "mediana": false
+  },
+  {
+   "caja": [
+    293,
+    214,
+    672,
+    244
+   ],
+   "en": "If your score exceeds zero, you bust.",
+   "es": "Si bajas de cero, te pasas.",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 373
+  },
+  {
+   "caja": [
+    153,
+    253,
+    520,
+    286
+   ],
+   "en": "<Victory Conditions>",
+   "es": "<Condiciones de victoria>",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 361
+  },
+  {
+   "caja": [
+    151,
+    281,
+    1000,
+    313
+   ],
+   "en": "Be the first to reduce your score to exactly zero.",
+   "es": "Sé el primero en reducir tu puntuación a cero exacto.",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 843
+  },
+  {
+   "caja": [
+    153,
+    335,
+    400,
+    368
+   ],
+   "en": "<Summary>",
+   "es": "<Resumen>",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 241
+  },
+  {
+   "caja": [
+    180,
+    362,
+    700,
+    394
+   ],
+   "en": "Reduce score to zero.",
+   "es": "Reducir la puntuación a cero.",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 514
+  },
+  {
+   "caja": [
+    180,
+    389,
+    800,
+    420
+   ],
+   "en": "Exceeding zero results in a bust.",
+   "es": "Si bajas de cero, te pasas.",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 614
+  },
+  {
+   "caja": [
+    174,
+    416,
+    1000,
+    448
+   ],
+   "en": "A bust causes an immediate player change. Your score",
+   "es": "Al pasarte, el turno cambia de inmediato. Tu puntuación",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 820
+  },
+  {
+   "caja": [
+    175,
+    446,
+    1000,
+    473
+   ],
+   "en": "returns to the amount at the start of the round.",
+   "es": "vuelve a la que tenías al inicio de la ronda.",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 819
+  }
+ ]
+}

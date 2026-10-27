@@ -1,0 +1,17 @@
+# third-party tools (download them, see README)
+herramientas/partool/
+herramientas/reARMP/
+herramientas/texconv/
+herramientas/fuentes_img/
+# game files and build output (never commit)
+trabajo/extraido*/
+trabajo/salida*/
+trabajo/originales/
+trabajo/imagenes/es*/
+trabajo/textos_en.jsonl
+trabajo/unicos_en.json
+entrega_v101/
+*.dds
+*.par
+*.png
+__pycache__/

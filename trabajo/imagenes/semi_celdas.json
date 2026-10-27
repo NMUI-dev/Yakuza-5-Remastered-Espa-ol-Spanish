@@ -1,0 +1,1012 @@
+{
+ "ui_en/surfboard/pjd_sstory_taxi_result.par/texlist_0001/2d_jm_taxi_result02": [
+  {
+   "text": "Base Reward",
+   "is_text": true,
+   "partial": false,
+   "family": "sans",
+   "italic": true,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    0,
+    0,
+    168,
+    24
+   ],
+   "opaco": false
+  },
+  {
+   "text": "ir",
+   "is_text": true,
+   "partial": true,
+   "family": "serif",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    114,
+    0,
+    124,
+    96
+   ],
+   "opaco": false
+  },
+  {
+   "text": "Bonus",
+   "is_text": true,
+   "partial": false,
+   "family": "sans",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    0,
+    24,
+    168,
+    48
+   ],
+   "opaco": false
+  },
+  {
+   "text": "Current Points",
+   "is_text": true,
+   "partial": false,
+   "family": "sans",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    0,
+    48,
+    168,
+    72
+   ],
+   "opaco": false
+  },
+  {
+   "text": "Driver Level",
+   "is_text": true,
+   "partial": false,
+   "family": "sans",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    0,
+    72,
+    168,
+    96
+   ],
+   "opaco": false
+  },
+  {
+   "text": "Best Time",
+   "is_text": true,
+   "partial": false,
+   "family": "sans",
+   "italic": true,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    0,
+    96,
+    96,
+    128
+   ],
+   "opaco": false
+  },
+  {
+   "text": "Total Time Mission",
+   "is_text": true,
+   "partial": true,
+   "family": "sans",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    0,
+    128,
+    176,
+    160
+   ],
+   "opaco": false
+  }
+ ],
+ "ui_en/surfboard/pjd_mg_darts_menu.par/texlist/2d_yk_mg_darts_sentaku": [
+  {
+   "text": "OPPONENT ST",
+   "is_text": true,
+   "partial": true,
+   "family": "sans",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    264,
+    2,
+    383,
+    32
+   ],
+   "opaco": false
+  },
+  {
+   "text": "OPPO",
+   "is_text": true,
+   "partial": false,
+   "family": "sans",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    0,
+    4,
+    291,
+    34
+   ],
+   "opaco": false
+  },
+  {
+   "text": "STANDARD",
+   "is_text": true,
+   "partial": false,
+   "family": "sans",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    355,
+    4,
+    492,
+    30
+   ],
+   "opaco": false
+  },
+  {
+   "text": "RULES",
+   "is_text": true,
+   "partial": false,
+   "family": "sans",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    239,
+    30,
+    301,
+    56
+   ],
+   "opaco": false
+  },
+  {
+   "text": "RANDOM",
+   "is_text": true,
+   "partial": false,
+   "family": "sans",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    355,
+    30,
+    466,
+    56
+   ],
+   "opaco": false
+  },
+  {
+   "text": "Darts",
+   "is_text": true,
+   "partial": false,
+   "family": "serif",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    239,
+    56,
+    286,
+    82
+   ],
+   "opaco": false
+  },
+  {
+   "text": "HIDDEN",
+   "is_text": true,
+   "partial": false,
+   "family": "sans",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    355,
+    56,
+    451,
+    82
+   ],
+   "opaco": false
+  },
+  {
+   "text": "RIC",
+   "is_text": true,
+   "partial": true,
+   "family": "sans",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    383,
+    62,
+    415,
+    165
+   ],
+   "opaco": false
+  },
+  {
+   "text": "Beginner",
+   "is_text": true,
+   "partial": false,
+   "family": "sans",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    239,
+    82,
+    317,
+    108
+   ],
+   "opaco": false
+  },
+  {
+   "text": "01",
+   "is_text": true,
+   "partial": false,
+   "family": "sans",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    355,
+    82,
+    383,
+    108
+   ],
+   "opaco": false
+  },
+  {
+   "text": "Intermediate",
+   "is_text": true,
+   "partial": false,
+   "family": "sans",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    239,
+    108,
+    343,
+    134
+   ],
+   "opaco": false
+  },
+  {
+   "text": "CRICKET",
+   "is_text": true,
+   "partial": false,
+   "family": "sans",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    355,
+    108,
+    462,
+    134
+   ],
+   "opaco": false
+  },
+  {
+   "text": "Advanced",
+   "is_text": true,
+   "partial": false,
+   "family": "sans",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    239,
+    134,
+    325,
+    160
+   ],
+   "opaco": false
+  },
+  {
+   "text": "COUNT-UP",
+   "is_text": true,
+   "partial": false,
+   "family": "sans",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    355,
+    134,
+    489,
+    160
+   ],
+   "opaco": false
+  },
+  {
+   "text": "",
+   "is_text": false,
+   "partial": false,
+   "family": "none",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    1,
+    143,
+    159,
+    189
+   ],
+   "opaco": true
+  },
+  {
+   "text": "",
+   "is_text": false,
+   "partial": false,
+   "family": "none",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    181,
+    143,
+    201,
+    189
+   ],
+   "opaco": true
+  },
+  {
+   "text": "",
+   "is_text": false,
+   "partial": false,
+   "family": "none",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    201,
+    143,
+    221,
+    189
+   ],
+   "opaco": true
+  },
+  {
+   "text": "3",
+   "is_text": true,
+   "partial": false,
+   "family": "serif",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    333,
+    151,
+    368,
+    256
+   ],
+   "opaco": false
+  },
+  {
+   "text": "Play Solo",
+   "is_text": true,
+   "partial": false,
+   "family": "sans",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    239,
+    160,
+    318,
+    186
+   ],
+   "opaco": false
+  },
+  {
+   "text": "301",
+   "is_text": true,
+   "partial": false,
+   "family": "sans",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    355,
+    160,
+    404,
+    186
+   ],
+   "opaco": false
+  },
+  {
+   "text": "501",
+   "is_text": true,
+   "partial": false,
+   "family": "sans",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    355,
+    186,
+    404,
+    212
+   ],
+   "opaco": false
+  },
+  {
+   "text": "HP",
+   "is_text": true,
+   "partial": false,
+   "family": "sans",
+   "italic": false,
+   "bold": true,
+   "effect": "none",
+   "caja": [
+    1,
+    191,
+    159,
+    237
+   ],
+   "opaco": true
+  },
+  {
+   "text": "",
+   "is_text": false,
+   "partial": false,
+   "family": "none",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    165,
+    191,
+    193,
+    237
+   ],
+   "opaco": true
+  },
+  {
+   "text": "",
+   "is_text": false,
+   "partial": false,
+   "family": "none",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    193,
+    191,
+    221,
+    237
+   ],
+   "opaco": true
+  },
+  {
+   "text": "701",
+   "is_text": true,
+   "partial": false,
+   "family": "sans",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    355,
+    212,
+    404,
+    238
+   ],
+   "opaco": false
+  },
+  {
+   "text": "901",
+   "is_text": true,
+   "partial": false,
+   "family": "sans",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    355,
+    238,
+    404,
+    264
+   ],
+   "opaco": false
+  },
+  {
+   "text": "HP",
+   "is_text": true,
+   "partial": false,
+   "family": "sans",
+   "italic": false,
+   "bold": true,
+   "effect": "none",
+   "caja": [
+    1,
+    239,
+    159,
+    285
+   ],
+   "opaco": true
+  },
+  {
+   "text": "HP",
+   "is_text": true,
+   "partial": false,
+   "family": "sans",
+   "italic": false,
+   "bold": true,
+   "effect": "none",
+   "caja": [
+    165,
+    239,
+    270,
+    285
+   ],
+   "opaco": true
+  },
+  {
+   "text": "",
+   "is_text": false,
+   "partial": false,
+   "family": "none",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    468,
+    283,
+    503,
+    340
+   ],
+   "opaco": true
+  },
+  {
+   "text": "HP",
+   "is_text": true,
+   "partial": false,
+   "family": "sans",
+   "italic": false,
+   "bold": true,
+   "effect": "none",
+   "caja": [
+    165,
+    287,
+    270,
+    333
+   ],
+   "opaco": true
+  },
+  {
+   "text": "",
+   "is_text": false,
+   "partial": false,
+   "family": "none",
+   "italic": false,
+   "bold": false,
+   "effect": "glow",
+   "caja": [
+    4,
+    291,
+    34,
+    321
+   ],
+   "opaco": false
+  },
+  {
+   "text": "",
+   "is_text": false,
+   "partial": false,
+   "family": "none",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    34,
+    291,
+    64,
+    321
+   ],
+   "opaco": true
+  },
+  {
+   "text": "",
+   "is_text": false,
+   "caja": [
+    77,
+    292,
+    105,
+    338
+   ],
+   "opaco": false
+  },
+  {
+   "text": "",
+   "is_text": false,
+   "partial": false,
+   "family": "none",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    105,
+    292,
+    133,
+    338
+   ],
+   "opaco": false
+  },
+  {
+   "text": "HP",
+   "is_text": true,
+   "partial": false,
+   "family": "sans",
+   "italic": false,
+   "bold": true,
+   "effect": "none",
+   "caja": [
+    362,
+    304,
+    372,
+    314
+   ],
+   "opaco": true
+  },
+  {
+   "text": "",
+   "is_text": false,
+   "caja": [
+    4,
+    321,
+    34,
+    351
+   ],
+   "opaco": true
+  },
+  {
+   "text": "HP",
+   "is_text": true,
+   "partial": false,
+   "family": "sans",
+   "italic": false,
+   "bold": true,
+   "effect": "none",
+   "caja": [
+    34,
+    321,
+    64,
+    351
+   ],
+   "opaco": true
+  },
+  {
+   "text": "",
+   "is_text": false,
+   "partial": false,
+   "family": "none",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    151,
+    368,
+    256,
+    413
+   ],
+   "opaco": false
+  },
+  {
+   "text": "",
+   "is_text": false,
+   "caja": [
+    2,
+    383,
+    32,
+    415
+   ],
+   "opaco": false
+  },
+  {
+   "text": "",
+   "is_text": false,
+   "caja": [
+    32,
+    383,
+    62,
+    415
+   ],
+   "opaco": false
+  },
+  {
+   "text": "",
+   "is_text": false,
+   "partial": false,
+   "family": "none",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    2,
+    415,
+    475,
+    447
+   ],
+   "opaco": false
+  },
+  {
+   "text": "OK",
+   "is_text": true,
+   "partial": false,
+   "family": "sans",
+   "italic": false,
+   "bold": true,
+   "effect": "none",
+   "caja": [
+    237,
+    442,
+    468,
+    497
+   ],
+   "opaco": false
+  },
+  {
+   "text": "Read the Rules",
+   "is_text": true,
+   "partial": false,
+   "family": "sans",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    107,
+    468,
+    283,
+    503
+   ],
+   "opaco": false
+  }
+ ],
+ "ui_en/surfboard/pjd_mg_blackjack.par/texlist/2d_yk_mg_blackjack_01": [
+  {
+   "text": "",
+   "is_text": false,
+   "partial": false,
+   "family": "none",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    8,
+    8,
+    420,
+    56
+   ],
+   "opaco": true
+  },
+  {
+   "text": "HP",
+   "is_text": true,
+   "partial": false,
+   "family": "sans",
+   "italic": false,
+   "bold": true,
+   "effect": "none",
+   "caja": [
+    478,
+    16,
+    498,
+    36
+   ],
+   "opaco": true
+  },
+  {
+   "text": "CHIPS\nRFT",
+   "is_text": true,
+   "partial": false,
+   "family": "serif",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    8,
+    66,
+    304,
+    114
+   ],
+   "opaco": true
+  },
+  {
+   "text": "DEAL",
+   "is_text": true,
+   "partial": false,
+   "family": "serif",
+   "italic": false,
+   "bold": true,
+   "effect": "none",
+   "caja": [
+    0,
+    152,
+    178,
+    170
+   ],
+   "opaco": true
+  },
+  {
+   "text": "",
+   "is_text": false,
+   "partial": false,
+   "family": "none",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    231,
+    161,
+    270,
+    168
+   ],
+   "opaco": true
+  },
+  {
+   "text": "BUST!",
+   "is_text": true,
+   "partial": false,
+   "family": "serif",
+   "italic": false,
+   "bold": true,
+   "effect": "none",
+   "caja": [
+    10,
+    231,
+    161,
+    270
+   ],
+   "opaco": false
+  },
+  {
+   "text": "WIN",
+   "is_text": true,
+   "partial": false,
+   "family": "serif",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    168,
+    231,
+    281,
+    270
+   ],
+   "opaco": false
+  },
+  {
+   "text": "DRAW",
+   "is_text": true,
+   "partial": false,
+   "family": "serif",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    146,
+    278,
+    304,
+    318
+   ],
+   "opaco": false
+  },
+  {
+   "text": "LO",
+   "is_text": true,
+   "partial": true,
+   "family": "serif",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    4,
+    284,
+    72,
+    312
+   ],
+   "opaco": false
+  },
+  {
+   "text": "s",
+   "is_text": true,
+   "partial": true,
+   "family": "sans",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    72,
+    284,
+    100,
+    312
+   ],
+   "opaco": false
+  },
+  {
+   "text": "MI",
+   "is_text": true,
+   "partial": true,
+   "family": "serif",
+   "italic": true,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    0,
+    394,
+    68,
+    462
+   ],
+   "opaco": true
+  },
+  {
+   "text": "N",
+   "is_text": true,
+   "partial": true,
+   "family": "serif",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    68,
+    394,
+    96,
+    462
+   ],
+   "opaco": true
+  },
+  {
+   "text": "MA",
+   "is_text": true,
+   "partial": true,
+   "family": "serif",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    0,
+    462,
+    68,
+    490
+   ],
+   "opaco": true
+  },
+  {
+   "text": "X",
+   "is_text": true,
+   "partial": true,
+   "family": "serif",
+   "italic": false,
+   "bold": false,
+   "effect": "none",
+   "caja": [
+    68,
+    462,
+    96,
+    490
+   ],
+   "opaco": true
+  }
+ ]
+}

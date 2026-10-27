@@ -1,0 +1,110 @@
+{
+ "textura": "pausepar_pause_en/picture/mail/2d_yk_kamiyama_ac",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    11,
+    3,
+    240,
+    63
+   ],
+   "en": "Now open",
+   "ocr": "Nowopen onEastGoshikiStreet!",
+   "es": "Ahora abierto",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 229,
+   "dejar": true
+  },
+  {
+   "caja": [
+    16,
+    49,
+    201,
+    87
+   ],
+   "en": "on East Goshiki Street!",
+   "ocr": "Comebyandhave",
+   "es": "en la calle Goshiki Este!",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 185,
+   "dejar": true
+  },
+  {
+   "caja": [
+    16,
+    78,
+    88,
+    115
+   ],
+   "en": "Come by and have a look!",
+   "ocr": "alook!",
+   "es": "¡Ven a pasar a Mirar!",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 72,
+   "dejar": true
+  },
+  {
+   "caja": [
+    134,
+    203,
+    225,
+    253
+   ],
+   "en": "Super deals",
+   "ocr": "Super, deals!",
+   "es": "Súper repartos",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 87,
+   "dejar": true
+  },
+  {
+   "caja": [
+    149,
+    215,
+    246,
+    274
+   ],
+   "en": "Super deals!",
+   "ocr": "Super, deals!",
+   "es": "¡Súper repartos!",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 93,
+   "dejar": true
+  },
+  {
+   "caja": [
+    74,
+    274,
+    238,
+    303
+   ],
+   "en": "KamiyamaWORKS",
+   "ocr": "KamiyamaWoRKS",
+   "es": "Kamiyama WoRKS",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 160,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: lo hace el PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

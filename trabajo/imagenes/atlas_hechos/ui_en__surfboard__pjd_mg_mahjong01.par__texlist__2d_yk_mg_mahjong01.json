@@ -1,0 +1,128 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_mahjong01.par/texlist/2d_yk_mg_mahjong01",
+ "fuente": "timesbd.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    8,
+    180,
+    118,
+    218
+   ],
+   "en": "Use",
+   "es": "",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 104,
+   "dejar": true
+  },
+  {
+   "caja": [
+    133,
+    180,
+    243,
+    218
+   ],
+   "en": "Use",
+   "es": "",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 104,
+   "dejar": true
+  },
+  {
+   "caja": [
+    8,
+    231,
+    118,
+    269
+   ],
+   "en": "Don't Use",
+   "es": "",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 104,
+   "dejar": true
+  },
+  {
+   "caja": [
+    133,
+    231,
+    243,
+    269
+   ],
+   "en": "Don't Use",
+   "es": "",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 104,
+   "dejar": true
+  },
+  {
+   "caja": [
+    8,
+    282,
+    118,
+    320
+   ],
+   "en": "Half Game",
+   "es": "",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 104,
+   "dejar": true
+  },
+  {
+   "caja": [
+    133,
+    282,
+    243,
+    320
+   ],
+   "en": "Half Game",
+   "es": "",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 104,
+   "dejar": true
+  },
+  {
+   "caja": [
+    8,
+    333,
+    118,
+    371
+   ],
+   "en": "Quarter Game",
+   "es": "",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 104,
+   "dejar": true
+  },
+  {
+   "caja": [
+    133,
+    333,
+    243,
+    371
+   ],
+   "en": "Quarter Game",
+   "es": "",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 104,
+   "dejar": true
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_purikura_note.par/2d_mg_purikura_note_texlist/puri_text",
+ "fuente": "times.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    0,
+    201,
+    24
+   ],
+   "en": "Choose",
+   "ocr": "Choose",
+   "es": "Elige la",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "der",
+   "ancho_max": 196
+  },
+  {
+   "caja": [
+    201,
+    1,
+    397,
+    32
+   ],
+   "en": "photo to replace",
+   "ocr": "photo to replace",
+   "es": "foto a reemplazar",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 192,
+   "alto": 23
+  }
+ ]
+}

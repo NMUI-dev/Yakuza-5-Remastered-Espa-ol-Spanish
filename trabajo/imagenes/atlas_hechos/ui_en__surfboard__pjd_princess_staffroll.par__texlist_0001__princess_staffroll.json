@@ -1,0 +1,588 @@
+{
+ "textura": "ui_en/surfboard/pjd_princess_staffroll.par/texlist_0001/princess_staffroll",
+ "fuente": "segoeui.ttf",
+ "margen": 4,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    12,
+    2,
+    190,
+    24
+   ],
+   "en": "CAST",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 166,
+   "dejar": true
+  },
+  {
+   "caja": [
+    196,
+    2,
+    395,
+    24
+   ],
+   "en": "Organization",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 187,
+   "dejar": true
+  },
+  {
+   "caja": [
+    398,
+    2,
+    555,
+    24
+   ],
+   "en": "Tech",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 145,
+   "dejar": true
+  },
+  {
+   "caja": [
+    561,
+    2,
+    710,
+    24
+   ],
+   "en": "Film Director",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 137,
+   "dejar": true
+  },
+  {
+   "caja": [
+    714,
+    2,
+    1020,
+    24
+   ],
+   "en": "Tech",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 294,
+   "dejar": true
+  },
+  {
+   "caja": [
+    12,
+    98,
+    180,
+    120
+   ],
+   "en": "Switcher",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 156,
+   "dejar": true
+  },
+  {
+   "caja": [
+    184,
+    98,
+    370,
+    120
+   ],
+   "en": "Art Production",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 174,
+   "dejar": true
+  },
+  {
+   "caja": [
+    376,
+    98,
+    540,
+    120
+   ],
+   "en": "Large Tools",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 152,
+   "dejar": true
+  },
+  {
+   "caja": [
+    546,
+    98,
+    860,
+    120
+   ],
+   "en": "Tech",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 302,
+   "dejar": true
+  },
+  {
+   "caja": [
+    866,
+    98,
+    1020,
+    116
+   ],
+   "en": "Recording",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 142,
+   "dejar": true
+  },
+  {
+   "caja": [
+    184,
+    146,
+    372,
+    168
+   ],
+   "en": "Light Production",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 176,
+   "dejar": true
+  },
+  {
+   "caja": [
+    12,
+    194,
+    170,
+    216
+   ],
+   "en": "Special Effects",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 146,
+   "dejar": true
+  },
+  {
+   "caja": [
+    172,
+    194,
+    320,
+    216
+   ],
+   "en": "Editing",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 136,
+   "dejar": true
+  },
+  {
+   "caja": [
+    322,
+    194,
+    478,
+    216
+   ],
+   "en": "CGDirection",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 144,
+   "dejar": true
+  },
+  {
+   "caja": [
+    480,
+    194,
+    800,
+    216
+   ],
+   "en": "Tech",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 308,
+   "dejar": true
+  },
+  {
+   "caja": [
+    808,
+    194,
+    1020,
+    216
+   ],
+   "en": "Graphics",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 200,
+   "dejar": true
+  },
+  {
+   "caja": [
+    12,
+    241,
+    170,
+    263
+   ],
+   "en": "Special Devices",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 146,
+   "dejar": true
+  },
+  {
+   "caja": [
+    12,
+    290,
+    170,
+    312
+   ],
+   "en": "Hair & Make Up",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 146,
+   "dejar": true
+  },
+  {
+   "caja": [
+    172,
+    290,
+    330,
+    312
+   ],
+   "en": "Stylist",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 146,
+   "dejar": true
+  },
+  {
+   "caja": [
+    332,
+    290,
+    484,
+    312
+   ],
+   "en": "Research",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 140,
+   "dejar": true
+  },
+  {
+   "caja": [
+    486,
+    290,
+    680,
+    312
+   ],
+   "en": "Direction",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 182,
+   "dejar": true
+  },
+  {
+   "caja": [
+    684,
+    290,
+    1020,
+    312
+   ],
+   "en": "Director",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 324,
+   "dejar": true
+  },
+  {
+   "caja": [
+    172,
+    338,
+    330,
+    360
+   ],
+   "en": "Publicity",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 146,
+   "dejar": true
+  },
+  {
+   "caja": [
+    486,
+    338,
+    680,
+    360
+   ],
+   "en": "Production Assistant",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 182,
+   "dejar": true
+  },
+  {
+   "caja": [
+    12,
+    386,
+    184,
+    408
+   ],
+   "en": "Floor Director",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 160,
+   "dejar": true
+  },
+  {
+   "caja": [
+    186,
+    386,
+    344,
+    408
+   ],
+   "en": "Producer",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 146,
+   "dejar": true
+  },
+  {
+   "caja": [
+    346,
+    386,
+    520,
+    408
+   ],
+   "en": "Chief Producer",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 162,
+   "dejar": true
+  },
+  {
+   "caja": [
+    650,
+    420,
+    870,
+    446
+   ],
+   "en": "Production Composition",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 208,
+   "dejar": true
+  },
+  {
+   "caja": [
+    935,
+    474,
+    1024,
+    497
+   ],
+   "en": "Soten TV",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 77,
+   "dejar": true
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_taiko_game.par/texlist_0001/taiko_game_32",
+ "fuente": "segoeuib.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    722,
+    476,
+    935,
+    518
+   ],
+   "en": "1st Song",
+   "es": "Canción 1",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 207,
+   "alto": 34
+  },
+  {
+   "caja": [
+    722,
+    541,
+    935,
+    583
+   ],
+   "en": "2nd Song",
+   "es": "Canción 2",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 207
+  },
+  {
+   "caja": [
+    780,
+    829,
+    846,
+    849
+   ],
+   "en": "CLEAR",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 60,
+   "dejar": true
+  },
+  {
+   "caja": [
+    714,
+    892,
+    775,
+    912
+   ],
+   "en": "CLEAR",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 55,
+   "dejar": true
+  },
+  {
+   "caja": [
+    644,
+    956,
+    705,
+    976
+   ],
+   "en": "CLEAR",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 55,
+   "dejar": true
+  }
+ ]
+}

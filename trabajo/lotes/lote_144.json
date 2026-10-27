@@ -1,0 +1,902 @@
+[
+{
+"id": 32398,
+"en": "*sniff* Dad...",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32399,
+"en": "A child's got to leave their parents' protection eventually. That's why I don't fault ya for what you're doin'.",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32400,
+"en": "It's only when you take your first step out of the nest that you realize your parents were guarding you with everything they got.",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32401,
+"en": "...Yeah.",
+"ctx": "diálogo uid004901fa + diálogo uid0102072e …"
+},
+{
+"id": 32402,
+"en": "Hey, ya couldn't stay in town bein' a child, Masao. Ya had it right on that one. But now, you gotta make good on that conviction. Start walkin' on yer own two feet.",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32403,
+"en": "You're right. I... I needed to be set straight. My parents paying my debt, and you defending me from those guys... I get it now. I need to actually step into true independence.",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32404,
+"en": "Thank you, Saejima-san. I'm going to try harder, and truly be worthy of my father's pride.",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32405,
+"en": "Sounds good. Take care, Masao. You'll be fine.",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32406,
+"en": "That means a lot. Goodbye!",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32407,
+"en": "(Yeah, he's a good kid. Never give up, Masao...)",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32408,
+"en": "Uh... I beg your pardon, but is that you, Saejima-san?",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32409,
+"en": "It's me, Masao! We met in my village!",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32410,
+"en": "Masao! Wasn't expectin' to run into ya here.",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32411,
+"en": "I'm as surprised as you are. When did you get to Tsukimino?",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32412,
+"en": "Short time ago. Heard ya became a host. I went by yer club.",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32413,
+"en": "Oh? Really? Did they say anything about me?",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32414,
+"en": "Tch, yeah. They said they're gonna track ya down. Ran out owin' 300,000 yen, did ya?",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32415,
+"en": "I... That was a setup! I had no idea what was going on, and suddenly I owed all this money...",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32416,
+"en": "Yeah, I know their dirty tricks. But you were naive as hell, too. Thought you could make easy money bein' a host, did ya?",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32417,
+"en": "A bumpkin like you is a ready-made victim for them. Ya gotta start thinking that way.",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32418,
+"en": "I know that now. I've been trying not to get involved in anything else shady.",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32419,
+"en": "I got a letter for ya. From yer pa.",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32420,
+"en": "What? My father wrote to me?",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32421,
+"en": "Yep, and yer ma insisted that I hand-deliver it to you. Seems the both of 'em are worried about ya.",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32422,
+"en": "I'm sorry, but if it's from my father, I can't accept it.",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32423,
+"en": "Why not?",
+"ctx": "diálogo uid004901fa + diálogo uid01020657 …"
+},
+{
+"id": 32424,
+"en": "Obviously, he's either disowning me with that letter, or he's ordering me home. Either way, I don't want to read it.",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32425,
+"en": "Well, it's no use to me. Just take it.",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32426,
+"en": "I don't want it! My father never listened to me. So why should I listen to him!?",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32427,
+"en": "I should've figured you for a typical adult. I have to go!",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32428,
+"en": "Not so fast, Masao!",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32429,
+"en": "No, not you guys...",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32430,
+"en": "Yep⑬us guys. You're a slippery one, Masao.",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32431,
+"en": "You didn't seriously think you could get away, did you? Cough up the 300,000.",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32432,
+"en": "There's no way I can come up with that money! How do you expect me to pay?",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32433,
+"en": "We gave you a job, and this is how you thank us? Is that what they teach you rubes in the boonies?",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32434,
+"en": "Listen, you thief, it's not our problem how you come up with the money. Ask Mommy for help, sell an organ, whatever!",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32435,
+"en": "You need to make this right! You're in the real world now!",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32436,
+"en": "I don't have anything!",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32437,
+"en": "Gettin' a pretty decent life lesson here, eh?",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32438,
+"en": "On the other hand, these boys are gettin' a little carried away. They need some learnin', too.",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32439,
+"en": "Who do you think you are, old man?",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32440,
+"en": "Oh, screw this! Let's teach them both a lesson!",
+"ctx": "diálogo uid004901fa"
+},
+{
+"id": 32441,
+"en": "(That's Yamori-san!)",
+"ctx": "diálogo uid00490207"
+},
+{
+"id": 32442,
+"en": "(What's he holding? A knife!?)",
+"ctx": "diálogo uid00490207"
+},
+{
+"id": 32443,
+"en": "(Was he serious about that whole bank robbery thing? I'd\nbetter stop him before this gets out of hand!)",
+"ctx": "diálogo uid00490207"
+},
+{
+"id": 32444,
+"en": "Wha... Where am I?",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32445,
+"en": "Good, you're back with us, Yamori-san.",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32446,
+"en": "Let go of me! I can stand on my own!",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32447,
+"en": "I don't want your help!",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32448,
+"en": "You'd rather die?",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32449,
+"en": "Damn straight! Like I could ever accept help from the guy I\nscrewed over! I won't do it!",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32450,
+"en": "My pride won't let me!",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32451,
+"en": "Heh. Pretty cheap pride, if you ask me.",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32452,
+"en": "What's that!?",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32453,
+"en": "The way you put your convictions before your life is admirable.",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32454,
+"en": "But instead of worrying about your pride, how about worrying\nabout your family's future?",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32455,
+"en": "All the money in the world won't mean anything to your wife\nif you're dead. I can't see Eri wanting that, can you?",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32456,
+"en": "Akiyama... You knew?",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32457,
+"en": "Yeah. Eri dumped me after I lost my job.",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32458,
+"en": "Then she started seeing you. You two got married, and she\nquit working.",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32459,
+"en": "Losing her essentially meant losing all I had. At that\npoint, I was free to do just about anything.",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32460,
+"en": "But you have a family. It's far too early for you to say\nthey'd be better off without you.",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32461,
+"en": "What you should be doing is protecting your family's future,\neven if it means eating crow meat from here on out.",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32462,
+"en": "You talk about having pride. Have pride in that!",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32463,
+"en": "Akiyama...",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32464,
+"en": "You're welcome to betray me. But don't ever lose sight of\nwhat really matters.",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32465,
+"en": "Heh. You're right. Though I said I was doing it for my\nfamily, I was really thinking only of myself.",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32466,
+"en": "Yamori-san...",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32467,
+"en": "To hell with my pride. Think you can offer me a loan?",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32468,
+"en": "Absolutely. That's what I do.",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32469,
+"en": "That said, you may have heard the rumors, but you'll have\nto pass the test I give you.",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32470,
+"en": "What do I have to do?",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32471,
+"en": "Heh... Actually, I was going to tell you to get a divorce.",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32472,
+"en": "But after watching you lay your life on the line, I felt\nstupid for thinking up a test that so clearly had sprung\nfrom jealousy.",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32473,
+"en": "So, I'm going to offer you a loan on one condition. You\nturned me down before, but I'll ask you once more.",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32474,
+"en": "Yamori-san, can we finally put the past behind us? Water\nunder the bridge? That's all I want.",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32475,
+"en": "Akiyama, you...",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32476,
+"en": "Thank you! And I'm sorry!",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32477,
+"en": "Man, I must be getting soft... Forgiving an act of betrayal like that.",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32478,
+"en": "Hana-chan won't be too happy about this...",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32479,
+"en": "What the fuck do ya think you're doin'!?",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32480,
+"en": "Shut up! It's your fault for not loaning me money!",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32481,
+"en": "Yamori-san!",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32482,
+"en": "Akiyama!?",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32483,
+"en": "This is crazy! You have to stop!",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32484,
+"en": "Stay out of this! There's no other way!",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32485,
+"en": "Now, take this knife and kill me.",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32486,
+"en": "Wha⑬?",
+"ctx": "diálogo uid0049020f + diálogo uid0133037c"
+},
+{
+"id": 32487,
+"en": "I have life insurance. If I'm dead, my wife and kids won't\nhave to go hungry. Everything will be squared away!",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32488,
+"en": "You outta your flippin' mind!?",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32489,
+"en": "Come on, hurry! They won't pay out on a suicide!",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32490,
+"en": "*pant* *pant*",
+"ctx": "diálogo uid0049020f + diálogo uid0049025e …"
+},
+{
+"id": 32491,
+"en": "Huh? Ain't I seen you before...?",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32492,
+"en": "That's it! You're that Sky Finance guy from Tokyo, ain't ya?",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32493,
+"en": "Ah, I get it now. You're usin' this psycho to get the police\ninvolved, so you can swoop in and take over!",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32494,
+"en": "The hell gave you that idea!?",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32495,
+"en": "You think you can pull this shit on our turf? All right,\nfine! You wanna die so badly, we'll be happy to help!",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32496,
+"en": "Not really one for listening, are you, pal?",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32497,
+"en": "Come on, you two! Let's teach this greasy little shit what\nhappens when he fucks with us!",
+"ctx": "diálogo uid0049020f"
+},
+{
+"id": 32498,
+"en": "Hello. I'm Haruka Sawamura. It's very nice to meet you.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32499,
+"en": "Welcome to Ryukyu Travel Publishing. I am Yara.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32500,
+"en": "Oh, are you from Okinawa?",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32501,
+"en": "Born and raised. Haha! You could tell from my name?",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32502,
+"en": "Yes. Now I feel like I'm back home!",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32503,
+"en": "That's great. Heheh. It'll make for an excellent interview, don't you think?",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32504,
+"en": "It certainly will.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32505,
+"en": "We wanted to make this unique, so we asked Okinawan children to write to you letters for the magazine.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32506,
+"en": "The response was overwhelming! The greatest volume of mail we've ever received, in fact. You must be quite the celebrity there.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32507,
+"en": "Really? That's amazing!",
+"ctx": "diálogo uid00490215 + diálogo uid010c0c7c"
+},
+{
+"id": 32508,
+"en": "Space for the article is limited, so we picked just three letters.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32509,
+"en": "I'll read them to you, and then you can comment. Sound good?",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32510,
+"en": "Absolutely.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32511,
+"en": "All right. The first letter is from a sixth grade boy named \"Professor Cosmos.\"",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32512,
+"en": "That's a pen name, I assume.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32513,
+"en": "Yes, all three letters are written under pen names. I guess \"Professor Cosmos\" is a big fan of outer space, huh?",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32514,
+"en": "Anyway, here we go. \"Dear Sawamura-san, I saw you dancing on TV. Wow! You're so cool!\"",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32515,
+"en": "\"I'm not athletic like you. I can't do even one pull-up, and the other kids make fun of me. What should I do?\"",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32516,
+"en": "Heh, I had the same problem when I was a kid. So! Any advice for \"Professor Cosmos\"?",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32517,
+"en": "I would tell him... that I'm so sorry the other kids tease him! But why not turn those hurt feelings into inspiration?",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32518,
+"en": "He said he liked my dancing. Well, when I first started, I couldn't dance well at all. It took so much practice.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32519,
+"en": "My dance coach would probably say that I'm still not good enough, even now!",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32520,
+"en": "But the important thing is to learn something new, and just feel good about that. So my advice is to keep trying!",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32521,
+"en": "Very wise. I think Professor Cosmos will be encouraged by that.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32522,
+"en": "I would tell him... that I'm so sorry the other kids tease him! And if athletics aren't his thing, maybe he shouldn't worry about what they say.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32523,
+"en": "After all, from the sound of his pen name he likes outer space. Why not focus on that instead?",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32524,
+"en": "Who cares about doing a pull-up when you can impress the other kids with your knowledge of space!",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32525,
+"en": "Very smart thinking. I think Professor Cosmos will be encouraged by that.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32526,
+"en": "I would tell him... that I'm so sorry the other kids tease him! They probably don't realize how awful it feels.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32527,
+"en": "So why not teach them a lesson? Find something about them to pick on, and make fun of them right back.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32528,
+"en": "Once they know how much it hurts, maybe they'll think twice before they do it again.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32529,
+"en": "...Yikes. That was a tad harsh. I hope you don't mind if I soften that up a bit for the article.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32530,
+"en": "Oh! I'm sorry! Do whatever you think best.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32531,
+"en": "Now, then. On to letter number two. This is from \"I Heart Riona,\" a middle school boy.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32532,
+"en": "Haha! Yeah, that pen name caught me by surprise, too. What a romantic fellow.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32533,
+"en": "(An Okinawa boy with a crush on a girl named Riona? Could it be Mitsuo?)",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32534,
+"en": "(And Professor Cosmos said he was in sixth grade. Could that... possibly be Shiro?)",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32535,
+"en": "Sawamura-san?",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32536,
+"en": "Oh! Sorry!",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32537,
+"en": "(Oops! I better focus!)",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32538,
+"en": "Here's what it says.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32539,
+"en": "\"Dear Haruka, I've been watching you on TV and rooting for you! But I kind of get jealous of everyone else on TV... They're all so good-looking!\"",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32540,
+"en": "\"There's a girl I like, but I don't think she likes me. Do you think it's because I'm not very handsome?\"",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32541,
+"en": "He's rooting for you! Must be a big fan.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32542,
+"en": "Haha. He sounds like a passionate guy. As for his romantic dilemma...",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32543,
+"en": "Sure, looks are a big part of what first attracts us to a person.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32544,
+"en": "The entertainment industry certainly puts an emphasis on looks, that's for sure.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32545,
+"en": "But they aren't the only thing. When a person truly likes someone, it has much more to do with personality, I think.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32546,
+"en": "For example, how kind the person is, or how trustworthy. Character can play a bigger role than appearance.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32547,
+"en": "Even in the entertainment industry, it counts for something if you're attractive on the inside as well as the outside.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32548,
+"en": "What I'm trying to say is... if you really like this girl, show her the quality of your character, and see what happens. Good luck!",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32549,
+"en": "That's very nice. I'm sure your words will mean a lot to \"I Heart Riona.\"",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32550,
+"en": "Well, looks are a big part of what first attracts us to a person.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32551,
+"en": "He could try putting some extra effort into his appearance.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32552,
+"en": "Here in the entertainment industry, hair, makeup, and clothes are used to transform people beyond recognition.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32553,
+"en": "And the really interesting thing is that people who look good start to gain confidence, and it shows.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32554,
+"en": "When I'm all dressed up, I have to confess I feel different. It gives me courage when I'm onstage.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32555,
+"en": "If you don't think you're very handsome, you don't have to just accept it. You can put effort into changing that.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32556,
+"en": "That's great insight, coming from an entertainer. I think he'll be encouraged!",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32557,
+"en": "If this girl doesn't recognize the quality of your character, then you should just forget about her.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32558,
+"en": "Ouch. A straight knife to the kid's heart. I hope you don't mind if I soften that up a little bit for the article.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32559,
+"en": "Now for the third and final letter. It's from \"Dragon Mask Man,\" a boy in his second year of middle school.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32560,
+"en": "Uh, is there something wrong?",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32561,
+"en": "Oh. No, it's nothing. I misheard you. I'm sorry!",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32562,
+"en": "(\"Dragon Mask\"? That has to be Taichi! All three of these letters are from Morning Glory, for sure!)",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32563,
+"en": "(Now I see why Ayako told me to do a good job at this interview!)",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32564,
+"en": "Um, are you ready to continue?",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32565,
+"en": "Oh! Yes, please. My apologies.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32566,
+"en": "\"How do you do, Sawamura-san? I always watch you when you're on TV. You're the main topic of conversation at our house!\"",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32567,
+"en": "\"We used to have people who were like a mother and father to us, but they both left on long journeys.\"",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32568,
+"en": "\"Now I'm the oldest boy, so I've been trying to be responsible and dependable like they were, but it's not easy.\"",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32569,
+"en": "\"What can I do to become more like them?\"",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32570,
+"en": "Wow. He sounds like a very mature and thoughtful young man, wise beyond his years. Any advice for him, Sawamura-san?",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32571,
+"en": "It sounds like you've been doing great. Just keep at it.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32572,
+"en": "I'm sure all the younger children look up to you... because you already have those virtues you admire in the two people who left.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32573,
+"en": "Besides, those two weren't perfect. They made all kinds of mistakes.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32574,
+"en": "So don't worry about what you can't do now. You're already helping your family a lot.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32575,
+"en": "Wow, Sawamura-san.",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32576,
+"en": "Oh! I'm sorry! I...",
+"ctx": "diálogo uid00490215"
+},
+{
+"id": 32577,
+"en": "No, please don't apologize. I think... I think \"Dragon Mask Man\" really needed to hear something like that. We'll print it exactly the way you said it⑬no edits.",
+"ctx": "diálogo uid00490215"
+}
+]

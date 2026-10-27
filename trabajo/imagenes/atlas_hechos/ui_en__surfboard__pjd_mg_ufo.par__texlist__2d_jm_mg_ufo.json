@@ -1,0 +1,140 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_ufo.par/texlist/2d_jm_mg_ufo",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    320,
+    208,
+    352
+   ],
+   "en": "Move Crane Right",
+   "es": "Grúa a la derecha",
+   "fuente": "verdana.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 202,
+   "alto": 21
+  },
+  {
+   "caja": [
+    0,
+    352,
+    208,
+    384
+   ],
+   "en": "Move Crane Left",
+   "es": "Grúa a la izquierda",
+   "fuente": "verdana.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 202,
+   "alto": 16
+  },
+  {
+   "caja": [
+    0,
+    384,
+    208,
+    416
+   ],
+   "en": "Move Crane Back",
+   "es": "Grúa hacia atrás",
+   "fuente": "verdana.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 202,
+   "alto": 16
+  },
+  {
+   "caja": [
+    0,
+    416,
+    152,
+    448
+   ],
+   "en": "Play",
+   "es": "Jugar",
+   "fuente": "verdana.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 146,
+   "alto": 20
+  },
+  {
+   "caja": [
+    0,
+    448,
+    152,
+    480
+   ],
+   "en": "Don't Play",
+   "es": "No jugar",
+   "fuente": "verdana.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 146,
+   "alto": 20
+  },
+  {
+   "caja": [
+    0,
+    480,
+    152,
+    512
+   ],
+   "en": "Insert Coin(s)",
+   "es": "Insertar moneda",
+   "fuente": "verdana.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 146,
+   "alto": 21
+  },
+  {
+   "caja": [
+    158,
+    86,
+    200,
+    108
+   ],
+   "en": "PLAY",
+   "es": "JUEGO",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 40,
+   "fondo": "lama",
+   "alto": 12,
+   "color": [
+    235,
+    235,
+    235
+   ]
+  },
+  {
+   "caja": [
+    273,
+    84,
+    324,
+    109
+   ],
+   "en": "PLAYS",
+   "es": "JUEGOS",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 45,
+   "fondo": "lama",
+   "alto": 12,
+   "color": [
+    235,
+    235,
+    235
+   ]
+  }
+ ]
+}

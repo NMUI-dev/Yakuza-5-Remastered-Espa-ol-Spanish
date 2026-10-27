@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_pause_en/picture/caption/2d_jm_bc_kyukyoku_a2",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    153,
+    66,
+    884,
+    188
+   ],
+   "en": "MELEE MATCH 2",
+   "ocr": "MELEE MATCH 2",
+   "es": "COMBATE CUERPO A CUERPO 2",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 727
+  }
+ ]
+}

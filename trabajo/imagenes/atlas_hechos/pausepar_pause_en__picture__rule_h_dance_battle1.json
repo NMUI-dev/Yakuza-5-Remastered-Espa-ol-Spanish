@@ -1,0 +1,162 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_h_dance_battle1",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    418,
+    7,
+    606,
+    44
+   ],
+   "en": "Dance Battle",
+   "ocr": "DanceBattle",
+   "es": "B. de baile",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 184,
+   "dejar": true
+  },
+  {
+   "caja": [
+    37,
+    70,
+    288,
+    108
+   ],
+   "en": "Dance Battle (2)",
+   "ocr": "Dance Battle (2)",
+   "es": "B. de baile (2)",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 247,
+   "dejar": true
+  },
+  {
+   "caja": [
+    60,
+    116,
+    537,
+    148
+   ],
+   "en": "There are four bars and you can switch",
+   "ocr": "There are four bars andyou can switch",
+   "es": "Hay Cuatro barras y puedes Cambiar entre ellas.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 473,
+   "dejar": true
+  },
+  {
+   "caja": [
+    59,
+    149,
+    308,
+    185
+   ],
+   "en": "between them using",
+   "ocr": "between them using",
+   "es": "Las fichas se mueven entre ellas usando una selección.",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 245,
+   "dejar": true
+  },
+  {
+   "caja": [
+    60,
+    217,
+    506,
+    253
+   ],
+   "en": "Even if you press the correct button,",
+   "ocr": "Even if you press the correct button,",
+   "es": "Incluso si presionas el botón correcto,",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 442,
+   "dejar": true
+  },
+  {
+   "caja": [
+    58,
+    252,
+    517,
+    286
+   ],
+   "en": "if you have not selected the right bar,",
+   "ocr": "if you have not selected the right bar,",
+   "es": "si no has seleccionado la barra correcta,",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 455,
+   "dejar": true
+  },
+  {
+   "caja": [
+    58,
+    287,
+    437,
+    318
+   ],
+   "en": "it counts as a miss. Be careful!",
+   "ocr": "it counts as a miss. Be careful!",
+   "es": "se cuenta como un fallo. ¡Ten cuidado!",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 375,
+   "dejar": true
+  },
+  {
+   "caja": [
+    60,
+    355,
+    786,
+    387
+   ],
+   "en": "Switching between bars quickly and timing the buttons right",
+   "ocr": "Switching between bars quickly and timing the buttons right",
+   "es": "Cambiar rápidamente entre barras y pulsar los Botones en el momento justo",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 722,
+   "dejar": true
+  },
+  {
+   "caja": [
+    59,
+    389,
+    383,
+    422
+   ],
+   "en": "is the quickest way to win.",
+   "ocr": "is the quickest way to win.",
+   "es": "Esta es la forma más rápida de ganar.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 320,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: lo hace el PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

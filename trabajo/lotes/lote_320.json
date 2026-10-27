@@ -1,0 +1,838 @@
+[
+{
+"id": 71350,
+"en": "Gold General",
+"ctx": "imagen: página de reglas de minijuego (rule_shougi0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71351,
+"en": "Knight",
+"ctx": "imagen: página de reglas de minijuego (rule_shougi0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71352,
+"en": "Bishop",
+"ctx": "imagen: página de reglas de minijuego (rule_shougi0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71353,
+"en": "Lance",
+"ctx": "imagen: página de reglas de minijuego (rule_shougi0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71354,
+"en": "Rook",
+"ctx": "imagen: página de reglas de minijuego (rule_shougi0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71355,
+"en": "·Promotion The first three ranks (rows) on the opponent's side of the board are the promotion zone.Certain pieces that reach it are turned over(promoted),affecting how they move.",
+"ctx": "imagen: página de reglas de minijuego (rule_shougi1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71356,
+"en": "Optional in third enemy rank. Mandatoryinthefurthestrank. Functions as a gold general.",
+"ctx": "imagen: página de reglas de minijuego (rule_shougi1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71357,
+"en": "PromotedPawn:",
+"ctx": "imagen: página de reglas de minijuego (rule_shougi1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71358,
+"en": "Promoted Lance:",
+"ctx": "imagen: página de reglas de minijuego (rule_shougi1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71359,
+"en": "Optional in all three enemy ranks. Functions as a gold general.",
+"ctx": "imagen: página de reglas de minijuego (rule_shougi1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71360,
+"en": "Promoted Silver:",
+"ctx": "imagen: página de reglas de minijuego (rule_shougi1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71361,
+"en": "Optional in third enemy rank. Mandatory in furthest two ranks. Functions as a gold general.",
+"ctx": "imagen: página de reglas de minijuego (rule_shougi2); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71362,
+"en": "Promoted Knight:",
+"ctx": "imagen: página de reglas de minijuego (rule_shougi2); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71363,
+"en": "Optional in all three enemy ranks. Functions as a bishop or a king.",
+"ctx": "imagen: página de reglas de minijuego (rule_shougi2); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71364,
+"en": "Promoted Bishop:",
+"ctx": "imagen: página de reglas de minijuego (rule_shougi2); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71365,
+"en": "Optional in all three enemy ranks. Functions as a rook or a king.",
+"ctx": "imagen: página de reglas de minijuego (rule_shougi2); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71366,
+"en": "Promoted Rook:",
+"ctx": "imagen: página de reglas de minijuego (rule_shougi2); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71367,
+"en": "Once promoted, a piece must stay that way.",
+"ctx": "imagen: página de reglas de minijuego (rule_shougi2); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71368,
+"en": "CaptureandDrops When one of your pieces lands on the same square as an opponent's, you capture",
+"ctx": "imagen: página de reglas de minijuego (rule_shougi3); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71369,
+"en": "square. When you drop a piece, you cannot move it until your next turn. Also any promotedpiecescapturedareflippedbackovertotheiroriginalstate.",
+"ctx": "imagen: página de reglas de minijuego (rule_shougi3); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71370,
+"en": "The rules of shogi forbid the following moves:",
+"ctx": "imagen: página de reglas de minijuego (rule_shougi4); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71371,
+"en": "Illegal Pawn Drop: You cannot drop a pawn onto the same file (column) as one of your pawns. (Thisdoesnotapplytopromotedpawns.)",
+"ctx": "imagen: página de reglas de minijuego (rule_shougi4); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71372,
+"en": "Illegal Checkmate: You cannot drop a pawn where it checkmates theking.",
+"ctx": "imagen: página de reglas de minijuego (rule_shougi4); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71373,
+"en": "Repeating Positions: You cannot repeat the same board positions four times.",
+"ctx": "imagen: página de reglas de minijuego (rule_shougi4); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71374,
+"en": "Trapping Dropped Pieces: You cannot drop a piece on a square from which it is unable to move.",
+"ctx": "imagen: página de reglas de minijuego (rule_shougi4); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71375,
+"en": "·Taiko: How to Play",
+"ctx": "imagen: página de reglas de minijuego (rule_taikonotatsujin); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71376,
+"en": "Hitthedrumwhenthebeatsreachtheleftofthescreenandalignwiththeflame. The betteryour timing,the moreyour spirit gauge fills up,and at the end of",
+"ctx": "imagen: página de reglas de minijuego (rule_taikonotatsujin); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71377,
+"en": "the song, if it passes the \"Clear\" line, you successfully clear the song.",
+"ctx": "imagen: página de reglas de minijuego (rule_taikonotatsujin); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71378,
+"en": "Typesof Beat",
+"ctx": "imagen: página de reglas de minijuego (rule_taikonotatsujin); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71379,
+"en": "Game screen",
+"ctx": "imagen: página de reglas de minijuego (rule_taikonotatsujin); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71380,
+"en": "Clear",
+"ctx": "imagen: página de reglas de minijuego (rule_taikonotatsujin); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 71381,
+"en": "Boom",
+"ctx": "imagen: página de reglas de minijuego (rule_taikonotatsujin); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71382,
+"en": "A beat on the frontof the drum. Tap",
+"ctx": "imagen: página de reglas de minijuego (rule_taikonotatsujin); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71383,
+"en": "A beaton therim of thedrum.",
+"ctx": "imagen: página de reglas de minijuego (rule_taikonotatsujin); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71384,
+"en": "Drum roll Adrumroll on thefrontofthedrum.",
+"ctx": "imagen: página de reglas de minijuego (rule_taikonotatsujin); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71385,
+"en": "Spirit Gauge",
+"ctx": "imagen: página de reglas de minijuego (rule_taikonotatsujin); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71386,
+"en": "Beat",
+"ctx": "imagen: página de reglas de minijuego (rule_taikonotatsujin); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71387,
+"en": "Flame",
+"ctx": "imagen: página de reglas de minijuego (rule_taikonotatsujin); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71388,
+"en": "Forlargerbeats, you can getextra pointsby hitting",
+"ctx": "imagen: página de reglas de minijuego (rule_taikonotatsujin); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71389,
+"en": "bothsidesofthefrontorrimofthedrum",
+"ctx": "imagen: página de reglas de minijuego (rule_taikonotatsujin); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71390,
+"en": "simultaneously.",
+"ctx": "imagen: página de reglas de minijuego (rule_taikonotatsujin); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71391,
+"en": "When I came to, I was in a town with falling snow.",
+"ctx": "imagen de menú (2d_jm_takarac); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 76
+},
+{
+"id": 71392,
+"en": "I stood there in the middle of an intersection for a moment before deciding",
+"ctx": "imagen de menú (2d_jm_takarac); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 112
+},
+{
+"id": 71393,
+"en": "to walk straight down the center of the road, as if I were being moved",
+"ctx": "imagen de menú (2d_jm_takarac); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 105
+},
+{
+"id": 71394,
+"en": "alongby theblaring carhorns.",
+"ctx": "imagen de menú (2d_jm_takarac); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 44
+},
+{
+"id": 71395,
+"en": "At the next intersection, I took a left. It brought me to a broad thoroughfare.I crossedit andcontinued alongmyway for awhile.",
+"ctx": "imagen de menú (2d_jm_takarac); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71396,
+"en": "Asluckwould haveit,I stumbled acrossastreetthatwasshelteredfrom theelements.My frozen body made the decision for me and I began heading inthatdirection.",
+"ctx": "imagen de menú (2d_jm_takarac); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71397,
+"en": "When my path ended,I began to walkwith the traffic flowing to my left. When I had gone as far as the street extended, I saw him.",
+"ctx": "imagen de menú (2d_jm_takarac); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71398,
+"en": "\"Congratulations.\" he said. I knew then that I had reached the end of myjourney.",
+"ctx": "imagen de menú (2d_jm_takarac); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71399,
+"en": "in a town with fallingsnow.",
+"ctx": "imagen de menú (2d_jm_takarac_01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 43
+},
+{
+"id": 71400,
+"en": "leofan interscction fora mom center of the road.as if I were",
+"ctx": "imagen de menú (2d_jm_takarac_01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71401,
+"en": "okaleft.ltbroughtme to ab idcontinuedalongmywayfo",
+"ctx": "imagen de menú (2d_jm_takarac_01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71402,
+"en": "hat",
+"ctx": "imagen de menú (2d_jm_takarac_01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 8
+},
+{
+"id": 71403,
+"en": "WhenIcame to.Iw",
+"ctx": "imagen de menú (2d_jm_takarac_02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 71404,
+"en": "Istood there in the mido towalk straight down the alongby theblaringcar h",
+"ctx": "imagen de menú (2d_jm_takarac_02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71405,
+"en": "At dhe next intcrsection.It thoroughfare.Icrosscd it a",
+"ctx": "imagen de menú (2d_jm_takarac_02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71406,
+"en": "As luckwould hawe it.I st the clemonts My frozep",
+"ctx": "imagen de menú (2d_jm_takarac_02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71407,
+"en": "ntbcfore deciding being moved",
+"ctx": "imagen de menú (2d_jm_takarac_03); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71408,
+"en": "road",
+"ctx": "imagen de menú (2d_jm_takarac_03); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 71409,
+"en": "awhile.",
+"ctx": "imagen de menú (2d_jm_takarac_03); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 71410,
+"en": "shcltered trom dIbeganheading",
+"ctx": "imagen de menú (2d_jm_takarac_03); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71411,
+"en": "ngto myleft.",
+"ctx": "imagen de menú (2d_jm_takarac_03); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 21
+},
+{
+"id": 71412,
+"en": "rossastrt thedecision for me an",
+"ctx": "imagen de menú (2d_jm_takarac_04); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71413,
+"en": "owalk with the trafliclow the strcet extended.Isaw him",
+"ctx": "imagen de menú (2d_jm_takarac_04); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71414,
+"en": "hesaid.1knewthen thatIhad reach",
+"ctx": "imagen de menú (2d_jm_takarac_04); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 48
+},
+{
+"id": 71415,
+"en": "necndof",
+"ctx": "imagen de menú (2d_jm_takarac_04); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 71416,
+"en": "umoleda bodymad",
+"ctx": "imagen de menú (2d_jm_takarac_05); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71417,
+"en": "lhat dinection.",
+"ctx": "imagen de menú (2d_jm_takarac_05); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 71418,
+"en": "Whenmy path ended.1 began WhenI hadgone as far",
+"ctx": "imagen de menú (2d_jm_takarac_05); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71419,
+"en": "Congratulations, nty'jourmey.",
+"ctx": "imagen de menú (2d_jm_takarac_05); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71420,
+"en": "State your answer here.",
+"ctx": "imagen de menú (2d_jm_takarad); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 37
+},
+{
+"id": 71421,
+"en": "ebooths are there sharea",
+"ctx": "imagen de menú (2d_jm_takarad_01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71422,
+"en": "How many telephon",
+"ctx": "imagen de menú (2d_jm_takarad_02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 28
+},
+{
+"id": 71423,
+"en": "Each booth coumts,eve",
+"ctx": "imagen de menú (2d_jm_takarad_02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 34
+},
+{
+"id": 71424,
+"en": "Tsukimino?",
+"ctx": "imagen de menú (2d_jm_takarad_03); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 71425,
+"en": "ofwith another.",
+"ctx": "imagen de menú (2d_jm_takarad_03); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 71426,
+"en": "L KILLER NAGATA",
+"ctx": "imagen de menú (2d_jm_taxi_nagata); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 71427,
+"en": "DEVIL",
+"ctx": "imagen de menú (2d_jm_taxi_nagata); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 71428,
+"en": "ONISAKA",
+"ctx": "imagen de menú (2d_jm_taxi_onizaka); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 71429,
+"en": "TORU",
+"ctx": "imagen de menú (2d_jm_taxi_onizaka); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 71430,
+"en": "TAKAMURA",
+"ctx": "imagen de menú (2d_jm_taxi_takamura); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 71431,
+"en": "WADA",
+"ctx": "imagen de menú (2d_jm_taxi_wada); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 71432,
+"en": "YUzo l",
+"ctx": "imagen de menú (2d_jm_taxi_wada); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 71433,
+"en": "YOSHIMI",
+"ctx": "imagen de menú (2d_jm_taxi_yosimi); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 71434,
+"en": "COOL",
+"ctx": "imagen de menú (2d_jm_taxi_yosimi); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 71435,
+"en": "TslkoNo.Tatsulin",
+"ctx": "imagen de menú (2d_jm_title_vs_taiko); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 27
+},
+{
+"id": 71436,
+"en": "FINAL ROUND",
+"ctx": "imagen de menú (2d_jm_gp_3sen); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 19
+},
+{
+"id": 71437,
+"en": "BREAKOUT",
+"ctx": "imagen de menú (2d_jm_gp_break); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 71438,
+"en": "GRAND PRIX",
+"ctx": "imagen de menú (2d_jm_gp_break); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 71439,
+"en": "HEAT BOMBER",
+"ctx": "imagen de menú (2d_jm_gp_heart); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 19
+},
+{
+"id": 71440,
+"en": "LEGENDARY ARENA",
+"ctx": "imagen de menú (2d_jm_gp_legend); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 71441,
+"en": "RANKED ARENA",
+"ctx": "imagen de menú (2d_jm_gp_ranker); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 21
+},
+{
+"id": 71442,
+"en": "STREET FIGHT",
+"ctx": "imagen de menú (2d_jm_gp_street); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 21
+},
+{
+"id": 71443,
+"en": "TWIN DRAGON",
+"ctx": "imagen de menú (2d_jm_gp_twin); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 19
+},
+{
+"id": 71444,
+"en": "VICTORY ROAD FINALS",
+"ctx": "imagen de menú (2d_jm_gp_victory); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 31
+},
+{
+"id": 71445,
+"en": "WEAPON MASTER",
+"ctx": "imagen de menú (2d_jm_gp_weapon); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 71446,
+"en": "The Four Laws of the New Coliseum",
+"ctx": "imagen de menú (2d_jm_tougi_okite); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 51
+},
+{
+"id": 71447,
+"en": "1. In the tournament format, 8 men or 8 teams",
+"ctx": "imagen de menú (2d_jm_tougi_okite); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 69
+},
+{
+"id": 71448,
+"en": "contend for victory.",
+"ctx": "imagen de menú (2d_jm_tougi_okite); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 33
+},
+{
+"id": 71449,
+"en": "2. In the exhibition format, the last man standing",
+"ctx": "imagen de menú (2d_jm_tougi_okite); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 76
+},
+{
+"id": 71450,
+"en": "is declared the victor.",
+"ctx": "imagen de menú (2d_jm_tougi_okite); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 37
+},
+{
+"id": 71451,
+"en": "3. Between battles, 30% of max health is restored.",
+"ctx": "imagen de menú (2d_jm_tougi_okite); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 76
+},
+{
+"id": 71452,
+"en": "4. The winner is awarded with prize money and",
+"ctx": "imagen de menú (2d_jm_tougi_okite); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 69
+},
+{
+"id": 71453,
+"en": "Coliseum points.",
+"ctx": "imagen de menú (2d_jm_tougi_okite); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 27
+},
+{
+"id": 71454,
+"en": "The Underground Coliseum Rankings",
+"ctx": "imagen de menú (2d_jm_tougi_okite_ranking); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 51
+},
+{
+"id": 71455,
+"en": "The Underground Coliseum Rankings shows each fighter' s",
+"ctx": "imagen de menú (2d_jm_tougi_okite_ranking); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 83
+},
+{
+"id": 71456,
+"en": "overall rank based on a point system.",
+"ctx": "imagen de menú (2d_jm_tougi_okite_ranking); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 57
+},
+{
+"id": 71457,
+"en": "Winning tournaments and exhibitions increases your",
+"ctx": "imagen de menú (2d_jm_tougi_okite_ranking); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 76
+},
+{
+"id": 71458,
+"en": "rankings points, whereas losing will decrease them.",
+"ctx": "imagen de menú (2d_jm_tougi_okite_ranking); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 77
+},
+{
+"id": 71459,
+"en": "Note that you can win more rankings points by defeating",
+"ctx": "imagen de menú (2d_jm_tougi_okite_ranking); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 83
+},
+{
+"id": 71460,
+"en": "a higher-ranked opponent.",
+"ctx": "imagen de menú (2d_jm_tougi_okite_ranking); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 40
+},
+{
+"id": 71461,
+"en": "Keep gaining victory and reach the top of the rankings!",
+"ctx": "imagen de menú (2d_jm_tougi_okite_ranking); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 83
+},
+{
+"id": 71462,
+"en": "Tag Team Matches",
+"ctx": "imagen de menú (2d_jm_tougi_okite_tag); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 27
+},
+{
+"id": 71463,
+"en": "In tag team matches, characters you met during Victory Road",
+"ctx": "imagen de menú (2d_jm_tougi_okite_tag); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 89
+},
+{
+"id": 71464,
+"en": "fight alongside you.Use",
+"ctx": "imagen de menú (2d_jm_tougi_okite_tag); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 37
+},
+{
+"id": 71465,
+"en": "to send them instructions during a match.",
+"ctx": "imagen de menú (2d_jm_tougi_okite_tag); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 63
+},
+{
+"id": 71466,
+"en": "Free: Leaves your partner' s fighting strategy up to them. Attack: Your partner attacks relentlessly but leaves himself open.",
+"ctx": "imagen de menú (2d_jm_tougi_okite_tag); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71467,
+"en": "Defense: Your partner focuses on protecting their health.",
+"ctx": "imagen de menú (2d_jm_tougi_okite_tag); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 86
+},
+{
+"id": 71468,
+"en": "Cooperate: Your partner will focus on your target.",
+"ctx": "imagen de menú (2d_jm_tougi_okite_tag); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 76
+},
+{
+"id": 71469,
+"en": "Issue instructions to best fit the situation and use them",
+"ctx": "imagen de menú (2d_jm_tougi_okite_tag); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 86
+},
+{
+"id": 71470,
+"en": "to youradvantage!",
+"ctx": "imagen de menú (2d_jm_tougi_okite_tag); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 28
+},
+{
+"id": 71471,
+"en": "Speed Up",
+"ctx": "imagen de menú (2d_jm_actbtn_snowmobile); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 71472,
+"en": "Feel the Heat!",
+"ctx": "imagen de menú (2d_jm_syouki); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 24
+},
+{
+"id": 71473,
+"en": "ATM",
+"ctx": "imagen de menú (2d_yk_atm); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 8
+},
+{
+"id": 71474,
+"en": "FutabaBankATM",
+"ctx": "imagen de menú (2d_yk_atm); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 71475,
+"en": "by",
+"ctx": "imagen de menú (batting_word); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 6
+},
+{
+"id": 71476,
+"en": "Pitch",
+"ctx": "imagen de menú (batting_word); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 71477,
+"en": "Hit Hit",
+"ctx": "imagen de menú (batting_word); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71478,
+"en": "Hit by",
+"ctx": "imagen de menú (batting_word); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 71479,
+"en": "Outfield Fly Outfield Fly",
+"ctx": "imagen de menú (batting_word); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71480,
+"en": "Run Run",
+"ctx": "imagen de menú (batting_word); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71481,
+"en": "Home Home",
+"ctx": "imagen de menú (batting_word); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71482,
+"en": "Out",
+"ctx": "imagen de menú (batting_word); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 8
+},
+{
+"id": 71483,
+"en": "Strike",
+"ctx": "imagen de menú (batting_word); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 71484,
+"en": "Infield Fly Infield Fly",
+"ctx": "imagen de menú (batting_word); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71485,
+"en": "Strike Out",
+"ctx": "imagen de menú (batting_word); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 71486,
+"en": "Esc ape",
+"ctx": "imagen de menú (2d_jm_life_eff5); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 71487,
+"en": "PutAway",
+"ctx": "imagen de menú (2d_jm_rancher); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 71488,
+"en": "Strength Focus",
+"ctx": "imagen de menú (2d_jm_foodgauge); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 24
+},
+{
+"id": 71489,
+"en": "ABI",
+"ctx": "imagen de menú (2d_cf_get_ability); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 8
+},
+{
+"id": 71490,
+"en": "LEA RNED",
+"ctx": "imagen de menú (2d_cf_get_ability); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 71491,
+"en": "LITY",
+"ctx": "imagen de menú (2d_cf_get_ability); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 71492,
+"en": "RNED",
+"ctx": "imagen de menú (2d_cf_get_ability); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 71493,
+"en": "LEA",
+"ctx": "imagen de menú (2d_cf_get_ability); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 8
+},
+{
+"id": 71494,
+"en": "CEL ITEM",
+"ctx": "imagen de menú (2d_cf_get_item); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71495,
+"en": "GET ITEM",
+"ctx": "imagen de menú (2d_cf_get_item); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 71496,
+"en": "Item",
+"ctx": "imagen de menú (2d_cf_get_item); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 71497,
+"en": "MEMORIES",
+"ctx": "imagen de menú (2d_jm_kaisou); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 71498,
+"en": "CHAPTERI",
+"ctx": "imagen de menú (2d_jm_kaisou); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 71499,
+"en": "PART2",
+"ctx": "imagen de menú (2d_jm_kaisou); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+}
+]

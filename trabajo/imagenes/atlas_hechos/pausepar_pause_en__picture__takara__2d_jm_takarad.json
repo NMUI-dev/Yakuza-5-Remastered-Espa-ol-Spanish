@@ -1,0 +1,60 @@
+{
+ "textura": "pausepar_pause_en/picture/takara/2d_jm_takarad",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    181,
+    215,
+    851,
+    253
+   ],
+   "en": "How many telephone booths are there in Tsukimino?",
+   "ocr": "How many telephone booths are there in Tsukimino?",
+   "es": "¿Cuántas cabinas telefónicas hay en Tsukimino?",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 666,
+   "dejar": true
+  },
+  {
+   "caja": [
+    174,
+    247,
+    867,
+    281
+   ],
+   "en": "Each booth counts, even though it may share a roof with another.",
+   "ocr": "Each booth counts, even though it may share a roof with another.",
+   "es": "Cada cabina cuenta, aunque comparta un techo con otra.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 689,
+   "dejar": true
+  },
+  {
+   "caja": [
+    384,
+    439,
+    678,
+    478
+   ],
+   "en": "State your answer here.",
+   "ocr": "State your answer here.",
+   "es": "Indica tu respuesta aquí.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 290,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: lo hace el PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

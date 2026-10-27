@@ -1,0 +1,141 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_taxi_result.par/texlist_0001/2d_jm_taxi_result02",
+ "fuente": "seguisbi.ttf",
+ "margen": 0,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    0,
+    0,
+    168,
+    24
+   ],
+   "en": "Base Reward",
+   "es": "Recompensa base",
+   "fuente": "seguisbi.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 160
+  },
+  {
+   "caja": [
+    0,
+    24,
+    168,
+    48
+   ],
+   "en": "Bonus",
+   "es": "Bono",
+   "fuente": "seguisbi.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 160
+  },
+  {
+   "caja": [
+    0,
+    48,
+    168,
+    72
+   ],
+   "en": "Current Points",
+   "es": "Puntos actuales",
+   "fuente": "seguisbi.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 160
+  },
+  {
+   "caja": [
+    0,
+    72,
+    168,
+    96
+   ],
+   "en": "Driver Level",
+   "es": "Nivel de conductor",
+   "fuente": "seguisbi.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 160
+  },
+  {
+   "caja": [
+    0,
+    96,
+    168,
+    120
+   ],
+   "en": "Best Time",
+   "es": "Mejor tiempo",
+   "fuente": "seguisbi.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 160
+  },
+  {
+   "caja": [
+    0,
+    120,
+    168,
+    144
+   ],
+   "en": "Total Time",
+   "es": "Tiempo total",
+   "fuente": "seguisbi.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 160
+  },
+  {
+   "caja": [
+    0,
+    144,
+    168,
+    168
+   ],
+   "en": "Mission",
+   "es": "Misión",
+   "fuente": "seguisbi.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 160
+  }
+ ]
+}

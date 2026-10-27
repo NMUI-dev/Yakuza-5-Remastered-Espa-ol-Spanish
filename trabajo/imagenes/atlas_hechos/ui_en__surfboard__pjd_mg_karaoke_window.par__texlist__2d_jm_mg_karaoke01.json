@@ -1,0 +1,692 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_karaoke_window.par/texlist/2d_jm_mg_karaoke01",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    532,
+    29,
+    712,
+    57
+   ],
+   "en": "Reservation Screen",
+   "es": "Pantalla de reservas",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 176,
+   "alto": 14
+  },
+  {
+   "caja": [
+    806,
+    74,
+    940,
+    100
+   ],
+   "en": "High Score",
+   "es": "Récord",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 130,
+   "alto": 23
+  },
+  {
+   "caja": [
+    802,
+    106,
+    880,
+    134
+   ],
+   "en": "Singers",
+   "es": "Cantantes",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 74,
+   "alto": 17
+  },
+  {
+   "caja": [
+    800,
+    139,
+    864,
+    167
+   ],
+   "en": "NEW",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 60,
+   "dejar": true
+  },
+  {
+   "caja": [
+    800,
+    166,
+    867,
+    200
+   ],
+   "en": "Back",
+   "es": "Atrás",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 63,
+   "alto": 16
+  },
+  {
+   "caja": [
+    540,
+    210,
+    628,
+    246
+   ],
+   "en": "Rules",
+   "es": "Reglas",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 84,
+   "alto": 22,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     235,
+     235,
+     235
+    ],
+    "contorno": [
+     [
+      25,
+      25,
+      25
+     ],
+     2
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    532,
+    250,
+    636,
+    288
+   ],
+   "en": "Replay",
+   "es": "Repetir",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 100,
+   "alto": 28,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     235,
+     235,
+     235
+    ],
+    "contorno": [
+     [
+      25,
+      25,
+      25
+     ],
+     2
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    532,
+    292,
+    636,
+    326
+   ],
+   "en": "Rankings",
+   "es": "Ranking",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 100,
+   "alto": 27,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     235,
+     235,
+     235
+    ],
+    "contorno": [
+     [
+      25,
+      25,
+      25
+     ],
+     2
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    532,
+    327,
+    636,
+    367
+   ],
+   "en": "History",
+   "es": "Historial",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 100,
+   "alto": 28,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     235,
+     235,
+     235
+    ],
+    "contorno": [
+     [
+      25,
+      25,
+      25
+     ],
+     2
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    532,
+    367,
+    636,
+    407
+   ],
+   "en": "Back",
+   "es": "Atrás",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 100,
+   "alto": 22
+  },
+  {
+   "caja": [
+    802,
+    239,
+    904,
+    267
+   ],
+   "en": "Preview",
+   "es": "Muestra",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 98,
+   "alto": 17
+  },
+  {
+   "caja": [
+    804,
+    269,
+    862,
+    297
+   ],
+   "en": "Score",
+   "es": "Puntos",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 54,
+   "alto": 14
+  },
+  {
+   "caja": [
+    804,
+    296,
+    868,
+    324
+   ],
+   "en": "Rating",
+   "es": "Nota",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 60,
+   "alto": 17
+  },
+  {
+   "caja": [
+    804,
+    323,
+    896,
+    351
+   ],
+   "en": "More Info",
+   "es": "Más info",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 88,
+   "alto": 14
+  },
+  {
+   "caja": [
+    804,
+    351,
+    874,
+    379
+   ],
+   "en": "History",
+   "es": "Historial",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 66,
+   "alto": 17
+  },
+  {
+   "caja": [
+    804,
+    379,
+    898,
+    407
+   ],
+   "en": "Rankings",
+   "es": "Ranking",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 90,
+   "alto": 17
+  },
+  {
+   "caja": [
+    533,
+    437,
+    600,
+    473
+   ],
+   "en": "Title",
+   "es": "Título",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 63,
+   "alto": 21
+  },
+  {
+   "caja": [
+    533,
+    471,
+    625,
+    499
+   ],
+   "en": "Song No.",
+   "es": "N.º canción",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 88,
+   "alto": 22
+  },
+  {
+   "caja": [
+    533,
+    498,
+    642,
+    526
+   ],
+   "en": "Play Count",
+   "es": "Intentos",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 105,
+   "alto": 18
+  },
+  {
+   "caja": [
+    533,
+    527,
+    656,
+    553
+   ],
+   "en": "Previous Score",
+   "es": "Puntos previos",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 119,
+   "alto": 15
+  },
+  {
+   "caja": [
+    533,
+    551,
+    644,
+    577
+   ],
+   "en": "High Score",
+   "es": "Récord",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 107,
+   "alto": 18
+  },
+  {
+   "caja": [
+    804,
+    448,
+    864,
+    472
+   ],
+   "en": "Guest",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 56,
+   "dejar": true
+  },
+  {
+   "caja": [
+    804,
+    476,
+    876,
+    508
+   ],
+   "en": "Style",
+   "es": "Estilo",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 68,
+   "alto": 25
+  },
+  {
+   "caja": [
+    804,
+    514,
+    946,
+    544
+   ],
+   "en": "High Score",
+   "es": "Récord",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 138,
+   "alto": 24
+  },
+  {
+   "caja": [
+    804,
+    548,
+    986,
+    576
+   ],
+   "en": "Request Rankings",
+   "es": "Ranking de pedidos",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 178,
+   "alto": 17
+  },
+  {
+   "caja": [
+    804,
+    578,
+    908,
+    602
+   ],
+   "en": "Play Count",
+   "es": "Intentos",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 100,
+   "alto": 17
+  },
+  {
+   "caja": [
+    804,
+    604,
+    904,
+    638
+   ],
+   "en": "Casual",
+   "es": "Normal",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 96,
+   "alto": 21
+  },
+  {
+   "caja": [
+    804,
+    642,
+    966,
+    678
+   ],
+   "en": "Passionate",
+   "es": "Apasionado",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 158,
+   "alto": 20
+  },
+  {
+   "caja": [
+    804,
+    679,
+    916,
+    715
+   ],
+   "en": "Backup",
+   "es": "Coros",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 108,
+   "alto": 26
+  },
+  {
+   "caja": [
+    533,
+    636,
+    598,
+    668
+   ],
+   "en": "Next",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 61,
+   "dejar": true
+  },
+  {
+   "caja": [
+    533,
+    672,
+    640,
+    708
+   ],
+   "en": "Sing",
+   "es": "Cantar",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 103,
+   "alto": 27
+  },
+  {
+   "caja": [
+    534,
+    722,
+    602,
+    748
+   ],
+   "en": "times",
+   "es": "veces",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 64,
+   "alto": 18
+  },
+  {
+   "caja": [
+    338,
+    634,
+    442,
+    667
+   ],
+   "en": "GREAT!",
+   "es": "¡GENIAL!",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 100,
+   "alto": 20
+  },
+  {
+   "caja": [
+    346,
+    666,
+    442,
+    699
+   ],
+   "en": "GOOD",
+   "es": "BIEN",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 92,
+   "alto": 21
+  },
+  {
+   "caja": [
+    346,
+    698,
+    442,
+    731
+   ],
+   "en": "BAD",
+   "es": "MAL",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 92,
+   "alto": 19
+  },
+  {
+   "caja": [
+    656,
+    806,
+    850,
+    836
+   ],
+   "en": "Select a Menu",
+   "es": "Elige un menú",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "der",
+   "ancho_max": 190,
+   "alto": 18
+  },
+  {
+   "caja": [
+    656,
+    838,
+    850,
+    868
+   ],
+   "en": "Select Difficulty",
+   "es": "Elige la dificultad",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "der",
+   "ancho_max": 190,
+   "alto": 23
+  },
+  {
+   "caja": [
+    656,
+    866,
+    850,
+    900
+   ],
+   "en": "Select a Song",
+   "es": "Elige una canción",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "der",
+   "ancho_max": 190,
+   "alto": 21
+  },
+  {
+   "caja": [
+    518,
+    926,
+    1008,
+    976
+   ],
+   "en": "You've Won 1000 Points!",
+   "es": "¡Ganaste 1000 puntos!",
+   "fuente": "LilitaOne-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 486,
+   "alto": 36
+  },
+  {
+   "caja": [
+    518,
+    979,
+    1010,
+    1024
+   ],
+   "en": "You've Won 1000 Points!",
+   "es": "¡Ganaste 1000 puntos!",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 488,
+   "alto": 36
+  }
+ ]
+}

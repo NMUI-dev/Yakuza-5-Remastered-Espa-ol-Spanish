@@ -1,0 +1,375 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_chinchiro5",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    459,
+    7,
+    564,
+    46
+   ],
+   "en": "Cee-lo",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    102,
+    68,
+    600,
+    100
+   ],
+   "en": "How to Play: Steps",
+   "es": "Cómo jugar: pasos",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    33,
+    32,
+    33
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 490
+  },
+  {
+   "caja": [
+    130,
+    119,
+    340,
+    143
+   ],
+   "en": "A point of 6:",
+   "es": "Un punto de 6:",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    8,
+    4,
+    8
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 202,
+   "alto": 19
+  },
+  {
+   "caja": [
+    344,
+    119,
+    1000,
+    143
+   ],
+   "en": "Banker wins same amount as the stake",
+   "es": "El banquero gana lo mismo que la apuesta",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    8,
+    4,
+    8
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 648,
+   "alto": 15
+  },
+  {
+   "caja": [
+    130,
+    143,
+    760,
+    167
+   ],
+   "en": "A combination (other than missing the pot):",
+   "es": "Una combinación (salvo dados fuera del bote):",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    8,
+    4,
+    8
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 622,
+   "alto": 19
+  },
+  {
+   "caja": [
+    344,
+    167,
+    1000,
+    191
+   ],
+   "en": "Banker wins between 2 to 5 times the stake",
+   "es": "El banquero gana de 2 a 5 veces la apuesta",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    8,
+    4,
+    8
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 648,
+   "alto": 15
+  },
+  {
+   "caja": [
+    130,
+    191,
+    340,
+    215
+   ],
+   "en": "A point of 1:",
+   "es": "Un punto de 1:",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    8,
+    4,
+    8
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 202,
+   "alto": 19
+  },
+  {
+   "caja": [
+    344,
+    191,
+    1000,
+    215
+   ],
+   "en": "Banker loses same amount as the stake",
+   "es": "El banquero pierde lo mismo que la apuesta",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    8,
+    4,
+    8
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 648,
+   "alto": 15
+  },
+  {
+   "caja": [
+    130,
+    215,
+    340,
+    239
+   ],
+   "en": "Missed the pot:",
+   "es": "Fuera del bote:",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    8,
+    4,
+    8
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 202,
+   "alto": 19
+  },
+  {
+   "caja": [
+    344,
+    215,
+    1000,
+    239
+   ],
+   "en": "Banker loses same amount as the stake",
+   "es": "El banquero pierde lo mismo que la apuesta",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    8,
+    4,
+    8
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 648,
+   "alto": 15
+  },
+  {
+   "caja": [
+    130,
+    239,
+    340,
+    263
+   ],
+   "en": "No point:",
+   "es": "Sin punto:",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    8,
+    4,
+    8
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 202,
+   "alto": 19
+  },
+  {
+   "caja": [
+    344,
+    239,
+    1000,
+    263
+   ],
+   "en": "Banker loses same amount as the stake",
+   "es": "El banquero pierde lo mismo que la apuesta",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    8,
+    4,
+    8
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 648,
+   "alto": 15
+  },
+  {
+   "caja": [
+    344,
+    263,
+    1000,
+    287
+   ],
+   "en": "Banker loses double the stake",
+   "es": "El banquero pierde el doble de la apuesta",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    8,
+    4,
+    8
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 648,
+   "alto": 15
+  },
+  {
+   "caja": [
+    130,
+    310,
+    1005,
+    341
+   ],
+   "en": "3. When a round ends, the player to the left of the banker",
+   "es": "3. Al terminar una ronda, el jugador a la izquierda del banquero",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    8,
+    4,
+    8
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 867,
+   "alto": 24
+  },
+  {
+   "caja": [
+    166,
+    341,
+    1005,
+    371
+   ],
+   "en": "becomes the new banker. Like before, the banker rolls",
+   "es": "pasa a ser el nuevo banquero. Como antes, el banquero tira",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    8,
+    4,
+    8
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 831,
+   "alto": 21
+  },
+  {
+   "caja": [
+    166,
+    371,
+    1005,
+    402
+   ],
+   "en": "first, followed by the players, until the game is set.",
+   "es": "primero y luego los jugadores, hasta que acabe la partida.",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    8,
+    4,
+    8
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 831,
+   "alto": 24
+  },
+  {
+   "caja": [
+    166,
+    424,
+    1005,
+    455
+   ],
+   "en": "The game ends when all players have been banker or if",
+   "es": "La partida termina cuando todos han sido banquero o si",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    8,
+    4,
+    8
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 831,
+   "alto": 24
+  },
+  {
+   "caja": [
+    166,
+    455,
+    800,
+    486
+   ],
+   "en": "a player runs out of chips.",
+   "es": "un jugador se queda sin fichas.",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    8,
+    4,
+    8
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 626,
+   "alto": 24
+  }
+ ]
+}

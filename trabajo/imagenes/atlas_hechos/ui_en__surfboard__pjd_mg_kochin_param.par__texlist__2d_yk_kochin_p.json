@@ -1,0 +1,260 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_kochin_param.par/texlist/2d_yk_kochin_p",
+ "fuente": "timesi.ttf",
+ "margen": 0,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    31,
+    2,
+    80,
+    25
+   ],
+   "en": "Back",
+   "es": "Atrás",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 45
+  },
+  {
+   "caja": [
+    31,
+    86,
+    80,
+    109
+   ],
+   "en": "Back",
+   "es": "Atrás",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 45
+  },
+  {
+   "caja": [
+    408,
+    3,
+    510,
+    25
+   ],
+   "en": "Stamina",
+   "es": "Resistencia",
+   "fuente": "segoeuii.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 98
+  },
+  {
+   "caja": [
+    408,
+    29,
+    510,
+    51
+   ],
+   "en": "Leg Power",
+   "es": "Potencia",
+   "fuente": "segoeuii.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 98
+  },
+  {
+   "caja": [
+    408,
+    55,
+    510,
+    77
+   ],
+   "en": "Dirt",
+   "es": "Tierra",
+   "fuente": "segoeuii.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 98
+  },
+  {
+   "caja": [
+    408,
+    81,
+    510,
+    103
+   ],
+   "en": "Dark",
+   "es": "Oscuro",
+   "fuente": "segoeuii.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 98
+  },
+  {
+   "caja": [
+    408,
+    107,
+    510,
+    129
+   ],
+   "en": "Running Style",
+   "es": "Estilo",
+   "fuente": "segoeuii.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 98
+  },
+  {
+   "caja": [
+    408,
+    133,
+    510,
+    155
+   ],
+   "en": "Personality",
+   "es": "Personalidad",
+   "fuente": "segoeuii.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 98
+  },
+  {
+   "caja": [
+    408,
+    159,
+    510,
+    181
+   ],
+   "en": "Skills",
+   "es": "Habilidades",
+   "fuente": "segoeuii.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 98
+  },
+  {
+   "caja": [
+    408,
+    186,
+    510,
+    208
+   ],
+   "en": "Condition",
+   "es": "Condición",
+   "fuente": "segoeuii.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 98
+  },
+  {
+   "caja": [
+    408,
+    214,
+    510,
+    236
+   ],
+   "en": "Race Limit",
+   "es": "Carreras máx.",
+   "fuente": "segoeuii.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 98
+  },
+  {
+   "caja": [
+    140,
+    45,
+    240,
+    69
+   ],
+   "en": "Stamina",
+   "es": "Resistencia",
+   "fuente": "segoeuii.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 96
+  },
+  {
+   "caja": [
+    140,
+    75,
+    240,
+    99
+   ],
+   "en": "Leg Power",
+   "es": "Potencia",
+   "fuente": "segoeuii.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 96
+  },
+  {
+   "caja": [
+    140,
+    103,
+    240,
+    127
+   ],
+   "en": "Dirt",
+   "es": "Tierra",
+   "fuente": "segoeuii.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 96
+  },
+  {
+   "caja": [
+    140,
+    134,
+    240,
+    158
+   ],
+   "en": "Dark",
+   "es": "Oscuro",
+   "fuente": "segoeuii.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 96
+  },
+  {
+   "caja": [
+    140,
+    164,
+    240,
+    188
+   ],
+   "en": "Running Style",
+   "es": "Estilo",
+   "fuente": "segoeuii.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 96
+  },
+  {
+   "caja": [
+    140,
+    193,
+    240,
+    217
+   ],
+   "en": "Personality",
+   "es": "Personalidad",
+   "fuente": "segoeuii.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 96
+  },
+  {
+   "caja": [
+    140,
+    230,
+    240,
+    254
+   ],
+   "en": "Skills",
+   "es": "Habilidades",
+   "fuente": "segoeuii.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 96
+  }
+ ]
+}

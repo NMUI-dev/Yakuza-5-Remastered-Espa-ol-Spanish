@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_pause_en/picture/caption/2d_jm_bc_boss_l_tojokai",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    243,
+    63,
+    785,
+    191
+   ],
+   "en": "TOJO CLAN",
+   "ocr": "TOJO CLAN",
+   "es": "CLAN TOJO",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 538
+  }
+ ]
+}

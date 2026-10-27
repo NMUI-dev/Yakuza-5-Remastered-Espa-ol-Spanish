@@ -1,0 +1,108 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_taxi_result.par/texlist_0001/2d_jm_taxi_result",
+ "fuente": "segoeuiz.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    0,
+    240,
+    48
+   ],
+   "en": "RESULTS",
+   "es": "",
+   "dejar": true,
+   "nota": "titulo con copia rayada animada (0,48,240,96) que el kit no puede rehacer; RESULTADOS tampoco cabe"
+  },
+  {
+   "caja": [
+    107,
+    215,
+    234,
+    241
+   ],
+   "en": "LEVEL UP",
+   "es": "",
+   "dejar": true,
+   "nota": "letras sueltas L E V E U P en celdas de 20 px (animacion letra a letra)"
+  },
+  {
+   "caja": [
+    0,
+    96,
+    96,
+    128
+   ],
+   "en": "CLEAR!!",
+   "es": "¡LOGRADO!",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "brillo",
+   "alin": "centro",
+   "ancho_max": 92,
+   "color": [
+    255,
+    235,
+    0
+   ]
+  },
+  {
+   "caja": [
+    176,
+    129,
+    256,
+    159
+   ],
+   "en": "FINISH",
+   "es": "META",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "brillo",
+   "alin": "centro",
+   "ancho_max": 76,
+   "color": [
+    255,
+    235,
+    0
+   ]
+  },
+  {
+   "caja": [
+    30,
+    129,
+    176,
+    159
+   ],
+   "en": "NEW RECORD",
+   "es": "NUEVO RÉCORD",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "brillo",
+   "alin": "izq",
+   "ancho_max": 142,
+   "color": [
+    255,
+    235,
+    0
+   ]
+  },
+  {
+   "caja": [
+    98,
+    107,
+    133,
+    125
+   ],
+   "en": "Lv.",
+   "es": "Nv.",
+   "fuente": "segoeuii.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 33
+  }
+ ]
+}

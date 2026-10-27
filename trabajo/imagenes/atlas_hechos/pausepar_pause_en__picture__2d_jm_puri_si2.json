@@ -1,0 +1,36 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_si2",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    38,
+    138,
+    497,
+    200
+   ],
+   "en": "Be sure to",
+   "ocr": "Besureto borrowresponsibly",
+   "es": "Asegúrate de pedir",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro"
+  },
+  {
+   "caja": [
+    38,
+    200,
+    497,
+    256
+   ],
+   "en": "borrow responsibly",
+   "ocr": "Besureto borrowresponsibly",
+   "es": "prestado con responsabilidad",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro"
+  }
+ ]
+}

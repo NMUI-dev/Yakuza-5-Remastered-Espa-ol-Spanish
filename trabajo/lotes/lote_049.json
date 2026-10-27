@@ -1,0 +1,1457 @@
+[
+{
+"id": 13574,
+"en": "These fries are perfectly salted. Enjoy with ketchup, mayonnaise, or your own choice of dipping sauce.",
+"ctx": "menú/texto shop0044"
+},
+{
+"id": 13575,
+"en": "Addictively crunchy sticks of golden goodness.",
+"ctx": "menú/texto shop0044"
+},
+{
+"id": 13576,
+"en": "Soybean pods boiled in salt water, a classic Japanese bar snack.",
+"ctx": "menú/texto shop0044"
+},
+{
+"id": 13577,
+"en": "Mixed nuts, a classic bar snack around the world.",
+"ctx": "menú/texto shop0044"
+},
+{
+"id": 13578,
+"en": "The perfect choice to cool you down if the ladies have you hot and bothered.",
+"ctx": "menú/texto shop0044"
+},
+{
+"id": 13579,
+"en": "A sweet and tasty snack found at almost any hostess club.",
+"ctx": "menú/texto shop0044"
+},
+{
+"id": 13580,
+"en": "This trap is great for catching rabbits.",
+"ctx": "menú/texto shop0045"
+},
+{
+"id": 13581,
+"en": "This trap is great for catching foxes.",
+"ctx": "menú/texto shop0045"
+},
+{
+"id": 13582,
+"en": "This trap is great for catching martens.",
+"ctx": "menú/texto shop0045"
+},
+{
+"id": 13583,
+"en": "Use this kit to modify traps to make them more effective at catching animals.",
+"ctx": "menú/texto shop0045"
+},
+{
+"id": 13584,
+"en": "Use this kit to repair broken traps so they can be used again.",
+"ctx": "menú/texto shop0045"
+},
+{
+"id": 13585,
+"en": "Use this kit to repair a collapsed hunting hut.",
+"ctx": "menú/texto shop0045"
+},
+{
+"id": 13586,
+"en": "Take these provisions to help you survive on the mountain. They'll give you a slight health boost.",
+"ctx": "menú/texto shop0045"
+},
+{
+"id": 13587,
+"en": "Take these provisions to help you survive on the mountain. They'll give you a rather large health boost.",
+"ctx": "menú/texto shop0045"
+},
+{
+"id": 13588,
+"en": "A sweet, tasty carrot.",
+"ctx": "menú/texto shop0045"
+},
+{
+"id": 13589,
+"en": "A block of wood that's just the perfect size to be made into something.",
+"ctx": "menú/texto shop0045"
+},
+{
+"id": 13590,
+"en": "A tool for whittling away wood. You could probably make something with it, if you had wood to whittle.",
+"ctx": "menú/texto shop0045"
+},
+{
+"id": 13591,
+"en": "This large prawn is tasty, but it can also be used as bait.",
+"ctx": "menú/texto shop0045 + menú/texto shop0046"
+},
+{
+"id": 13592,
+"en": "A plain old earthworm. The classic bait for fishing.",
+"ctx": "menú/texto shop0046"
+},
+{
+"id": 13593,
+"en": "The use of carefully selected non-glutinous rice results in a refined flavor and a springy texture.　",
+"ctx": "menú/texto shop0049"
+},
+{
+"id": 13594,
+"en": "This rice ball has tuna dressed with mayonnaise in the middle.",
+"ctx": "menú/texto shop0056"
+},
+{
+"id": 13595,
+"en": "Organ meat stewed in a miso broth until tasty and tender.",
+"ctx": "menú/texto shop0064"
+},
+{
+"id": 13596,
+"en": "Shall I ring this up now?",
+"ctx": "menú/texto shop0082"
+},
+{
+"id": 13597,
+"en": "This bloody binding gives off an ominous feeling. Use with caution.",
+"ctx": "menú/texto shop0082"
+},
+{
+"id": 13598,
+"en": "This high-end Italian Women's Suit is from a top brand known for its use of color.",
+"ctx": "menú/texto shop0092"
+},
+{
+"id": 13599,
+"en": "Thanks. That comes to %s chips.",
+"ctx": "menú/texto shop0095"
+},
+{
+"id": 13600,
+"en": "Thanks. That'll be %s.",
+"ctx": "menú/texto shop0096"
+},
+{
+"id": 13601,
+"en": "Thanks. Your total's %s.",
+"ctx": "menú/texto shop0097"
+},
+{
+"id": 13602,
+"en": "Welcome back, Chairman Dojima.",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13603,
+"en": "Thanks.",
+"ctx": "subtítulo de escena A1010 + diálogo uid0002098f …"
+},
+{
+"id": 13604,
+"en": "Now then, Patriarch Madarame.",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13605,
+"en": "I hope you give this matter some consideration.",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13606,
+"en": "You seem to be a trustworthy man.",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13607,
+"en": "And despite my sudden request...",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13608,
+"en": "\"You agreed to cancel our hotel meeting\nand convene in my private car instead.\"",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13609,
+"en": "\"An intimate space.\nNo room for bodyguards to protect you.\"",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13610,
+"en": "Your very life could have been in danger.",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13611,
+"en": "\"And yet, you still got in.\nStill chose to meet with me.\"",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13612,
+"en": "\"I hope that shows you how seriously\nme and my clan are taking this alliance.\"",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13613,
+"en": "\"That, and I couldn't imagine the honorable leader\nof Kyushu's Yamagasa Family resorting to trickery.\"",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13614,
+"en": "Your turf, your rules.",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13615,
+"en": "\"While we're in Fukuoka, I fully intend to\nfollow them, Patriarch Madarame.\"",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13616,
+"en": "\"You run a clan of over 30 thousand, yet you defer\nto a man with less than 500 soldiers to his name?\"",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13617,
+"en": "Correct. After all...",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13618,
+"en": "That's what it means to be an equal alliance.",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13619,
+"en": "I see. You show as much decency as you do daring.",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13620,
+"en": "\"It's no surprise you've come to lead\nthe Tojo Clan at such a young age.\"",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13621,
+"en": "\"As for the alliance. I have much\nto consider, but I am hopeful.\"",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13622,
+"en": "My response will come within the week.",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13623,
+"en": "\"I'll be waiting.\nTake care, in the meantime.\"",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13624,
+"en": "This world is a dangerous one, Patriarch.",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13625,
+"en": "Scram.",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13626,
+"en": "Who was that?",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13627,
+"en": "The captain of the Yamagasa Family.",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13628,
+"en": "\"A man named Yahata.\nHead of his own family as well.\"",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13629,
+"en": "I'm glad you've returned unharmed, Chairman.",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13630,
+"en": "\"Canceling the hotel meeting was quite a surprise.\nI wasn't sure what to expect.\"",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13631,
+"en": "\"Our counterparts here are no fools.\nThey have no reason to go stirring up trouble.\"",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13632,
+"en": "I agree, but...",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13633,
+"en": "\"Not to mention, we're pressuring them into this.\nAn alliance they normally would never consider.\"",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13634,
+"en": "I anticipated at least some risk.",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13635,
+"en": "We should make our way back to the hotel.",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13636,
+"en": "It's not safe staying in the open for too long.",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13637,
+"en": "Chairman?",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13638,
+"en": "\"Chairman Dojima?\nWhere are you going?\"",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13639,
+"en": "\"The trip to Fukuoka was a long one.\nI need some time alone to unwind.\"",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13640,
+"en": "\"Don't worry, I won't be gone long.\nNo need to accompany me.\"",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13641,
+"en": "You two.",
+"ctx": "subtítulo de escena A1010"
+},
+{
+"id": 13642,
+"en": "Mind giving me a lift?",
+"ctx": "subtítulo de escena A1020"
+},
+{
+"id": 13643,
+"en": "I said I'd like a ride.",
+"ctx": "subtítulo de escena A1020"
+},
+{
+"id": 13644,
+"en": "\"Then ask the taxi at the front.\nThat's how this works.\"",
+"ctx": "subtítulo de escena A1020"
+},
+{
+"id": 13645,
+"en": "No. I think I'd prefer this one.",
+"ctx": "subtítulo de escena A1020"
+},
+{
+"id": 13646,
+"en": "\"You have no reason to turn me away. And drivers\ncan't refuse a paying customer without justification.\"",
+"ctx": "subtítulo de escena A1020"
+},
+{
+"id": 13647,
+"en": "Where to, sir?",
+"ctx": "subtítulo de escena A1020"
+},
+{
+"id": 13648,
+"en": "<Italic>Taichi Suzuki</Italic>",
+"ctx": "subtítulo de escena A1030"
+},
+{
+"id": 13649,
+"en": "Nice town.",
+"ctx": "subtítulo de escena A1030"
+},
+{
+"id": 13650,
+"en": "I see why so many people have ended up here.",
+"ctx": "subtítulo de escena A1030"
+},
+{
+"id": 13651,
+"en": "Have you been driving long?",
+"ctx": "subtítulo de escena A1030"
+},
+{
+"id": 13652,
+"en": "About six months now.",
+"ctx": "subtítulo de escena A1030"
+},
+{
+"id": 13653,
+"en": "That's all?",
+"ctx": "subtítulo de escena A1030 + diálogo uid010c0801"
+},
+{
+"id": 13654,
+"en": "\"I guess you don't quite have\nthe lay of the land yet, then.\"",
+"ctx": "subtítulo de escena A1030"
+},
+{
+"id": 13655,
+"en": "Not really.",
+"ctx": "subtítulo de escena A1030 + diálogo uid00690224 …"
+},
+{
+"id": 13656,
+"en": "Shame.",
+"ctx": "subtítulo de escena A1030"
+},
+{
+"id": 13657,
+"en": "\"I was hoping you'd be able to fill me in\non what life is like down here.\"",
+"ctx": "subtítulo de escena A1030"
+},
+{
+"id": 13658,
+"en": "The truth is, I'm from Tokyo myself.",
+"ctx": "subtítulo de escena A1030"
+},
+{
+"id": 13659,
+"en": "\"I've only come to Fukuoka for some\npressing business dealings.\"",
+"ctx": "subtítulo de escena A1030"
+},
+{
+"id": 13660,
+"en": "\"Ah, well. If you don't mind, I'm going to think\nout loud for a bit. Please pay it no mind.\"",
+"ctx": "subtítulo de escena A1030"
+},
+{
+"id": 13661,
+"en": "\"Where are we? I never said\nanything about stopping.\"",
+"ctx": "subtítulo de escena A1040"
+},
+{
+"id": 13662,
+"en": "You can forget about the fare.",
+"ctx": "subtítulo de escena A1040"
+},
+{
+"id": 13663,
+"en": "\"I can't keep driving you without\na concrete destination, sir.\"",
+"ctx": "subtítulo de escena A1040"
+},
+{
+"id": 13664,
+"en": "You're telling me to just walk home, then?",
+"ctx": "subtítulo de escena A1040"
+},
+{
+"id": 13665,
+"en": "<Italic>Occupied</Italic>",
+"ctx": "subtítulo de escena A1040"
+},
+{
+"id": 13666,
+"en": "<Italic>Available</Italic>",
+"ctx": "subtítulo de escena A1040"
+},
+{
+"id": 13667,
+"en": "\"I get it. I need to learn how to\nfind my own way forward.\"",
+"ctx": "subtítulo de escena A1040"
+},
+{
+"id": 13668,
+"en": "It may not always seem it...",
+"ctx": "subtítulo de escena A1040 + subtítulo de escena A1090"
+},
+{
+"id": 13669,
+"en": "But I'm trying my best to walk this path.",
+"ctx": "subtítulo de escena A1040 + subtítulo de escena A1090"
+},
+{
+"id": 13670,
+"en": "Fourth Chairman.",
+"ctx": "subtítulo de escena A1040 + subtítulo de escena A1090 …"
+},
+{
+"id": 13671,
+"en": "\"Thank ya kindly.\nBowl of kake!\"",
+"ctx": "subtítulo de escena A1040 + subtítulo de escena A1050"
+},
+{
+"id": 13672,
+"en": "\"Slim pickings again.\nSame as always.\"",
+"ctx": "subtítulo de escena A1040 + subtítulo de escena A1050"
+},
+{
+"id": 13673,
+"en": "\"Even the jobs I <Italic>do</Italic> get are regular ol'\none-way fares. It's just not right.\"",
+"ctx": "subtítulo de escena A1040 + subtítulo de escena A1050"
+},
+{
+"id": 13674,
+"en": "Kakesoba's ready!",
+"ctx": "subtítulo de escena A1040 + subtítulo de escena A1050"
+},
+{
+"id": 13675,
+"en": "\"These shows've been sproutin'\nup a lot lately, huh?\"",
+"ctx": "subtítulo de escena A1040 + subtítulo de escena A1050"
+},
+{
+"id": 13676,
+"en": "\"Y'can say that again.\nMy daughter's glued to the things.\"",
+"ctx": "subtítulo de escena A1040 + subtítulo de escena A1050"
+},
+{
+"id": 13677,
+"en": "Think I've seen this one.",
+"ctx": "subtítulo de escena A1040 + subtítulo de escena A1050"
+},
+{
+"id": 13678,
+"en": "\"They call it the Princess League. Some kinda\ncompetition for amateur idols to strut their stuff.\"",
+"ctx": "subtítulo de escena A1040 + subtítulo de escena A1050"
+},
+{
+"id": 13679,
+"en": "\"Pretty sure the winner gets\nsigned to some big-time label.\"",
+"ctx": "subtítulo de escena A1040 + subtítulo de escena A1050"
+},
+{
+"id": 13680,
+"en": "\"Bet they gotta strut their stuff\nin the bedroom, too, if you get me.\"",
+"ctx": "subtítulo de escena A1040 + subtítulo de escena A1050"
+},
+{
+"id": 13681,
+"en": "\"Stay too long in the biz and it's gonna\ntwist you up somethin' fierce.\"",
+"ctx": "subtítulo de escena A1040 + subtítulo de escena A1050"
+},
+{
+"id": 13682,
+"en": "No doubt about that.",
+"ctx": "subtítulo de escena A1040 + subtítulo de escena A1050"
+},
+{
+"id": 13683,
+"en": "\"Not a fly's chance in a farmstead\nI'd let my daughter on somethin' like this.\"",
+"ctx": "subtítulo de escena A1040 + subtítulo de escena A1050"
+},
+{
+"id": 13684,
+"en": "\"Y'ask me, it comes down to the parents. Dig a bit and\nyou'll find they're all chasin' some long lost dream.\"",
+"ctx": "subtítulo de escena A1040 + subtítulo de escena A1050"
+},
+{
+"id": 13685,
+"en": "\"Not a single thought fer the wolves\nthey're tossing their kid to.\"",
+"ctx": "subtítulo de escena A1040"
+},
+{
+"id": 13686,
+"en": "Come again!",
+"ctx": "subtítulo de escena A1040 + subtítulo de escena A1050"
+},
+{
+"id": 13687,
+"en": "When's this economy gonna",
+"ctx": "subtítulo de escena A1050"
+},
+{
+"id": 13688,
+"en": "\"Not a single thought fer the wolves\nthey're tossing their kid into.\"",
+"ctx": "subtítulo de escena A1050"
+},
+{
+"id": 13689,
+"en": "Here are my fares.",
+"ctx": "subtítulo de escena A1060 + subtítulo de escena A1065"
+},
+{
+"id": 13690,
+"en": "\"Oh, Suzuki-san!\nGood to see you.\"",
+"ctx": "subtítulo de escena A1060 + subtítulo de escena A1065"
+},
+{
+"id": 13691,
+"en": "Been waitin' for ya!",
+"ctx": "subtítulo de escena A1060 + subtítulo de escena A1065"
+},
+{
+"id": 13692,
+"en": "\"Nakajima, sir.\nGood evening.\"",
+"ctx": "subtítulo de escena A1060 + subtítulo de escena A1065"
+},
+{
+"id": 13693,
+"en": "\"Got somethin' to talk to you about.\nMind steppin' into my \"\"office\"\"?\"",
+"ctx": "subtítulo de escena A1060 + subtítulo de escena A1065"
+},
+{
+"id": 13694,
+"en": "<Italic>Suzuki</Italic>",
+"ctx": "subtítulo de escena A1065"
+},
+{
+"id": 13695,
+"en": "<Italic>In</Italic>",
+"ctx": "subtítulo de escena A1065"
+},
+{
+"id": 13696,
+"en": "Hi there!",
+"ctx": "subtítulo de escena A1070"
+},
+{
+"id": 13697,
+"en": "I'm Momo!",
+"ctx": "subtítulo de escena A1070"
+},
+{
+"id": 13698,
+"en": "Good evening. I'm Mayumi.",
+"ctx": "subtítulo de escena A1070"
+},
+{
+"id": 13699,
+"en": "Like heck y'are!",
+"ctx": "subtítulo de escena A1070"
+},
+{
+"id": 13700,
+"en": "Yeah, I guess so.",
+"ctx": "subtítulo de escena A1070"
+},
+{
+"id": 13701,
+"en": "Hey! Y'bringin' us another bottle or what!?",
+"ctx": "subtítulo de escena A1070"
+},
+{
+"id": 13702,
+"en": "Protection? Y'mean yakuza?",
+"ctx": "subtítulo de escena A1075"
+},
+{
+"id": 13703,
+"en": "Why they gotta come boozin' here?",
+"ctx": "subtítulo de escena A1075"
+},
+{
+"id": 13704,
+"en": "'Parently these're special circumstances.",
+"ctx": "subtítulo de escena A1075"
+},
+{
+"id": 13705,
+"en": "Some group from Tokyo in town.",
+"ctx": "subtítulo de escena A1075"
+},
+{
+"id": 13706,
+"en": "Just wish they stayed away on payday.",
+"ctx": "subtítulo de escena A1075"
+},
+{
+"id": 13707,
+"en": "Right, Suzuki-san?",
+"ctx": "subtítulo de escena A1075"
+},
+{
+"id": 13708,
+"en": "Yeah, I guess.",
+"ctx": "subtítulo de escena A1075"
+},
+{
+"id": 13709,
+"en": "It's a real crick in the neck.",
+"ctx": "subtítulo de escena A1075"
+},
+{
+"id": 13710,
+"en": "Bunch o' dang pests.",
+"ctx": "subtítulo de escena A1075"
+},
+{
+"id": 13711,
+"en": "Why we gotta sit around in this dump?",
+"ctx": "subtítulo de escena A1075"
+},
+{
+"id": 13712,
+"en": "Equal alliance my ass.",
+"ctx": "subtítulo de escena A1075"
+},
+{
+"id": 13713,
+"en": "The main family jus' don't get it.",
+"ctx": "subtítulo de escena A1075"
+},
+{
+"id": 13714,
+"en": "Got that right. Then there's their chairman.",
+"ctx": "subtítulo de escena A1075"
+},
+{
+"id": 13715,
+"en": "Some jackoff called Daigo Dojima.",
+"ctx": "subtítulo de escena A1075"
+},
+{
+"id": 13716,
+"en": "Rumor has it guy's only 36.",
+"ctx": "subtítulo de escena A1075"
+},
+{
+"id": 13717,
+"en": "36!? That's younger'n me!",
+"ctx": "subtítulo de escena A1075"
+},
+{
+"id": 13718,
+"en": "'Parently he only got the gig 'cause of his daddy.",
+"ctx": "subtítulo de escena A1075"
+},
+{
+"id": 13719,
+"en": "Read it in the Weekly Jitsuwa.",
+"ctx": "subtítulo de escena A1075"
+},
+{
+"id": 13720,
+"en": "Fuck that! I ain't standin' for it!",
+"ctx": "subtítulo de escena A1075"
+},
+{
+"id": 13721,
+"en": "Empty? Great service ya got.",
+"ctx": "subtítulo de escena A1075"
+},
+{
+"id": 13722,
+"en": "Coming right up, sir.",
+"ctx": "subtítulo de escena A1075"
+},
+{
+"id": 13723,
+"en": "Too fuckin' slow!",
+"ctx": "subtítulo de escena A1075"
+},
+{
+"id": 13724,
+"en": "Sir?",
+"ctx": "subtítulo de escena A1075 + diálogo uid010c08a1"
+},
+{
+"id": 13725,
+"en": "Enough's enough!",
+"ctx": "subtítulo de escena A1075"
+},
+{
+"id": 13726,
+"en": "I'm tossin' those punks out!",
+"ctx": "subtítulo de escena A1075"
+},
+{
+"id": 13727,
+"en": "Chief.",
+"ctx": "subtítulo de escena A1075"
+},
+{
+"id": 13728,
+"en": "Hey, you over there!",
+"ctx": "subtítulo de escena A1075"
+},
+{
+"id": 13729,
+"en": "Pipe down! Yer ruinin' the vibe!",
+"ctx": "subtítulo de escena A1075"
+},
+{
+"id": 13730,
+"en": "You're pretty quick to attack a civilian.",
+"ctx": "subtítulo de escena A1075"
+},
+{
+"id": 13731,
+"en": "Say what?",
+"ctx": "subtítulo de escena A1075 + subtítulo de escena A1380 …"
+},
+{
+"id": 13732,
+"en": "And who the shit're you!?",
+"ctx": "subtítulo de escena A1075"
+},
+{
+"id": 13733,
+"en": "Right. It's no surprise you don't know.",
+"ctx": "subtítulo de escena A1075"
+},
+{
+"id": 13734,
+"en": "N' I don't care, either!",
+"ctx": "subtítulo de escena A1075"
+},
+{
+"id": 13735,
+"en": "Fair enough. That'll make this easier.",
+"ctx": "subtítulo de escena A1075"
+},
+{
+"id": 13736,
+"en": "Well? I'm ready when you are.",
+"ctx": "subtítulo de escena A1075"
+},
+{
+"id": 13737,
+"en": "Hope yer ready to die!",
+"ctx": "subtítulo de escena A1075"
+},
+{
+"id": 13738,
+"en": "Sorry for all the trouble.",
+"ctx": "subtítulo de escena A1080"
+},
+{
+"id": 13739,
+"en": "Please. We should be the ones apologizing.",
+"ctx": "subtítulo de escena A1080"
+},
+{
+"id": 13740,
+"en": "I'm not sure I should be saying this...",
+"ctx": "subtítulo de escena A1080"
+},
+{
+"id": 13741,
+"en": "I hope you're right.",
+"ctx": "subtítulo de escena A1080"
+},
+{
+"id": 13742,
+"en": "Where'd they go?",
+"ctx": "subtítulo de escena A1080"
+},
+{
+"id": 13743,
+"en": "You don't remember?",
+"ctx": "subtítulo de escena A1080 + subtítulo de escena D4395"
+},
+{
+"id": 13744,
+"en": "You really showed them who's boss, sir.",
+"ctx": "subtítulo de escena A1080"
+},
+{
+"id": 13745,
+"en": "I did!?",
+"ctx": "subtítulo de escena A1080"
+},
+{
+"id": 13746,
+"en": "We'll be going now.",
+"ctx": "subtítulo de escena A1080"
+},
+{
+"id": 13747,
+"en": "I'm home.",
+"ctx": "subtítulo de escena A1090"
+},
+{
+"id": 13748,
+"en": "You left the kettle on!",
+"ctx": "subtítulo de escena A1090"
+},
+{
+"id": 13749,
+"en": "Hey, you.",
+"ctx": "subtítulo de escena A1090 + diálogo uid01020717 …"
+},
+{
+"id": 13750,
+"en": "Hey. Welcome home.",
+"ctx": "subtítulo de escena A1090"
+},
+{
+"id": 13751,
+"en": "Morning, sleepyhead.",
+"ctx": "subtítulo de escena A1100"
+},
+{
+"id": 13752,
+"en": "Will you be home late again tonight?",
+"ctx": "subtítulo de escena A1110"
+},
+{
+"id": 13753,
+"en": "Yeah. I'm on the midnight shift.",
+"ctx": "subtítulo de escena A1110"
+},
+{
+"id": 13754,
+"en": "I want to be alone tonight.",
+"ctx": "subtítulo de escena A1110"
+},
+{
+"id": 13755,
+"en": "Oh, come on.",
+"ctx": "subtítulo de escena A1110 + diálogo uid000c0dc4 …"
+},
+{
+"id": 13756,
+"en": "I don't know what you mean.",
+"ctx": "subtítulo de escena A1110"
+},
+{
+"id": 13757,
+"en": "Your tie's crooked.",
+"ctx": "subtítulo de escena A1110"
+},
+{
+"id": 13758,
+"en": "There. All better.",
+"ctx": "subtítulo de escena A1110"
+},
+{
+"id": 13759,
+"en": "What's wrong?",
+"ctx": "subtítulo de escena A1110 + subtítulo de escena C3265 …"
+},
+{
+"id": 13760,
+"en": "Have a good day!",
+"ctx": "subtítulo de escena A1110"
+},
+{
+"id": 13761,
+"en": "Taichi Suzuki-san, yes?",
+"ctx": "subtítulo de escena A1120"
+},
+{
+"id": 13762,
+"en": "There's something we'd like to ask you.",
+"ctx": "subtítulo de escena A1120"
+},
+{
+"id": 13763,
+"en": "Can you spare a moment?",
+"ctx": "subtítulo de escena A1120"
+},
+{
+"id": 13764,
+"en": "Sorry, but I'm busy.",
+"ctx": "subtítulo de escena A1120 + diálogo uid00033c4d …"
+},
+{
+"id": 13765,
+"en": "As I'm sure you can see...",
+"ctx": "subtítulo de escena A1120"
+},
+{
+"id": 13766,
+"en": "It'll only be a moment.",
+"ctx": "subtítulo de escena A1120"
+},
+{
+"id": 13767,
+"en": "Surely you can spare that.",
+"ctx": "subtítulo de escena A1120"
+},
+{
+"id": 13768,
+"en": "Kazuma Kiryu-san.",
+"ctx": "subtítulo de escena A1120 + subtítulo de escena A1290"
+},
+{
+"id": 13769,
+"en": "So what do you want?",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13770,
+"en": "\"As I'm sure you're already aware, my partner\nand I are here on behalf of the Tojo Clan.\"",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13771,
+"en": "Chairman Dojima is in Fukuoka on official business.",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13772,
+"en": "\"And we've been tasked with keeping him safe\nby the chief of headquarters, Aoyama.\"",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13773,
+"en": "\"Head of his own family,\nand assistant to the chairman.\"",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13774,
+"en": "My name is Morinaga.",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13775,
+"en": "And this is my junior associate, Aizawa.",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13776,
+"en": "Spare me the introductions.",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13777,
+"en": "What did you drag me here to ask about?",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13778,
+"en": "Chairman Dojima's whereabouts.",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13779,
+"en": "His whereabouts?",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13780,
+"en": "Yes. You see, last night...",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13781,
+"en": "\"The chairman met Patriarch Madarame of the\nYamagasa Family in Nagasugai for alliance talks.\"",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13782,
+"en": "\"The negotiations themselves proceeded unimpeded,\nbut we lost track of the chairman directly after.\"",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13783,
+"en": "\"At the end of the meeting,\nChairman Dojima went off alone...\"",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13784,
+"en": "And was last seen getting into a taxi.",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13785,
+"en": "\"We attempted to follow him by car,\nbut weren't familiar enough with the Fukuoka roads.\"",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13786,
+"en": "\"In the end, we regrettably lost sight\nof the chairman's taxi.\"",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13787,
+"en": "\"We cross-checked the taxi's license plate number\nwith the Road Transport Bureau, though...\"",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13788,
+"en": "\"And found the car was registered\nto a Nagasu Taxi Company.\"",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13789,
+"en": "\"Not long after, we determined that\nthe driver's name was Taichi Suzuki.\"",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13790,
+"en": "\"But we have no reason to believe\nthe chairman knew anyone by that name.\"",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13791,
+"en": "\"It only seemed proper we came\nto meet this mysterious Taichi Suzuki-san.\"",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13792,
+"en": "\"So we waited until you\neventually showed your face.\"",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13793,
+"en": "\"It did seem strange. The chairman intentionally\nchose a taxi in the middle of the queue.\"",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13794,
+"en": "I didn't see what could compel him to do that.",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13795,
+"en": "But I have an idea now.",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13796,
+"en": "\"I'd never have imagined the driver was in fact\nKazuma Kiryu-san, fourth chairman of the Tojo Clan.\"",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13797,
+"en": "\"I'm still in disbelief,\nto be honest.\"",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13798,
+"en": "You have the wrong guy.",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13799,
+"en": "\"Kiryu-san. Do you know where\nChairman Dojima is or not?\"",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13800,
+"en": "\"I took a passenger on the highway,\nthen dropped him off back near Nagasugai.\"",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13801,
+"en": "That's all I've got for you.",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13802,
+"en": "Is that truly it?",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13803,
+"en": "Yeah.",
+"ctx": "subtítulo de escena A1130 + subtítulo de escena A1150 …"
+},
+{
+"id": 13804,
+"en": "Now are we done here?",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13805,
+"en": "I have a shift to get to.",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13806,
+"en": "So that's how it is, Kiryu-san?",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13807,
+"en": "\"You'd really abandon Chairman Dojima\nwithout so much as batting an eye?\"",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13808,
+"en": "Excuse me?",
+"ctx": "subtítulo de escena A1130 + subtítulo de escena C3010 …"
+},
+{
+"id": 13809,
+"en": "You heard me.",
+"ctx": "subtítulo de escena A1130 + subtítulo de escena B2330"
+},
+{
+"id": 13810,
+"en": "This is a pivotal moment for the Tojo Clan.",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13811,
+"en": "That's why we've come to Fukuoka.",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13812,
+"en": "\"The chairman vanishing at a time\nlike this is no insignificant matter.\"",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13813,
+"en": "\"There could have been an\naccident, or worse.\"",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13814,
+"en": "\"And yet, you don't seem even\nthe slightest bit concerned.\"",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13815,
+"en": "\"You'd hang the chairman out\nto dry like he was nothing to you!?\"",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13816,
+"en": "Aizawa!",
+"ctx": "subtítulo de escena A1130 + subtítulo de escena A1135 …"
+},
+{
+"id": 13817,
+"en": "\"I haven't been wearing the\nTojo badge for all that long.\"",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13818,
+"en": "\"Truth be told, all I know about\nyou are the stories, Fourth Chairman.\"",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13819,
+"en": "\"But it was the chairman who\nwas always telling them.\"",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13820,
+"en": "\"He said it was his duty to protect\nthe Tojo Clan you left to him.\"",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13821,
+"en": "Aizawa.",
+"ctx": "subtítulo de escena A1130 + subtítulo de escena A1135 …"
+},
+{
+"id": 13822,
+"en": "\"The other execs don't want us having\nthese talks with the Yamagasa Family.\"",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13823,
+"en": "\"Say they're not even in\nthe same league as the Tojo.\"",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13824,
+"en": "How this equal alliance is anything but.",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13825,
+"en": "\"But the chairman took it all in stride\nbecause of what he promised you.\"",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13826,
+"en": "So please, Fourth Chairman.",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13827,
+"en": "\"Tell us where the chairman\nwas going that night.\"",
+"ctx": "subtítulo de escena A1130"
+},
+{
+"id": 13828,
+"en": "I already told you, I don't know.",
+"ctx": "subtítulo de escena A1135"
+},
+{
+"id": 13829,
+"en": "How do you live with yourself?",
+"ctx": "subtítulo de escena A1135"
+},
+{
+"id": 13830,
+"en": "Chairman Dojima's supposed to be your friend!",
+"ctx": "subtítulo de escena A1135"
+},
+{
+"id": 13831,
+"en": "Hands off.",
+"ctx": "subtítulo de escena A1135"
+},
+{
+"id": 13832,
+"en": "I said let me go!",
+"ctx": "subtítulo de escena A1135"
+},
+{
+"id": 13833,
+"en": "I get the picture.",
+"ctx": "subtítulo de escena A1135 + diálogo uid00091b48 …"
+},
+{
+"id": 13834,
+"en": "Is that what you're saying?",
+"ctx": "subtítulo de escena A1135"
+},
+{
+"id": 13835,
+"en": "Aniki!",
+"ctx": "subtítulo de escena A1135 + subtítulo de escena A1270 …"
+},
+{
+"id": 13836,
+"en": "Understood. That makes things simpler.",
+"ctx": "subtítulo de escena A1135"
+},
+{
+"id": 13837,
+"en": "We'll just have to rough you up a bit.",
+"ctx": "subtítulo de escena A1135"
+},
+{
+"id": 13838,
+"en": "You what?",
+"ctx": "subtítulo de escena A1135 + diálogo uid01020432 …"
+},
+{
+"id": 13839,
+"en": "If you really were the fourth chairman...",
+"ctx": "subtítulo de escena A1135"
+},
+{
+"id": 13840,
+"en": "\"We wouldn't lay a finger on you,\nregardless of the circumstances.\"",
+"ctx": "subtítulo de escena A1135"
+},
+{
+"id": 13841,
+"en": "\"But if you're nothing more than\na simple taxi driver, that's another story.\"",
+"ctx": "subtítulo de escena A1135"
+},
+{
+"id": 13842,
+"en": "\"We will get the truth. Even if\nwe have to beat it out of you.\"",
+"ctx": "subtítulo de escena A1135"
+},
+{
+"id": 13843,
+"en": "You'd attack a civilian?",
+"ctx": "subtítulo de escena A1135"
+},
+{
+"id": 13844,
+"en": "I'd prefer not to, of course.",
+"ctx": "subtítulo de escena A1135"
+},
+{
+"id": 13845,
+"en": "\"But desperate times... Well,\nthey call for desperate measures.\"",
+"ctx": "subtítulo de escena A1135"
+},
+{
+"id": 13846,
+"en": "We're still yakuza.",
+"ctx": "subtítulo de escena A1135"
+},
+{
+"id": 13847,
+"en": "\"We're not above resorting\nto force. You should know that.\"",
+"ctx": "subtítulo de escena A1135"
+},
+{
+"id": 13848,
+"en": "Fine then.",
+"ctx": "subtítulo de escena A1135"
+},
+{
+"id": 13849,
+"en": "\"If that's how it's gonna be,\nI'll just have to defend myself.\"",
+"ctx": "subtítulo de escena A1135"
+},
+{
+"id": 13850,
+"en": "Hope you're ready.",
+"ctx": "subtítulo de escena A1135"
+},
+{
+"id": 13851,
+"en": "Here goes.",
+"ctx": "subtítulo de escena A1135 + diálogo uid01070964 …"
+},
+{
+"id": 13852,
+"en": "You can't go, Fourth Chairman!",
+"ctx": "subtítulo de escena A1140"
+},
+{
+"id": 13853,
+"en": "\"I've told you everything I know.\nAnd that's the truth.\"",
+"ctx": "subtítulo de escena A1140"
+},
+{
+"id": 13854,
+"en": "\"What you do now,\nwell, that's up to you.\"",
+"ctx": "subtítulo de escena A1140"
+},
+{
+"id": 13855,
+"en": "<Italic>Morning Glory Orphanage</Italic>",
+"ctx": "subtítulo de escena A1150"
+},
+{
+"id": 13856,
+"en": "You're really going, huh?",
+"ctx": "subtítulo de escena A1150"
+},
+{
+"id": 13857,
+"en": "But why? I already said I'm staying here with you.",
+"ctx": "subtítulo de escena A1150"
+},
+{
+"id": 13858,
+"en": "You'll be in high school next year.",
+"ctx": "subtítulo de escena A1150"
+},
+{
+"id": 13859,
+"en": "\"Taichi and Koji will graduate\njunior high the year after that.\"",
+"ctx": "subtítulo de escena A1150"
+},
+{
+"id": 13860,
+"en": "You don't need me watching over you anymore.",
+"ctx": "subtítulo de escena A1150"
+},
+{
+"id": 13861,
+"en": "And don't assume I'm doing this for your sake.",
+"ctx": "subtítulo de escena A1150"
+},
+{
+"id": 13862,
+"en": "I'm just getting tired of all this babysitting.",
+"ctx": "subtítulo de escena A1150"
+},
+{
+"id": 13863,
+"en": "Liar. I can see it in your face.",
+"ctx": "subtítulo de escena A1150"
+},
+{
+"id": 13864,
+"en": "Believe it. This is the best thing for me.",
+"ctx": "subtítulo de escena A1150"
+}
+]

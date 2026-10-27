@@ -1,0 +1,2047 @@
+[
+{
+"id": 12701,
+"en": "Guess they're not open.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12702,
+"en": "Let's get outta this city!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12703,
+"en": "Let's get going",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12704,
+"en": "Wanna leave?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12705,
+"en": "I don't feel like eating.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12706,
+"en": "Let's hurry.",
+"ctx": "menú/texto ai_popup + diálogo uid01091a30"
+},
+{
+"id": 12707,
+"en": "It's so loud...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12708,
+"en": "Yes, lets.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12709,
+"en": "I wonder if they're okay.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12710,
+"en": "I don't know...",
+"ctx": "menú/texto ai_popup + diálogo uid010c0a9a"
+},
+{
+"id": 12711,
+"en": "Let's eat at a different place.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12712,
+"en": "Let's leave Kamurocho.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12713,
+"en": "It's too dangerous.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12714,
+"en": "One of the employees just ran away.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12715,
+"en": "There's something going on!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12716,
+"en": "I'm going to go ahead!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12717,
+"en": "What should we do from now on?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12718,
+"en": "Hurry up! Let's go!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12719,
+"en": "I don't have money...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12720,
+"en": "I wonder what I should eat.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12721,
+"en": "Is it too late?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12722,
+"en": "Let's go somewhere safe!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12723,
+"en": "Seriously!? This isn't funny!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12724,
+"en": "Uhh...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12725,
+"en": "What should I order today.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12726,
+"en": "I can't decide...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12727,
+"en": "Let's eat at home.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12728,
+"en": "It's fine...",
+"ctx": "menú/texto ai_popup + diálogo uid00020988"
+},
+{
+"id": 12729,
+"en": "Let's go home!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12730,
+"en": "I don't have time for this.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12731,
+"en": "Still red?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12732,
+"en": "I wish it would turn green already.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12733,
+"en": "The place is right",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12734,
+"en": "over there.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12735,
+"en": "Every time I'm in a hurry...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12736,
+"en": "It's just ahead.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12737,
+"en": "Oh why now...?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12738,
+"en": "When is it going to change?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12739,
+"en": "Hurry up! Green, green!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12740,
+"en": "Man!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12741,
+"en": "Yeah it's at the end of the street.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12742,
+"en": "I may not make it in time...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12743,
+"en": "Well?",
+"ctx": "menú/texto ai_popup + diálogo uid0013031b …"
+},
+{
+"id": 12744,
+"en": "Is it going to change or what?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12745,
+"en": "This light takes too long...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12746,
+"en": "It sure is taking a while.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12747,
+"en": "How long do I have to sit here?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12748,
+"en": "Hurry up and change!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12749,
+"en": "This is great.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12750,
+"en": "Pretty cheap!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12751,
+"en": "How nice.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12752,
+"en": "This one.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12753,
+"en": "Not bad...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12754,
+"en": "Should I pick this up?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12755,
+"en": "Might be nice.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12756,
+"en": "Oh...",
+"ctx": "menú/texto ai_popup + diálogo uid000212cb …"
+},
+{
+"id": 12757,
+"en": "This is just right.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12758,
+"en": "How affordable!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12759,
+"en": "Pretty good, huh?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12760,
+"en": "Should I buy it?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12761,
+"en": "Well this might be nice.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12762,
+"en": "Oh!",
+"ctx": "menú/texto ai_popup + diálogo uid000c0ca3 …"
+},
+{
+"id": 12763,
+"en": "Wonderful.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12764,
+"en": "Don't you think this'll work?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12765,
+"en": "Surprised how cheap this is.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12766,
+"en": "Oh yah!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12767,
+"en": "Looks nice.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12768,
+"en": "Here we go!",
+"ctx": "menú/texto ai_popup + diálogo uid001302db …"
+},
+{
+"id": 12769,
+"en": "Hey... nice...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12770,
+"en": "Hmm... I dunno",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12771,
+"en": "How about this one? ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12772,
+"en": "Oh! Look at this!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12773,
+"en": "Here we are.",
+"ctx": "menú/texto ai_popup + diálogo uid010c068c …"
+},
+{
+"id": 12774,
+"en": "It's quite cheap!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12775,
+"en": "Hehe...",
+"ctx": "menú/texto ai_popup + diálogo uid01340021 …"
+},
+{
+"id": 12776,
+"en": "Nice...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12777,
+"en": "Pretty nice...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12778,
+"en": "Is this worth it?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12779,
+"en": "This'd work.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12780,
+"en": "Now this I can afford.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12781,
+"en": "Hope I make it.  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12782,
+"en": "I didn't set my DVR!  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12783,
+"en": "Where's the station?  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12784,
+"en": "Same place!  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12785,
+"en": "Oh, stop it!  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12786,
+"en": "Hello...  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12787,
+"en": "I'm hungry.",
+"ctx": "menú/texto ai_popup + frase de acompañante/calle STID_MG_ANAN …"
+},
+{
+"id": 12788,
+"en": "Urgh...  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12789,
+"en": "Awright!  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12790,
+"en": "What's this smell...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12791,
+"en": "Are the bars still opened?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12792,
+"en": "Is the subway still running?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12793,
+"en": "Let's go somewhere else...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12794,
+"en": "Look at the wall!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12795,
+"en": "Last night was terrible.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12796,
+"en": "We still can't get inside?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12797,
+"en": "What's happening in there?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12798,
+"en": "Look! It's the army!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12799,
+"en": "I saw a tank just now!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12800,
+"en": "I think I hear gun shots coming from inside...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12801,
+"en": "What is that wall!?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12802,
+"en": "What's going on inside!?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12803,
+"en": "I'm sure all stores are closed.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12804,
+"en": "Hello? Hello!?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12805,
+"en": "Am I drunk...?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12806,
+"en": "Please help!",
+"ctx": "menú/texto ai_popup + frase de acompañante/calle STID_ST_KAMURO"
+},
+{
+"id": 12807,
+"en": "Where did he go?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12808,
+"en": "I should get home...  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12809,
+"en": "It's spring already...  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12810,
+"en": "Gotta work tomorrow.  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12811,
+"en": "Hmph, young people!  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12812,
+"en": "Something is burning...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12813,
+"en": "Should I take the taxi back?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12814,
+"en": "What is this noise?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12815,
+"en": "I should really get going...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12816,
+"en": "This is the first time I've seen something like this...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12817,
+"en": "What's going on!?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12818,
+"en": "Are we under attack?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12819,
+"en": "Oh, these days...  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12820,
+"en": "In the old days...  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12821,
+"en": "It's like back in the war...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12822,
+"en": "This is scary...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12823,
+"en": "What is happening...?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12824,
+"en": "Honey? Where are you!?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12825,
+"en": "Aw, c'mon.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12826,
+"en": "I'm gonna be late!  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12827,
+"en": "I'm beat...  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12828,
+"en": "So...full...  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12829,
+"en": "About the Hills...  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12830,
+"en": "Ha ha!  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12831,
+"en": "Had one too many!  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12832,
+"en": "Whoops...  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12833,
+"en": "Really!?  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12834,
+"en": "Hold on...  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12835,
+"en": "It's crowded!  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12836,
+"en": "Just chill out!  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12837,
+"en": "Let's play mahjong!  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12838,
+"en": "Wa ha ha!  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12839,
+"en": "Back in college...  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12840,
+"en": "My boss is an ass!  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12841,
+"en": "Let's go already!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12842,
+"en": "Should we go get a drink?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12843,
+"en": "Oh! This store is open",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12844,
+"en": "Time for a drink...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12845,
+"en": "We better not stay here.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12846,
+"en": "We should get outta here while we can.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12847,
+"en": "Let's go already...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12848,
+"en": "There are still stores that are open?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12849,
+"en": "I don't think they will be open.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12850,
+"en": "I don't think I can make it today.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12851,
+"en": "Should we stop by?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12852,
+"en": "Let's go see the wall.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12853,
+"en": "That's a real rifle!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12854,
+"en": "We still can't get through?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12855,
+"en": "What's this? Terrorist?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12856,
+"en": "Wow, I'm getting excited!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12857,
+"en": "Huh? Are they shooting a movie?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12858,
+"en": "That looks so real...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12859,
+"en": "Huh? Cancel that!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12860,
+"en": "I'm telling you it's real!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12861,
+"en": "Was that a dead body?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12862,
+"en": "Smells like something is burning...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12863,
+"en": "You didn't hear that? The scream...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12864,
+"en": "Wait! Don't go there!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12865,
+"en": "Is that the sound of a gun?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12866,
+"en": "Is this for some drama?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12867,
+"en": "I'll send you a photo to show you!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12868,
+"en": "What's that!? That looks serious...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12869,
+"en": "Is that a dead body?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12870,
+"en": "Take a look at the news!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12871,
+"en": "Should I call a cab?  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12872,
+"en": "I should hurry...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12873,
+"en": "Last train's running late...  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12874,
+"en": "I lost my wallet!  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12875,
+"en": "Come pick me up...  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12876,
+"en": "Seriously...  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12877,
+"en": "I'm so angry!  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12878,
+"en": "Hee hee...  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12879,
+"en": "Look, look!  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12880,
+"en": "My phone's dying.  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12881,
+"en": "Anyway...  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12882,
+"en": "Yeah, I saw that!  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12883,
+"en": "It's so in!  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12884,
+"en": "You crack me up!  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12885,
+"en": "Ow!  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12886,
+"en": "That story again?  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12887,
+"en": "My throat hurts...  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12888,
+"en": "Be careful...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12889,
+"en": "This is bad...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12890,
+"en": "The police are everywhere.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12891,
+"en": "I can't get through!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12892,
+"en": "What is that wall?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12893,
+"en": "This is bad!!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12894,
+"en": "I said let's go!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12895,
+"en": "What's going on the other side of the wall?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12896,
+"en": "They are closed!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12897,
+"en": "What's all this smoke?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12898,
+"en": "Why are all these people here...?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12899,
+"en": "I can't get a taxi...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12900,
+"en": "Huh? What's going on?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12901,
+"en": "I can't hear anything?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12902,
+"en": "Look! What is that!?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12903,
+"en": "My friend is still inside...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12904,
+"en": "There was a person covered in blood...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12905,
+"en": "You gotta be kidding!!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12906,
+"en": "The person's eyes were red...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12907,
+"en": "Now is not the time!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12908,
+"en": "Where should we go?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12909,
+"en": "Huh? It's blocked?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12910,
+"en": "Are they open?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12911,
+"en": "That's some special makeup right?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12912,
+"en": "Did you hear that scream?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12913,
+"en": "Is that smoke...?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12914,
+"en": "Buy it for me!  ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12915,
+"en": "Hey! Were you here long?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12916,
+"en": "I kept coughing...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12917,
+"en": "I'm scared!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12918,
+"en": "That man...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12919,
+"en": "Look, look!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12920,
+"en": "You know...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12921,
+"en": "Let's go home...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12922,
+"en": "What is that smell?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12923,
+"en": "Wait! Don't leave me here!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12924,
+"en": "Heh... Scared'a me?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12925,
+"en": "You wimp!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12926,
+"en": "Aw, you gonna piss\nyour pants?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12927,
+"en": "You little shit!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12928,
+"en": "Get away!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12929,
+"en": "Beat it!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12930,
+"en": "Get the fuck outta\nmy sight!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12931,
+"en": "You piss me off!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12932,
+"en": "Don't you ever\ncome back!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12933,
+"en": "You ain't no\nfriend of mine!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12934,
+"en": "You think you're\nhot shit, eh?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12935,
+"en": "I don't wanna see your butt-ugly face!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12936,
+"en": "Any closer and your ass is grass!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12937,
+"en": "Losers like you oughta stay at home!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12938,
+"en": "Chickened out? Idiot...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12939,
+"en": "Get lost, dumbass!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12940,
+"en": "Back the fuck up!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12941,
+"en": "You make me sick!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12942,
+"en": "Heh, you look real scared!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12943,
+"en": "You tryin' to run!?",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12944,
+"en": "Bring it on!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12945,
+"en": "I bet you pissed your pants!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12946,
+"en": "Don't try and act tough, punk!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12947,
+"en": "Don't act all tough, bitch!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12948,
+"en": "Get outta my sight!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12949,
+"en": "You got no balls, do ya? ",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12950,
+"en": "Get the hell out of here!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12951,
+"en": "Heh... You ain't nothin' but a bitch...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12952,
+"en": "Get out of here dumbass!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12953,
+"en": "You scared little pansy...",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12954,
+"en": "Any closer, and your ass is grass!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12955,
+"en": "You're just a punk-ass bitch!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12956,
+"en": "If I see you again, you're dead!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12957,
+"en": "Damn, this guy is fast.",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12958,
+"en": "Yeah, a bitch like you would run!",
+"ctx": "menú/texto ai_popup"
+},
+{
+"id": 12959,
+"en": "Idle",
+"ctx": "menú/texto dispose_string"
+},
+{
+"id": 12960,
+"en": "WalkOnPath",
+"ctx": "menú/texto dispose_string"
+},
+{
+"id": 12961,
+"en": "IdleReaction",
+"ctx": "menú/texto dispose_string"
+},
+{
+"id": 12962,
+"en": "Stalk",
+"ctx": "menú/texto dispose_string"
+},
+{
+"id": 12963,
+"en": "Arowana",
+"ctx": "menú/texto dispose_string"
+},
+{
+"id": 12964,
+"en": "Inmate",
+"ctx": "menú/texto dispose_string"
+},
+{
+"id": 12965,
+"en": "EncountIdle",
+"ctx": "menú/texto dispose_string"
+},
+{
+"id": 12966,
+"en": "BtlKamuroMaleCasualYkz",
+"ctx": "menú/texto dispose_string"
+},
+{
+"id": 12967,
+"en": "BtlKamuroMaleGang",
+"ctx": "menú/texto dispose_string"
+},
+{
+"id": 12968,
+"en": "BtlKamuroMaleGangFatMus",
+"ctx": "menú/texto dispose_string"
+},
+{
+"id": 12969,
+"en": "BtlKineiMaleCasualYkzNorm",
+"ctx": "menú/texto dispose_string"
+},
+{
+"id": 12970,
+"en": "BtlKineiMaleCasualYkz",
+"ctx": "menú/texto dispose_string"
+},
+{
+"id": 12971,
+"en": "BtlKamuroMaleSuitYakuza",
+"ctx": "menú/texto dispose_string"
+},
+{
+"id": 12972,
+"en": "BtlSoutenMaleGangFat",
+"ctx": "menú/texto dispose_string"
+},
+{
+"id": 12973,
+"en": "BtlSoutenMaleGang",
+"ctx": "menú/texto dispose_string"
+},
+{
+"id": 12974,
+"en": "BtlSoutenMaleGangNorm",
+"ctx": "menú/texto dispose_string"
+},
+{
+"id": 12975,
+"en": "BtlSoutenMaleGangFatMus",
+"ctx": "menú/texto dispose_string"
+},
+{
+"id": 12976,
+"en": "HarukaSpecial",
+"ctx": "menú/texto dispose_string"
+},
+{
+"id": 12977,
+"en": "BtlKamuroMaleHost",
+"ctx": "menú/texto dispose_string"
+},
+{
+"id": 12978,
+"en": "BtlNagasuMaleCasualYkz",
+"ctx": "menú/texto dispose_string"
+},
+{
+"id": 12979,
+"en": "BtlTukimiMaleHost",
+"ctx": "menú/texto dispose_string"
+},
+{
+"id": 12980,
+"en": "BtlKamuroMaleCasualYkzFatMus",
+"ctx": "menú/texto dispose_string"
+},
+{
+"id": 12981,
+"en": "EncountEvent",
+"ctx": "menú/texto dispose_string"
+},
+{
+"id": 12982,
+"en": "EncountWalk",
+"ctx": "menú/texto dispose_string"
+},
+{
+"id": 12983,
+"en": "Kamiyama Works Lv. %d",
+"ctx": "menú/texto armsrecovery + menú/texto armsshop_arms …"
+},
+{
+"id": 12984,
+"en": "(I don't have anything I need to get fixed.)",
+"ctx": "menú/texto armsrecovery"
+},
+{
+"id": 12985,
+"en": "(All my weapons are in good shape.)",
+"ctx": "menú/texto armsrecovery"
+},
+{
+"id": 12986,
+"en": "(Don't got any weapons to fix up.)",
+"ctx": "menú/texto armsrecovery"
+},
+{
+"id": 12987,
+"en": "(I don't have any weapons that need to be maintained.)",
+"ctx": "menú/texto armsrecovery"
+},
+{
+"id": 12988,
+"en": "(I don't have anything that needs fixing.)",
+"ctx": "menú/texto armsrecovery"
+},
+{
+"id": 12989,
+"en": "That'll be, oh, %s.",
+"ctx": "menú/texto armsrecovery"
+},
+{
+"id": 12990,
+"en": "(I don't have enough money for that.)",
+"ctx": "menú/texto armsrecovery + menú/texto bar0000 …"
+},
+{
+"id": 12991,
+"en": "(Don't have the cash. How am I so broke?)",
+"ctx": "menú/texto armsrecovery + menú/texto bar0000 …"
+},
+{
+"id": 12992,
+"en": "(Don't got the cash for that.)",
+"ctx": "menú/texto armsrecovery + menú/texto bar0000 …"
+},
+{
+"id": 12993,
+"en": "(I don't have enough...)",
+"ctx": "menú/texto armsrecovery"
+},
+{
+"id": 12994,
+"en": "(Looks like I don't have enough.)",
+"ctx": "menú/texto armsrecovery + menú/texto bar0000 …"
+},
+{
+"id": 12995,
+"en": "Order",
+"ctx": "menú/texto armsrecovery + menú/texto bar0000 …"
+},
+{
+"id": 12996,
+"en": "(I don't have anything I can get tuned up.)",
+"ctx": "menú/texto armsshop_arms"
+},
+{
+"id": 12997,
+"en": "(Nothing I can tune up.)",
+"ctx": "menú/texto armsshop_arms"
+},
+{
+"id": 12998,
+"en": "(Don't got anythin' to tune up.)",
+"ctx": "menú/texto armsshop_arms"
+},
+{
+"id": 12999,
+"en": "(I don't haven't anything that I can tune.) ",
+"ctx": "menú/texto armsshop_arms"
+},
+{
+"id": 13000,
+"en": "(I don't have any stuff I can tune up.)",
+"ctx": "menú/texto armsshop_arms"
+},
+{
+"id": 13001,
+"en": "There's nothing you can make.",
+"ctx": "menú/texto armsshop_arms"
+},
+{
+"id": 13002,
+"en": "Sorry, I don't have that on display yet.",
+"ctx": "menú/texto armsshop_arms + menú/texto armsshop_item"
+},
+{
+"id": 13003,
+"en": "You'll need to reach <Color:8>Shop Lv. %d<Color:1> to unlock this item.",
+"ctx": "menú/texto armsshop_arms + menú/texto armsshop_item"
+},
+{
+"id": 13004,
+"en": "You'll need to reach <Color:7>Shop Lv. %d<Color:1> to unlock this item.",
+"ctx": "menú/texto armsshop_arms + menú/texto armsshop_item"
+},
+{
+"id": 13005,
+"en": "You'll need to invest  one <Color:8>%s<Color:1> to unlock this item.",
+"ctx": "menú/texto armsshop_arms + menú/texto armsshop_item"
+},
+{
+"id": 13006,
+"en": "You'll need to invest one <Color:7>%s<Color:1> to unlock this item.",
+"ctx": "menú/texto armsshop_arms + menú/texto armsshop_item"
+},
+{
+"id": 13007,
+"en": "That'll be, uh, %s...",
+"ctx": "menú/texto armsshop_arms + menú/texto armsshop_item"
+},
+{
+"id": 13008,
+"en": "You don't have the skill to use this. Still want to make it?",
+"ctx": "menú/texto armsshop_arms + menú/texto armsshop_item"
+},
+{
+"id": 13009,
+"en": "You'll need a <Color:8>%s<Color:1> first.",
+"ctx": "menú/texto armsshop_arms + menú/texto armsshop_item"
+},
+{
+"id": 13010,
+"en": "You'll need a <Color:7>%s<Color:1> first.",
+"ctx": "menú/texto armsshop_arms + menú/texto armsshop_item"
+},
+{
+"id": 13011,
+"en": "You don't have the funds for that...",
+"ctx": "menú/texto armsshop_arms + menú/texto armsshop_item"
+},
+{
+"id": 13012,
+"en": "You don't have the space in your inventory for that...",
+"ctx": "menú/texto armsshop_arms + menú/texto armsshop_item"
+},
+{
+"id": 13013,
+"en": "(I don't have any gear I can get tuned up.)",
+"ctx": "menú/texto armsshop_item"
+},
+{
+"id": 13014,
+"en": "(No armor or weapons I can tune up.)",
+"ctx": "menú/texto armsshop_item"
+},
+{
+"id": 13015,
+"en": "(Don't got any equipment I can tune.)",
+"ctx": "menú/texto armsshop_item"
+},
+{
+"id": 13016,
+"en": "(I don't have any armor or weapons I can tune.)  ",
+"ctx": "menú/texto armsshop_item"
+},
+{
+"id": 13017,
+"en": "(I don't have any gear I can tune up.)",
+"ctx": "menú/texto armsshop_item"
+},
+{
+"id": 13018,
+"en": "There's  nothing you can make.",
+"ctx": "menú/texto armsshop_item"
+},
+{
+"id": 13019,
+"en": "(I don't have anything I can hand over.)",
+"ctx": "menú/texto bs_present_item"
+},
+{
+"id": 13020,
+"en": "(Don't have anything I can hand over.)",
+"ctx": "menú/texto bs_present_item + menú/texto present"
+},
+{
+"id": 13021,
+"en": "(Don't got anythin' to hand over.)",
+"ctx": "menú/texto bs_present_item + menú/texto present"
+},
+{
+"id": 13022,
+"en": "(I don't have anything I can hand over...)",
+"ctx": "menú/texto bs_present_item"
+},
+{
+"id": 13023,
+"en": "( I don't have anything I can hand over.)",
+"ctx": "menú/texto bs_present_item + menú/texto present"
+},
+{
+"id": 13024,
+"en": "(I haven't chosen anything...)",
+"ctx": "menú/texto bs_present_item + menú/texto sale0000 …"
+},
+{
+"id": 13025,
+"en": "(Haven't picked anything out.)",
+"ctx": "menú/texto bs_present_item + menú/texto sale0000 …"
+},
+{
+"id": 13026,
+"en": "(Gotta choose somethin' first.)",
+"ctx": "menú/texto bs_present_item"
+},
+{
+"id": 13027,
+"en": "(I haven't chosen anything.)",
+"ctx": "menú/texto bs_present_item + menú/texto sale0000 …"
+},
+{
+"id": 13028,
+"en": "(I don't have anything picked out...)",
+"ctx": "menú/texto bs_present_item + menú/texto sale0000 …"
+},
+{
+"id": 13029,
+"en": "I guess that'll be %s...",
+"ctx": "menú/texto bs_present_item"
+},
+{
+"id": 13030,
+"en": "Exit the appraisal screen.",
+"ctx": "menú/texto judge"
+},
+{
+"id": 13031,
+"en": "Appraise",
+"ctx": "menú/texto judge"
+},
+{
+"id": 13032,
+"en": "Appraise an item.",
+"ctx": "menú/texto judge"
+},
+{
+"id": 13033,
+"en": "(I don't have anything I can get appraised.)",
+"ctx": "menú/texto judge"
+},
+{
+"id": 13034,
+"en": "(Don't have anything to appraise.)",
+"ctx": "menú/texto judge"
+},
+{
+"id": 13035,
+"en": "(Don't got anythin' to appraise.)",
+"ctx": "menú/texto judge"
+},
+{
+"id": 13036,
+"en": "(I don't have anything that can be appraised.)  ",
+"ctx": "menú/texto judge"
+},
+{
+"id": 13037,
+"en": "(I don't have anything to appraise.)",
+"ctx": "menú/texto judge"
+},
+{
+"id": 13038,
+"en": "You want to appraise %d, huh? ",
+"ctx": "menú/texto judge"
+},
+{
+"id": 13039,
+"en": "(There's nothing I can hand over.)",
+"ctx": "menú/texto present"
+},
+{
+"id": 13040,
+"en": "(I don't have anything I can give...)",
+"ctx": "menú/texto present"
+},
+{
+"id": 13041,
+"en": "(What to give...?)",
+"ctx": "menú/texto present"
+},
+{
+"id": 13042,
+"en": "(Hm, what should I hand over?)",
+"ctx": "menú/texto present"
+},
+{
+"id": 13043,
+"en": "(What do I wanna give?)",
+"ctx": "menú/texto present"
+},
+{
+"id": 13044,
+"en": "(What should I hand over...)",
+"ctx": "menú/texto present"
+},
+{
+"id": 13045,
+"en": "(What should I give?)",
+"ctx": "menú/texto present"
+},
+{
+"id": 13046,
+"en": "Hand it over?",
+"ctx": "menú/texto present"
+},
+{
+"id": 13047,
+"en": "(There's nothing I can sell.)",
+"ctx": "menú/texto sale0000 + menú/texto sale0001"
+},
+{
+"id": 13048,
+"en": "(Nothing I can sell.)",
+"ctx": "menú/texto sale0000 + menú/texto sale0001"
+},
+{
+"id": 13049,
+"en": "(Don't got anythin' to sell.)",
+"ctx": "menú/texto sale0000 + menú/texto sale0001"
+},
+{
+"id": 13050,
+"en": "(I don't have anything I can sell.)",
+"ctx": "menú/texto sale0000 + menú/texto sale0001"
+},
+{
+"id": 13051,
+"en": "(I don't have anything to sell.)",
+"ctx": "menú/texto sale0000 + menú/texto sale0001"
+},
+{
+"id": 13052,
+"en": "(Ain't got nothin' picked out.)",
+"ctx": "menú/texto sale0000 + menú/texto sale0001"
+},
+{
+"id": 13053,
+"en": "You're looking at %s, I'd say.",
+"ctx": "menú/texto sale0000 + menú/texto sale0001"
+},
+{
+"id": 13054,
+"en": "Are you sure you want to sell such rare stuff?",
+"ctx": "menú/texto sale0000 + menú/texto sale0001"
+},
+{
+"id": 13055,
+"en": "(I don't have enough room. Maybe I should send something to the Item Box.)",
+"ctx": "menú/texto send"
+},
+{
+"id": 13056,
+"en": "(Man, my pockets are full. I should send something to the Item Box.)",
+"ctx": "menú/texto send"
+},
+{
+"id": 13057,
+"en": "(Got too much stuff. How 'bout I send somethin' to the Item Box?)",
+"ctx": "menú/texto send"
+},
+{
+"id": 13058,
+"en": "(I have too much stuff. Should I send something to the Item Box?)",
+"ctx": "menú/texto send"
+},
+{
+"id": 13059,
+"en": "(I'm carrying too much. Maybe I should send something to the Item Box?)",
+"ctx": "menú/texto send"
+},
+{
+"id": 13060,
+"en": "Send it to the Item Box?",
+"ctx": "menú/texto send"
+},
+{
+"id": 13061,
+"en": "Sent the %s to the Item Box.",
+"ctx": "menú/texto send"
+},
+{
+"id": 13062,
+"en": "(I don't have enough room. I might need to get rid of something first.)",
+"ctx": "menú/texto throw"
+},
+{
+"id": 13063,
+"en": "(How'd my pockets get so full? Guess I'm gonna have to get rid of something first.)",
+"ctx": "menú/texto throw"
+},
+{
+"id": 13064,
+"en": "(Gonna have to get rid of somethin' first...)",
+"ctx": "menú/texto throw"
+},
+{
+"id": 13065,
+"en": "(I have too much stuff, I have to get rid of something.)",
+"ctx": "menú/texto throw"
+},
+{
+"id": 13066,
+"en": "(I'm carrying too much. I'll need to get rid of something first.)",
+"ctx": "menú/texto throw"
+},
+{
+"id": 13067,
+"en": "Throw it away?",
+"ctx": "menú/texto throw"
+},
+{
+"id": 13068,
+"en": "(I don't want to get rid of that.)",
+"ctx": "menú/texto throw"
+},
+{
+"id": 13069,
+"en": "(I should hang onto this.)",
+"ctx": "menú/texto throw"
+},
+{
+"id": 13070,
+"en": "(Don't wanna toss this out.)",
+"ctx": "menú/texto throw"
+},
+{
+"id": 13071,
+"en": "(I can't throw this away.)",
+"ctx": "menú/texto throw"
+},
+{
+"id": 13072,
+"en": "(I can't get rid of this!)",
+"ctx": "menú/texto throw"
+},
+{
+"id": 13073,
+"en": "(I really don't want to get rid of that.)",
+"ctx": "menú/texto throw"
+},
+{
+"id": 13074,
+"en": "(Don't wanna get rid of that.)",
+"ctx": "menú/texto throw"
+},
+{
+"id": 13075,
+"en": "(Not interested in tossin' this out.)",
+"ctx": "menú/texto throw"
+},
+{
+"id": 13076,
+"en": "(I can't throw this weapon away...)",
+"ctx": "menú/texto throw"
+},
+{
+"id": 13077,
+"en": "(I definitely can't get rid of this!)",
+"ctx": "menú/texto throw"
+},
+{
+"id": 13078,
+"en": "You threw away the %s.",
+"ctx": "menú/texto throw"
+},
+{
+"id": 13079,
+"en": "Thank you. Your total comes to %s.",
+"ctx": "diálogo uid000c015d + menú/texto bar0000 …"
+},
+{
+"id": 13080,
+"en": "(Don't got anythin' in mind.)",
+"ctx": "menú/texto bar0000 + menú/texto bar0001 …"
+},
+{
+"id": 13081,
+"en": "(I've got nothing selected.)  ",
+"ctx": "menú/texto bar0000 + menú/texto bar0001 …"
+},
+{
+"id": 13082,
+"en": "(Don't got enough on me.)  ",
+"ctx": "menú/texto bar0000 + menú/texto bar0001 …"
+},
+{
+"id": 13083,
+"en": "(I can't drink another drop.)",
+"ctx": "menú/texto bar0000 + menú/texto bar0001 …"
+},
+{
+"id": 13084,
+"en": "(Probably shouldn't. I'm seeing double as is.",
+"ctx": "menú/texto bar0000 + menú/texto bar0001 …"
+},
+{
+"id": 13085,
+"en": "(Gonna explode if I drink any more.)",
+"ctx": "menú/texto bar0000 + menú/texto bar0001 …"
+},
+{
+"id": 13086,
+"en": "(I can't drink anymore.)  ",
+"ctx": "menú/texto bar0000 + menú/texto bar0001 …"
+},
+{
+"id": 13087,
+"en": "(I'm not old enough to drink.)",
+"ctx": "menú/texto bar0000 + menú/texto bar0001 …"
+},
+{
+"id": 13088,
+"en": "Bartender",
+"ctx": "menú/texto bar0000 + menú/texto bar0001 …"
+},
+{
+"id": 13089,
+"en": "A rare Japanese whisky with a robust body.",
+"ctx": "menú/texto bar0000 + menú/texto bar0004 …"
+},
+{
+"id": 13090,
+"en": "One of the top premium whiskies in Japan and the whole world. A blend of single malts, featuring whiskies aged for 32 years in a Yamazaki white oak barrel, gives it distinct character.",
+"ctx": "menú/texto bar0000 + menú/texto bar0004 …"
+},
+{
+"id": 13091,
+"en": "Its quality has earned it a grand prize in an international competition. Only about 2,000 bottles are produced each year, making it especially rare. ",
+"ctx": "menú/texto bar0000 + menú/texto bar0004 …"
+},
+{
+"id": 13092,
+"en": "If you really like whisky, this is the bottle you have to experience.",
+"ctx": "menú/texto bar0000 + menú/texto bar0006"
+},
+{
+"id": 13093,
+"en": "A single malt whisky aged in sherry barrels for a balanced flavor.",
+"ctx": "menú/texto bar0000 + menú/texto bar0002 …"
+},
+{
+"id": 13094,
+"en": "This limited edition Yamazaki was created in 1999 to commemorate Suntory's 100 year anniversary. A long aging process in sherry wood barrels produces a perfect balance.",
+"ctx": "menú/texto bar0000 + menú/texto bar0002 …"
+},
+{
+"id": 13095,
+"en": "I'm certain anyone fortunate enough to enjoy this rare whisky will experience pure bliss. Its price puts it just within reach, as far as dream whiskies go. ",
+"ctx": "menú/texto bar0000 + menú/texto bar0002 …"
+},
+{
+"id": 13096,
+"en": "I enjoy drinking it on special occasions.",
+"ctx": "menú/texto bar0000 + menú/texto bar0002 …"
+},
+{
+"id": 13097,
+"en": "A Yamazaki whisky made with carefully selected, mature malts for a flavorful, smooth finish.",
+"ctx": "menú/texto bar0000 + menú/texto bar0002 …"
+},
+{
+"id": 13098,
+"en": "This is one of Japan's top single malt whiskies. It's become such a status symbol that whisky aficionados the world over have heard of it. ",
+"ctx": "menú/texto bar0000 + menú/texto bar0002 …"
+},
+{
+"id": 13099,
+"en": "They use carefully selected, perfectly matured single malts to get that great, smooth flavor. It's popular overseas, too.",
+"ctx": "menú/texto bar0000 + menú/texto bar0002 …"
+},
+{
+"id": 13100,
+"en": "This one's made at Suntory's Hakushu distillery in Japan's South Alps, an area famous for its mountain spring water.",
+"ctx": "menú/texto bar0000 + menú/texto bar0004 …"
+},
+{
+"id": 13101,
+"en": "Its fruity, creamy flavor combined with a distinctly smoky accent makes for a superb drinking experience. ",
+"ctx": "menú/texto bar0000 + menú/texto bar0004 …"
+},
+{
+"id": 13102,
+"en": "I recommend taking the first drink straight up, to fully appreciate its quality.",
+"ctx": "menú/texto bar0000 + menú/texto bar0004 …"
+},
+{
+"id": 13103,
+"en": "Another extremely popular Japanese whisky. Malt whisky aged in sherry barrels at the Yamazaki Distillery are blended with carefully selected malt and grain whiskies.",
+"ctx": "menú/texto bar0000 + menú/texto bar0002 …"
+},
+{
+"id": 13104,
+"en": "It has a bright aroma and delivers a sweet fullness in the mouth, and the finish is deep and mellow. ",
+"ctx": "menú/texto bar0000 + menú/texto bar0002 …"
+},
+{
+"id": 13105,
+"en": "A lot of people call it Daruma, because the round shape of its bottle looks like a Daruma doll.",
+"ctx": "menú/texto bar0000 + menú/texto bar0002 …"
+},
+{
+"id": 13106,
+"en": "By the way, The Macallan has a brand new product called Fine Oak, which is a blend of single malts aged in bourbon and sherry barrels.",
+"ctx": "menú/texto bar0000 + menú/texto bar0002 …"
+},
+{
+"id": 13107,
+"en": "But this one here was aged entirely in sherry barrels, using the traditional Macallan production method.",
+"ctx": "menú/texto bar0000 + menú/texto bar0002 …"
+},
+{
+"id": 13108,
+"en": "The 30 year aging process produces a rich sherry note and a deep sweetness like ripe fruit. There's none of the wood taste of over aging.",
+"ctx": "menú/texto bar0000 + menú/texto bar0002 …"
+},
+{
+"id": 13109,
+"en": "This one's incredibly smooth and it has a freshness you wouldn't expect from a 30 year old whisky. It may be pricey, but one sip and you'll know that it's well worth it.",
+"ctx": "menú/texto bar0000 + menú/texto bar0002 …"
+}
+]

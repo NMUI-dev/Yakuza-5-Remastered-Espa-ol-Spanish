@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_k9",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    89,
+    159,
+    426,
+    226
+   ],
+   "en": "I'm Kazu-nyan",
+   "ocr": "Im Kazu-nyan",
+   "es": "Soy Kazu-nyan",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 333
+  }
+ ]
+}

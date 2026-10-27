@@ -1,0 +1,44 @@
+{
+ "textura": "pausepar_pause_en/picture/chact/2d_jm_chact_tetsuzan",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    13,
+    528,
+    485,
+    569
+   ],
+   "en": "ESSENCE OF DRUNKEN THRUST",
+   "ocr": "ESSENCE OF DRUNKEN THRUST",
+   "es": "ESENCIA DE ESTOCADA EBRIA",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 468
+  },
+  {
+   "caja": [
+    14,
+    598,
+    484,
+    639
+   ],
+   "en": "ESSENCE OF DRUNKEN THRUST",
+   "ocr": "ESSENCEOFDRUNKEN THRUST",
+   "es": "ESENCIA DE ESTOCADA EBRIA",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 466,
+   "radio": 2.5,
+   "color": [
+    200,
+    25,
+    25
+   ]
+  }
+ ]
+}

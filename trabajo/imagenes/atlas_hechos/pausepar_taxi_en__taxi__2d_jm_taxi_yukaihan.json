@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_taxi_en/taxi/2d_jm_taxi_yukaihan",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    2,
+    8,
+    463,
+    123
+   ],
+   "en": "KIDNAPPERS",
+   "ocr": "KIDNAPPERS",
+   "es": "SECUESTRADORES",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 457
+  }
+ ]
+}

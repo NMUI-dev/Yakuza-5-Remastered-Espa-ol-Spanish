@@ -1,0 +1,282 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_h_quiz.par/texlist/2d_yk_h_quiz",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    12,
+    522,
+    495,
+    622
+   ],
+   "en": "Finished",
+   "es": "Terminado",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 473
+  },
+  {
+   "caja": [
+    20,
+    638,
+    500,
+    702
+   ],
+   "en": "Correct!",
+   "es": "¡Correcto!",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 470
+  },
+  {
+   "caja": [
+    10,
+    712,
+    510,
+    788
+   ],
+   "en": "Too bad...",
+   "es": "Qué pena...",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 490
+  },
+  {
+   "caja": [
+    4,
+    808,
+    80,
+    825
+   ],
+   "en": "Number",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     235,
+     235,
+     235
+    ],
+    "contorno": [
+     [
+      25,
+      25,
+      25
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "alin": "izq",
+   "ancho_max": 74,
+   "alto": 12,
+   "dejar": true
+  },
+  {
+   "caja": [
+    4,
+    825,
+    80,
+    842
+   ],
+   "en": "correct",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     235,
+     235,
+     235
+    ],
+    "contorno": [
+     [
+      25,
+      25,
+      25
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "alin": "izq",
+   "ancho_max": 74,
+   "alto": 12,
+   "dejar": true
+  },
+  {
+   "caja": [
+    4,
+    843,
+    98,
+    858
+   ],
+   "en": "Number of",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     235,
+     235,
+     235
+    ],
+    "contorno": [
+     [
+      25,
+      25,
+      25
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "alin": "izq",
+   "ancho_max": 92,
+   "alto": 12,
+   "dejar": true
+  },
+  {
+   "caja": [
+    4,
+    858,
+    98,
+    874
+   ],
+   "en": "questions",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     235,
+     235,
+     235
+    ],
+    "contorno": [
+     [
+      25,
+      25,
+      25
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "alin": "izq",
+   "ancho_max": 92,
+   "alto": 12,
+   "dejar": true
+  },
+  {
+   "caja": [
+    84,
+    882,
+    212,
+    895
+   ],
+   "en": "Number",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    150,
+    230,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 126,
+   "alto": 9,
+   "dejar": true
+  },
+  {
+   "caja": [
+    84,
+    894,
+    212,
+    907
+   ],
+   "en": "correct",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    150,
+    230,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 126,
+   "alto": 9,
+   "dejar": true
+  },
+  {
+   "caja": [
+    236,
+    882,
+    352,
+    895
+   ],
+   "en": "Number of",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    150,
+    230,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 114,
+   "alto": 9,
+   "dejar": true
+  },
+  {
+   "caja": [
+    236,
+    894,
+    352,
+    907
+   ],
+   "en": "questions",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    150,
+    230,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 114,
+   "alto": 9,
+   "dejar": true
+  }
+ ]
+}

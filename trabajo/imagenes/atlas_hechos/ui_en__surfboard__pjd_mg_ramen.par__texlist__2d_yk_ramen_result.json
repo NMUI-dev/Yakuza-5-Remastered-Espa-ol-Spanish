@@ -1,0 +1,68 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_ramen.par/texlist/2d_yk_ramen_result",
+ "fuente": "times.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    440,
+    100,
+    590,
+    130
+   ],
+   "en": "RESULT",
+   "es": "RESULTADO",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 146
+  },
+  {
+   "caja": [
+    440,
+    612,
+    590,
+    642
+   ],
+   "en": "RESULT",
+   "es": "RESULTADO",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 146
+  },
+  {
+   "caja": [
+    494,
+    390,
+    590,
+    418
+   ],
+   "en": "Close",
+   "es": "Cerrar",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 92
+  },
+  {
+   "caja": [
+    494,
+    902,
+    590,
+    930
+   ],
+   "en": "Close",
+   "es": "Cerrar",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 92
+  }
+ ]
+}

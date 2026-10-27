@@ -1,0 +1,857 @@
+[
+{
+"id": 21899,
+"en": "Of course! I'll be here whenever you're ready.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21900,
+"en": "Wow, you really are good, Haruka. I could never compete!",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21901,
+"en": "But look how good you are! And you're completely\nself-taught!",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21902,
+"en": "Yeah, well, I can still tell I'm nowhere near any kind of\nmatch for you.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21903,
+"en": "Oh, I don't know about that.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21904,
+"en": "*pant* *pant* So that's a dance battle, huh? That was a lot\nof fun!",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21905,
+"en": "You're amazing, Sugino-san. You beat me fair and square.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21906,
+"en": "Um, Haruka-chan...? You've been so nice to me. Do you think\nI could have your cell phone number? I'd love to call you\nsometime. If you don't mind, that is.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21907,
+"en": "Oh, okay, Asuka-chan. That would be great.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21908,
+"en": "Great! I'll call you, then!",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21909,
+"en": "Hehe, I'll be looking forward to it.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21910,
+"en": "Still, I've been thinking. You've done so many of these\ndance battles, and they've helped you get to where you are\ntoday, right?",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21911,
+"en": "I mean, compared to you, what have I been doing with my\ntime? I get kind of down just thinking about it.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21912,
+"en": "Asuka-chan...",
+"ctx": "diálogo uid000c0ca3 + diálogo uid000c0ca7"
+},
+{
+"id": 21913,
+"en": "I have a little brother, by the way.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21914,
+"en": "He's the reason I want to be an idol. Unlike me, he's\nreally, really smart. And I'm not just saying that because\nI'm his sister.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21915,
+"en": "Anyway, we don't have a lot of money, so I'd love to help\nsend him to a good private school.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21916,
+"en": "I thought maybe if I could do well as an idol, I could use\nthe money for his education. But things aren't really\nworking out like I planned...",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21917,
+"en": "But now that you've given me some pointers on dancing, I'm\nfinally starting to get my hopes up again.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21918,
+"en": "If I work really hard up until the next event, maybe I'll\nbe able to keep going!",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21919,
+"en": "That's the spirit! Good for you!",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21920,
+"en": "Well, is there anything else you want to work on in\nparticular?",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21921,
+"en": "I guess it would be my stage presence. You know, my\nmovements and facial expression on stage. I feel really\nawkward up there.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21922,
+"en": "Your stage presence, huh?",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21923,
+"en": "Maybe you could give me an example? Show me how it's done?\nThat would be awesome!",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21924,
+"en": "You want me to show you what I do?",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21925,
+"en": "Yes. Would that be all right?",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21926,
+"en": "Of course! I'd be happy to do that for you!",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21927,
+"en": "Really!? Oh, thank you, Haruka-chan!",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21928,
+"en": "I'll be right here waiting, so whenever you're ready, just\ncome let me know, okay?",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21929,
+"en": "Oh! You're Haruka-chan, aren't you?",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21930,
+"en": "Hm? Yes, that's right.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21931,
+"en": "Do you remember me, by any chance?",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21932,
+"en": "Um...?",
+"ctx": "diálogo uid000c0ca3 + diálogo uid01490206 …"
+},
+{
+"id": 21933,
+"en": "Right. Of course you don't. Why would you?",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21934,
+"en": "Oh, I'm sorry! Where did we meet?",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21935,
+"en": "The Princess League. I'm kind of an idol, too, actually. But\nyou knocked me out in one of the early rounds.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21936,
+"en": "But, hey, don't get me wrong! It's not like I'm holding a\ngrudge against you or anything. I want you to know that.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21937,
+"en": "My name is Asuka Sugino. I'm with the agency Blue Skies.\nWell, for now, anyway. They might not renew my contract...",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21938,
+"en": "Is that because you didn't win the Princess League?",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21939,
+"en": "I wish I could say it's not because of that, but yes, I\nthink that's a big part of it. My manager even hinted as\nmuch.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21940,
+"en": "You've been on TV a lot since then, haven't you? I always\nwatch you on the Princess League.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21941,
+"en": "I hate to admit it, but the people who are left on the show\nsure are a lot better than me.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21942,
+"en": "My self-taught style just can't compete, I guess.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21943,
+"en": "Don't you have an instructor that gives you lessons?",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21944,
+"en": "I do, but he spends all of his time with the cuter, more\ntalented girls at the agency.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21945,
+"en": "And ever since I lost in the Princess League, my manager's\nbeen concentrating on the other girls even more, and I\nhaven't had any gigs.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21946,
+"en": "That's awful...",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21947,
+"en": "I guess I can understand it, though. I just don't have the\npromise those other girls do.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21948,
+"en": "My manager even told me he might be ending my contract,\ndepending on how I do in the next event.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21949,
+"en": "Oh, gee, I'm sorry! Here I get this nice chance to talk to\nyou, and I spend the whole time complaining.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21950,
+"en": "Oh, no! No need to apologize! I completely understand how\nyou feel.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21951,
+"en": "(Her contract might be ending soon, and I can't help but\nfeel responsible. I wonder if there's anything I can do to help her...)",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21952,
+"en": "Asuka-chan, when is your next event?",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21953,
+"en": "It hasn't been set yet. And it isn't really \"my\" event. It's\nnot like anybody would come to see just me.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21954,
+"en": "I'll just be opening for one of the other girls at my\nagency. My manager said that's the best he can do for me.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21955,
+"en": "Well, until then, if you'd like, maybe I can help somehow?",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21956,
+"en": "Help me?",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21957,
+"en": "For example, is there anything you feel unsure of when\nyou're on stage? Maybe I could share some of the things\ninstructors taught me.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21958,
+"en": "You'd do that for me? Oh, thank you! Yes, I actually have\na really hard time with dancing.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21959,
+"en": "And it's not like I just feel \"unsure.\" I'm genuinely\nterrible. I've hardly had any lessons, either...",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21960,
+"en": "Well, if you need lessons, why not give dance battles a try?",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21961,
+"en": "Dance battles?",
+"ctx": "diálogo uid000c0ca3 + diálogo uid01020bd9 …"
+},
+{
+"id": 21962,
+"en": "That's right. I've learned a lot from doing dance battles,\nmyself.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21963,
+"en": "People have dance battles on the streets all the time. It's\nlike we get to be each other's instructor and help one\nanother grow.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21964,
+"en": "And some of the dancers are self-taught, just like you. I\nlearn something new every time!",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21965,
+"en": "I honestly had no idea that was even a thing...",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21966,
+"en": "You know, you and I could have one together right now, if\nyou think it might help in any way.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21967,
+"en": "Sounds like fun! Okay then, Haruka-chan, let's have a dance\nbattle!",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21968,
+"en": "Yeah. My manager told me I won't last much longer.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21969,
+"en": "Yeah, Mom, I know. If that happens, I promise I'll come\nhome. We both knew the entertainment business wouldn't be\neasy.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21970,
+"en": "Yeah, okay. I'll talk to you later, all right? Yup. Bye.",
+"ctx": "diálogo uid000c0ca3"
+},
+{
+"id": 21971,
+"en": "(Hey, that wasn't bad, if I do say so myself!)",
+"ctx": "diálogo uid000c0ca5"
+},
+{
+"id": 21972,
+"en": "Wow, Haruka-chan! That was amazing! I couldn't have looked\naway if I wanted to!",
+"ctx": "diálogo uid000c0ca5"
+},
+{
+"id": 21973,
+"en": "I thought you were pretty great during the Princess League\npreliminaries, but you've gotten even better since then!",
+"ctx": "diálogo uid000c0ca5"
+},
+{
+"id": 21974,
+"en": "(Oh no. I didn't give Asuka-chan a very good example.)",
+"ctx": "diálogo uid000c0ca5"
+},
+{
+"id": 21975,
+"en": "Is something wrong, Haruka-chan?",
+"ctx": "diálogo uid000c0ca5"
+},
+{
+"id": 21976,
+"en": "Oh, no. It's just that I made so many mistakes.",
+"ctx": "diálogo uid000c0ca5"
+},
+{
+"id": 21977,
+"en": "Really? It looked like a great performance to me!",
+"ctx": "diálogo uid000c0ca5"
+},
+{
+"id": 21978,
+"en": "Aw... Thank you!",
+"ctx": "diálogo uid000c0ca5"
+},
+{
+"id": 21979,
+"en": "I really learned a lot watching you. And you helped me see\nwhat I need to work on.",
+"ctx": "diálogo uid000c0ca5"
+},
+{
+"id": 21980,
+"en": "I'll have to work as hard as I can if I want to do well at\nthe next event!",
+"ctx": "diálogo uid000c0ca5"
+},
+{
+"id": 21981,
+"en": "Oh, good luck, Asuka-chan! I'll be rooting for you!",
+"ctx": "diálogo uid000c0ca5"
+},
+{
+"id": 21982,
+"en": "Thank you, Haruka-chan. You know, this is the nicest anybody\nhas been to me since I came to Osaka.",
+"ctx": "diálogo uid000c0ca5"
+},
+{
+"id": 21983,
+"en": "I'll do everything I can to stay in this business. Thank you\nfor all of your help, Haruka-chan!",
+"ctx": "diálogo uid000c0ca5"
+},
+{
+"id": 21984,
+"en": "So this is your agency? You really have lessons here all the\ntime?",
+"ctx": "diálogo uid000c0ca5"
+},
+{
+"id": 21985,
+"en": "That's right. Welcome to Dyna Chair, Asuka-chan!",
+"ctx": "diálogo uid000c0ca5"
+},
+{
+"id": 21986,
+"en": "Thank you for the warm welcome!",
+"ctx": "diálogo uid000c0ca5"
+},
+{
+"id": 21987,
+"en": "All right, are you ready? I'm going to play some music and\nshow you how I do a live performance.",
+"ctx": "diálogo uid000c0ca5"
+},
+{
+"id": 21988,
+"en": "It isn't much, but if you think it'll be any help at all,\nI'll be sure to do my very best.",
+"ctx": "diálogo uid000c0ca5"
+},
+{
+"id": 21989,
+"en": "I really appreciate this, Haruka-chan. And, yes, I think\nit'll be a big help!",
+"ctx": "diálogo uid000c0ca5"
+},
+{
+"id": 21990,
+"en": "This is silly, right? I mean, it's not even like anyone's\nhere to see me⑬I'm just opening for somebody else. Still,\nI'm so nervous!",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 21991,
+"en": "Of course. It's okay.",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 21992,
+"en": "And after you just went to all that trouble to show me how\nit's done! I bet you feel like you wasted your time on me,\nhuh?",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 21993,
+"en": "(Poor Asuka-chan! What can I say to help her feel less\nnervous?)",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 21994,
+"en": "Asuka-chan, it's only natural to feel nervous. I bet there\nisn't a person alive who doesn't feel nervous before\nstepping out on a stage.",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 21995,
+"en": "Really? Even you, Haruka-chan?",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 21996,
+"en": "Of course! I get nervous every single time I have to appear\nin front of people.",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 21997,
+"en": "Wow, even you... Well, that helps me feel less alone.\nThanks, Haruka-chan. I think I even feel a little bit braver\nnow!",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 21998,
+"en": "Asuka-chan, I heard about this magic spell that helps you\nfeel braver. Do you want to try it?",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 21999,
+"en": "A magic spell? I guess I could give it a try.",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22000,
+"en": "Oh, but I've never really believed in magic spells... Oh no!\nI shouldn't have said that. Now there's no way it'll work!",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22001,
+"en": "Don't worry, Asuka-chan! It still couldn't hurt to give it a\ntry, right?",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22002,
+"en": "I just know it won't work now!",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22003,
+"en": "(I was trying to help her calm down, but I'm afraid now I've\nmade her more upset than ever.)",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22004,
+"en": "Asuka-chan, all you can do is do your best. Just get out\nthere and try your hardest!",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22005,
+"en": "I have been trying! I've been trying so hard. How can I\npossibly try any harder?",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22006,
+"en": "I know. I'm sorry. But I guess you're just going to have to\nfind it within yourself somehow.",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22007,
+"en": "But I don't know how!",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22008,
+"en": "Asuka, what are you doing? You're on any second. You can't\njust stand around chatting with your friend!",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22009,
+"en": "I'm sorry!",
+"ctx": "diálogo uid000c0ca7 + diálogo uid000c1114 …"
+},
+{
+"id": 22010,
+"en": "This might be your last event. Make sure you give it\neverything you've got out there. No regrets, you hear?",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22011,
+"en": "Are you okay, Asuka-chan?",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22012,
+"en": "Well, I wouldn't exactly say I'm okay, but I have to do\nwhat I have to do, right?",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22013,
+"en": "Ever since I met you, I've been working as hard as I can.",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22014,
+"en": "I've been getting into dancing more, and it's helped me feel\na little more confident.",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22015,
+"en": "But, now that I have some hope again, it makes me scared to\nthink it could all end with this event.",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22016,
+"en": "I just know I could be better. I could be a better singer,\na better dancer.",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22017,
+"en": "What do I do, Haruka-chan? I'm so nervous! I'm scared to\nget on that stage!",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22018,
+"en": "(Oh no! She has to go on any second. What can I say to help\ngive her some courage?)",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22019,
+"en": "Asuka, you have to think positive. If you give up before\nyou've even started, you'll just be psyching yourself out.\nYou can do this!",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22020,
+"en": "Haruka-chan...",
+"ctx": "diálogo uid000c0ca7 + diálogo uid0069032f …"
+},
+{
+"id": 22021,
+"en": "And just think⑬most idol hopefuls never even get the chance\nto stand on a stage.",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22022,
+"en": "Instead of thinking of this as a do-or-die crisis, think of\nit as a lucky opportunity⑬your one big chance!",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22023,
+"en": "My big chance?",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22024,
+"en": "You know what? You're right. I've been feeling so much\npressure lately, but if I turn it around and think of it\nthat way instead, I do feel a lot better.",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22025,
+"en": "Thank you, Haruka-chan! I'll give it a try! This is my big\nchance after all!",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22026,
+"en": "Good luck, Asuka-chan!",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22027,
+"en": "Thanks... Okay, here I go!",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22028,
+"en": "Asuka, success is never a guarantee, not for anyone. Even\nthe greatest star feels some kind of fear when stepping out\nonto the stage.",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22029,
+"en": "But that's why it means so much when we finally are\nsuccessful. That's what makes this work so challenging and\nexciting.",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22030,
+"en": "I understand being afraid. But that's how everyone in this\nbusiness feels. It just comes with the territory.",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22031,
+"en": "You know, you're right. It's only natural to feel nervous.\nI mean, no one's guaranteed success, right?",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22032,
+"en": "Thank you, Haruka. I'm so glad you came with me today. I'm\ngoing to give this a try!",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22033,
+"en": "Thanks. Okay, here I go!",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22034,
+"en": "All right, Asuka-chan, that's enough! Keep your chin up! No\nmore crying!",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22035,
+"en": "If you want to cry, you can cry after your performance. Right\nnow it's time to get out there and show them what you're\nmade of!",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22036,
+"en": "I know, I know, but⑬",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22037,
+"en": "No buts! You have to focus on your performance! You can do\nthis, Asuka-chan!",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22038,
+"en": "But I just can't focus, no matter how hard I try.",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22039,
+"en": "Nope! No more negativity! It's time to get your head in the\ngame!",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22040,
+"en": "You know what? You're right.",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22041,
+"en": "Okay! Good luck, Asuka-chan!",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22042,
+"en": "Hello, everybody! I'm Asuka Sugino! Who's ready for a good\ntime!?",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22043,
+"en": "(I know you can do this, Asuka-chan!)",
+"ctx": "diálogo uid000c0ca7"
+},
+{
+"id": 22044,
+"en": "Um, excuse me. But, um, are you Mr. Bad Boy?",
+"ctx": "diálogo uid000c0cb6"
+},
+{
+"id": 22045,
+"en": "Mr. Bad Boy? Who's Mr. Bad Boy?",
+"ctx": "diálogo uid000c0cb6"
+},
+{
+"id": 22046,
+"en": "Oh! Sorry! I thought you were someone else.",
+"ctx": "diálogo uid000c0cb6"
+},
+{
+"id": 22047,
+"en": "Sure. Listen, are you meeting someone? Since you don't know\nwhat the guy looks like, I'm guessing it's someone you met\nonline?",
+"ctx": "diálogo uid000c0cb6"
+},
+{
+"id": 22048,
+"en": "(I thought I recognized the uniform⑬she must go to the same\nschool as Haruka-chan.)",
+"ctx": "diálogo uid000c0cb6"
+},
+{
+"id": 22049,
+"en": "That uniform, which school is it from? It's a local high\nschool, right?",
+"ctx": "diálogo uid000c0cb6"
+},
+{
+"id": 22050,
+"en": "I'm sorry, but would you mind leaving me alone?",
+"ctx": "diálogo uid000c0cb6"
+},
+{
+"id": 22051,
+"en": "Oops, sorry about that. It's none of my business. My\napologies.",
+"ctx": "diálogo uid000c0cb6"
+},
+{
+"id": 22052,
+"en": "Hey, did I keep ya waitin', sweet cheeks? You're\nKazumi-chan, right?",
+"ctx": "diálogo uid000c0cb6"
+},
+{
+"id": 22053,
+"en": "Yes, that's me. Are you, um, Mr. Bad Boy?",
+"ctx": "diálogo uid000c0cb6"
+},
+{
+"id": 22054,
+"en": "In the flesh, baby. I see ya did like I asked and came in\nuniform.",
+"ctx": "diálogo uid000c0cb6"
+},
+{
+"id": 22055,
+"en": "But look at you! You're fine, fine, fiiine! I approve! Let's\nnot dawdle, eh? I wanna get a much closer look at ya.",
+"ctx": "diálogo uid000c0cb6"
+},
+{
+"id": 22056,
+"en": "Um, but I don't...",
+"ctx": "diálogo uid000c0cb6"
+},
+{
+"id": 22057,
+"en": "What's wrong, baby? You want the money, don't ya? Come along\nnow.",
+"ctx": "diálogo uid000c0cb6"
+},
+{
+"id": 22058,
+"en": "...Um, okay.",
+"ctx": "diálogo uid000c0cb6"
+},
+{
+"id": 22059,
+"en": "(Must be one of those paid relationships... Guy's headed\nstraight to a love hotel, I bet.)",
+"ctx": "diálogo uid000c0cb6"
+},
+{
+"id": 22060,
+"en": "(There's a love hotel at the south end of Shofukucho. Damn\nit, I've seen way too much to stay out of this.)",
+"ctx": "diálogo uid000c0cb6"
+},
+{
+"id": 22061,
+"en": "Hey there, Haruka-chan. How about havin' some of our pipin' hot takoyaki now? For you, it's free! Don't be shy now.",
+"ctx": "diálogo uid000c0cc1"
+},
+{
+"id": 22062,
+"en": "Not right now, thank you, but definitely next time!",
+"ctx": "diálogo uid000c0cc1"
+},
+{
+"id": 22063,
+"en": "Ya promise? I'll be waitin' for ya!",
+"ctx": "diálogo uid000c0cc1"
+},
+{
+"id": 22064,
+"en": "All right. I'll have a little taste.",
+"ctx": "diálogo uid000c0cc1"
+},
+{
+"id": 22065,
+"en": "Attagirl! Here ya go. Real Magutako takoyaki! Nothin' screams Osaka more'n these juicy bites of octopus, lemme tell ya!",
+"ctx": "diálogo uid000c0cc1"
+},
+{
+"id": 22066,
+"en": "Phew! It's hot!",
+"ctx": "diálogo uid000c0cc1 + diálogo uid010c0cc2"
+},
+{
+"id": 22067,
+"en": "So, whaddya think? Good, huh?",
+"ctx": "diálogo uid000c0cc1"
+},
+{
+"id": 22068,
+"en": "Mmm! It really is! It's delicious!",
+"ctx": "diálogo uid000c0cc1 + diálogo uid010c0cc2"
+},
+{
+"id": 22069,
+"en": "See? Told ya! Best in the city, if I do say so myself. I just can't figure out why people ain't linin' up to come get it!",
+"ctx": "diálogo uid000c0cc1"
+}
+]

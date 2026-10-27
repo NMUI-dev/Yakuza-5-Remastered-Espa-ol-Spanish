@@ -1,0 +1,145 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_poker0",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    345,
+    8,
+    677,
+    43
+   ],
+   "en": "Poker (Texas Hold 'em)",
+   "ocr": "Poker (Texas Hold 'em)",
+   "es": "Póquer (Texas Hold 'em)",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 328,
+   "dejar": true
+  },
+  {
+   "caja": [
+    434,
+    56,
+    603,
+    92
+   ],
+   "en": "Basic Rules",
+   "ocr": "BasicRules",
+   "es": "Reglas básicas",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 165,
+   "dejar": true
+  },
+  {
+   "caja": [
+    101,
+    112,
+    902,
+    148
+   ],
+   "en": "Texas Hold 'em is a poker game where players construct",
+   "ocr": "Texas Hold 'em is a poker game where players construct",
+   "es": "Texas Hold 'em es un juego de Póker donde los Jugadores forman",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 801,
+   "dejar": true
+  },
+  {
+   "caja": [
+    101,
+    149,
+    893,
+    182
+   ],
+   "en": "five-card hands from a total of seven cards: the player's",
+   "ocr": "five-card hands from a total of seven cards: the player's",
+   "es": "Manos de Cinco cartas de un Total de Siete cartas: las dos cartas ciegas",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 792,
+   "dejar": true
+  },
+  {
+   "caja": [
+    102,
+    186,
+    756,
+    219
+   ],
+   "en": "own two hole cards and five community cards.",
+   "ocr": "own two hole cards and five community cards.",
+   "es": "propias del Jugador y Cinco cartas comunitarias.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 654,
+   "dejar": true
+  },
+  {
+   "caja": [
+    105,
+    265,
+    392,
+    301
+   ],
+   "en": "Victory Conditions",
+   "ocr": "·Victory Conditions",
+   "es": "Condiciones de Victoria",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 283,
+   "dejar": true
+  },
+  {
+   "caja": [
+    138,
+    302,
+    701,
+    336
+   ],
+   "en": "Have the strongest hand at showdown",
+   "ocr": "·Have the strongest hand at showdown",
+   "es": "¡Consigue la mano más fuerte en el Duelo!",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 559,
+   "dejar": true
+  },
+  {
+   "caja": [
+    137,
+    338,
+    476,
+    374
+   ],
+   "en": "If all other players fold",
+   "ocr": "- If all other players fold",
+   "es": "Si todos los otros Jugadores eligen NO IR",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 335,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: lo hace el PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

@@ -1,0 +1,48 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_yuki.par/pjd_sstory_yuki/2d_jm_yuki_bullet",
+ "fuente": "times.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    48,
+    80,
+    71
+   ],
+   "en": "Reload",
+   "es": "Recarga",
+   "fuente": "times.ttf",
+   "alin": "izq",
+   "ancho_max": 76,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 15
+  },
+  {
+   "caja": [
+    0,
+    71,
+    107,
+    94
+   ],
+   "en": "Out of Ammo",
+   "es": "Sin munición",
+   "fuente": "times.ttf",
+   "alin": "izq",
+   "ancho_max": 103,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 15
+  }
+ ]
+}

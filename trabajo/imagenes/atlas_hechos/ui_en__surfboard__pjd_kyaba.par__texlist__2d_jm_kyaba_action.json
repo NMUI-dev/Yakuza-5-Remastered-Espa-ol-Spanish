@@ -1,0 +1,64 @@
+{
+ "textura": "ui_en/surfboard/pjd_kyaba.par/texlist/2d_jm_kyaba_action",
+ "fuente": "timesbd.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    5,
+    42,
+    141,
+    70
+   ],
+   "en": "Do Something",
+   "es": "Hacer algo",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 130
+  },
+  {
+   "caja": [
+    0,
+    80,
+    144,
+    128
+   ],
+   "en": "Do Nothing",
+   "es": "No hacer nada",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 132
+  },
+  {
+   "caja": [
+    0,
+    128,
+    144,
+    176
+   ],
+   "en": "Do Nothing",
+   "es": "No hacer nada",
+   "fuente": "timesbd.ttf",
+   "efecto": "brillo",
+   "alin": "izq",
+   "ancho_max": 132
+  },
+  {
+   "caja": [
+    0,
+    255,
+    150,
+    303
+   ],
+   "en": "Do Something",
+   "es": "Hacer algo",
+   "fuente": "timesbd.ttf",
+   "efecto": "brillo",
+   "alin": "izq",
+   "ancho_max": 140
+  }
+ ]
+}

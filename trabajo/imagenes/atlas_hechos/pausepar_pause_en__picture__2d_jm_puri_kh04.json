@@ -1,0 +1,38 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_kh04",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    3,
+    144,
+    318,
+    231
+   ],
+   "en": "Love to See You",
+   "ocr": "LovetoSee",
+   "es": "Love to See You",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 311
+  },
+  {
+   "caja": [
+    237,
+    167,
+    485,
+    242
+   ],
+   "en": "You Smile!",
+   "ocr": "You Smile!",
+   "es": "¡Sonríe!",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 244
+  }
+ ]
+}

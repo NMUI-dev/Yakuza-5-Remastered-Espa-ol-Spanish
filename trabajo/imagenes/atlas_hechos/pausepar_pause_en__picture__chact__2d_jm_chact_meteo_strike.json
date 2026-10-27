@@ -1,0 +1,60 @@
+{
+ "textura": "pausepar_pause_en/picture/chact/2d_jm_chact_meteo_strike",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    170,
+    491,
+    358
+   ],
+   "en": "Strike",
+   "ocr": "KTAY",
+   "es": "IMPACTO",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 491,
+   "dejar": true
+  },
+  {
+   "caja": [
+    10,
+    526,
+    276,
+    571
+   ],
+   "en": "METEOR STRIKE",
+   "ocr": "METEOR STRIKE",
+   "es": "ATAQUE DE METEORO",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 262
+  },
+  {
+   "caja": [
+    11,
+    596,
+    276,
+    640
+   ],
+   "en": "METEOR STRIKE",
+   "ocr": "METEOR STRIKE",
+   "es": "ATAQUE DE METEORO",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 261,
+   "radio": 2.5,
+   "color": [
+    200,
+    25,
+    25
+   ]
+  }
+ ]
+}

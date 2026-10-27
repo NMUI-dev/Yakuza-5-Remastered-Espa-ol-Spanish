@@ -1,0 +1,862 @@
+[
+{
+"id": 29406,
+"en": "Yep! We'll pass it this time, too!",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29407,
+"en": "Whaddya mean, \"this time, too\"?",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29408,
+"en": "Nothin' beats good comedy! Just say the word if ya ever feel like doin' some more!",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29409,
+"en": "Hey, Haruka-chan! Feel like practicin' your comedy with me?",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29410,
+"en": "Yes, that'd be great.",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29411,
+"en": "All right! Which topic'll we go with?",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29412,
+"en": "Let's try relationships.",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29413,
+"en": "Okay! Let's head to the practice area and give it a shot!",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29414,
+"en": "Let's try dreams.",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29415,
+"en": "Let's try hobbies.",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29416,
+"en": "Sorry, I think I'll pass, actually.",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29417,
+"en": "Gotcha. Well, if you ever get the urge, say the word.",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29418,
+"en": "Hey there! How's your photography going? Well, I hope?",
+"ctx": "diálogo uid00330997 + diálogo uid003309a0 …"
+},
+{
+"id": 29419,
+"en": "Yeah, I've shot five locations.",
+"ctx": "diálogo uid00330997"
+},
+{
+"id": 29420,
+"en": "That's excellent! Let me take a look!",
+"ctx": "diálogo uid00330997 + diálogo uid0033099c …"
+},
+{
+"id": 29421,
+"en": "These photos are wonderful! Great job.",
+"ctx": "diálogo uid00330997 + diálogo uid0033099c …"
+},
+{
+"id": 29422,
+"en": "I'm sure we can use them in advertisements for attracting tourists to Tsukimino!",
+"ctx": "diálogo uid00330997"
+},
+{
+"id": 29423,
+"en": "Here's the reward I promised. Go ahead, take it.",
+"ctx": "diálogo uid00330997 + diálogo uid0033099c …"
+},
+{
+"id": 29424,
+"en": "Please come back and visit Tsukimino again.",
+"ctx": "diálogo uid00330997"
+},
+{
+"id": 29425,
+"en": "How's your photography going? I hope you can get some really great photos of Tsukimino!",
+"ctx": "diálogo uid00330997"
+},
+{
+"id": 29426,
+"en": "Excuse me, do you have a minute?",
+"ctx": "diálogo uid00330997 + diálogo uid0033099c …"
+},
+{
+"id": 29427,
+"en": "Hmm? Whaddya want?",
+"ctx": "diálogo uid00330997 + diálogo uid00330bcf"
+},
+{
+"id": 29428,
+"en": "I'm from the Tsukimino Tourism Board. Right now we're running a campaign to raise Tsukimino's profile as a tourist destination.",
+"ctx": "diálogo uid00330997"
+},
+{
+"id": 29429,
+"en": "An advertising campaign? Sounds like a good idea.",
+"ctx": "diálogo uid00330997 + diálogo uid0033099c …"
+},
+{
+"id": 29430,
+"en": "Yes. I'd like to ask you to take some photos of places around Tsukimino that you think are must-see landmarks.",
+"ctx": "diálogo uid00330997"
+},
+{
+"id": 29431,
+"en": "The photos you take will be used in pamphlets and posters promoting Tsukimino as a tourist destination.",
+"ctx": "diálogo uid00330997"
+},
+{
+"id": 29432,
+"en": "If you can shoot five sightseeing spots for me, I'll give you a fabulous gift.",
+"ctx": "diálogo uid00330997 + diálogo uid0033099c …"
+},
+{
+"id": 29433,
+"en": "I ain't got a camera, though.",
+"ctx": "diálogo uid00330997"
+},
+{
+"id": 29434,
+"en": "No problem! We can lend you one. I have a high-end single-lens reflex camera to give you.",
+"ctx": "diálogo uid00330997 + diálogo uid0033099c …"
+},
+{
+"id": 29435,
+"en": "Yeah? How much ya gonna charge me?",
+"ctx": "diálogo uid00330997 + diálogo uid00330bcf"
+},
+{
+"id": 29436,
+"en": "Oh, no. I'll loan it to you for free. I do need you to give me a way to reach you in case something happens, though.",
+"ctx": "diálogo uid00330997 + diálogo uid0033099c …"
+},
+{
+"id": 29437,
+"en": "(Guess there ain't any reason to turn him down. Might as well take up the offer.)",
+"ctx": "diálogo uid00330997 + diálogo uid00330bcf"
+},
+{
+"id": 29438,
+"en": "Yeah, I'll do it.",
+"ctx": "diálogo uid00330997 + diálogo uid00330bcf"
+},
+{
+"id": 29439,
+"en": "Great! Here's the camera.",
+"ctx": "diálogo uid00330997 + diálogo uid0033099c"
+},
+{
+"id": 29440,
+"en": "You got a <Color:8>Borrowed Single-lens Reflex Camera<Color:Default>.",
+"ctx": "diálogo uid00330997 + diálogo uid0033099c …"
+},
+{
+"id": 29441,
+"en": "You can find me here during the campaign. Come back once you've shot five locations.",
+"ctx": "diálogo uid00330997 + diálogo uid0033099c …"
+},
+{
+"id": 29442,
+"en": "Good luck out there!",
+"ctx": "diálogo uid00330997 + diálogo uid003309a0 …"
+},
+{
+"id": 29443,
+"en": "When you visit sightseeing spots around town, the Photograph action icon may appear. Press <Action:Button_Cross@Adventure> while this is displayed to take a photo.",
+"ctx": "diálogo uid00330997 + diálogo uid003309a0 …"
+},
+{
+"id": 29444,
+"en": "You can view photos you've taken from City Exploration under Completion List in the Pause Menu. Once you take five photos, bring them to the Tourism Board staff member to receive a reward.",
+"ctx": "diálogo uid00330997 + diálogo uid0033099c …"
+},
+{
+"id": 29445,
+"en": "(I guess I'll take a walk around and find some good scenery.)",
+"ctx": "diálogo uid00330997 + diálogo uid003309a0 …"
+},
+{
+"id": 29446,
+"en": "Hey, I met you in Kamurocho, didn't I?",
+"ctx": "diálogo uid00330997 + diálogo uid0033099c …"
+},
+{
+"id": 29447,
+"en": "You're that guy from the tourism board, huh? You asked me to take photos for ya.",
+"ctx": "diálogo uid00330997 + diálogo uid00330bcf"
+},
+{
+"id": 29448,
+"en": "That's me. Fancy meeting you again here.",
+"ctx": "diálogo uid00330997 + diálogo uid0033099c …"
+},
+{
+"id": 29449,
+"en": "Ah, I ain't had a chance to return the camera.",
+"ctx": "diálogo uid00330997 + diálogo uid00330bcf"
+},
+{
+"id": 29450,
+"en": "Don't worry about it. I've actually been sent out around the country, and I'm doing some work for the Tsukimino Tourism Board now.",
+"ctx": "diálogo uid00330997"
+},
+{
+"id": 29451,
+"en": "Ya want me to take more photos?",
+"ctx": "diálogo uid00330997 + diálogo uid00330bcf"
+},
+{
+"id": 29452,
+"en": "Exactly! I'd like you to shoot five photos here in Tsukimino, too. Bring them to me, and I'll give you a fabulous gift.",
+"ctx": "diálogo uid00330997"
+},
+{
+"id": 29453,
+"en": "All right. Guess I could do that.",
+"ctx": "diálogo uid00330997 + diálogo uid00330bcf"
+},
+{
+"id": 29454,
+"en": "Thank you! I'll be here during the campaign. Come and see me once you've taken five shots.",
+"ctx": "diálogo uid00330997 + diálogo uid0033099c …"
+},
+{
+"id": 29455,
+"en": "Howdy! How's your photography going? Well, I hope?",
+"ctx": "diálogo uid0033099c"
+},
+{
+"id": 29456,
+"en": "Yeah, I got pictures of five good locations.",
+"ctx": "diálogo uid0033099c"
+},
+{
+"id": 29457,
+"en": "I'm sure we can use them in advertisements for attracting tourists to Sotenbori!",
+"ctx": "diálogo uid0033099c"
+},
+{
+"id": 29458,
+"en": "Yeah, I shot five locations.",
+"ctx": "diálogo uid0033099c + diálogo uid003309a0"
+},
+{
+"id": 29459,
+"en": "How's your photography going? I hope you can get some really great photos of Sotenbori!",
+"ctx": "diálogo uid0033099c"
+},
+{
+"id": 29460,
+"en": "Hmm? What can I help you with?",
+"ctx": "diálogo uid0033099c + diálogo uid00330bcf"
+},
+{
+"id": 29461,
+"en": "I'm from the Sotenbori Tourism Board. Right now we're running a campaign to raise Sotenbori's profile as a tourist destination.",
+"ctx": "diálogo uid0033099c"
+},
+{
+"id": 29462,
+"en": "Yes. I'd like to ask you to take some photos of places around Sotenbori that you think would be most attractive to tourists.",
+"ctx": "diálogo uid0033099c"
+},
+{
+"id": 29463,
+"en": "The photos you take will be used in pamphlets and posters promoting Sotenbori as a tourist destination.",
+"ctx": "diálogo uid0033099c"
+},
+{
+"id": 29464,
+"en": "I'm afraid I don't have a camera, though.",
+"ctx": "diálogo uid0033099c + diálogo uid00330bcf"
+},
+{
+"id": 29465,
+"en": "Really? That'd be a big help.",
+"ctx": "diálogo uid0033099c"
+},
+{
+"id": 29466,
+"en": "I'll loan you it for free. I just need to get your contact details in case we have to get in touch with you.",
+"ctx": "diálogo uid0033099c"
+},
+{
+"id": 29467,
+"en": "(I guess there's no reason to say no. I might as well take on the job.)",
+"ctx": "diálogo uid0033099c + diálogo uid00330bcf"
+},
+{
+"id": 29468,
+"en": "Okay, you've got a deal.",
+"ctx": "diálogo uid0033099c + diálogo uid003309a1"
+},
+{
+"id": 29469,
+"en": "Oh, and I have other people helping me, too, so I don't need photos of locations that have already been shot. Good luck out there!",
+"ctx": "diálogo uid0033099c + diálogo uid00330bcf"
+},
+{
+"id": 29470,
+"en": "When you visit sightseeing spots in Sotenbori, the Photograph action icon may appear. Press <Action:Button_Cross@Adventure> while this is displayed to take a photo.",
+"ctx": "diálogo uid0033099c"
+},
+{
+"id": 29471,
+"en": "(I guess I'll take a walk around and look for spots that represent Sotenbori.)",
+"ctx": "diálogo uid0033099c"
+},
+{
+"id": 29472,
+"en": "Oh, the man from the tourism board! You asked me to take photos for you, right?",
+"ctx": "diálogo uid0033099c + diálogo uid00330bcf"
+},
+{
+"id": 29473,
+"en": "Oops, I haven't given you your camera back yet.",
+"ctx": "diálogo uid0033099c + diálogo uid00330bcf"
+},
+{
+"id": 29474,
+"en": "Don't worry about it. I've actually been sent out around the country, and I'm doing some work for the Sotenbori Tourism Board now.",
+"ctx": "diálogo uid0033099c"
+},
+{
+"id": 29475,
+"en": "Let me guess, you want me to take photos here?",
+"ctx": "diálogo uid0033099c + diálogo uid003309a0 …"
+},
+{
+"id": 29476,
+"en": "Exactly! I'd like you to shoot five photos here in Sotenbori, too. Bring them to me, and I'll give you a fabulous gift.",
+"ctx": "diálogo uid0033099c"
+},
+{
+"id": 29477,
+"en": "Okay. Sure, why not?",
+"ctx": "diálogo uid0033099c + diálogo uid003309a1 …"
+},
+{
+"id": 29478,
+"en": "I don't have a camera, though.",
+"ctx": "diálogo uid0033099c + diálogo uid00330bcf"
+},
+{
+"id": 29479,
+"en": "Really? And it's not going to cost me any money to use this camera of yours?",
+"ctx": "diálogo uid0033099c"
+},
+{
+"id": 29480,
+"en": "Okay. Can you lend me that camera, then?",
+"ctx": "diálogo uid0033099c + diálogo uid00330bcf"
+},
+{
+"id": 29481,
+"en": "Sure! Here you are.",
+"ctx": "diálogo uid0033099c"
+},
+{
+"id": 29482,
+"en": "Oh, are you the man from the tourism board? You asked me to take some photos for you.",
+"ctx": "diálogo uid0033099c + diálogo uid00330bcf"
+},
+{
+"id": 29483,
+"en": "I see. Okay, I'll do it.",
+"ctx": "diálogo uid0033099c + diálogo uid003309a0 …"
+},
+{
+"id": 29484,
+"en": "These are really going to get tourists interested in visiting Kineicho!",
+"ctx": "diálogo uid003309a0"
+},
+{
+"id": 29485,
+"en": "Be sure to visit Kineicho again.",
+"ctx": "diálogo uid003309a0"
+},
+{
+"id": 29486,
+"en": "How's your photography going? I hope you can get some really great photos of Kineicho!",
+"ctx": "diálogo uid003309a0"
+},
+{
+"id": 29487,
+"en": "I'm from the Kineicho Tourism Board. Right now we're running a campaign to raise Kineicho's profile as a tourist destination.",
+"ctx": "diálogo uid003309a0"
+},
+{
+"id": 29488,
+"en": "Yes. I'd like to ask you to take some photos of places around Kineicho that you think are must-see landmarks.",
+"ctx": "diálogo uid003309a0"
+},
+{
+"id": 29489,
+"en": "The photos you take will be used in pamphlets and posters promoting Kineicho as a tourist destination.",
+"ctx": "diálogo uid003309a0"
+},
+{
+"id": 29490,
+"en": "Sounds good to me, but I don't have a camera.",
+"ctx": "diálogo uid003309a0 + diálogo uid00330bcf"
+},
+{
+"id": 29491,
+"en": "Really? You'll lend it to me for free?",
+"ctx": "diálogo uid003309a0 + diálogo uid00330bcf"
+},
+{
+"id": 29492,
+"en": "That's right. Completely free. But I will need to get your contact details just in case.",
+"ctx": "diálogo uid003309a0 + diálogo uid00330bcf"
+},
+{
+"id": 29493,
+"en": "Sure thing. Let me see that camera.",
+"ctx": "diálogo uid003309a0 + diálogo uid00330bcf"
+},
+{
+"id": 29494,
+"en": "Great! Here it is.",
+"ctx": "diálogo uid003309a0 + diálogo uid00330bcf"
+},
+{
+"id": 29495,
+"en": "Yeah, you're the guy from the tourism board! You asked me to take some photos for you.",
+"ctx": "diálogo uid003309a0 + diálogo uid00330bcf"
+},
+{
+"id": 29496,
+"en": "Oh, I haven't given you your camera back yet.",
+"ctx": "diálogo uid003309a0 + diálogo uid003309a1 …"
+},
+{
+"id": 29497,
+"en": "Don't worry about it. I've actually been sent out around the country, and I'm doing some work for the Kineicho Tourism Board now.",
+"ctx": "diálogo uid003309a0"
+},
+{
+"id": 29498,
+"en": "Exactly! I'd like you to shoot five photos here in Kineicho, too. Bring them to me, and I'll give you a fabulous gift.",
+"ctx": "diálogo uid003309a0"
+},
+{
+"id": 29499,
+"en": "Yeah. I've shot five locations.",
+"ctx": "diálogo uid003309a1"
+},
+{
+"id": 29500,
+"en": "These are really going to get tourists interested in visiting Nagasugai!",
+"ctx": "diálogo uid003309a1"
+},
+{
+"id": 29501,
+"en": "Thank you so much for your help!",
+"ctx": "diálogo uid003309a1"
+},
+{
+"id": 29502,
+"en": "How's your photography going? Please try to get some great photos of Nagasugai!",
+"ctx": "diálogo uid003309a1"
+},
+{
+"id": 29503,
+"en": "Sure, what do you need?",
+"ctx": "diálogo uid003309a1"
+},
+{
+"id": 29504,
+"en": "I'm from the Nagasu Tourism Board. Right now we're running an advertising campaign to try to raise Nagasugai's profile as a tourist destination.",
+"ctx": "diálogo uid003309a1"
+},
+{
+"id": 29505,
+"en": "An advertising campaign? Not a bad idea.",
+"ctx": "diálogo uid003309a1"
+},
+{
+"id": 29506,
+"en": "Thank you for saying so! Now, I'd like to ask you to take some photos of places around Nagasugai that you think are must-see landmarks.",
+"ctx": "diálogo uid003309a1"
+},
+{
+"id": 29507,
+"en": "The photos you take will be used in pamphlets and posters promoting Nagasugai as a tourist destination.",
+"ctx": "diálogo uid003309a1"
+},
+{
+"id": 29508,
+"en": "Hm. I'm interested, but I don't have a camera.",
+"ctx": "diálogo uid003309a1"
+},
+{
+"id": 29509,
+"en": "Oh, well there's no problem there! I have a high-end single-lens reflex camera to lend you just for this.",
+"ctx": "diálogo uid003309a1"
+},
+{
+"id": 29510,
+"en": "Sounds expensive. How much is the rental?",
+"ctx": "diálogo uid003309a1"
+},
+{
+"id": 29511,
+"en": "Rental? I'll loan it to you for free! I will need your contact info, though. You know, in case something comes up.",
+"ctx": "diálogo uid003309a1"
+},
+{
+"id": 29512,
+"en": "(Not much reason to say no. I guess I could snap a few shots.)",
+"ctx": "diálogo uid003309a1"
+},
+{
+"id": 29513,
+"en": "Great! Here's your camera.",
+"ctx": "diálogo uid003309a1"
+},
+{
+"id": 29514,
+"en": "I'll be here in this very spot for as long as the campaign is running. Come back once you've shot five locations.",
+"ctx": "diálogo uid003309a1"
+},
+{
+"id": 29515,
+"en": "(Guess I'll see what I can find around town.)",
+"ctx": "diálogo uid003309a1"
+},
+{
+"id": 29516,
+"en": "You're that guy from the tourism board, right? You asked me to take photos for you.",
+"ctx": "diálogo uid003309a1 + diálogo uid00330bcf"
+},
+{
+"id": 29517,
+"en": "Don't worry about it. I've actually been sent out around the country, and I'm doing some work for the Nagasugai Tourism Board now.",
+"ctx": "diálogo uid003309a1"
+},
+{
+"id": 29518,
+"en": "Exactly! I'd like you to shoot five photos here in Nagasugai, too. Bring them to me, and I'll give you a fabulous gift.",
+"ctx": "diálogo uid003309a1"
+},
+{
+"id": 29519,
+"en": "Would you like to buy some local specialties? Go ahead and take a look!",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29520,
+"en": "There isn't anything that really grabs me.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29521,
+"en": "Yeah. Nothing looks that tasty.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29522,
+"en": "Those treats we got in Hokkaido were so delicious.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29523,
+"en": "I can't agree more. They keep that up, and they'll have customers lining up for days.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29524,
+"en": "You're not wrong there. Nothing's really calling to me.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29525,
+"en": "The movie's going to start soon. Let's get going.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29526,
+"en": "Oh, shoot, you're right! Let's go!",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29527,
+"en": "Oh, dear...",
+"ctx": "diálogo uid003309b1 + frase de acompañante/calle STID_ST_S_SOUKO"
+},
+{
+"id": 29528,
+"en": "I guess my merchandise just isn't any good...",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29529,
+"en": "Welcome! I sell local specialties at a store nearby! Please come take a look!",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29530,
+"en": "(Nothing but senbei and manju... Pretty conventional stuff.)",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29531,
+"en": "(Nothing but senbei and manju... Pretty boring.)",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29532,
+"en": "(Nothin' but senbei and manju... Ain't all that exciting.)",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29533,
+"en": "(Senbei and manju... It doesn't look all that appealing.)",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29534,
+"en": "What do you think? Not to your liking?",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29535,
+"en": "You don't need to say anything. I can tell from your face that you don't see anything you like.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29536,
+"en": "What am I going to do!? My supplier doesn't have anything decent, and I've already paid the rent on this store!",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29537,
+"en": "I've never even been on a trip myself! How am I supposed to know what souvenirs sell!?",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29538,
+"en": "I just saw on the TV that local specialties were all the rage! I thought I'd be knee-deep in cash by now!",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29539,
+"en": "You... wouldn't happen to be from out of town, would you?",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29540,
+"en": "Yeah, I came from Fukuoka.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29541,
+"en": "Yeah, I'm from Osaka.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29542,
+"en": "Yeah, I came from Hokkaido.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29543,
+"en": "Yeah, I came here from Nagoya.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29544,
+"en": "Actually, yes. I came from Osaka.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29545,
+"en": "Perfect! Then you must know all about the local specialties there, right?",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29546,
+"en": "Could you bring me some of them? I know it's a huge favor, but I swear you'll be well rewarded!",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29547,
+"en": "Might be hard to believe, but I'm somewhat of a whiz at marketing. Wanna know why?",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29548,
+"en": "So you know those singles mixers? Those things are chock full of college students and business women, and let me tell you, those girls know all the hottest trends.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29549,
+"en": "They've given me tons of information on what kinds of specialties I should be selling. I'll describe them to you, and you bring me items that match those descriptions.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29550,
+"en": "I'll reward you well, of course. And your help would mean so much to me and my business!",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29551,
+"en": "Oh, and you don't need to go out of your way. Just stop by a store while you're doing your thing whenever you've got time.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29552,
+"en": "I don't mind doing it on the side.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29553,
+"en": "Yeah, I could do that at some point.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29554,
+"en": "All right, if I remember.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29555,
+"en": "I'll do it if I get something in return.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29556,
+"en": "I'll look around if I get a chance.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29557,
+"en": "Thank you! Well, I'll go and do some marketing research. Come and see me again sometime.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29558,
+"en": "I'm currently looking for souvenirs from regional cities. If you have any, I'd gladly take them off your hands.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29559,
+"en": "This is what I'm looking for right now.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29560,
+"en": "That's absolutely perfect! Just what I was looking for!",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29561,
+"en": "Keep up the good work!",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29562,
+"en": "I'm afraid I don't need that right now. Do you have anything else?",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29563,
+"en": "The original spicy fish roe flavor from Fukuya, which has been dedicated to quality since it opened.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29564,
+"en": "The secret to its enduring popularity is the tweaks they make based on customer feedback to fine-tune the flavor for each generation.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29565,
+"en": "Each plump piece of cod roe is bursting with goodness and lets the flavors of the ingredients shine.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29566,
+"en": "A mild-flavored spicy fish roe for those who don't like too much kick in their food.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29567,
+"en": "By bringing down the signature spiciness a notch, you can enjoy the flavors of the roe even more.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29568,
+"en": "Hot Emperor was created to answer the demand for a spicy fish roe packed with only the finest red chili peppers.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29569,
+"en": "Seven different spices are mixed into a sophisticated blend that takes advantage of the characteristics of each, adding depth to the taste.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29570,
+"en": "One bite sends waves of heat throughout the body, making this the perfect spicy fish roe for chili aficionados.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29571,
+"en": "This product was created for customers who long for a taste of the old days.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29572,
+"en": "The balance of flavorsome roasted chili peppers and salt recreates the original that first went on sale in 1949.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29573,
+"en": "The heat catches up with you after a few bites, complementing its delicious flavor perfectly.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29574,
+"en": "This confection features sweet Hokkaido beans enveloped in a soft, mochi-like shell. It has been a Hakata favorite for over thirty years.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29575,
+"en": "It was awarded the Prime Minister's Prize at the 19th National Confectionery Exposition.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29576,
+"en": "It has a natural, rustic flavor and remains one of the flagship Hakata confections of manufacturer Saemon.",
+"ctx": "diálogo uid003309b1"
+},
+{
+"id": 29577,
+"en": "Phrases from the Burabura theme song have entered the lexicon, and Hakata locals will even dance to it when it comes on.",
+"ctx": "diálogo uid003309b1"
+}
+]

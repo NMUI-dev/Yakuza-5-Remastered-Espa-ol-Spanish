@@ -1,0 +1,782 @@
+[
+{
+"id": 57924,
+"en": "<Color:255,200,200,255>What's the point if I'm not interested? I start things because I want to make friends, not because I like the thing itself.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57925,
+"en": "So for you, hobbies don't go beyond forging connections with people? That strikes me as missing something.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57926,
+"en": "Noodles?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57927,
+"en": "<Color:255,200,200,255>Yeah, he was in the band. Don't ask me any more about it.<Color:Default>",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57928,
+"en": "<Color:255,200,200,255>So yeah, I do lots of different stuff.<Color:Default>",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57929,
+"en": "Hey, Kiryu-san? Do you have rules on when you decide to take a relationship to an intimate level?<Color:Default>",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57930,
+"en": "You're full of tough questions, aren't you?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57931,
+"en": "<Color:255,200,200,255>Us girls need to plan for that sort of thing, you know? Stuff like, \"Hey, would I be okay having this guy's kid?\" and whatnot.<Color:Default>",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57932,
+"en": "I'd consider marriage. Otherwise, it's a no-go for me. That's a man's responsibility.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57933,
+"en": "<Color:255,200,200,255>You've really thought about this, haven't you?<Color:Default>",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57934,
+"en": "At my age, you kind of have to.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57935,
+"en": "It's not about kids. If you love somebody, that should be enough.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57936,
+"en": "<Color:255,200,200,255>Right? I suppose guys all think like that, though.<Color:Default>",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57937,
+"en": "If you're capable of risk management, there won't be issues if things go too far.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57938,
+"en": "It depends on how things feel. I'm not built to think too far into the future.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57939,
+"en": "<Color:255,200,200,255>Yeah, younger men are like that a lot. I guess you're like that, too.<Color:Default>",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57940,
+"en": "I'm a man, after all.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57941,
+"en": "<Color:255,200,200,255>I can only talk about stuff like this with you, Kiryu-san.<Color:Default>",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57942,
+"en": "Why just with me?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57943,
+"en": "<Color:255,200,200,255>With other people, even when the talk gets serious, things turn to sex right away.<Color:Default>",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57944,
+"en": "<Color:255,200,200,255>But I like you because you always hear me out seriously!<Color:Default>",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57945,
+"en": "I'm used to being counted on. As an older person, it's my role to guide younger people.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57946,
+"en": "<Color:255,200,200,255>Um, okay then. While we're at it, I have a question for you. Straight up, what do you think about me?<Color:Default>",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57947,
+"en": "<Color:255,200,200,255>Would you marry me, then?<Color:Default>",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57948,
+"en": "Whoa, I haven't thought about it that much.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57949,
+"en": "<Color:255,200,200,255>Hmm...<Color:Default>",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57950,
+"en": "<Color:255,200,200,255>Then I guess it'd be okay for us to date! I can't stand the thought of dating a guy if I think there'll be some drama further down the line.<Color:Default>",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57951,
+"en": "I guess I should be happy about that.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57952,
+"en": "<Color:255,200,200,255>But you haven't thought about having kids?<Color:Default>",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57953,
+"en": "Of course not. That would be rushing things, don't you think?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57954,
+"en": "<Color:255,200,200,255>Hmmm...<Color:Default>",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57955,
+"en": "I suppose I should be happy about that.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57956,
+"en": "<Color:255,200,200,255>So then, depending on the mood, would you want to do sexual stuff with me?<Color:Default>",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57957,
+"en": "Only if you wanted to. If the girl makes the first move, I'm not going to say no.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57958,
+"en": "<Color:255,200,200,255>I guess we couldn't date, then. I feel like there'd just be drama further down the line.<Color:Default>",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57959,
+"en": "You're complicated. Everyone has problems big and small, but I don't think I've ever met someone as stubborn as you.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57960,
+"en": "<Color:255,200,200,255>Hahaha! You really think so?<Color:Default>",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57961,
+"en": "<Color:255,200,200,255>Because I like people who are honest! Knowing when to be polite is all well and good, but I like it when someone knows to speak their mind.<Color:Default>",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57962,
+"en": "That's what I like about you, too.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57963,
+"en": "I'm like any other man. Being subjected to this kind of unguarded, frank confessional talk makes me feel like you don't see me that way.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57964,
+"en": "<Color:255,200,200,255>Oh, no. It's not like that, really.<Color:Default>",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57965,
+"en": "<Color:255,200,200,255>With you, Kiryu-san, I feel like even if things did go in that direction, I wouldn't mind because it's you.<Color:Default>",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57966,
+"en": "I feel the same way. I get the sense that things would work out well between us.",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57967,
+"en": "You too? Maybe we really are compatible!<Color:Default>",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57968,
+"en": "I don't know about that. I'm still a guy. I might talk a good game, but who knows what could happen when the actual time comes?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57969,
+"en": "<Color:255,200,200,255>Oh, that actually makes me feel better! It's the guys who insist up and down that they're trustworthy that you have to look out for!<Color:Default>",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57970,
+"en": "Is that how it goes?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57971,
+"en": "Want to give it a shot?",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57972,
+"en": "<Color:255,200,200,255>See, why'd you have to go there!? Didn't I just tell you I didn't like that sort of talk?<Color:Default>",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57973,
+"en": "Oh, sorry...",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57974,
+"en": "<Color:255,200,200,255>Ugh, this bites.<Color:Default>",
+"ctx": "diálogo uid0134003a"
+},
+{
+"id": 57975,
+"en": "What's Kamurocho like these days? There doesn't seem to be as many people around anymore.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 57976,
+"en": "Yeah, a lot of stuff happened last year. Even the cabaret club clientele seems to have moved on to greener pastures.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 57977,
+"en": "That's too bad. This neighborhood used to be a bastion of chaos, a tinge of danger always hanging in the air.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 57978,
+"en": "...Right. Well, now there's just a bunch of empty buildings.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 57979,
+"en": "They'll have signs up in the day, but if you go there at night, they're not open. There's only notices saying they've closed down.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 57980,
+"en": "Really? Things are worse than I imagined.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 57981,
+"en": "But maybe that's for the best. Kamurocho Hills being built is a sign the area's changing. Maybe there'll be more ordinary customers now.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 57982,
+"en": "No, it's not good at all! The economy's awful, so everyone's even more desperate than before. Creeps like club recruiters and barkers are just the worst now!",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 57983,
+"en": "I'm usually in a hurry to get to work, so I wish they'd leave me alone!",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 57984,
+"en": "Right. The bad ones won't even let you pass.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 57985,
+"en": "Yeah, I hate it. I take underground tunnels all the way from the station. I barely even know the layout of the surface streets.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 57986,
+"en": "I always thought the world of a hostess would be more glamorous, but it really is quite plain.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 57987,
+"en": "Maybe I'm better off trying to make my way in a flashier city, like Osaka or Nagoya.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 57988,
+"en": "Not a bad idea. I hear Osaka is still doing pretty well.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 57989,
+"en": "Really!? Do you hit up all the trendy clubs in places like that, Kiryu-san?",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 57990,
+"en": "Of course I do. Over the years I've had business all over the country, so I make sure to hit up the local cabaret clubs when I'm in town.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 57991,
+"en": "That's amazing! I wish everyone was more of a big player like you, Kiryu-san!",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 57992,
+"en": "Are you complimenting me, or...?",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 57993,
+"en": "I prefer when it's less busy. Empty clubs make it easier to get friendly with a girl.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 57994,
+"en": "Haha, I hear that! You have no competition, and the girls are super happy to see you.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 57995,
+"en": "Still, this club is doing pretty well. There aren't many like this in Tokyo.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 57996,
+"en": "It's the same everywhere. It's not only Kamurocho that's in a recession⑬it's all of Japan.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 57997,
+"en": "Aww. Why'd I have the rotten luck of hitting adulthood at such a lousy time?",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 57998,
+"en": "I wish I'd gotten to experience the bubble economy like you did, Kiryu-san.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 57999,
+"en": "Now you sound like an old-timer. You just need to work at it harder, that's all.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58000,
+"en": "Greener pastures?",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58001,
+"en": "You know, like Ginza or Roppongi. Lots of girls have moved out to places like that.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58002,
+"en": "That's sad to hear. I wish more people shared my affection for this part of town.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58003,
+"en": "It can't be helped! Everyone's got to make a living, so of course they're going to go where the money is.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58004,
+"en": "I understand that. But for me, this is the city where all my dreams were formed.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58005,
+"en": "If this place dies out, I feel I may as well fade along with it.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58006,
+"en": "Wow, Kiryu-san. You really do love Kamurocho, don't you?",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58007,
+"en": "I wasn't aware. I figured those places were full of high-end clubs that only big spenders could afford.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58008,
+"en": "There are lots of clubs like that, but there are plenty of affordable ones, too. It's sort of like Kamurocho not too long ago.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58009,
+"en": "I see. Maybe I should check it out sometime.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58010,
+"en": "Will you go, too?",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58011,
+"en": "I don't know. Kamurocho is an easier commute from my house.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58012,
+"en": "I hang out around here a lot too, and it's nice to be able to have fun with friends before work.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58013,
+"en": "Good point. Your personal life is important too.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58014,
+"en": "Will you be at the club on Christmas Eve?",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58015,
+"en": "Why do you ask?",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58016,
+"en": "Just curious.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58017,
+"en": "Unfortunately, I'm off that day.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58018,
+"en": "Are you disappointed?",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58019,
+"en": "Kind of.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58020,
+"en": "Haha! You don't need to be that upset! I'm only going to see a concert!",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58021,
+"en": "Oh, is that all?",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58022,
+"en": "Should I be?",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58023,
+"en": "Oh, come on! You can't hide your disappointment from me! Maybe you should just try to make your own plans.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58024,
+"en": "You're lying. I bet you don't have any plans, you're just trying to make it seem that way.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58025,
+"en": "I do have plans, honest! And I need the money, so if I had the time I'd definitely be here!",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58026,
+"en": "Besides, if a hostess works on Christmas Eve, it's a sign she's not popular.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58027,
+"en": "Well, sure. Girls with regular clients would only come in after some extravagant dinner, and ones with boyfriends wouldn't even be here.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58028,
+"en": "So if you were to come to the club, you'd be stuck with girls who are leftovers.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58029,
+"en": "That's not good. When I come to a cabaret club, it's because I want to forget about my real life for a while.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58030,
+"en": "Hehe. If it bugs you that much, then you should visit our club more! That way you'll have a girl you can invite out on Christmas Eve.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58031,
+"en": "What's wrong with that? If circumstances bring the \"losers\" together, they'll already have something in common. They might even become friends.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58032,
+"en": "I've never thought about it that way! But since you'd be an important client, I'm sure you'd still get excellent service.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58033,
+"en": "So does this mean that you're free on Christmas Eve, Kiryu-san?",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58034,
+"en": "Kind of. I'm not really a party guy, but drinking alone on a night like that...",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58035,
+"en": "I figured you'd have at least one or two girls to spend time with. Why don't you?",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58036,
+"en": "Heh. Wish I knew.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58037,
+"en": "Not really. Of course I have plans. I only wanted to confirm your schedule.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58038,
+"en": "Liar! I bet you anything you're alone that night, Kiryu-san! If you had a girlfriend, you'd never have asked!",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58039,
+"en": "Well, hey, this isn't about me.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58040,
+"en": "That's not true. I bet some girls celebrate on another day, so they can work on Christmas Eve.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58041,
+"en": "I bet! They'll probably say stuff like, \"Oh, I'm all alone on Christmas Eve!\" while they've actually got a date on the 23rd.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58042,
+"en": "Maybe I should try that myself this year. Then I could have an extra day of work.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58043,
+"en": "Seriously? Then I'm not coming on that day.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58044,
+"en": "Are you sure about that? If you get lonely that evening, won't you want to see me?",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58045,
+"en": "Hmph. I'm not sure what you're talking about.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58046,
+"en": "Don't do that. Men will just assume you don't have a life.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58047,
+"en": "Whoa, true. I don't want to seem like a leftover.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58048,
+"en": "It's a choice between money and pride, really.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58049,
+"en": "Don't you have a concert to go to? You can't exactly move that to a different day.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58050,
+"en": "Oh, you're right!",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58051,
+"en": "It's been a while since I've been back in Tokyo, but the girls here really are on a higher level.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58052,
+"en": "What? That's not true! There are only a small number of cute girls here.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58053,
+"en": "Must be my imagination. But I wonder why? What is it about Tokyo that makes me think that?",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58054,
+"en": "Yeah, I think there's something about the city.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58055,
+"en": "If you had a girl pose against a city background and a countryside background, don't you think the city girl would seem more fashionable?",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58056,
+"en": "Sure, it would definitely give off a different impression.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58057,
+"en": "No, it's true. I've seen girls from all over Japan, and there's nothing like the ones here.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58058,
+"en": "Wow, really? But people come to Tokyo from all over the country. How can you tell them apart from the local girls?",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58059,
+"en": "Hm. I suppose that's a good point.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58060,
+"en": "I guess what I really mean, is that Tokyo girls give off a certain air of professionalism.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58061,
+"en": "No, that's not true. No way.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58062,
+"en": "Everyone here's self-centered and two-faced. Nobody even knows how to speak polite Japanese.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58063,
+"en": "Really? Most girls I've met aren't like that at all.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58064,
+"en": "Haha! Oh, Kiryu-san, you're so innocent! That's adorable!",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58065,
+"en": "Am I innocent?",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58066,
+"en": "That can't be true. They get the job done, so they must be responsible. Not anyone can manage that sort of thing.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58067,
+"en": "Nah, it's all an act. They throw themselves into their work so hard because they have to, not because they're normally kind and polite.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58068,
+"en": "So, Kiryu-san, does that mean you prefer city girls?",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58069,
+"en": "Yeah. Being around country girls is relaxing, but it's not like the thrill you get from a hostess.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58070,
+"en": "I much prefer drinking with a girl who's worldly and quick-witted.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58071,
+"en": "I see! Then I guess I'll need to kick it up a notch for you!",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58072,
+"en": "Heh. Please do.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58073,
+"en": "No. City girls tend to make me feel like I'm not up to par with them.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58074,
+"en": "I like a girl who lets me take the lead, and who's a bit more exotic.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58075,
+"en": "Oh, I see. So, I guess I should keep quiet and not start conversations with you?",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58076,
+"en": "No, wait...",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58077,
+"en": "I like both. Everyone's got their good and bad sides. If you focus on the good side, both types of girls are appealing.",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58078,
+"en": "Haha, you're quite the smooth talker!",
+"ctx": "diálogo uid0134003b"
+},
+{
+"id": 58079,
+"en": "You're right, though. Like, I wouldn't be able to pick my preference between clients from   Tokyo, or ones from the country.",
+"ctx": "diálogo uid0134003b"
+}
+]

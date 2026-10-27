@@ -1,0 +1,822 @@
+[
+{
+"id": 26502,
+"en": "Figure... it out! Grah! I can feel my stomach eating itself... Well, you know what they say, \"hunger is the best seasoning.\" But damn... why'd I have to find out like this?",
+"ctx": "diálogo uid00160158"
+},
+{
+"id": 26503,
+"en": "All right, I get it. I'll zip back as quick as I can. Don't die on me.",
+"ctx": "diálogo uid00160158"
+},
+{
+"id": 26504,
+"en": "Please... hurry.",
+"ctx": "diálogo uid00160158"
+},
+{
+"id": 26505,
+"en": "Okay, okay! Ya made your point! Just let us go!",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26506,
+"en": "You know I can't do that.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26507,
+"en": "Sure ya can! We're, uh, ready to turn over a new leaf! Start fresh! ...Pinky promise?",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26508,
+"en": "Well, when the cops get here, you can pinky promise them⑬maybe even cry on their shoulder. After all, what's a couple felonies between friends, right?",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26509,
+"en": "Shit... We're screwed!",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26510,
+"en": "We appreciate your cooperation. Thanks to you, we've finally shut this trafficking ring down. The seven foreign nationals involved have been taken into protection.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26511,
+"en": "Were all of them tricked into coming to Japan and... forced to work on the streets?",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26512,
+"en": "It would appear so. In some countries, local mobsters are known to approach families in poor areas and promise them stable jobs abroad.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26513,
+"en": "It's a serious ongoing problem. But this time we have a solid testimony, thanks to the scum you apprehended. Gives us a better chance to close the book on this for good.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26514,
+"en": "Thank you so much! Now we all go home!",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26515,
+"en": "Really, I am grateful. Please, take.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26516,
+"en": "You got a <Color:8>Cherry Tree Branch<Color:Default>.",
+"ctx": "diálogo uid0016015a + diálogo uid00490091"
+},
+{
+"id": 26517,
+"en": "You are very brave... You saved everyone!",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26518,
+"en": "To be honest. All I did was stumble into a lady who I\nthought could use a crisp, refreshing vitamin drink. That's\nabout all I could offer someone working through a cold.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26519,
+"en": "About that...",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26520,
+"en": "I'm sorry, but I lie about the cold.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26521,
+"en": "They told us police were their allies. That police even worse with punishment. So we had no one.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26522,
+"en": "I wanted to find Japanese person I could trust. Someone with kind heart who listen.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26523,
+"en": "So I pretend to be sick. To see if nice person come along and help me.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26524,
+"en": "Ahhh, so that's what you were up to. Heh, you sure reeled me in. Hope you're happy with your big catch.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26525,
+"en": "I thought everyone in this country was rotten... but not you. Thank you for being different. For reaching out to me.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26526,
+"en": "I not forget you when I go back home. Thank you... and goodbye.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26527,
+"en": "Come on, big daddy. Let's make it a night to remember! *hack* *wheeze*",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26528,
+"en": "Yeah, I got that, but ya keep talkin' in circles! When're ya\ngonna tell me the damn price! You even Japanese? Sheesh...\nAt least ya got beauty on your side. But brains? Doubt it.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26529,
+"en": "Uh. Sorry to interrupt, but I need to talk to her a sec.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26530,
+"en": "Huh? Who said ya could cut in line? Didn't ya learn to wait your turn in grade school!?",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26531,
+"en": "No, man, that's not it. She's got a cold. I just brought her something to help pick her up.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26532,
+"en": "Oh? This for me?",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26533,
+"en": "What? She's sick!? Ugh, I'm keeping my hands to myself, thank you very much. You take your <Italic>germ party</Italic> elsewhere!",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26534,
+"en": "Look, I just fine. I not cough on you, do I? Wait, please! Ah... Atchoo!",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26535,
+"en": "Yeah, you are totally under the weather. I really think you\nshould go home, but if I'm being too overbearing, then here.\nTry drinking this⑬it might just do the trick.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26536,
+"en": "That kind of you to offer, but I no can drink.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26537,
+"en": "(She must really have an awful cold. I guess she can't handle much more than a vitamin drink at this point.)",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26538,
+"en": "<Italic>Gahack-hack!</Italic>",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26539,
+"en": "(I need to find her an vitamin drink from somewhere.)",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26540,
+"en": "You handed over a <Color:8>Toughness Z<Color:Default>.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26541,
+"en": "You handed over a <Color:8>Toughness ZZ<Color:Default>.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26542,
+"en": "You handed over a <Color:8>Toughness Emperor<Color:Default>.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26543,
+"en": "You handed over a <Color:8>Toughness Infinity<Color:Default>.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26544,
+"en": "You handed over a <Color:8>Tauriner<Color:Default>.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26545,
+"en": "You handed over a <Color:8>Tauriner +<Color:Default>.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26546,
+"en": "You handed over a <Color:8>Tauriner ++<Color:Default>.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26547,
+"en": "You handed over a <Color:8>Tauriner Maximum<Color:Default>.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26548,
+"en": "You handed over a <Color:8>Staminan X<Color:Default>.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26549,
+"en": "You handed over a <Color:8>Staminan XX<Color:Default>.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26550,
+"en": "You handed over a <Color:8>Staminan Royale<Color:Default>.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26551,
+"en": "You handed over a <Color:8>Staminan Spark<Color:Default>.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26552,
+"en": "You handed over a <Color:8>Staminan Light<Color:Default>.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26553,
+"en": "You handed over a <Color:8>Toughness Light<Color:Default>.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26554,
+"en": "...Thank you. You a really good guy.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26555,
+"en": "Ah, it's no big deal. Just trying to help.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26556,
+"en": "My name is Sara. This the first time Japanese person treat me so nice.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26557,
+"en": "So, want to party? I give you the extra-sexy service. One-time offer?",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26558,
+"en": "That's very sweet of you, but maybe when you're not coughing and sneezing everywhere. By the way, is there some reason you have to keep at it like this?",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26559,
+"en": "I get in trouble if I'm not working. He get angry... then I get hurt.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26560,
+"en": "You mean your employer hits you? For taking time off, even when you're sick? That's insane!",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26561,
+"en": "Hey, you! What's the big idea?",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26562,
+"en": "You just ran that trick off, ya dang goof! We were watchin'\nthe whole time! Ya tryin' to mess with our business!?",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26563,
+"en": "I'm⑬I'm sorry, what?",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26564,
+"en": "They always watching, making sure we work. You need to go now. Run. Be safe!",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26565,
+"en": "You ain't going nowhere, pal! You owe us for that client\nyour dumb ass drove off!",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26566,
+"en": "But all I did was get her something to drink. Can't you see she's sick?",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26567,
+"en": "Well that cost us business, ya shithead! Now shut your piehole and pay up, or we'll knock your own teeth down your throat!",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26568,
+"en": "It's 15,000 yen to play, so we'll let ya off with a penalty of 30,000. Fork it over before your hospital bill gets any worse.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26569,
+"en": "How about no? Oh, and she tells me you hit her? That's a terrible way to treat your workers.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26570,
+"en": "Fuck off. These bitches owe us for bringing their sorry asses into the country. Until they pay us off, we can do with 'em whatever we want.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26571,
+"en": "They're in debt?",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26572,
+"en": "They lie to us! They say there good jobs in Japan, but tell us nothing about debt!",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26573,
+"en": "When we come, they take our passports. Now we no can go outside unless it to work. We never have moment to ourselves!",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26574,
+"en": "You shut your trap, wench! If it ain't \"me love you long time,\" then \"me don't wanna hear it\"!",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26575,
+"en": "You people are morally deficient, taking advantage of girls who are just trying to earn a better life. Wait till the cops hear about this.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26576,
+"en": "No! They say police are their friends. If we go to them, they send us back. Things only get worse.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26577,
+"en": "Nobody here help us...",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26578,
+"en": "The only way that's possible is if they bribed the entire force.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26579,
+"en": "Well, I highly doubt that's the case. These clowns don't carry that kind of weight, in paper or in stature.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26580,
+"en": "Hey! Yes the hell we do!",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26581,
+"en": "Psh. You might be able to con someone who just got here, but I know better. Our boys in blue would never let you get away with this.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26582,
+"en": "In fact, let's give 'em a call. Shouldn't be a problem. After all, they're buddy-buddy with you, right?",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26583,
+"en": "Wait! Could ya... not do that? Uh... for the sake of convenience!",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26584,
+"en": "Wow. You guys are a disgrace⑬to men, to Japan, and to <Italic>Homo sapiens</Italic> in general.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26585,
+"en": "Why don't ya take your condescending attitude and shove it up your cornhole! Better yet, we'll do it for ya!",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26586,
+"en": "Hey, big boy. Want to party? I give you a real nice time.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26587,
+"en": "(Hm? Is she... a foreigner? Don't see too many in Nagoya, that's for sure.)",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26588,
+"en": "Come on. Don't be shy. Party with me, I make you feel sexy all night. And don't worry⑬I affordable.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26589,
+"en": "I'm flattered, but I'm also flat broke. Maybe we can party some other time.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26590,
+"en": "Aww, you sure? *cough* *cough* Urff...",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26591,
+"en": "<Italic>Gahack-hack-hack-hack!</Italic> *wheeze*",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26592,
+"en": "Whoa! I've never seen a cough that bad... You're not all right, are you?",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26593,
+"en": "It... the winter over here. Japan freezing, but it always hot where I'm from. Ugh... I don't feel good.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26594,
+"en": "Maybe you caught something standing out here in the cold? You should be home and in bed.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26595,
+"en": "Can't. *sniffle* I get in trouble if I not working... <Italic>Gahack-gahack!</Italic>",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26596,
+"en": "Look, you're in no state to be working. In fact, you should be seeing a doctor.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26597,
+"en": "Doctors ask for money. That mean I have to work.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26598,
+"en": "Well, what about taking some medicine? Don't you have some?",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26599,
+"en": "Medicine? There are too many. I can't... *sniffle* read... Ah-Ah-<Italic>Atchoo!</Italic> *sniff* Excuse me. I can't read label.",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26600,
+"en": "(I can't just stand by and watch. The least I could do is offer her a vitamin drink to help her get through the night.)",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26601,
+"en": "*cough* *choke* *wheeze* So... cold. But... must work...",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26602,
+"en": "(I can't just stand by and watch. The least I could do is offer her an vitamin drink to help her get through the night.)",
+"ctx": "diálogo uid0016015a"
+},
+{
+"id": 26603,
+"en": "The day's finally done. I deserve to knock one back on the way home.",
+"ctx": "diálogo uid00180001"
+},
+{
+"id": 26604,
+"en": "Where ya from? Nagasugai's got a lot of places you can visit. Take the long way 'round and explore.",
+"ctx": "diálogo uid00180002"
+},
+{
+"id": 26605,
+"en": "Man, I thought Fukuoka was in the sunny south, but it's just as cold as everywhere else.",
+"ctx": "diálogo uid00180009"
+},
+{
+"id": 26606,
+"en": "Hello! Please drop in and check out Club SEGA.",
+"ctx": "diálogo uid0018000a"
+},
+{
+"id": 26607,
+"en": "There's a club on Nagasu Boulevard called La Seine. There's a girl there named Riku-chan. She's dynamite. Ba-ba-boom!",
+"ctx": "diálogo uid0018000b"
+},
+{
+"id": 26608,
+"en": "Hey, there! Lookin' for some of the cutest girls you've ever seen? Come on in!",
+"ctx": "diálogo uid0018000c"
+},
+{
+"id": 26609,
+"en": "Do I treat myself to a bowl of real southern ramen before heading back to Tokyo, or save the money? So tempting!",
+"ctx": "diálogo uid0018000d"
+},
+{
+"id": 26610,
+"en": "Hey, buddy! Got hotties here waitin' for you! Come on in and get acquainted!",
+"ctx": "diálogo uid0018000e"
+},
+{
+"id": 26611,
+"en": "Not from around here? So where are you from? If you're visitin', you should know Nagoya's famous for the food. Enjoy your stay!",
+"ctx": "diálogo uid0018000f"
+},
+{
+"id": 26612,
+"en": "I can't stop myself. I try and try again to stop eating tebasaki chicken wings, but how could I? They're just so good!",
+"ctx": "diálogo uid00180013"
+},
+{
+"id": 26613,
+"en": "Rice miso's good. So is wheat miso. But when you're in Nagoya, hatcho miso is the one. Try some miso-stewed udon and see what I mean.",
+"ctx": "diálogo uid00180014"
+},
+{
+"id": 26614,
+"en": "Can I interest you in a game of pool?",
+"ctx": "diálogo uid00180015"
+},
+{
+"id": 26615,
+"en": "Hey, watch where you're going!",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26616,
+"en": "Ow! Aniki, I... I think my shoulder's dislocated!",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26617,
+"en": "But I barely...",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26618,
+"en": "(This scam again... The victim looks kind of familiar, though.)",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26619,
+"en": "Oh man, that's a complex break in his arm for sure. How are you going to make this right?",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26620,
+"en": "His arm? But... I bumped into his shoulder.",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26621,
+"en": "Don't give me that shit. You must've bumped into him so hard, you broke them both!",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26622,
+"en": "Oof... Aniki, he messed up my leg, too!",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26623,
+"en": "Hang in there. I'll call a taxi to take us to the hospital!",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26624,
+"en": "Okay, fatcakes, cough it up! We're gonna need 100,000 yen for the taxi and the hospital!",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26625,
+"en": "(Better help him out.)",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26626,
+"en": "Huh? What the hell do you want?",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26627,
+"en": "Aren't you a little old to be pulling petty shakedowns like this?",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26628,
+"en": "Hey, you mind, pops? I have to get to the hospital, so back the fuck off.",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26629,
+"en": "You look perfectly fine to me.",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26630,
+"en": "Hey, guys, let's cut pops here some slack.",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26631,
+"en": "After all, I think what he's saying is that he wants to pay up instead of fatty fatkins here.",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26632,
+"en": "Show me the money!",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26633,
+"en": "You guys just don't get it. I guess I'll have to teach you a lesson in honesty.",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26634,
+"en": "Now, if you really want to go to the hospital, I'd be happy to send you there.",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26635,
+"en": "No, please!",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26636,
+"en": "I never wanted to actually break any bones!",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26637,
+"en": "We're really sorry!",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26638,
+"en": "You all right?",
+"ctx": "diálogo uid00200010 + diálogo uid00490168"
+},
+{
+"id": 26639,
+"en": "Thank you. I... Kiryu-san? Is that you?",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26640,
+"en": "Wait a second...",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26641,
+"en": "It's me, Kamiyama. You know, the guy who mods stuff over in Kamurocho?",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26642,
+"en": "(Oh, right, Kamiyama. The weapons guy.)",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26643,
+"en": "(But no, I can't let him know it's me. You never know who might be listening.)",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26644,
+"en": "You've got the wrong guy. The name's Suzuki.",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26645,
+"en": "Suzuki-san, right? Would you mind coming by my shop?",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26646,
+"en": "Your shop?",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26647,
+"en": "Yes. You see, in addition to Kamurocho and Downtown Ryukyu, I've also set up shop in Nagasugai.",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26648,
+"en": "I'm sure someone like you will find something useful there. So how about it Kiry⑬ I mean, Suzuki-san?",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26649,
+"en": "(Kamiyama's shop might prove useful if trouble comes looking for me. Hope I don't have to use it.)",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26650,
+"en": "All right, lead the way.",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26651,
+"en": "Heh... Hehe. Right this way, Suzuki-san.",
+"ctx": "diálogo uid00200010"
+},
+{
+"id": 26652,
+"en": "There you are, Kazuma Kiryu. I found you at last. Or is it Taichi Suzuki you're calling yourself now?",
+"ctx": "diálogo uid00200023"
+},
+{
+"id": 26653,
+"en": "I'm Ren Higashino. I'm in the qualifiers for the Victory Road.",
+"ctx": "diálogo uid00200023"
+},
+{
+"id": 26654,
+"en": "I see. So you're the one spreading rumors about me.",
+"ctx": "diálogo uid00200023"
+},
+{
+"id": 26655,
+"en": "I didn't mean to blow your cover, but it's a bit late for apologies now, I guess. I never expected to find you in a town like this.",
+"ctx": "diálogo uid00200023"
+},
+{
+"id": 26656,
+"en": "I saw you fighting in Kamurocho once. The power you displayed motivated me to up my game. Now you owe me a chance to test my mettle.",
+"ctx": "diálogo uid00200023"
+},
+{
+"id": 26657,
+"en": "I don't see why I owe you anything.",
+"ctx": "diálogo uid00200023"
+},
+{
+"id": 26658,
+"en": "You made me into what I am today, Kazuma Kiryu.",
+"ctx": "diálogo uid00200023"
+},
+{
+"id": 26659,
+"en": "What if I said you've got the wrong guy?",
+"ctx": "diálogo uid00200023"
+},
+{
+"id": 26660,
+"en": "There are plenty of others like me out there, you know! You think you can run from all of us!?",
+"ctx": "diálogo uid00200023"
+},
+{
+"id": 26661,
+"en": "Don't try to tell me you're not who I think you are. I know how to find out.",
+"ctx": "diálogo uid00200023"
+},
+{
+"id": 26662,
+"en": "I can't let you run off without giving me a shot. I don't care if you're game or not.",
+"ctx": "diálogo uid00200023"
+},
+{
+"id": 26663,
+"en": "You lit a fire in me... and now it's time to stoke it!",
+"ctx": "diálogo uid00200023"
+},
+{
+"id": 26664,
+"en": "Man... You sure live up to your reputation!",
+"ctx": "diálogo uid00200023"
+},
+{
+"id": 26665,
+"en": "Excellent performance, \"Suzuki-san.\" Shall we assume this means you are willing to take part in the Victory Road competition?",
+"ctx": "diálogo uid00200023"
+}
+]

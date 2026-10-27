@@ -1,0 +1,440 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_liveb01.par/texlist/2d_yk_livebattle00",
+ "fuente": "segoeui.ttf",
+ "margen": 3,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    2,
+    33,
+    52,
+    55
+   ],
+   "en": "MISS",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     240,
+     240,
+     240
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "alin": "izq",
+   "ancho_max": 44,
+   "dejar": true
+  },
+  {
+   "caja": [
+    55,
+    33,
+    108,
+    55
+   ],
+   "en": "BAD",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     240,
+     240,
+     240
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "alin": "izq",
+   "ancho_max": 47,
+   "dejar": true
+  },
+  {
+   "caja": [
+    111,
+    33,
+    184,
+    55
+   ],
+   "en": "GOOD",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     240,
+     240,
+     240
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "alin": "izq",
+   "ancho_max": 67,
+   "dejar": true
+  },
+  {
+   "caja": [
+    186,
+    33,
+    268,
+    55
+   ],
+   "en": "GREAT",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     240,
+     240,
+     240
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "alin": "izq",
+   "ancho_max": 76,
+   "dejar": true
+  },
+  {
+   "caja": [
+    0,
+    512,
+    256,
+    532
+   ],
+   "en": "Great Ratings",
+   "es": "Buenas notas",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     240,
+     240,
+     240
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "alin": "izq",
+   "ancho_max": 250
+  },
+  {
+   "caja": [
+    0,
+    532,
+    256,
+    552
+   ],
+   "en": "Max COMBO",
+   "es": "COMBO máx.",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     240,
+     240,
+     240
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "alin": "izq",
+   "ancho_max": 250,
+   "mediana": false,
+   "alto": 11
+  },
+  {
+   "caja": [
+    0,
+    549,
+    80,
+    578
+   ],
+   "en": "Score",
+   "es": "Puntos",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     240,
+     240,
+     240
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "alin": "izq",
+   "ancho_max": 74,
+   "mediana": false
+  },
+  {
+   "caja": [
+    275,
+    33,
+    422,
+    55
+   ],
+   "en": "GOOD GREAT (fantasma)",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     240,
+     240,
+     240
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "alin": "izq",
+   "ancho_max": 141,
+   "dejar": true
+  },
+  {
+   "caja": [
+    774,
+    1,
+    960,
+    14
+   ],
+   "en": "CLIMAX HEAT IDOL HEAT",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     240,
+     240,
+     240
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "alin": "izq",
+   "ancho_max": 180,
+   "dejar": true
+  },
+  {
+   "caja": [
+    854,
+    446,
+    1023,
+    511
+   ],
+   "en": "TEET (logo)",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     240,
+     240,
+     240
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "alin": "izq",
+   "ancho_max": 163,
+   "dejar": true
+  },
+  {
+   "caja": [
+    63,
+    587,
+    233,
+    629
+   ],
+   "en": "Noa Amon",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     240,
+     240,
+     240
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "alin": "izq",
+   "ancho_max": 164,
+   "dejar": true
+  },
+  {
+   "caja": [
+    0,
+    642,
+    300,
+    712
+   ],
+   "en": "Haruka Sawamura",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     240,
+     240,
+     240
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "alin": "izq",
+   "ancho_max": 294,
+   "dejar": true
+  }
+ ]
+}

@@ -1,0 +1,682 @@
+[
+{
+"id": 3683,
+"en": "Enjoy this king of sushi toppings to your heart's content. It's our house specialty.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0006 …"
+},
+{
+"id": 3684,
+"en": "Enjoy the melt-in-your-mouth texture and exceptional flavor of bluefin tuna with just the right amount of fat.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0006 …"
+},
+{
+"id": 3685,
+"en": "This is a house specialty made with the leaner part of the bluefin tuna. You won't want to miss it!",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0006 …"
+},
+{
+"id": 3686,
+"en": "Bluefin pink fatty tuna seared to perfection. Just the right amount of fat burns away for a delicious seared taste.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0006 …"
+},
+{
+"id": 3687,
+"en": "One of the most requested types of sushi. We only use salmon with just the right amount of fat.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0006 …"
+},
+{
+"id": 3688,
+"en": "We use only the freshest squid. Its beautifully white, translucent flesh and firm texture will leave you wanting more.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0006"
+},
+{
+"id": 3689,
+"en": "This sushi features shima-aji, crown jewel of the mackerel family. You must experience the refined flavor of this fatty fish.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0006"
+},
+{
+"id": 3690,
+"en": "We top this sushi with a generous portion of fresh, fatty mackerel. You won't want to miss it.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0006"
+},
+{
+"id": 3691,
+"en": "This roll is topped with fresh salted salmon roe. These little red jewels burst in your mouth for a flavor explosion.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0013"
+},
+{
+"id": 3692,
+"en": "This sushi is made from the fresh muscle meat of different flounders. Enjoy its firm texture and milky flavor.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0006 …"
+},
+{
+"id": 3693,
+"en": "Enjoy the distinctive sweetness and texture of fresh shrimp, along with the slightly more potent wasabi it's paired with.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0006 …"
+},
+{
+"id": 3694,
+"en": "This one's for sushi lovers who enjoy the distinctive texture of the ark clam. Make sure to try it at least once!",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0006"
+},
+{
+"id": 3695,
+"en": "This fresh sea urchin is guaranteed to capture the hearts of real sushi lovers with its distinctive flavor.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0013 …"
+},
+{
+"id": 3696,
+"en": "Enjoy this full fillet of saltwater eel simmered to tender perfection, then lightly grilled to ramp up the flavor factor.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0006 …"
+},
+{
+"id": 3697,
+"en": "Welcome to tuna sushi paradise! Includes prime fatty cuts, fatty cuts, lean cuts, negitoro, tuna rolls, and seared tuna.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0006"
+},
+{
+"id": 3698,
+"en": "Our chefs select only the best sushi for this set. And it changes daily, so you can enjoy something new every day!",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0013"
+},
+{
+"id": 3699,
+"en": "We use only the freshest of scallops. Who could possibly resist their sweet flavor and distinctive texture?",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0013"
+},
+{
+"id": 3700,
+"en": "This sushi combines the white and brown meat of the snow crab. Crab lovers can never get enough.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0013"
+},
+{
+"id": 3701,
+"en": "Our specially selected sushi is guaranteed to satisfy. Includes thirteen pieces of sushi, along with soup and salad.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0013 …"
+},
+{
+"id": 3702,
+"en": "Six kinds of sushi from icy northern waters: scallops, sea urchin, salmon roe, snow crab, Sakhalin surf clam, and botan shrimp.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0013"
+},
+{
+"id": 3703,
+"en": "An extravagant set with only the best sushi recommended by our chefs. Guaranteed to satisfy if you can't decide what to order!",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0006"
+},
+{
+"id": 3704,
+"en": "This rice bowl is extravagantly topped with an assortment of fresh seafood. A masterpiece found nowhere else!",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0006"
+},
+{
+"id": 3705,
+"en": "A recreation of one man's struggle with a fish that put up a fight worthy of a dragon. Created by our president, the Tuna King.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0006 …"
+},
+{
+"id": 3706,
+"en": "This is our house-special rice soup perfectly matched with spicy cod roe from Hakata and rich cheese.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0010"
+},
+{
+"id": 3707,
+"en": "We use only the finest Genkai sea bream in this extravagant rice soup.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0010"
+},
+{
+"id": 3708,
+"en": "This house favorite rice soup features a lavish mix of chicken, crab, shrimp, garlic chives, sansai, and fish roe.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0010"
+},
+{
+"id": 3709,
+"en": "Pork and garlic chives are the main feature of this stamina-boosting rice soup.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0010"
+},
+{
+"id": 3710,
+"en": "Order this for the true Hakata udon experience. Enjoy the flavor of the dashi-infused soup and the texture of the noodles.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0009"
+},
+{
+"id": 3711,
+"en": "Our house-special Hakata udon topped with a fresh egg. Mix the egg in or eat it as is. Either way, you can't go wrong.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0009"
+},
+{
+"id": 3712,
+"en": "Our house-special Hakata udon topped with tempura full of nutritious vegetables.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0009"
+},
+{
+"id": 3713,
+"en": "This old standard goes perfectly with our dashi-based soup. Topped with delectable burdock tempura that has a wonderful crunch.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0009"
+},
+{
+"id": 3714,
+"en": "This udon is topped with big, round fish cake that is deep-fried to perfection. Goes perfectly with our house udon.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0009"
+},
+{
+"id": 3715,
+"en": "Topped with plenty of juicy meat. Perfect for when you need a stamina boost.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0009"
+},
+{
+"id": 3716,
+"en": "Udon and shrimp tempura. Need we say more? Enjoy the delicious flavor of the tempura as it absorbs the dashi stock.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0009"
+},
+{
+"id": 3717,
+"en": "Udon topped with meat and burdock tempura. We offer many kinds of mixed toppings, but this is the number one favorite.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0009"
+},
+{
+"id": 3718,
+"en": "These rice balls are a must for a true Hakata udon experience. Don't forget to order them with a bowl of udon.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0009"
+},
+{
+"id": 3719,
+"en": "This rice ball is loaded with salted mackerel. Enjoy the salty, fatty goodness of the fish and the plump texture of the rice.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0008"
+},
+{
+"id": 3720,
+"en": "Kashiwa chicken simmered till it's juicy and delicious is the star of this popular rice ball.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0008"
+},
+{
+"id": 3721,
+"en": "This rice ball features a plump piece of fried shrimp. Enjoy this exquisite pairing of tempura and rice.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0008"
+},
+{
+"id": 3722,
+"en": "This rice ball is filled with only the finest eel that has been grilled to savory perfection.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0008"
+},
+{
+"id": 3723,
+"en": "This rice ball is packed with our own special okaka, dried bonito flakes seasoned with soy sauce and other secret flavors.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0008"
+},
+{
+"id": 3724,
+"en": "This rice ball is filled with spicy cod roe, Hakata's local specialty. The fresh roe and plump rice are a killer combination.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0008"
+},
+{
+"id": 3725,
+"en": "This rice ball is packed full of mustard greens with a spicy seasoning. This just might be the best rice ball filling ever!",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0008"
+},
+{
+"id": 3726,
+"en": "Crunchy Japanese turnip and dried baby sardines make a perfect match for this tasty rice ball.",
+"ctx": "tabla item|EXPLANATION + menú/texto restaurant0008"
+},
+{
+"id": 3727,
+"en": "A limited-edition whisky made to commemorate the 25th anniversary of the Yamazaki distillery.\n",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3728,
+"en": "A single malt whisky aged in sherry barrels for a balanced flavor.\n",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3729,
+"en": "A Yamazaki whisky made with carefully selected, mature malts for a flavorful, smooth finish.\n",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3730,
+"en": "A whisky made in the Southern Alps of Japan. Has a fruity flavor with smoky accents.",
+"ctx": "tabla item|EXPLANATION + menú/texto bar0000 …"
+},
+{
+"id": 3731,
+"en": "The champion of single malt whiskies.\n",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3732,
+"en": "A 30-year-old whisky with rich sherry notes and profound sweetness.",
+"ctx": "tabla item|EXPLANATION + menú/texto bar0000 …"
+},
+{
+"id": 3733,
+"en": "A cheaper, yet still tasty, alternative to some of the pricier Macallan whiskies.",
+"ctx": "tabla item|EXPLANATION + menú/texto bar0000 …"
+},
+{
+"id": 3734,
+"en": "Characterized by an intensely smoky flavor and a smooth, dry body.",
+"ctx": "tabla item|EXPLANATION + menú/texto bar0000 …"
+},
+{
+"id": 3735,
+"en": "An extraordinary malt Scotch whisky with a tropical body and oaky notes. Aged in bourbon casks since 1964.",
+"ctx": "tabla item|EXPLANATION + menú/texto bar0000 …"
+},
+{
+"id": 3736,
+"en": "A 12-year-old Scotch whisky with ripe, floral overtones.\n",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3737,
+"en": "The best-selling single malt whisky in the world, known for its light and fresh flavor.\n",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3738,
+"en": "A rare Japanese whisky with a robust body.\n",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3739,
+"en": "One of Japan's premium brands, known internationally for its mellow flavor.\n",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3740,
+"en": "The father of Japanese whisky, and possibly the most popular whisky in all of Japan.",
+"ctx": "tabla item|EXPLANATION + menú/texto bar0002 …"
+},
+{
+"id": 3741,
+"en": "A blend of malt and mature grains for a clear, delicate flavor.",
+"ctx": "tabla item|EXPLANATION + menú/texto bar0002 …"
+},
+{
+"id": 3742,
+"en": "A carefully distilled spirit with a bright aroma and sweet fullness.",
+"ctx": "tabla item|EXPLANATION + menú/texto bar0000 …"
+},
+{
+"id": 3743,
+"en": "The best scotch available, hands down.",
+"ctx": "tabla item|EXPLANATION + menú/texto bar0000 …"
+},
+{
+"id": 3744,
+"en": "The crown jewel of the Ballantine's brand, crafted from a combination of over forty single malts.",
+"ctx": "tabla item|EXPLANATION + menú/texto bar0000 …"
+},
+{
+"id": 3745,
+"en": "Standard Ballantine's scotch. Not too heavy, not too light, but just right.",
+"ctx": "tabla item|EXPLANATION + menú/texto bar0002 …"
+},
+{
+"id": 3746,
+"en": "The biggest brand in American whiskey with a simple, clear flavor.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3747,
+"en": "A silky bourbon with a sharp, clean finish.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3748,
+"en": "One of Japan's top brandies, famous for its fruity aroma and smooth flavor.",
+"ctx": "tabla item|EXPLANATION + menú/texto bar0000 …"
+},
+{
+"id": 3749,
+"en": "A remarkable specimen made by pairing the finest grapes with Borderies spirits.",
+"ctx": "tabla item|EXPLANATION + menú/texto bar0002 …"
+},
+{
+"id": 3750,
+"en": "A premium Japanese beer made with only the finest malts.",
+"ctx": "tabla item|EXPLANATION + menú/texto bar0000 …"
+},
+{
+"id": 3751,
+"en": "One of the world's favorite beers, enjoyed by people in 140 countries around the globe.",
+"ctx": "tabla item|EXPLANATION + menú/texto bar0004 …"
+},
+{
+"id": 3752,
+"en": "A clean spring water soju made with premier Korean barley.",
+"ctx": "tabla item|EXPLANATION + menú/texto bar0002 …"
+},
+{
+"id": 3753,
+"en": "A stellar shochu made with top-grade sweet potatoes from southern Kagoshima prefecture. Has a rounded body and a fruity fragrance.",
+"ctx": "tabla item|EXPLANATION + menú/texto bar0002 …"
+},
+{
+"id": 3754,
+"en": "One of the most popular gins in the world, giving you that smooth juniper flavor with every sip.",
+"ctx": "tabla item|EXPLANATION + menú/texto bar0004 …"
+},
+{
+"id": 3755,
+"en": "An American vodka quickly rising in popularity due to its pure flavor and elegant design.",
+"ctx": "tabla item|EXPLANATION + menú/texto bar0002 …"
+},
+{
+"id": 3756,
+"en": "A standard rum with an oaky flavor and notes of vanilla.",
+"ctx": "tabla item|EXPLANATION + menú/texto bar0002 …"
+},
+{
+"id": 3757,
+"en": "Herradura white tequila, matured briefly before bottling for extra smoothness.",
+"ctx": "tabla item|EXPLANATION + menú/texto bar0006"
+},
+{
+"id": 3758,
+"en": "Around 80 percent of this whisky is matured in sherry casks, while the other 20 percent spent its time in American and Mizunara oak casks.",
+"ctx": "tabla item|EXPLANATION + menú/texto bar0002 …"
+},
+{
+"id": 3759,
+"en": "Uniquely matured in bourbon and sherry oak casks, this Scotch whisky is smooth and delicate with a fruity, oaky finish.",
+"ctx": "tabla item|EXPLANATION + menú/texto bar0000 …"
+},
+{
+"id": 3760,
+"en": "Placeholder description.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3761,
+"en": "This figure brings the popular character Cutie Girl to life in vivid detail.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3762,
+"en": "This figure brings the popular character SR Love Shine to life in vivid detail.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3763,
+"en": "This figure brings the popular character Pretty Girl to life in vivid detail.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3764,
+"en": "This figure brings the popular character SR Love Master to life in vivid detail.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3765,
+"en": "This figure brings the popular character Cutie Girl NEO to life in vivid detail.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3766,
+"en": "This blue stuffed squirrel toy is striking a rather pretentious pose.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3767,
+"en": "This white stuffed bird toy is cute and chubby.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3768,
+"en": "This red stuffed squirrel toy is striking a rather pretentious pose.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3769,
+"en": "This pink stuffed bird toy is cute and chubby.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3770,
+"en": "This jumbo-sized stuffed squirrel toy is striking a rather pretentious pose.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3771,
+"en": "This jumbo-sized stuffed bird toy is cute and chubby.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3772,
+"en": "A stuffed animal of the character Hito-Nyan. This one looks happy.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3773,
+"en": "A stuffed animal of the character Hito-Nyan. This one looks normal.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3774,
+"en": "A stuffed animal of the character Hito-Nyan. This one looks disappointed.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3775,
+"en": "A stuffed animal of the character AiAi from the Super Monkey Ball series of games.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3776,
+"en": "A stuffed animal of the character MeeMee from the Super Monkey Ball series of games.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3777,
+"en": "A stuffed animal of the character Baby from the Super Monkey Ball series of games.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3778,
+"en": "A stuffed animal of the character GonGon from the Super Monkey Ball series of games.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3779,
+"en": "A stuffed toy of the Don Quijote mascot Donpen-kun.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3780,
+"en": "A stuffed toy of the \"Taiko No Tatsujin\" mascot Don-chan.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3781,
+"en": "A stuffed toy of the Nico Nico character Nico Nico TV-chan.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3782,
+"en": "This figure of the Vocaloid singing star Hatsune Miku is dynamically posed and features her distinctive hairstyle.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3783,
+"en": "Megurine Luka figure.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3784,
+"en": "A figure of Opa-Opa, the main character from the famous shooting game Fantasy Zone.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3785,
+"en": "A figure of Robo, a main character from the famous action game Bonanza Bros.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3786,
+"en": "A figure of Mobo, a main character from the famous action game Bonanza Bros.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3787,
+"en": "A figure of Ulala, the main character from the famous rhythm-action game Space Channel 5.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3788,
+"en": "A figure of a yellow Morolian, an enemy from the famous rhythm-action game Space Channel 5.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3789,
+"en": "A figure of a red Morolian, an enemy from the famous rhythm-action game Space Channel 5.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3790,
+"en": "A figure of a pink Morolian, an enemy from the famous rhythm-action game Space Channel 5.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3791,
+"en": "A figure of a blue Morolian, an enemy from the famous rhythm-action game Space Channel 5.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3792,
+"en": "A figure of a green Morolian, an enemy from the famous rhythm-action game Space Channel 5.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3793,
+"en": "A figure of a purple Morolian, an enemy from the famous rhythm-action game Space Channel 5.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3794,
+"en": "A figure of NiGHTS, the main character from the famous action series NiGHTS into Dreams.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3795,
+"en": "A figure of the dragon ridden by the main character from the famous shooting game Panzer Dragoon.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3796,
+"en": "This multipurpose blade is known for its ability to cut through almost anything.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3797,
+"en": "This dragon seal that once belonged to a Chinese emperor is brimming with an awesome presence.",
+"ctx": "tabla item|EXPLANATION + menú/texto ex_shop0000"
+},
+{
+"id": 3798,
+"en": "This resin has a lot of bounce to it.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3799,
+"en": "This cloth is said to be made from the toughest fabric in the world.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3800,
+"en": "The latest in cutting-edge physical fitness gear. Even endorsed by top athletes.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0082"
+},
+{
+"id": 3801,
+"en": "This block of platinum evokes the elegance of rare metals.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0082"
+},
+{
+"id": 3802,
+"en": "This magnetized chunk of metal exerts a strong magnetic force.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3803,
+"en": "This battery looks like it might be useful for something.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3804,
+"en": "This is your average oil used in lighters, but you might be able to use it for something else.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3805,
+"en": "This crimson stone draws you in with its beauty. It is said that a small kingdom was wiped out in a battle over this jewel.",
+"ctx": "tabla item|EXPLANATION + menú/texto ex_shop0000"
+},
+{
+"id": 3806,
+"en": "These whole dried chili peppers are incredibly hot. Maybe you could use them for something.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3807,
+"en": "This wood from a thousand-year-old sacred tree looks like it might be useful for something.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3808,
+"en": "This stone reflects light an eerie, diffuse manner. Maybe you could use it for something.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0082"
+},
+{
+"id": 3809,
+"en": "This would be about the size of a human when fully blown up. Maybe you could use it for something.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3810,
+"en": "Kids can throw this ball around without getting hurt. Maybe you could use it for something.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3811,
+"en": "This looks like your average block of brass, but maybe you could use it for something.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3812,
+"en": "This gunpowder has an excellent burn rate and destructive force. Maybe you could use it for something.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0082"
+},
+{
+"id": 3813,
+"en": "The instructions say it's an experimental device for converting gravity. Maybe you could use it for something.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3814,
+"en": "Can't be obtained through normal channels due to its extremely high voltage. Maybe you could use it for something.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3815,
+"en": "This mysterious liquid is highly viscous, but no one knows what it's for. Maybe you could use it for something.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3816,
+"en": "This wood from a Japanese Ash tree looks like it could be made into a large fan.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3817,
+"en": "No one knows what this small motor is for. Maybe you could use it for something.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 3818,
+"en": "This beautiful branch has the strange power to draw in those who behold it. Maybe you could use it for something.",
+"ctx": "tabla item|EXPLANATION"
+}
+]

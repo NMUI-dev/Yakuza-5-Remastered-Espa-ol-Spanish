@@ -1,0 +1,752 @@
+[
+{
+"id": 71200,
+"en": "All Terminals and Honors (Honroutou):",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku08); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71201,
+"en": "All triplets or quads of 1s, 9s, and honors.",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku08); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71202,
+"en": "Little Three Dragons (Shousangen):",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku09); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71203,
+"en": "A hand with any two dragon triplets and using the third dragon as a pair.",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku09); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71204,
+"en": "Three Color Triplets (Sanshoku Doukou):",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku09); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71205,
+"en": "A hand with three triplets of the same number, one in each suit.",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku09); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71206,
+"en": "·Scoring Elements (2Han)",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku10); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71207,
+"en": "Three Quads (SanKantsu):",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku10); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71208,
+"en": "A hand with three quads that are either concealed or exposed.",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku10); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71209,
+"en": "DoubleRiichi: When you declare riichi on your first discard.",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku10); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71210,
+"en": "·Scoring Elements (3 Han)",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku11); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71211,
+"en": "Pure Outside Hand (Junchan):",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku11); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71212,
+"en": "All sets include a 1 or a 9. Concealed: 3 han. Exposed: 2 han.",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku11); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71213,
+"en": "Half Flush (Hon'itsu):",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku11); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71214,
+"en": "A hand consisting of only one suit and any combination of honors. Concealed: 3 han.Exposed:2 han.",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku11); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71215,
+"en": "Double Identical Sequences (Ryanpeikou):",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku12); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71216,
+"en": "A concealed hand with two ldentical Sequences.This scoring element takesprecedence over SevenPairs.",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku12); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71217,
+"en": "·Scoring Elements (Mangan)",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku13); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71218,
+"en": "Terminal and Honor Discards (Nagashi Mangan): A hand formed when the round is a draw. In order to qualify, you must have not discarded any number tiles 2 through 8, and you must not have formed any exposed melds. Additionally, no other player must have claimed any of your terminal/honor discards.",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku13); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71219,
+"en": "·Scoring Elements (6 Han)",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku14); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71220,
+"en": "Full Flush (Chin'itsu):",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku14); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71221,
+"en": "A hand consisting ofone suit. Concealed: 6 han. Exposed: 5 han.",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku14); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71222,
+"en": "·Scoring Elements (Limit Hands)",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku15); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71223,
+"en": "Four Concealed Triplets (Suu Ankou):",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku15); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71224,
+"en": "Four triplets consisting of self-drawn tiles.You cannot call ron to form the fourthtriplet.All four tripletsmustbeconcealed.",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku15); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71225,
+"en": "All Honors(Tsuuiisou):",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku15); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71226,
+"en": "A hand consistingentirelyofhonors.",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku15); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71227,
+"en": "Big Three Dragons (Daisangen):",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku16); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71228,
+"en": "A hand with one triplet each of white, green, and red dragons.",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku16); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71229,
+"en": "All Green (Ryuuiisou):",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku16); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71230,
+"en": "A hand consisting entirely of green tiles (only green dragons and 2, 3, 4, 6, and 8 of Bamboo tiles).",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku16); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71231,
+"en": "Thirteen Orphans (Kokushi Musou):",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku17); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71232,
+"en": "A hand with one of each terminal and honor tile, plus a duplicate of any",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku17); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71233,
+"en": "one.",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku17); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71234,
+"en": "Little Four Winds (Shousuushii):",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku17); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71235,
+"en": "A hand with any three wind triplets and a pair of winds.",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku17); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71236,
+"en": "All Terminals (Chinroutou):",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku18); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71237,
+"en": "A hand consisting of only 1 and 9 tiles to form 4 sets and 1 pair.",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku18); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71238,
+"en": "Big Wheel (Dai Sharin):",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku18); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71239,
+"en": "A concealed hand consisting of seven pairs of dots 2 through 8.",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku18); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71240,
+"en": "Four Quads (Suu Kantsu):",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku19); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71241,
+"en": "A hand consisting of four quads that are either concealed or exposed.",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku19); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71242,
+"en": "Nine Gates (Chuuren Poutou):",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku19); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71243,
+"en": "A concealed Full Flush with three 1s, three 9s, one each of 2 through 8,",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku19); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71244,
+"en": "andoneadditionaltilefromthesamesuit.",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku19); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71245,
+"en": "· Scoring Elements (Limit Hands)",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku20); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71246,
+"en": "Heavenly Hand (Tenhou): The dealer has a completed hand with his initial 14 tiles.",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku20); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71247,
+"en": "Earthly Hand (Chiihou): A non-dealer completes a hand on his first draw, but only if another player has not claimed a discard.",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku20); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71248,
+"en": "Natural Limit (Kazoe Yakuman):",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku20); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71249,
+"en": "more.",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku20); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71250,
+"en": "·Scoring Elements (Double Limit Hands)",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku21); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71251,
+"en": "Four Concealed Triplets with Single Wait (Suu Ankou Tanki):",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku21); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71252,
+"en": "Same as Four Concealed Triplets, except that you finish the hand by making a pair.",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku21); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71253,
+"en": "Pure Thirteen Orphans (Junsei Kokushi Musou):",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku21); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71254,
+"en": "Same as Thirteen Orphans, but you finish by waiting to form a pair from one of 13 different tiles that could complete it.",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku21); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71255,
+"en": "Scoring Elements(Double Limit Hands)",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku22); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71256,
+"en": "Big Four Winds(Daisuushii):",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku22); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71257,
+"en": "A hand with triplets of all four winds that are either concealed or exposed.",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku22); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71258,
+"en": "Pure Nine Gates (Junsei Chuuren Poutou):",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku22); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71259,
+"en": "Same as Nine Gates, except you finish the hand by waiting to form a pair from the numbers 1 through 9.",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku22); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71260,
+"en": "·Points",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku23); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71261,
+"en": "After your han is added up, you can calculate their point value worth based onwhetheryou're thedealer(higherpts)or not.",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku23); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71262,
+"en": "1-4 Han:Various points, dependent on the individual tiles used 4-5 Han: Mangan (12,000 / 8,000 pts) 6-7 Han: Haneman (18,000 / 12,000 pts) 8-10 Han: Baiman (24,000 / 16,000 pts) 11-12 Han: Sanbaiman (36,000 / 24,000 pts) 13+ Han or Limit: Yakuman (48,000 pts / 32,000 pts)",
+"ctx": "imagen: página de reglas de minijuego (rule_mjyaku23); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71263,
+"en": "Poker (Texas Hold 'em)",
+"ctx": "imagen: página de reglas de minijuego (rule_poker0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71264,
+"en": "Texas Hold 'em is a poker game where players construct five-card hands from a total of seven cards: the player's own two hole cards and five community cards.",
+"ctx": "imagen: página de reglas de minijuego (rule_poker0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71265,
+"en": "·Victory Conditions",
+"ctx": "imagen: página de reglas de minijuego (rule_poker0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71266,
+"en": "·Have the strongest hand at showdown - If all other players fold",
+"ctx": "imagen: página de reglas de minijuego (rule_poker0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71267,
+"en": "GameFlow",
+"ctx": "imagen: página de reglas de minijuego (rule_poker1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71268,
+"en": "In the first round, each player is dealt two hole cards. Three community cards are dealt in the second round. The fourth and fifth community cards are dealt in the third and fourth rounds, respectively.",
+"ctx": "imagen: página de reglas de minijuego (rule_poker1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71269,
+"en": "·Advancing to the Next Round",
+"ctx": "imagen: página de reglas de minijuego (rule_poker1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71270,
+"en": "All players place bets of the same amount - All players check",
+"ctx": "imagen: página de reglas de minijuego (rule_poker1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71271,
+"en": "When the fourth round ends, all players reveal their hands in a showdown. The player with the strongest combination of cards wins.",
+"ctx": "imagen: página de reglas de minijuego (rule_poker1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71272,
+"en": "·Possible Actions in Each Round",
+"ctx": "imagen: página de reglas de minijuego (rule_poker2); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71273,
+"en": "- Bet: Wager a fixed amount of chips Call: Wager the same amount of chips as the previous player Raise: Wager more chips than the previous player Check: Go on to the next player without wagering - Fold: Stop wagering and forfeit the hand",
+"ctx": "imagen: página de reglas de minijuego (rule_poker2); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71274,
+"en": "*A bet is placed when chips have not yet been wagered. *A check is possible when chips have not been wagered, or when all players call the big blind.",
+"ctx": "imagen: página de reglas de minijuego (rule_poker2); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71275,
+"en": "The \"big blind\" and \"little blind\" are forced bets at the beginning of the game that must be posted by the two players to the left of the dealer button.",
+"ctx": "imagen: página de reglas de minijuego (rule_poker3); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71276,
+"en": "Betting Values for Each Blind",
+"ctx": "imagen: página de reglas de minijuego (rule_poker3); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71277,
+"en": "Big Blind: Minimum bet Little Blind: Half the minimum bet",
+"ctx": "imagen: página de reglas de minijuego (rule_poker3); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71278,
+"en": "Poker (Omaha Hold 'em)",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_ohama0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71279,
+"en": "Omaha Hold 'em is a poker game in which you build five-card hands from nine cards (two out of four hole cards, plus three out of five community cards).",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_ohama0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71280,
+"en": "·HowtoWin:",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_ohama0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71281,
+"en": "- Have the strongest hand at the showdown. All the other players fold.",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_ohama0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71282,
+"en": "·Advancing to the Next Round:",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_ohama1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71283,
+"en": "All players have placed bets of the same amount. - The turn has been checked around.",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_ohama1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71284,
+"en": "At the end of the fourth round, all players reveal their hands in a showdown. The player with the strongest hand wins.",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_ohama1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71285,
+"en": "- Bet: Bet a fixed amount of chips. Call: Bet the same amount of chips as the previous player. Raise: Bet more chips than the previous player. Check: Don't bet, in which case the next player goes. - Fold: Stop betting and retire from the current hand.",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_ohama2); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71286,
+"en": "(You may place a bet if none of the other players have bet yet.) (You can check if none of the other players have bet yet, or if all the other players call the big blind.)",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_ohama2); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71287,
+"en": "A big blind and little blind are forced bets at the beginning of a hand that must be made by the first and second players thatget thedealerbutton after thecurrentdealer. (The dealer button rotates clockwise after each hand.)",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_ohama3); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71288,
+"en": "·BetAmountsEach Round",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_ohama3); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71289,
+"en": "Big Blind:Minimum bet Little Blind: Half the minimum bet",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_ohama3); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71290,
+"en": "Poker (Pineapple Hold 'em)",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_pai0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71291,
+"en": "Pineapple Hold 'em is a poker game in which you build five-card hands from seven cards (your own two hole cards, plus five community cards).",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_pai0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71292,
+"en": "·How to Win:",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_pai0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71293,
+"en": "In the first round, each player is dealt three hole cards. One card needs to be discarded and two can be kept.",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_pai1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71294,
+"en": "Advancing to the Next Round:",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_pai1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71295,
+"en": "- All players have placed bets of the same amount. - The turn has been checked around.",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_pai1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71296,
+"en": "At the end of the fourth round, all players reveal their hands ina showdown.Theplayer with the strongest hand wins.",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_pai1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71297,
+"en": "· One pair: Two cards of the same face value",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_yaku0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71298,
+"en": "Two pair: Two sets of one pair",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_yaku0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71299,
+"en": "Three of a kind: Three cards of the same face value",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_yaku0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71300,
+"en": "·Straight: Five cards in sequential order",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_yaku1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71301,
+"en": "Flush: Five cards of the same suit",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_yaku1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71302,
+"en": "Full house: A set of one pair and three of a kind",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_yaku1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71303,
+"en": "·Four of a kind: Four cards of the same face value",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_yaku2); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71304,
+"en": "Straight flush: A straight composed of five cards of the same suit",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_yaku2); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71305,
+"en": "Royal flush: A straight composed of 10, J, Q, K, and ace of the same suit",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_yaku2); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71306,
+"en": "· High card: A hand that does not contain any of the above combinations",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_yaku3); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71307,
+"en": "Tie Breaker Rules: Rule 1: The player who made a hand with the highest card wins",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_yaku3); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71308,
+"en": "Rule 2: The player who holds the highest card outside the hand wins",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_yaku3); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71309,
+"en": "Rule 3: If all card values match, it is a draw and the pot is split",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_yaku3); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71310,
+"en": "Card Strength:",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_yaku3); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71311,
+"en": "Strong",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_yaku3); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71312,
+"en": "Weak",
+"ctx": "imagen: página de reglas de minijuego (rule_poker_yaku3); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71313,
+"en": "Types of Roulette Bets",
+"ctx": "imagen: página de reglas de minijuego (rule_roulette_hai0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71314,
+"en": "Roulette Bets: Straight Up Split Trio Corner Five-Number Six Line",
+"ctx": "imagen: página de reglas de minijuego (rule_roulette_hai0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71315,
+"en": "Betonparticularnumber Bet on line bridging two numbers Bet on three numbers in single row Bet on intersection of fournumbers Bet on 0, 00, 1, 2, or 3 Beton two adjoining streets",
+"ctx": "imagen: página de reglas de minijuego (rule_roulette_hai0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71316,
+"en": "Beton 12 spaces in acolumn Bet on one of the three groups Bet on either low or high half Betoneitheroddsorevens Betoneitherredorblack",
+"ctx": "imagen: página de reglas de minijuego (rule_roulette_hai0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71317,
+"en": "Column Dozen High/Low Even/Odd Red/Black",
+"ctx": "imagen: página de reglas de minijuego (rule_roulette_hai0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71318,
+"en": "ODD",
+"ctx": "imagen: página de reglas de minijuego (rule_roulette_hai0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71319,
+"en": "3RD.12",
+"ctx": "imagen: página de reglas de minijuego (rule_roulette_hai0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71320,
+"en": "2tol",
+"ctx": "imagen: página de reglas de minijuego (rule_roulette_hai0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71321,
+"en": "RouletteStrategies",
+"ctx": "imagen: página de reglas de minijuego (rule_roulette_kou0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71322,
+"en": "·Flower:",
+"ctx": "imagen: página de reglas de minijuego (rule_roulette_kou0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71323,
+"en": "·Basic:",
+"ctx": "imagen: página de reglas de minijuego (rule_roulette_kou0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71324,
+"en": "[ST.12",
+"ctx": "imagen: página de reglas de minijuego (rule_roulette_kou0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71325,
+"en": "2ND.12",
+"ctx": "imagen: página de reglas de minijuego (rule_roulette_kou0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71326,
+"en": "Covering 14",
+"ctx": "imagen: página de reglas de minijuego (rule_roulette_kou0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71327,
+"en": "Betting on a number and those surrounding it.",
+"ctx": "imagen: página de reglas de minijuego (rule_roulette_kou0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71328,
+"en": "numbers including",
+"ctx": "imagen: página de reglas de minijuego (rule_roulette_kou0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71329,
+"en": "and 00.",
+"ctx": "imagen: página de reglas de minijuego (rule_roulette_kou0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71330,
+"en": "Double Zero:",
+"ctx": "imagen: página de reglas de minijuego (rule_roulette_kou1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71331,
+"en": "Single Zero:",
+"ctx": "imagen: página de reglas de minijuego (rule_roulette_kou1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71332,
+"en": "ST.12",
+"ctx": "imagen: página de reglas de minijuego (rule_roulette_kou1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71333,
+"en": "Covering 11 numbers centered around Oo.Effective whenused alternately with SZ.",
+"ctx": "imagen: página de reglas de minijuego (rule_roulette_kou1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71334,
+"en": "Covering 11 numberscentered around O.Effective when used alternately with DZ.",
+"ctx": "imagen: página de reglas de minijuego (rule_roulette_kou1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71335,
+"en": "Europe",
+"ctx": "imagen: página de reglas de minijuego (rule_roulette_kou2); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71336,
+"en": "Covering12numbers that are 90 degrees from 0.",
+"ctx": "imagen: página de reglas de minijuego (rule_roulette_kou2); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71337,
+"en": "Coveringnumbers ontheoppositeside of 7-5-3.",
+"ctx": "imagen: página de reglas de minijuego (rule_roulette_kou2); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71338,
+"en": "Place chips on the layout to predict where the ball will land. ·There is a time limit for placing bets. ·Each space has different payout odds. · Placing bets on the lines can cover between two and six numbers.",
+"ctx": "imagen: página de reglas de minijuego (rule_roulette_setu0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71339,
+"en": "2to1 Bet on a column.",
+"ctx": "imagen: página de reglas de minijuego (rule_roulette_setu0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71340,
+"en": "Special numbers. Neither black nor red.",
+"ctx": "imagen: página de reglas de minijuego (rule_roulette_setu0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71341,
+"en": "2tol2tol",
+"ctx": "imagen: página de reglas de minijuego (rule_roulette_setu0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71342,
+"en": "Bet on either low orhighnumbers.",
+"ctx": "imagen: página de reglas de minijuego (rule_roulette_setu0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71343,
+"en": "Eitherredorblack. 1st/2nd/3rd Bet on low, middle, or high numbers.",
+"ctx": "imagen: página de reglas de minijuego (rule_roulette_setu0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71344,
+"en": "EVEN",
+"ctx": "imagen: página de reglas de minijuego (rule_roulette_setu0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71345,
+"en": "Red/Black Betoneitherredorblacknumbers.",
+"ctx": "imagen: página de reglas de minijuego (rule_roulette_setu0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71346,
+"en": "Even Odd Bet on either evenor odd numbers.",
+"ctx": "imagen: página de reglas de minijuego (rule_roulette_setu0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71347,
+"en": "·Movement The movement rules differ by piece as follows:",
+"ctx": "imagen: página de reglas de minijuego (rule_shougi0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71348,
+"en": "Pawn",
+"ctx": "imagen: página de reglas de minijuego (rule_shougi0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71349,
+"en": "Silver General",
+"ctx": "imagen: página de reglas de minijuego (rule_shougi0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+}
+]

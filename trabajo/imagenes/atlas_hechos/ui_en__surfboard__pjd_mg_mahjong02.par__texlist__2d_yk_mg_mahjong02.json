@@ -1,0 +1,119 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_mahjong02.par/texlist/2d_yk_mg_mahjong02",
+ "fuente": "georgiaz.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    0,
+    256,
+    106
+   ],
+   "en": "Pon",
+   "ocr": "Pon",
+   "es": "",
+   "fuente": "times.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 252,
+   "dejar": true
+  },
+  {
+   "caja": [
+    256,
+    0,
+    512,
+    106
+   ],
+   "en": "Chi",
+   "ocr": "Chi",
+   "es": "",
+   "fuente": "times.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 252,
+   "dejar": true
+  },
+  {
+   "caja": [
+    512,
+    0,
+    768,
+    106
+   ],
+   "en": "Kan",
+   "ocr": "Kan",
+   "es": "",
+   "fuente": "times.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 252,
+   "dejar": true
+  },
+  {
+   "caja": [
+    768,
+    0,
+    1024,
+    106
+   ],
+   "en": "Ron",
+   "ocr": "Ron",
+   "es": "",
+   "fuente": "times.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 252,
+   "dejar": true
+  },
+  {
+   "caja": [
+    0,
+    106,
+    340,
+    212
+   ],
+   "en": "Draw",
+   "ocr": "Draw",
+   "es": "Empate",
+   "fuente": "georgiaz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 336
+  },
+  {
+   "caja": [
+    342,
+    106,
+    682,
+    212
+   ],
+   "en": "Riichi",
+   "ocr": "Riichi",
+   "es": "",
+   "fuente": "times.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 336,
+   "dejar": true
+  },
+  {
+   "caja": [
+    684,
+    106,
+    1024,
+    212
+   ],
+   "en": "Tsumo",
+   "ocr": "Tsumo",
+   "es": "",
+   "fuente": "times.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 336,
+   "dejar": true
+  }
+ ]
+}

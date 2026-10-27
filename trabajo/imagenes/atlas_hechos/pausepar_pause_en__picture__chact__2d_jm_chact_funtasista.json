@@ -1,0 +1,74 @@
+{
+ "textura": "pausepar_pause_en/picture/chact/2d_jm_chact_funtasista",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    127,
+    0,
+    512,
+    140
+   ],
+   "en": "PYHV",
+   "ocr": "AhAs",
+   "es": "PYHV",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 385
+  },
+  {
+   "caja": [
+    166,
+    301,
+    335,
+    392
+   ],
+   "en": "pyy",
+   "ocr": "bks",
+   "es": "pyy",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 169
+  },
+  {
+   "caja": [
+    14,
+    528,
+    324,
+    568
+   ],
+   "en": "KILLER KICK COMBO",
+   "ocr": "KILLER KICK COMBO",
+   "es": "COMBO LETAL DE PATADAS",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 306
+  },
+  {
+   "caja": [
+    13,
+    597,
+    324,
+    638
+   ],
+   "en": "KILLER KICK COMBO",
+   "ocr": "KILLER KICK COMBO",
+   "es": "COMBO LETAL DE PATADAS",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 307,
+   "radio": 2.5,
+   "color": [
+    200,
+    25,
+    25
+   ]
+  }
+ ]
+}

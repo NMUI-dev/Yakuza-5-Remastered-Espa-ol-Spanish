@@ -1,0 +1,180 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_darts_cricket_04",
+ "fuente": "verdana.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    330,
+    16,
+    695,
+    50
+   ],
+   "en": "CRICKET GAME RULE",
+   "es": "REGLAS DEL CRICKET",
+   "fuente": "verdana.ttf",
+   "alin": "centro",
+   "ancho_max": 359,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "margen": 0
+  },
+  {
+   "caja": [
+    403,
+    364,
+    623,
+    398
+   ],
+   "en": "Random Cricket",
+   "es": "",
+   "fuente": "verdana.ttf",
+   "alin": "centro",
+   "ancho_max": 214,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "margen": 0,
+   "es_propuesto": "Cricket aleatorio",
+   "dejar": true
+  },
+  {
+   "caja": [
+    293,
+    409,
+    780,
+    440
+   ],
+   "en": "The game uses the bull's-eye",
+   "es": "El juego usa la diana central",
+   "fuente": "verdana.ttf",
+   "alin": "izq",
+   "ancho_max": 481,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "margen": 0
+  },
+  {
+   "caja": [
+    293,
+    440,
+    348,
+    468
+   ],
+   "en": "and",
+   "es": "y",
+   "fuente": "verdana.ttf",
+   "alin": "der",
+   "ancho_max": 49,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "margen": 2
+  },
+  {
+   "caja": [
+    348,
+    440,
+    800,
+    468
+   ],
+   "en": "six randomly selected numbers.",
+   "es": "seis números elegidos al azar.",
+   "fuente": "verdana.ttf",
+   "alin": "izq",
+   "ancho_max": 446,
+   "efecto": "nada",
+   "color": [
+    235,
+    40,
+    40
+   ],
+   "fondo": "lama",
+   "margen": 0
+  },
+  {
+   "caja": [
+    163,
+    117,
+    274,
+    173
+   ],
+   "en": "DARTS (logo)",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    494,
+    258,
+    529,
+    283
+   ],
+   "en": "BULL",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    324,
+    311,
+    357,
+    332
+   ],
+   "en": "Player",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    623,
+    314,
+    691,
+    331
+   ],
+   "en": "Susumu Yamagata",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    297,
+    86,
+    371,
+    120
+   ],
+   "en": "RANDOM CRICKET",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    641,
+    87,
+    726,
+    105
+   ],
+   "en": "DARTS & RESULT",
+   "es": "",
+   "dejar": true
+  }
+ ]
+}

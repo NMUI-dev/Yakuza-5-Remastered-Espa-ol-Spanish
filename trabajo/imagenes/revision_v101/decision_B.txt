@@ -1,0 +1,28 @@
+# decisión por página B (v101 = usar la rehecha; v10 = dejar la v1.0; manual = arreglo a mano)
+0 treasure_map3_unite_l v101
+1 kamiyama_tk manual (v101 destrozada: quitar bloque negro sobre la v1.0)
+2 baccarat3 manual (cabecera de tabla)
+3 baccarat4 manual (cabecera de tabla)
+4 baccarat5 manual (cabecera de tabla)
+5 baccarat6 v101 (retoque: «Pago» manchado)
+6 baccarat_s_2 v101 (4. algo más pequeño: aceptable)
+7 baccarat_s_3 manual (cabecera de tabla)
+8 baccarat_s_4 manual (cabecera de tabla)
+9 baccarat_s_5 manual (cabecera de tabla)
+10 billiards03 v101
+11 billiards06 manual (3 tiros en 3 renglones, uno por viñeta)
+12 blackjack0 v101 + «or» -> «o» (1 o 11)
+13 rule_button_bb manual (Página anterior / Atrás / Página siguiente)
+14 chinchiro1 v101
+15 chinchiro3 v101
+16 countup_0 dardos (v101 rota: el programa lee el fondo DARTSLIVE)
+17 cricket_0 dardos
+18 darts_01_1 dardos
+19 darts_01_3 dardos
+20 darts_countup_0 dardos
+21 darts_countup_1 dardos
+22 darts_cricket_01 dardos
+23 darts_cricket_02 dardos
+# REGLA: TODAS las rule_darts_* / countup / cricket = «dardos» -> arreglo a mano partiendo de la v1.0 (solo el bocadillo
+#  del marcador y el panel de abajo); el programa de páginas NO sirve ahí.
+kamiyama_tk: el negro de arriba a la derecha YA está en el original -> v1.0 correcta (no es fallo)

@@ -1,0 +1,2472 @@
+[
+{
+"id": 6930,
+"en": "You don't need to use that now.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6931,
+"en": "You can't use that here.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6932,
+"en": "You can't discard equipped items.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6933,
+"en": "You can't equip that on this character.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6934,
+"en": "Your Item Box is full.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6935,
+"en": "Make space in your weapons inventory.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6936,
+"en": "You don't have enough weapon skill.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6937,
+"en": " can't use this.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6938,
+"en": "You can't equip the same accessory.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6939,
+"en": "You can't move this.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6940,
+"en": "You can't bring this to the mountain.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6941,
+"en": "View emails you have received.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6942,
+"en": "Purchase items from the online\nshop. You can retrieve these items\nat a convenience store or hideout.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6943,
+"en": "Access Mack's image hosting site,\nMacsiv. All your Revelation needs\nin one easy-to-access spot!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6944,
+"en": "Retrieve the items when you have time.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6945,
+"en": "The online shop is not yet open.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6946,
+"en": "Nothing has been posted yet.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6947,
+"en": "No Emails",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6948,
+"en": "Inbox",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6949,
+"en": "Received Emails",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6950,
+"en": "Select an email to read.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6951,
+"en": "Received",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6952,
+"en": "Unread",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6953,
+"en": "Sender",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6954,
+"en": "Restaurant",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6955,
+"en": "Store",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6956,
+"en": "Amusement",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6957,
+"en": "Important",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6958,
+"en": "Training",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6959,
+"en": "Nightlife",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6960,
+"en": "Men's Entertainment Booth",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6961,
+"en": "Dragon Palace",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6962,
+"en": "Public Park 3",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6963,
+"en": "Milestone",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6964,
+"en": "Food Stall",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6965,
+"en": "Sodachi Gym",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6966,
+"en": "New Serena",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6967,
+"en": "Kamiyama Works (Armor)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6968,
+"en": "Kamiyama Works",
+"ctx": "menú/texto string_tbl + tabla tips_tutorial|TIPS_NAME"
+},
+{
+"id": 6969,
+"en": "MayNavi",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6970,
+"en": "Dagaya",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6971,
+"en": "Nagoya's Famous Banya",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6972,
+"en": "Magutako",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6973,
+"en": "Kore Nanboya",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6974,
+"en": "Infomen",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6975,
+"en": "Okojoya",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6976,
+"en": "Tsukimino Guide",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6977,
+"en": "Tsuruya",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6978,
+"en": "Nagasu Night Navi",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6979,
+"en": "Kamurocho Hills",
+"ctx": "menú/texto string_tbl + tabla view_point|NAME"
+},
+{
+"id": 6980,
+"en": "Save Point",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6981,
+"en": "Taxi Stand",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6982,
+"en": "Coin Lockers",
+"ctx": "menú/texto string_tbl + tabla tips_tutorial|TIPS_NAME …"
+},
+{
+"id": 6983,
+"en": "Master",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6984,
+"en": "Manholes",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6985,
+"en": "Press <Action:Button_Cross> to zoom in and <Action:Button_Square> to go to the Map Select screen.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6986,
+"en": "Press <Action:Button_Cross> to enlarge.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6987,
+"en": "Press <Action:Button_Square> to shrink.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6988,
+"en": "Press <Action:Button_DPad_Up><Action:Button_DPad_Down> to switch floors.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6989,
+"en": "Use <Action:Button_LS_Left><Action:Button_LS_Right><Action:Button_LS_Up><Action:Button_LS_Down> while holding <Action:Button_L1><Action:Button_R1> to quickly move the cursor.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6990,
+"en": "No Map",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6991,
+"en": "Press <Action:Button_Circle> to return to the map screen.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6992,
+"en": "<Color:20>%03d/%03d<Color:Default>",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6993,
+"en": "Birthday",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6994,
+"en": "Height",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6995,
+"en": "Blood Type",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6996,
+"en": "Zodiac",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6997,
+"en": "Likes",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6998,
+"en": "Dislikes",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6999,
+"en": "Times Requested",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7000,
+"en": "Money Spent",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7001,
+"en": "Most Recent Present",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7002,
+"en": "Completion Rate: Minigames",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7003,
+"en": "Acquired",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7004,
+"en": "Unacquired",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7005,
+"en": "Unranked",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7006,
+"en": "Rank %d",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7007,
+"en": "Complete",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7008,
+"en": "Completion: Hostesses",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7009,
+"en": "Completion: Coin Lockers",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7010,
+"en": "Kamurocho Coin Lockers",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7011,
+"en": "Sotenbori Coin Lockers",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7012,
+"en": "Completion: Food/Drink",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7013,
+"en": "Completion: Heat Actions",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7014,
+"en": "Completion: Equipment Modding",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7015,
+"en": "Gear",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7016,
+"en": "Social Commitment",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7017,
+"en": "Level: ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7018,
+"en": "Prize Drawings",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7019,
+"en": "Completion: Revelations",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7020,
+"en": "Completion: Minigames",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7021,
+"en": "Completion: Masters",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7022,
+"en": "Completion: Coliseum",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7023,
+"en": "Completion: Partners",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7024,
+"en": "Completion: Garbage Collection",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7025,
+"en": "Completion: Prize Tickets",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7026,
+"en": "Completion: Treasure Hunts",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7027,
+"en": "Completion: Tourist Spots",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7028,
+"en": "View partners you've met and their current development.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7029,
+"en": "Food/Drink   ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7030,
+"en": "Equipment Modding",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7031,
+"en": "Minigames ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7032,
+"en": "Hostesses",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7033,
+"en": "City Exploration ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7034,
+"en": "Masters",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7035,
+"en": "Coliseum",
+"ctx": "menú/texto string_tbl + tabla complete_select|NAME"
+},
+{
+"id": 7036,
+"en": "Garbage Collection",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7037,
+"en": "Treasure Hunts",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7038,
+"en": "Tourist Spots",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7039,
+"en": "Order everything on the menu at every restaurant.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7040,
+"en": "Complete all tasks for all minigames.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7041,
+"en": "Maximize affection for every hostess, then visit them once more.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7042,
+"en": "See the best of what each city has to offer.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7043,
+"en": "Use all Heat Actions. ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7044,
+"en": "Purchase all weapons available from Kamiyama Works.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7045,
+"en": "Complete all missions and lessons from every master.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7046,
+"en": "Win all coliseum tournaments with every character.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7047,
+"en": "Shoot all tourist spots in every city.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7048,
+"en": "Collect garbage in Nagasugai and reach the maximum Social Commitment Level.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7049,
+"en": "Collect all the treasure map scraps and find every treasure.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7050,
+"en": "Participate in the prize drawing a set number of times.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7051,
+"en": "Unlock every coin locker in both Kamurocho and Sotenbori.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7052,
+"en": "Kamurocho Locker Keys",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7053,
+"en": "Sotenbori Locker Keys",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7054,
+"en": "The Old Map's Treasure",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7055,
+"en": "The Questionable Map's Treasure",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7056,
+"en": "The Profound Map's Treasure",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7057,
+"en": "The Suspicious Map's Treasure",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7058,
+"en": "The Impressive Map's Treasure",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7059,
+"en": "Find the treasure the Old Map points to.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7060,
+"en": "Find the treasure the Questionable Map points to.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7061,
+"en": "Find the treasure the Profound Map points to.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7062,
+"en": "Find the treasure the Suspicious Map points to.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7063,
+"en": "Find the treasure the Impressive Map points to.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7064,
+"en": "Tips",
+"ctx": "menú/texto string_tbl + tabla tips_tutorial|TIPS_NAME"
+},
+{
+"id": 7065,
+"en": "Auto Assignment Settings",
+"ctx": "menú/texto string_tbl + tabla tips_tutorial|TIPS_NAME"
+},
+{
+"id": 7066,
+"en": "Camera Control (Vertical)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7067,
+"en": "Camera Control (Horizontal)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7068,
+"en": "First-Person View (Vertical)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7069,
+"en": "First-Person View (Horizontal)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7070,
+"en": "Minimap Display",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7071,
+"en": "Minimap Rotation",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7072,
+"en": "Subtitles",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7073,
+"en": "Screen Brightness",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7074,
+"en": "Adjust Gamma",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7075,
+"en": "Adjust Position of HUD",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7076,
+"en": "Set Font",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7077,
+"en": "English Karaoke Lyrics",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7078,
+"en": "Hide HUD",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7079,
+"en": "Icon Select",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7080,
+"en": "Controller Vibration",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7081,
+"en": "Controller Sensitivity",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7082,
+"en": "Mouse Sensitivity",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7083,
+"en": "Mouse Cursor",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7084,
+"en": "Change how frequently Tip pop-ups will display. If Few is\nselected, only important Tips will be displayed. For those new to\nthe Yakuza series, we recommend the Many option.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7085,
+"en": "Turning on Auto Assignment will automatically assign Soul Orbs to\nabilities when you level up.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7086,
+"en": "Change how to move the camera vertically. Normal moves the\ncamera in the direction you moved <Action:Turn_Camera_Up@Adventure><Action:Turn_Camera_Down@Adventure>.\n",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7087,
+"en": "Change how to move the camera horizontally. Normal moves\nthe camera in the direction you moved <Action:Turn_Camera_Left@Adventure><Action:Turn_Camera_Right@Adventure>.\n",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7088,
+"en": "Change how to move the first-person camera vertically. Normal\nmoves the camera in the direction you moved <Action:Turn_Camera_Up@Adventure><Action:Turn_Camera_Down@Adventure>.\n",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7089,
+"en": "Change how to move the first-person camera horizontally.\nNormal moves the camera in the direction you moved <Action:Turn_Camera_Left@Adventure><Action:Turn_Camera_Right@Adventure>.\n",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7090,
+"en": "Turn the minimap that appears in the lower left part of the screen\non or off.\n",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7091,
+"en": "Turn minimap rotation on or off. If turned on, the minimap will\nrotate with the camera.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7092,
+"en": "Turn subtitles on or off for event scenes.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7093,
+"en": "Adjust the screen brightness. Slide the cursor to adjust.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7094,
+"en": "Adjust gamma levels. Slide the cursor to change tint.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7095,
+"en": "Adjust the position of the heads-up display. Slide the cursor to\nadjust.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7096,
+"en": "Change the font used during the game.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7097,
+"en": "While this is on, English translations of the original Japanese\nlyrics will display during karaoke. While off, the original\nJapanese lyrics will display with pronunciations underneath.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7098,
+"en": "Toggle in-game HUD on or off.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7099,
+"en": "Option to choose what icons will be used.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7100,
+"en": "Switch on/off the controller vibration.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7101,
+"en": "Change controller sensitivity.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7102,
+"en": "Change mouse sensitivity.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7103,
+"en": "Enable system cursor.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7104,
+"en": "Evade",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7105,
+"en": "Action Button",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7106,
+"en": "Attack",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7107,
+"en": "Heat Snipe",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7108,
+"en": "NPC Orders",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7109,
+"en": "Select Menu",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7110,
+"en": "Switch Weapon",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7111,
+"en": "Move Camera",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7112,
+"en": "Select the interface display position.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7113,
+"en": "Type A",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7114,
+"en": "Type B",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7115,
+"en": "Type C",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7116,
+"en": "Inverted",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7117,
+"en": "Fixed",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7118,
+"en": "Rotating",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7119,
+"en": "Auto",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7120,
+"en": "Serif",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7121,
+"en": "Sans Serif",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7122,
+"en": "Follows Player",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7123,
+"en": "Follows Camera",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7124,
+"en": "Few",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7125,
+"en": "Many",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7126,
+"en": "Press <Action:Button_Cross> to display detailed information.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7127,
+"en": "Press <Action:Button_Circle> to close detailed information. Use <Action:Button_DPad_Left><Action:Button_DPad_Right> or <Action:Button_LS_Left><Action:Button_LS_Right>\nto view other information pages.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7128,
+"en": "Completion Rate",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7129,
+"en": "Try Again",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7130,
+"en": "Load & Try Again",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7131,
+"en": "Try Again from Previous Checkpoint",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7132,
+"en": "Exit Game",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7133,
+"en": "Return to title screen?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7134,
+"en": "Exit minigame?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7135,
+"en": "Return to Game Select screen?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7136,
+"en": "All progress made after entering the restricted area will be lost.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7137,
+"en": "All progress made after starting the substory will be lost.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7138,
+"en": "All progress made after entering the manhole will be lost.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7139,
+"en": "<Color:5>Warning!<Color:Default> Quitting while in the shop will return you to the title screen.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7140,
+"en": "Unsaved data will be lost. Are you sure?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7141,
+"en": "Are you sure you want to quit?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7142,
+"en": "Are you sure you want to try again?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7143,
+"en": "You will lose if you quit now. Are you sure you want to quit?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7144,
+"en": "You cannot quit now.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7145,
+"en": "As you sure you want to return to the game select screen?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7146,
+"en": "Hitman Missions",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7147,
+"en": "Protagonist",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7148,
+"en": "Partner",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7149,
+"en": "View or upgrade the abilities and skills of the current protagonist.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7150,
+"en": "View or upgrade the abilities and skills of your current partner.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7151,
+"en": "Underground",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7152,
+"en": "Read an overview of the story so far and the current state of the Underground.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7153,
+"en": "Heat Information",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7154,
+"en": "Activation Conditions",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7155,
+"en": "Skills Learned",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7156,
+"en": "Online Shop Registrations",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7157,
+"en": "Unread Emails",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7158,
+"en": "Part %d",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7159,
+"en": "Part 1",
+"ctx": "menú/texto string_tbl + tabla correlation_person|CATEGORY_BU"
+},
+{
+"id": 7160,
+"en": "Part 2",
+"ctx": "menú/texto string_tbl + tabla correlation_person|CATEGORY_BU"
+},
+{
+"id": 7161,
+"en": "Part 3",
+"ctx": "menú/texto string_tbl + tabla correlation_person|CATEGORY_BU"
+},
+{
+"id": 7162,
+"en": "Part 4",
+"ctx": "menú/texto string_tbl + tabla correlation_person|CATEGORY_BU"
+},
+{
+"id": 7163,
+"en": "Percent Complete",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7164,
+"en": "Race Missions",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7165,
+"en": "Taxi Missions",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7166,
+"en": "Main Missions",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7167,
+"en": "Contract Missions",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7168,
+"en": "Dance Battle Stories",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7169,
+"en": "Work Missions",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7170,
+"en": "Sub Missions",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7171,
+"en": "Rumors",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7172,
+"en": "Mission Completion",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7173,
+"en": "Melee Attack",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7174,
+"en": "Crouch",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7175,
+"en": "Horizontal Double Rifle",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7176,
+"en": "Vertical Double Rifle",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7177,
+"en": "Vertical Double Special",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7178,
+"en": "Vertical Double Rifle (Extreme)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7179,
+"en": "Simple Cold Wear",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7180,
+"en": "Special Cold Wear",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7181,
+"en": "In Progress",
+"ctx": "menú/texto string_tbl + tabla yukiyama_menu_mission|RESULT"
+},
+{
+"id": 7182,
+"en": "Slightly more weapon durability",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7183,
+"en": "Guarding with a weapon won't decrease durability",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7184,
+"en": "Attacks boosted slightly",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7185,
+"en": "Boost Repair Kit effect slightly",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7186,
+"en": "Moderately more weapon durability",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7187,
+"en": "Boost Repair Kit effect moderately",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7188,
+"en": "Considerably more weapon durability",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7189,
+"en": "Attacks boosted moderately",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7190,
+"en": "Weapon Heat Actions use less Heat",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7191,
+"en": "Not viewable in the Demo Version.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7192,
+"en": "Boost walking speed",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7193,
+"en": "Reduce health loss",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7194,
+"en": "See animals on map",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7195,
+"en": "Boost camo",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7196,
+"en": "Boost aim",
+"ctx": "menú/texto string_tbl + tabla ability_snow|SKILL_EXPLANATION"
+},
+{
+"id": 7197,
+"en": "Reduce health loss and boost aim",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7198,
+"en": "Recipient",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7199,
+"en": "Morning Glory",
+"ctx": "menú/texto string_tbl + menú/texto mail"
+},
+{
+"id": 7200,
+"en": "Enter amount\nand press Confirm.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7201,
+"en": "You have selected Cancel.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7202,
+"en": "Transaction canceled.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7203,
+"en": "Transfer completed.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7204,
+"en": "Sent.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7205,
+"en": "Graphics",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7206,
+"en": "View and change graphics options.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7207,
+"en": "View and change game controls options.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7208,
+"en": "Gameplay",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7209,
+"en": "View and change gameplay options.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7210,
+"en": "Audio",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7211,
+"en": "View and change audio options.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7212,
+"en": "Quit the game to desktop.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7213,
+"en": "Master Volume",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7214,
+"en": "Set main volume.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7215,
+"en": "Music",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7216,
+"en": "Set music volume.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7217,
+"en": "Special Effects",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7218,
+"en": "Set special effects volume.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7219,
+"en": "Dialogues",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7220,
+"en": "Set voice volume in dialogues.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7221,
+"en": "Cinematics",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7222,
+"en": "Set volume for cinematic sequences.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7223,
+"en": "Speaker Type",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7224,
+"en": "Set type of connected audio device.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7225,
+"en": "Type 1",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7226,
+"en": "Type 2",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7227,
+"en": "Type 3",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7228,
+"en": "Output Device",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7229,
+"en": "Set video output device.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7230,
+"en": "Display Mode",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7231,
+"en": "Configure display mode.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7232,
+"en": "Resolution",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7233,
+"en": "Set display resolution.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7234,
+"en": "Refresh Rate",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7235,
+"en": "Set screen refresh rate.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7236,
+"en": "Vertical Sync",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7237,
+"en": "Enable or disable display vertical synchronization.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7238,
+"en": "FPS Cap",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7239,
+"en": "Set limit for number of displayed frames per second.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7240,
+"en": "Field of View",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7241,
+"en": "Configure camera field of view.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7242,
+"en": "Depth of Field",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7243,
+"en": "Configure depth of field effect.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7244,
+"en": "Advanced graphics options.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7245,
+"en": "Dynamic Resolution",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7246,
+"en": "Enable or Disable Dynamic Resolution. The render scale automatically adjusts (as needed),\nto achieve the FPS Cap settings (30/60) with the highest possible resolution.\n*This option is mutually exclusive with the Auto FPS cap",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7247,
+"en": "Input Type",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7248,
+"en": "Select input type.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7249,
+"en": "Device",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7250,
+"en": "Select input device.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7251,
+"en": "Pad",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7252,
+"en": "Keyboard and Mouse",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7253,
+"en": "Fullscreen",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7254,
+"en": "Windowed",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7255,
+"en": "Borderless",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7256,
+"en": "Letterbox Artworks",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7257,
+"en": "Enable or disable tattoo letterbox artwork\nused in aspect ratios different than 16:9.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7258,
+"en": "Texture Quality",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7259,
+"en": "Set texture quality.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7260,
+"en": "Texture Filtering",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7261,
+"en": "Set anisotropic texture filtering.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7262,
+"en": "Shadow Quality",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7263,
+"en": "Set shadow quality.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7264,
+"en": "Geometry Quality",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7265,
+"en": "Set quality of geometry meshes.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7266,
+"en": "Anti-aliasing",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7267,
+"en": "Set anti-aliasing type or disable it.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7268,
+"en": "Render Scale",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7269,
+"en": "Set render scaling.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7270,
+"en": "FidelityFX CAS",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7271,
+"en": "Enable or disable FidelityFX Contrast Adaptive Sharpening.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7272,
+"en": "FidelityFX CAS Sharpen level",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7273,
+"en": "Set FidelityFX sharpen level.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7274,
+"en": "Enable or disable Screen Space Ambient Occlusion.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7275,
+"en": "Low",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7276,
+"en": "Medium",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7277,
+"en": "High",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7278,
+"en": "Upsample and Sharpen",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7279,
+"en": "Sharpen",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7280,
+"en": "Game Mode",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7281,
+"en": "Pad icons",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7282,
+"en": "System Cursor",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7283,
+"en": "Game Cursor",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7284,
+"en": "Load",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7285,
+"en": "Continue from save data.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7286,
+"en": "Exit to Title",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7287,
+"en": "Exit to title screen.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7288,
+"en": "Exit to Windows",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7289,
+"en": "Exit to Windows desktop.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7290,
+"en": "Japan Button Layout",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7291,
+"en": "Changes \"Confirm and \"Back buttons.\nTo apply changes in all game modes of the title (not only menu)\ncontrols settings must be reverted to default.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7292,
+"en": "LOD Distance",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7293,
+"en": "Set LOD draw distance.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7294,
+"en": "NPC Density",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7295,
+"en": "Set NPC Density level.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7296,
+"en": "Mid",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7297,
+"en": "Far",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7298,
+"en": "Maximum",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7299,
+"en": "Ultra",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7300,
+"en": "Graphics Quality",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7301,
+"en": "Use presets to easily control advanced graphics settings.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7302,
+"en": "Custom",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7303,
+"en": "Direct Input",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7304,
+"en": "Adventure",
+"ctx": "menú/texto string_tbl + tabla tips_tutorial|CATEGORY"
+},
+{
+"id": 7305,
+"en": "Combat",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7306,
+"en": "Current",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7307,
+"en": "Cabaret",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7308,
+"en": "Massage",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7309,
+"en": "Pool",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|NAME"
+},
+{
+"id": 7310,
+"en": "Karaoke",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|NAME"
+},
+{
+"id": 7311,
+"en": "Bowling",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|NAME"
+},
+{
+"id": 7312,
+"en": "Cee-Lo",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7313,
+"en": "Cho-Han",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7314,
+"en": "Koi-Koi",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7315,
+"en": "Roulette",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|NAME"
+},
+{
+"id": 7316,
+"en": "Poker",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|NAME"
+},
+{
+"id": 7317,
+"en": "UFO Catcher",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|NAME"
+},
+{
+"id": 7318,
+"en": "AnswerAnswer",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7319,
+"en": "Shogi",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|NAME"
+},
+{
+"id": 7320,
+"en": "Mahjong",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|NAME"
+},
+{
+"id": 7321,
+"en": "Batting Center",
+"ctx": "menú/texto string_tbl + tabla tips_tutorial|TIPS_NAME"
+},
+{
+"id": 7322,
+"en": "Golf",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7323,
+"en": "Oicho-Kabu",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7324,
+"en": "Fishing",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7325,
+"en": "Boxcelios",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7326,
+"en": "Pachinko",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|NAME"
+},
+{
+"id": 7327,
+"en": "Chase",
+"ctx": "menú/texto string_tbl + menú/texto scenario_state"
+},
+{
+"id": 7328,
+"en": "Table Tennis",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7329,
+"en": "Baccarat",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|NAME"
+},
+{
+"id": 7330,
+"en": "Boat Chase",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7331,
+"en": "PressAnyButton",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7332,
+"en": "Survival Tag",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7333,
+"en": "Play Time",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7334,
+"en": "Create save on new slot",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7335,
+"en": "Save Game",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7336,
+"en": "Manual",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7337,
+"en": "Create new save",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7338,
+"en": "Load Game",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7339,
+"en": "Taiko: Drum Master Player 1",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7340,
+"en": "Taiko: Drum Master Player 2",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7341,
+"en": "Virtua Fighter 2 Player 1",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7342,
+"en": "Virtua Fighter 2 Player 2",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7343,
+"en": "Fishing (Sea)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7344,
+"en": "Fishing (River)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7345,
+"en": "Winter Combat",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|NAME"
+},
+{
+"id": 7346,
+"en": "Air Hockey",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|NAME"
+},
+{
+"id": 7347,
+"en": "PrintCircle",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|NAME"
+},
+{
+"id": 7348,
+"en": "Tatsuya Noodles",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7349,
+"en": "Cochins Cup Classic",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7350,
+"en": "Comedy Team",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|NAME"
+},
+{
+"id": 7351,
+"en": "Hunter And Killer",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7352,
+"en": "Taxi Driver (Taxi)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7353,
+"en": "Taxi Driver (Race)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7354,
+"en": "The Cost of a Swing",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7355,
+"en": "Princess League",
+"ctx": "menú/texto string_tbl + tabla tips_tutorial|TIPS_NAME"
+},
+{
+"id": 7356,
+"en": "Idol Handshake Event",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7357,
+"en": "Running Girl",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7358,
+"en": "Street Battle",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7359,
+"en": "Press Events",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7360,
+"en": "Dance Battles",
+"ctx": "menú/texto string_tbl + tabla tips_tutorial|TIPS_NAME"
+},
+{
+"id": 7361,
+"en": "Snowmobile",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7362,
+"en": "Haruka IF8",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7363,
+"en": "Survival Roulette",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7364,
+"en": "Play as Dealer",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7365,
+"en": "Flashback Battle",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7366,
+"en": "Press key to rebind",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7367,
+"en": "Hit a foul",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7368,
+"en": "Dodge a beanball",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7369,
+"en": "Get a Hit",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7370,
+"en": "Hit a home run",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7371,
+"en": "Hit Panty Flash No. 12",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7372,
+"en": "Hit Super Bender No. 6",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7373,
+"en": "Hit Tomafork No. 9",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7374,
+"en": "Bat while drunk",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7375,
+"en": "Hit a high-speed pitch",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7376,
+"en": "Fame",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7377,
+"en": "<Action:Button_Triangle@Cost_Of_A_Swing> Range",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7378,
+"en": "<Action:Button_Square@Cost_Of_A_Swing> Range",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7379,
+"en": "<Action:Button_Circle@Cost_Of_A_Swing> Range",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7380,
+"en": "<Action:Button_Cross@Cost_Of_A_Swing> Range",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7381,
+"en": "<Action:Button_Triangle@Cost_Of_A_Swing> Slugging Range",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7382,
+"en": "<Action:Button_Square@Cost_Of_A_Swing> Slugging Range",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7383,
+"en": "<Action:Button_Circle@Cost_Of_A_Swing> Slugging Range",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7384,
+"en": "<Action:Button_Cross@Cost_Of_A_Swing> Slugging Range",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7385,
+"en": "Impact Timing",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7386,
+"en": "Heat Eye",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7387,
+"en": "Batting Eye",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7388,
+"en": "Bat",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7389,
+"en": "Gloves",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7390,
+"en": "Cleats",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7391,
+"en": "Change your bat.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7392,
+"en": "Change your gloves.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7393,
+"en": "Change your cleats.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7394,
+"en": "%s Pitches %s Hit(s)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7395,
+"en": "%s Pitches %s Home Run(s)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7396,
+"en": "%s Pitches %s Fouled",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7397,
+"en": "1 At Bat 1 Hit",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7398,
+"en": "1 At Bat 1 Home Run",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7399,
+"en": "1-Pitch Duel",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7400,
+"en": "Normal Beginner Course",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|STRING"
+},
+{
+"id": 7401,
+"en": "Heat Eye Beginner Course",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7402,
+"en": "Intermediate Course",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|STRING"
+},
+{
+"id": 7403,
+"en": "Advanced Course",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|STRING"
+},
+{
+"id": 7404,
+"en": "Mission Course",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|STRING"
+},
+{
+"id": 7405,
+"en": "Challenge Course",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7406,
+"en": "Sawada Course",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|STRING"
+},
+{
+"id": 7407,
+"en": "Pro Course",
+"ctx": "menú/texto string_tbl + tabla complete_minigame|STRING"
+},
+{
+"id": 7408,
+"en": "Beginner: High Pitches",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7409,
+"en": "Beginner: Low Pitches",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7410,
+"en": "Beginner: Outside Pitches",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7411,
+"en": "Beginner: Inside Pitches",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7412,
+"en": "Beginner: Random Pitches",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7413,
+"en": "Hit 1 Home Run in 30 Pitches",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7414,
+"en": "Check Bulletin Board",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7415,
+"en": "View Abilities",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7416,
+"en": "Shirakawa's Revenge",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7417,
+"en": "A Little Wager",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7418,
+"en": "Pro Advice Wanted",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7419,
+"en": "New Machine!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7420,
+"en": "News Leads Wanted",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7421,
+"en": "Need to Talk",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7422,
+"en": "Final Duel",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 7423,
+"en": "Shirakawa wants to duel. I'm not letting him win.",
+"ctx": "menú/texto string_tbl"
+}
+]

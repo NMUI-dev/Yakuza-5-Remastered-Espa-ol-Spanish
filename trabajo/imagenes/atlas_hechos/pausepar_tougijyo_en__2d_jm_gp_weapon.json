@@ -1,0 +1,38 @@
+{
+ "textura": "pausepar_tougijyo_en/2d_jm_gp_weapon",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    168,
+    36,
+    859,
+    126
+   ],
+   "en": "WEAPON MASTER",
+   "ocr": "WEAPON MASTER",
+   "es": "GRAN PREMIO",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 687
+  },
+  {
+   "caja": [
+    265,
+    118,
+    773,
+    220
+   ],
+   "en": "GRAND PRIX",
+   "ocr": "GRAND PRIX",
+   "es": "DEL MAESTRO DE ARMAS",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 504
+  }
+ ]
+}

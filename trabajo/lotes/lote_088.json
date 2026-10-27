@@ -1,0 +1,957 @@
+[
+{
+"id": 22607,
+"en": "Okay, thank you!",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22608,
+"en": "Thank you! You're a lifesaver.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22609,
+"en": "Yes! I win! Lunch is on you, Ta-chan. Could you get me a Bento Lunch set?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22610,
+"en": "Oh, man... But all right. A promise is a promise.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22611,
+"en": "I'm seriously famished. Run over there if you can, before I starve to death!",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22612,
+"en": "All right, I'll scoot off to the convenience store. One Bento Lunch Set's good enough for you?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22613,
+"en": "Of course. One is plenty. Thanks, Ta-chan.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22614,
+"en": "Uh-oh, I lost. Okay, I keep my promises. I'll treat you to some convenience store takeout.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22615,
+"en": "Hahaha, it's not very gallant of me, but it was a fair wager. I'll happily accept that treat.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22616,
+"en": "What should I go buy?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22617,
+"en": "Oden Soup? Okay. I'll be back in a few minutes.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22618,
+"en": "Here you go, Ta-chan.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22619,
+"en": "You got some <Color:8>Oden Soup<Color:Default>.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22620,
+"en": "Bento Lunch Set? Okay. I'll be back in a few minutes.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22621,
+"en": "You got <Color:8>Bento Lunch Set<Color:Default>.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22622,
+"en": "Special Yakisoba? Okay. I'll be back in a few minutes.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22623,
+"en": "Here you go, Ta-chan!",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22624,
+"en": "You got some <Color:8>Special Yakisoba<Color:Default>.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22625,
+"en": "Wow, thanks, Mi-chan. You're an angel.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22626,
+"en": "I didn't expect you to be able to hit like that. Pretty impressive, to be honest. But I guess I shouldn't have doubted you!",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22627,
+"en": "I'm gonna have to make it harder on you next time!",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22628,
+"en": "Oh, boy, don't make it too hard.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22629,
+"en": "Oh, hi, Ta-chan. How are you?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22630,
+"en": "Alright. You don't look so good, though. You doing okay?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22631,
+"en": "Really? I mean, I haven't eaten anything today. I should nip out and get some takeout.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22632,
+"en": "What, and leave the place unattended?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22633,
+"en": "It'll be only a few minutes. I'm just stepping out to grab something quick!",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22634,
+"en": "I guess that's true.",
+"ctx": "diálogo uid000c0dda + diálogo uid0102139f …"
+},
+{
+"id": 22635,
+"en": "Oh, Ta-chan, are you hungry, too?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22636,
+"en": "Huh? What, you gonna treat me to something?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22637,
+"en": "Well... How about maybe?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22638,
+"en": "Want to make a bet of it? We'll see if you can hit a home run off a pitching machine or not.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22639,
+"en": "Hmm... Yeah, I could go for that. Sounds fun.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22640,
+"en": "Okay, how about we base it off three pitches? If you can hit a home run, it'll be my treat.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22641,
+"en": "So naturally, that means that you have to treat me to lunch if you can't do it.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22642,
+"en": "Fine. You know, Mi-chan, I'm pretty good at this batting stuff. You might end up regretting this little bet of yours.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22643,
+"en": "Three pitches is more than plenty for smacking out a homer.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22644,
+"en": "Well, let's see if you have to eat those words... and my lunch bill! Hah!",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22645,
+"en": "What would you like to do?",
+"ctx": "diálogo uid000c0dda + diálogo uid00330453"
+},
+{
+"id": 22646,
+"en": "Huh? Who are you?",
+"ctx": "diálogo uid000c0dda + diálogo uid001305bf …"
+},
+{
+"id": 22647,
+"en": "I just started today. The lady who used to work here suddenly quit, and they had an ad out saying they were hiring, so here I am!",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22648,
+"en": "Oh, so the old lady's gone...",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22649,
+"en": "(I mean, she did try to kill me...)",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22650,
+"en": "Um, are you a regular here?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22651,
+"en": "Huh? Uh, yeah, you might say that.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22652,
+"en": "Oh, then let me introduce myself! I'm Miki Murai. Please feel free to call me Mi-chan.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22653,
+"en": "Okay, Mi-chan. It's nice to see this place get someone so pretty to work the counter. It'll bring some much-needed shine to the establishment.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22654,
+"en": "Haha, thanks!",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22655,
+"en": "I'm Tatsuo Shinada. You can call me Ta-chan.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22656,
+"en": "Okay, Ta-chan. Huh? Wait, your face... There's...",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22657,
+"en": "What's wrong with my face?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22658,
+"en": "Oh, no, I just think I recognize you from somewhere.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22659,
+"en": "Huh? Really?",
+"ctx": "diálogo uid000c0dda + diálogo uid0049015c …"
+},
+{
+"id": 22660,
+"en": "Oh! That's it! I think I've seen you in town with someone. Ta-chan, do you maybe know Takasugi-san?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22661,
+"en": "Takasugi-san? As in the money lender? That Takasugi-san?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22662,
+"en": "Yes! That's him.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22663,
+"en": "Mi-chan, why do you know Takasugi-san?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22664,
+"en": "Well, it's, um... Because I borrowed money from him.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22665,
+"en": "Oh, that's what it is. You owe him money, too.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22666,
+"en": "Huh? Come to think of it, I think I heard your name somewhere, too.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22667,
+"en": "What was it now? Was that you on the phone with Takasugi-san?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22668,
+"en": "(Oh, right, Takasugi had her working at a bathhouse to repay her loan. She was crying because her jaw hurt...)",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22669,
+"en": "Oh, so that's who you are. You're that Mi-chan!",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22670,
+"en": "Oh! Did you hear about me from Takasugi-san, then?",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22671,
+"en": "Uh, just a little. Like, you're, uh, working another job? It must be pretty tough for you.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22672,
+"en": "Well, I gotta. If I don't pay back this loan quick, the interest's just gonna keep piling up.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22673,
+"en": "That's so true. We both have to dig down and work.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22674,
+"en": "Ooh, ouch. My jaw hurts.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22675,
+"en": "Are you okay? Don't work yourself too hard.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22676,
+"en": "Yeah, it's nothing...",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22677,
+"en": "(Her jaw aches? From working at some sleazy bathhouse, the poor girl. She looks so innocent, too. Some world we live in.)",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22678,
+"en": "Okay, Ta-chan. Enjoy your visit. If you need anything, I'm right here.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22679,
+"en": "Oh, hello. Our batting center's machines are pretty tough. If you're just a beginner, you might want to think about heading back out through that door.",
+"ctx": "diálogo uid000c0dda"
+},
+{
+"id": 22680,
+"en": "So, uh, were you able to check out the snow statue locations?",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22681,
+"en": "Oh, geez... I'm sorry, but could I ask you to please hurry? We really need the info right away!",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22682,
+"en": "I'd go, but I have to stay in this spot, so please tell me when you figure out where they all are. Thank you!",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22683,
+"en": "Are you sure you remember it all correctly?",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22684,
+"en": "Yeah. I can tell ya where the snow statues are.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22685,
+"en": "Fantastic! Let's get right to it, while your memory's fresh.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22686,
+"en": "So, looking at the site from here, there's a giant slide. Facing the slide from the front, what's to your right?",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22687,
+"en": "Facing the slide, to the right, was a bear.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22688,
+"en": "Okay, the bear. Next one...",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22689,
+"en": "Facing the slide, to the right, was a snowman.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22690,
+"en": "A snowman? Somebody entered that?",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22691,
+"en": "Saw it with my own eyes.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22692,
+"en": "Uh, right, of course. Sorry, I didn't mean to imply I doubted you. Anyway...",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22693,
+"en": "Facing the slide, to the right, was some girl with a wand? Not sure what she's s'posed to be.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22694,
+"en": "Oh, yes, yes, that's right! I remember now. That's the magic girl statue.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22695,
+"en": "Okay, the next one I need to know about...",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22696,
+"en": "Which snow statue is right in the middle?",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22697,
+"en": "Some seals were smack dab in the middle.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22698,
+"en": "Oh, right, there were seals! This is very helpful.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22699,
+"en": "There was a snow crystal right smack dab in the middle.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22700,
+"en": "A snow crystal? Was there, really? Don't remember that one.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22701,
+"en": "Yeah. No mistake.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22702,
+"en": "I see. A snow crystal right in the middle, huh?",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22703,
+"en": "There was a slide right smack dab in the middle.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22704,
+"en": "Hm? No, that can't be right. The slide is one of the giant dioramas flanking the site.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22705,
+"en": "Oh... I guess it was.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22706,
+"en": "Hmm... Maybe you should go check the statues again?",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22707,
+"en": "Across from the slide, there's another diorama, a massive one if I recall. What did it feature?",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22708,
+"en": "That'd be a treasure ship.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22709,
+"en": "A treasure ship...? My memory must be slipping. I don't remember a treasure ship at all.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22710,
+"en": "That'd be a whale.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22711,
+"en": "Oh yeah. I completely forgot about the whale. Even though it's so big!",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22712,
+"en": "That'd be a dragon.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22713,
+"en": "Huh? That's not right. The dragon was a smaller statue. I'm sure.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22714,
+"en": "There's only one statue left to confirm. What was the small one next to the penguin?",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22715,
+"en": "A fox.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22716,
+"en": "Ahhh, that's where the fox is. Okay! I know the locations of all the statues now.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22717,
+"en": "I dunno who she is, but it's a girl with her hair in two really long pigtails.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22718,
+"en": "Ah, that would be Hatsune Miku. Of course someone sculpted her; she's such a popular character. Well, you did it! Now I know where all the statues are.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22719,
+"en": "I think it was a dragon.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22720,
+"en": "Oh, that's where the dragon is. Okay! Now I know where all the statues are!",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22721,
+"en": "Well, thank you very much! You can't imagine what a big help that was.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22722,
+"en": "Oy! You there!",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22723,
+"en": "Yes?",
+"ctx": "diálogo uid000c0de0 + diálogo uid004900e8 …"
+},
+{
+"id": 22724,
+"en": "I got the site layout with all the statue locations. It's all on this note, so go have the site map printed, okay?",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22725,
+"en": "I'll place an order with the printers now.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22726,
+"en": "Thank you again! We couldn't have done it without you. Please accept this as a souvenir of the event.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22727,
+"en": "You got a <Color:8>Mystery Stone<Color:Default>.",
+"ctx": "diálogo uid000c0de0 + diálogo uid0120019e"
+},
+{
+"id": 22728,
+"en": "Thanks. And hey, good luck. Lookin' forward to yer snow festival.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22729,
+"en": "Huh? Hold on a second, one of these locations isn't right!",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22730,
+"en": "I was on-site earlier, helping with setup. So I remember where at least some of the statues are...",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22731,
+"en": "I see. I guess the gentleman here gave me wrong info about one of the statues... which means I can't really trust any other information he brought me...",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22732,
+"en": "I'm sorry. I shouldn't have given you this task.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22733,
+"en": "I hope you don't expect a reward. I mean, I know you put in some effort and all, but...",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22734,
+"en": "No, forget it. Guess I got a bit confused, there.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22735,
+"en": "No, no, it's my fault...",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22736,
+"en": "Should I go take a look at them?",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22737,
+"en": "No. I don't feel comfortable delegating anymore. If you want a job done right, you have to do it yourself.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22738,
+"en": "Good luck gettin' it done. Lookin' forward to the snow festival.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22739,
+"en": "Yes, I think we'll really need it now, after this fiasco.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22740,
+"en": "(...Right.)",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22741,
+"en": "Why can't people ever do things right?",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22742,
+"en": "Oh! Um, I'm the snow festival operations manager. My staff pulled a bonehead move that might ruin everything.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22743,
+"en": "I just learned that no one ordered site maps for the visitors.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22744,
+"en": "If we don't order them right now, the printers won't have enough time, but... Aargh! Darn it!",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22745,
+"en": "What's keepin' ya? Order it now.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22746,
+"en": "I'd love to, but my memory is foggy when it comes to which snow statues are at which locations.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22747,
+"en": "And I can't leave my post to go check, and my staff is too busy doing a million other things.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22748,
+"en": "I get it. You're undermanned.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22749,
+"en": "Exactly! You understand. Hey, wait a minute... Maybe you have some spare time?",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22750,
+"en": "I hate to impose, but... would you be willing to check the snow statue locations?",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22751,
+"en": "I can't pay you, but I could give you a festival souvenir for your efforts. It shouldn't take long, and it would be a huge help.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22752,
+"en": "Don't know. That's askin' a lot.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22753,
+"en": "Oh, please! We're desperate.",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22754,
+"en": "So, ya want me to see what statues are on the site and where, right?",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22755,
+"en": "Yes! I'll be right here when you come back. I have to be, after all!",
+"ctx": "diálogo uid000c0de0"
+},
+{
+"id": 22756,
+"en": "Oh, hello. Are you interested in taking Sotenbori Announcer\nSchool's free introductory class? If you have the time,\nplease give it a try.",
+"ctx": "diálogo uid000c0de3"
+},
+{
+"id": 22757,
+"en": "Oh, hello. Are you interested in broadcasting, communications, or becoming an announcer? Our school will give you specialized training.",
+"ctx": "diálogo uid000c0de3"
+},
+{
+"id": 22758,
+"en": "We're the Sotenbori Announcer School, and right now we're\noffering a free introductory class!",
+"ctx": "diálogo uid000c0de3"
+},
+{
+"id": 22759,
+"en": "A free class?",
+"ctx": "diálogo uid000c0de3"
+},
+{
+"id": 22760,
+"en": "That's right. More than ninety percent of the students\nwho've graduated from our program have landed broadcasting\nor other voice-related jobs.",
+"ctx": "diálogo uid000c0de3"
+},
+{
+"id": 22761,
+"en": "We've put together a rich curriculum which trains the\nbroadcasting student in enunciation, intonation, diction,\nand proper language usage.",
+"ctx": "diálogo uid000c0de3"
+},
+{
+"id": 22762,
+"en": "Are you interested in becoming an announcer?",
+"ctx": "diálogo uid000c0de3"
+},
+{
+"id": 22763,
+"en": "Me? Not really, no...",
+"ctx": "diálogo uid000c0de3"
+},
+{
+"id": 22764,
+"en": "Our course is perfect for anyone who wants to work in a\nvoice-related field⑬voice actors, TV talent, narrators,\npresenters, etc.",
+"ctx": "diálogo uid000c0de3"
+},
+{
+"id": 22765,
+"en": "Oh, I see.",
+"ctx": "diálogo uid000c0de3 + diálogo uid01020b67 …"
+},
+{
+"id": 22766,
+"en": "(Hmm. A lot of those skills sound like they might be really\nhelpful in my line of work.)",
+"ctx": "diálogo uid000c0de3"
+},
+{
+"id": 22767,
+"en": "Would you at least like to try our introductory class? It's\ncompletely free. You can even take it right now, if you have\ntime.",
+"ctx": "diálogo uid000c0de3"
+},
+{
+"id": 22768,
+"en": "All right. I'll give it a try.",
+"ctx": "diálogo uid000c0de3"
+},
+{
+"id": 22769,
+"en": "Wonderful! In that case, come right this way, please.",
+"ctx": "diálogo uid000c0de3"
+},
+{
+"id": 22770,
+"en": "No, that's all right.",
+"ctx": "diálogo uid000c0de3"
+},
+{
+"id": 22771,
+"en": "I see. What a shame. Well, if you ever change your mind, you\ncan come back and see me anytime.",
+"ctx": "diálogo uid000c0de3"
+},
+{
+"id": 22772,
+"en": "Oh, this gyoza smells so good... Huh? What are you staring at? I'm eating here.",
+"ctx": "diálogo uid000c0dfd"
+},
+{
+"id": 22773,
+"en": "Oh, hello, Sawamura-san. Have you changed your mind? Would\nyou like to take part in SBR99?",
+"ctx": "diálogo uid000c0ec7"
+},
+{
+"id": 22774,
+"en": "All right. Thank you very much for asking me. I think I'll\ngive it a try!",
+"ctx": "diálogo uid000c0ec7 + diálogo uid010c0ec8"
+},
+{
+"id": 22775,
+"en": "Wonderful! I'm very glad to hear it. Your agency is Dyna\nChair, isn't that right? I'll contact them myself to make\nthe proper arrangements.",
+"ctx": "diálogo uid000c0ec7 + diálogo uid010c0ec8"
+},
+{
+"id": 22776,
+"en": "Now, if you'll come right this way, I'll show you to the\nevent hall.",
+"ctx": "diálogo uid000c0ec7 + diálogo uid010c0ec8"
+},
+{
+"id": 22777,
+"en": "I appreciate the offer, but I'm afraid I'll have to say no.",
+"ctx": "diálogo uid000c0ec7 + diálogo uid010c0ec8"
+},
+{
+"id": 22778,
+"en": "Ah, that's too bad. But I guess I did ask you out of the\nblue. If you ever change your mind, please don't hesitate\nto come see me.",
+"ctx": "diálogo uid000c0ec7"
+},
+{
+"id": 22779,
+"en": "Hm? What's up? You up for another dance battle? I can do\nthat, but it'll cost ya another 1,000 if ya lose.",
+"ctx": "diálogo uid000c0ed5"
+},
+{
+"id": 22780,
+"en": "Sure, you're on.",
+"ctx": "diálogo uid000c0ed5"
+},
+{
+"id": 22781,
+"en": "Good answer! Here we go!",
+"ctx": "diálogo uid000c0ed5"
+},
+{
+"id": 22782,
+"en": "You know, I'd love to, but I'm a little short on funds right\nnow.",
+"ctx": "diálogo uid000c0ed5"
+},
+{
+"id": 22783,
+"en": "Worried about losin' before ya begin, eh? C'mon, where's\nyour spine? That said, yes, bring money.",
+"ctx": "diálogo uid000c0ed5"
+},
+{
+"id": 22784,
+"en": "No, I'll pass for now.",
+"ctx": "diálogo uid000c0ed5"
+},
+{
+"id": 22785,
+"en": "Hmph. Well, that's probably for the best.",
+"ctx": "diálogo uid000c0ed5"
+},
+{
+"id": 22786,
+"en": "I'm in shock... My goodness gracious me, ya got some smooth\nmoves for a man your age.",
+"ctx": "diálogo uid000c0ed5"
+},
+{
+"id": 22787,
+"en": "Maybe, but you're really one to talk.",
+"ctx": "diálogo uid000c0ed5"
+},
+{
+"id": 22788,
+"en": "Tell me, though⑬you're not actually a dancer, are you? The\nway you move leads me to believe you're an amateur through\nand through.",
+"ctx": "diálogo uid000c0ed5"
+},
+{
+"id": 22789,
+"en": "Oh, is it that obvious? Guess there's no fooling a prima\nballerina. It's like you say, I'm no dancer.",
+"ctx": "diálogo uid000c0ed5"
+},
+{
+"id": 22790,
+"en": "Well, it's truly astonishing, a man with no formal training\ndancin' so well.",
+"ctx": "diálogo uid000c0ed5"
+},
+{
+"id": 22791,
+"en": "The way you use your feet, especially. I know pros that\ncan't even do the things ya do.",
+"ctx": "diálogo uid000c0ed5"
+},
+{
+"id": 22792,
+"en": "...Heh, all right, sonny. You win this one.",
+"ctx": "diálogo uid000c0ed5"
+},
+{
+"id": 22793,
+"en": "I've been dancin' for over half a century. And if an amateur\ndances that well against me, I can't, in good conscience,\ngive myself the win.",
+"ctx": "diálogo uid000c0ed5"
+},
+{
+"id": 22794,
+"en": "That's why this round's yours, sonny. Here, take your 1,000\nyen.",
+"ctx": "diálogo uid000c0ed5"
+},
+{
+"id": 22795,
+"en": "Heheh, watchin' you dance was almost like seein' my late\nhusband dance again. Ya made me remember the old coot.",
+"ctx": "diálogo uid000c0ed5"
+},
+{
+"id": 22796,
+"en": "Heh. That's quite an honor.",
+"ctx": "diálogo uid000c0ed5"
+},
+{
+"id": 22797,
+"en": "Of course, the old coot was a little better lookin' than\nyou. No offense. See ya!",
+"ctx": "diálogo uid000c0ed5"
+}
+]

@@ -1,0 +1,3062 @@
+[
+{
+"id": 62468,
+"en": "Hah! Guess I'm getting better.",
+"ctx": "frase de acompañante/calle STID_ST_F_BEE",
+"max": 30
+},
+{
+"id": 62469,
+"en": "Aw. What a shame.",
+"ctx": "frase de acompañante/calle STID_ST_F_BEE + frase de acompañante/calle STID_ST_K_CLUBSEGA_01 …",
+"max": 17
+},
+{
+"id": 62470,
+"en": "Uncle Kaz! Play darts!",
+"ctx": "frase de acompañante/calle STID_ST_F_BEE",
+"max": 22
+},
+{
+"id": 62471,
+"en": "You're incredible, Uncle Kaz!",
+"ctx": "frase de acompañante/calle STID_ST_F_CLUBSEGA + frase de acompañante/calle STID_ST_N_BAR …",
+"max": 29
+},
+{
+"id": 62472,
+"en": "You'll do it next time!",
+"ctx": "frase de acompañante/calle STID_ST_F_CLUBSEGA + frase de acompañante/calle STID_ST_O_CLUBSEGA …",
+"max": 23
+},
+{
+"id": 62473,
+"en": "Uncle Kaz! Play Virtua Fighter 2!",
+"ctx": "frase de acompañante/calle STID_ST_F_CLUBSEGA",
+"max": 33
+},
+{
+"id": 62474,
+"en": "I'll treasure this!",
+"ctx": "frase de acompañante/calle STID_ST_F_CLUBSEGA + frase de acompañante/calle STID_ST_K_CLUBSEGA_02 …",
+"max": 19
+},
+{
+"id": 62475,
+"en": "Uncle Kaz! Let's do a PrintCircle!",
+"ctx": "frase de acompañante/calle STID_ST_F_CLUBSEGA + frase de acompañante/calle STID_ST_K_CLUBSEGA_02 …",
+"max": 34
+},
+{
+"id": 62476,
+"en": "Buy me a <Color:8>Bean Paste Bun<Color:Default>!",
+"ctx": "frase de acompañante/calle STID_ST_F_CONV_01",
+"max": 48
+},
+{
+"id": 62477,
+"en": "That <Color:8>Black Umbrella<Color:Default> is pretty cool, isn't it?",
+"ctx": "frase de acompañante/calle STID_ST_F_DONKI",
+"max": 69
+},
+{
+"id": 62478,
+"en": "But I wanted some.",
+"ctx": "frase de acompañante/calle STID_ST_F_FUKUYA + frase de acompañante/calle STID_ST_S_MIYOSHINO",
+"max": 18
+},
+{
+"id": 62479,
+"en": "Doesn't the <Color:8>Aji Mentaiko 240 g (Regular)<Color:Default> look delicious?",
+"ctx": "frase de acompañante/calle STID_ST_F_FUKUYA",
+"max": 80
+},
+{
+"id": 62480,
+"en": "APkl?",
+"ctx": "frase de acompañante/calle STID_ST_F_OLIVIER",
+"max": 5
+},
+{
+"id": 62481,
+"en": "xExchange Prizes",
+"ctx": "frase de acompañante/calle STID_ST_F_PACHINKO + frase de acompañante/calle STID_ST_O_PACHINKO …",
+"max": 16
+},
+{
+"id": 62482,
+"en": "Something's wrong.",
+"ctx": "frase de acompañante/calle STID_ST_F_TAXI",
+"max": 18
+},
+{
+"id": 62483,
+"en": "Listen, asshole! If ya wanna meet the boss, you're gonna have to go through me first!",
+"ctx": "frase de acompañante/calle STID_ST_F_YAHATA",
+"max": 85
+},
+{
+"id": 62484,
+"en": "@0ke?",
+"ctx": "frase de acompañante/calle STID_ST_F_YAHATA",
+"max": 5
+},
+{
+"id": 62485,
+"en": "A lookout. Last thing we need is him calling his friends over.",
+"ctx": "frase de acompañante/calle STID_ST_F_YAMAKASA",
+"max": 62
+},
+{
+"id": 62486,
+"en": "Yes, it's best to avoid trouble if possible. Hm?",
+"ctx": "frase de acompañante/calle STID_ST_F_YAMAKASA",
+"max": 48
+},
+{
+"id": 62487,
+"en": "If we go in through that door, we might be able to circle around behind the lookout.",
+"ctx": "frase de acompañante/calle STID_ST_F_YAMAKASA",
+"max": 84
+},
+{
+"id": 62488,
+"en": "Good thinking. Let's give it a try.",
+"ctx": "frase de acompañante/calle STID_ST_F_YAMAKASA",
+"max": 35
+},
+{
+"id": 62489,
+"en": "Morinaga",
+"ctx": "frase de acompañante/calle STID_ST_F_YAMAKASA",
+"max": 8
+},
+{
+"id": 62490,
+"en": "The lookout is over there. We should avoid it. Let's go through the rooms instead.",
+"ctx": "frase de acompañante/calle STID_ST_F_YAMAKASA",
+"max": 82
+},
+{
+"id": 62491,
+"en": "(Their numbers have thinned out. Guess I won't be needing this after all.)",
+"ctx": "frase de acompañante/calle STID_ST_F_YAMAKASA",
+"max": 74
+},
+{
+"id": 62492,
+"en": "(It's locked. I'm trapped without a key.)",
+"ctx": "frase de acompañante/calle STID_ST_F_YAMAKASA",
+"max": 41
+},
+{
+"id": 62493,
+"en": "Shit, this guy got through Yahata-aniki! Everyone get your asses over here!",
+"ctx": "frase de acompañante/calle STID_ST_F_YAMAKASA",
+"max": 75
+},
+{
+"id": 62494,
+"en": "(Dammit. Better make my way outside before more of them show up.)",
+"ctx": "frase de acompañante/calle STID_ST_F_YAMAKASA",
+"max": 65
+},
+{
+"id": 62495,
+"en": "Yamagasa Family Member",
+"ctx": "frase de acompañante/calle STID_ST_F_YAMAKASA",
+"max": 22
+},
+{
+"id": 62496,
+"en": "(So they called reinforcements.)",
+"ctx": "frase de acompañante/calle STID_ST_F_YAMAKASA",
+"max": 32
+},
+{
+"id": 62497,
+"en": "(Hm? That daruma is pretty big.)",
+"ctx": "frase de acompañante/calle STID_ST_F_YAMAKASA",
+"max": 32
+},
+{
+"id": 62498,
+"en": "(Maybe I could roll it down the stairs. Might help me thin out the crowd.)",
+"ctx": "frase de acompañante/calle STID_ST_F_YAMAKASA",
+"max": 74
+},
+{
+"id": 62499,
+"en": "(That float is just what I need.)",
+"ctx": "frase de acompañante/calle STID_ST_F_YAMAKASA",
+"max": 33
+},
+{
+"id": 62500,
+"en": "What the shit? How'd ya get in here!?",
+"ctx": "frase de acompañante/calle STID_ST_F_YAMAKASA",
+"max": 37
+},
+{
+"id": 62501,
+"en": "So much for avoiding a fight.",
+"ctx": "frase de acompañante/calle STID_ST_F_YAMAKASA",
+"max": 29
+},
+{
+"id": 62502,
+"en": "No other choice. Let's finish this quickly.",
+"ctx": "frase de acompañante/calle STID_ST_F_YAMAKASA",
+"max": 43
+},
+{
+"id": 62503,
+"en": "What the flyin' shit?",
+"ctx": "frase de acompañante/calle STID_ST_F_YAMAKASA",
+"max": 21
+},
+{
+"id": 62504,
+"en": "How'd ya get in here!? Get 'em, boys!",
+"ctx": "frase de acompañante/calle STID_ST_F_YAMAKASA",
+"max": 37
+},
+{
+"id": 62505,
+"en": "Damn, the lookout spotted us. We better hurry.",
+"ctx": "frase de acompañante/calle STID_ST_F_YAMAKASA",
+"max": 46
+},
+{
+"id": 62506,
+"en": "(Dammit, they're guarding the entrance.)",
+"ctx": "frase de acompañante/calle STID_ST_F_YAMAKASA",
+"max": 40
+},
+{
+"id": 62507,
+"en": "(Let's head to the patriarch's room on the top floor.)",
+"ctx": "frase de acompañante/calle STID_ST_F_YAMAKASA",
+"max": 54
+},
+{
+"id": 62508,
+"en": "Hold on! We have to take care of these guys!",
+"ctx": "frase de acompañante/calle STID_ST_F_YAMAKASA",
+"max": 44
+},
+{
+"id": 62509,
+"en": "AVwd?",
+"ctx": "frase de acompañante/calle STID_ST_HILLS_ROOF",
+"max": 5
+},
+{
+"id": 62510,
+"en": "Where is he...?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 15
+},
+{
+"id": 62511,
+"en": "Please, help!",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 13
+},
+{
+"id": 62512,
+"en": "What's wrong with me?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 21
+},
+{
+"id": 62513,
+"en": "Need some menu ideas...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 23
+},
+{
+"id": 62514,
+"en": "Calm down...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 12
+},
+{
+"id": 62515,
+"en": "Aw man...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 9
+},
+{
+"id": 62516,
+"en": "Yum! Delicious!",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 15
+},
+{
+"id": 62517,
+"en": "Oooooh...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 9
+},
+{
+"id": 62518,
+"en": "Solo karaoke's a blast!",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 23
+},
+{
+"id": 62519,
+"en": "So lonely.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 10
+},
+{
+"id": 62520,
+"en": "*hic*",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO + frase de acompañante/calle STID_ST_NAGOYA",
+"max": 5
+},
+{
+"id": 62521,
+"en": "What's keeping her?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 19
+},
+{
+"id": 62522,
+"en": "I feel sick...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 14
+},
+{
+"id": 62523,
+"en": "I am so screwed.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 16
+},
+{
+"id": 62524,
+"en": "How efficient can it get?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 25
+},
+{
+"id": 62525,
+"en": "Oh, for goodness' sake!",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 23
+},
+{
+"id": 62526,
+"en": "I'm scared.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 11
+},
+{
+"id": 62527,
+"en": "Tough decision...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 17
+},
+{
+"id": 62528,
+"en": "Heh heh heh...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 14
+},
+{
+"id": 62529,
+"en": "You have got to be kidding.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 27
+},
+{
+"id": 62530,
+"en": "Is this the place?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 18
+},
+{
+"id": 62531,
+"en": "Oh, well.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 9
+},
+{
+"id": 62532,
+"en": "What to do?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO + frase de acompañante/calle STID_ST_NAGOYA",
+"max": 11
+},
+{
+"id": 62533,
+"en": "Whew.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 5
+},
+{
+"id": 62534,
+"en": "Oh, boo.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 8
+},
+{
+"id": 62535,
+"en": "I need a woman!",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 15
+},
+{
+"id": 62536,
+"en": "Let's go grab a bite.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 21
+},
+{
+"id": 62537,
+"en": "Oh, no, no.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 11
+},
+{
+"id": 62538,
+"en": "I'll spring for a bit of sexy scrubbin'!",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 40
+},
+{
+"id": 62539,
+"en": "I'm getting hungry.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 19
+},
+{
+"id": 62540,
+"en": "He's such a jerk!",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 17
+},
+{
+"id": 62541,
+"en": "No, no. Not a chance!",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 21
+},
+{
+"id": 62542,
+"en": "It's almost time.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO + frase de acompañante/calle STID_ST_SAPPORO",
+"max": 17
+},
+{
+"id": 62543,
+"en": "I'm beat.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 9
+},
+{
+"id": 62544,
+"en": "This is so fun!",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 15
+},
+{
+"id": 62545,
+"en": "What? The three of us?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 22
+},
+{
+"id": 62546,
+"en": "You hit on girls looking like that?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 35
+},
+{
+"id": 62547,
+"en": "Want to party with me?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 22
+},
+{
+"id": 62548,
+"en": "What a name.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 12
+},
+{
+"id": 62549,
+"en": "Let's stop by here.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 19
+},
+{
+"id": 62550,
+"en": "I just got here.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 16
+},
+{
+"id": 62551,
+"en": "Yikes. Look at the time.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 24
+},
+{
+"id": 62552,
+"en": "Any cute girls around?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 22
+},
+{
+"id": 62553,
+"en": "What do you want to see?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 24
+},
+{
+"id": 62554,
+"en": "So bored...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 11
+},
+{
+"id": 62555,
+"en": "I'll take it home.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 18
+},
+{
+"id": 62556,
+"en": "Nope. Not at all.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 17
+},
+{
+"id": 62557,
+"en": "This place has changed a lot.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 29
+},
+{
+"id": 62558,
+"en": "It sure has.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 12
+},
+{
+"id": 62559,
+"en": "A big bath feels great!",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 23
+},
+{
+"id": 62560,
+"en": "Let's wait a bit longer.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 24
+},
+{
+"id": 62561,
+"en": "Let's do it, then.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 18
+},
+{
+"id": 62562,
+"en": "It's too funny!",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 15
+},
+{
+"id": 62563,
+"en": "I could go for a beef bowl.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 27
+},
+{
+"id": 62564,
+"en": "What's with you?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 16
+},
+{
+"id": 62565,
+"en": "Cool down, babe.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 16
+},
+{
+"id": 62566,
+"en": "Just a little more!",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 19
+},
+{
+"id": 62567,
+"en": "It's cold. Let's go.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 20
+},
+{
+"id": 62568,
+"en": "I'm telling you, man.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 21
+},
+{
+"id": 62569,
+"en": "You're the man.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 15
+},
+{
+"id": 62570,
+"en": "You're wrong, sweetie.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 22
+},
+{
+"id": 62571,
+"en": "There's trouble afoot.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 22
+},
+{
+"id": 62572,
+"en": "Why does this happen?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 21
+},
+{
+"id": 62573,
+"en": "What compels me?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 16
+},
+{
+"id": 62574,
+"en": "Ahahaha.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 8
+},
+{
+"id": 62575,
+"en": "It's a tough decision.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 22
+},
+{
+"id": 62576,
+"en": "You want to have it out?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 24
+},
+{
+"id": 62577,
+"en": "Oh, got a reply.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 16
+},
+{
+"id": 62578,
+"en": "When I have a moment...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 23
+},
+{
+"id": 62579,
+"en": "Heh. If only...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 15
+},
+{
+"id": 62580,
+"en": "The lottery...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 14
+},
+{
+"id": 62581,
+"en": "I can't take much more...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 25
+},
+{
+"id": 62582,
+"en": "*sigh*...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 9
+},
+{
+"id": 62583,
+"en": "That pisses me off!",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 19
+},
+{
+"id": 62584,
+"en": "That asshole...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 15
+},
+{
+"id": 62585,
+"en": "I want a new purse.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 19
+},
+{
+"id": 62586,
+"en": "Already?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 8
+},
+{
+"id": 62587,
+"en": "It's tough.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 11
+},
+{
+"id": 62588,
+"en": "He's late.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 10
+},
+{
+"id": 62589,
+"en": "Hilarious!",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 10
+},
+{
+"id": 62590,
+"en": "Isn't it?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 9
+},
+{
+"id": 62591,
+"en": "Yeah, maybe one day.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 20
+},
+{
+"id": 62592,
+"en": "We have got to go!",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 18
+},
+{
+"id": 62593,
+"en": "No worries.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 11
+},
+{
+"id": 62594,
+"en": "So listen...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 12
+},
+{
+"id": 62595,
+"en": "Yeah, totally!",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 14
+},
+{
+"id": 62596,
+"en": "You can't make it? Again?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 25
+},
+{
+"id": 62597,
+"en": "It's cold today.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 16
+},
+{
+"id": 62598,
+"en": "Record it, please.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 18
+},
+{
+"id": 62599,
+"en": "I'll be there soon.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 19
+},
+{
+"id": 62600,
+"en": "Sure, I'll buy it.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 18
+},
+{
+"id": 62601,
+"en": "Get it together!",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 16
+},
+{
+"id": 62602,
+"en": "Late again?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 11
+},
+{
+"id": 62603,
+"en": "We're early today.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 18
+},
+{
+"id": 62604,
+"en": "Hurry! Let's go!",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 16
+},
+{
+"id": 62605,
+"en": "We're still early, holy cow.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 28
+},
+{
+"id": 62606,
+"en": "Calm down, please.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 18
+},
+{
+"id": 62607,
+"en": "Yeah, no doubt.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 15
+},
+{
+"id": 62608,
+"en": "All the good men are taken...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 29
+},
+{
+"id": 62609,
+"en": "I feel a lot better now.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 24
+},
+{
+"id": 62610,
+"en": "What'll we eat?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 15
+},
+{
+"id": 62611,
+"en": "What are you hungry for?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 24
+},
+{
+"id": 62612,
+"en": "Today's the day!",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 16
+},
+{
+"id": 62613,
+"en": "It was so funny.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 16
+},
+{
+"id": 62614,
+"en": "Any potential girlfriends?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 26
+},
+{
+"id": 62615,
+"en": "Not a single one.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 17
+},
+{
+"id": 62616,
+"en": "Right back at you.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 18
+},
+{
+"id": 62617,
+"en": "It's not that funny.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 20
+},
+{
+"id": 62618,
+"en": "What am I supposed to do?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 25
+},
+{
+"id": 62619,
+"en": "Hey, hang in there.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 19
+},
+{
+"id": 62620,
+"en": "Cut it out.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 11
+},
+{
+"id": 62621,
+"en": "It's just a bit annoying.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 25
+},
+{
+"id": 62622,
+"en": "Where's the Karaokekan?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 23
+},
+{
+"id": 62623,
+"en": "What's the secret?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 18
+},
+{
+"id": 62624,
+"en": "Check out this skin!",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 20
+},
+{
+"id": 62625,
+"en": "Get lost, you crook!",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 20
+},
+{
+"id": 62626,
+"en": "What a masterpiece.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 19
+},
+{
+"id": 62627,
+"en": "Where was it again?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 19
+},
+{
+"id": 62628,
+"en": "I wish...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 9
+},
+{
+"id": 62629,
+"en": "I should get home.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 18
+},
+{
+"id": 62630,
+"en": "That's nice, isn't it?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 22
+},
+{
+"id": 62631,
+"en": "Can we go to your place?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 24
+},
+{
+"id": 62632,
+"en": "Uh, no.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 7
+},
+{
+"id": 62633,
+"en": "Don't do that.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 14
+},
+{
+"id": 62634,
+"en": "All right now.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 14
+},
+{
+"id": 62635,
+"en": "You say that, but...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 20
+},
+{
+"id": 62636,
+"en": "What are you saying?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 20
+},
+{
+"id": 62637,
+"en": "Exactly what I said.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 20
+},
+{
+"id": 62638,
+"en": "Too expensive!",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 14
+},
+{
+"id": 62639,
+"en": "I'm glad I saw it.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 18
+},
+{
+"id": 62640,
+"en": "This is the latest thing?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 25
+},
+{
+"id": 62641,
+"en": "I'm shivering.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 14
+},
+{
+"id": 62642,
+"en": "*cough*",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 7
+},
+{
+"id": 62643,
+"en": "Grin and bear it.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 17
+},
+{
+"id": 62644,
+"en": "Sorry, I forgot.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 16
+},
+{
+"id": 62645,
+"en": "I could go for some oden.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 25
+},
+{
+"id": 62646,
+"en": "My battery's dying...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 21
+},
+{
+"id": 62647,
+"en": "Let's pick up some chicks.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 26
+},
+{
+"id": 62648,
+"en": "Yeah, no.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 9
+},
+{
+"id": 62649,
+"en": "Not bloody likely!",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 18
+},
+{
+"id": 62650,
+"en": "That's not what you said.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO + frase de acompañante/calle STID_ST_SAPPORO",
+"max": 25
+},
+{
+"id": 62651,
+"en": "I'm starving!",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 13
+},
+{
+"id": 62652,
+"en": "Where's that leave me?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 22
+},
+{
+"id": 62653,
+"en": "What's for dinner?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 18
+},
+{
+"id": 62654,
+"en": "I can't find him.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 17
+},
+{
+"id": 62655,
+"en": "Is he here?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 11
+},
+{
+"id": 62656,
+"en": "I'm drinking tonight.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 21
+},
+{
+"id": 62657,
+"en": "Got your back.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 14
+},
+{
+"id": 62658,
+"en": "Smells fabulous.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 16
+},
+{
+"id": 62659,
+"en": "I'm totally stuffed.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 20
+},
+{
+"id": 62660,
+"en": "Yeah, it was delicious!",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 23
+},
+{
+"id": 62661,
+"en": "Where's my bike key?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 20
+},
+{
+"id": 62662,
+"en": "I can't wait.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO + frase de acompañante/calle STID_ST_SAPPORO",
+"max": 13
+},
+{
+"id": 62663,
+"en": "Ugh, it's getting cold.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 23
+},
+{
+"id": 62664,
+"en": "Did you hear about Yui-chan?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 28
+},
+{
+"id": 62665,
+"en": "Come in and play!",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 17
+},
+{
+"id": 62666,
+"en": "I'm so full!",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 12
+},
+{
+"id": 62667,
+"en": "No new messages...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO + frase de acompañante/calle STID_ST_NAGOYA",
+"max": 18
+},
+{
+"id": 62668,
+"en": "I'm feeling good!",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 17
+},
+{
+"id": 62669,
+"en": "Where to next?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO + frase de acompañante/calle STID_ST_NAGOYA",
+"max": 14
+},
+{
+"id": 62670,
+"en": "Damn it, where is he?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 21
+},
+{
+"id": 62671,
+"en": "Still asleep, maybe?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 20
+},
+{
+"id": 62672,
+"en": "Looking for a good time?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 24
+},
+{
+"id": 62673,
+"en": "I need some spending money.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 27
+},
+{
+"id": 62674,
+"en": "Oh, Yuya-sama...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 16
+},
+{
+"id": 62675,
+"en": "That woman, I swear...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 22
+},
+{
+"id": 62676,
+"en": "You're killing me here.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 23
+},
+{
+"id": 62677,
+"en": "Looking for an izakaya?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 23
+},
+{
+"id": 62678,
+"en": "We've got a good deal for you.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 30
+},
+{
+"id": 62679,
+"en": "Time for work.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 14
+},
+{
+"id": 62680,
+"en": "Nice pub here.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 14
+},
+{
+"id": 62681,
+"en": "Drop in for a drink!",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 20
+},
+{
+"id": 62682,
+"en": "Please stop by.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 15
+},
+{
+"id": 62683,
+"en": "The point being...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 18
+},
+{
+"id": 62684,
+"en": "Sure, I got time.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 17
+},
+{
+"id": 62685,
+"en": "Unload your stress!",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 19
+},
+{
+"id": 62686,
+"en": "Where can I meet a girl?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 24
+},
+{
+"id": 62687,
+"en": "You got a girl already.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 23
+},
+{
+"id": 62688,
+"en": "Try our sake!",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 13
+},
+{
+"id": 62689,
+"en": "@>ah=>@",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 7
+},
+{
+"id": 62690,
+"en": "Time flies...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 13
+},
+{
+"id": 62691,
+"en": "The Sixth Chairman...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 21
+},
+{
+"id": 62692,
+"en": "Look at that...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 15
+},
+{
+"id": 62693,
+"en": "Kamurocho Hills...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 18
+},
+{
+"id": 62694,
+"en": "Hills Hotel...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 14
+},
+{
+"id": 62695,
+"en": "The Majima Family...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 20
+},
+{
+"id": 62696,
+"en": "New Serena...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 13
+},
+{
+"id": 62697,
+"en": "Purgatory...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 12
+},
+{
+"id": 62698,
+"en": "Got your ticket?",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 16
+},
+{
+"id": 62699,
+"en": "I don't believe it!",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 19
+},
+{
+"id": 62700,
+"en": "Katsuya...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 10
+},
+{
+"id": 62701,
+"en": "That guy Katsuya...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 19
+},
+{
+"id": 62702,
+"en": "Like I said...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 14
+},
+{
+"id": 62703,
+"en": "It's not fair!",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 14
+},
+{
+"id": 62704,
+"en": "I caved...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 10
+},
+{
+"id": 62705,
+"en": "Tickets...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 10
+},
+{
+"id": 62706,
+"en": "Dream Line...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 13
+},
+{
+"id": 62707,
+"en": "Oh well...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 10
+},
+{
+"id": 62708,
+"en": "On the move...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 14
+},
+{
+"id": 62709,
+"en": "Boy...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 6
+},
+{
+"id": 62710,
+"en": "What a headache...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 18
+},
+{
+"id": 62711,
+"en": "Nothing really grabs me.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 24
+},
+{
+"id": 62712,
+"en": "Hmm... Not quite...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 19
+},
+{
+"id": 62713,
+"en": "I need to find specialties...",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 29
+},
+{
+"id": 62714,
+"en": "That'll keep the customers coming.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 34
+},
+{
+"id": 62715,
+"en": "\n\n\n----Change (null)----",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 27
+},
+{
+"id": 62716,
+"en": "I'm itching for some mahjong.",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 29
+},
+{
+"id": 62717,
+"en": "B iy",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 4
+},
+{
+"id": 62718,
+"en": "You'll burn your tongue!",
+"ctx": "frase de acompañante/calle STID_ST_KAMURO",
+"max": 24
+},
+{
+"id": 62719,
+"en": "Aw. But I wanted that.",
+"ctx": "frase de acompañante/calle STID_ST_K_ALPS",
+"max": 22
+},
+{
+"id": 62720,
+"en": "I want a <Color:8>Strawberry Parfait<Color:Default>!",
+"ctx": "frase de acompañante/calle STID_ST_K_ALPS",
+"max": 52
+},
+{
+"id": 62721,
+"en": "What am I gonna do...?",
+"ctx": "frase de acompañante/calle STID_ST_K_ALPS",
+"max": 22
+},
+{
+"id": 62722,
+"en": "Aw, too bad!",
+"ctx": "frase de acompañante/calle STID_ST_K_BATTING + frase de acompañante/calle STID_ST_K_CASINO_KWR",
+"max": 12
+},
+{
+"id": 62723,
+"en": "Look! An academic mode! Are you good with numbers?",
+"ctx": "frase de acompañante/calle STID_ST_K_BATTING",
+"max": 50
+},
+{
+"id": 62724,
+"en": "I want a <Color:8>Braised Pork Burger Set<Color:Default>!",
+"ctx": "frase de acompañante/calle STID_ST_K_BURGER",
+"max": 57
+},
+{
+"id": 62725,
+"en": "You won big, Uncle Kaz!",
+"ctx": "frase de acompañante/calle STID_ST_K_CASINO_KWR",
+"max": 23
+},
+{
+"id": 62726,
+"en": "Uncle Kaz! Play roulette!",
+"ctx": "frase de acompañante/calle STID_ST_K_CASINO_KWR",
+"max": 25
+},
+{
+"id": 62727,
+"en": "Uncle Kaz! That was a huge win!",
+"ctx": "frase de acompañante/calle STID_ST_K_CASINO_KWR",
+"max": 31
+},
+{
+"id": 62728,
+"en": "Uncle Kaz! Are you good at poker?",
+"ctx": "frase de acompañante/calle STID_ST_K_CASINO_KWR",
+"max": 33
+},
+{
+"id": 62729,
+"en": "Wow, Uncle Kaz! That was a huge win!",
+"ctx": "frase de acompañante/calle STID_ST_K_CASINO_KWR",
+"max": 36
+},
+{
+"id": 62730,
+"en": "Look, Uncle Kaz! Blackjack!",
+"ctx": "frase de acompañante/calle STID_ST_K_CASINO_KWR",
+"max": 27
+},
+{
+"id": 62731,
+"en": "Uncle Kaz, thank you so much!",
+"ctx": "frase de acompañante/calle STID_ST_K_CLUBSEGA_01",
+"max": 29
+},
+{
+"id": 62732,
+"en": "Look, Uncle Kaz! A UFO Catcher!",
+"ctx": "frase de acompañante/calle STID_ST_K_CLUBSEGA_01",
+"max": 31
+},
+{
+"id": 62733,
+"en": "Can I have a <Color:8>Tuna Onigiri<Color:Default>?",
+"ctx": "frase de acompañante/calle STID_ST_K_CONV_M_01",
+"max": 50
+},
+{
+"id": 62734,
+"en": "Uncle Kaz! I betcha can't catch an <Color:8>oarfish<Color:Default>! Oar can you? Hehe!",
+"ctx": "frase de acompañante/calle STID_ST_K_FISHING",
+"max": 86
+},
+{
+"id": 62735,
+"en": "*huff* *huff* Shinada!",
+"ctx": "frase de acompañante/calle STID_ST_K_GESUI01",
+"max": 22
+},
+{
+"id": 62736,
+"en": "Got a favor to ask.",
+"ctx": "frase de acompañante/calle STID_ST_K_GESUI01",
+"max": 19
+},
+{
+"id": 62737,
+"en": "What? Now?",
+"ctx": "frase de acompañante/calle STID_ST_K_GESUI01",
+"max": 10
+},
+{
+"id": 62738,
+"en": "When ya get to the Dome, ya might come across a guy called Baba.",
+"ctx": "frase de acompañante/calle STID_ST_K_GESUI01",
+"max": 64
+},
+{
+"id": 62739,
+"en": "Yeah. He's the guy workin' for Kurosawa that planned my prison break.",
+"ctx": "frase de acompañante/calle STID_ST_K_GESUI01",
+"max": 69
+},
+{
+"id": 62740,
+"en": "What's the favor?",
+"ctx": "frase de acompañante/calle STID_ST_K_GESUI01",
+"max": 17
+},
+{
+"id": 62741,
+"en": "If ya see him, tell him I'll be waitin' for him here as long as it takes.",
+"ctx": "frase de acompañante/calle STID_ST_K_GESUI01",
+"max": 73
+},
+{
+"id": 62742,
+"en": "I promised we'd swear an oath of brotherhood.",
+"ctx": "frase de acompañante/calle STID_ST_K_GESUI01",
+"max": 45
+},
+{
+"id": 62743,
+"en": "He's still young. Gotta smack some sense into that head of his, or who knows what he'll get himself into.",
+"ctx": "frase de acompañante/calle STID_ST_K_GESUI01",
+"max": 105
+},
+{
+"id": 62744,
+"en": "So I'm hopin' you can save not just Haruka, but Baba, too.",
+"ctx": "frase de acompañante/calle STID_ST_K_GESUI01",
+"max": 58
+},
+{
+"id": 62745,
+"en": "Man, the lengths you guys go to for each other is just crazy sometimes.",
+"ctx": "frase de acompañante/calle STID_ST_K_GESUI01",
+"max": 71
+},
+{
+"id": 62746,
+"en": "Huh? You say somethin'?",
+"ctx": "frase de acompañante/calle STID_ST_K_GESUI01",
+"max": 23
+},
+{
+"id": 62747,
+"en": "Never mind. Anyway, first we've got to take care of the enemy at hand!",
+"ctx": "frase de acompañante/calle STID_ST_K_GESUI01",
+"max": 70
+},
+{
+"id": 62748,
+"en": "I hear that!",
+"ctx": "frase de acompañante/calle STID_ST_K_GESUI01",
+"max": 12
+},
+{
+"id": 62749,
+"en": "Hey, Shinada! Stop runnin' off alone and help me out here!",
+"ctx": "frase de acompañante/calle STID_ST_K_GESUI01",
+"max": 58
+},
+{
+"id": 62750,
+"en": "Hey, Saejima-san! Can you come help me instead of running ahead!?",
+"ctx": "frase de acompañante/calle STID_ST_K_GESUI01",
+"max": 65
+},
+{
+"id": 62751,
+"en": "Kiryu-san, right?",
+"ctx": "frase de acompañante/calle STID_ST_K_HILLS01",
+"max": 17
+},
+{
+"id": 62752,
+"en": "You work for Katsuya? Some welcome this is after inviting me out here.",
+"ctx": "frase de acompañante/calle STID_ST_K_HILLS01",
+"max": 70
+},
+{
+"id": 62753,
+"en": "Heh, wouldn't be any fun if we made it too easy, would it now?",
+"ctx": "frase de acompañante/calle STID_ST_K_HILLS01",
+"max": 62
+},
+{
+"id": 62754,
+"en": "Let's see if you're the man the chairman says ya are.",
+"ctx": "frase de acompañante/calle STID_ST_K_HILLS01",
+"max": 53
+},
+{
+"id": 62755,
+"en": "It doesn't pay to underestimate me.",
+"ctx": "frase de acompañante/calle STID_ST_K_HILLS01",
+"max": 35
+},
+{
+"id": 62756,
+"en": "All right, get 'im!",
+"ctx": "frase de acompañante/calle STID_ST_K_HILLS01",
+"max": 19
+},
+{
+"id": 62757,
+"en": "Saejima-san, right?",
+"ctx": "frase de acompañante/calle STID_ST_K_HILLS01",
+"max": 19
+},
+{
+"id": 62758,
+"en": "You Katsuya's man? Get outta the way. Ain't got no beef with you.",
+"ctx": "frase de acompañante/calle STID_ST_K_HILLS01",
+"max": 65
+},
+{
+"id": 62759,
+"en": "Hmph. Who d'ya think you're dealin' with here?",
+"ctx": "frase de acompañante/calle STID_ST_K_HILLS01",
+"max": 46
+},
+{
+"id": 62760,
+"en": "Hey, hold it!",
+"ctx": "frase de acompañante/calle STID_ST_K_HILLS01",
+"max": 13
+},
+{
+"id": 62761,
+"en": "We're gonna sandwich ya in!",
+"ctx": "frase de acompañante/calle STID_ST_K_HILLS01",
+"max": 27
+},
+{
+"id": 62762,
+"en": "Hold it right there! You ain't gettin' past until ya deal with us!",
+"ctx": "frase de acompañante/calle STID_ST_K_HILLS01",
+"max": 66
+},
+{
+"id": 62763,
+"en": "Hold up! You ain't gonna see the chairman without goin' through us first!",
+"ctx": "frase de acompañante/calle STID_ST_K_HILLS01",
+"max": 73
+},
+{
+"id": 62764,
+"en": "Hey! Gotta settle things with us first if ya wanna go upstairs!",
+"ctx": "frase de acompañante/calle STID_ST_K_HILLS01",
+"max": 63
+},
+{
+"id": 62765,
+"en": "Aw. Well that's okay...",
+"ctx": "frase de acompañante/calle STID_ST_K_KAWARA_UN",
+"max": 23
+},
+{
+"id": 62766,
+"en": "Uncle Kaz! Catch a <Color:8>ghost koi<Color:Default>! I need to know if it's really supernatural!",
+"ctx": "frase de acompañante/calle STID_ST_K_KAWARA_UN",
+"max": 97
+},
+{
+"id": 62767,
+"en": "A$ffA`",
+"ctx": "frase de acompañante/calle STID_ST_K_KOMAMACHI",
+"max": 6
+},
+{
+"id": 62768,
+"en": "Waiting for player",
+"ctx": "frase de acompañante/calle STID_ST_K_MAHJONG",
+"max": 18
+},
+{
+"id": 62769,
+"en": "I want some <Color:8>Sea Urchin Cream Sauce Spaghetti<Color:Default>!",
+"ctx": "frase de acompañante/calle STID_ST_K_PRONTO",
+"max": 69
+},
+{
+"id": 62770,
+"en": "Uncle Kaz! Play oicho-kabu!",
+"ctx": "frase de acompañante/calle STID_ST_K_TOBA",
+"max": 27
+},
+{
+"id": 62771,
+"en": "Uncle Kaz! Play koi-koi!",
+"ctx": "frase de acompañante/calle STID_ST_K_TOBA",
+"max": 24
+},
+{
+"id": 62772,
+"en": "Uncle Kaz! Play cee-lo!",
+"ctx": "frase de acompañante/calle STID_ST_K_TOBA",
+"max": 23
+},
+{
+"id": 62773,
+"en": "Buy me a <Color:8>Grilled Chicken Bowl<Color:Default>!",
+"ctx": "frase de acompañante/calle STID_ST_MATSUYA_2",
+"max": 54
+},
+{
+"id": 62774,
+"en": "Where're you from?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 18
+},
+{
+"id": 62775,
+"en": "Smells nice...",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 14
+},
+{
+"id": 62776,
+"en": "They can do it this season.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 27
+},
+{
+"id": 62777,
+"en": "The Wyverns? Yeah, right.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 25
+},
+{
+"id": 62778,
+"en": "Need... tebasaki wings...",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 25
+},
+{
+"id": 62779,
+"en": "Time for some noodles.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 22
+},
+{
+"id": 62780,
+"en": "Come on in!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 11
+},
+{
+"id": 62781,
+"en": "Ooh...",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 6
+},
+{
+"id": 62782,
+"en": "?sov=̔",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 7
+},
+{
+"id": 62783,
+"en": "Please, I need a job!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 21
+},
+{
+"id": 62784,
+"en": "No way, you're too young!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 25
+},
+{
+"id": 62785,
+"en": "Busty babes are waiting for you!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 32
+},
+{
+"id": 62786,
+"en": "Girls here! Get 'em while they're hot!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 38
+},
+{
+"id": 62787,
+"en": "Isn't there anyone who will listen?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 35
+},
+{
+"id": 62788,
+"en": "Fellow citizens!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 16
+},
+{
+"id": 62789,
+"en": "Lend me your ears!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 18
+},
+{
+"id": 62790,
+"en": "Oh, no! The manuscript!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 23
+},
+{
+"id": 62791,
+"en": "What <Italic>is</Italic> all this!?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 35
+},
+{
+"id": 62792,
+"en": "Don't do this to me!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 20
+},
+{
+"id": 62793,
+"en": "Hey, share the wealth a little.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 31
+},
+{
+"id": 62794,
+"en": "Hurrgh...",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 9
+},
+{
+"id": 62795,
+"en": "Agh...",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 6
+},
+{
+"id": 62796,
+"en": "Can't take it...",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 16
+},
+{
+"id": 62797,
+"en": "Hey, big daddy, let's party.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 28
+},
+{
+"id": 62798,
+"en": "Sure! How much?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 15
+},
+{
+"id": 62799,
+"en": "Want to party, big boy?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 23
+},
+{
+"id": 62800,
+"en": "Pick up the phone, you cow.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 27
+},
+{
+"id": 62801,
+"en": "I'm out of options...",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 21
+},
+{
+"id": 62802,
+"en": "What's happening?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 17
+},
+{
+"id": 62803,
+"en": "I'm telling you...",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 18
+},
+{
+"id": 62804,
+"en": "You imagined it.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 16
+},
+{
+"id": 62805,
+"en": "Not a chance!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 13
+},
+{
+"id": 62806,
+"en": "Oh, please!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 11
+},
+{
+"id": 62807,
+"en": "It begins!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 10
+},
+{
+"id": 62808,
+"en": "I have to go...",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA + frase de acompañante/calle STID_ST_S_SYURAKU",
+"max": 15
+},
+{
+"id": 62809,
+"en": "Oh, you!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 8
+},
+{
+"id": 62810,
+"en": "Time to go home.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 16
+},
+{
+"id": 62811,
+"en": "I have to go home.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 18
+},
+{
+"id": 62812,
+"en": "Urp...",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 6
+},
+{
+"id": 62813,
+"en": "I got small bills.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 18
+},
+{
+"id": 62814,
+"en": "You saved me.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 13
+},
+{
+"id": 62815,
+"en": "Wanna go eat?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 13
+},
+{
+"id": 62816,
+"en": "I can't decide.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 15
+},
+{
+"id": 62817,
+"en": "I love this!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 12
+},
+{
+"id": 62818,
+"en": "Hmm, let's see...",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 17
+},
+{
+"id": 62819,
+"en": "I hope we can come next year, too.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 34
+},
+{
+"id": 62820,
+"en": "Sorry! The train was delayed.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 29
+},
+{
+"id": 62821,
+"en": "Get lost!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 9
+},
+{
+"id": 62822,
+"en": "It's pretty, but...",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 19
+},
+{
+"id": 62823,
+"en": "It's too cold. Let's go.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 24
+},
+{
+"id": 62824,
+"en": "Reception blows here.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 21
+},
+{
+"id": 62825,
+"en": "Unbelievable!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 13
+},
+{
+"id": 62826,
+"en": "*cough, cough*",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 14
+},
+{
+"id": 62827,
+"en": "Wasn't it tasty?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 16
+},
+{
+"id": 62828,
+"en": "Wanna just buy it?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 18
+},
+{
+"id": 62829,
+"en": "Let's move on.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 14
+},
+{
+"id": 62830,
+"en": "Phew, I am so full.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 19
+},
+{
+"id": 62831,
+"en": "I need another beer.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 20
+},
+{
+"id": 62832,
+"en": "What, still!?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 13
+},
+{
+"id": 62833,
+"en": "My treat.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 9
+},
+{
+"id": 62834,
+"en": "You're sure!?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 13
+},
+{
+"id": 62835,
+"en": "I can't walk anymore.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 21
+},
+{
+"id": 62836,
+"en": "Where's my bike key!?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 21
+},
+{
+"id": 62837,
+"en": "Okay?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 5
+},
+{
+"id": 62838,
+"en": "I wish I had a girl.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 20
+},
+{
+"id": 62839,
+"en": "Why just one?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 13
+},
+{
+"id": 62840,
+"en": "Join me for tea?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 16
+},
+{
+"id": 62841,
+"en": "I'm waiting for a friend.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 25
+},
+{
+"id": 62842,
+"en": "It's too bad...",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 15
+},
+{
+"id": 62843,
+"en": "Gotta agree.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 12
+},
+{
+"id": 62844,
+"en": "Just think about it.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 20
+},
+{
+"id": 62845,
+"en": "Right? Right?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 13
+},
+{
+"id": 62846,
+"en": "Totally with you.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 17
+},
+{
+"id": 62847,
+"en": "Are you for real?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 17
+},
+{
+"id": 62848,
+"en": "It's uber cute!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 15
+},
+{
+"id": 62849,
+"en": "Wow, you are so right.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 22
+},
+{
+"id": 62850,
+"en": "Hey, stop already.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 18
+},
+{
+"id": 62851,
+"en": "Let's go on that!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 17
+},
+{
+"id": 62852,
+"en": "Just us guys?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 13
+},
+{
+"id": 62853,
+"en": "Looks pretty fun.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 17
+},
+{
+"id": 62854,
+"en": "I'm by the convenience store.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 29
+},
+{
+"id": 62855,
+"en": "Really? So am I!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 16
+},
+{
+"id": 62856,
+"en": "Let's stop by for a rest.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 25
+},
+{
+"id": 62857,
+"en": "You said just tea!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 18
+},
+{
+"id": 62858,
+"en": "Keep making it lighter...",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 25
+},
+{
+"id": 62859,
+"en": "I can't do it!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 14
+},
+{
+"id": 62860,
+"en": "Let me explain.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 15
+},
+{
+"id": 62861,
+"en": "Got ripped off again...",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 23
+},
+{
+"id": 62862,
+"en": "That's not what I meant.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 24
+},
+{
+"id": 62863,
+"en": "Don't tell me...",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 16
+},
+{
+"id": 62864,
+"en": "Can't do it.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 12
+},
+{
+"id": 62865,
+"en": "Come on, just a few.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 20
+},
+{
+"id": 62866,
+"en": "Why won't she reply!?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 21
+},
+{
+"id": 62867,
+"en": "Let's go somewhere warm.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 24
+},
+{
+"id": 62868,
+"en": "Ugh, so cold.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 13
+},
+{
+"id": 62869,
+"en": "I'm here. Where are you?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 24
+},
+{
+"id": 62870,
+"en": "Hehe, I dunno.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 14
+},
+{
+"id": 62871,
+"en": "Buy it for me! Please?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 22
+},
+{
+"id": 62872,
+"en": "I! Am! Hungry!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 14
+},
+{
+"id": 62873,
+"en": "Definitely!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 11
+},
+{
+"id": 62874,
+"en": "All systems, full power!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 24
+},
+{
+"id": 62875,
+"en": "It's not logical.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 17
+},
+{
+"id": 62876,
+"en": "Crush's are rough...",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 20
+},
+{
+"id": 62877,
+"en": "Whatever you say.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 17
+},
+{
+"id": 62878,
+"en": "What are you sayin'?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 20
+},
+{
+"id": 62879,
+"en": "Get real.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 9
+},
+{
+"id": 62880,
+"en": "Now...",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 6
+},
+{
+"id": 62881,
+"en": "Ugh.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 4
+},
+{
+"id": 62882,
+"en": "That would be so gross.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 23
+},
+{
+"id": 62883,
+"en": "Okay, stop, please.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 19
+},
+{
+"id": 62884,
+"en": "No, look, look!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 15
+},
+{
+"id": 62885,
+"en": "We can't do that.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 17
+},
+{
+"id": 62886,
+"en": "Let's grab a drink.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 19
+},
+{
+"id": 62887,
+"en": "I'm tired of walking.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 21
+},
+{
+"id": 62888,
+"en": "Let's eat here tonight.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 23
+},
+{
+"id": 62889,
+"en": "Cool by me.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 11
+},
+{
+"id": 62890,
+"en": "Gotta get nice and hungry.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 26
+},
+{
+"id": 62891,
+"en": "Sorry, bad reception.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 21
+},
+{
+"id": 62892,
+"en": "Need anything from the store?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 29
+},
+{
+"id": 62893,
+"en": "Sorry! Did you wait long?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 25
+},
+{
+"id": 62894,
+"en": "Why didn't you call?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 20
+},
+{
+"id": 62895,
+"en": "This one's funny.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 17
+},
+{
+"id": 62896,
+"en": "Wanna hit the batting center?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 29
+},
+{
+"id": 62897,
+"en": "I'm good, you know.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 19
+},
+{
+"id": 62898,
+"en": "Okay, that's settled.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 21
+},
+{
+"id": 62899,
+"en": "Not much for it!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 16
+},
+{
+"id": 62900,
+"en": "ARff>",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 5
+},
+{
+"id": 62901,
+"en": "Come on, somebody fight me...",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 29
+},
+{
+"id": 62902,
+"en": "Any Victory Road competitors around here?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 41
+},
+{
+"id": 62903,
+"en": "What's taking so long?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 22
+},
+{
+"id": 62904,
+"en": "Motherfucker!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 13
+},
+{
+"id": 62905,
+"en": "Ka-cluck! Squawk!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 17
+},
+{
+"id": 62906,
+"en": "Don't you run now...",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 20
+},
+{
+"id": 62907,
+"en": "What's he doing?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 16
+},
+{
+"id": 62908,
+"en": "Hurry up and catch it!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 22
+},
+{
+"id": 62909,
+"en": "Is that a chicken!?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 19
+},
+{
+"id": 62910,
+"en": "This is not happening!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 22
+},
+{
+"id": 62911,
+"en": "What to do with you...",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 22
+},
+{
+"id": 62912,
+"en": "Who would want this cock...?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 28
+},
+{
+"id": 62913,
+"en": "Which should I pick?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 20
+},
+{
+"id": 62914,
+"en": "Did you hear?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 13
+},
+{
+"id": 62915,
+"en": "I'm out of shape...",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 19
+},
+{
+"id": 62916,
+"en": "Let's go to the batting center.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 31
+},
+{
+"id": 62917,
+"en": "It doesn't make sense.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 22
+},
+{
+"id": 62918,
+"en": "I'm looking for work...",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 23
+},
+{
+"id": 62919,
+"en": "What a strange-looking guy...",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 29
+},
+{
+"id": 62920,
+"en": "Something about him...",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 22
+},
+{
+"id": 62921,
+"en": "That old bitch...",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 17
+},
+{
+"id": 62922,
+"en": "Uno Acupuncture Clinic...",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 25
+},
+{
+"id": 62923,
+"en": "That gave me a scare.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 21
+},
+{
+"id": 62924,
+"en": "The Port of Nagoya...",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 21
+},
+{
+"id": 62925,
+"en": "You picked up Prize Tickets.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 28
+},
+{
+"id": 62926,
+"en": "Watch it!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 9
+},
+{
+"id": 62927,
+"en": "The heck...?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 12
+},
+{
+"id": 62928,
+"en": "Huh? Whoa!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 10
+},
+{
+"id": 62929,
+"en": "Isn't that Michiru?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 19
+},
+{
+"id": 62930,
+"en": "Michiru! I want him!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 20
+},
+{
+"id": 62931,
+"en": "What's the rush?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 16
+},
+{
+"id": 62932,
+"en": "Is that a celebrity...?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 23
+},
+{
+"id": 62933,
+"en": "Get that guy!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 13
+},
+{
+"id": 62934,
+"en": "Watch out now.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 14
+},
+{
+"id": 62935,
+"en": "Why the rush?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 13
+},
+{
+"id": 62936,
+"en": "Ooh, a chase scene.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 19
+},
+{
+"id": 62937,
+"en": "What is that?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 13
+},
+{
+"id": 62938,
+"en": "He's chasing a chicken...",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 25
+},
+{
+"id": 62939,
+"en": "How cute!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 9
+},
+{
+"id": 62940,
+"en": "Well that's unusual.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 20
+},
+{
+"id": 62941,
+"en": "Get that bird!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 14
+},
+{
+"id": 62942,
+"en": "I'm sleepy.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 11
+},
+{
+"id": 62943,
+"en": "Careful!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 8
+},
+{
+"id": 62944,
+"en": "You can do it!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 14
+},
+{
+"id": 62945,
+"en": "That was close.",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 15
+},
+{
+"id": 62946,
+"en": "Hey, asshole!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 13
+},
+{
+"id": 62947,
+"en": "Will something light do?",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 24
+},
+{
+"id": 62948,
+"en": "But I need to find a guy first!",
+"ctx": "frase de acompañante/calle STID_ST_NAGOYA",
+"max": 31
+},
+{
+"id": 62949,
+"en": "Uncle Kaz! Let's play pool!",
+"ctx": "frase de acompañante/calle STID_ST_N_BAR",
+"max": 27
+},
+{
+"id": 62950,
+"en": "ArmsID",
+"ctx": "frase de acompañante/calle STID_ST_N_BAR + frase de acompañante/calle STID_ST_O_STIJL",
+"max": 6
+},
+{
+"id": 62951,
+"en": "I wonder where Ta-chan is...",
+"ctx": "frase de acompañante/calle STID_ST_N_BATTING",
+"max": 28
+},
+{
+"id": 62952,
+"en": "What's taking Ta-chan?",
+"ctx": "frase de acompañante/calle STID_ST_N_BATTING",
+"max": 22
+},
+{
+"id": 62953,
+"en": "!\nHey there, Ta-chan!",
+"ctx": "frase de acompañante/calle STID_ST_N_BATTING",
+"max": 21
+},
+{
+"id": 62954,
+"en": "Watch the ball carefully.",
+"ctx": "frase de acompañante/calle STID_ST_N_BATTING",
+"max": 25
+},
+{
+"id": 62955,
+"en": "Get the timing right.",
+"ctx": "frase de acompañante/calle STID_ST_N_BATTING",
+"max": 21
+},
+{
+"id": 62956,
+"en": "Strike with the center of the bat.",
+"ctx": "frase de acompañante/calle STID_ST_N_BATTING",
+"max": 34
+},
+{
+"id": 62957,
+"en": "How do I do this?",
+"ctx": "frase de acompañante/calle STID_ST_N_BATTING",
+"max": 17
+},
+{
+"id": 62958,
+"en": "You'll do it next time! I know you will!",
+"ctx": "frase de acompañante/calle STID_ST_N_CLUBSEGA",
+"max": 40
+},
+{
+"id": 62959,
+"en": "Uncle Kaz! Play <Color:8>Taiko No Tatsujin<Color:Default>!",
+"ctx": "frase de acompañante/calle STID_ST_N_CLUBSEGA",
+"max": 58
+},
+{
+"id": 62960,
+"en": "I want a <Color:8>Grilled Onigiri with Miso<Color:Default>!",
+"ctx": "frase de acompañante/calle STID_ST_N_CONV",
+"max": 59
+},
+{
+"id": 62961,
+"en": "Takasugi-san! I'll buy us some time. You go on ahead!",
+"ctx": "frase de acompañante/calle STID_ST_N_FUTOU",
+"max": 53
+},
+{
+"id": 62962,
+"en": "Tch! Don't try to be a hero, man.\nYou better not go getting yourself killed!",
+"ctx": "frase de acompañante/calle STID_ST_N_FUTOU",
+"max": 77
+},
+{
+"id": 62963,
+"en": "?xi<?",
+"ctx": "frase de acompañante/calle STID_ST_N_FUTOU",
+"max": 5
+},
+{
+"id": 62964,
+"en": "Hey, Shinada! Where are you going? That's the wrong way!",
+"ctx": "frase de acompañante/calle STID_ST_N_FUTOU02",
+"max": 56
+},
+{
+"id": 62965,
+"en": "Hey, Shinada! How about a little help here instead of rushing on ahead?",
+"ctx": "frase de acompañante/calle STID_ST_N_FUTOU02",
+"max": 71
+},
+{
+"id": 62966,
+"en": "Aww, I wanted some...",
+"ctx": "frase de acompañante/calle STID_ST_N_YAKU",
+"max": 21
+},
+{
+"id": 62967,
+"en": "I need some <Color:8>Tauriner<Color:Default>!",
+"ctx": "frase de acompañante/calle STID_ST_N_YAKU",
+"max": 45
+},
+{
+"id": 62968,
+"en": "None can halt time's inexorable march!",
+"ctx": "frase de acompañante/calle STID_ST_OSAKA",
+"max": 38
+},
+{
+"id": 62969,
+"en": "Carbonated drinks are the future!",
+"ctx": "frase de acompañante/calle STID_ST_OSAKA",
+"max": 33
+},
+{
+"id": 62970,
+"en": "Who's to say what's real effort and what's not?",
+"ctx": "frase de acompañante/calle STID_ST_OSAKA",
+"max": 47
+},
+{
+"id": 62971,
+"en": "There are seedless grapes, but no boneless fish!",
+"ctx": "frase de acompañante/calle STID_ST_OSAKA",
+"max": 48
+},
+{
+"id": 62972,
+"en": "What age do you stop being young!?",
+"ctx": "frase de acompañante/calle STID_ST_OSAKA",
+"max": 34
+},
+{
+"id": 62973,
+"en": "Where does a river end and the ocean begin!?",
+"ctx": "frase de acompañante/calle STID_ST_OSAKA",
+"max": 44
+},
+{
+"id": 62974,
+"en": "Carry eggs in a bicycle basket at your own risk!",
+"ctx": "frase de acompañante/calle STID_ST_OSAKA",
+"max": 48
+},
+{
+"id": 62975,
+"en": "What the heck's Italian!?",
+"ctx": "frase de acompañante/calle STID_ST_OSAKA",
+"max": 25
+},
+{
+"id": 62976,
+"en": "We should eat the polar ice caps before they melt!",
+"ctx": "frase de acompañante/calle STID_ST_OSAKA",
+"max": 50
+},
+{
+"id": 62977,
+"en": "You're a menace to society!",
+"ctx": "frase de acompañante/calle STID_ST_OSAKA",
+"max": 27
+}
+]

@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_kh9",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    90,
+    163,
+    418,
+    230
+   ],
+   "en": "Arcade date",
+   "ocr": "Arcade dateM",
+   "es": "Cita en el arcade",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 324
+  }
+ ]
+}

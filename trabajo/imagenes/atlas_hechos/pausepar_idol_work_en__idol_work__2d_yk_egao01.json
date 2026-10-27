@@ -1,0 +1,59 @@
+{
+ "textura": "pausepar_idol_work_en/idol_work/2d_yk_egao01",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    84,
+    78,
+    122,
+    101
+   ],
+   "en": "to",
+   "ocr": "to1",
+   "es": "para",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 34,
+   "dejar": true
+  },
+  {
+   "caja": [
+    108,
+    73,
+    184,
+    103
+   ],
+   "en": "See You",
+   "ocr": "SeeYou",
+   "es": "Hasta luego",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 72,
+   "dejar": true
+  },
+  {
+   "caja": [
+    51,
+    85,
+    93,
+    116
+   ],
+   "en": "love",
+   "ocr": "ove",
+   "es": "Amor",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 38,
+   "dejar": true
+  }
+ ]
+}

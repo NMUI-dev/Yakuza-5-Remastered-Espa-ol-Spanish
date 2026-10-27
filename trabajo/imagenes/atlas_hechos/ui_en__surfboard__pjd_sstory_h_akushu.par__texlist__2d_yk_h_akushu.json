@@ -1,0 +1,110 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_h_akushu.par/texlist/2d_yk_h_akushu",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    153,
+    140,
+    173
+   ],
+   "en": "Satisfaction",
+   "es": "Satisfacción",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     240,
+     240,
+     240
+    ],
+    "contorno": [
+     [
+      20,
+      20,
+      30
+     ],
+     2
+    ],
+    "brillo": null
+   },
+   "alin": "izq",
+   "ancho_max": 134
+  },
+  {
+   "caja": [
+    0,
+    173,
+    190,
+    194
+   ],
+   "en": "\"Wait a Moment\" Smile",
+   "es": "Sonrisa \"Un momento\"",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 184,
+   "estilo": {
+    "arriba": [
+     215,
+     250,
+     255
+    ],
+    "abajo": [
+     190,
+     235,
+     250
+    ],
+    "contorno": [
+     [
+      15,
+      40,
+      50
+     ],
+     1
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    54,
+    409,
+    236,
+    436
+   ],
+   "en": "Hold down button",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 176,
+   "alto": 14,
+   "dejar": true
+  },
+  {
+   "caja": [
+    54,
+    433,
+    236,
+    453
+   ],
+   "en": "to shake hands",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 176,
+   "alto": 14,
+   "dejar": true
+  }
+ ]
+}

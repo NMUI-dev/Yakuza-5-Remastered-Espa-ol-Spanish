@@ -1,0 +1,852 @@
+[
+{
+"id": 23102,
+"en": "Do you remember where you saw them?",
+"ctx": "diálogo uid000d01a0"
+},
+{
+"id": 23103,
+"en": "Pretty sure they were hangin' out right in the middle of Nagasu Boulevard.",
+"ctx": "diálogo uid000d01a0"
+},
+{
+"id": 23104,
+"en": "Understood. Thanks for your time.",
+"ctx": "diálogo uid000d01a0"
+},
+{
+"id": 23105,
+"en": "Sure thing. Just, stay safe out there, okay?",
+"ctx": "diálogo uid000d01a0"
+},
+{
+"id": 23106,
+"en": "Huh. Wonder if they were Yahata Family...",
+"ctx": "diálogo uid000d01a1"
+},
+{
+"id": 23107,
+"en": "Sorry, did you just say Yahata? Did you see them?",
+"ctx": "diálogo uid000d01a1"
+},
+{
+"id": 23108,
+"en": "Pretty sure, yeah. They were wearing those awful red tracksuits and everythin'.",
+"ctx": "diálogo uid000d01a1"
+},
+{
+"id": 23109,
+"en": "Where were they?",
+"ctx": "diálogo uid000d01a1 + diálogo uid000d01a5 …"
+},
+{
+"id": 23110,
+"en": "Standin' smack-dab in the middle of Nagasu Boulevard. Can't say why.",
+"ctx": "diálogo uid000d01a1"
+},
+{
+"id": 23111,
+"en": "Got it, thanks.",
+"ctx": "diálogo uid000d01a1"
+},
+{
+"id": 23112,
+"en": "Hey, you aren't thinkin' about goin' after them, are ya? That's a one-way street to a hospital bed, if y'ask me.",
+"ctx": "diálogo uid000d01a1"
+},
+{
+"id": 23113,
+"en": "Boy, I know they're bad news, but those Yahata Family guys sure look cool in their red tracksuits...",
+"ctx": "diálogo uid000d01a2"
+},
+{
+"id": 23114,
+"en": "Did you see some Yahata Family crew around here?",
+"ctx": "diálogo uid000d01a2 + diálogo uid000d01a5"
+},
+{
+"id": 23115,
+"en": "Yeah. They were at the east end of Modern Street, where it meets the river.",
+"ctx": "diálogo uid000d01a2"
+},
+{
+"id": 23116,
+"en": "I see. Thanks.",
+"ctx": "diálogo uid000d01a2"
+},
+{
+"id": 23117,
+"en": "Who are those people in the red tracksuits?",
+"ctx": "diálogo uid000d01a3"
+},
+{
+"id": 23118,
+"en": "There must be some kind of event going on. One of those hero shows for kids, maybe. It's just a costume.",
+"ctx": "diálogo uid000d01a3"
+},
+{
+"id": 23119,
+"en": "Excuse me. Did you say you saw some people wearing red tracksuits?",
+"ctx": "diálogo uid000d01a3"
+},
+{
+"id": 23120,
+"en": "Yes, that's right. Is there a festival going on?",
+"ctx": "diálogo uid000d01a3"
+},
+{
+"id": 23121,
+"en": "Hardly. They're yakuza, so you should keep your distance. Can you tell me where you saw them?",
+"ctx": "diálogo uid000d01a3"
+},
+{
+"id": 23122,
+"en": "Yakuza!? Oh my! I did wonder why they looked so scary. So it wasn't a kid's event, then?",
+"ctx": "diálogo uid000d01a3"
+},
+{
+"id": 23123,
+"en": "They were on the east end of... I think it's called New Street? Modern Street? Something like that.",
+"ctx": "diálogo uid000d01a3"
+},
+{
+"id": 23124,
+"en": "I'll figure it out. Thanks.",
+"ctx": "diálogo uid000d01a3"
+},
+{
+"id": 23125,
+"en": "Not a problem!",
+"ctx": "diálogo uid000d01a3 + frase de acompañante/calle STID_ST_KAMURO"
+},
+{
+"id": 23126,
+"en": "Let's go home. I'm telling ya, it's dangerous.",
+"ctx": "diálogo uid000d01a4"
+},
+{
+"id": 23127,
+"en": "Oh, c'mon. It's the Yahata Family! Y'don't get to see real yakuza every day. Let's go look!",
+"ctx": "diálogo uid000d01a4"
+},
+{
+"id": 23128,
+"en": "But what if they come after us!?",
+"ctx": "diálogo uid000d01a4"
+},
+{
+"id": 23129,
+"en": "Did you just say something about the Yahata Family?",
+"ctx": "diálogo uid000d01a4"
+},
+{
+"id": 23130,
+"en": "Eep! Please don't hurt me!",
+"ctx": "diálogo uid000d01a4"
+},
+{
+"id": 23131,
+"en": "Calm down. I just want to know where they were.",
+"ctx": "diálogo uid000d01a4"
+},
+{
+"id": 23132,
+"en": "On the east side of town, way down at the end of Chikuzengawa Street.",
+"ctx": "diálogo uid000d01a4"
+},
+{
+"id": 23133,
+"en": "Got it. Thanks.",
+"ctx": "diálogo uid000d01a4"
+},
+{
+"id": 23134,
+"en": "...Phew, that just about scared the soul outta me.",
+"ctx": "diálogo uid000d01a4"
+},
+{
+"id": 23135,
+"en": "I guess those were Yahata Family men...",
+"ctx": "diálogo uid000d01a5"
+},
+{
+"id": 23136,
+"en": "Huh? Yeah. They were wearing their usual getup, so I'm pretty sure.",
+"ctx": "diálogo uid000d01a5"
+},
+{
+"id": 23137,
+"en": "Down at the south end of Chikuzengawa Street.",
+"ctx": "diálogo uid000d01a5"
+},
+{
+"id": 23138,
+"en": "I see. Thanks for your time.",
+"ctx": "diálogo uid000d01a5"
+},
+{
+"id": 23139,
+"en": "Those fucking Yahata Family punks, walking around like they own the place.",
+"ctx": "diálogo uid000d01a6"
+},
+{
+"id": 23140,
+"en": "Did you see some Yahata Family crew around?",
+"ctx": "diálogo uid000d01a6"
+},
+{
+"id": 23141,
+"en": "Yeah, that's right. What's it to you?",
+"ctx": "diálogo uid000d01a6"
+},
+{
+"id": 23142,
+"en": "Down at the south end of Chikuzengawa Street. Don't tell me you run with them, too.",
+"ctx": "diálogo uid000d01a6"
+},
+{
+"id": 23143,
+"en": "Don't worry, I don't. Thanks for your help.",
+"ctx": "diálogo uid000d01a6"
+},
+{
+"id": 23144,
+"en": "It looks like all the yakuza left town, and outta the blue, too.",
+"ctx": "diálogo uid000d01a7"
+},
+{
+"id": 23145,
+"en": "What's goin' on? Maybe they're all going somewhere for somethin'.",
+"ctx": "diálogo uid000d01a7"
+},
+{
+"id": 23146,
+"en": "Man, that was amazin'. Never seen that many fancy black cars in a row.",
+"ctx": "diálogo uid000d01a8"
+},
+{
+"id": 23147,
+"en": "I wonder where they were going. Maybe they were shootin' a commercial or something.",
+"ctx": "diálogo uid000d01a8"
+},
+{
+"id": 23148,
+"en": "The year's over already. Time flies, huh?",
+"ctx": "diálogo uid000d01bc"
+},
+{
+"id": 23149,
+"en": "Yeah. I guess it's already more than six months since Deputy Police Commissioner Munakata's suicide.",
+"ctx": "diálogo uid000d01bc"
+},
+{
+"id": 23150,
+"en": "Huh? I don't remember that.",
+"ctx": "diálogo uid000d01bc"
+},
+{
+"id": 23151,
+"en": "This year's been a disaster for the Tojo Clan.",
+"ctx": "diálogo uid000d01bd"
+},
+{
+"id": 23152,
+"en": "Yeah. Taken unawares by a minor group like the Ueno Seiwa Clan and all that. Guess the shine's starting to come off their outfit.",
+"ctx": "diálogo uid000d01bd"
+},
+{
+"id": 23153,
+"en": "Well, that just gives us a chance to claw our way up, huh?",
+"ctx": "diálogo uid000d01bd"
+},
+{
+"id": 23154,
+"en": "Yeah. Things could start heating up soon.",
+"ctx": "diálogo uid000d01bd"
+},
+{
+"id": 23155,
+"en": "The Tojo Sixth Chairman ain't all that, huh?",
+"ctx": "diálogo uid000d01be"
+},
+{
+"id": 23156,
+"en": "Yeah. He came in with the backin' of the fourth chairman, but after his weak-ass handlin' of the Ueno thing, I'm guessin' he's outta his depth.",
+"ctx": "diálogo uid000d01be"
+},
+{
+"id": 23157,
+"en": "Ain't that the truth? Guess we gotta rethink our positions, too.",
+"ctx": "diálogo uid000d01be"
+},
+{
+"id": 23158,
+"en": "Another year over. What were the big news stories this year, Ma-kun?",
+"ctx": "diálogo uid000d01bf"
+},
+{
+"id": 23159,
+"en": "Let me see... I guess that money that came raining down from Millennium Tower was the biggest headline.",
+"ctx": "diálogo uid000d01bf"
+},
+{
+"id": 23160,
+"en": "Oh yeah! That was the day we had our first date, wasn't it? It was almost like the gods were sending us a sign. So romantic, wasn't it?",
+"ctx": "diálogo uid000d01bf"
+},
+{
+"id": 23161,
+"en": "Sure. Watching you crawling around scraping up 10,000 yen bills like an animal left quite the impression...",
+"ctx": "diálogo uid000d01bf"
+},
+{
+"id": 23162,
+"en": "I drank way too much. I need a workout to sober up.",
+"ctx": "diálogo uid000d01c1"
+},
+{
+"id": 23163,
+"en": "Batting center might be good for that. It's just over in the Hotel District.",
+"ctx": "diálogo uid000d01c1"
+},
+{
+"id": 23164,
+"en": "That new guy, Kugihara, is just straight-up crazy.",
+"ctx": "diálogo uid000d01c2"
+},
+{
+"id": 23165,
+"en": "I got up to my fair share of mischief to get put away in here, but I bet he did worse.",
+"ctx": "diálogo uid000d01c2"
+},
+{
+"id": 23166,
+"en": "That guy Kugihara didn't waste any time finding himself a crew. He's got quite a following.",
+"ctx": "diálogo uid000d01c3"
+},
+{
+"id": 23167,
+"en": "I wonder if it's all his own doing, or something he planned from the beginning. Best to keep an eye on that one, I reckon.",
+"ctx": "diálogo uid000d01c3"
+},
+{
+"id": 23168,
+"en": "That fucking Deputy Warden Kosaka denied my parole request!",
+"ctx": "diálogo uid000d01c4"
+},
+{
+"id": 23169,
+"en": "What the hell did I do wrong!? That bastard screwed me over!",
+"ctx": "diálogo uid000d01c4"
+},
+{
+"id": 23170,
+"en": "You made a name for yourself on the outside, but that don't mean shit in here.",
+"ctx": "diálogo uid000d01c5"
+},
+{
+"id": 23171,
+"en": "The deputy warden, Kosaka, hates yakuza with a passion. With all you've been up to, you're public enemy number one in his eyes. Heheh.",
+"ctx": "diálogo uid000d01c5"
+},
+{
+"id": 23172,
+"en": "Exercise time again. If I have to stay outside dressed like this much longer, I'm going to freeze to death!",
+"ctx": "diálogo uid000d01c6"
+},
+{
+"id": 23173,
+"en": "Fucking exercise time! The cold'll be the death of me if I have to stay out here.",
+"ctx": "diálogo uid000d01c6"
+},
+{
+"id": 23174,
+"en": "Terrible food, biting cold, and cellmates you can't trust as far as you can throw.",
+"ctx": "diálogo uid000d01c7"
+},
+{
+"id": 23175,
+"en": "I know I only have myself to blame, but this is hell on Earth.",
+"ctx": "diálogo uid000d01c7"
+},
+{
+"id": 23176,
+"en": "Still, I guess it's better than Okinawa Penitentiary No. 2. Hah. Now I'm comparing it to some place that might not even exist.",
+"ctx": "diálogo uid000d01c7"
+},
+{
+"id": 23177,
+"en": "Even in here, some guys find a way to smoke. I guess that shows there's cracks in the system.",
+"ctx": "diálogo uid000d01c8"
+},
+{
+"id": 23178,
+"en": "All sorts of items and information slip through.",
+"ctx": "diálogo uid000d01c8"
+},
+{
+"id": 23179,
+"en": "This is too much. I've been dreaming of gourmet dinners every night. Then I wake up to whatever this is.",
+"ctx": "diálogo uid000d01c9"
+},
+{
+"id": 23180,
+"en": "Maybe I'll get used to it.",
+"ctx": "diálogo uid000d01c9"
+},
+{
+"id": 23181,
+"en": "They say the road into town is finally clear.",
+"ctx": "diálogo uid000d01d5"
+},
+{
+"id": 23182,
+"en": "There's no reason for you to stay here now. You should get out of here as soon as you can.",
+"ctx": "diálogo uid000d01d5"
+},
+{
+"id": 23183,
+"en": "You're the one Okudera-san brought back, huh?",
+"ctx": "diálogo uid000d01d5"
+},
+{
+"id": 23184,
+"en": "Normally I'd tell you to move on as soon as you can, but the road into town is closed because of the snow.",
+"ctx": "diálogo uid000d01d5"
+},
+{
+"id": 23185,
+"en": "You just stay out of trouble until the road is clear, now. No idea how long that'll take, though.",
+"ctx": "diálogo uid000d01d5"
+},
+{
+"id": 23186,
+"en": "You're that guy staying with Okudera-san, right?",
+"ctx": "diálogo uid000d01d6"
+},
+{
+"id": 23187,
+"en": "Why'd you come up to the mountains? You don't look like you came to hunt. Nobody in the village has seen you before, either.",
+"ctx": "diálogo uid000d01d6"
+},
+{
+"id": 23188,
+"en": "Uh, I usually hunt in a different area.",
+"ctx": "diálogo uid000d01d6"
+},
+{
+"id": 23189,
+"en": "No kidding? Well, the road is snowed over, so you're stuck here for a while.",
+"ctx": "diálogo uid000d01d6"
+},
+{
+"id": 23190,
+"en": "We don't have TV, there's no radio reception, and we don't get newspapers. You'll probably be bored out of your skull, but just sit tight.",
+"ctx": "diálogo uid000d01d6"
+},
+{
+"id": 23191,
+"en": "Okay. Got it.",
+"ctx": "diálogo uid000d01d6 + diálogo uid001302db …"
+},
+{
+"id": 23192,
+"en": "(No TV or newspapers, huh? Lucky for me. The prison break's probably all over the news.)",
+"ctx": "diálogo uid000d01d6"
+},
+{
+"id": 23193,
+"en": "There are cops everywhere. Is all this just 'cause someone broke out of prison? Ugh. Wish they'd lower our taxes if they're just gonna waste their money on this circus.",
+"ctx": "diálogo uid000d01ec"
+},
+{
+"id": 23194,
+"en": "There are so many policemen around. I wonder what happened...",
+"ctx": "diálogo uid000d01ed"
+},
+{
+"id": 23195,
+"en": "Oh, gosh, maybe there's some violent criminal lurking about... I'd better hurry home!",
+"ctx": "diálogo uid000d01ed"
+},
+{
+"id": 23196,
+"en": "I heard there's an escaped prisoner on the run.",
+"ctx": "diálogo uid000d01ee"
+},
+{
+"id": 23197,
+"en": "Seriously!? This is totally like a real-life action movie! No wonder the cops are out in force.",
+"ctx": "diálogo uid000d01ee"
+},
+{
+"id": 23198,
+"en": "What if the prisoner took us hostage!? Do you think my parents would pay the ransom?",
+"ctx": "diálogo uid000d01ee"
+},
+{
+"id": 23199,
+"en": "I heard there's a prisoner on the loose. You don't think they'd cancel the snow festival because of that, do you!?",
+"ctx": "diálogo uid000d01ef"
+},
+{
+"id": 23200,
+"en": "I'm trying to get my boyfriend to propose to me there. I hope they get that prisoner behind bars again soon!",
+"ctx": "diálogo uid000d01ef"
+},
+{
+"id": 23201,
+"en": "Damn, the economy is in a bad way. All my old haunts are shutting down one by one.",
+"ctx": "diálogo uid000d01f0"
+},
+{
+"id": 23202,
+"en": "That bar across the street, Polaris? One of my absolute favorites.",
+"ctx": "diálogo uid000d01f0"
+},
+{
+"id": 23203,
+"en": "And now, it's gone. Whole building, empty as my heart. This town is falling apart.",
+"ctx": "diálogo uid000d01f0"
+},
+{
+"id": 23204,
+"en": "Where's a good place to get a drink around here?",
+"ctx": "diálogo uid000d01f1"
+},
+{
+"id": 23205,
+"en": "Let me see... There's a nice bar called Ambitious over on Lavender Street.",
+"ctx": "diálogo uid000d01f1"
+},
+{
+"id": 23206,
+"en": "They have dart boards and a pool table, too. I love the atmosphere over there.",
+"ctx": "diálogo uid000d01f1"
+},
+{
+"id": 23207,
+"en": "That sounds good. I'll give it a try!",
+"ctx": "diálogo uid000d01f1"
+},
+{
+"id": 23208,
+"en": "Did ya see round two?",
+"ctx": "diálogo uid000d01f5"
+},
+{
+"id": 23209,
+"en": "'Course I did! Haruka Sawamura won, huh? I thought she just faked her way in, but she might actually have a shot.",
+"ctx": "diálogo uid000d01f5"
+},
+{
+"id": 23210,
+"en": "Yeah, she aced it! Who's gonna win the final round, though!? Man, how am I supposed to focus on homework when this stuff's goin on!?",
+"ctx": "diálogo uid000d01f5"
+},
+{
+"id": 23211,
+"en": "Not like you were gonna do that homework, anyway. I feel you, though.",
+"ctx": "diálogo uid000d01f5"
+},
+{
+"id": 23212,
+"en": "'Course I did! I knew T-Set'd take it. Haruka Sawamura did okay, but wasn't quite as polished, y'know?",
+"ctx": "diálogo uid000d01f5"
+},
+{
+"id": 23213,
+"en": "I guess the next one's the last one. How'm I supposed to get my homework done when this stuff's goin' on!?",
+"ctx": "diálogo uid000d01f5"
+},
+{
+"id": 23214,
+"en": "So the P. League finals started, huh?",
+"ctx": "diálogo uid000d01f5"
+},
+{
+"id": 23215,
+"en": "Oh, the Princess League? Yeah, I saw that. Haruka Sawamura took the win. I was sure T-Set was gonna blow her away.",
+"ctx": "diálogo uid000d01f5"
+},
+{
+"id": 23216,
+"en": "Ya think she's actually got a shot at winnin'?",
+"ctx": "diálogo uid000d01f5"
+},
+{
+"id": 23217,
+"en": "Nah, I doubt it. I still get the feelin' T-Set'll come out on top in the end.",
+"ctx": "diálogo uid000d01f5"
+},
+{
+"id": 23218,
+"en": "Oh, the Princess League? Yeah, I saw that. Haruka Sawamura took the win. T-Set's gonna be pretty hard to beat.",
+"ctx": "diálogo uid000d01f5"
+},
+{
+"id": 23219,
+"en": "But there's two more rounds, so Haruka Sawamura's still got a shot, right?",
+"ctx": "diálogo uid000d01f5"
+},
+{
+"id": 23220,
+"en": "Did ya see the Princess League the other day? The competition's gettin' pretty fierce!",
+"ctx": "diálogo uid000d01f5"
+},
+{
+"id": 23221,
+"en": "Yeah, that was crazy. I was sure Haruka Sawamura was gonna lose, but she pulled a big comeback at the end.",
+"ctx": "diálogo uid000d01f5"
+},
+{
+"id": 23222,
+"en": "It's the finals next, right? Think she's gonna win the whole thing?",
+"ctx": "diálogo uid000d01f5"
+},
+{
+"id": 23223,
+"en": "Oh, come on. It's gotta be T-Set. No way they're gonna lose.",
+"ctx": "diálogo uid000d01f5"
+},
+{
+"id": 23224,
+"en": "What did you think of round two?",
+"ctx": "diálogo uid000d01f6"
+},
+{
+"id": 23225,
+"en": "Heh, the one your \"future wife\" Sawamura-san was in? She sure put on a fine performance.",
+"ctx": "diálogo uid000d01f6"
+},
+{
+"id": 23226,
+"en": "Hell yeah she did! And your future wives were the girls of T-Set, if I'm remembering right. They did good, too. Almost enough to win me over.",
+"ctx": "diálogo uid000d01f6"
+},
+{
+"id": 23227,
+"en": "Ha ha, very funny. You know it's gonna be my lovely T-Set that seals the deal in the end, though.",
+"ctx": "diálogo uid000d01f6"
+},
+{
+"id": 23228,
+"en": "Was that supposed to be a joke? 'Cause it wasn't very funny. Man, I can see it already... My precious Haruka, basking in glorious victory...",
+"ctx": "diálogo uid000d01f6"
+},
+{
+"id": 23229,
+"en": "Hehehe...",
+"ctx": "diálogo uid000d01f6 + diálogo uid01021198 …"
+},
+{
+"id": 23230,
+"en": "Hahaha...",
+"ctx": "diálogo uid000d01f6"
+},
+{
+"id": 23231,
+"en": "Heh, the one your \"future wife\" Sawamura-san was in? She put up a good fight against my lovely T-Set. So close, and yet so far.",
+"ctx": "diálogo uid000d01f6"
+},
+{
+"id": 23232,
+"en": "Heh, ain't that the truth. I didn't expect your T-Set to push my lovely wife Haruka aside... But mark my words, she will take the win in the end.",
+"ctx": "diálogo uid000d01f6"
+},
+{
+"id": 23233,
+"en": "Did ya see the Princess League finals?",
+"ctx": "diálogo uid000d01f6"
+},
+{
+"id": 23234,
+"en": "Yeah, Haruka Sawamura won, right?",
+"ctx": "diálogo uid000d01f6"
+},
+{
+"id": 23235,
+"en": "That's my girl! She's really got a shot now.",
+"ctx": "diálogo uid000d01f6"
+},
+{
+"id": 23236,
+"en": "Ya think? I've still got my money on T-Set. They just had a minor slip-up this time, that's all.",
+"ctx": "diálogo uid000d01f6"
+},
+{
+"id": 23237,
+"en": "No way, Haruka's got it clinched! Man, my future wife's gonna make her major debut... I should start thinking about how to pop the question.",
+"ctx": "diálogo uid000d01f6"
+},
+{
+"id": 23238,
+"en": "Yeah, T-Set brought it home, huh?",
+"ctx": "diálogo uid000d01f6"
+},
+{
+"id": 23239,
+"en": "But my Haruka's gonna make a comeback!",
+"ctx": "diálogo uid000d01f6"
+},
+{
+"id": 23240,
+"en": "Ya think? I'm sure T-Set's gonna nail it. Haruka's just been lucky, and that luck's about to run out.",
+"ctx": "diálogo uid000d01f6"
+},
+{
+"id": 23241,
+"en": "Whaddya mean? Haruka's gonna own it! No doubt!",
+"ctx": "diálogo uid000d01f6"
+},
+{
+"id": 23242,
+"en": "Did ya see the Princess League the other day?",
+"ctx": "diálogo uid000d01f6"
+},
+{
+"id": 23243,
+"en": "Yeah. Got a glimpse of Haruka's bra for a sec.",
+"ctx": "diálogo uid000d01f6"
+},
+{
+"id": 23244,
+"en": "No way! Seriously? I hadn't heard about that.",
+"ctx": "diálogo uid000d01f6"
+},
+{
+"id": 23245,
+"en": "Look it up online. Everyone's talking 'bout it. Yeah, that's gotta be her bra, all right.",
+"ctx": "diálogo uid000d01f6"
+},
+{
+"id": 23246,
+"en": "I don't believe it! They're sullyin' my future wife's perfect image! Better check it out myself, just to make sure they're not tellin' lies about her...",
+"ctx": "diálogo uid000d01f6"
+},
+{
+"id": 23247,
+"en": "Did you watch the P. League, Chikamura-san?",
+"ctx": "diálogo uid000d01f7"
+},
+{
+"id": 23248,
+"en": "P. League? Oh, the Princess League? Yeah, I did. They were dancin' like maniacs.",
+"ctx": "diálogo uid000d01f7"
+},
+{
+"id": 23249,
+"en": "Well, the dancin's part of the performance, ya know.",
+"ctx": "diálogo uid000d01f7"
+},
+{
+"id": 23250,
+"en": "My daughter's too caught up in the excitement to get her homework done. Not like she was ever good at getting it done before...",
+"ctx": "diálogo uid000d01f7"
+},
+{
+"id": 23251,
+"en": "No kidding...",
+"ctx": "diálogo uid000d01f7"
+},
+{
+"id": 23252,
+"en": "Man, my daughter was buggin' me to watch that princess thing, so I finally sat down and caught an episode.",
+"ctx": "diálogo uid000d01f7"
+},
+{
+"id": 23253,
+"en": "The P. League?",
+"ctx": "diálogo uid000d01f7"
+},
+{
+"id": 23254,
+"en": "What's the P. League?",
+"ctx": "diálogo uid000d01f7"
+},
+{
+"id": 23255,
+"en": "It's short for Princess League. How'd you like it?",
+"ctx": "diálogo uid000d01f7"
+},
+{
+"id": 23256,
+"en": "Well, it was all a bit much for me. Girls these days dress up too flashy for my likin'.",
+"ctx": "diálogo uid000d01f7"
+},
+{
+"id": 23257,
+"en": "Really? Which of the competitors was more your type?",
+"ctx": "diálogo uid000d01f7"
+},
+{
+"id": 23258,
+"en": "What!? They're young enough to be my daughters. Don't be disgusting.",
+"ctx": "diálogo uid000d01f7"
+},
+{
+"id": 23259,
+"en": "My daughter's hooked on that princess thing on TV. Can't shut up about it.",
+"ctx": "diálogo uid000d01f7"
+},
+{
+"id": 23260,
+"en": "Oh, the P. League?",
+"ctx": "diálogo uid000d01f7"
+},
+{
+"id": 23261,
+"en": "It's short for Princess League. That's what the fans are calling it these days.",
+"ctx": "diálogo uid000d01f7"
+},
+{
+"id": 23262,
+"en": "Huh. Hard for an old guy like me to keep up. My daughter said something about a tea set?",
+"ctx": "diálogo uid000d01f7"
+},
+{
+"id": 23263,
+"en": "I think she means the group, T-Set. They're in the running to win the P. League finals.",
+"ctx": "diálogo uid000d01f7"
+},
+{
+"id": 23264,
+"en": "Win what? It's a competition? I'm gettin' too old for this shit.",
+"ctx": "diálogo uid000d01f7"
+},
+{
+"id": 23265,
+"en": "It's the last stage of the Princess League now, huh?",
+"ctx": "diálogo uid000d01f8"
+},
+{
+"id": 23266,
+"en": "Man, that stern look T-Set always has on their faces drives me crazy. I'd pay a million yen for sixty seconds of verbal abuse from those beauties...",
+"ctx": "diálogo uid000d01f8"
+},
+{
+"id": 23267,
+"en": "Too much information, bro... What about that Haruka Sawamura?",
+"ctx": "diálogo uid000d01f8"
+},
+{
+"id": 23268,
+"en": "Yeah, she's always lookin' like a wide-eyed doe. She ain't got the same cold stare. Doesn't do it for me.",
+"ctx": "diálogo uid000d01f8"
+},
+{
+"id": 23269,
+"en": "Uh... Okay, then.",
+"ctx": "diálogo uid000d01f8"
+},
+{
+"id": 23270,
+"en": "The P. League finals started, right?",
+"ctx": "diálogo uid000d01f8"
+},
+{
+"id": 23271,
+"en": "The Princess League? Those T-Set girls were shootin' some terrifying looks from the stage. Man, what I wouldn't do to spend five minutes under the soles of their boots...",
+"ctx": "diálogo uid000d01f8"
+}
+]

@@ -1,0 +1,757 @@
+[
+{
+"id": 48453,
+"en": "You're paying him to take the year off, aren't you? That way you can sign him when he re-enters the draft next year.",
+"ctx": "diálogo uid0116009a"
+},
+{
+"id": 48454,
+"en": "You know this kind of backdoor deal caused a huge stink before. I didn't think anyone was dumb enough to still try it.",
+"ctx": "diálogo uid0116009a"
+},
+{
+"id": 48455,
+"en": "So, what kind of money did you have to flash? Not just ten or twenty million, I bet.",
+"ctx": "diálogo uid0116009a"
+},
+{
+"id": 48456,
+"en": "The kid dreamed of becoming a Wyvern. I bet it took a whole lot of persuading. Maybe even something like a hundred million?",
+"ctx": "diálogo uid0116009a"
+},
+{
+"id": 48457,
+"en": "Come on, what's your problem? Let us go already!",
+"ctx": "diálogo uid0116009a"
+},
+{
+"id": 48458,
+"en": "Take me to Kurashina, then. We need to chat. Or would you\nrather start round two of getting your asses kicked?",
+"ctx": "diálogo uid0116009a"
+},
+{
+"id": 48459,
+"en": "(Oh, there's Kurashina... Who's he got with him?)",
+"ctx": "diálogo uid0116009a"
+},
+{
+"id": 48460,
+"en": "Yo, Kurashina. You done with your little talk?",
+"ctx": "diálogo uid0116009a"
+},
+{
+"id": 48461,
+"en": "Yes. It's all over. I cut off all negotiations with the Wyverns.",
+"ctx": "diálogo uid0116009a"
+},
+{
+"id": 48462,
+"en": "You did? Great! Good going. You leave the rest up to me.",
+"ctx": "diálogo uid0116009a"
+},
+{
+"id": 48463,
+"en": "Don't worry, Kurashina. You made the right choice. Signing with a lost cause like the Wyverns would only stunt your career.",
+"ctx": "diálogo uid0116009a"
+},
+{
+"id": 48464,
+"en": "Uh, right.",
+"ctx": "diálogo uid0116009a"
+},
+{
+"id": 48465,
+"en": "(What was up with that guy? Is he a scout from another team? It's time I go into stealth mode... follow 'em around for a bit!)",
+"ctx": "diálogo uid0116009a"
+},
+{
+"id": 48466,
+"en": "Hey, dipshit. Turn the fuck around.",
+"ctx": "diálogo uid0116009a"
+},
+{
+"id": 48467,
+"en": "You got a good reason for snooping around in Kurashina's affairs? Huh!?",
+"ctx": "diálogo uid0116009a"
+},
+{
+"id": 48468,
+"en": "Oh, you see, uh... Who did you say you were?",
+"ctx": "diálogo uid0116009a"
+},
+{
+"id": 48469,
+"en": "Shut up! We're the ones asking the questions, asshole!",
+"ctx": "diálogo uid0116009a"
+},
+{
+"id": 48470,
+"en": "Let me guess. You're working with the guy who walked off with Kurashina just now.",
+"ctx": "diálogo uid0116009a"
+},
+{
+"id": 48471,
+"en": "This nosy motherfucker... You better get your ass over here.\nI get the impression the folks around here won't be able to\nstomach what's about to go down.",
+"ctx": "diálogo uid0116009a"
+},
+{
+"id": 48472,
+"en": "And if I say no?",
+"ctx": "diálogo uid0116009a"
+},
+{
+"id": 48473,
+"en": "Simple. We'll cave your face in on the spot!",
+"ctx": "diálogo uid0116009a"
+},
+{
+"id": 48474,
+"en": "Tatsuo! You are okay? There is no injury?",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48475,
+"en": "Yup, I'm fine. What about you? Looks like your seaweed isn't too ruffled.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48476,
+"en": "Oui! Completely, it is your doing. Merci, Tatsuo.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48477,
+"en": "Thank you so much, Shinada-san. I wasn't prepared for this. It's my fault. I'm terribly sorry.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48478,
+"en": "Hehe, I thought it was a little too easy for such a high-paying job.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48479,
+"en": "Haha, after what happened, it might not be enough. Here is your pay, as promised.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48480,
+"en": "Woohoo, a million sure makes a hefty bundle! Or...\nwait a minute. Why is this only 4,000 yen? What\nhappened to the one million yen?",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48481,
+"en": "I said no such thing. I said a million, and meant a million Vietnamese dong, not a million yen.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48482,
+"en": "Vietnamese dong?",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48483,
+"en": "Yes, by current exchange rates, 250 Vietnamese dong is worth around one yen.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48484,
+"en": "In other words, a million Vietnamese dong is worth...",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48485,
+"en": "Four thousand yen!",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48486,
+"en": "<Italic>Four thousand yen!</Italic>",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48487,
+"en": "Four... thousand... yen!",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48488,
+"en": "You don't have to say it over and over. Damn it all!\nI got screwed by Vietnamese dong!",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48489,
+"en": "Hahaha, a million yen for an hour? You don't honestly think that much was actually on the table?",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48490,
+"en": "I guess it's only fair. I wasn't much of a tour guide, either.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48491,
+"en": "Oh, Matsuno, cheap-fisted you are like always. Money, I have not with me. So sorry, Tatsuo.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48492,
+"en": "No, no, it's all right. I got to spend time with the world's top songstress. It was fun, and I got to eat some tebasaki, too!",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48493,
+"en": "Oh, Matsuno, cheap-fisted you are like always. Money, I carry not with me.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48494,
+"en": "Tatsuo, instead, you should be accepting this.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48495,
+"en": "You got a <Color:8>Daddy Papa's Autograph<Color:Default>.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48496,
+"en": "Savior of me you are, Tatsuo. For me, you have risking your life.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48497,
+"en": "That autograph, you can be selling for good money. Today, you will be forgiving me please?",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48498,
+"en": "Haha, thanks. It's okay, though. I got to spend time with the world's top songstress. It was fun, and I got to eat some tebasaki, too!",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48499,
+"en": "When those men taking me, all the time I am thinking why I be made a victim.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48500,
+"en": "I am a big singer. A special person I am. I am thinking it is unfair I face dangerous situation and even maybe meet my end.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48501,
+"en": "But, it is a mistake. Foolish me. Desperate I was to be special. A goddess among gibbons, I fancied.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48502,
+"en": "But, big singer or no, I lack control over the throes of life and death. In the end, I am ordinary, like everyone else.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48503,
+"en": "When I saw you fighting, an epiphany I had. Seeing ordinary people be brave gives hope to the hopeless. That is what cheers them on.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48504,
+"en": "Before, I try to be writing songs to cheer on the weak. But a pit of hubris did I let myself fall into. That is where my writing failed.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48505,
+"en": "To me, you taught that, Tatsuo.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48506,
+"en": "So, this visit to Japan actually means something to you now?",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48507,
+"en": "Naturally! This visiting, it is already inspire me with new poems and music. Next time, you will please be guiding me again.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48508,
+"en": "Hey, you got it. But I gotta warn you, my rate might've gone up to <Italic>ten</Italic> million Vietnamese dong by then!",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48509,
+"en": "Very well! Goodbye, Tatsuo. I shall be returning home, but never will I be forgetting you.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48510,
+"en": "You little weasel, where'd you take Daddy Papa!?",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48511,
+"en": "Tatsuo! Aidez-moi! Rescue me!",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48512,
+"en": "What are you, her bodyguard?",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48513,
+"en": "Who are you people? You need to let her go, right now!",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48514,
+"en": "Yeah right. All we gotta do is hold this bitch ransom for a year or two, and then we'll be living like kings!",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48515,
+"en": "Tatsuooooo!",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48516,
+"en": "Whoa, whoa, whoa... What's the big idea, flashing around that nasty piece of work?",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48517,
+"en": "Can't have witnesses picking these pretty mugs out of a police lineup, now can we?",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48518,
+"en": "(Whew. Guess that's a job well done. But where are Daddy and Matsuno?)",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48519,
+"en": "Oh... Oh no!",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48520,
+"en": "Hey! Matsuno-san! What happened?",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48521,
+"en": "Shinada-san! It's Daddy! These... strange men took her!",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48522,
+"en": "They took Daddy? Where!?",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48523,
+"en": "Him! That guy over there! He's one of them.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48524,
+"en": "...Time to jet.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48525,
+"en": "Ah! A restaurant de chicken wings! Of course. It is no problem. Coming here first is what we should have done.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48526,
+"en": "Excellent! Okay, Daddy, we really don't have much time. But let's enjoy some sake.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48527,
+"en": "Ta-da! Here we are at an authentic tebasaki stand. That's Nagoya-style chicken wings, by the way. You could say it's a local favorite.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48528,
+"en": "That's all fine and well, but... Don't you think it's a little too out in the open?",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48529,
+"en": "Tatsuo, is there not a place in Nagoya where I can relax in peace? I requested such, did I not?",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48530,
+"en": "Shinada-san, I apologize, but can you take us somewhere more discreet?",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48531,
+"en": "Oh, yeah, sure. If that's what you want...",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48532,
+"en": "How does this place strike you? They serve sake and\ntebasaki⑬that's chicken wings, the Nagoya way.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48533,
+"en": "Wonderful, Tatsuo! It is the <Italic>ne plus ultra</Italic> of Nagoya indeed!",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48534,
+"en": "Not sure what that means, but I assume it's excellent! Okay, Daddy, now let's enjoy ourselves while we still have time.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48535,
+"en": "Haha, it seems an eternity has passed since the delightful kiss of sake caressed my lips. I am afraid I will be un petit tipsy. ♪",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48536,
+"en": "Well? How do you like it? Not only can you get drunk off\nyour feet, an array of beautiful women will help you do it!",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48537,
+"en": "Shinada-san... This is a cabaret club. Did you forget our guest is a lady? Granted, her name is Daddy Papa, but still.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48538,
+"en": "Not a problem! Plenty of women drink at cabaret clubs. I'm sure she'll have a great time.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48539,
+"en": "No, Tatsuo. I am far too gorgeous for this setting. Depressed the hostesses will be when they see me among them, a pearl among swine.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48540,
+"en": "It is not my wanting to shame the common people. Take me instead to elsewhere.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48541,
+"en": "Oh... I'm sorry. Let's come up with something else, then.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48542,
+"en": "This here is Club Futo Momo, my favorite erotic massage parlor. Its extravagant decor and befuddlingly buxom beauties make it the finest in town!",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48543,
+"en": "I'd say it's one of Kineicho's most symbolic sights⑬even worthy of a world-renowned star such as Your Ladyship!",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48544,
+"en": "Shinada-san, while I do appreciate the gesture, I must warn you that Daddy despises this sort of debauchery⑬",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48545,
+"en": "Non, non, non! C'est nonsense that I should be offended by this sort of lubricité. You must be more in tune with your desires! Let us admire this ribald display!",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48546,
+"en": "Did you think that I would blush beet red like some schoolgirl? How trés simple of you.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48547,
+"en": "I am Daddy Papa, the global megastar. And you see me as naught but a virgin, uninitiated to the tender stirrings of lust. Pish tosh!",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48548,
+"en": "Oh... I'm sorry. I meant no disrespect.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48549,
+"en": "Perhaps it would do us both well to remember that nothing crass will make Daddy flinch. After all, she clawed her way up to the height of stardom from the dark depths of poverty.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48550,
+"en": "Perhaps we should move on. Shinada-san, we're finished with\nsightseeing. We'll put this behind us and move right along.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48551,
+"en": "To what, exactly?",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48552,
+"en": "Well, Daddy always makes it a point to enjoy some Japanese cuisine. You wouldn't mind sharing a drink with her, would you?",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48553,
+"en": "Oh, I would love to. So, Her Ladyship requires a dining establishment that serves a good drink? I can work with that.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48554,
+"en": "That would be appreciated. Daddy, do you have any requests?",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48555,
+"en": "Ach, Matsuno, can you do nothing outside of depending on my guidance? So much like a child you are, and equally helpless.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48556,
+"en": "Well, I only asked if you had any preferences about where you'd like to go.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48557,
+"en": "Hmm, ah, yes. Then, let it be somewhere that is serving delicacies representative of this here Nagoya. Also, it should let me feel relaxed.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48558,
+"en": "Okay, cool. Let me think for a sec.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48559,
+"en": "(Club Eden's always nice.)",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48560,
+"en": "Okay, I know just the place. Right this way, please.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48561,
+"en": "(Sekai no Yamachan ought to fit the bill.)",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48562,
+"en": "(Ooh, a chicken wing stand might be what she's looking for.)",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48563,
+"en": "Well? From here you can see all of Kineicho. A view truly\nfit for a visionary such as Your Ladyship, whose artistry is\napparently far above the reach of the common populace.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48564,
+"en": "Ah, oui! Tatsuo, the view, it is trés magnifique! Truly it is beautiful, and your praise melts my heart. My muse, it is inspired to again work wonders.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48565,
+"en": "Bravo, Shinada-san. I knew you were the man for the job.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48566,
+"en": "Haha, I didn't do much.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48567,
+"en": "Either way, this was an excellent choice. But that's enough sightseeing for now.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48568,
+"en": "What? We're done already?",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48569,
+"en": "Our visit is very short, you see. We don't have time to dawdle. Let us move on.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48570,
+"en": "Uh, to what?",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48571,
+"en": "Okay, that's cool. Let me think for a sec.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48572,
+"en": "(Club Eden ought to do it.)",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48573,
+"en": "Here we are, the illustrious TV tower. It's one of the most iconic landmarks in Nagoya.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48574,
+"en": "I see. You went with a safe choice, Shinada-san.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48575,
+"en": "Hmm. Tatsuo, it is not bad, this building. However, displeasing it is to me. A tower should be looking down upon the great Daddy Papa? Pah! How insulting.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48576,
+"en": "Oh. Didn't see that coming...",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48577,
+"en": "I'm sorry, Shinada-san. Daddy can be complex sometimes. Anyway, this will do for sightseeing.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48578,
+"en": "Huh? We're done already?",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48579,
+"en": "Our visit is very short. We don't have time to dawdle. Let's move on.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48580,
+"en": "Move on... to what?",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48581,
+"en": "(Sekai no Yamachan ought to do it.)",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48582,
+"en": "Okay, no more, please! We'll get gone for good!",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48583,
+"en": "Thank you! Thank you, good sir! Um, if it's okay, I'd like\nto give you this figure as thanks. You'll be good to it,\nwon't you? Treat it like a lady? ...Stroke it tenderly?",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48584,
+"en": "You got a <Color:8>Cutie Girl Figure<Color:Default>.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48585,
+"en": "Yes! I gave the hero a precious item to aid him on his journey! With that, I'll be off!",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48586,
+"en": "Hm! Bravo. A most impressive display.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48587,
+"en": "I had the honor of watching you trounce those bullies.\nClearly, you know how to handle yourself under pressure.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48588,
+"en": "Whoa, you were watching the whole time?",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48589,
+"en": "I am aware this is out of the blue, but may I interest you\nin a job? One that would be right up your alley, judging from that demonstration.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48590,
+"en": "A job? I dunno... I mean, I need one, yes, but I'm tired of\ngetting roped into shady deals. I pride myself on being a\nlaw-abiding citizen.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48591,
+"en": "Perhaps you have the wrong impression of me. My offer is far\nfrom illegitimate.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48592,
+"en": "You sure? Everything about you screams, \"Warning, suspicious\nman approaching! Do not engage under any circumstances!\"",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48593,
+"en": "Oh? Is that so? I chose this getup specifically to avoid\nattracting attention⑬I thought it'd help me blend into the\nbackground. Was this a poor choice?",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48594,
+"en": "A black suit and glasses, though? That just makes you look\nlike an assassin. If your goal is to make people not look\nat you, then sure, you did your job...",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48595,
+"en": "Can we move on, please? The job I'm offering does not\nviolate any sort of law, I assure you.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48596,
+"en": "The job only entails escorting a certain lady on a tour of this city. It won't be for much time, either.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48597,
+"en": "You want me to be a tour guide? Why would you need someone\ngood in a fight for that?",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48598,
+"en": "A fair point. However, as a dignified diva in a foreign\nland, wouldn't you be more comfortable around a man who\nexhibits both strength and restraint?",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48599,
+"en": "As I said, it won't take much time. Perhaps an hour at most. As compensation for your labor and security, I can offer you a million's worth.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48600,
+"en": "Really!? A million!? Just for showing some lady around town?",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48601,
+"en": "Precisely. So, will you agree to those terms?",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48602,
+"en": "Nah, I think I'll pass.",
+"ctx": "diálogo uid0116013a"
+},
+{
+"id": 48603,
+"en": "Very well. That decision is yours.",
+"ctx": "diálogo uid0116013a"
+}
+]

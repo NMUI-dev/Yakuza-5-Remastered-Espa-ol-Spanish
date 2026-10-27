@@ -1,0 +1,38 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_a4",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    12,
+    148,
+    488,
+    191
+   ],
+   "en": "Sir, would you",
+   "ocr": "Sirwouldyou",
+   "es": "Señor, ¿le gustaría",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 310
+  },
+  {
+   "caja": [
+    12,
+    191,
+    488,
+    242
+   ],
+   "en": "mind coming with me?",
+   "ocr": "mind coming with me?",
+   "es": "acompañarme?",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 472
+  }
+ ]
+}

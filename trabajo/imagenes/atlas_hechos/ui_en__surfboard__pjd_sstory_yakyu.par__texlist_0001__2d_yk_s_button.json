@@ -1,0 +1,98 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_yakyu.par/texlist_0001/2d_yk_s_button",
+ "fuente": "timesbi.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    21,
+    0,
+    64,
+    20
+   ],
+   "en": "OK",
+   "es": "",
+   "fuente": "timesbi.ttf",
+   "alin": "izq",
+   "ancho_max": 39,
+   "efecto": "nada",
+   "alto": 13
+  },
+  {
+   "caja": [
+    85,
+    0,
+    128,
+    20
+   ],
+   "en": "OK",
+   "es": "",
+   "fuente": "timesbi.ttf",
+   "alin": "izq",
+   "ancho_max": 39,
+   "efecto": "nada",
+   "alto": 13
+  },
+  {
+   "caja": [
+    21,
+    20,
+    64,
+    40
+   ],
+   "en": "Back",
+   "es": "Atrás",
+   "fuente": "timesbi.ttf",
+   "alin": "izq",
+   "ancho_max": 39,
+   "efecto": "nada",
+   "alto": 16
+  },
+  {
+   "caja": [
+    85,
+    20,
+    128,
+    40
+   ],
+   "en": "Close",
+   "es": "Cerrar",
+   "fuente": "timesbi.ttf",
+   "alin": "izq",
+   "ancho_max": 39,
+   "efecto": "nada",
+   "alto": 13
+  },
+  {
+   "caja": [
+    21,
+    40,
+    64,
+    60
+   ],
+   "en": "Back",
+   "es": "Atrás",
+   "fuente": "timesbi.ttf",
+   "alin": "izq",
+   "ancho_max": 39,
+   "efecto": "nada",
+   "alto": 16
+  },
+  {
+   "caja": [
+    85,
+    40,
+    128,
+    60
+   ],
+   "en": "Close",
+   "es": "Cerrar",
+   "fuente": "timesbi.ttf",
+   "alin": "izq",
+   "ancho_max": 39,
+   "efecto": "nada",
+   "alto": 13
+  }
+ ]
+}

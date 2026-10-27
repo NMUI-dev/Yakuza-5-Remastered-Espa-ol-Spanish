@@ -1,0 +1,165 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_karaoke.par/texlist/2d_jm_mg_karaoke",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    604,
+    0,
+    739,
+    35
+   ],
+   "en": "GREAT!",
+   "es": "¡GENIAL!",
+   "fuente": "seguisb.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 131,
+   "alto": 29
+  },
+  {
+   "caja": [
+    508,
+    9,
+    588,
+    33
+   ],
+   "en": "Hold",
+   "es": "Mantén",
+   "fuente": "seguisb.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 76,
+   "fondo": "lama",
+   "alto": 26,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    604,
+    35,
+    739,
+    70
+   ],
+   "en": "GOOD",
+   "es": "BIEN",
+   "fuente": "seguisb.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 131,
+   "alto": 25
+  },
+  {
+   "caja": [
+    530,
+    44,
+    596,
+    70
+   ],
+   "en": "Rapid",
+   "es": "Rápido",
+   "fuente": "seguisb.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 62,
+   "fondo": "lama",
+   "alto": 26,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    604,
+    70,
+    739,
+    105
+   ],
+   "en": "BAD",
+   "es": "MAL",
+   "fuente": "seguisb.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 131,
+   "alto": 25,
+   "color": [
+    40,
+    160,
+    255
+   ]
+  },
+  {
+   "caja": [
+    604,
+    105,
+    739,
+    140
+   ],
+   "en": "MISS",
+   "es": "FALLO",
+   "fuente": "seguisb.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 131,
+   "alto": 25
+  },
+  {
+   "caja": [
+    828,
+    462,
+    902,
+    512
+   ],
+   "en": "Key",
+   "es": "Tono",
+   "fuente": "seguisb.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 66,
+   "alto": 26,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     3
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    24,
+    489,
+    92,
+    511
+   ],
+   "en": "Original",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 64
+  }
+ ]
+}

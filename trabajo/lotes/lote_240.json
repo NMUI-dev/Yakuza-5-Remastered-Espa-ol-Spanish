@@ -1,0 +1,712 @@
+[
+{
+"id": 50757,
+"en": "(I don't have anything to use for bait.)",
+"ctx": "diálogo uid01330518 + diálogo uid0133051a …"
+},
+{
+"id": 50758,
+"en": "(Coach Igarashi told me to go and fish something up. Looks like there's a good fishing spot over there.)",
+"ctx": "diálogo uid0133051c"
+},
+{
+"id": 50759,
+"en": "(Come to think of it, the coach wanted me to do some fishing. Now isn't the time, though.)",
+"ctx": "diálogo uid0133051c"
+},
+{
+"id": 50760,
+"en": "(This oughta be a good fishin' spot. Maybe I'll drop a line in for a bit.)",
+"ctx": "diálogo uid01330522 + diálogo uid01330524 …"
+},
+{
+"id": 50761,
+"en": "(All right, let's give it a shot.)",
+"ctx": "diálogo uid01330522 + diálogo uid01330524 …"
+},
+{
+"id": 50762,
+"en": "(Ain't got any bait to use.)",
+"ctx": "diálogo uid01330522 + diálogo uid01330524 …"
+},
+{
+"id": 50763,
+"en": "I want to see a <Color:8>ghost koi<Color:Default>, Uncle Kaz!",
+"ctx": "diálogo uid01330526"
+},
+{
+"id": 50764,
+"en": "(It sounds like Haruka wants me to catch a <Color:8>ghost koi<Color:Default>.)",
+"ctx": "diálogo uid01330526"
+},
+{
+"id": 50765,
+"en": "I wonder if it would go for a <Color:8>Catnip Stick<Color:Default> or a <Color:8>Tuna Burger Set<Color:Default>?",
+"ctx": "diálogo uid01330526"
+},
+{
+"id": 50766,
+"en": "Akihiko, are ya really serious? You're really gonna quit comedy?",
+"ctx": "diálogo uid01330562"
+},
+{
+"id": 50767,
+"en": "Haruo, I'm telling ya. My mind's made up, and ya can't sway me!",
+"ctx": "diálogo uid01330562"
+},
+{
+"id": 50768,
+"en": "But how can ya give up on our dream like that!? We've been a duo for four years now. You're just gonna throw that all away!?",
+"ctx": "diálogo uid01330562"
+},
+{
+"id": 50769,
+"en": "It's not like I wanna throw it all away, but think about it! Do ya really think we got a shot at makin' it all the way?",
+"ctx": "diálogo uid01330562"
+},
+{
+"id": 50770,
+"en": "Yeah, I do! I believe in us! We're gonna make it real big someday! That's why we've been working so hard for these past four years, isn't it!?",
+"ctx": "diálogo uid01330562"
+},
+{
+"id": 50771,
+"en": "Well, great for you. I don't believe it anymore. We haven't had a glimmer of hope in four years.",
+"ctx": "diálogo uid01330562"
+},
+{
+"id": 50772,
+"en": "We did hundreds of auditions, but we didn't get called back for a single one.",
+"ctx": "diálogo uid01330562"
+},
+{
+"id": 50773,
+"en": "Okay, yeah, that might be true, but if ya work on being a better straight man, and I can work on being a better funny man...",
+"ctx": "diálogo uid01330562"
+},
+{
+"id": 50774,
+"en": "But that's what we've been doin' for four years, and it hasn't happened yet! We ain't getting any younger, ya know!",
+"ctx": "diálogo uid01330562"
+},
+{
+"id": 50775,
+"en": "But do ya have to quit right now? We have an audition in a couple of minutes! Why can't ya wait to see how that goes first!?",
+"ctx": "diálogo uid01330562"
+},
+{
+"id": 50776,
+"en": "I've got some really great material this time! All ya gotta do is come back with some great retorts!",
+"ctx": "diálogo uid01330562"
+},
+{
+"id": 50777,
+"en": "My mom found me a lead on a good job. Sorry, man, but I'm on my way to the interview right now.",
+"ctx": "diálogo uid01330562"
+},
+{
+"id": 50778,
+"en": "If I'm gonna quit comedy, now's the time to do it. I don't want my mom worryin' about me anymore, ya know? Goodbye, Haruo.",
+"ctx": "diálogo uid01330562"
+},
+{
+"id": 50779,
+"en": "Oh, man. What am I supposed to do without a partner?",
+"ctx": "diálogo uid01330562"
+},
+{
+"id": 50780,
+"en": "That's all right. We hope to see you again soon.",
+"ctx": "diálogo uid01330586"
+},
+{
+"id": 50781,
+"en": "Welcome. Are you ready to order? What would you like to drink?",
+"ctx": "diálogo uid01330589 + diálogo uid0133058c"
+},
+{
+"id": 50782,
+"en": "(Got no money...)",
+"ctx": "diálogo uid01330589 + diálogo uid0133058c"
+},
+{
+"id": 50783,
+"en": "Thank you very much. Here is your bill.",
+"ctx": "diálogo uid01330589 + diálogo uid0133058c"
+},
+{
+"id": 50784,
+"en": "I'm cravin' some <Color:8>Maguro Zanmai<Color:Default>.",
+"ctx": "diálogo uid0133058f"
+},
+{
+"id": 50785,
+"en": "(Looks like Riku's hungry for some <Color:8>Maguro Zanmai<Color:Default>.)",
+"ctx": "diálogo uid0133058f"
+},
+{
+"id": 50786,
+"en": "All right, time to dig in!",
+"ctx": "diálogo uid0133058f"
+},
+{
+"id": 50787,
+"en": "I'm gettin' kinda bored with the dating options 'round here. This neighborhood's so small I've already been practically everywhere.",
+"ctx": "diálogo uid0133058f"
+},
+{
+"id": 50788,
+"en": "Do you want to take a little trip next time?",
+"ctx": "diálogo uid0133058f"
+},
+{
+"id": 50789,
+"en": "Hey, that might be fun! I'd love t'go on a trip someplace way far away.",
+"ctx": "diálogo uid0133058f"
+},
+{
+"id": 50790,
+"en": "A trip someplace far away, huh? I haven't done that myself in quite some time.",
+"ctx": "diálogo uid0133058f"
+},
+{
+"id": 50791,
+"en": "Really? But like, didn't y'just move into town not too long ago? At least you're gettin' out more than me.",
+"ctx": "diálogo uid0133058f"
+},
+{
+"id": 50792,
+"en": "The only times I ever traveled far away was when I took field trips, all the way back in high school. I just wanna get out and travel, ya know?",
+"ctx": "diálogo uid0133058f"
+},
+{
+"id": 50793,
+"en": "There's no time like the present. Maybe you should find a travel agency and plan a trip.",
+"ctx": "diálogo uid0133058f"
+},
+{
+"id": 50794,
+"en": "That'd sure be nice! Seein' new places is always so much fun, and I like planning out different things to do.",
+"ctx": "diálogo uid0133058f"
+},
+{
+"id": 50795,
+"en": "But won't it help to know where it is you're going before y'go to a travel agency?",
+"ctx": "diálogo uid0133058f"
+},
+{
+"id": 50796,
+"en": "Not really. They can suggest different travel destinations depending on the time of the year.",
+"ctx": "diálogo uid0133058f"
+},
+{
+"id": 50797,
+"en": "No kiddin'? I mean, I've never been to a travel agency before, so I wouldn't know.",
+"ctx": "diálogo uid0133058f"
+},
+{
+"id": 50798,
+"en": "You can always get brochures from them without a full consultation. Just visit their office.",
+"ctx": "diálogo uid0133058f"
+},
+{
+"id": 50799,
+"en": "I'll do that! Thanks, Kiryu-san! I knew I could count on ya!",
+"ctx": "diálogo uid0133058f"
+},
+{
+"id": 50800,
+"en": "Heh, good.",
+"ctx": "diálogo uid0133058f"
+},
+{
+"id": 50801,
+"en": "Find more stuff to do locally. You must wind up going to the same places in town all the time, so check out different places once in a while.",
+"ctx": "diálogo uid0133058f"
+},
+{
+"id": 50802,
+"en": "Other places? Other places like where?",
+"ctx": "diálogo uid0133058f"
+},
+{
+"id": 50803,
+"en": "Hmm. Let me think.",
+"ctx": "diálogo uid0133058f"
+},
+{
+"id": 50804,
+"en": "You're still young, so maybe you haven't tried out entertainment for more mature adults?",
+"ctx": "diálogo uid0133058f"
+},
+{
+"id": 50805,
+"en": "You could try your hand at mahjong or pachinko. You probably walked past a bunch of those places without ever going inside, I bet.",
+"ctx": "diálogo uid0133058f"
+},
+{
+"id": 50806,
+"en": "Y'might be right. Heck, now that you mention it, there are places 'round this neighborhood here I've never been to.",
+"ctx": "diálogo uid0133058f"
+},
+{
+"id": 50807,
+"en": "See? So it might be worth looking for new experiences right here in your own backyard.",
+"ctx": "diálogo uid0133058f"
+},
+{
+"id": 50808,
+"en": "Yeah, that sounds doable! Maybe y'can take me to one of those places sometime, Kiryu-san.",
+"ctx": "diálogo uid0133058f"
+},
+{
+"id": 50809,
+"en": "Would you be traveling alone?",
+"ctx": "diálogo uid0133058f"
+},
+{
+"id": 50810,
+"en": "I mean I haven't thought it through that far. I was bein' spontaneous, y'know?",
+"ctx": "diálogo uid0133058f"
+},
+{
+"id": 50811,
+"en": "Why? Wanna come with me, Kiryu-san?",
+"ctx": "diálogo uid0133058f"
+},
+{
+"id": 50812,
+"en": "That wasn't exactly what I was getting at.",
+"ctx": "diálogo uid0133058f"
+},
+{
+"id": 50813,
+"en": "Oh, well all right. I mean, maybe a day trip by car or something would be fine, but I'd be scared of stayin' overnight someplace with you.",
+"ctx": "diálogo uid0133058f"
+},
+{
+"id": 50814,
+"en": "Whoa, hey. Do I strike you as that sort of guy?",
+"ctx": "diálogo uid0133058f"
+},
+{
+"id": 50815,
+"en": "Well, why else would y'ask somethin' like that?",
+"ctx": "diálogo uid0133058f"
+},
+{
+"id": 50816,
+"en": "Besides, if I wanted to take a break from work, I wouldn't go on vacation with a client. Geez.",
+"ctx": "diálogo uid0133058f"
+},
+{
+"id": 50817,
+"en": "You have a point.",
+"ctx": "diálogo uid0133058f + diálogo uid01340012"
+},
+{
+"id": 50818,
+"en": "I could go for the <Color:8>Hana Course<Color:Default>.",
+"ctx": "diálogo uid01330596"
+},
+{
+"id": 50819,
+"en": "(Looks like Riku wants the <Color:8>Hana Course<Color:Default>.)",
+"ctx": "diálogo uid01330596"
+},
+{
+"id": 50820,
+"en": "Ya know, Kiryu-san, I bet y'could eat a horse, huh?",
+"ctx": "diálogo uid01330596"
+},
+{
+"id": 50821,
+"en": "Well, my appetite's not as big as when I was younger. But the food here in Hakata is really good, so I've been checking out as many restaurants as I can.",
+"ctx": "diálogo uid01330596"
+},
+{
+"id": 50822,
+"en": "Wow, men can be such foodies! Checkin' out new hotspots all the time, eh?",
+"ctx": "diálogo uid01330596"
+},
+{
+"id": 50823,
+"en": "You don't want to pick a lousy restaurant when you invite a lady out to dinner, after all.",
+"ctx": "diálogo uid01330596"
+},
+{
+"id": 50824,
+"en": "Yeah, I'm happy t'let guys take me out for a nice meal, but I'm worried if I keep on goin' out I'll get fat, y'know?",
+"ctx": "diálogo uid01330596"
+},
+{
+"id": 50825,
+"en": "Want to try something different next? I don't mind going for something a little lighter, if you're worried about it being too heavy.",
+"ctx": "diálogo uid01330596"
+},
+{
+"id": 50826,
+"en": "Naw, it's fine! I just meant like if you're gonna take me to all sortsa restaurants, then I just gotta watch what I eat.",
+"ctx": "diálogo uid01330596"
+},
+{
+"id": 50827,
+"en": "You don't have to feel obligated on my account. I'd hate for you to get fat because of me.",
+"ctx": "diálogo uid01330596"
+},
+{
+"id": 50828,
+"en": "I'll make sure I work out t'make up for it! Don't y'worry about me, Kiryu-san!",
+"ctx": "diálogo uid01330596"
+},
+{
+"id": 50829,
+"en": "Well, I'll try. But working out for each date sounds a bit strange.",
+"ctx": "diálogo uid01330596"
+},
+{
+"id": 50830,
+"en": "Lotsa girls start out skinny as a rail at first, then put on the pounds while dating. Y'gotta make sure you don't get dumped for bein' fat!",
+"ctx": "diálogo uid01330596"
+},
+{
+"id": 50831,
+"en": "Hey, that goes for us men too. I should watch my own weight as well.",
+"ctx": "diálogo uid01330596"
+},
+{
+"id": 50832,
+"en": "You don't need to eat if you don't want to. Just because I'm eating something doesn't mean you need to force yourself to do the same.",
+"ctx": "diálogo uid01330596"
+},
+{
+"id": 50833,
+"en": "What!? Then what am I s'posed to do? Just sit and stare until you're done eatin'?",
+"ctx": "diálogo uid01330596"
+},
+{
+"id": 50834,
+"en": "If you're worried about getting fat, then maybe.",
+"ctx": "diálogo uid01330596"
+},
+{
+"id": 50835,
+"en": "That's why a guy oughta be considerate. Taking his girl to a restaurant where she won't feel guilty about getting something to eat is the way t'go, in my book.",
+"ctx": "diálogo uid01330596"
+},
+{
+"id": 50836,
+"en": "It's really mean for ya to expect me to sit with my tummy rumblin' while I watch y'eat, Kiryu-san!",
+"ctx": "diálogo uid01330596"
+},
+{
+"id": 50837,
+"en": "Then I can share some of what I'm eating with you. That'll make sure you don't overeat.",
+"ctx": "diálogo uid01330596"
+},
+{
+"id": 50838,
+"en": "It's okay to put on some weight. Guys like it if a girl looks healthy instead of scrawny.",
+"ctx": "diálogo uid01330596"
+},
+{
+"id": 50839,
+"en": "No way, buster! Once y'pack on the pounds, they're impossible to drop.",
+"ctx": "diálogo uid01330596"
+},
+{
+"id": 50840,
+"en": "I just make sure t'watch what I eat, 'cause it's way easier than trying to diet later!",
+"ctx": "diálogo uid01330596"
+},
+{
+"id": 50841,
+"en": "Does that mean you're holding back now?",
+"ctx": "diálogo uid01330596"
+},
+{
+"id": 50842,
+"en": "Hehe. Yeah, I'm actually pretty hungry. But I'll get by.",
+"ctx": "diálogo uid01330596"
+},
+{
+"id": 50843,
+"en": "You really don't need to hold back. If you're hungry, just eat. It's fine.",
+"ctx": "diálogo uid01330596"
+},
+{
+"id": 50844,
+"en": "Hey, Uncle Kaz? I'm hungry for some <Color:8>Hanamidori Mizutaki<Color:Default>.",
+"ctx": "diálogo uid01330596"
+},
+{
+"id": 50845,
+"en": "(Haruka wants to have some <Color:8>Hanamidori Mizutaki<Color:Default>.)",
+"ctx": "diálogo uid01330596"
+},
+{
+"id": 50846,
+"en": "But I wanted some <Color:8>Hanamidori Mizutaki<Color:Default>.",
+"ctx": "diálogo uid01330596"
+},
+{
+"id": 50847,
+"en": "(I'm kinda full.)",
+"ctx": "diálogo uid01330596"
+},
+{
+"id": 50848,
+"en": "Thank you very much for coming by. Please come again.",
+"ctx": "diálogo uid01330596"
+},
+{
+"id": 50849,
+"en": "(Miyoshino. This place oughta get Tatsuya's attention.)",
+"ctx": "diálogo uid0133059c"
+},
+{
+"id": 50850,
+"en": "(Kaburaya, huh? I could tell Tatsuya about this place.)",
+"ctx": "diálogo uid013305a2"
+},
+{
+"id": 50851,
+"en": "(Daruma, huh? I could tell Tatsuya about this place.)",
+"ctx": "diálogo uid013305a4"
+},
+{
+"id": 50852,
+"en": "Shit... This dude's a beast...",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50853,
+"en": "Are we done? 'Cause I really would like to get going here.",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50854,
+"en": "Screw you, man. Dude, let's just go already!",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50855,
+"en": "My, my. Nicely done. I suppose that does merit a certain\nmeasure of praise.",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50856,
+"en": "Praise? What happened to you jumping in and helping? Instead, you enjoyed a ringside view!",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50857,
+"en": "Naturally. That sort of dirty, menial labor is and should be\nrelegated to the lower classes. Surely you don't expect the nobility to sully their pristine hands?",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50858,
+"en": "The only thing remotely noble about you is your Heian-era costume... You some kind of comedian?",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50859,
+"en": "<Italic>I am nothing of the sort</Italic>! And do address me with the proper\nhonorifics, you writhing, squalid vermin. For I am the\nglorious, most venerable Leo Ayanokoji!",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50860,
+"en": "It's written with the kanji for \"lion,\" to be sure, but it's pronounced \"Leo\"! I wager you're impressed?",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50861,
+"en": "Let me get this straight. You really think you're a nobleman? And your name is, what, Leo the Lion?",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50862,
+"en": "Ahahaha! Dude, are you for real right now?",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50863,
+"en": "Don't you dare laugh at me! I am a descendant of the gods!\nAnd I'll have you know, my father is the chairman of the\nneighborhood association. I'd like to see you top that!",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50864,
+"en": "Oh man... *chuckle* How are you keeping a straight face this whole time? Have you even looked at yourself in the mirror?",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50865,
+"en": "Hmph! Insolent, and churlish! I am utterly appalled!\nA feeble-minded peasant mocking one so great as I...",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50866,
+"en": "Okay, okay, calm down. Listen, how old are you?",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50867,
+"en": "I shall be 35 this revolution 'round the sun.",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50868,
+"en": "You're 35 and this is what you do? Are you married? Wait,\ndon't answer that⑬of course you're not. If I were a lady,\nI'd run the other way at first sight.",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50869,
+"en": "Hmph. I simply haven't deigned to take a lover yet. When you\nbear the status that I do, women will throw themselves at\nyour feet. So I can choose a wife whenever I wish.",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50870,
+"en": "Ah, I get it. Something traumatized you a long time ago, and you completely lost your marbles. Why didn't I realize that sooner.",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50871,
+"en": "Welp, that's my cue to exit. Bye now!",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50872,
+"en": "Come now! Won't you hear me out?",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50873,
+"en": "What is it you want? I'd really rather not be seen with you...",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50874,
+"en": "Have you forgotten my royal lineage? We noblemen have a rich\ntradition of bestowing favors and feudal positions according\nto the exploits of our loyal footsoldiers.",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50875,
+"en": "Huh? Wasn't that the samurai? I'm no history buff, but\nI can't really picture the nobility having done much of\nanything for the people.",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50876,
+"en": "Cease this slander at once! Why must you lip off that way?\nI'm saying I will repay my debt, so shut up and accept my\ngenerosity, you insect!",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50877,
+"en": "Wow... You're off the rails, man.",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50878,
+"en": "Hmph. Given that earlier spectacle, you probably think of me as a coward, don't you?",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50879,
+"en": "Yup, sure do.",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50880,
+"en": "Well, there is far more to me than meets the untrained eye!\nFor I am a weapons master, a living instrument of warfare!",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50881,
+"en": "You can use weapons?",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50882,
+"en": "Precisely. When it comes to instruments of war, I am proficient at any kind. It just so happened I had none on my person.",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50883,
+"en": "And how is this related to anything?",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50884,
+"en": "I'm saying I will accept you as my apprentice for weapons training! You should be on your hands and knees in gratitude.",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50885,
+"en": "Don't look so nonplussed, you oafish boor! Listen here.\nI am usually around the TV tower, making my rounds.\nI will allow you to come accept my teachings!",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50886,
+"en": "Yes, yes, thank you for your questionable guidance. Maybe\nI'll show once I have some extra time.",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50887,
+"en": "Then make the time, you bumbling baseborn brute! Pah, you'll sing a different tune once you feast your wits on the wisdom I have to offer.",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50888,
+"en": "Just be sure to appear at some point in the near future! Understood?",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50889,
+"en": "(What the heck was his deal? Anyway, he mentioned he'd be at the TV tower. I could always visit... if I really have nothing better to do.)",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50890,
+"en": "Hey, I dare you to say that shit again! Whatever the hell it was!",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50891,
+"en": "I rightfully addressed you ignorant peasants as such. 'Twas a mere statement of fact!",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50892,
+"en": "Okay, I've heard enough out of this apron-wearing lunatic.\nLet's kick his ass.",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50893,
+"en": "What a pity... Besot by their lower nature as commoners, two ruffians cross my path and bark their empty threats. Alas, I am forced to demonstrate my elegance at⑬ Hm?",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50894,
+"en": "Oh dear. Oh my. Did I perchance drop it during my travels?",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50895,
+"en": "What's the matter? Your \"elegance\" go running off somewhere? Probably the same place you left your fashion sense!",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50896,
+"en": "Ah⑬ You see, I seem to have forgotten my armaments, which, needless to say, are important.",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50897,
+"en": "Blow it out your ass, grandma! You can't just weasel your\nway out of a confrontation after dunking on our intelligence!",
+"ctx": "diálogo uid013305c0"
+},
+{
+"id": 50898,
+"en": "Now, now. I assure you, I am no \"grandma.\" I advise you to stay thy tongue, lest you expose even more of your plebeian dimness of wit.",
+"ctx": "diálogo uid013305c0"
+}
+]

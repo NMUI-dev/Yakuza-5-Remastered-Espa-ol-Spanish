@@ -1,0 +1,246 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_hanafuda02.par/texlist/2d_jm_mg_hana02",
+ "fuente": "times.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    0,
+    384,
+    84
+   ],
+   "en": "Five Lights",
+   "ocr": "Five Lights",
+   "es": "Cinco luces",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 380,
+   "alto": 47
+  },
+  {
+   "caja": [
+    384,
+    0,
+    768,
+    84
+   ],
+   "en": "Four Lights",
+   "ocr": "Four Lights",
+   "es": "Cuatro luces",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 380,
+   "alto": 47
+  },
+  {
+   "caja": [
+    768,
+    0,
+    1024,
+    84
+   ],
+   "en": "Variety",
+   "ocr": "Variety",
+   "es": "Variedad",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 252,
+   "alto": 47
+  },
+  {
+   "caja": [
+    0,
+    84,
+    384,
+    168
+   ],
+   "en": "Three Lights",
+   "es": "Tres luces",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 380,
+   "alto": 47
+  },
+  {
+   "caja": [
+    384,
+    84,
+    768,
+    168
+   ],
+   "en": "Poetry Ribbons",
+   "ocr": "Three Lights Poetry Ribbons",
+   "es": "Cintas de poesía",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 380,
+   "alto": 47
+  },
+  {
+   "caja": [
+    768,
+    84,
+    1024,
+    168
+   ],
+   "en": "Junk",
+   "ocr": "Junk",
+   "es": "Basura",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 252,
+   "alto": 41
+  },
+  {
+   "caja": [
+    0,
+    168,
+    512,
+    252
+   ],
+   "en": "Red Poetry Ribbons",
+   "es": "Cintas de poesía rojas",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 508,
+   "alto": 47
+  },
+  {
+   "caja": [
+    512,
+    168,
+    1024,
+    252
+   ],
+   "en": "Blue Poetry Ribbons",
+   "ocr": "Red Poetry Ribbons Blue Poetry Ribbons",
+   "es": "Cintas de poesía azules",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 508,
+   "alto": 47
+  },
+  {
+   "caja": [
+    0,
+    254,
+    512,
+    338
+   ],
+   "en": "Rainy Four Lights",
+   "ocr": "Rainy Four Lights",
+   "es": "Cuatro luces con lluvia",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 508,
+   "alto": 47
+  },
+  {
+   "caja": [
+    512,
+    254,
+    1024,
+    338
+   ],
+   "en": "Moon Viewing",
+   "ocr": "Moon Viewing",
+   "es": "Ver la luna",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 508,
+   "alto": 47
+  },
+  {
+   "caja": [
+    0,
+    340,
+    640,
+    424
+   ],
+   "en": "Cherry Blossom Viewing",
+   "ocr": "Cherry Blossom Viewing",
+   "es": "Contemplación de los cerezos",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 636,
+   "alto": 47
+  },
+  {
+   "caja": [
+    640,
+    340,
+    1024,
+    424
+   ],
+   "en": "Four of a Kind",
+   "ocr": "3Four of a Kind",
+   "es": "Cuatro iguales",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 380,
+   "alto": 41
+  },
+  {
+   "caja": [
+    0,
+    425,
+    656,
+    509
+   ],
+   "en": "Boar, Deer, Butterfly",
+   "ocr": "Boar,Deer, Butterfly",
+   "es": "Jabalí, ciervo, mariposa",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 652,
+   "alto": 47
+  },
+  {
+   "caja": [
+    656,
+    425,
+    1024,
+    509
+   ],
+   "en": "Four Pairs",
+   "ocr": "Four Pairs",
+   "es": "Cuatro parejas",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 364,
+   "alto": 41
+  },
+  {
+   "caja": [
+    768,
+    510,
+    1024,
+    594
+   ],
+   "en": "Season",
+   "ocr": "Season",
+   "es": "Estación",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 252,
+   "alto": 41
+  }
+ ]
+}

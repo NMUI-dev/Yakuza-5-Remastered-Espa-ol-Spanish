@@ -1,0 +1,39 @@
+{
+ "textura": "ui_en/surfboard/pjd_kyukyokutougi.par/texlist_0001/2d_jm_kyukyokutougi_title",
+ "fuente": "timesbd.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    0,
+    298,
+    22
+   ],
+   "en": "ULTIMATE MATCH",
+   "es": " COMBATE DEFINITIVO",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 296,
+   "alto": 16
+  },
+  {
+   "caja": [
+    0,
+    22,
+    314,
+    60
+   ],
+   "en": "ULTIMATE MATCH",
+   "es": "  COMBATE DEFINITIVO",
+   "fuente": "timesbd.ttf",
+   "efecto": "borroso",
+   "alin": "izq",
+   "ancho_max": 300,
+   "alto": 17,
+   "radio": 2.5
+  }
+ ]
+}

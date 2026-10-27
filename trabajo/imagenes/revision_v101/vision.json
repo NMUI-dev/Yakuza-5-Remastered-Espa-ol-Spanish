@@ -1,0 +1,197 @@
+{
+"2dpar_ui_en/tex_common/common/2d_yk_z_common_akiyama.dds": {
+"ok": false,
+"problem": "english_left",
+"detalle": "Permanecen textos en inglés como 'Gear', 'Gameplay' y los iconos 'Spirit', 'Focus' y 'Strength'.",
+"modelo": "gemini-3.7-flash"
+},
+"2dpar_ui_en/tex_common/common/2d_yk_z_common_haruka.dds": {
+"ok": false,
+"problem": "english_left",
+"detalle": "Persisten textos en inglés sin traducir como 'Gear', 'Memos', 'Audio', 'Gameplay' y 'CHECK MISSION'.",
+"modelo": "nvidia/nemotron-3.5-super-vl:free"
+},
+"2dpar_ui_en/tex_common/common/2d_yk_z_common_kiryu.dds": {
+"ok": false,
+"problem": "english_left",
+"detalle": "Textos en inglés sin traducir como 'Spirit', 'Focus', 'Strength', 'Gear' y 'HEAT'",
+"modelo": "nvidia/nemotron-3.5-super-vl:free"
+},
+"2dpar_ui_en/tex_common/common/2d_yk_z_common_saejima.dds": {
+"ok": false,
+"problem": "english_left",
+"detalle": "Se encuentran líneas en inglés sin traducir como 'Gear' y 'Memos'",
+"modelo": "nvidia/nemotron-3.5-super-vl:free"
+},
+"2dpar_ui_en/tex_common/common/2d_yk_z_common_shinada.dds": {
+"ok": false,
+"problem": "english_left",
+"detalle": "Textos como 'Gear' en el encabezado y 'Memos' en la lista permanecen en inglés.",
+"modelo": "nvidia/nemotron-3.5-super-vl:free"
+},
+"2dpar_ui_en/tex_common/common/2d_yk_z_common_yukiyama.dds": {
+"ok": false,
+"problem": "english_left",
+"detalle": "Texto en inglés sin traducir: 'Gear', 'Items' y 'Gameplay' en el menú.",
+"modelo": "nvidia/nemotron-3.5-super-vl:free"
+},
+"2dpar_ui_en/tex_common/keitai_pict/2d_yk_keitai_akiyama.dds": {
+"ok": false,
+"problem": "english_left",
+"detalle": "El texto 'NEW' en el cuadro rojo permanece en inglés sin traducir.",
+"modelo": "nvidia/nemotron-3.5-super-vl:free"
+},
+"2dpar_ui_en/tex_common/keitai_pict/2d_yk_keitai_haruka.dds": {
+"ok": true,
+"problem": "none",
+"detalle": "Traducción completa al español sin errores de solapamiento, corte o texto inglés no permitido.",
+"modelo": "nvidia/nemotron-3.5-super-vl:free"
+},
+"2dpar_ui_en/tex_common/keitai_pict/2d_yk_keitai_kiryu.dds": {
+"ok": false,
+"problem": "english_left",
+"detalle": "Quedan textos en inglés y japonés sin traducir (NEW, TOTAL, 防御力).",
+"modelo": "nvidia/nemotron-3.5-super-vl:free",
+"lote": true
+},
+"2dpar_ui_en/tex_common/keitai_pict/2d_yk_keitai_saejima.dds": {
+"ok": false,
+"problem": "english_left",
+"detalle": "Quedan textos en inglés y japonés sin traducir (NEW, TOTAL, 防御力).",
+"modelo": "nvidia/nemotron-3.5-super-vl:free",
+"lote": true
+},
+"2dpar_ui_en/tex_common/keitai_pict/2d_yk_keitai_shinada.dds": {
+"ok": false,
+"problem": "english_left",
+"detalle": "Quedan textos en inglés y japonés sin traducir (NEW, TOTAL, 防御力).",
+"modelo": "nvidia/nemotron-3.5-super-vl:free",
+"lote": true
+},
+"bootpar_boot_en/boot_en/ifc_jimaku_watase_en.dds": {
+"ok": true,
+"problem": "none",
+"detalle": "Nombre propio mantenido sin problemas.",
+"modelo": "nvidia/nemotron-3.5-super-vl:free",
+"lote": true
+},
+"pausepar_movie_en/movie/staffroll.dds": {
+"ok": true,
+"problem": "none",
+"detalle": "Traducción correcta al español.",
+"modelo": "nvidia/nemotron-3.5-super-vl:free",
+"lote": true
+},
+"pausepar_pause_en/item/treasure_map3_unite_l.dds": {
+"ok": false,
+"problem": "english_left",
+"detalle": "El texto del panel derecho sigue completamente en inglés.",
+"modelo": "nvidia/nemotron-3.5-super-vl:free",
+"lote": true
+},
+"pausepar_pause_en/picture/2d_jm_mgs_airhockey.dds": {
+"ok": false,
+"problem": "english_left",
+"detalle": "Texto en inglés 'L2 Button' en el panel izquierdo",
+"modelo": "nvidia/nemotron-3.5-super-vl:free",
+"lote": true
+},
+"pausepar_pause_en/picture/2d_jm_mgs_airhockey_bb.dds": {
+"ok": false,
+"problem": "english_left",
+"detalle": "Texto en inglés 'L2 Button' en el panel izquierdo",
+"modelo": "nvidia/nemotron-3.5-super-vl:free",
+"lote": true
+},
+"pausepar_pause_en/picture/2d_jm_mgs_batting_m.dds": {
+"ok": false,
+"problem": "garbled",
+"detalle": "Texto ilegible 'Pea' y 'joystick: tq'",
+"modelo": "nvidia/nemotron-3.5-super-vl:free",
+"lote": true
+},
+"pausepar_pause_en/picture/2d_jm_mgs_batting_m_bb.dds": {
+"ok": false,
+"problem": "english_left",
+"detalle": "Quedan términos en inglés como 'No bater' y 'bater' en la columna derecha",
+"modelo": "nvidia/nemotron-3.5-super-vl:free",
+"lote": true
+},
+"pausepar_pause_en/picture/2d_jm_mgs_fishing_river.dds": {
+"ok": true,
+"problem": "none",
+"detalle": "Traducción completa al español sin inglés restante visible",
+"modelo": "nvidia/nemotron-3.5-super-vl:free",
+"lote": true
+},
+"pausepar_pause_en/picture/2d_jm_mgs_fishing_river_bb.dds": {
+"ok": true,
+"problem": "none",
+"detalle": "Traducción completa al español sin inglés restante visible",
+"modelo": "nvidia/nemotron-3.5-super-vl:free",
+"lote": true
+},
+"pausepar_pause_en/picture/2d_jm_mgs_h_bance_battle.dds": {
+"ok": true,
+"problem": "none",
+"detalle": "Traducción completa sin errores visibles.",
+"modelo": "nvidia/nemotron-3.5-super-vl:free",
+"lote": true
+},
+"pausepar_pause_en/picture/2d_jm_mgs_h_handshake.dds": {
+"ok": false,
+"problem": "english_left",
+"detalle": "Queda 'sec' en inglés en 'Espera un sec'.",
+"modelo": "nvidia/nemotron-3.5-super-vl:free",
+"lote": true
+},
+"pausepar_pause_en/picture/2d_jm_mgs_h_lesson.dds": {
+"ok": false,
+"problem": "garbled",
+"detalle": "Texto 'dilatón' parece garbled o sin sentido en español.",
+"modelo": "nvidia/nemotron-3.5-super-vl:free",
+"lote": true
+},
+"pausepar_pause_en/picture/2d_jm_mgs_h_live_battle.dds": {
+"ok": false,
+"problem": "english_left",
+"detalle": "Texto 'X Button' en inglés visible en la lista derecha.",
+"modelo": "nvidia/nemotron-3.5-super-vl:free",
+"lote": true
+},
+"pausepar_pause_en/picture/2d_jm_mgs_h_quiz.dds": {
+"ok": false,
+"problem": "english_left",
+"detalle": "Encabezado 'Controls' permanece en inglés.",
+"modelo": "nvidia/nemotron-3.5-super-vl:free",
+"lote": true
+},
+"pausepar_pause_en/picture/2d_jm_mgs_h_sisou.dds": {
+"ok": false,
+"problem": "english_left",
+"detalle": "Texto 'Button' en inglés visible en el recuadro derecho.",
+"modelo": "nvidia/nemotron-3.5-super-vl:free",
+"lote": true
+},
+"pausepar_pause_en/picture/2d_jm_mgs_if8_h.dds": {
+"ok": false,
+"problem": "garbled",
+"detalle": "Texto garizado y superpuesto en la línea inferior izquierda",
+"modelo": "nvidia/nemotron-3.5-super-vl:free",
+"lote": true
+},
+"pausepar_pause_en/picture/2d_jm_mgs_if8_k.dds": {
+"ok": false,
+"problem": "garbled",
+"detalle": "Texto garizado y superpuesto en la línea inferior izquierda",
+"modelo": "nvidia/nemotron-3.5-super-vl:free",
+"lote": true
+},
+"pausepar_pause_en/picture/2d_jm_mgs_kouchin.dds": {
+"ok": false,
+"problem": "garbled",
+"detalle": "Texto garizado y superpuesto en la línea inferior izquierda",
+"modelo": "nvidia/nemotron-3.5-super-vl:free",
+"lote": true
+}
+}

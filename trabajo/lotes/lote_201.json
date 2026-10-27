@@ -1,0 +1,832 @@
+[
+{
+"id": 43859,
+"en": "Don't you start quibbling with me! You've got no right to criticize! You better watch how you talk to people!",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43860,
+"en": "Okay, then. A six-month subscription, you say?",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43861,
+"en": "Great! That'll be a big help! If only everyone were as understanding as you, my job would be a walk in the park!",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43862,
+"en": "Now then. Your first paper will be delivered next year.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43863,
+"en": "Next year? Why does it take that long?",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43864,
+"en": "Come on, we're busy at the end of the year! You ought to think about people's circumstances before you go complaining about what you don't know.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43865,
+"en": "You paid <Color:8>5,000 yen<Color:Default>.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43866,
+"en": "You got some <Color:8>Detergent<Color:Default>.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43867,
+"en": "All right, that's that, then! Thank you for choosing the Nagasu Times!",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43868,
+"en": "You paid <Color:8>all of your money<Color:Default>.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43869,
+"en": "All right, then... Hold on. You don't even have enough to begin with!",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43870,
+"en": "Fine! I'll be back to collect the rest later!",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43871,
+"en": "(Well... I guess it wouldn't hurt to read the newspaper every now and then.)",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43872,
+"en": "Get out of here. And don't show your face again.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43873,
+"en": "Hey, what's with the cold shoulder? I tried being nice, and this is what I get in return? You think I'm gonna turn around and leave just like that!?",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43874,
+"en": "You're the one sticking around where you're not welcome. I told you to get out.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43875,
+"en": "You better watch your mouth, asshole. I don't take any bullshit from guys like you! Apologize to me right now! Do it!",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43876,
+"en": "That's no way to talk to a customer.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43877,
+"en": "Don't go getting on your high horse with me. You'd better subscribe if you want to be treated like a customer!",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43878,
+"en": "Now you're threatening me to get subscriptions? Some salesman you are.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43879,
+"en": "I'm not threatening anybody! You think I'm some sorta scam artist? You better apologize to me right now. Do it!",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43880,
+"en": "Okay, then. I'll sign up.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43881,
+"en": "What? I thought you said I could try it out for a month, free.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43882,
+"en": "Think about it. It's a no-brainer. Oh, how about I throw in some detergent as well? Would that sweeten the deal?",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43883,
+"en": "Tch, why didn't you say so in the first place? We could have saved us all that time!",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43884,
+"en": "Anyway, a promise is a promise, so I'll give you your detergent. You better not go back on the deal, though, or you'll regret it!",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43885,
+"en": "Your six-month subscription starts next year.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43886,
+"en": "Hold on. You don't even have enough to begin with!",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43887,
+"en": "Know what, I'm calling the cops. You good with that?",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43888,
+"en": "Are you stupid or something!? The police have far better things to do than make house calls on some trumped-up charges!",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43889,
+"en": "Sheesh. I'm on the clock here, you know? You can forget about that generous offer now, pal.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43890,
+"en": "What I want instead is compensation for wasting my time, you business-obstructing bumblefuck. Better pay up, or else!",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43891,
+"en": "Sorry, I didn't mean any ill will.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43892,
+"en": "That right? But you know you're going to have to do better than just an apology.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43893,
+"en": "You're gonna sign up for our newspaper. A simple six-month subscription. Come on, let's get this over with.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43894,
+"en": "Fine, I'll subscribe to your newspaper. Satisfied?",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43895,
+"en": "Tch, why didn't you say so in the first place? There won't be any detergent for you, that's for sure! Oh, and delivery will start next year.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43896,
+"en": "Next year? Why's it going to take that long?",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43897,
+"en": "You'd better not go back on the deal, though, or I'll make you regret it!",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43898,
+"en": "Fine, I'll pay.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43899,
+"en": "That's right! Spineless worms like you need to watch what you say! I hope you learned your lesson. Now hurry up and fork over the dough.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43900,
+"en": "You need to leave. Now.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43901,
+"en": "You cheeky bastard! All right! I'm through playing games! Step outside and we'll settle this the hard way!",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43902,
+"en": "Heh. I wonder what you have in mind.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43903,
+"en": "I mean I'm gonna cut the sales pitch and give your face a tune up. You're dead meat now!",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43904,
+"en": "Okay, I've had just about enough of this.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43905,
+"en": "Huh? What are you gonna do, then? You don't think I can take your ass out!?",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43906,
+"en": "That's it. I'm through dickin' around! Step outside and we'll settle this the hard way!",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43907,
+"en": "It seems you're confused. I never said I was actually going to subscribe.",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43908,
+"en": "You gotta be shittin' me! All right, I'm done dickin' around. Step outside and we'll settle this the hard way!",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43909,
+"en": "There. You happy now?",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43910,
+"en": "Hmph. Fine. Apology accepted. But don't think you can get away with insulting me again!",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43911,
+"en": "(Finally I can get some peace.)",
+"ctx": "diálogo uid010c0a82"
+},
+{
+"id": 43912,
+"en": "Okay, okay, my bad. Give me a break, just this once! I promise not to bother you again! Never ever!",
+"ctx": "diálogo uid010c0a85"
+},
+{
+"id": 43913,
+"en": "I bet you've caught tons of people out with those pushy, thoughtless sales tactics, haven't you?",
+"ctx": "diálogo uid010c0a85"
+},
+{
+"id": 43914,
+"en": "Oh, no, sir! Not at all!",
+"ctx": "diálogo uid010c0a85"
+},
+{
+"id": 43915,
+"en": "Well you'd better drop the sales pitch altogether. If I hear you've been at it again, you'll have me to answer to. Got that?",
+"ctx": "diálogo uid010c0a85"
+},
+{
+"id": 43916,
+"en": "Yup! Got it! Won't do it again! Honest to goodness!",
+"ctx": "diálogo uid010c0a85"
+},
+{
+"id": 43917,
+"en": "Here, why don't you take this? Hopefully it'll make up for my inexcusable and completely uncharacteristic behavior!",
+"ctx": "diálogo uid010c0a85"
+},
+{
+"id": 43918,
+"en": "You got some <Color:8>High-grade Platinum<Color:Default>.",
+"ctx": "diálogo uid010c0a85"
+},
+{
+"id": 43919,
+"en": "Really, I'm sorry as sorry can be! I'll just see myself out now. Have a nice day!",
+"ctx": "diálogo uid010c0a85"
+},
+{
+"id": 43920,
+"en": "Am I... dying? Me? A vampire with eternal life?",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43921,
+"en": "Apologize to the boss on the other side.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43922,
+"en": "The boss is dating four girls in hell.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43923,
+"en": "He is? How is that supposed to make me feel better!?",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43924,
+"en": "The boss is waiting for you in hell.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43925,
+"en": "Gah... Gahahahaaa! Tatsu of Kamuro! Not bad, for a human. You could have been an even bigger villain than I!",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43926,
+"en": "Okay, cut!",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43927,
+"en": "Thanks, Kiryu-san! That was everything we needed!",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43928,
+"en": "Was I okay?",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43929,
+"en": "You were amazing, Kiryu-chan! I loved that stuff you ad-libbed there, too! That's just the kind of spice I was looking for!",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43930,
+"en": "Really? The words just seemed to tumble out of my mouth.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43931,
+"en": "Then you've got the tumblings of genius! Even I couldn't pull off <Italic>that</Italic> level of awesome!",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43932,
+"en": "Well done, Kiryu-chan! You followed the script pretty well.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43933,
+"en": "I'd say you've got more acting talent than me, Kiryu-san! Even if it does put my career at risk!",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43934,
+"en": "It could have been better, perhaps, but that's always how I feel about all my films. You did good!",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43935,
+"en": "Hmm, there were a few too many slip-ups, but I guess we did kind of put you on the spot.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43936,
+"en": "But hey, I'd say you've still got more acting talent than me! Even if it does put my career at risk!",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43937,
+"en": "And those action scenes were the icing on the cake! We got some unforgettable shots that'll make people jump out of their seats!",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43938,
+"en": "If only the action scenes had clicked a bit better. Still, we got some presentable stuff.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43939,
+"en": "Filming went really smoothly thanks to you, so I beefed up your pay quite a bit! Thanks for all the help!",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43940,
+"en": "You got <Color:8>100,000 yen<Color:Default>.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43941,
+"en": "Good working with you again!",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43942,
+"en": "I get the feeling there's more to acting than I first thought.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43943,
+"en": "Darn tootin'. Oh, and here's your pay! Thanks for all the help!",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43944,
+"en": "You got <Color:8>70,000 yen<Color:Default>.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43945,
+"en": "Sorry I left everyone to hang. These things happen, ya know?",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43946,
+"en": "I have to admit, acting is pretty tough.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43947,
+"en": "Hold on there, Kiryu-chan. I know I said that you didn't have to go completely by the script, but please try to keep it relevant.\n \n ",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43948,
+"en": "Sorry, I guess that was pretty different.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43949,
+"en": "You wanna go over the script again?\n ",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43950,
+"en": "Okay, let's do this scene again! C'mon, Kiryu-chan! Action!\n \n ",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43951,
+"en": "Yeah, I'd better do that.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43952,
+"en": "Excellent! Try to get it down this time.\n ",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43953,
+"en": "You finally made it, Tatsu of Kamuro!\n　  ",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43954,
+"en": "<Color:255,200,200,255>I'm here to end this, brother.<Color:Default>",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43955,
+"en": "You think you can kill me? Sorry, but that will never happen. I cannot be killed! For you see⑬\n　  \n　  ",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43956,
+"en": "<Color:255,200,200,255>You're a vampire, right?<Color:Default>",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43957,
+"en": "So you knew? Heheh. Indeed. And all those I bite become the living dead!\n　 \n　  ",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43958,
+"en": "Four zombies appear behind Tatsu.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43959,
+"en": "Soon enough you'll join them, Tatsu of Kamuro!\n　  ",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43960,
+"en": "Tatsu defeats the zombies one at a time.\nFirst, he <Color:255,200,200,255>goes against the sweptback haired zombie,<Color:Default>\nthen defeats <Color:255,200,200,255>the zombie wearing a hat<Color:Default>.\nHe then finishes off the charging <Color:255,200,200,255>zombie in a flashy yellow jacket<Color:Default>.\nFinally, he fights off the last <Color:255,200,200,255>zombie in glasses<Color:Default>.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43961,
+"en": "Well, well. Not bad, Tatsu. You're just as I expected.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43962,
+"en": "　  \n<Color:255,200,200,255>Let's see how immortal you really are.<Color:Default>",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43963,
+"en": "Not so fast. I still have a few cards left up my sleeve!\n　  ",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43964,
+"en": "Countless zombies appear.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43965,
+"en": "Goodbye, my brother. You might have lived, if you hadn't been so eager to unmask me!\n　  ",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43966,
+"en": "Tatsu begins to take down the zombies.\nUsing his raging <Color:255,200,200,255>special techniques,<Color:Default> he fights them off, one by one.\n\n ",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43967,
+"en": "Heheh. Not bad. But now you have to deal with me!\n　  ",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43968,
+"en": "What will you do? I cannot be killed. Struggle all you want, but you'll never destroy me.\n　  \n　  ",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43969,
+"en": "Tatsu readies a Japanese katana.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43970,
+"en": "That blade... Is that the Hazy Moon!? It can't be! How did you get hold of it!?\n　  ",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43971,
+"en": "<Color:255,200,200,255>The Hazy Moon you stole from the boss was fake.<Color:Default>",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43972,
+"en": "What? So you swapped it for the real one!?\n　  ",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43973,
+"en": "Heheh. I see now. It seems the tables have turned.\n　  ",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43974,
+"en": "But I shall enjoy this! For the first time, it will be a fight for my life!\n　  ",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43975,
+"en": "Finally, the battle against the main antagonist begins.\nTatsu wields the Demon Blade, Hazy Moon.\nFor his <Color:255,200,200,255>final attack<Color:Default>, Tatsu uses the <Color:255,200,200,255>Demon Blade Special Technique<Color:Default>.\nTatsu of Kamuro manages to pull off a miraculous victory.\n  ",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43976,
+"en": "Am I... dying? Me? A vampire with eternal life?\n　  \n　  ",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43977,
+"en": "<Color:255,200,200,255>The boss will be waiting for you in hell.<Color:Default>",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43978,
+"en": "Gah... Gahahahaaa! Tatsu of Kamuro! Not bad for a human. You could have been an even bigger villain than I!\n　 \n　  ",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43979,
+"en": "Yamashiro is engulfed in flames.\nTatsu leaves and doesn't look back.\n\n-The End-",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43980,
+"en": "Are you all good?",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43981,
+"en": "Sorry, I'd better read it one more time.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43982,
+"en": "No worries at all! Take your time!\n ",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43983,
+"en": "All right. I got it down.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43984,
+"en": "Remember, you don't have to say the lines word for word. Just make 'em snappy and relevant!\n ",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43985,
+"en": "Also, do your best with the action sequences. Ideally, we would like you to follow the script, but you'll get paid either way.\n  \n  ",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43986,
+"en": "Let's get this thing rolling, then! Ready? Action!\n \n ",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43987,
+"en": "Heheh. Not bad. But now you have to deal with me!",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43988,
+"en": "What will you do? I cannot be killed. Struggle all you want, but you'll never destroy me.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43989,
+"en": "That blade... Is that the Hazy Moon!? It can't be! How did you get hold of it!?",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43990,
+"en": "The Hazy Moon you stole from the boss was fake.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43991,
+"en": "The honeymoon the boss went on was fake.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43992,
+"en": "What!? So, his marriage was a sham all along, was it?",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43993,
+"en": "What the boss gave you was merely a replica.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43994,
+"en": "What? So you switched them!?",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43995,
+"en": "Heheh. I see now. It seems the tables have turned.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43996,
+"en": "But I shall enjoy this! For the first time, it will be a fight for my life!",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43997,
+"en": "Interesting. You're just as strong as ever, Tatsu. You're the man I acknowledged as my brother, after all.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43998,
+"en": "I'm gonna show you living hell, immortal.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 43999,
+"en": "Let's see if you're really immortal or not.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 44000,
+"en": "Not so fast. I still have a few cards left up my sleeve!",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 44001,
+"en": "Goodbye, my brother. You might have lived if you hadn't been so eager to unmask me!",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 44002,
+"en": "Let's see if you're really impotent or not.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 44003,
+"en": "Huh? Oh, I get it. You think you're longer and stronger than me, do you? I suggest you focus on the matter at hand⑬or you may find your hand cut off!",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 44004,
+"en": "How's it going?",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 44005,
+"en": "Howdy hey, Kiryu-chan, it's been a while! Too bad the only reason we're meeting is 'cause Kuda-chan here keeps breaking himself on everything he touches.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 44006,
+"en": "I'm really sorry! I don't know what I'd have done if I hadn't run into you. You're doing us a serious favor!",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 44007,
+"en": "Not to mention, Kiryu-chan, you're perfect for this role. It's almost like it was meant to be!",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 44008,
+"en": "Here's the script. All you have to do is <Color:255,200,200,255>memorize the parts for the lead role, Tatsu<Color:Default>.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 44009,
+"en": "(...I thought this was supposed to be a yakuza movie?)",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 44010,
+"en": "So you finally made it, Tatsu of Kamuro!",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 44011,
+"en": "I'm here to end this, brother.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 44012,
+"en": "I'm here for a happy ending, brother.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 44013,
+"en": "Heh. I don't know what you could possibly be hoping for, but\nthe future does not bode well for you.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 44014,
+"en": "I've come for justice, brother.",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 44015,
+"en": "You think you can kill me? Sorry, but that will never happen. I cannot be killed! For you see⑬",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 44016,
+"en": "You're a vampire, right?",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 44017,
+"en": "So you knew? Heheh. Indeed. And all those I bite become the living dead!",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 44018,
+"en": "Soon enough you'll join them, Tatsu of Kamuro!",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 44019,
+"en": "You're an umpire, right?",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 44020,
+"en": "Huh? Uh, sure? I suppose I am an umpire⑬of the undead. So killing me would be against the rules... of physics!",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 44021,
+"en": "You're a campfire, right?",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 44022,
+"en": "Huh? Uh, I suppose you could say I'm a campfire... Maybe because the flames of my wrath can never be extinguished? Yes, that sums it up quite nicely!",
+"ctx": "diálogo uid010c0a8a"
+},
+{
+"id": 44023,
+"en": "Okudera-han!",
+"ctx": "diálogo uid010c0a93"
+},
+{
+"id": 44024,
+"en": "He's leavin'. Okudera-han, are ya alright?",
+"ctx": "diálogo uid010c0a93"
+}
+]

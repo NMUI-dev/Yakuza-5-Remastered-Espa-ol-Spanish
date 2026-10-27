@@ -1,0 +1,38 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_yk_map_yukiyama",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    51,
+    46,
+    193,
+    97
+   ],
+   "en": "Snowy",
+   "ocr": "Snowy",
+   "es": "Nevado",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 138
+  },
+  {
+   "caja": [
+    36,
+    85,
+    223,
+    128
+   ],
+   "en": "Mountain",
+   "ocr": "Mountain",
+   "es": "Montaña",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 183
+  }
+ ]
+}

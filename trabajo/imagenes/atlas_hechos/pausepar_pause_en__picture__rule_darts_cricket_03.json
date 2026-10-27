@@ -1,0 +1,232 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_darts_cricket_03",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    333,
+    14,
+    694,
+    54
+   ],
+   "en": "CRICKET GAME RULE",
+   "es": "REGLAS DEL CRICKET",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "centro",
+   "ancho_max": 355
+  },
+  {
+   "caja": [
+    715,
+    2,
+    921,
+    74
+   ],
+   "en": "DARTSLIVE2",
+   "es": "",
+   "nota": "texto diminuto de la captura de pantalla / marca / nombre propio: se deja",
+   "dejar": true
+  },
+  {
+   "caja": [
+    296,
+    85,
+    379,
+    120
+   ],
+   "en": "STANDARD CRICKET",
+   "es": "",
+   "nota": "texto diminuto de la captura de pantalla / marca / nombre propio: se deja",
+   "dejar": true
+  },
+  {
+   "caja": [
+    640,
+    88,
+    726,
+    106
+   ],
+   "en": "DARTS & RESULT",
+   "es": "",
+   "nota": "texto diminuto de la captura de pantalla / marca / nombre propio: se deja",
+   "dejar": true
+  },
+  {
+   "caja": [
+    627,
+    127,
+    738,
+    157
+   ],
+   "en": "SINGLE 18",
+   "es": "SIMPLE 18",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 105
+  },
+  {
+   "caja": [
+    628,
+    155,
+    736,
+    178
+   ],
+   "en": "DOUBLE 18",
+   "es": "DOBLE 18",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 102
+  },
+  {
+   "caja": [
+    646,
+    178,
+    732,
+    205
+   ],
+   "en": "Closed",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "fondo": "lama",
+   "alin": "centro",
+   "ancho_max": 80,
+   "alto": 17,
+   "nota": "bocadillo blanco de 27 px: «Cerrado» salía grande y LaMa dañaba el bocadillo",
+   "dejar": true
+  },
+  {
+   "caja": [
+    493,
+    258,
+    531,
+    285
+   ],
+   "en": "BULL",
+   "es": "",
+   "nota": "texto diminuto de la captura de pantalla / marca / nombre propio: se deja",
+   "dejar": true
+  },
+  {
+   "caja": [
+    324,
+    311,
+    357,
+    332
+   ],
+   "en": "Player",
+   "es": "",
+   "nota": "texto diminuto de la captura de pantalla / marca / nombre propio: se deja",
+   "dejar": true
+  },
+  {
+   "caja": [
+    623,
+    314,
+    691,
+    331
+   ],
+   "en": "Susumu Yamagata",
+   "es": "",
+   "nota": "texto diminuto de la captura de pantalla / marca / nombre propio: se deja",
+   "dejar": true
+  },
+  {
+   "caja": [
+    340,
+    362,
+    690,
+    401
+   ],
+   "en": "《Game Overview》",
+   "es": "«Resumen del juego»",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "centro",
+   "ancho_max": 344
+  },
+  {
+   "caja": [
+    140,
+    404,
+    890,
+    471
+   ],
+   "en": "x",
+   "es": "·",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    18,
+    18,
+    18
+   ],
+   "fondo": "lama",
+   "alin": "centro",
+   "ancho_max": 6,
+   "alto": 2,
+   "nota": "comodín LaMa: borra las dos líneas de una vez (punto del color del fondo)"
+  },
+  {
+   "caja": [
+    142,
+    407,
+    720,
+    440
+   ],
+   "en": "Hits on a closed number score points.",
+   "es": "Los aciertos en un número cerrado dan puntos.",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 572,
+   "alto": 22
+  },
+  {
+   "caja": [
+    140,
+    436,
+    900,
+    469
+   ],
+   "en": "A number no longer yields points if all players have closed it.",
+   "es": "Un número deja de dar puntos si todos los jugadores lo cierran.",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 754,
+   "alto": 22
+  }
+ ]
+}

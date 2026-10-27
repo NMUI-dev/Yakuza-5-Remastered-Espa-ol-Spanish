@@ -1,0 +1,732 @@
+[
+{
+"id": 47757,
+"en": "It's too late for that. The festival will run for a week, but that's not enough time. If you want to do it, it'll have to be next year.",
+"ctx": "diálogo uid01110788"
+},
+{
+"id": 47758,
+"en": "Next year, huh? I don't know how things are gonna look that far ahead.",
+"ctx": "diálogo uid01110788"
+},
+{
+"id": 47759,
+"en": "You won't be coming back next year?",
+"ctx": "diálogo uid01110788"
+},
+{
+"id": 47760,
+"en": "I can't make any promises either way right now. Sorry.",
+"ctx": "diálogo uid01110788"
+},
+{
+"id": 47761,
+"en": "No, it's all right! I might not even be working as a hostess anymore come next year.",
+"ctx": "diálogo uid01110788"
+},
+{
+"id": 47762,
+"en": "Well if I do come back next year, I'm gonna make a big ass snow sculpture. Come and see it then.",
+"ctx": "diálogo uid01110788"
+},
+{
+"id": 47763,
+"en": "All right! I'm looking forward to it!",
+"ctx": "diálogo uid01110788"
+},
+{
+"id": 47764,
+"en": "Oh, the breeze feels so nice!",
+"ctx": "diálogo uid0111078a"
+},
+{
+"id": 47765,
+"en": "There's a definite scent of the sea in the air. It must be because we're so close to the ocean.",
+"ctx": "diálogo uid0111078a"
+},
+{
+"id": 47766,
+"en": "Yeah. Though speakin' on behalf of us girls, it's not always that great to be caught up in the sea breeze.",
+"ctx": "diálogo uid0111078a"
+},
+{
+"id": 47767,
+"en": "It's murder on your hair, and it can be mighty rough on the skin, too. It's a good idea to wear a hat if y'can.",
+"ctx": "diálogo uid0111078a"
+},
+{
+"id": 47768,
+"en": "I see. Maybe it's better to not walk around outside so much.",
+"ctx": "diálogo uid0111078a"
+},
+{
+"id": 47769,
+"en": "Nah, it's all right! It's fine so long as it's just a little bit.",
+"ctx": "diálogo uid0111078a"
+},
+{
+"id": 47770,
+"en": "Plus, I like how the ocean breeze smells. I think the scent of the salty air at sunset is wicked romantic.",
+"ctx": "diálogo uid0111078a"
+},
+{
+"id": 47771,
+"en": "I like it, too. Maybe being close to the ocean is one of the reasons why I chose to live here.",
+"ctx": "diálogo uid0111078a"
+},
+{
+"id": 47772,
+"en": "Oh yeah? Why's that?",
+"ctx": "diálogo uid0111078a"
+},
+{
+"id": 47773,
+"en": "Well, I used to live in Okinawa. Smelling the ocean air makes me kind of nostalgic.",
+"ctx": "diálogo uid0111078a"
+},
+{
+"id": 47774,
+"en": "Ah, I see. I guess bein' close to the sea is a big deciding factor for where y'choose to live, Kiryu-san.",
+"ctx": "diálogo uid0111078a"
+},
+{
+"id": 47775,
+"en": "Guess so. I hadn't really thought about it before now. Maybe I miss my old house.",
+"ctx": "diálogo uid0111078a"
+},
+{
+"id": 47776,
+"en": "Are y'feeling homesick?",
+"ctx": "diálogo uid0111078a"
+},
+{
+"id": 47777,
+"en": "Is that bad?",
+"ctx": "diálogo uid0111078a + diálogo uid016901cf"
+},
+{
+"id": 47778,
+"en": "Oh no, not at all!",
+"ctx": "diálogo uid0111078a"
+},
+{
+"id": 47779,
+"en": "Perfect for a date. Back in Tokyo, you'd have to go all the way out to Odaiba to have a date like this.",
+"ctx": "diálogo uid0111078a"
+},
+{
+"id": 47780,
+"en": "It's not that great, really. There's a ton of food stalls, not to mention a buncha folks stumblin' around drunk, too.",
+"ctx": "diálogo uid0111078a"
+},
+{
+"id": 47781,
+"en": "Looking at the scenery's all well and good, but the romantic atmosphere is ruined by all the hustle and bustle around ya.",
+"ctx": "diálogo uid0111078a"
+},
+{
+"id": 47782,
+"en": "Heh. Well, that's life in the big city. It's better than some desolate harbor town.",
+"ctx": "diálogo uid0111078a"
+},
+{
+"id": 47783,
+"en": "Yeah, I guess. I suppose if y'were someplace way quiet, it'd feel like there's something missin'.",
+"ctx": "diálogo uid0111078a"
+},
+{
+"id": 47784,
+"en": "Maybe so.",
+"ctx": "diálogo uid0111078a + diálogo uid01340012"
+},
+{
+"id": 47785,
+"en": "Do you have a scent fetish?",
+"ctx": "diálogo uid0111078a"
+},
+{
+"id": 47786,
+"en": "What? Nah, not even! I'm sure there are smells that y'like too, Kiryu-san.",
+"ctx": "diálogo uid0111078a"
+},
+{
+"id": 47787,
+"en": "Sure, but I've never really considered any particular smells romantic.",
+"ctx": "diálogo uid0111078a"
+},
+{
+"id": 47788,
+"en": "It ain't just the smell! The fadin' light adds to the seaside atmosphere, too.",
+"ctx": "diálogo uid0111078a"
+},
+{
+"id": 47789,
+"en": "It sorta feels like Venice in Italy, or a port town ya'd see in a movie.",
+"ctx": "diálogo uid0111078a"
+},
+{
+"id": 47790,
+"en": "Have you ever been to Italy?",
+"ctx": "diálogo uid0111078a"
+},
+{
+"id": 47791,
+"en": "Well, no! But I know what it'd feel like!",
+"ctx": "diálogo uid0111078a"
+},
+{
+"id": 47792,
+"en": "Okay, if you say so.",
+"ctx": "diálogo uid0111078a"
+},
+{
+"id": 47793,
+"en": "I've been visiting Osaka for work for some time now, but I'm still not used to the city.",
+"ctx": "diálogo uid0111078d"
+},
+{
+"id": 47794,
+"en": "Really now?",
+"ctx": "diálogo uid0111078d + diálogo uid01340024"
+},
+{
+"id": 47795,
+"en": "Yeah. I'll crash at my office overnight, and when I stumble outside half-asleep in the morning, the signage wakes me right up.",
+"ctx": "diálogo uid0111078d"
+},
+{
+"id": 47796,
+"en": "Haha! Ain't nothin' wrong with that. Around my house there's nothin' but other houses. It's super borin'.",
+"ctx": "diálogo uid0111078d"
+},
+{
+"id": 47797,
+"en": "I stay overnight at my office in Tokyo often, so I've really never had an opportunity to live in a quiet residential neighborhood.",
+"ctx": "diálogo uid0111078d"
+},
+{
+"id": 47798,
+"en": "That ain't good. No matter how busy ya are, if ya don't try to get back home, you're just gonna wind up becomin' a workaholic.",
+"ctx": "diálogo uid0111078d"
+},
+{
+"id": 47799,
+"en": "You're absolutely right. I know it's not a good habit, but I haven't really developed an attachment to a home.",
+"ctx": "diálogo uid0111078d"
+},
+{
+"id": 47800,
+"en": "Why not? I figure a guy like you should be able to drop the cash to buy a house or two.",
+"ctx": "diálogo uid0111078d"
+},
+{
+"id": 47801,
+"en": "Actually, I was homeless at one point in my life.",
+"ctx": "diálogo uid0111078d"
+},
+{
+"id": 47802,
+"en": "Yeah, so I know that you don't need a home to live. There are more important things in life.",
+"ctx": "diálogo uid0111078d"
+},
+{
+"id": 47803,
+"en": "Whoa, that's some deep stuff! Maybe my own perspective on life would change if I gave livin' like that a shot.",
+"ctx": "diálogo uid0111078d"
+},
+{
+"id": 47804,
+"en": "Without a doubt. I wouldn't recommend it for a girl though.",
+"ctx": "diálogo uid0111078d"
+},
+{
+"id": 47805,
+"en": "Making time to go home is hard. Rent in Tokyo is high, so you have to live on the outskirts, and the commuting time borders on ridiculous.",
+"ctx": "diálogo uid0111078d"
+},
+{
+"id": 47806,
+"en": "There ya go again, sayin' that sorta thing. If you can spend all this money playin' around, why can't ya use it on rent?",
+"ctx": "diálogo uid0111078d"
+},
+{
+"id": 47807,
+"en": "I bet a guy like you could afford a place right smack-dab in the middle of Kamurocho.",
+"ctx": "diálogo uid0111078d"
+},
+{
+"id": 47808,
+"en": "You know, I was considering buying a place in Kamurocho Hills when units went on sale there.",
+"ctx": "diálogo uid0111078d"
+},
+{
+"id": 47809,
+"en": "For real? How come ya didn't buy it?",
+"ctx": "diálogo uid0111078d"
+},
+{
+"id": 47810,
+"en": "I mean, it was close to the office I have now, and if I bought a home there, it wouldn't be that much different than crashing at the office.",
+"ctx": "diálogo uid0111078d"
+},
+{
+"id": 47811,
+"en": "What're ya talkin' about!? If ya lived closer, you'd be able to get back home every day! Ya gotta have a proper work-life balance!",
+"ctx": "diálogo uid0111078d"
+},
+{
+"id": 47812,
+"en": "Hm. You make a good point.",
+"ctx": "diálogo uid0111078d"
+},
+{
+"id": 47813,
+"en": "I'm different. I'm no workaholic. My personal and work lives are so mixed up that I rarely focus one hundred percent on work.",
+"ctx": "diálogo uid0111078d"
+},
+{
+"id": 47814,
+"en": "I don't think ya should be boastin' about that.",
+"ctx": "diálogo uid0111078d"
+},
+{
+"id": 47815,
+"en": "Heh, guess not.",
+"ctx": "diálogo uid0111078d"
+},
+{
+"id": 47816,
+"en": "Only single guys can pull that off. If you were married, ya'd hafta go home and eat yer wife's cookin' every day, or it's divorce city for you.",
+"ctx": "diálogo uid0111078d"
+},
+{
+"id": 47817,
+"en": "Huh? It's not like you can't go out and eat. Business people have to network and socialize.",
+"ctx": "diálogo uid0111078d"
+},
+{
+"id": 47818,
+"en": "Nope! Eatin' out costs money. Ya gotta think about yer food expenses and eat dinner at home with your wife for maximum happiness!",
+"ctx": "diálogo uid0111078d"
+},
+{
+"id": 47819,
+"en": "Wow. You get so conscientious when money's involved.",
+"ctx": "diálogo uid0111078d"
+},
+{
+"id": 47820,
+"en": "We must be the only two here who came to Sotenbori on a date.",
+"ctx": "diálogo uid01110796"
+},
+{
+"id": 47821,
+"en": "I don't think so. I've seen plenty of couples since we showed up.",
+"ctx": "diálogo uid01110796"
+},
+{
+"id": 47822,
+"en": "But ain't they just tourists? Or maybe clients out with a hostess? This ain't a place folks usually come to on a date.",
+"ctx": "diálogo uid01110796"
+},
+{
+"id": 47823,
+"en": "As a tourist spot, it's the heart of Osaka, but other than bein' a place to eat till ya drop, ain't much else goin' on here.",
+"ctx": "diálogo uid01110796"
+},
+{
+"id": 47824,
+"en": "There are more fashionable places for shoppin', and if you're gonna go out to an arcade or karaoke, there are other places for that, too.",
+"ctx": "diálogo uid01110796"
+},
+{
+"id": 47825,
+"en": "I see. So locals don't come here much. I haven't been here very long, so it hasn't lost its charm for me. But I guess it's different for you.",
+"ctx": "diálogo uid01110796"
+},
+{
+"id": 47826,
+"en": "It ain't like that. I like this neighborhood, and there's nowhere better if ya wanna find a ton of tasty stuff to eat!",
+"ctx": "diálogo uid01110796"
+},
+{
+"id": 47827,
+"en": "I definitely agree with you there.",
+"ctx": "diálogo uid01110796"
+},
+{
+"id": 47828,
+"en": "Plus with school and work, I don't wanna go too much outta the way. Sotenbori is perfect.",
+"ctx": "diálogo uid01110796"
+},
+{
+"id": 47829,
+"en": "I'm relieved to hear that. I don't know a thing about anywhere outside of Sotenbori, so I would have no idea where to take you out to eat.",
+"ctx": "diálogo uid01110796"
+},
+{
+"id": 47830,
+"en": "Ya don't gotta worry there! I'm the one leadin' ya around today. You just relax and enjoy Osaka, Akiyama-san!",
+"ctx": "diálogo uid01110796"
+},
+{
+"id": 47831,
+"en": "That sounds good to me.",
+"ctx": "diálogo uid01110796"
+},
+{
+"id": 47832,
+"en": "Want to go somewhere else? We are on a date, so I'm okay going someplace more romantic.",
+"ctx": "diálogo uid01110796"
+},
+{
+"id": 47833,
+"en": "Where do ya wanna go?",
+"ctx": "diálogo uid01110796 + frase de acompañante/calle STID_ST_FUKUOKA"
+},
+{
+"id": 47834,
+"en": "To be honest, I don't really know Osaka all that well.",
+"ctx": "diálogo uid01110796"
+},
+{
+"id": 47835,
+"en": "I figured as much. That's why I went and suggested we do Sotenbori.",
+"ctx": "diálogo uid01110796"
+},
+{
+"id": 47836,
+"en": "A visitor like yerself should be a visitor and let a local show ya around.",
+"ctx": "diálogo uid01110796"
+},
+{
+"id": 47837,
+"en": "Thanks, I really appreciate it.",
+"ctx": "diálogo uid01110796"
+},
+{
+"id": 47838,
+"en": "I don't care so long as I'm with you.",
+"ctx": "diálogo uid01110796"
+},
+{
+"id": 47839,
+"en": "What!? Where'd that come from all a sudden!?",
+"ctx": "diálogo uid01110796"
+},
+{
+"id": 47840,
+"en": "I have fun just by being with you. I don't care where we go, even if it's not some popular date spot.",
+"ctx": "diálogo uid01110796"
+},
+{
+"id": 47841,
+"en": "I'd actually prefer going to some little hole-in-the-wall with you, just the two of us.",
+"ctx": "diálogo uid01110796"
+},
+{
+"id": 47842,
+"en": "Hey, knock it off. You're makin' me blush.",
+"ctx": "diálogo uid01110796"
+},
+{
+"id": 47843,
+"en": "I always see you in noisy places like this, so I'm curious to see what you're like when you're in a different environment.",
+"ctx": "diálogo uid01110796"
+},
+{
+"id": 47844,
+"en": "Aww, I'm the same no matter where I go.",
+"ctx": "diálogo uid01110796"
+},
+{
+"id": 47845,
+"en": "If ya keep sayin' weird stuff, I might start gettin' mad at ya. Hehe.",
+"ctx": "diálogo uid01110796"
+},
+{
+"id": 47846,
+"en": "It's a nice change of pace to stroll through town like this. I typically drive to the places I want to go.",
+"ctx": "diálogo uid0111079b"
+},
+{
+"id": 47847,
+"en": "Yeah, I get what you mean.",
+"ctx": "diálogo uid0111079b"
+},
+{
+"id": 47848,
+"en": "I mean, not that I drive a car or anything. I'm usually just running around trying to meet deadlines.",
+"ctx": "diálogo uid0111079b"
+},
+{
+"id": 47849,
+"en": "Hehe! So, you don't get the opportunity to slow down and take in the sights much, either?",
+"ctx": "diálogo uid0111079b"
+},
+{
+"id": 47850,
+"en": "Nope. Plus, there's nothing but buildings in this part of town. The greenery of the park is kind of relaxing.",
+"ctx": "diálogo uid0111079b"
+},
+{
+"id": 47851,
+"en": "We have a small garden at our home. The flowers aren't in bloom right now, unfortunately, but come spring it's quite lovely.",
+"ctx": "diálogo uid0111079b"
+},
+{
+"id": 47852,
+"en": "I'd love to see it! Single-family homes with their own gardens must be nice.",
+"ctx": "diálogo uid0111079b"
+},
+{
+"id": 47853,
+"en": "I'll have to show you pictures sometime. I take plenty of photos every year, so you can see the garden in all four seasons!",
+"ctx": "diálogo uid0111079b"
+},
+{
+"id": 47854,
+"en": "Hey, that sounds nice! I'd like to see it firsthand, too.",
+"ctx": "diálogo uid0111079b"
+},
+{
+"id": 47855,
+"en": "Oh my, you want to come to my house?",
+"ctx": "diálogo uid0111079b"
+},
+{
+"id": 47856,
+"en": "It really won't be worth your while to visit right now, though. You'll have to wait until spring.",
+"ctx": "diálogo uid0111079b"
+},
+{
+"id": 47857,
+"en": "Oh, no big deal. Haha. It was a stupid thing for me to say anyway.",
+"ctx": "diálogo uid0111079b"
+},
+{
+"id": 47858,
+"en": "I'll be sure to bring some pictures for you to see instead. I do hope you'll like them!",
+"ctx": "diálogo uid0111079b"
+},
+{
+"id": 47859,
+"en": "It ain't really the garden I'm interested in.",
+"ctx": "diálogo uid0111079b"
+},
+{
+"id": 47860,
+"en": "Isn't it a pain to maintain? I'm guessing weeds grow if you're not careful, and I bet it's hard to find the time to take care of it.",
+"ctx": "diálogo uid0111079b"
+},
+{
+"id": 47861,
+"en": "That's true. My father used to take care of the garden on his days off, but we now have to hire help to do it.",
+"ctx": "diálogo uid0111079b"
+},
+{
+"id": 47862,
+"en": "Yikes! Bet that's expensive.",
+"ctx": "diálogo uid0111079b"
+},
+{
+"id": 47863,
+"en": "It is. That's why I've recently taken to only growing flowers I'm able to care for on my own.",
+"ctx": "diálogo uid0111079b"
+},
+{
+"id": 47864,
+"en": "Seems like kind of a waste to only use a garden for that. There must be something you can do to grow more.",
+"ctx": "diálogo uid0111079b"
+},
+{
+"id": 47865,
+"en": "Perhaps so. Hmm.",
+"ctx": "diálogo uid0111079b"
+},
+{
+"id": 47866,
+"en": "Maybe I should fill the rest with artificial flowers? At least they wouldn't attract insects.",
+"ctx": "diálogo uid0111079b"
+},
+{
+"id": 47867,
+"en": "That's no good. A garden is supposed to be about the beauty of nature. What's the point if the nature is fake?",
+"ctx": "diálogo uid0111079b"
+},
+{
+"id": 47868,
+"en": "Very true. I'll discuss it with my mother.",
+"ctx": "diálogo uid0111079b"
+},
+{
+"id": 47869,
+"en": "I've got an amazing garden, too!",
+"ctx": "diálogo uid0111079b"
+},
+{
+"id": 47870,
+"en": "Oh? You live in your own house as well, Shinada-san?",
+"ctx": "diálogo uid0111079b"
+},
+{
+"id": 47871,
+"en": "Well, no. I live on my building's rooftop. Let's call it the penthouse.",
+"ctx": "diálogo uid0111079b"
+},
+{
+"id": 47872,
+"en": "All I have to do is step outside and I've got a view of all Kineicho. It's not a literal garden, but it feels like one when I'm staring out at it.",
+"ctx": "diálogo uid0111079b"
+},
+{
+"id": 47873,
+"en": "Oh my, that sounds lovely! I've lived in a house my entire life, so that kind of scenery strikes me as quite dreamy!",
+"ctx": "diálogo uid0111079b"
+},
+{
+"id": 47874,
+"en": "If I ever have the opportunity to move, perhaps I'll move into a condominium!",
+"ctx": "diálogo uid0111079b"
+},
+{
+"id": 47875,
+"en": "I think you'd really like it!",
+"ctx": "diálogo uid0111079b"
+},
+{
+"id": 47876,
+"en": "Though I wouldn't recommend living in a place like mine.",
+"ctx": "diálogo uid0111079b"
+},
+{
+"id": 47877,
+"en": "Oh, that's right. The other day I was walking around here and had a bit of trouble.",
+"ctx": "diálogo uid0111079c"
+},
+{
+"id": 47878,
+"en": "Whoa, really? What happened?",
+"ctx": "diálogo uid0111079c"
+},
+{
+"id": 47879,
+"en": "I came across an older woman who was lost, and so, naturally, I approached her and offered to help her find her way.",
+"ctx": "diálogo uid0111079c"
+},
+{
+"id": 47880,
+"en": "But it turned out I didn't know how to get to where she was headed, and so in the end I wasn't able to give her the directions she needed.",
+"ctx": "diálogo uid0111079c"
+},
+{
+"id": 47881,
+"en": "Huh? Aren't you from here though, Shion-chan? Do you not know this neighborhood?",
+"ctx": "diálogo uid0111079c"
+},
+{
+"id": 47882,
+"en": "I don't, no. And it's not as if I'm from another place like you, Shinada-san. I'm a local, so it's embarrassing to not know these things.",
+"ctx": "diálogo uid0111079c"
+},
+{
+"id": 47883,
+"en": "You're so kind! Heck, if I ran into that sort of situation, I'd probably forget all about it right afterwards.",
+"ctx": "diálogo uid0111079c"
+},
+{
+"id": 47884,
+"en": "It's because I don't get to see my maternal grandmother since she's in France, and my father's mother died when I was young. I try to help the elderly where I can.",
+"ctx": "diálogo uid0111079c"
+},
+{
+"id": 47885,
+"en": "But in this situation, I was completely useless. I just wound up making things worse for her.",
+"ctx": "diálogo uid0111079c"
+},
+{
+"id": 47886,
+"en": "I think it's nice of you to feel that way. I'm sure this woman was happy that you at least tried to help her out.",
+"ctx": "diálogo uid0111079c"
+},
+{
+"id": 47887,
+"en": "Yeah! So if you ever run into that sorta thing again, don't doubt yourself. Try and offer whatever help you can!",
+"ctx": "diálogo uid0111079c"
+},
+{
+"id": 47888,
+"en": "If you say so, Shinada-san!",
+"ctx": "diálogo uid0111079c"
+},
+{
+"id": 47889,
+"en": "In that case, I should walk around this neighborhood more often. That way I can familiarize myself with these streets and provide directions to someone else in the future.",
+"ctx": "diálogo uid0111079c"
+},
+{
+"id": 47890,
+"en": "Sure! And I can go with you!",
+"ctx": "diálogo uid0111079c"
+},
+{
+"id": 47891,
+"en": "Hey, it happens. These days, I don't think even locals know their town from top to bottom like that.",
+"ctx": "diálogo uid0111079c"
+},
+{
+"id": 47892,
+"en": "Most people are probably unfamiliar with places right in their neighborhood, if they usually don't have any business going there.",
+"ctx": "diálogo uid0111079c"
+},
+{
+"id": 47893,
+"en": "I certainly agree, but that's no excuse to remain in a state of willful ignorance, don't you think?",
+"ctx": "diálogo uid0111079c"
+},
+{
+"id": 47894,
+"en": "In a perfect world, sure, but I don't think it's realistic to know the whole city. I imagine even the police don't know it inside-out.",
+"ctx": "diálogo uid0111079c"
+},
+{
+"id": 47895,
+"en": "But shouldn't we try to help for that very reason? Even if you take someone to a police box, there are probably places a policeman wouldn't know.",
+"ctx": "diálogo uid0111079c"
+},
+{
+"id": 47896,
+"en": "Yeah, the cops aren't going to help a guy who's looking for some sex club, that's for sure. That's when you go find an info booth.",
+"ctx": "diálogo uid0111079c"
+},
+{
+"id": 47897,
+"en": "That's why I think I should try my best to help people. We should all help one another.",
+"ctx": "diálogo uid0111079c"
+},
+{
+"id": 47898,
+"en": "I get you. A town is only as good as the people who've come together to live there.",
+"ctx": "diálogo uid0111079c"
+},
+{
+"id": 47899,
+"en": "You should explore more. You can never know too much about the place you live.",
+"ctx": "diálogo uid0111079c"
+},
+{
+"id": 47900,
+"en": "But how would I go about becoming more knowledgeable about this town?",
+"ctx": "diálogo uid0111079c"
+},
+{
+"id": 47901,
+"en": "Well, looking at a map is one thing, but as they say, seeing is believing. You have to check places out in person.",
+"ctx": "diálogo uid0111079c"
+},
+{
+"id": 47902,
+"en": "You can try to make a point of checking out a new place each week. You should become pretty familiar with the town within a year, I'd say.",
+"ctx": "diálogo uid0111079c"
+}
+]

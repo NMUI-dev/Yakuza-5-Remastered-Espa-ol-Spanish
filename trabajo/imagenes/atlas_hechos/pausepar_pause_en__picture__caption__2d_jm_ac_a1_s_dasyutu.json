@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_pause_en/picture/caption/2d_jm_ac_a1_s_dasyutu",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    291,
+    61,
+    737,
+    201
+   ],
+   "en": "GET OUT!",
+   "ocr": "GET OUT!",
+   "es": "¡SAL!",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 442
+  }
+ ]
+}

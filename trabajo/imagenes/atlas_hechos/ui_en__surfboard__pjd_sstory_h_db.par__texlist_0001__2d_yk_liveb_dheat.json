@@ -1,0 +1,253 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_h_db.par/texlist_0001/2d_yk_liveb_dheat",
+ "fuente": "segoeuiz.ttf",
+ "margen": 4,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    0,
+    2,
+    314,
+    28
+   ],
+   "en": "Bonus points earned!",
+   "es": "¡Puntos extra!",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     250,
+     240,
+     252
+    ],
+    "contorno": [
+     [
+      205,
+      40,
+      165
+     ],
+     3
+    ],
+    "brillo": null
+   },
+   "alin": "centro",
+   "ancho_max": 300
+  },
+  {
+   "caja": [
+    0,
+    30,
+    314,
+    56
+   ],
+   "en": "Opponent's health went down!",
+   "es": "¡Bajó la salud del rival!",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     250,
+     240,
+     252
+    ],
+    "contorno": [
+     [
+      205,
+      40,
+      165
+     ],
+     3
+    ],
+    "brillo": null
+   },
+   "alin": "centro",
+   "ancho_max": 300
+  },
+  {
+   "caja": [
+    0,
+    60,
+    314,
+    85
+   ],
+   "en": "Opponent's heat went down!",
+   "es": "¡Bajó el heat del rival!",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     250,
+     240,
+     252
+    ],
+    "contorno": [
+     [
+      205,
+      40,
+      165
+     ],
+     3
+    ],
+    "brillo": null
+   },
+   "alin": "centro",
+   "ancho_max": 300
+  },
+  {
+   "caja": [
+    0,
+    88,
+    314,
+    114
+   ],
+   "en": "Health recovered!",
+   "es": "¡Salud recuperada!",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     250,
+     240,
+     252
+    ],
+    "contorno": [
+     [
+      205,
+      40,
+      165
+     ],
+     3
+    ],
+    "brillo": null
+   },
+   "alin": "centro",
+   "ancho_max": 300
+  },
+  {
+   "caja": [
+    0,
+    117,
+    314,
+    143
+   ],
+   "en": "Spirits went up!",
+   "es": "¡Subió el ánimo!",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     250,
+     240,
+     252
+    ],
+    "contorno": [
+     [
+      205,
+      40,
+      165
+     ],
+     3
+    ],
+    "brillo": null
+   },
+   "alin": "centro",
+   "ancho_max": 300
+  },
+  {
+   "caja": [
+    0,
+    146,
+    314,
+    172
+   ],
+   "en": "Opponent's spirits went down!",
+   "es": "¡Bajó el ánimo del rival!",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     250,
+     240,
+     252
+    ],
+    "contorno": [
+     [
+      205,
+      40,
+      165
+     ],
+     3
+    ],
+    "brillo": null
+   },
+   "alin": "centro",
+   "ancho_max": 300
+  },
+  {
+   "caja": [
+    0,
+    175,
+    314,
+    201
+   ],
+   "en": "Health and heat went way down!",
+   "es": "¡Salud y heat por los suelos!",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     250,
+     240,
+     252
+    ],
+    "contorno": [
+     [
+      205,
+      40,
+      165
+     ],
+     3
+    ],
+    "brillo": null
+   },
+   "alin": "centro",
+   "ancho_max": 300
+  }
+ ]
+}

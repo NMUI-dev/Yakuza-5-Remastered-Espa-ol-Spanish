@@ -1,0 +1,753 @@
+[
+{
+"id": 70750,
+"en": "Eight-ball uses balls 1 through 15.",
+"ctx": "imagen: página de reglas de minijuego (rule_billiards04); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70751,
+"en": "Balls are divided into two groups: balls 1 through 7 are \"Low Balls\" and balls 8 through 15 are \"High Balls.\"",
+"ctx": "imagen: página de reglas de minijuego (rule_billiards04); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70752,
+"en": "Rules of Eight-ball (2)",
+"ctx": "imagen: página de reglas de minijuego (rule_billiards05); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70753,
+"en": "To win, you must pocket the 8 ball after pocketing all of the balls in your group. You can pocket the balls in your group in any order.",
+"ctx": "imagen: página de reglas de minijuego (rule_billiards05); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70754,
+"en": "the pocket that you will be aiming for. If the 8 ball falls into a different pocket, you immediately lose. Pocketing the 8 ball before all of the balls in your group have been sunk also counts as a loss.",
+"ctx": "imagen: página de reglas de minijuego (rule_billiards05); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70755,
+"en": "Trick Shots",
+"ctx": "imagen: página de reglas de minijuego (rule_billiards06); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70756,
+"en": "Occasionally, there are circumstances where a ball can not be sunk conventionally. In such cases, the following trick shots are possible:",
+"ctx": "imagen: página de reglas de minijuego (rule_billiards06); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70757,
+"en": "Combination Shot · Carom Shot · Kiss Shot",
+"ctx": "imagen: página de reglas de minijuego (rule_billiards06); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70758,
+"en": "Combination Shot:",
+"ctx": "imagen: página de reglas de minijuego (rule_billiards07); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70759,
+"en": "Say you would like to pocket ball A. Instead of striking ball A directly with the cue ball, you hit ball B, which in turn hits ball A. Pocketing a ball in this manner is referred to as a Combination Shot.",
+"ctx": "imagen: página de reglas de minijuego (rule_billiards07); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70760,
+"en": "Carom Shot:",
+"ctx": "imagen: página de reglas de minijuego (rule_billiards08); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70761,
+"en": "Say you would like to pocket ball A. Instead of striking ball A directly with the cue ball, you hit ball B first, after which the cue ball rebounds and strikes ball A. Pocketing a ball in this manner is referred to as a Carom Shot.",
+"ctx": "imagen: página de reglas de minijuego (rule_billiards08); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70762,
+"en": "Kiss Shot:",
+"ctx": "imagen: página de reglas de minijuego (rule_billiards09); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70763,
+"en": "Say you would like to pocket ball A. You strike ball A directly with the cue ball, after which it changes its path by ricocheting off ball B. Pocketing a ball in this manner is referred to as a Kiss Shot.",
+"ctx": "imagen: página de reglas de minijuego (rule_billiards09); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70764,
+"en": "Rules of Four-ball (1)",
+"ctx": "imagen: página de reglas de minijuego (rule_billiards10); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70765,
+"en": "Four-ball is played on a table without pockets, known as a carom billiards table.",
+"ctx": "imagen: página de reglas de minijuego (rule_billiards10); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70766,
+"en": "Four balls (two cue balls and two red balls) are used. The player who goes first uses a white cue ball, and the other player uses a yellow cue ball.",
+"ctx": "imagen: página de reglas de minijuego (rule_billiards10); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70767,
+"en": "A point is scored by caroming on two or more object balls. The opponent's cue ball is also considered an object ball. No point is scored when object balls collide.",
+"ctx": "imagen: página de reglas de minijuego (rule_billiards10); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70768,
+"en": "Rules of Four-ball (2)",
+"ctx": "imagen: página de reglas de minijuego (rule_billiards11); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70769,
+"en": "A player who scores gets to shoot again. When no point is scored, it becomes the other player's turn to shoot. The first player to reach the designated score wins.",
+"ctx": "imagen: página de reglas de minijuego (rule_billiards11); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70770,
+"en": "Anchor Spaces",
+"ctx": "imagen: página de reglas de minijuego (rule_billiards11); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70771,
+"en": "The four corners of a carom billiards table have an area known as an anchor space, outlined in red. If there are two or more object balls in a single anchor space, a foul results if more than one remains after two shots.",
+"ctx": "imagen: página de reglas de minijuego (rule_billiards11); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70772,
+"en": "BasicRules",
+"ctx": "imagen: página de reglas de minijuego (rule_blackjack0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70773,
+"en": "The object of the game is to obtain a hand total that is closest to 21.",
+"ctx": "imagen: página de reglas de minijuego (rule_blackjack0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70774,
+"en": "If your hand is closer to 21 than the dealer's, you win. If your hand",
+"ctx": "imagen: página de reglas de minijuego (rule_blackjack0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70775,
+"en": "exceeds 21, you bust and automatically lose.",
+"ctx": "imagen: página de reglas de minijuego (rule_blackjack0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70776,
+"en": "Card Values",
+"ctx": "imagen: página de reglas de minijuego (rule_blackjack0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70777,
+"en": "The player can choose whether to count an ace as 1 or 11. The 10, J, Q, and K cards all have a value of 10.",
+"ctx": "imagen: página de reglas de minijuego (rule_blackjack0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70778,
+"en": "or11",
+"ctx": "imagen: página de reglas de minijuego (rule_blackjack0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70779,
+"en": "A combinationof an ace and a card with thevalueof 10 iscalled",
+"ctx": "imagen: página de reglas de minijuego (rule_blackjack1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70780,
+"en": "Blackjack,and hasthehighesthandvalue.Aslongasthedealer doesn't have Blackjack as well, you are paid 2.5 times your stake.",
+"ctx": "imagen: página de reglas de minijuego (rule_blackjack1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70781,
+"en": "Terminology (1)",
+"ctx": "imagen: página de reglas de minijuego (rule_blackjack1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70782,
+"en": "·Hit: ·Stand: .Split:",
+"ctx": "imagen: página de reglas de minijuego (rule_blackjack1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70783,
+"en": "Add an additional card to your hand. Remain with the current hand.",
+"ctx": "imagen: página de reglas de minijuego (rule_blackjack1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70784,
+"en": "If the first two cards you receive are of the same value,",
+"ctx": "imagen: página de reglas de minijuego (rule_blackjack1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70785,
+"en": "you may split the cards to create two hands.",
+"ctx": "imagen: página de reglas de minijuego (rule_blackjack1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70786,
+"en": "· Double Down:After seeing the first two cards, you may double",
+"ctx": "imagen: página de reglas de minijuego (rule_blackjack1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70787,
+"en": "your bet (double down). You must then draw a third card.",
+"ctx": "imagen: página de reglas de minijuego (rule_blackjack1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70788,
+"en": "Terminology (2)",
+"ctx": "imagen: página de reglas de minijuego (rule_blackjack2); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70789,
+"en": "·Surrender: A declaration of surrender. Since half of your stake is",
+"ctx": "imagen: página de reglas de minijuego (rule_blackjack2); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70790,
+"en": "returned to you, this option is useful when there appears to be no chance of victory.",
+"ctx": "imagen: página de reglas de minijuego (rule_blackjack2); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70791,
+"en": "· Insurance: Available when the dealer's revealed card is an ace.",
+"ctx": "imagen: página de reglas de minijuego (rule_blackjack2); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70792,
+"en": "You can purchase insurance for the price of half your stake. In the event that the dealer holds a Blackjack, you lose your stake but receive twice what you paid as insurance.",
+"ctx": "imagen: página de reglas de minijuego (rule_blackjack2); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70793,
+"en": "Terminology (3)",
+"ctx": "imagen: página de reglas de minijuego (rule_blackjack3); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70794,
+"en": "·Six Under: This is achieved if you choose to be hit four times and",
+"ctx": "imagen: página de reglas de minijuego (rule_blackjack3); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70795,
+"en": "receive a total of six cardswithoutbusting.Six Under counts asanautomaticvictory.",
+"ctx": "imagen: página de reglas de minijuego (rule_blackjack3); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70796,
+"en": "Green Card",
+"ctx": "imagen: página de reglas de minijuego (rule_blackjack3); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70797,
+"en": "A green card is contained within the deck. When this card appears, the deck is shuffled together with the cards that have alreadybeen used.",
+"ctx": "imagen: página de reglas de minijuego (rule_blackjack3); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70798,
+"en": "NextPage",
+"ctx": "imagen: página de reglas de minijuego (rule_button); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70799,
+"en": "How to Play:Getting Started",
+"ctx": "imagen: página de reglas de minijuego (rule_chinchiro0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70800,
+"en": "Cee-lo is a four-player game played with three dice.",
+"ctx": "imagen: página de reglas de minijuego (rule_chinchiro0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70801,
+"en": "Three dice are rolled. In the event that two numbers match, the third, non-matching number becomes the \"point.\" Players compete for the highest point.",
+"ctx": "imagen: página de reglas de minijuego (rule_chinchiro0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70802,
+"en": "How toPlay:Points",
+"ctx": "imagen: página de reglas de minijuego (rule_chinchiro1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70803,
+"en": "A point's numerical value determines its strength. 6 is the strongest and 1 is the weakest. If you win with points 1 through 6, the return is the same as your stake.",
+"ctx": "imagen: página de reglas de minijuego (rule_chinchiro1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70804,
+"en": "If you do not establish a point after three rolls, it is",
+"ctx": "imagen: página de reglas de minijuego (rule_chinchiro1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70805,
+"en": "counted as an automatic loss. If any of the dice fly out of the bowl, it is counted as \"missing the pot,\" whichisalsoanautomaticloss.",
+"ctx": "imagen: página de reglas de minijuego (rule_chinchiro1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70806,
+"en": "There are a number of additional combinations that hold special values.",
+"ctx": "imagen: página de reglas de minijuego (rule_chinchiro1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70807,
+"en": "How to Play: Special Combinations",
+"ctx": "imagen: página de reglas de minijuego (rule_chinchiro2); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70808,
+"en": "Trips Achieved by rolling three dice of the same number. Trips consisting of numbers 2 through 6 triple your stake. Trips of all 1's is called an \"ace out\" and quintuples your stake.",
+"ctx": "imagen: página de reglas de minijuego (rule_chinchiro2); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70809,
+"en": "Achieved with a combination of 4, 5, and 6. Doubles your stake.",
+"ctx": "imagen: página de reglas de minijuego (rule_chinchiro2); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70810,
+"en": "Achieved with a combination of 1, 2, and 3. However, the combination results in a loss of double your stake.",
+"ctx": "imagen: página de reglas de minijuego (rule_chinchiro2); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70811,
+"en": "Musashi :",
+"ctx": "imagen: página de reglas de minijuego (rule_chinchiro3); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70812,
+"en": "Rolling 6, 3, and 4 has the same value as getting a 6, but doubles the amounts won or lost.",
+"ctx": "imagen: página de reglas de minijuego (rule_chinchiro3); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70813,
+"en": "All-odds Rolling 1, 3, and 5 counts the same as the previous player's roll. Counts as a 3 when rolled by the first player or banker.",
+"ctx": "imagen: página de reglas de minijuego (rule_chinchiro3); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70814,
+"en": "All-evens: Rolling 2, 4, and 6 will count the same as the next player's roll. Counts as a 4 when rolled by the first player or banker.",
+"ctx": "imagen: página de reglas de minijuego (rule_chinchiro3); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70815,
+"en": "HowtoPlay:Steps",
+"ctx": "imagen: página de reglas de minijuego (rule_chinchiro4); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70816,
+"en": "1. First, a banker is selected. The remaining players place their bets, which the banker meets.",
+"ctx": "imagen: página de reglas de minijuego (rule_chinchiro4); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70817,
+"en": "2. The banker throws the dice first, followed by each",
+"ctx": "imagen: página de reglas de minijuego (rule_chinchiro4); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70818,
+"en": "player. Bets are settled after all throws have been completed.",
+"ctx": "imagen: página de reglas de minijuego (rule_chinchiro4); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70819,
+"en": "However, the outcome of the game is decided on the spot if the banker rolls one of the combinations on the next page.",
+"ctx": "imagen: página de reglas de minijuego (rule_chinchiro4); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70820,
+"en": "How to Play:Steps",
+"ctx": "imagen: página de reglas de minijuego (rule_chinchiro5); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70821,
+"en": "A point of 6: A combination (other than missing the pot):",
+"ctx": "imagen: página de reglas de minijuego (rule_chinchiro5); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70822,
+"en": "Bankerwins sameamountasthe stake",
+"ctx": "imagen: página de reglas de minijuego (rule_chinchiro5); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70823,
+"en": "Bankerwinsbetween2to5 timesthestake",
+"ctx": "imagen: página de reglas de minijuego (rule_chinchiro5); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70824,
+"en": "A point of 1: Missed the pot: No point:",
+"ctx": "imagen: página de reglas de minijuego (rule_chinchiro5); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70825,
+"en": "Banker loses same amount as the stake",
+"ctx": "imagen: página de reglas de minijuego (rule_chinchiro5); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70826,
+"en": "Banker loses same amount as the stake Bankerlosesdoublethestake",
+"ctx": "imagen: página de reglas de minijuego (rule_chinchiro5); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70827,
+"en": "3. When a round ends, the player to the left of the banker",
+"ctx": "imagen: página de reglas de minijuego (rule_chinchiro5); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70828,
+"en": "becomes the new banker. Like before, the banker rolls first, followed by the players, until the game is set.",
+"ctx": "imagen: página de reglas de minijuego (rule_chinchiro5); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70829,
+"en": "The game ends when all players have been banker or if a player runs out of chips.",
+"ctx": "imagen: página de reglas de minijuego (rule_chinchiro5); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70830,
+"en": "On their first turn, a player can decide to forfeit their right to three tries and instead throw the dice only once, but with a triple payout if they win. This is called a One-roll Triple.",
+"ctx": "imagen: página de reglas de minijuego (rule_chinchiro6); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70831,
+"en": "SINGLE",
+"ctx": "imagen: página de reglas de minijuego (rule_countup_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70832,
+"en": "TRIPLE",
+"ctx": "imagen: página de reglas de minijuego (rule_countup_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70833,
+"en": "DOUBLE",
+"ctx": "imagen: página de reglas de minijuego (rule_countup_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70834,
+"en": "Single Area(x1)",
+"ctx": "imagen: página de reglas de minijuego (rule_countup_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70835,
+"en": "Triple Area(x3)",
+"ctx": "imagen: página de reglas de minijuego (rule_countup_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70836,
+"en": "DoubleArea(x2)",
+"ctx": "imagen: página de reglas de minijuego (rule_countup_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70837,
+"en": "25or50POINTS 50POINTS",
+"ctx": "imagen: página de reglas de minijuego (rule_countup_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70838,
+"en": "BULL",
+"ctx": "imagen: página de reglas de minijuego (rule_countup_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70839,
+"en": "Bull's-eye:25 or50pts.",
+"ctx": "imagen: página de reglas de minijuego (rule_countup_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70840,
+"en": "MaxPts:Triple 20.J1 round =3 throws.",
+"ctx": "imagen: página de reglas de minijuego (rule_countup_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70841,
+"en": "<Victory Conditions> Attain the highest total score.",
+"ctx": "imagen: página de reglas de minijuego (rule_countup_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70842,
+"en": "<Summary>",
+"ctx": "imagen: página de reglas de minijuego (rule_countup_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70843,
+"en": "Gain the highest score. Competefor thehighest totalafter threerounds.",
+"ctx": "imagen: página de reglas de minijuego (rule_countup_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70844,
+"en": "2MARKS 3MARKS 1MARKS",
+"ctx": "imagen: página de reglas de minijuego (rule_cricket_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70845,
+"en": "Introduction SINGLE1MARK DOUBLE2MARKS TRIPLE3MARKS",
+"ctx": "imagen: página de reglas de minijuego (rule_cricket_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70846,
+"en": "BULC",
+"ctx": "imagen: página de reglas de minijuego (rule_cricket_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70847,
+"en": "Closeanumberbyhittingitthreetimes. Note",
+"ctx": "imagen: página de reglas de minijuego (rule_cricket_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70848,
+"en": "20 CLESE",
+"ctx": "imagen: página de reglas de minijuego (rule_cricket_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70849,
+"en": "NO POINT",
+"ctx": "imagen: página de reglas de minijuego (rule_cricket_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70850,
+"en": "Hit closed number to attain pts.",
+"ctx": "imagen: página de reglas de minijuego (rule_cricket_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70851,
+"en": "Nopts ifnumberisclosedbyall.",
+"ctx": "imagen: página de reglas de minijuego (rule_cricket_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70852,
+"en": "15~20+BULL",
+"ctx": "imagen: página de reglas de minijuego (rule_cricket_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70853,
+"en": "<VictoryConditions> Attainthemostpoints. <Summary>",
+"ctx": "imagen: página de reglas de minijuego (rule_cricket_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70854,
+"en": "ValidTargets:Numbers15 to20andBull's-eye. Single: One hit, Double:Two hits, Triple: Three hits Threehitsclosesanumber(makingityourown), andfurtherhitsyieldpoints. Anumbernolongeryieldspointswhenclosedbyall. Gameendswhenplayerwithmostptsclosesallnumbers.",
+"ctx": "imagen: página de reglas de minijuego (rule_cricket_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70855,
+"en": "DARTSLVE2",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_01_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70856,
+"en": "01GAMERULE",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_01_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70857,
+"en": "TSLVE2",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_01_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70858,
+"en": "DARTSI",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_01_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70859,
+"en": "DARTS&RESULT",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_01_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70860,
+"en": "ROURE",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_01_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70861,
+"en": "OARTSLVE2",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_01_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70862,
+"en": "RTSLIVE2",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_01_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70863,
+"en": "DART",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_01_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70864,
+"en": "DAR",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_01_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70865,
+"en": "Playet",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_01_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70866,
+"en": "Susunu Yamagata",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_01_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70867,
+"en": "VE2",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_01_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70868,
+"en": "IVE2",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_01_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70869,
+"en": "《01 Game》",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_01_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70870,
+"en": "Try to reduce your score to exactly zero.",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_01_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70871,
+"en": "DAF",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_01_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70872,
+"en": "ROUND",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_01_1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 70873,
+"en": "OARTSLIVE2",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_01_1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70874,
+"en": "You winatzeropoints.",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_01_1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70875,
+"en": "SINGLE1",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_01_1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70876,
+"en": "《How to Win》",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_01_1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70877,
+"en": "Be thefirsttoreduceyourscoreto exactlyzero.",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_01_1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70878,
+"en": "ORE",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_01_2); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70879,
+"en": "BUST",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_01_2); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70880,
+"en": "Susuny Yamsgata",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_01_2); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70881,
+"en": "SINGLE20",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_01_2); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70882,
+"en": "《Game Overview》",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_01_2); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70883,
+"en": "DARTSLI",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_01_2); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70884,
+"en": "Going below zero is known as \"going bust.\"",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_01_2); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70885,
+"en": "DARTSLIN",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_01_3); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70886,
+"en": "Your score is reset to its starting value and play continues with the next player.",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_01_3); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70887,
+"en": "COUNT-UPRULE",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_countup_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70888,
+"en": "1 /3SOORB",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_countup_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70889,
+"en": "GAME PREDICTION",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_countup_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70890,
+"en": "《Count-Up》",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_countup_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70891,
+"en": "Starting from zero points, compete for the highest point total in a predetermined number of rounds.",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_countup_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70892,
+"en": "PART",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_countup_0); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70893,
+"en": "The higher score wins.",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_countup_1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70894,
+"en": "Susunu Yamapata",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_countup_1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70895,
+"en": "Player with the highest score wins.",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_countup_1); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70896,
+"en": "DARTSLME2",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_cricket_00); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70897,
+"en": "CRICKETGAMERULE",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_cricket_00); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70898,
+"en": "《StandardCricket》",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_cricket_00); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70899,
+"en": "The game uses the numbers 15 to 20 and the bull's-eye.",
+"ctx": "imagen: página de reglas de minijuego (rule_darts_cricket_00); párrafo de instrucciones. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+}
+]

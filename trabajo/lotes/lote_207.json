@@ -1,0 +1,922 @@
+[
+{
+"id": 44910,
+"en": "Okay... Let's go home, Dad!",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44911,
+"en": "So you're good now, Haruka?",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44912,
+"en": "Hey, wait up! I haven't had a chance to thank you properly. I know it's not much, but here, take this.",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44913,
+"en": "You got <Color:8>Beads of Good Fortune<Color:Default>.",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44914,
+"en": "Thanks, mister. I hope you can go see your Haruka-chan sometime. I bet she misses you, too.",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44915,
+"en": "Like you said, isn't it a dad's job to bring their kids back home when they run away?",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44916,
+"en": "...You're right.",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44917,
+"en": "(Not that it was Haruka who ran away...)",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44918,
+"en": "Is this the place? Where's my daughter?",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44919,
+"en": "She should be here...",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44920,
+"en": "I don't see her anywhere! What's the meaning of this!?",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44921,
+"en": "Over here, you old farts!",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44922,
+"en": "Haruka? What's going on here?",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44923,
+"en": "It's those guys that were tormenting that puppy. Looks like they're back with reinforcements.",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44924,
+"en": "You may think you're tough, but we have strength in numbers now. You don't stand a chance!",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44925,
+"en": "You'll be dead as a doornail by the time we're finished with you!",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44926,
+"en": "You stay back. I can take these guys.",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44927,
+"en": "I can't let you do this alone. They've taken my daughter hostage. What kind of father could just stand here and watch!?",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44928,
+"en": "All right. Then let's take them on together. Time to give these brats a lesson in humility!",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44929,
+"en": "Dude. We are so, so sorry! Please don't hurt us anymore!",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44930,
+"en": "You got a pack of <Color:8>1-2-3 Gum<Color:Default>.",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44931,
+"en": "Um... Thanks, mister!",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44932,
+"en": "Don't mention it. They didn't hurt you, did they? If you'd\nlike, I can take you home.",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44933,
+"en": "Actually, I ran away... I had a fight with my dad.",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44934,
+"en": "A kind girl like you really ran away from home?",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44935,
+"en": "Yeah... My dad's probably still angry with me. So I don't want to go back right now.",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44936,
+"en": "What's your name?",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44937,
+"en": "...It's Haruka. Haruka Shinohara.",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44938,
+"en": "Haruka!? Interesting... Even your name is the same.",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44939,
+"en": "The same as who?",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44940,
+"en": "So you and this Haruka-chan live apart now?",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44941,
+"en": "Yeah... I'm not sure I'll ever see her again.",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44942,
+"en": "Why not? Can't you just go and visit?",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44943,
+"en": "It's a bit more complicated than that. As much as I want to be in her life... I know I'm only being selfish.",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44944,
+"en": "Besides, I think I've done all I can for her as a father. This is probably for the best.",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44945,
+"en": "How about you? Why'd you run away?",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44946,
+"en": "Here's the thing. I'm not actually related to my dad, either.",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44947,
+"en": "I guess that's another thing I've got in common with your Haruka-chan. Strange, isn't it?",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44948,
+"en": "My real dad died a long time ago. And normally, my stepdad's\nreally nice... but he gets super angry these days. Something\nabout work not going well. I don't know the details.",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44949,
+"en": "Anyway, he blew up at me for some reason, and I told him to\nhis face, \"My <Italic>real</Italic> dad would never yell at me!\" Then I left\nthe house...",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44950,
+"en": "When I mentioned having a real dad, my stepdad got this\nreally sad look on his face... He just kept staring at me,\nlike he'd been hit in the head or something.",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44951,
+"en": "That's when I knew I'd hurt his feelings real bad. I guess that's why he didn't come running after me.",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44952,
+"en": "*sniffle* I bet Mom and Dad are glad I'm not around to cause trouble anymore...",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44953,
+"en": "So... So now... I've got nowhere to go home! *sob*",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44954,
+"en": "Where do you live, Haruka? I'll go get your dad to come pick you up.",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44955,
+"en": "But I don't think he... *sigh*",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44956,
+"en": "Your dad was probably just caught off guard. There's no way he'd be happy you're gone. I'm sure of it.",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44957,
+"en": "It's also a dad's job to bring his kids home when they run away. You just need to wait for him.",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44958,
+"en": "Where's your dad right now?",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44959,
+"en": "Probably at Café Portugal, working with Mom. We actually live in that building.",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44960,
+"en": "Café Portugal? Okay. I'll be back with your dad soon. Just hang tight for a bit.",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44961,
+"en": "Okay, me next! I'll hit it for sure this time! Just you watch!",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44962,
+"en": "Stop it! Don't you bully Chiro anymore!",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44963,
+"en": "Who's this kid? Is that her dog?",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44964,
+"en": "Who cares? Hey, kid! You better scoot, or we'll throw rocks at you next!",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44965,
+"en": "Heh, yeah! Show no mercy! That's how we dropouts do it!\nScrew the rules! Annihilate everything!",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44966,
+"en": "Oh no!",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44967,
+"en": "Huh? Who's this old prick? You lost on your way to the\nbingo game?",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44968,
+"en": "Funny... I feel like this isn't the first time seeing this.",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44969,
+"en": "And now he's babbling on like a senile old fool. He's losing it!",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44970,
+"en": "Hey, mister? You're not... one of them, are you?",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44971,
+"en": "Not even close. Just stand back and you'll see.",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44972,
+"en": "You there. Does it make you feel strong to pick on the weak and defenseless? It's a shame I have to say this, but I guess every town has its fair share of losers.",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44973,
+"en": "Shut your face! You shoulda never messed with us in the first place! Boys, cripple this sonuvabitch!",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44974,
+"en": "Yowl!",
+"ctx": "diálogo uid010c0c62 + frase de acompañante/calle STID_ST_FUKUOKA"
+},
+{
+"id": 44975,
+"en": "(Was that a dog?)",
+"ctx": "diálogo uid010c0c62"
+},
+{
+"id": 44976,
+"en": "Argh! That was amazing, yo! You wiped the dance floor with\nme!",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 44977,
+"en": "*pant* *pant* Well, I managed to pull it off, but...",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 44978,
+"en": "Dancing is seriously hard work; I'd have to give up smoking\nif I wanted to do this for a living... I've definitely\ngained some newfound respect for Haruka-chan.",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 44979,
+"en": "But your footwork⑬it's out of this world! I was right about you,\nyo.",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 44980,
+"en": "Aight, like I promised, you can now officially call yourself\n\"the man who beat Hide.\"",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 44981,
+"en": "Er, no thanks. That's one title I won't be using.",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 44982,
+"en": "Unggh! My back!",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 44983,
+"en": "Yo, you all right?",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 44984,
+"en": "Oww... I think so. That'll teach me not to try anything like\nthat again.",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 44985,
+"en": "I guess you was tellin' the truth when you said you weren't\na dancer. Sorry I made you do that.",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 44986,
+"en": "Urk! Owww...",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 44987,
+"en": "Here, take this. Maybe it'll help with your back.",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 44988,
+"en": "You ain't exactly young anymore, yo. Take care of yourself,\naight!?",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 44989,
+"en": "This dude's too frickin' tough. Guy really knows how to\nfight!",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 44990,
+"en": "Please, man, forgive us!",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 44991,
+"en": "Yeah, you saved us. For some reason Osaka dialect makes guys\nlike that way scarier...",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 44992,
+"en": "Yo! I saw you lay the smackdown on those guys. You're really\nsomethin', you know that?",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 44993,
+"en": "Huh? Who might you be?",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 44994,
+"en": "I'm Hide, yo! I'm a dancer! What was that funky footwork\nyou were flippin' out there?",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 44995,
+"en": "I don't know how I'm supposed to answer that.",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 44996,
+"en": "Not many guys can hop around like you. You're like some\nkinda spring-heeled demon! That told me everything I needed\nto know!",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 44997,
+"en": "Oh, yeah? And what's that?",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 44998,
+"en": "Your true identity, what else!? You're a dancer, ain't you?\nAnd a damn good one, too.",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 44999,
+"en": "Haha, hardly. I'm nothing like that.",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 45000,
+"en": "Don't play dumb, yo! You don't need footwork like that just\nto kick fools around in the street! No way!",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 45001,
+"en": "(Why do I attract these weirdos?)",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 45002,
+"en": "From the looks of you, you ain't from around here. Don't\ntell me you came all the way to Sotenbori without plannin'\nto take me on, yo!",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 45003,
+"en": "Well, I don't even know who you are, so...",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 45004,
+"en": "I told you, man, I'm Hide! The dancer! You got memory\nproblems or somethin'?",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 45005,
+"en": "No, I remember that, but that's not the point.",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 45006,
+"en": "Okay, word. Yeah, I'm still a rising star, but it won't be\nlong before I'm a household name.",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 45007,
+"en": "You can't call yourself a dancer then breeze right by me\nlike it's nothin', yo!",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 45008,
+"en": "...Sure, pal, whatever you say. Look, I have to get going.",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 45009,
+"en": "Yo, you're runnin' away!? Forget that! I challenge you to a\nduel!",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 45010,
+"en": "...A duel?",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 45011,
+"en": "A dance battle! If you win, you'll be known far and wide as\n\"the man who beat Hide\"!",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 45012,
+"en": "I think I can live without that title.",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 45013,
+"en": "But if you run, you'll be forever branded \"the chicken who\nran from Hide.\" You wanna live with that, yo?",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 45014,
+"en": "I keep telling you, I'm not a dancer.",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 45015,
+"en": "You sayin' you're cool with being a chicken!?",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 45016,
+"en": "Ya gave us the eye, didn't ya? Get down on all fours and beg\nfor forgiveness!",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 45017,
+"en": "Wait, we did no such thing. We weren't looking at you\nwhatsoever...",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 45018,
+"en": "The fuck is that? Tokyo talk? Ugh, your accent makes me\nwanna yack!",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 45019,
+"en": "But, we didn't, uh... We ain't given ya no dirty look.",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 45020,
+"en": "Ya little shit! You dissin' the Osaka dialect!?",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 45021,
+"en": "No, we...!",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 45022,
+"en": "Yo, mind if I cut in?",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 45023,
+"en": "The fuck do you want? Keep your nose outta where it don't\nbelong!",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 45024,
+"en": "Please help us! These guys started harassing us for no\nreason. They're totally ruining our field trip!",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 45025,
+"en": "Whaddya mean, harassin'? Shut your mouth, bitch!",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 45026,
+"en": "Easy there, tiger. They're just a couple of high school\nkids. How about letting them go, eh?",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 45027,
+"en": "Shaddup! I told ya to keep outta this!",
+"ctx": "diálogo uid010c0c75"
+},
+{
+"id": 45028,
+"en": "Okay, Haruka-chan. Here's where we're filming the report.\nIt's a Japanese cuisine restaurant named Komian.",
+"ctx": "diálogo uid010c0c79"
+},
+{
+"id": 45029,
+"en": "I was thinking I would introduce each dish, and then you\ncould taste it and give your opinion. How does that sound?",
+"ctx": "diálogo uid010c0c79"
+},
+{
+"id": 45030,
+"en": "Right. Tatsuya can't try the food himself right now, what\nwith his stomachache and all, so his role would be to\nexplain and give commentary.",
+"ctx": "diálogo uid010c0c79"
+},
+{
+"id": 45031,
+"en": "All you have to do is follow my lead and make a few remarks\nabout each dish.",
+"ctx": "diálogo uid010c0c79"
+},
+{
+"id": 45032,
+"en": "All right. I'll do my best!",
+"ctx": "diálogo uid010c0c79"
+},
+{
+"id": 45033,
+"en": "Great! Are you ready? It's time to get started!",
+"ctx": "diálogo uid010c0c79"
+},
+{
+"id": 45034,
+"en": "Oh, Haruka-chan! It's you!",
+"ctx": "diálogo uid010c0c79"
+},
+{
+"id": 45035,
+"en": "Oh, hello, Tatsuya-san.",
+"ctx": "diálogo uid010c0c79"
+},
+{
+"id": 45036,
+"en": "What perfect timing! I'm really sorry, but could I ask\nyou a favor?",
+"ctx": "diálogo uid010c0c79"
+},
+{
+"id": 45037,
+"en": "A favor? Sure. What is it?",
+"ctx": "diálogo uid010c0c79"
+},
+{
+"id": 45038,
+"en": "Well, we're just about to start the filming of a show\nsegment on location. This is the director, Ichimura-san.",
+"ctx": "diálogo uid010c0c79"
+},
+{
+"id": 45039,
+"en": "Nice to meet you. I'm Ichimura.",
+"ctx": "diálogo uid010c0c79"
+},
+{
+"id": 45040,
+"en": "Hello. It's very nice to meet you. I'm Haruka Sawamura, from\nDyna Chair.",
+"ctx": "diálogo uid010c0c79"
+},
+{
+"id": 45041,
+"en": "Anyway, I'm supposed to be doing a gourmet report right now,\nbut, unfortunately, I have a really bad stomachache. Ow!",
+"ctx": "diálogo uid010c0c79"
+},
+{
+"id": 45042,
+"en": "I'm afraid I couldn't possibly eat anything at the moment.\nSo, I hate to ask you this, but do you think you could help\nme do the report?",
+"ctx": "diálogo uid010c0c79"
+},
+{
+"id": 45043,
+"en": "Hey, great idea, Tatsuya! We are kind of in an emergency,\nafter all.",
+"ctx": "diálogo uid010c0c79"
+},
+{
+"id": 45044,
+"en": "But I've never done a gourmet report before...",
+"ctx": "diálogo uid010c0c79"
+},
+{
+"id": 45045,
+"en": "That's all right. Nobody expects you to be a food expert.\nAll you have to do is try the dishes and give your honest\nopinion.",
+"ctx": "diálogo uid010c0c79"
+},
+{
+"id": 45046,
+"en": "Ouch! Here comes another wave! Ngh!",
+"ctx": "diálogo uid010c0c79"
+},
+{
+"id": 45047,
+"en": "Are you all right?",
+"ctx": "diálogo uid010c0c79 + diálogo uid012003b8 …"
+},
+{
+"id": 45048,
+"en": "Oh, please, Haruka-san! You'd really be helping Tatsuya out!\nAnd you'd get paid, too, of course.",
+"ctx": "diálogo uid010c0c79"
+},
+{
+"id": 45049,
+"en": "What do you say, Haruka? Will you help me do the report? Ow!\nOw! Ow!",
+"ctx": "diálogo uid010c0c79"
+},
+{
+"id": 45050,
+"en": "All right. If you think I can be of any help to you at all,\nI'm willing to give it a try.",
+"ctx": "diálogo uid010c0c79"
+},
+{
+"id": 45051,
+"en": "You will? Oh, thank goodness! You're a lifesaver, Haruka!",
+"ctx": "diálogo uid010c0c79"
+},
+{
+"id": 45052,
+"en": "We really appreciate this! Tell you what, I'll call Dyna\nChair and make the arrangements.",
+"ctx": "diálogo uid010c0c79"
+},
+{
+"id": 45053,
+"en": "Now, let's get over to the restaurant! Everybody's waiting\nfor us!",
+"ctx": "diálogo uid010c0c79"
+},
+{
+"id": 45054,
+"en": "I'm really sorry, but I don't think I'd be any help.",
+"ctx": "diálogo uid010c0c79"
+},
+{
+"id": 45055,
+"en": "No!? Are you sure? Now what are we going to do,\nIchimura-san?",
+"ctx": "diálogo uid010c0c79"
+},
+{
+"id": 45056,
+"en": "Hmm. We're pretty much up the creek...",
+"ctx": "diálogo uid010c0c79"
+},
+{
+"id": 45057,
+"en": "Oh, Haruka-chan! Have you changed your mind about helping\nwith the report? I think my stomachache is getting worse!",
+"ctx": "diálogo uid010c0c79"
+},
+{
+"id": 45058,
+"en": "Yes, if you could do this, Haruka-chan, you'd really be\nhelping Tatsuya-san out! And you'd get paid, too, of course.",
+"ctx": "diálogo uid010c0c79"
+},
+{
+"id": 45059,
+"en": "Well, here we are at Komian, a Japanese restaurant in\nSotenbori.",
+"ctx": "diálogo uid010c0c7c"
+},
+{
+"id": 45060,
+"en": "And today, we have a special guest.",
+"ctx": "diálogo uid010c0c7c"
+},
+{
+"id": 45061,
+"en": "Wildly popular singer, Haruka Sawamura-chan!",
+"ctx": "diálogo uid010c0c7c"
+},
+{
+"id": 45062,
+"en": "Hello, everyone! I'm Haruka Sawamura!",
+"ctx": "diálogo uid010c0c7c"
+},
+{
+"id": 45063,
+"en": "You live and work here in Osaka, don't you, Haruka? Have you\never been to Komian before?",
+"ctx": "diálogo uid010c0c7c"
+},
+{
+"id": 45064,
+"en": "No, this is my very first time. I can't wait to see what\nkind of dishes they'll serve!",
+"ctx": "diálogo uid010c0c7c"
+},
+{
+"id": 45065,
+"en": "Well, you're in for a real treat. I had to eat my way across\nall of Sotenbori before finding this jewel.",
+"ctx": "diálogo uid010c0c7c"
+},
+{
+"id": 45066,
+"en": "Today, you'll get to enjoy the refinement and elegance of\ntraditional Japanese cuisine!",
+"ctx": "diálogo uid010c0c7c"
+},
+{
+"id": 45067,
+"en": "I'm really looking forward to it!",
+"ctx": "diálogo uid010c0c7c"
+},
+{
+"id": 45068,
+"en": "No. I'm not really all that crazy about Japanese cuisine, so\nI never come to places like this.",
+"ctx": "diálogo uid010c0c7c"
+},
+{
+"id": 45069,
+"en": "No? I see. Well, you certainly are an honest girl, aren't\nyou?",
+"ctx": "diálogo uid010c0c7c"
+},
+{
+"id": 45070,
+"en": "Oh! Uh, I'm sorry!",
+"ctx": "diálogo uid010c0c7c"
+},
+{
+"id": 45071,
+"en": "That's all right. It actually makes introducing this\nrestaurant to you all the more exciting! Maybe this will be\nthe day you change your mind!",
+"ctx": "diálogo uid010c0c7c"
+},
+{
+"id": 45072,
+"en": "I ate my way across all of Sotenbori, and this place was one\nof the very best. Now then, are ready to order?",
+"ctx": "diálogo uid010c0c7c"
+},
+{
+"id": 45073,
+"en": "Yes, I think so!",
+"ctx": "diálogo uid010c0c7c"
+},
+{
+"id": 45074,
+"en": "Yes, I'm actually a regular here. I just love this place!",
+"ctx": "diálogo uid010c0c7c"
+},
+{
+"id": 45075,
+"en": "A regular!? Really? I was looking forward to introducing it\nto you.",
+"ctx": "diálogo uid010c0c7c"
+},
+{
+"id": 45076,
+"en": "Oh! Uh, I'm sorry! But I can certainly try to see it\nthrough fresh eyes again, as if I were coming here for the very first time.",
+"ctx": "diálogo uid010c0c7c"
+},
+{
+"id": 45077,
+"en": "All right. Well, at least I can introduce the place to the\nfolks at home!",
+"ctx": "diálogo uid010c0c7c"
+},
+{
+"id": 45078,
+"en": "Yeah, sorry about that...",
+"ctx": "diálogo uid010c0c7c"
+},
+{
+"id": 45079,
+"en": "The first dish is Komian's sashimi platter, raw slices of\nfish so fresh, they were actually still swimming in the tank\njust moments ago!",
+"ctx": "diálogo uid010c0c7c"
+},
+{
+"id": 45080,
+"en": "This dish has been prepared especially for you, so I really\nhope you enjoy it.",
+"ctx": "diálogo uid010c0c7c"
+},
+{
+"id": 45081,
+"en": "I'm sure I will!",
+"ctx": "diálogo uid010c0c7c"
+},
+{
+"id": 45082,
+"en": "Well, Haruka-chan?",
+"ctx": "diálogo uid010c0c7c"
+},
+{
+"id": 45083,
+"en": "(Mmm, it's so good! The fish is so fresh! But what do I say\nabout it?)",
+"ctx": "diálogo uid010c0c7c"
+},
+{
+"id": 45084,
+"en": "Mmm, it's delicious!",
+"ctx": "diálogo uid010c0c7c"
+},
+{
+"id": 45085,
+"en": "Isn't it? But what do you think? In what way is it so\ndelicious?",
+"ctx": "diálogo uid010c0c7c"
+},
+{
+"id": 45086,
+"en": "What way? Well, uh, it's extremely delicious...",
+"ctx": "diálogo uid010c0c7c"
+},
+{
+"id": 45087,
+"en": "Uh, okay. Yes, I'm sure it is. They serve some of the best\nsashimi I've ever tasted here.",
+"ctx": "diálogo uid010c0c7c"
+},
+{
+"id": 45088,
+"en": "(Oh, all right. I get it. Just saying \"it's delicious\"\ndoesn't give Tatsuya-san much to respond to.)",
+"ctx": "diálogo uid010c0c7c"
+},
+{
+"id": 45089,
+"en": "This sashimi's practically melting in my mouth!",
+"ctx": "diálogo uid010c0c7c"
+},
+{
+"id": 45090,
+"en": "Wonderful, isn't it? You only get to experience such a\nsensation with the very freshest sashimi.",
+"ctx": "diálogo uid010c0c7c"
+},
+{
+"id": 45091,
+"en": "Oh, it's delicious!",
+"ctx": "diálogo uid010c0c7c"
+},
+{
+"id": 45092,
+"en": "I knew you would like it! I was looking forward to seeing\nthat delightful smile of yours.",
+"ctx": "diálogo uid010c0c7c"
+},
+{
+"id": 45093,
+"en": "Aw! Well, thank you. It really is so very soft and yummy. I\ncan see why you recommended it!",
+"ctx": "diálogo uid010c0c7c"
+}
+]

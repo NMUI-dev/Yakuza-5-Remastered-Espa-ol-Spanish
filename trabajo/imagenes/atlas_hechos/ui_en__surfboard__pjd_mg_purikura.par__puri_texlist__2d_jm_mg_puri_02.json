@@ -1,0 +1,376 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_purikura.par/puri_texlist/2d_jm_mg_puri_02",
+ "fuente": "times.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    506,
+    240,
+    624,
+    304
+   ],
+   "en": "Local Exclusive",
+   "es": "",
+   "dejar": true,
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 114
+  },
+  {
+   "caja": [
+    426,
+    242,
+    505,
+    259
+   ],
+   "en": "Time Left",
+   "es": "Tiempo",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 75
+  },
+  {
+   "caja": [
+    2,
+    243,
+    192,
+    269
+   ],
+   "en": "Insert 400 yen!",
+   "es": "¡Inserta 400 yenes!",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 188,
+   "alto": 22,
+   "color": [
+    255,
+    96,
+    208
+   ]
+  },
+  {
+   "caja": [
+    195,
+    246,
+    319,
+    268
+   ],
+   "en": "Insert Coin(s)",
+   "es": "Inserta moneda(s)",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 120
+  },
+  {
+   "caja": [
+    328,
+    246,
+    422,
+    268
+   ],
+   "en": "Don't Play",
+   "es": "No jugar",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 90
+  },
+  {
+   "caja": [
+    419,
+    268,
+    504,
+    304
+   ],
+   "en": "shot!",
+   "es": "¡Foto!",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 81,
+   "alto": 20
+  },
+  {
+   "caja": [
+    14,
+    279,
+    386,
+    307
+   ],
+   "en": "Pick 3 frames!",
+   "es": "¡Elige 3 marcos!",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 368
+  },
+  {
+   "caja": [
+    696,
+    288,
+    800,
+    312
+   ],
+   "en": "Yes",
+   "es": "Sí",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 100
+  },
+  {
+   "caja": [
+    696,
+    314,
+    800,
+    340
+   ],
+   "en": "No",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 100
+  },
+  {
+   "caja": [
+    638,
+    380,
+    792,
+    410
+   ],
+   "en": "Draw on It?",
+   "es": "¿Dibujar?",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 150,
+   "alto": 17
+  },
+  {
+   "caja": [
+    2,
+    319,
+    73,
+    341
+   ],
+   "en": "OK",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 67
+  },
+  {
+   "caja": [
+    232,
+    345,
+    324,
+    361
+   ],
+   "en": "Change",
+   "es": "Cambiar",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 90
+  },
+  {
+   "caja": [
+    232,
+    361,
+    324,
+    377
+   ],
+   "en": "Selection",
+   "es": "selección",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 90
+  },
+  {
+   "caja": [
+    0,
+    344,
+    232,
+    376
+   ],
+   "en": "Is this frame OK?",
+   "es": "¿Te gusta?",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 228,
+   "alto": 18
+  },
+  {
+   "caja": [
+    845,
+    380,
+    910,
+    392
+   ],
+   "en": "FRAME03",
+   "es": "MARCO03",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 60
+  },
+  {
+   "caja": [
+    912,
+    380,
+    976,
+    392
+   ],
+   "en": "FRAME01",
+   "es": "MARCO01",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 60
+  },
+  {
+   "caja": [
+    110,
+    386,
+    524,
+    419
+   ],
+   "en": "Step Up to the Camera!",
+   "es": "¡Ponte frente a la cámara!",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 410
+  },
+  {
+   "caja": [
+    845,
+    392,
+    910,
+    404
+   ],
+   "en": "FRAME04",
+   "es": "MARCO04",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 60
+  },
+  {
+   "caja": [
+    845,
+    404,
+    910,
+    416
+   ],
+   "en": "FRAME02",
+   "es": "MARCO02",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 60
+  },
+  {
+   "caja": [
+    284,
+    452,
+    380,
+    478
+   ],
+   "en": "SELECT",
+   "es": "ELEGIR",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "alto": 17,
+   "alin": "centro",
+   "ancho_max": 90
+  },
+  {
+   "caja": [
+    112,
+    430,
+    242,
+    463
+   ],
+   "en": "FINISH",
+   "es": "FIN",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 126
+  },
+  {
+   "caja": [
+    305,
+    135,
+    416,
+    155
+   ],
+   "en": "PRINT ♡ CIRCLE",
+   "es": "",
+   "dejar": true,
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 107
+  },
+  {
+   "caja": [
+    269,
+    313,
+    332,
+    344
+   ],
+   "en": "Pose",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 59
+  },
+  {
+   "caja": [
+    124,
+    316,
+    165,
+    343
+   ],
+   "en": "OK",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 37
+  },
+  {
+   "caja": [
+    600,
+    342,
+    966,
+    374
+   ],
+   "en": "Pick the one you want to print!",
+   "es": "¡Elige la que quieras imprimir!",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 362
+  }
+ ]
+}

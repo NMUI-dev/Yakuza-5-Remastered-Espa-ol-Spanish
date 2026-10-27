@@ -1,0 +1,60 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_h_tutorial_c.par/texlist_0001/2d_yk_h_tutorial_c",
+ "fuente": "segoeui.ttf",
+ "margen": 2,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    0,
+    96,
+    13
+   ],
+   "en": "LESSON",
+   "es": "LECCIÓN",
+   "fuente": "verdana.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 90,
+   "alto": 14
+  },
+  {
+   "caja": [
+    2,
+    12,
+    92,
+    23
+   ],
+   "en": "TUTORIAL",
+   "es": ""
+  },
+  {
+   "caja": [
+    285,
+    10,
+    493,
+    51
+   ],
+   "en": "CLIMAX HEAT (captura)",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    233,
+    100,
+    441,
+    203
+   ],
+   "en": "Strength = Focus (captura)",
+   "es": "",
+   "dejar": true
+  }
+ ]
+}

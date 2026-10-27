@@ -1,0 +1,624 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_taiko_result.par/texlist_0001/taiko_result_01",
+ "fuente": "segoeuib.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    332,
+    62,
+    548,
+    124
+   ],
+   "en": "Cleared!",
+   "es": "¡Superado!",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 208,
+   "fondo": "lama",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     245,
+     245,
+     245
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     3
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    322,
+    122,
+    562,
+    184
+   ],
+   "en": "You did it!",
+   "es": "¡Lo lograste!",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 232,
+   "fondo": "lama",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     245,
+     245,
+     245
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     3
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    700,
+    40,
+    870,
+    92
+   ],
+   "en": "Not",
+   "es": "No",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 162,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     245,
+     245,
+     245
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     3
+    ],
+    "brillo": null
+   },
+   "alto": 34,
+   "fondo": "fila",
+   "margen": 2
+  },
+  {
+   "caja": [
+    672,
+    88,
+    898,
+    136
+   ],
+   "en": "cleared...",
+   "es": "superado...",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 218,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     245,
+     245,
+     245
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     3
+    ],
+    "brillo": null
+   },
+   "alto": 30,
+   "fondo": "fila",
+   "margen": 2
+  },
+  {
+   "caja": [
+    688,
+    132,
+    872,
+    172
+   ],
+   "en": "Try harder",
+   "es": "¡Esfuérzate más",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 176,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     245,
+     245,
+     245
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     3
+    ],
+    "brillo": null
+   },
+   "alto": 24,
+   "fondo": "fila",
+   "margen": 2
+  },
+  {
+   "caja": [
+    688,
+    168,
+    872,
+    206
+   ],
+   "en": "next time!",
+   "es": "la próxima vez!",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 176,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     245,
+     245,
+     245
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     3
+    ],
+    "brillo": null
+   },
+   "alto": 24,
+   "fondo": "fila",
+   "margen": 2
+  },
+  {
+   "caja": [
+    332,
+    300,
+    548,
+    356
+   ],
+   "en": "Cleared!",
+   "es": "¡Superado!",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 208,
+   "fondo": "lama",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     245,
+     245,
+     245
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     3
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    380,
+    352,
+    500,
+    394
+   ],
+   "en": "Good",
+   "es": "¡Buena",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 112,
+   "fondo": "fila",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     245,
+     245,
+     245
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     3
+    ],
+    "brillo": null
+   },
+   "alto": 24,
+   "margen": 2
+  },
+  {
+   "caja": [
+    328,
+    388,
+    556,
+    432
+   ],
+   "en": "performance!",
+   "es": "actuación!",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 220,
+   "fondo": "fila",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     245,
+     245,
+     245
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     3
+    ],
+    "brillo": null
+   },
+   "alto": 24,
+   "margen": 2
+  },
+  {
+   "caja": [
+    330,
+    538,
+    570,
+    606
+   ],
+   "en": "Too bad...",
+   "es": "Qué lástima...",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 232,
+   "fondo": "lama",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     245,
+     245,
+     245
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     3
+    ],
+    "brillo": null
+   },
+   "alto": 62
+  },
+  {
+   "caja": [
+    345,
+    598,
+    535,
+    640
+   ],
+   "en": "You were",
+   "es": "¡Casi lo",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 182,
+   "fondo": "fila",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     245,
+     245,
+     245
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     3
+    ],
+    "brillo": null
+   },
+   "alto": 26,
+   "margen": 2
+  },
+  {
+   "caja": [
+    345,
+    634,
+    535,
+    678
+   ],
+   "en": "so close!",
+   "es": "logras!",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 182,
+   "fondo": "fila",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     245,
+     245,
+     245
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     3
+    ],
+    "brillo": null
+   },
+   "alto": 26,
+   "margen": 2
+  },
+  {
+   "caja": [
+    838,
+    413,
+    950,
+    466
+   ],
+   "en": "Easy",
+   "es": "Fácil",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 106,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     245,
+     245,
+     245
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     3
+    ],
+    "brillo": null
+   },
+   "alto": 39
+  },
+  {
+   "caja": [
+    845,
+    812,
+    960,
+    868
+   ],
+   "en": "Hard",
+   "es": "Difícil",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 109,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     245,
+     245,
+     245
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     3
+    ],
+    "brillo": null
+   },
+   "alto": 49
+  },
+  {
+   "caja": [
+    273,
+    822,
+    386,
+    868
+   ],
+   "en": "GOOD",
+   "es": "BIEN",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 107,
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    278,
+    902,
+    366,
+    947
+   ],
+   "en": "BAD",
+   "es": "MAL",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 82,
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    472,
+    829,
+    622,
+    869
+   ],
+   "en": "MAX Combo",
+   "es": "Combo MÁX.",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 144,
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    508,
+    865,
+    624,
+    907
+   ],
+   "en": "Drumroll",
+   "es": "Redoble",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 110,
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    776,
+    944,
+    1018,
+    1022
+   ],
+   "en": "SCORE",
+   "es": "PUNTOS",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 236,
+   "estilo": {
+    "arriba": [
+     235,
+     40,
+     40
+    ],
+    "abajo": [
+     200,
+     25,
+     25
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     4
+    ],
+    "brillo": null
+   }
+  }
+ ]
+}

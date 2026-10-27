@@ -1,0 +1,40 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_h_catch.par/texlist/2d_yk_h_catch",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    690,
+    131,
+    887,
+    182
+   ],
+   "en": "Catch",
+   "ocr": "Catch",
+   "es": "",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 193,
+   "dejar": true
+  },
+  {
+   "caja": [
+    681,
+    242,
+    888,
+    294
+   ],
+   "en": "Challenge",
+   "ocr": "Challenge",
+   "es": "",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 203,
+   "dejar": true
+  }
+ ]
+}

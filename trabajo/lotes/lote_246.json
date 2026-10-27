@@ -1,0 +1,917 @@
+[
+{
+"id": 51706,
+"en": "Maybe yer taste buds are messed up.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51707,
+"en": "That's not true at all!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51708,
+"en": "But if it makes it tastes good to me, maybe I'm better off that way.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51709,
+"en": "Yeah, maybe.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51710,
+"en": "I just like beef and pork better. Lamb barbecue places only serve lamb. I like to be able to get tripe and other stuff.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51711,
+"en": "Why not try going to a regular yakiniku restaurant instead of a specialty place then?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51712,
+"en": "Whoa, you can get lamb at yakiniku places here?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51713,
+"en": "Maybe not everywhere, but at most of them.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51714,
+"en": "That's good. Bein' able to have tripe at the same time as lamb must be enjoyable.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51715,
+"en": "Right? Hokkaido's got a lot to be proud of when it comes to our food offerings!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51716,
+"en": "I had no idea. In Tokyo ya can only get lamb barbecue at specialty restaurants.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51717,
+"en": "I wish more people would eat it.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51718,
+"en": "A barbecue at your university? I didn't know ya could do that sorta thing at school.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51719,
+"en": " Sure, people do it all the time. There are special trash cans for it and everything.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51720,
+"en": "Hm. I heard folks were free to do what they wanted at college, but I didn't know ya could even have barbecues.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51721,
+"en": "Do you ever barbecue, Saejima-san?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51722,
+"en": "Yeah, I like campin'. I go all the time.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51723,
+"en": "I figured you were an outdoorsy sort! Are you any good at cooking?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51724,
+"en": "I'm good at startin' fires. I can get a fire goin' on a snow-capped mountain with no lighter.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51725,
+"en": "That's amazing! Let's have a barbecue together next time!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51726,
+"en": "Okay. Make sure ya bring good meat.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51727,
+"en": "I'm better at eatin'. I mostly just wait and let the meat sit over the fire.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51728,
+"en": "Still, if you're a big eater, it's more fun for whoever's doing the cooking.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51729,
+"en": "Yeah, I just keep on stuffin' my face.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51730,
+"en": "I prefer eatin' in restaurants. Gatherin' ingredients and cookin' 'em is a big hassle.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51731,
+"en": "Aww, you don't think it's fun?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51732,
+"en": "I spent a long time havin' my meals served to me at a set time every day. I can't get used to preppin' it all by myself.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51733,
+"en": "Do you make your wife do all the work, Saejima-san? You can't always have it your way.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51734,
+"en": "Nah, I haven't exactly been married...",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51735,
+"en": "Were you cold outside?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51736,
+"en": "It was freezin'. Is it this cold all the time?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51737,
+"en": "Yes. Today isn't really colder than normal.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51738,
+"en": "I'm fine. It's colder up in the mountains. Here in Tsukimino, my normal clothes are enough.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51739,
+"en": "Wow, you're quite the tough guy, Saejima-san.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51740,
+"en": "I can't handle the cold myself.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51741,
+"en": "No? Shouldn't ya be used to it if yer from around here?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51742,
+"en": "I don't get outside much. I'm kind of a shut-in actually. Most of the time I hang around the house.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51743,
+"en": "I get ya. I don't like goin' outside in the cold either.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51744,
+"en": "Right? Come winter, I make it a point to hole up inside and never go out!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51745,
+"en": "I'm jealous. I used to hafta go outside, come rain or snow.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51746,
+"en": "Hey, maybe you could hibernate like me! Then you can come out to work in the spring!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51747,
+"en": "That'd be nice. We Japanese work too much as it is. We deserve to be able to take the winter off.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51748,
+"en": "Right. And since you'd get sunburned in the summer, we can just work in spring and fall.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51749,
+"en": "That's maybe takin' a bit too much time off...",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51750,
+"en": "Ya'd get fat without exercise. I've gotten all sluggish from spendin' too much time indoors.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51751,
+"en": "I know that! I'll make sure to go outside once the snow has melted.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51752,
+"en": "Besides, going out in the cold is bad for you. There are lots of people out there with colds.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51753,
+"en": "Hm. I guess ya've got a point.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51754,
+"en": "How do ya live like that? You can't get much done if ya don't get outta the house.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51755,
+"en": "Well, I do most of my shopping online. Buying a bunch of groceries at once is cheaper anyway. It's surprisingly economical!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51756,
+"en": "So ya eat the same stuff every day?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51757,
+"en": "Yeah, so I go out of my way to change up the seasonings a bit each day, so that I don't get sick of anything.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51758,
+"en": "That's a strange way to focus yer efforts.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51759,
+"en": "But yer out right now. Yer here workin'. How's that make ya a shut-in?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51760,
+"en": "Oh, I live in the building right next door.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51761,
+"en": "I can walk to work in one minute. It's nice! Plus, the club handles my rent for me.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51762,
+"en": "The ideal workplace.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51763,
+"en": "Yeah, but if I ever quit, I'll have to move out. It kinda makes it harder for me to change jobs.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51764,
+"en": "Just how much do ya stay at home anyways? Ya seem more cooped up than a prisoner.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51765,
+"en": "Sounds like a hassle to me. With you bein' so close, if they're ever short-staffed, they're always gonna call ya.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51766,
+"en": "Yeah! The other day it was all cold and snowy, so I called and said I couldn't get to work since the trains were stopped. But they didn't buy it...",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51767,
+"en": "Well, ya are a minute's walk away...",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51768,
+"en": "What are ya, a cat? Yer still young, stop whinin' and go outside.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51769,
+"en": "Oh, I have a cat! He's always lounging around the house.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51770,
+"en": "I like cats. I wanna get one for myself.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51771,
+"en": "Ooh, you like cats too, Saejima-san? I never would have guessed!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51772,
+"en": "What I really like are tigers. But since you can't have one of those as a pet, I gotta go with a cat instead.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51773,
+"en": "Ahaha! A tiger, huh? Well, given how big they are, I bet they'd be super warm.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51774,
+"en": "It'll get fat if ya never let it out. And chubby cats ain't cute at all.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51775,
+"en": "That's not true! I think both cats and people look perfectly cute with a little bit of plumpness to them!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51776,
+"en": "Why are ya praisin' yourself so casual-like?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51777,
+"en": "Was it that obvious?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51778,
+"en": "Gimme a break...",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51779,
+"en": "Just like its owner... Do ya ever let yer cat outside?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51780,
+"en": "Never. I always keep all my windows closed. It gets too cold if I leave them open.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51781,
+"en": "But doesn't the cat ever wanna get out a bit?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51782,
+"en": "No, not at all! He definitely likes to stay inside.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51783,
+"en": "This morning, the TV said that Scorpios would have the best of luck today!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51784,
+"en": "Lucky you. What'd they say?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51785,
+"en": "They said today would be lucky for money! So I've got high hopes!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51786,
+"en": "Want me to buy some drinks?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51787,
+"en": "Do you really mean it?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51788,
+"en": "Sure. I like to work hard and play hard. Might as well have some fun today.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51789,
+"en": "I knew I could count on you, Saejima-san! You're so generous!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51790,
+"en": "Service, please!",
+"ctx": "diálogo uid01340003 + diálogo uid0134003a"
+},
+{
+"id": 51791,
+"en": "I can't afford it. Sorry. Maybe next time.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51792,
+"en": "Okaaay...",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51793,
+"en": "Just kiddin'. I see right through yer attempt at beggin'. I wasn't born yesterday, y'know.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51794,
+"en": "Awww! Can't you just play along?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51795,
+"en": "Can't help ya.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51796,
+"en": "Oh, why do you have to be such a wet blanket when I'm making an effort here?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51797,
+"en": "It's yer job to make the effort.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51798,
+"en": "Are they ever right? Don't different shows all say different things?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51799,
+"en": "Please, let me dream a little. I've been keeping my eyes peeled all day in case I find money that's been dropped on the ground.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51800,
+"en": "Maybe ya will. If ya didn't have the crazy idea to be lookin' for it, it might actually be there and ya'd never even notice.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51801,
+"en": "Exactly. It's important to strive towards your goals.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51802,
+"en": "Ya dummy. If you could get money that easily, everyone would be rich.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51803,
+"en": "That's why I'm only doing it for today.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51804,
+"en": "That's basically just stealin' though. If ya do find money, you should take it to the cops.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51805,
+"en": "So you believe in astrology, huh? Ya seem to be pretty happy-go-lucky, so I didn't expect it.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51806,
+"en": "I don't really believe in it, exactly. I just think it's fun to watch it every day. Kind of like if it were baseball or soccer.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51807,
+"en": "It would be like, \"Get out there and go for it, Scorpios!\" or, \"Might wanna rein it in a bit there, Geminis.\"",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51808,
+"en": "That's fun. And just like baseball, there's twelve teams to follow.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51809,
+"en": "Yeah, see? You should root for your team too, Saejima-san!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51810,
+"en": "I wonder if it'd work.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51811,
+"en": "What's the point? I bet they just cycle through the same things every day.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51812,
+"en": "But that's what luck's like. You can't do anything if you're on a bad streak. It's smart living to put effort in only at the right times.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51813,
+"en": "Sounds like an excuse for bein' a slacker.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51814,
+"en": "You should go all in then. What did it say about yer luck with romance?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51815,
+"en": "Well... They did say I may have a chance encounter with a real dreamy guy!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51816,
+"en": "I wonder if they meant you, Saejima-san!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51817,
+"en": "Who knows?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51818,
+"en": "But I guess I didn't. That guy would have bought an expensive bottle of liquor. Hint hint...",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51819,
+"en": "I said I'd buy one next time. Geez.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51820,
+"en": "Hm. Good luck with that.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51821,
+"en": "You know, lots of people tell me I'm a pretty easygoing person.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51822,
+"en": "Ya do seem pretty laid back most times.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51823,
+"en": "Are you the more impatient type, Saejima-san?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51824,
+"en": "Yeah. We Kansai folk are all pretty impatient. We dunno how to just sit and wait.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51825,
+"en": "I get that impression, yes. I'll be talking to someone and they'll be all, \"What's your point?\" before I'm even done with what I'm saying.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51826,
+"en": "Yeah, sounds 'bout right. We're not good with drawn-out, ramblin' conversations.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51827,
+"en": "Nah, I'm the kinda guy who can wait things out when I wanna.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51828,
+"en": "Yeah, you strike me as someone who does his own thing, regardless of what other people want.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51829,
+"en": "Ya can't let yerself get caught up in what other folks want. I go at my own pace.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51830,
+"en": "So yeah, the other day a friend of mine sent me an email. When I didn't respond right away she got all mad, demanding I get back to her.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51831,
+"en": "It's not like she called me on the phone, so it isn't like I needed to reply right away, right? Am I weird for thinking that?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51832,
+"en": "Nah, it's up to you. Just 'cause ya got mail, it don't mean ya gotta respond.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51833,
+"en": "I agree! If she wanted a prompt reply she should have said so in the email. But if she had, I probably would have ignored it.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51834,
+"en": "You should respond right away. The other person might need ya to.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51835,
+"en": "But all she wanted to know was if I was free. And it's not like me being free means I want to hang out. I was thinking about when I wanted to do other stuff.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51836,
+"en": "So ya had yer own stuff to worry about, then.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51837,
+"en": "But didn't you just say you can't let yourself get caught up in what other people want?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51838,
+"en": "That's different. Ya gotta just go with the flow sometimes.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51839,
+"en": "How long did ya put it off, anyway?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51840,
+"en": "Um... Around three weeks?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51841,
+"en": "That's it? If she got mad at ya over that, she must be pretty impatient.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51842,
+"en": "Seriously. I check my email when I have time. I don't need someone to tell me when to read my messages.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51843,
+"en": "We have plenty of opportunities to hang out, so I don't get what the big rush was all about.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51844,
+"en": "Well, ya never know when it might be the last. Ya need to value your time with yer friends.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51845,
+"en": "Yeah, that was too long. Goin' that long without respondin', she mighta started wonderin' if you were dead or somethin'.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51846,
+"en": "Then how long can I wait before responding?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51847,
+"en": "Hm... Maybe three minutes or so?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51848,
+"en": "What? That's waaay too short! How impatient a guy are you, Saejima-san?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51849,
+"en": "I'm not talkin' about me. My partner says he wants an answer in three minutes.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51850,
+"en": "Hm... Maybe three days or so?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51851,
+"en": "I guess I could probably manage that.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51852,
+"en": "If you email me, ya probably shouldn't expect a response for three days.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51853,
+"en": "Ya probably just forgot. Did ya not even remember it until she bugged ya for a reply?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51854,
+"en": "Hahaha! You got me there.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51855,
+"en": "Go figure. Yer not easygoing, then. Just forgetful.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51856,
+"en": "Hey, I've got something to tell you real quick!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51857,
+"en": "One of the girls here who I'm good friends with is going to be working at a cabaret club!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51858,
+"en": "Right? Do you really get what I'm saying?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51859,
+"en": "Huh? What're ya talkin' about? Doesn't she already work here?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51860,
+"en": "I said at a cabaret club.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51861,
+"en": "Here in Tsukimino, \"cabaret club\" is what we call the sexy kind.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51862,
+"en": "And by the sexy kind, you mean...",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51863,
+"en": "It's like... A club where girls take their tops off and you're allowed to touch.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51864,
+"en": "You can touch!?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51865,
+"en": "Not here you can't! Geez, Saejima-san, stop being such a pervert.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51866,
+"en": "I had no idea. That's different from Tokyo.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51867,
+"en": "Yeah. That's why the barkers have to watch out, to make sure customers know what kind of place they're being taken to.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51868,
+"en": "Then this place ain't a cabaret club?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51869,
+"en": "This is what's called a \"new club.\"",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51870,
+"en": "New club? Don't know that one.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51871,
+"en": "So, what do you think about this girl?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51872,
+"en": "Good for her. She can do what she wants.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51873,
+"en": "Wow, you think so?",
+"ctx": "diálogo uid01340003 + diálogo uid0134002d"
+},
+{
+"id": 51874,
+"en": "Why, are ya worried?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51875,
+"en": "I'd be worried.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51876,
+"en": "Me too! I told her she'd be better off not doing it, but...",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51877,
+"en": "Lots of girls say they're just going to work cabaret clubs, but before they know it, they're working the sex trade.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51878,
+"en": "I see. If she thinks she can handle it, then I don't see the problem. But if she's just out to make some quick, easy money, that's no good.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51879,
+"en": "You're very nice towards women, y'know? I was wondering what I'd do if you supported it.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51880,
+"en": "It's a line a' work, and there's a need for it. If she takes the job, she might be able to save someone. Just make sure she's tough enough.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51881,
+"en": "Okay, I'll give her a call later. I hope she's willing to change her mind.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51882,
+"en": "What's wrong with that? Ya may think that way 'cause yer a woman, but as a man, I can appreciate it.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51883,
+"en": "If I wasn't close to her I wouldn't really care, but we were friends enough to hang out regularly.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51884,
+"en": "Whatever she decides to do, she's not gonna stop bein' herself. If yer her friend, ya oughta support her.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51885,
+"en": "But not you?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51886,
+"en": "Not me. I would never.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51887,
+"en": "I make enough money here at the new club. It's weird for me to say this, but here appearance is what matters most.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51888,
+"en": "If you're pretty, you can get customers without having to strip for them, and you can have a nice time simply by talking.",
+"ctx": "diálogo uid01340003"
+}
+]

@@ -1,0 +1,1082 @@
+[
+{
+"id": 18255,
+"en": "Have a good time.",
+"ctx": "diálogo uid000212be + diálogo uid000c09f2 …"
+},
+{
+"id": 18256,
+"en": "Welcome.",
+"ctx": "diálogo uid000212be + diálogo uid000c015b …"
+},
+{
+"id": 18257,
+"en": "How do I get into the casino?",
+"ctx": "diálogo uid000212be"
+},
+{
+"id": 18258,
+"en": "I don't know what you mean. This is a bar.",
+"ctx": "diálogo uid000212be"
+},
+{
+"id": 18259,
+"en": "Yeah, shoulda figured ya'd want a tip. How much?",
+"ctx": "diálogo uid000212be"
+},
+{
+"id": 18260,
+"en": "I really have no idea what you're talking about. There's no gambling here. If it's a <Italic>drink</Italic> you want, I can do that. We are a bar, you know.",
+"ctx": "diálogo uid000212be"
+},
+{
+"id": 18261,
+"en": "(He's not bitin'. What's up with this?)",
+"ctx": "diálogo uid000212be"
+},
+{
+"id": 18262,
+"en": "Evening. Interested in the casino?",
+"ctx": "diálogo uid000212c3"
+},
+{
+"id": 18263,
+"en": "Evening.",
+"ctx": "diálogo uid000212c3"
+},
+{
+"id": 18264,
+"en": "Hey, do you shoot pool? I'm so tired of playing the regulars here. Can I challenge you to a match?",
+"ctx": "diálogo uid000212c3"
+},
+{
+"id": 18265,
+"en": "Sorry, not now.",
+"ctx": "diálogo uid000212c3"
+},
+{
+"id": 18266,
+"en": "Don't you want to know how to get into the casino?",
+"ctx": "diálogo uid000212c3"
+},
+{
+"id": 18267,
+"en": "Who are ya?",
+"ctx": "diálogo uid000212c3"
+},
+{
+"id": 18268,
+"en": "That's not important. But come on, how about it? If you win, I'll tell you how to get in.",
+"ctx": "diálogo uid000212c3"
+},
+{
+"id": 18269,
+"en": "Or, if you're not much of a pool player...",
+"ctx": "diálogo uid000212c3"
+},
+{
+"id": 18270,
+"en": "Well, I've already said too much. Why don't you forget we ever talked, and I'll let you settle my bar tab today. Fifty grand.",
+"ctx": "diálogo uid000212c3"
+},
+{
+"id": 18271,
+"en": "Yeah, I'll take ya on.",
+"ctx": "diálogo uid000212c3"
+},
+{
+"id": 18272,
+"en": "Very well. May the best man win.",
+"ctx": "diálogo uid000212c3"
+},
+{
+"id": 18273,
+"en": "Don't got time to play. Here, how's this?",
+"ctx": "diálogo uid000212c3"
+},
+{
+"id": 18274,
+"en": "You paid <Color:8>50,000 yen<Color:Default>.",
+"ctx": "diálogo uid000212c3 + diálogo uid00330051 …"
+},
+{
+"id": 18275,
+"en": "Hm, disappointing. Well, I'll just drown my sorrows in alcohol, then.",
+"ctx": "diálogo uid000212c3"
+},
+{
+"id": 18276,
+"en": "Sorry to say, I ain't got the cash.",
+"ctx": "diálogo uid000212c3"
+},
+{
+"id": 18277,
+"en": "How about we play for it, then? That is, unless you're scared I'll beat you...",
+"ctx": "diálogo uid000212c3"
+},
+{
+"id": 18278,
+"en": "Well, I got nowhere else to be. Come back and let me know if you can work up the guts to challenge me...",
+"ctx": "diálogo uid000212c3"
+},
+{
+"id": 18279,
+"en": "Sorry, but I can't trust ya.",
+"ctx": "diálogo uid000212c3"
+},
+{
+"id": 18280,
+"en": "Tch, it's not like you have any other leads, do you?",
+"ctx": "diálogo uid000212c3"
+},
+{
+"id": 18281,
+"en": "Whatever. But if you change your mind, come on back here. I got nowhere else to be.",
+"ctx": "diálogo uid000212c3"
+},
+{
+"id": 18282,
+"en": "Haha! I knew I'd win, hahaha.",
+"ctx": "diálogo uid000212c3"
+},
+{
+"id": 18283,
+"en": "(What a blowhard.)",
+"ctx": "diálogo uid000212c3"
+},
+{
+"id": 18284,
+"en": "Hah, don't take it too hard. I'm available for a rematch any time...",
+"ctx": "diálogo uid000212c3"
+},
+{
+"id": 18285,
+"en": "Oof! That hurts!",
+"ctx": "diálogo uid000212c3"
+},
+{
+"id": 18286,
+"en": "Tell me about the casino. You promised.",
+"ctx": "diálogo uid000212c3"
+},
+{
+"id": 18287,
+"en": "Yeah, okay. So the club had to change its system after the police cracked down on it.",
+"ctx": "diálogo uid000212c3"
+},
+{
+"id": 18288,
+"en": "Now you have to have a pass to get in.",
+"ctx": "diálogo uid000212c3"
+},
+{
+"id": 18289,
+"en": "Okay. Where do I get one?",
+"ctx": "diálogo uid000212c3"
+},
+{
+"id": 18290,
+"en": "That, I don't know. Kiyotaka might, though...",
+"ctx": "diálogo uid000212c3"
+},
+{
+"id": 18291,
+"en": "Who's that?",
+"ctx": "diálogo uid000212c3 + diálogo uid01020b3a …"
+},
+{
+"id": 18292,
+"en": "He's this homeless guy. He's really old.",
+"ctx": "diálogo uid000212c3"
+},
+{
+"id": 18293,
+"en": "An old, homeless guy knows. Real classy place, this casino's gotta be. Have any idea where this guy is?",
+"ctx": "diálogo uid000212c3"
+},
+{
+"id": 18294,
+"en": "Nah. But I mean, wouldn't he go somewhere he'd be sheltered? That's what I would do, heck...",
+"ctx": "diálogo uid000212c3"
+},
+{
+"id": 18295,
+"en": "Ya mean somewhere with a roof? I doubt he'd be allowed to loiter in stores.",
+"ctx": "diálogo uid000212c3"
+},
+{
+"id": 18296,
+"en": "(Come to think of it, there was that covered shoppin' area in Tsukimino. He'd be sheltered without havin' to go inside the stores there.)",
+"ctx": "diálogo uid000212c3"
+},
+{
+"id": 18297,
+"en": "'Kay, I'm gonna go find 'im.",
+"ctx": "diálogo uid000212c3"
+},
+{
+"id": 18298,
+"en": "Good luck.",
+"ctx": "diálogo uid000212c3 + diálogo uid01020765 …"
+},
+{
+"id": 18299,
+"en": "You again? Did you find out how many homeless there are?",
+"ctx": "diálogo uid000212ca"
+},
+{
+"id": 18300,
+"en": "(This guy's s'posed to like booze, right? I could give 'im some.)",
+"ctx": "diálogo uid000212ca"
+},
+{
+"id": 18301,
+"en": "(Not worth it.)",
+"ctx": "diálogo uid000212ca"
+},
+{
+"id": 18302,
+"en": "Hey, ya thirsty?",
+"ctx": "diálogo uid000212ca"
+},
+{
+"id": 18303,
+"en": "Trying to ply me with alcohol, are you? I'm not falling for that shit! ...Okay, okay, you can buy me a drink.",
+"ctx": "diálogo uid000212ca"
+},
+{
+"id": 18304,
+"en": "Oho, this is mighty fine! All right, lad, ask me anything ya like!",
+"ctx": "diálogo uid000212ca"
+},
+{
+"id": 18305,
+"en": "I'll repeat my question. According to the Ministry of Health, Labor and Welfare, how many homeless were there in Hokkaido in January 2012?",
+"ctx": "diálogo uid000212ca"
+},
+{
+"id": 18306,
+"en": "(There. Is that Kiyotaka?)",
+"ctx": "diálogo uid000212ca"
+},
+{
+"id": 18307,
+"en": "Say, are you Kiyotaka?",
+"ctx": "diálogo uid000212ca"
+},
+{
+"id": 18308,
+"en": "Why do you wanna know? What're you accusing me of?",
+"ctx": "diálogo uid000212ca"
+},
+{
+"id": 18309,
+"en": "Ain't accusin' ya of nothin'. I just want a pass to get into the hidden casino at Ambitious. It's a bar.",
+"ctx": "diálogo uid000212ca"
+},
+{
+"id": 18310,
+"en": "Well, you know, we homeless get accused of everything⑬that's if we're not just outright ignored! Do you even know how many of us were in Hokkaido in January 2012?",
+"ctx": "diálogo uid000212ca"
+},
+{
+"id": 18311,
+"en": "Consider this a pop quiz for the prize you seek. It's a real number⑬the Ministry of Health, Labor and Welfare counted us up. Quick, quick, how many?",
+"ctx": "diálogo uid000212ca"
+},
+{
+"id": 18312,
+"en": "(How many homeless? Uh...)",
+"ctx": "diálogo uid000212ca"
+},
+{
+"id": 18313,
+"en": "Bzzzt. Wrong! And I'm not talking unless you get it right.",
+"ctx": "diálogo uid000212ca"
+},
+{
+"id": 18314,
+"en": "(Wow. What does this fella want me to do? Research shit?)",
+"ctx": "diálogo uid000212ca"
+},
+{
+"id": 18315,
+"en": "That's correct! Wow, I didn't expect that. How did you know? Are you the most well-researched guy in town, or just a lucky guesser?",
+"ctx": "diálogo uid000212ca"
+},
+{
+"id": 18316,
+"en": "So, 'bout that pass...",
+"ctx": "diálogo uid000212ca"
+},
+{
+"id": 18317,
+"en": "You got <Color:8>Phone Booth Photo<Color:Default>.",
+"ctx": "diálogo uid000212ca"
+},
+{
+"id": 18318,
+"en": "A photo of a certain spot in town. Keep an eye out for it. It will lead you to what you seek.",
+"ctx": "diálogo uid000212ca"
+},
+{
+"id": 18319,
+"en": "Find the place in the photo. Got it.",
+"ctx": "diálogo uid000212ca"
+},
+{
+"id": 18320,
+"en": "Hello. How may I help you?",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18321,
+"en": "(What'd the voice on the phone say? The first bit of the password was...)",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18322,
+"en": "(The next bit of the password was...)",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18323,
+"en": "(And then finally...)",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18324,
+"en": "One random losing ticket.",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18325,
+"en": "One random winning ticket.",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18326,
+"en": "One random three-year-old ticket.",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18327,
+"en": "One consecutive losing ticket.",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18328,
+"en": "One consecutive winning ticket.",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18329,
+"en": "One consecutive three-year-old ticket.",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18330,
+"en": "One scattered losing ticket.",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18331,
+"en": "One scattered winning ticket.",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18332,
+"en": "One scattered three-year-old ticket.",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18333,
+"en": "Seven random losing tickets.",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18334,
+"en": "Seven random winning tickets.",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18335,
+"en": "Seven random three-year-old tickets.",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18336,
+"en": "Seven consecutive losing tickets.",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18337,
+"en": "Seven consecutive winning tickets.",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18338,
+"en": "Seven consecutive three-year-old tickets.",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18339,
+"en": "Seven scattered losing tickets.",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18340,
+"en": "Seven scattered winning tickets.",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18341,
+"en": "Seven scattered three-year-old tickets.",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18342,
+"en": "Nine random losing tickets.",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18343,
+"en": "Nine random winning tickets.",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18344,
+"en": "Nine random three-year-old tickets.",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18345,
+"en": "Nine consecutive losing tickets.",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18346,
+"en": "Nine consecutive winning tickets.",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18347,
+"en": "Nine consecutive three-year-old tickets.",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18348,
+"en": "Nine scattered losing tickets.",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18349,
+"en": "Nine scattered winning tickets.",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18350,
+"en": "Nine scattered three-year old tickets.",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18351,
+"en": "Um...",
+"ctx": "diálogo uid000212cb + diálogo uid010c0818 …"
+},
+{
+"id": 18352,
+"en": "Could you not fool around, please?",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18353,
+"en": "(Guess that was wrong.)",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18354,
+"en": "I know what that means!",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18355,
+"en": "You got <Color:8>Underground Casino Pass<Color:Default>.",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18356,
+"en": "May Lady Luck be with you!",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18357,
+"en": "'Preciate it.",
+"ctx": "diálogo uid000212cb + diálogo uid0102072b …"
+},
+{
+"id": 18358,
+"en": "(Finally got the damn pass! Now back to Ambitious.)",
+"ctx": "diálogo uid000212cb"
+},
+{
+"id": 18359,
+"en": "Heyyy...",
+"ctx": "diálogo uid000213d1"
+},
+{
+"id": 18360,
+"en": "Huh? Well, look who it is!",
+"ctx": "diálogo uid000213d1"
+},
+{
+"id": 18361,
+"en": "Long time, no see. Care for a refreshment?",
+"ctx": "diálogo uid000213d1"
+},
+{
+"id": 18362,
+"en": "You handed over <Color:8>Lots of Liquor<Color:Default>.",
+"ctx": "diálogo uid000213d1"
+},
+{
+"id": 18363,
+"en": "Aw, you're the best, man! This is perfect for the cold. There'll be a party tonight, that's for sure.",
+"ctx": "diálogo uid000213d1"
+},
+{
+"id": 18364,
+"en": "Yo, there's someone I need you to find for me. He's the president of a company called MAO, Inc.",
+"ctx": "diálogo uid000213d1"
+},
+{
+"id": 18365,
+"en": "Heh. Dumb name for a company. But yeah, I'll see if anyone knows.",
+"ctx": "diálogo uid000213d1"
+},
+{
+"id": 18366,
+"en": "That'd be a huge help. Here's ten yen to call me when you know something.",
+"ctx": "diálogo uid000213d1"
+},
+{
+"id": 18367,
+"en": "Is this really gonna work?",
+"ctx": "diálogo uid000213d1"
+},
+{
+"id": 18368,
+"en": "Yep. They've got a robust network for swapping info. Let's walk around until he calls me.",
+"ctx": "diálogo uid000213d1"
+},
+{
+"id": 18369,
+"en": "Just so you know, I'm not Tojo Clan. Just a regular civilian. Now tell me, where can I find your boss?",
+"ctx": "diálogo uid0002150f"
+},
+{
+"id": 18370,
+"en": "Urgh, I dunno. Haven't seen him since yesterday. He went in to HQ, but never came back out.",
+"ctx": "diálogo uid0002150f"
+},
+{
+"id": 18371,
+"en": "Dammit, he better still be alive. Guess I'll have to find someone who knows what they're talking about.",
+"ctx": "diálogo uid0002150f"
+},
+{
+"id": 18372,
+"en": "Are you Yahata's men?",
+"ctx": "diálogo uid0002150f"
+},
+{
+"id": 18373,
+"en": "And what if we are? Who's askin'?",
+"ctx": "diálogo uid0002150f"
+},
+{
+"id": 18374,
+"en": "I've got business with your boss. Where can I find him?",
+"ctx": "diálogo uid0002150f"
+},
+{
+"id": 18375,
+"en": "<Italic>You</Italic>? Why would some civilian wanna... No, this guy's gotta be Tojo Clan!",
+"ctx": "diálogo uid0002150f"
+},
+{
+"id": 18376,
+"en": "Hey! We got one of those Tojo pricks here! Let's bash his face in!",
+"ctx": "diálogo uid0002150f"
+},
+{
+"id": 18377,
+"en": "Now then. Tell me where Yahata is.",
+"ctx": "diálogo uid00021516"
+},
+{
+"id": 18378,
+"en": "Grr... You're not gettin' a goddamn thing outta me!",
+"ctx": "diálogo uid00021516"
+},
+{
+"id": 18379,
+"en": "This isn't a joke. I'm trying to stop a war with the Tojo Clan here.",
+"ctx": "diálogo uid00021516"
+},
+{
+"id": 18380,
+"en": "Yeah, well what's the point of bein' yakuza if y'can't fight when it really matters?",
+"ctx": "diálogo uid00021516"
+},
+{
+"id": 18381,
+"en": "Besides, I ain't got a clue where the boss is at. Same goes for Patriarch Madarame. Whole damn family's goin' down the gutter fast.",
+"ctx": "diálogo uid00021516"
+},
+{
+"id": 18382,
+"en": "Guess someone else will have to tell me what I want to know.",
+"ctx": "diálogo uid00021516"
+},
+{
+"id": 18383,
+"en": "(So Yahata's own family doesn't even know where he is. Gotta keep looking.)",
+"ctx": "diálogo uid00021516"
+},
+{
+"id": 18384,
+"en": "You're with the Yahata Family, right? Mind telling me where your boss is?",
+"ctx": "diálogo uid00021516"
+},
+{
+"id": 18385,
+"en": "Who the hell are you? Y'think I'm just gonna spill my guts to some nobody off the street?",
+"ctx": "diálogo uid00021516"
+},
+{
+"id": 18386,
+"en": "I'm doing a favor for your patriarch. It's urgent.",
+"ctx": "diálogo uid00021516"
+},
+{
+"id": 18387,
+"en": "Madarame? Hold up, what's the deal here?",
+"ctx": "diálogo uid00021516"
+},
+{
+"id": 18388,
+"en": "Hey, this guy's gotta be one of them Tojo goons! Let's take his ass out!",
+"ctx": "diálogo uid00021516"
+},
+{
+"id": 18389,
+"en": "See the homeless guy over there? Boy, does he love booze!",
+"ctx": "diálogo uid000215dd"
+},
+{
+"id": 18390,
+"en": "He's a stubborn old fuck, but I bet he'd mellow out if you offered him a drink.",
+"ctx": "diálogo uid000215dd"
+},
+{
+"id": 18391,
+"en": "Were you talking to that old panhandler?",
+"ctx": "diálogo uid000215de"
+},
+{
+"id": 18392,
+"en": "Yeah, what about it?",
+"ctx": "diálogo uid000215de"
+},
+{
+"id": 18393,
+"en": "Tch, he's made himself right at home around here. I understand he likes the roof, but he's a real nuisance for the shops.",
+"ctx": "diálogo uid000215de"
+},
+{
+"id": 18394,
+"en": "I mean, there are only 71 homeless people in all of Hokkaido. Figures we'd have to end up with one...",
+"ctx": "diálogo uid000215de"
+},
+{
+"id": 18395,
+"en": "Wait, how many homeless did ya say?",
+"ctx": "diálogo uid000215de"
+},
+{
+"id": 18396,
+"en": "Seventy-one. You can look it up online.",
+"ctx": "diálogo uid000215de"
+},
+{
+"id": 18397,
+"en": "That so...",
+"ctx": "diálogo uid000215de + diálogo uid010c08ea …"
+},
+{
+"id": 18398,
+"en": "Hey, you're that lost fellow Okudera-san found.",
+"ctx": "diálogo uid000216a2"
+},
+{
+"id": 18399,
+"en": "Sure am. Ya want somethin'?",
+"ctx": "diálogo uid000216a2"
+},
+{
+"id": 18400,
+"en": "Don't know how long you're staying here, or why you'd even want to stay long... but there's something you ought to know about our village.",
+"ctx": "diálogo uid000216a2"
+},
+{
+"id": 18401,
+"en": "Up past here, there's a small shrine. They say it was built at the same time as the village, to provide protection.",
+"ctx": "diálogo uid000216a2"
+},
+{
+"id": 18402,
+"en": "Now, a strange old fellow named Tendo calls it home. You have to watch out for him.",
+"ctx": "diálogo uid000216a2"
+},
+{
+"id": 18403,
+"en": "How strange are we talkin'?",
+"ctx": "diálogo uid000216a2"
+},
+{
+"id": 18404,
+"en": "Like beyond strange. He looks like a sage out of a storybook, and rumor has it he can use sorcery...",
+"ctx": "diálogo uid000216a2"
+},
+{
+"id": 18405,
+"en": "Heh. You believe in that stuff?",
+"ctx": "diálogo uid000216a2"
+},
+{
+"id": 18406,
+"en": "If you're really not scared, then go see him for yourself! But don't say I didn't warn you.",
+"ctx": "diálogo uid000216a2"
+},
+{
+"id": 18407,
+"en": "(A sorcerer in a mountain shrine, huh? Sounds interestin'.)",
+"ctx": "diálogo uid000216a2"
+},
+{
+"id": 18408,
+"en": "It'd be nice to go out together for old time's sake, Uncle Kaz.",
+"ctx": "diálogo uid0002176b"
+},
+{
+"id": 18409,
+"en": "Now isn't a good time. We'll do it another day.",
+"ctx": "diálogo uid0002176b"
+},
+{
+"id": 18410,
+"en": "Okay, sure. I'm looking forward to it.",
+"ctx": "diálogo uid0002176b"
+},
+{
+"id": 18411,
+"en": "Sure, let's go.",
+"ctx": "diálogo uid0002176b"
+},
+{
+"id": 18412,
+"en": "Yay! I'll get ready.",
+"ctx": "diálogo uid0002176b"
+},
+{
+"id": 18413,
+"en": "Oh, hello, Haruka-chan. What's up?",
+"ctx": "diálogo uid00021796"
+},
+{
+"id": 18414,
+"en": "Good luck with the Princess thing.",
+"ctx": "diálogo uid00021796"
+},
+{
+"id": 18415,
+"en": "Well, Hana-chan hasn't called yet. Maybe I'd better get some\ndone. What are your plans now?",
+"ctx": "diálogo uid00021796"
+},
+{
+"id": 18416,
+"en": "I think I'll go back to my apartment and try to get myself\ngeared up for the Princess League.",
+"ctx": "diálogo uid00021796"
+},
+{
+"id": 18417,
+"en": "Great. Good idea.",
+"ctx": "diálogo uid00021796"
+},
+{
+"id": 18418,
+"en": "All right, thank you. I'll be going, then.",
+"ctx": "diálogo uid00021796"
+},
+{
+"id": 18419,
+"en": "Oh, hello, Haruka-chan. Any news?",
+"ctx": "diálogo uid00021796"
+},
+{
+"id": 18420,
+"en": "Come back anytime. I might be out, uh, working, though.",
+"ctx": "diálogo uid00021796"
+},
+{
+"id": 18421,
+"en": "Hmm. Maybe I'd better get some work done. What are your\nplans now?",
+"ctx": "diálogo uid00021796"
+},
+{
+"id": 18422,
+"en": "I think I'll go back to my apartment and try to get my\nthoughts together.",
+"ctx": "diálogo uid00021796"
+},
+{
+"id": 18423,
+"en": "Good thinking. Try to take it easy if you can.",
+"ctx": "diálogo uid00021796"
+},
+{
+"id": 18424,
+"en": "Oh, hello. Please come in. I'll make some tea.",
+"ctx": "diálogo uid00021797"
+},
+{
+"id": 18425,
+"en": "You must be busy getting ready. I won't be staying, so don't\ngo to any trouble.",
+"ctx": "diálogo uid00021797"
+},
+{
+"id": 18426,
+"en": "Well, sorry to bother you. Are you all set for the Princess\nLeague?",
+"ctx": "diálogo uid00021797"
+},
+{
+"id": 18427,
+"en": "I think I need to do a little more.",
+"ctx": "diálogo uid00021797"
+},
+{
+"id": 18428,
+"en": "Yamaura-san's waiting for you at Dyna Chair, right? Head on\nover when you're ready.",
+"ctx": "diálogo uid00021797"
+},
+{
+"id": 18429,
+"en": "Okay, be seeing you.",
+"ctx": "diálogo uid00021797"
+},
+{
+"id": 18430,
+"en": "I think I'll go to Dyna Chair.",
+"ctx": "diálogo uid00021797"
+},
+{
+"id": 18431,
+"en": "Yeah, Yamaura-san's waiting for you, isn't she? Good luck\nwith the Princess thing.",
+"ctx": "diálogo uid00021797"
+},
+{
+"id": 18432,
+"en": "\"The Princess League.\" And thank you. I'll be going, then.",
+"ctx": "diálogo uid00021797"
+},
+{
+"id": 18433,
+"en": "Oh, hello. Please come in. I'll make us some tea.",
+"ctx": "diálogo uid00021797"
+},
+{
+"id": 18434,
+"en": "Oh, don't go to any trouble. I'll only be staying for a minute.",
+"ctx": "diálogo uid00021797"
+},
+{
+"id": 18435,
+"en": "Well, sorry to bother you. Glad to see you're holding up\npretty well.",
+"ctx": "diálogo uid00021797"
+},
+{
+"id": 18436,
+"en": "I'm all right. Thank you.",
+"ctx": "diálogo uid00021797"
+},
+{
+"id": 18437,
+"en": "Heh, I thought maybe you'd be at your wits end by now. But I\nguess that'd be pretty out of character for you, wouldn't it?",
+"ctx": "diálogo uid00021797"
+},
+{
+"id": 18438,
+"en": "Well, be seeing you.",
+"ctx": "diálogo uid00021797"
+},
+{
+"id": 18439,
+"en": "I think I'll try going out for a while. Maybe I'll ask for\nsome lessons at the office.",
+"ctx": "diálogo uid00021797"
+},
+{
+"id": 18440,
+"en": "Good thinking. A little exercise'll probably do you some\ngood right now.",
+"ctx": "diálogo uid00021797"
+},
+{
+"id": 18441,
+"en": "I'll be at Sky Finance if you need me. Swing by anytime.",
+"ctx": "diálogo uid00021797"
+},
+{
+"id": 18442,
+"en": "Okay, thank you. See you later.",
+"ctx": "diálogo uid00021797"
+},
+{
+"id": 18443,
+"en": "Thank you for coming. This way, please.",
+"ctx": "diálogo uid00021873"
+},
+{
+"id": 18444,
+"en": "This is <Italic>so</Italic> stupid. I am <Italic>never</Italic> going back to Kamurocho Hills <Italic>again</Italic>!",
+"ctx": "diálogo uid000219e2"
+},
+{
+"id": 18445,
+"en": "Don't worry, we can always pick another restaurant. Actually, I just thought of somewhere pretty good.",
+"ctx": "diálogo uid000219e2"
+},
+{
+"id": 18446,
+"en": "But I wanted to go to the one in the Hills! What do they mean it's \"closed for inspection\"? I'm gonna call and complain later.",
+"ctx": "diálogo uid000219e2"
+},
+{
+"id": 18447,
+"en": "Come on, don't do that. It's important that buildings be\ninspected every now and then⑬for safety!",
+"ctx": "diálogo uid000219e2"
+},
+{
+"id": 18448,
+"en": "Then you should've <Italic>inspected</Italic> our plans beforehand, dummy!",
+"ctx": "diálogo uid000219e2"
+},
+{
+"id": 18449,
+"en": "(So Kamurocho Hills is shut down... Then the enemy is waiting for us.)",
+"ctx": "diálogo uid000219e2 + diálogo uid000219e4"
+},
+{
+"id": 18450,
+"en": "(Kamurocho Hills is shut down, huh... Guess the enemy's up there.)",
+"ctx": "diálogo uid000219e2 + diálogo uid000219e4"
+},
+{
+"id": 18451,
+"en": "Those were yakuza back at the Hills, I'm sure of it.",
+"ctx": "diálogo uid000219e4"
+},
+{
+"id": 18452,
+"en": "Yep, definitely yakuza. No mistaking it.",
+"ctx": "diálogo uid000219e4"
+},
+{
+"id": 18453,
+"en": "Man, it's like the yakuza control Kamurocho. Guess it really\ndoes have a dark side... I should post this up on Chatter.",
+"ctx": "diálogo uid000219e4"
+},
+{
+"id": 18454,
+"en": "Hells to the yeah, my dude. Check out what I'm gonna post!\n\"Yakuza on the prowl in Kamurocho Hills.\" Heheh. Siiiick.",
+"ctx": "diálogo uid000219e4"
+},
+{
+"id": 18455,
+"en": "Hey, if it isn't Ebi-chan.",
+"ctx": "diálogo uid00021a88"
+},
+{
+"id": 18456,
+"en": "Huh? Saejima-san!? Why are you in Kamurocho?",
+"ctx": "diálogo uid00021a88"
+},
+{
+"id": 18457,
+"en": "I've got some things to take care of. Are you here for that big tournament you were talkin' about?",
+"ctx": "diálogo uid00021a88"
+},
+{
+"id": 18458,
+"en": "Yeah, that's right! I ended up tying with this lady here in the finals. It was a great game!",
+"ctx": "diálogo uid00021a88"
+},
+{
+"id": 18459,
+"en": "Your trainin' paid off, then.",
+"ctx": "diálogo uid00021a88"
+},
+{
+"id": 18460,
+"en": "Yeah, and get this! I actually won the whole thing!",
+"ctx": "diálogo uid00021a88"
+},
+{
+"id": 18461,
+"en": "That's great, Ebi-chan! Your trainin' paid off, then.",
+"ctx": "diálogo uid00021a88"
+},
+{
+"id": 18462,
+"en": "Yeah! Kind of a bummer, though. I made it all the way to the final round, but ended up losing. It was a really great game, though!",
+"ctx": "diálogo uid00021a88"
+},
+{
+"id": 18463,
+"en": "I see. That's too bad.",
+"ctx": "diálogo uid00021a88 + diálogo uid01340021"
+},
+{
+"id": 18464,
+"en": "All in all, it was a great experience. Well, I'll see you back in Tsukimino!",
+"ctx": "diálogo uid00021a88"
+},
+{
+"id": 18465,
+"en": "All in all, it was a great experience. I'm really grateful for your help.",
+"ctx": "diálogo uid00021a88"
+},
+{
+"id": 18466,
+"en": "Shino?",
+"ctx": "diálogo uid00021a89"
+},
+{
+"id": 18467,
+"en": "Wait, huh? Why are you in Kamurocho? Well, I guess it doesn't matter.",
+"ctx": "diálogo uid00021a89"
+},
+{
+"id": 18468,
+"en": "I entered that darts tournament I told you about, and tied this guy in the finals. Sucks that I didn't win, but it was a pretty good game.",
+"ctx": "diálogo uid00021a89"
+},
+{
+"id": 18469,
+"en": "Your practice paid off, then.",
+"ctx": "diálogo uid00021a89"
+},
+{
+"id": 18470,
+"en": "I entered that darts tournament I told you about, and ended up winning the whole thing!",
+"ctx": "diálogo uid00021a89"
+}
+]

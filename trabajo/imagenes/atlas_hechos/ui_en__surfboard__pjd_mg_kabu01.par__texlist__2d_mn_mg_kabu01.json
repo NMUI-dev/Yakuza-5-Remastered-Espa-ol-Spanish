@@ -1,0 +1,71 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_kabu01.par/texlist/2d_mn_mg_kabu01",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    146,
+    1,
+    506,
+    50
+   ],
+   "en": "Total",
+   "ocr": "Total",
+   "es": "",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 356
+  },
+  {
+   "caja": [
+    2,
+    37,
+    35,
+    64
+   ],
+   "en": "Bk",
+   "ocr": "Bk",
+   "es": "",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 29,
+   "dejar": true
+  },
+  {
+   "caja": [
+    78,
+    36,
+    114,
+    65
+   ],
+   "en": "Wn",
+   "ocr": "Wn",
+   "es": "",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 32,
+   "dejar": true
+  },
+  {
+   "caja": [
+    114,
+    35,
+    152,
+    68
+   ],
+   "en": "LS",
+   "ocr": "LS",
+   "es": "",
+   "fuente": "times.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 34,
+   "dejar": true
+  }
+ ]
+}

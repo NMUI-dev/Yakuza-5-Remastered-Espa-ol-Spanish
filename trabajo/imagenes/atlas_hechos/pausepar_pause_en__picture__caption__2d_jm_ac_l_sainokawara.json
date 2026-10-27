@@ -1,0 +1,39 @@
+{
+ "textura": "pausepar_pause_en/picture/caption/2d_jm_ac_l_sainokawara",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    276,
+    30,
+    748,
+    108
+   ],
+   "en": "HEAD FOR",
+   "ocr": "HEAD FOR",
+   "es": "VE A",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 468,
+   "alto": 60
+  },
+  {
+   "caja": [
+    233,
+    108,
+    792,
+    235
+   ],
+   "en": "PURGATORY",
+   "ocr": "PURGATORY",
+   "es": "PURGATORIO",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 555
+  }
+ ]
+}

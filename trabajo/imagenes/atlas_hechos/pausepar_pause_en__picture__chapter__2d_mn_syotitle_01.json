@@ -1,0 +1,57 @@
+{
+ "textura": "pausepar_pause_en/picture/chapter/2d_mn_syotitle_01",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    999,
+    22,
+    1295,
+    126
+   ],
+   "en": "PART 1",
+   "ocr": "PART1",
+   "es": "PARTE 1",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 292,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1215,
+    199,
+    1695,
+    285
+   ],
+   "en": "KAZUMA KIRYU",
+   "ocr": "KAZUMA KIRYU",
+   "es": "KAZUMA KIRYU",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 476,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1083,
+    366,
+    1771,
+    479
+   ],
+   "en": "KAZUMA KIRYU",
+   "ocr": "KAZUMA KIRYU",
+   "es": "KAZUMA KIRYU",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 684,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: lo hace el PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

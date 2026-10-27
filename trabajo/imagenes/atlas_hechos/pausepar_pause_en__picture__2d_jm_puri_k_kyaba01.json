@@ -1,0 +1,68 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_k_kyaba01",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    34,
+    14,
+    255,
+    79
+   ],
+   "en": "Kiryu-san",
+   "ocr": "Kiryu-san",
+   "es": "Kiryu-san",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 217
+  },
+  {
+   "caja": [
+    251,
+    15,
+    422,
+    74
+   ],
+   "en": "Riku",
+   "ocr": "MRiku",
+   "es": "Riku",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 167
+  },
+  {
+   "caja": [
+    82,
+    258,
+    414,
+    335
+   ],
+   "en": "More noodles,",
+   "ocr": "More noodles,",
+   "es": "Más fideos,",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 332
+  },
+  {
+   "caja": [
+    110,
+    309,
+    407,
+    384
+   ],
+   "en": "extra hard",
+   "ocr": "extrahardo",
+   "es": "extra duros",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 297
+  }
+ ]
+}

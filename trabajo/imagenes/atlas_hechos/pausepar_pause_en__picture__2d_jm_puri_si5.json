@@ -1,0 +1,38 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_si5",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    64,
+    173,
+    300,
+    256
+   ],
+   "en": "see Love You",
+   "ocr": "SeeYva ",
+   "es": "see Love You",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 236
+  },
+  {
+   "caja": [
+    276,
+    181,
+    455,
+    256
+   ],
+   "en": "to smile!",
+   "ocr": "tmile!",
+   "es": "¡para sonreír!",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 175
+  }
+ ]
+}

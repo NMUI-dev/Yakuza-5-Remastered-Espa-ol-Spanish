@@ -1,0 +1,45 @@
+{
+ "textura": "ui_en/surfboard/pjd_machi_gomi.par/texlist_0001/2d_yk_machi_gomi",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    10,
+    76,
+    166,
+    97
+   ],
+   "en": "Social Commitment Level",
+   "es": "Nivel de compromiso social",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 154,
+   "alto": 13,
+   "estilo": {
+    "arriba": [
+     228,
+     228,
+     228
+    ],
+    "abajo": [
+     200,
+     200,
+     200
+    ],
+    "contorno": [
+     [
+      40,
+      40,
+      40
+     ],
+     1
+    ],
+    "brillo": null
+   }
+  }
+ ]
+}

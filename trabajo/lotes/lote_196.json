@@ -1,0 +1,947 @@
+[
+{
+"id": 42939,
+"en": "Just a humble taxi driver. My license is my only redeeming feature, remember?",
+"ctx": "diálogo uid010c08f0"
+},
+{
+"id": 42940,
+"en": "Aaagh!",
+"ctx": "diálogo uid010c08f0"
+},
+{
+"id": 42941,
+"en": "(I've wasted time and come out of it with no pay. There must have been a better way to handle this.)",
+"ctx": "diálogo uid010c08f0"
+},
+{
+"id": 42942,
+"en": "We give up!",
+"ctx": "diálogo uid010c08f0"
+},
+{
+"id": 42943,
+"en": "We'll pay you your money! I promise we'll never look down on a driver again!",
+"ctx": "diálogo uid010c08f0"
+},
+{
+"id": 42944,
+"en": "How the hell did you get that strong, man? Who are you!?",
+"ctx": "diálogo uid010c08f0"
+},
+{
+"id": 42945,
+"en": "All right, I'm out. What now?",
+"ctx": "diálogo uid010c08f0"
+},
+{
+"id": 42946,
+"en": "Well, we could call your company up and complain, but that wouldn't improve the service. So we'll just give you a few educational pointers ourselves!",
+"ctx": "diálogo uid010c08f0"
+},
+{
+"id": 42947,
+"en": "Heheh. I'm in a bad mood today, so this'll be good stress relief!",
+"ctx": "diálogo uid010c08f0"
+},
+{
+"id": 42948,
+"en": "I see. Sorry, but I've about had enough of you two.",
+"ctx": "diálogo uid010c08f0"
+},
+{
+"id": 42949,
+"en": "Ha! Now he's talking down to us! Looks like he wants a few extra lessons!",
+"ctx": "diálogo uid010c08f0"
+},
+{
+"id": 42950,
+"en": "There's nothing you can teach me.",
+"ctx": "diálogo uid010c08f0"
+},
+{
+"id": 42951,
+"en": "Yeah? I guess you're right.",
+"ctx": "diálogo uid010c08f0"
+},
+{
+"id": 42952,
+"en": "No matter how much a driver's taught, their license is their only redeemin' feature.",
+"ctx": "diálogo uid010c08f0"
+},
+{
+"id": 42953,
+"en": "(I can't let that remark go unpunished.)",
+"ctx": "diálogo uid010c08f0"
+},
+{
+"id": 42954,
+"en": "You'd better take that back.",
+"ctx": "diálogo uid010c08f0"
+},
+{
+"id": 42955,
+"en": "Hehe! Make me, asshole!",
+"ctx": "diálogo uid010c08f0"
+},
+{
+"id": 42956,
+"en": "Time to settle the fare.",
+"ctx": "diálogo uid010c08f0"
+},
+{
+"id": 42957,
+"en": "Ah, looks like I'm out of change right now. Just round it down to the nearest thousand yen, will ya?",
+"ctx": "diálogo uid010c08f0"
+},
+{
+"id": 42958,
+"en": "I have change.",
+"ctx": "diálogo uid010c08f0"
+},
+{
+"id": 42959,
+"en": "What's wrong with you? Times like this, you're supposed to round down as part of the service!",
+"ctx": "diálogo uid010c08f0"
+},
+{
+"id": 42960,
+"en": "I may do that for long-distance fares, but not in this case.",
+"ctx": "diálogo uid010c08f0"
+},
+{
+"id": 42961,
+"en": "What!? You telling us we're not customers just because you only took us a few blocks?",
+"ctx": "diálogo uid010c08f0"
+},
+{
+"id": 42962,
+"en": "That's not what I said. If I round down to the nearest thousand, I'll hardly make anything.",
+"ctx": "diálogo uid010c08f0"
+},
+{
+"id": 42963,
+"en": "Grr! This guy doesn't seem to think we're worthy of his attention!",
+"ctx": "diálogo uid010c08f0"
+},
+{
+"id": 42964,
+"en": "Well if he won't serve us, why pay?",
+"ctx": "diálogo uid010c08f0"
+},
+{
+"id": 42965,
+"en": "Yeah, let's bounce outta this shithole!",
+"ctx": "diálogo uid010c08f0"
+},
+{
+"id": 42966,
+"en": "What? You got a problem? You better not get too cocky, taxi driver. Or do ya want to go toe-to-toe with us?",
+"ctx": "diálogo uid010c08f0"
+},
+{
+"id": 42967,
+"en": "There's an idea! Let's rough him up a little! It'll be some real good stress relief!",
+"ctx": "diálogo uid010c08f0"
+},
+{
+"id": 42968,
+"en": "I'm from Nagasu Taxi. Sorry for the wait. Where are you headed?",
+"ctx": "diálogo uid010c08f1"
+},
+{
+"id": 42969,
+"en": "Just start driving! Hurry!",
+"ctx": "diálogo uid010c08f1"
+},
+{
+"id": 42970,
+"en": "(Sounds like she's in trouble.)",
+"ctx": "diálogo uid010c08f1"
+},
+{
+"id": 42971,
+"en": "I need you to get me away from here, fast.",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 42972,
+"en": "Phew, I don't think they've seen me yet.",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 42973,
+"en": "Is someone looking for you?",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 42974,
+"en": "Yes, the royal security detail. They are no doubt searching far and wide for me as we speak.",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 42975,
+"en": "Royal?",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 42976,
+"en": "Yes. I'm a princess, from the Kingdom of Coutand.",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 42977,
+"en": "Oh, don't look so nervous. I may be royalty, but I'm just flesh and blood like you.",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 42978,
+"en": "(Is she delusional? Or is this some kind of joke? I guess I'll dig a little deeper.)",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 42979,
+"en": "Where is the Kingdom of Coutand?",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 42980,
+"en": "Hm. I guess it's only natural you don't know of it.",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 42981,
+"en": "Coutand is a very small island nation, far to the southwest of Hakata Bay.",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 42982,
+"en": "You look and sound Japanese to me.",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 42983,
+"en": "Yes, people of Coutand look practically identical to the Japanese. We must share a common ancestor.",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 42984,
+"en": "But, as a result, we have a very good relationship with Japan and many of us study the language. That's why I am fluent in Japanese.",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 42985,
+"en": "No kidding.",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 42986,
+"en": "So, what's a princess doing in Fukuoka?",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 42987,
+"en": "I came with my father, the king.",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 42988,
+"en": "He didn't want to impose on the Japanese government by making it an official visit, so we came unannounced.",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 42989,
+"en": "(She's got quite the imagination. I guess I'll press a little further.)",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 42990,
+"en": "(Wow, it's almost as if she believes this is all true. I'll ask one more thing.)",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 42991,
+"en": "(She's playing this pretty straight. I'm not sure what to say. She does looks pretty serious.)",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 42992,
+"en": "By the way, miss⑬",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 42993,
+"en": "Hey! I'm all for mingling with the common folk, but you need to watch how you address me. You're still talking to a princess.",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 42994,
+"en": "Right... Sorry, Your Royal Highness. Where would you like me to take you?",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 42995,
+"en": "My security detail may still be searching for me. Just keep driving so they don't find me.",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 42996,
+"en": "Why are you running away from your own security?",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 42997,
+"en": "The other day the king decided it was time for me to marry, and he picked my husband-to-be.",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 42998,
+"en": "But I did not like the man he selected at all. My father, however, refuses to give me any say in it.",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 42999,
+"en": "I cannot bear the thought of a life where I must spend the rest of my days with someone I do not love. So, I decided to run away.",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 43000,
+"en": "I chose Japan because nobody knows me here. I thought it would be the perfect place to start a new life.",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 43001,
+"en": "I see. And now your security detail is out looking for you, huh?",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 43002,
+"en": "That's right. And their driving skills are quite formidable. If they find me, I doubt we'd be able to get away.",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 43003,
+"en": "(I'm getting a little tired of playing along with this fantasy. I'll just smile and nod.)",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 43004,
+"en": "My security detail caught up with us!",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 43005,
+"en": "Well, what are you waiting for!? If they spot us, you'll be punished, too, you know!",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 43006,
+"en": "Hm. That would be a shame.",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 43007,
+"en": "Argh! How can you be so complacent!? Look at the car behind us!",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 43008,
+"en": "That's my security detail! If they catch up, it'll all be over!",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 43009,
+"en": "Mmhm. Right.",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 43010,
+"en": "(Wait, there is a suspicious-looking car behind us. And it's coming up fast!)",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 43011,
+"en": "(They're definitely following this taxi. Don't tell me her stories were all true...)",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 43012,
+"en": "Hurry up! Don't let them catch us!",
+"ctx": "diálogo uid010c08f3"
+},
+{
+"id": 43013,
+"en": "We must have lost them now.",
+"ctx": "diálogo uid010c08f4"
+},
+{
+"id": 43014,
+"en": "There's that taxi!",
+"ctx": "diálogo uid010c08f4"
+},
+{
+"id": 43015,
+"en": "Did they find us!? Oh no! Let's go!",
+"ctx": "diálogo uid010c08f4"
+},
+{
+"id": 43016,
+"en": "Fine. I just want to get this over with.",
+"ctx": "diálogo uid010c08f4"
+},
+{
+"id": 43017,
+"en": "It looks like we've lost them. Thank you, driver. I am sorry I dragged you into all this.",
+"ctx": "diálogo uid010c08f6"
+},
+{
+"id": 43018,
+"en": "Who exactly are you?",
+"ctx": "diálogo uid010c08f6"
+},
+{
+"id": 43019,
+"en": "Like I said, I am a princess of the Kingdom of Coutand.",
+"ctx": "diálogo uid010c08f6"
+},
+{
+"id": 43020,
+"en": "Yes, I heard you.",
+"ctx": "diálogo uid010c08f6"
+},
+{
+"id": 43021,
+"en": "So was there something else you wanted to know?",
+"ctx": "diálogo uid010c08f6"
+},
+{
+"id": 43022,
+"en": "No... I guess not.",
+"ctx": "diálogo uid010c08f6"
+},
+{
+"id": 43023,
+"en": "Well, we've taken care of my security team. Now I'll have to find a place to hide. Thank you for getting me this far. I appreciate it.",
+"ctx": "diálogo uid010c08f6"
+},
+{
+"id": 43024,
+"en": "Here is the money for the ride.",
+"ctx": "diálogo uid010c08f6"
+},
+{
+"id": 43025,
+"en": "I must be going. I trust that you won't mention you saw me to anyone else.",
+"ctx": "diálogo uid010c08f6"
+},
+{
+"id": 43026,
+"en": "Good. I am glad I ended up with you. Farewell.",
+"ctx": "diálogo uid010c08f6"
+},
+{
+"id": 43027,
+"en": "Take care... Your Royal Highness.",
+"ctx": "diálogo uid010c08f6"
+},
+{
+"id": 43028,
+"en": "They caught up with us... It's over.",
+"ctx": "diálogo uid010c08f6"
+},
+{
+"id": 43029,
+"en": "Who are you guys? I'm trying to do my job here.",
+"ctx": "diálogo uid010c08f6"
+},
+{
+"id": 43030,
+"en": "We're security for the Kingdom of Coutand.",
+"ctx": "diálogo uid010c08f6"
+},
+{
+"id": 43031,
+"en": "(She was telling the truth?)",
+"ctx": "diálogo uid010c08f6"
+},
+{
+"id": 43032,
+"en": "And we're taking you into custody for kidnapping our princess!",
+"ctx": "diálogo uid010c08f6"
+},
+{
+"id": 43033,
+"en": "Stop! He's done nothing wrong!",
+"ctx": "diálogo uid010c08f6"
+},
+{
+"id": 43034,
+"en": "Please, Your Royal Highness. We're just doing our job.",
+"ctx": "diálogo uid010c08f6"
+},
+{
+"id": 43035,
+"en": "Now, get that driver! And I don't care if you have to knock him around to do it!",
+"ctx": "diálogo uid010c08f6"
+},
+{
+"id": 43036,
+"en": "Phew, thank you! Your driving skills really are amazing!",
+"ctx": "diálogo uid010c08f6"
+},
+{
+"id": 43037,
+"en": "Well, we've shaken off my security team. Now I'll have to find a place to hide. Thank you for getting me this far⑬I appreciate it.",
+"ctx": "diálogo uid010c08f6"
+},
+{
+"id": 43038,
+"en": "So, who exactly were those guys?",
+"ctx": "diálogo uid010c08f6"
+},
+{
+"id": 43039,
+"en": "Hm? Like I said before, I am a princess of the Kingdom of Coutand, so⑬",
+"ctx": "diálogo uid010c08f6"
+},
+{
+"id": 43040,
+"en": "Yes, I heard you the first time.",
+"ctx": "diálogo uid010c08f6"
+},
+{
+"id": 43041,
+"en": "Then was there something else you wanted to know?",
+"ctx": "diálogo uid010c08f6"
+},
+{
+"id": 43042,
+"en": "...No, never mind. Anyway, is that all?",
+"ctx": "diálogo uid010c08f6"
+},
+{
+"id": 43043,
+"en": "Yes. Here is money for the ride, along with a reward.",
+"ctx": "diálogo uid010c08f6"
+},
+{
+"id": 43044,
+"en": "(That's a huge tip. Maybe she really is who she says.)",
+"ctx": "diálogo uid010c08f6"
+},
+{
+"id": 43045,
+"en": "I am glad I met you. If only the man my father wanted me to marry was as gallant as you.",
+"ctx": "diálogo uid010c08f6"
+},
+{
+"id": 43046,
+"en": "Sorry? Did you say something?",
+"ctx": "diálogo uid010c08f6"
+},
+{
+"id": 43047,
+"en": "Oh, it's nothing. Farewell!",
+"ctx": "diálogo uid010c08f6"
+},
+{
+"id": 43048,
+"en": "(Farewell, Princess.)",
+"ctx": "diálogo uid010c08f6"
+},
+{
+"id": 43049,
+"en": "Woo-hoo-hoo! Thanks, dude! This race'll be the talk of the town! And I'mma make a killing off of it!",
+"ctx": "diálogo uid010c0904"
+},
+{
+"id": 43050,
+"en": "You haven't forgotten our terms, have you?",
+"ctx": "diálogo uid010c0904"
+},
+{
+"id": 43051,
+"en": "Yeah, yeah. If you win, I disband the Devil Killers. But don't worry. No way in hell you're gonna win!",
+"ctx": "diálogo uid010c0904"
+},
+{
+"id": 43052,
+"en": "Ahahahahaha!",
+"ctx": "diálogo uid010c0904"
+},
+{
+"id": 43053,
+"en": "Who you bettin' on today?",
+"ctx": "diálogo uid010c0904"
+},
+{
+"id": 43054,
+"en": "Devil Takamura, duh.",
+"ctx": "diálogo uid010c0904"
+},
+{
+"id": 43055,
+"en": "Yeah. I heard rumors about that taxi driver being good, but no way in hell he's beating Takamura.",
+"ctx": "diálogo uid010c0904"
+},
+{
+"id": 43056,
+"en": "In all honesty... I kinda want him to win. The cabbie, I mean.",
+"ctx": "diálogo uid010c0904"
+},
+{
+"id": 43057,
+"en": "Yeah, those Devil Killers have been outta control for way too long. They're a pain in the ass to everyone, racers included.",
+"ctx": "diálogo uid010c0904"
+},
+{
+"id": 43058,
+"en": "Shh! There he is.",
+"ctx": "diálogo uid010c0904"
+},
+{
+"id": 43059,
+"en": "So, you're Suzuki, I presume?",
+"ctx": "diálogo uid010c0904"
+},
+{
+"id": 43060,
+"en": "Yeah. And you're Devil Takamura, I take it?",
+"ctx": "diálogo uid010c0904"
+},
+{
+"id": 43061,
+"en": "The one and only.",
+"ctx": "diálogo uid010c0904"
+},
+{
+"id": 43062,
+"en": "All right then. Just so we're clear, you'll disband your group if I win?",
+"ctx": "diálogo uid010c0904"
+},
+{
+"id": 43063,
+"en": "Whoa, hey, relax. We still have time in the limelight⑬gotta appreciate that, y'know?",
+"ctx": "diálogo uid010c0904"
+},
+{
+"id": 43064,
+"en": "I mean, look around. Street racers from all over Japan are hanging on our every movement. They're even streaming us online.",
+"ctx": "diálogo uid010c0904"
+},
+{
+"id": 43065,
+"en": "Bet it's not often a taxi driver like you gets his fifteen minutes of fame, huh?",
+"ctx": "diálogo uid010c0904"
+},
+{
+"id": 43066,
+"en": "...I bet there's a lot of money riding on this. Am I right?",
+"ctx": "diálogo uid010c0904"
+},
+{
+"id": 43067,
+"en": "Heh. So what if there is?",
+"ctx": "diálogo uid010c0904"
+},
+{
+"id": 43068,
+"en": "Don't you have any respect for your founder?",
+"ctx": "diálogo uid010c0904"
+},
+{
+"id": 43069,
+"en": "Hahaha! You talking about that Nakajima guy? Who cares about that old has-been? He's all washed up now!",
+"ctx": "diálogo uid010c0904"
+},
+{
+"id": 43070,
+"en": "I mean, working to save money to fix up your car? Racing solely to improve your <Italic>time</Italic>? Sounds like shit my grandpa'd say!",
+"ctx": "diálogo uid010c0904"
+},
+{
+"id": 43071,
+"en": "As you can see, I ain't new to this game. Because of my genius, this street racing shit is our cash cow. Guess it doesn't hurt to have the Devil Killers' image, though.",
+"ctx": "diálogo uid010c0904"
+},
+{
+"id": 43072,
+"en": "And people respect that image because of how hard the founders worked to build it. And this is how you repay them?",
+"ctx": "diálogo uid010c0904"
+},
+{
+"id": 43073,
+"en": "Fuck yeah, dude! As long as the Devil Killers keep raking in\nthe money, what's the problem? You really need to keep up\nwith the times, man! Ahahahahaha!",
+"ctx": "diálogo uid010c0904"
+},
+{
+"id": 43074,
+"en": "(This guy doesn't know a thing.)",
+"ctx": "diálogo uid010c0904"
+},
+{
+"id": 43075,
+"en": "But for real, don't worry. Everyone knows the Devil Killers are still the most badass team from way back when. That part ain't gonna change.",
+"ctx": "diálogo uid010c0904"
+},
+{
+"id": 43076,
+"en": "Well, at least until I've milked the Devil Killers' image for all it's worth. Then hey, who knows? Maybe I'll start something new. Sky's the limit, y'know?",
+"ctx": "diálogo uid010c0904"
+},
+{
+"id": 43077,
+"en": "And hey, these shitheads should be honored an entrepreneur\nlike me is doing them all a favor! Ahahahahaha!",
+"ctx": "diálogo uid010c0904"
+},
+{
+"id": 43078,
+"en": "I won't let you throw all those dreams away.",
+"ctx": "diálogo uid010c0904"
+},
+{
+"id": 43079,
+"en": "Oh, and what's a cabbie gonna do? You think I got to where\nI am just by talking big?",
+"ctx": "diálogo uid010c0904"
+},
+{
+"id": 43080,
+"en": "Lemme tell you, buddy⑬point blank⑬I earned my spot as fifth leader of the Devil Killers by being the fastest fuckin' driver. Period.",
+"ctx": "diálogo uid010c0904"
+},
+{
+"id": 43081,
+"en": "Now let's get this show on the road! Gotta give the audience what they came for, right!?",
+"ctx": "diálogo uid010c0904"
+},
+{
+"id": 43082,
+"en": "Yo! We're getting our asses out of here!",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43083,
+"en": "You'll get yours soon enough, man! I'll make sure of it!",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43084,
+"en": "Hold up.",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43085,
+"en": "What a pitiful sight... Never thought the \"legendary\" Devil Killers could sink so low. You oughta be ashamed.",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43086,
+"en": "Hey, isn't that...?",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43087,
+"en": "Seriously, you don't know!? That guy's like the biggest name in racing here in Fukuoka.",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43088,
+"en": "Onisaka-san!?",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43089,
+"en": "(Who's this character all of a sudden?)",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43090,
+"en": "Shoot, I... I didn't know you were gonna be here!",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43091,
+"en": "You start acting up on this scale, word is gonna reach me.",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43092,
+"en": "Uh, well, you see⑬this is all the taxi driver's fault! He picked a fight with us. So we, uh...",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43093,
+"en": "Don't even bother. I've been doing my own research.",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43094,
+"en": "I heard you were throwing your weight around. And I only gave you a pass because you had clout with the community. But now that's all ancient history.",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43095,
+"en": "Yeah? What's your point?",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43096,
+"en": "My point? Do I really need to restate how bad this taxi driver beat you to a pulp?",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43097,
+"en": "He's top dog now, so abiding by our rules... I'm ordering you to break up the Devil Killers!",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43098,
+"en": "But that would mean...",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43099,
+"en": "The Devil Killers are pretty much done for at this point!\nWhat with Onisaka-san giving the order...",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43100,
+"en": "One man really has that kinda pull?",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43101,
+"en": "Of course he does! He's pretty much the law in racing circles.",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43102,
+"en": "Your team is hereby disbanded, never to use the Devil Killers name again. Any objections?",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43103,
+"en": "...No.",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43104,
+"en": "Then get your ass off the road.",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43105,
+"en": "...You heard the man!",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43106,
+"en": "So you're Suzuki, huh? I'm Onisaka. I look after the young guns around here.",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43107,
+"en": "Thanks for intervening.",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43108,
+"en": "No need to thank me. You're the one who beat Takamura. That's all I needed to see.",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43109,
+"en": "But without you, they wouldn't have honored the agreement. So I appreciate you showing up.",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43110,
+"en": "Slow down there, pal. You don't think I came all this way just to help you get rid of a few punks, do you?",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43111,
+"en": "Why, then?",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43112,
+"en": "Well... You work for Nakajima, right?",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43113,
+"en": "Yeah... I do.",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43114,
+"en": "Then I'm assuming he wanted you to race the Devil Killers into submission, huh? Break 'em up that way?",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43115,
+"en": "Ultimately, yes.",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43116,
+"en": "Mm-hm. Yeah, that ain't gonna fly with me.",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43117,
+"en": "Because he's a coward. People who chicken out of a challenge have no say in racing matters.",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43118,
+"en": "Twenty years ago, the two of us were rivals. Nakajima, the undisputed champion... and me, the runner-up.",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43119,
+"en": "No matter how many times I raced him, he always won out in the end. I lost to him countless times.",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43120,
+"en": "Then one day, I decided enough was enough. I took a year off to travel the country, taking on as many other racers as I could.",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43121,
+"en": "Before I left, I made Nakajima swear not to lose to anyone. That way I'd still be taking on Fukuoka's best when I got back.",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43122,
+"en": "But when I returned, I found out he'd vanished from the streets. Gone, just like that. Promises be damned.",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43123,
+"en": "It demoralized me, Suzuki-san. An entire year completely down the drain, with no explanation whatsoever.",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43124,
+"en": "All that time, with nobody to race? What a fucking way to leave an old friend behind...",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43125,
+"en": "I'm sure Nakajima-san had his reasons. He's not the kind of guy to break his word.",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43126,
+"en": "You think I don't know that!? *sigh* ...I know he must have some kind of situation.",
+"ctx": "diálogo uid010c0927"
+},
+{
+"id": 43127,
+"en": "But that still doesn't keep me from wanting that race. He owes me.",
+"ctx": "diálogo uid010c0927"
+}
+]

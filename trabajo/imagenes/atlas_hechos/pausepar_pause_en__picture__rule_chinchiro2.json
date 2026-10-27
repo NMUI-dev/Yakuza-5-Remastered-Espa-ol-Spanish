@@ -1,0 +1,220 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_chinchiro2",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    459,
+    7,
+    564,
+    46
+   ],
+   "en": "Cee-lo",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    102,
+    68,
+    700,
+    100
+   ],
+   "en": "How to Play: Special Combinations",
+   "es": "Cómo jugar: combinaciones especiales",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    33,
+    32,
+    33
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 590,
+   "mediana": false
+  },
+  {
+   "caja": [
+    128,
+    109,
+    210,
+    147
+   ],
+   "en": "Trips",
+   "es": "Trío",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    8,
+    4,
+    8
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 74
+  },
+  {
+   "caja": [
+    130,
+    144,
+    900,
+    176
+   ],
+   "en": "Achieved by rolling three dice of the same number.",
+   "es": "Se logra al sacar tres dados con el mismo número.",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    8,
+    4,
+    8
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 762
+  },
+  {
+   "caja": [
+    130,
+    174,
+    960,
+    206
+   ],
+   "en": "Trips consisting of numbers 2 through 6 triple your stake.",
+   "es": "Un trío del 2 al 6 triplica tu apuesta.",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    8,
+    4,
+    8
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 822
+  },
+  {
+   "caja": [
+    130,
+    204,
+    960,
+    236
+   ],
+   "en": "Trips of all 1's is called an \"ace out\" and quintuples",
+   "es": "Un trío de puros unos se llama «as fuera» y quintuplica",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    8,
+    4,
+    8
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 822
+  },
+  {
+   "caja": [
+    130,
+    235,
+    400,
+    266
+   ],
+   "en": "your stake.",
+   "es": "tu apuesta.",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    8,
+    4,
+    8
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 262
+  },
+  {
+   "caja": [
+    130,
+    304,
+    960,
+    336
+   ],
+   "en": "Achieved with a combination of 4, 5, and 6. Doubles your",
+   "es": "Se logra con la combinación de 4, 5 y 6. Duplica tu",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    8,
+    4,
+    8
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 822
+  },
+  {
+   "caja": [
+    130,
+    335,
+    300,
+    364
+   ],
+   "en": "stake.",
+   "es": "apuesta.",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    8,
+    4,
+    8
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 162
+  },
+  {
+   "caja": [
+    130,
+    404,
+    960,
+    436
+   ],
+   "en": "Achieved with a combination of 1, 2, and 3. However, the",
+   "es": "Se logra con la combinación de 1, 2 y 3. Sin embargo, esta",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    8,
+    4,
+    8
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 822
+  },
+  {
+   "caja": [
+    130,
+    434,
+    960,
+    466
+   ],
+   "en": "combination results in a loss of double your stake.",
+   "es": "combinación te hace perder el doble de tu apuesta.",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    8,
+    4,
+    8
+   ],
+   "fondo": "lama",
+   "alin": "izq",
+   "ancho_max": 822
+  }
+ ]
+}

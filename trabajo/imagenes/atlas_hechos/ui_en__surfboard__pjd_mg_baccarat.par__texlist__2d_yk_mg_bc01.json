@@ -1,0 +1,200 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_baccarat.par/texlist/2d_yk_mg_bc01",
+ "fuente": "timesi.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    40,
+    124,
+    125,
+    151
+   ],
+   "en": "MIN",
+   "es": "MÍN",
+   "fuente": "timesbi.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "alto": 16,
+   "ancho_max": 80,
+   "color": [
+    189,
+    186,
+    156
+   ]
+  },
+  {
+   "caja": [
+    40,
+    152,
+    125,
+    180
+   ],
+   "en": "MAX",
+   "es": "MÁX",
+   "fuente": "timesbi.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "alto": 16,
+   "ancho_max": 80,
+   "color": [
+    189,
+    182,
+    148
+   ]
+  },
+  {
+   "caja": [
+    72,
+    286,
+    235,
+    313
+   ],
+   "en": "PLAYER",
+   "es": "J U G A D O R",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "alto": 20,
+   "ancho_max": 150,
+   "color": [
+    247,
+    243,
+    222
+   ]
+  },
+  {
+   "caja": [
+    72,
+    336,
+    235,
+    364
+   ],
+   "en": "BANKER",
+   "es": "B A N C A",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "alto": 20,
+   "ancho_max": 150,
+   "color": [
+    247,
+    243,
+    231
+   ]
+  },
+  {
+   "caja": [
+    724,
+    176,
+    800,
+    198
+   ],
+   "en": "HIT",
+   "es": "ACIERTO",
+   "fuente": "timesbi.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "alto": 13,
+   "ancho_max": 74,
+   "color": [
+    231,
+    235,
+    231
+   ]
+  },
+  {
+   "caja": [
+    636,
+    202,
+    730,
+    227
+   ],
+   "en": "CHIPS",
+   "es": "FICHAS",
+   "fuente": "timesbi.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "alto": 16,
+   "ancho_max": 92,
+   "color": [
+    206,
+    195,
+    140
+   ]
+  },
+  {
+   "caja": [
+    636,
+    229,
+    730,
+    257
+   ],
+   "en": "BET",
+   "es": "APUESTA",
+   "fuente": "timesbi.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "alto": 16,
+   "ancho_max": 92,
+   "color": [
+    206,
+    195,
+    140
+   ]
+  },
+  {
+   "caja": [
+    634,
+    349,
+    745,
+    380
+   ],
+   "en": "HIT %",
+   "es": "ACIERTO %",
+   "fuente": "timesbi.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "alto": 16,
+   "ancho_max": 108,
+   "color": [
+    206,
+    195,
+    140
+   ]
+  },
+  {
+   "caja": [
+    319,
+    142,
+    403,
+    169
+   ],
+   "en": "TOTAL",
+   "es": "",
+   "dejar": true,
+   "nota": "misma palabra en español"
+  },
+  {
+   "caja": [
+    651,
+    409,
+    1014,
+    509
+   ],
+   "en": "BP PP S T B P",
+   "es": "",
+   "dejar": true,
+   "nota": "abreviaturas de las fichas de apuesta; el texto del juego las deja (PP, Bp)"
+  }
+ ]
+}

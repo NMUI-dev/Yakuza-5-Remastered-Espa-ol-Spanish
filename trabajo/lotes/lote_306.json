@@ -1,0 +1,1983 @@
+[
+{
+"id": 62123,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key H3<Color:Default>.\n ",
+"ctx": "diálogo uid033306e9"
+},
+{
+"id": 62124,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key D4<Color:Default>.\n ",
+"ctx": "diálogo uid033306ea"
+},
+{
+"id": 62125,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key  J4<Color:Default>.\n ",
+"ctx": "diálogo uid033306eb"
+},
+{
+"id": 62126,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key J4<Color:Default>.\n ",
+"ctx": "diálogo uid033306eb"
+},
+{
+"id": 62127,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key H4<Color:Default>.\n ",
+"ctx": "diálogo uid033306ec"
+},
+{
+"id": 62128,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key  I3<Color:Default>.\n ",
+"ctx": "diálogo uid033306ed"
+},
+{
+"id": 62129,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key I3<Color:Default>.\n ",
+"ctx": "diálogo uid033306ed"
+},
+{
+"id": 62130,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key J3<Color:Default>.\n ",
+"ctx": "diálogo uid033306ee"
+},
+{
+"id": 62131,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key  A4<Color:Default>.\n ",
+"ctx": "diálogo uid033306ef"
+},
+{
+"id": 62132,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key A4<Color:Default>.\n ",
+"ctx": "diálogo uid033306ef"
+},
+{
+"id": 62133,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key C4<Color:Default>.\n ",
+"ctx": "diálogo uid033306f0"
+},
+{
+"id": 62134,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key E4<Color:Default>.\n ",
+"ctx": "diálogo uid033306f1"
+},
+{
+"id": 62135,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key  F4<Color:Default>.\n ",
+"ctx": "diálogo uid033306f2"
+},
+{
+"id": 62136,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key F4<Color:Default>.\n ",
+"ctx": "diálogo uid033306f2"
+},
+{
+"id": 62137,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key G4<Color:Default>.\n ",
+"ctx": "diálogo uid033306f3"
+},
+{
+"id": 62138,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key  F5<Color:Default>.\n ",
+"ctx": "diálogo uid033306f4"
+},
+{
+"id": 62139,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key F5<Color:Default>.\n ",
+"ctx": "diálogo uid033306f4"
+},
+{
+"id": 62140,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key  I4<Color:Default>.\n ",
+"ctx": "diálogo uid033306f6"
+},
+{
+"id": 62141,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key I4<Color:Default>.\n ",
+"ctx": "diálogo uid033306f6"
+},
+{
+"id": 62142,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key B5<Color:Default>.\n ",
+"ctx": "diálogo uid033306f7"
+},
+{
+"id": 62143,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key J5<Color:Default>.\n ",
+"ctx": "diálogo uid033306f8"
+},
+{
+"id": 62144,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key C5<Color:Default>.\n ",
+"ctx": "diálogo uid033306f9"
+},
+{
+"id": 62145,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key  D5<Color:Default>.\n ",
+"ctx": "diálogo uid033306fa"
+},
+{
+"id": 62146,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key D5<Color:Default>.\n ",
+"ctx": "diálogo uid033306fa"
+},
+{
+"id": 62147,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key  I5<Color:Default>.\n ",
+"ctx": "diálogo uid033306fb"
+},
+{
+"id": 62148,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key I5<Color:Default>.\n ",
+"ctx": "diálogo uid033306fb"
+},
+{
+"id": 62149,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key G5<Color:Default>.\n ",
+"ctx": "diálogo uid033306fc"
+},
+{
+"id": 62150,
+"en": "(A coin locker key? Let me take a closer look...)\n　 ",
+"ctx": "diálogo uid033306fd + diálogo uid033306fe …"
+},
+{
+"id": 62151,
+"en": "(There's something shining here.)\n　 ",
+"ctx": "diálogo uid033306fd + diálogo uid033306fe …"
+},
+{
+"id": 62152,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key A1<Color:Default>.\n ",
+"ctx": "diálogo uid033306fd"
+},
+{
+"id": 62153,
+"en": "(What's this?)",
+"ctx": "diálogo uid033306fd + diálogo uid033306fe …"
+},
+{
+"id": 62154,
+"en": "(I guess I'll pass for now.)  ",
+"ctx": "diálogo uid033306fd + diálogo uid033306fe …"
+},
+{
+"id": 62155,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key B1<Color:Default>.\n ",
+"ctx": "diálogo uid033306fe"
+},
+{
+"id": 62156,
+"en": "(Looks like there's a locker key. I'll have to take a closer look...)\n　 ",
+"ctx": "diálogo uid033306ff + diálogo uid03330702 …"
+},
+{
+"id": 62157,
+"en": "(Hm, what is that? Looks shiny.)\n　 ",
+"ctx": "diálogo uid033306ff + diálogo uid03330702 …"
+},
+{
+"id": 62158,
+"en": "(What is that?)",
+"ctx": "diálogo uid033306ff + diálogo uid03330702 …"
+},
+{
+"id": 62159,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key C1<Color:Default>.\n ",
+"ctx": "diálogo uid033306ff"
+},
+{
+"id": 62160,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key D1<Color:Default>.\n ",
+"ctx": "diálogo uid03330700"
+},
+{
+"id": 62161,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key E1<Color:Default>.\n ",
+"ctx": "diálogo uid03330701"
+},
+{
+"id": 62162,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key F1<Color:Default>.\n ",
+"ctx": "diálogo uid03330702"
+},
+{
+"id": 62163,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key G1<Color:Default>.\n ",
+"ctx": "diálogo uid03330703"
+},
+{
+"id": 62164,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key H1<Color:Default>.\n ",
+"ctx": "diálogo uid03330704"
+},
+{
+"id": 62165,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key I1<Color:Default>.\n ",
+"ctx": "diálogo uid03330705"
+},
+{
+"id": 62166,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key J1<Color:Default>.\n ",
+"ctx": "diálogo uid03330706"
+},
+{
+"id": 62167,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key A2<Color:Default>.\n ",
+"ctx": "diálogo uid03330707"
+},
+{
+"id": 62168,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key B2<Color:Default>.\n ",
+"ctx": "diálogo uid03330708"
+},
+{
+"id": 62169,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key C2<Color:Default>.\n ",
+"ctx": "diálogo uid03330709"
+},
+{
+"id": 62170,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key D2<Color:Default>.\n ",
+"ctx": "diálogo uid0333070a"
+},
+{
+"id": 62171,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key E2<Color:Default>.\n ",
+"ctx": "diálogo uid0333070b"
+},
+{
+"id": 62172,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key F2<Color:Default>.\n ",
+"ctx": "diálogo uid0333070c"
+},
+{
+"id": 62173,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key G2<Color:Default>.\n ",
+"ctx": "diálogo uid0333070d"
+},
+{
+"id": 62174,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key H2<Color:Default>.\n ",
+"ctx": "diálogo uid0333070e"
+},
+{
+"id": 62175,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key I2<Color:Default>.\n ",
+"ctx": "diálogo uid0333070f"
+},
+{
+"id": 62176,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key J2<Color:Default>.\n ",
+"ctx": "diálogo uid03330710"
+},
+{
+"id": 62177,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key A3<Color:Default>.\n ",
+"ctx": "diálogo uid03330711"
+},
+{
+"id": 62178,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key B3<Color:Default>.\n ",
+"ctx": "diálogo uid03330712"
+},
+{
+"id": 62179,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key C3<Color:Default>.\n ",
+"ctx": "diálogo uid03330713"
+},
+{
+"id": 62180,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key D3<Color:Default>.\n ",
+"ctx": "diálogo uid03330714"
+},
+{
+"id": 62181,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key E3<Color:Default>.\n ",
+"ctx": "diálogo uid03330715"
+},
+{
+"id": 62182,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key F3<Color:Default>.\n ",
+"ctx": "diálogo uid03330716"
+},
+{
+"id": 62183,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key G3<Color:Default>.\n ",
+"ctx": "diálogo uid03330717"
+},
+{
+"id": 62184,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key H3<Color:Default>.\n ",
+"ctx": "diálogo uid03330718"
+},
+{
+"id": 62185,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key I3<Color:Default>.\n ",
+"ctx": "diálogo uid03330719"
+},
+{
+"id": 62186,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key J3<Color:Default>.\n ",
+"ctx": "diálogo uid0333071a"
+},
+{
+"id": 62187,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key A4<Color:Default>.\n ",
+"ctx": "diálogo uid0333071b"
+},
+{
+"id": 62188,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key B4<Color:Default>.\n ",
+"ctx": "diálogo uid0333071c"
+},
+{
+"id": 62189,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key C4<Color:Default>.\n ",
+"ctx": "diálogo uid0333071d"
+},
+{
+"id": 62190,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key D4<Color:Default>.\n ",
+"ctx": "diálogo uid0333071e"
+},
+{
+"id": 62191,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key E4<Color:Default>.\n ",
+"ctx": "diálogo uid0333071f"
+},
+{
+"id": 62192,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key F4<Color:Default>.\n ",
+"ctx": "diálogo uid03330720"
+},
+{
+"id": 62193,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key G4<Color:Default>.\n ",
+"ctx": "diálogo uid03330721"
+},
+{
+"id": 62194,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key H4<Color:Default>.\n ",
+"ctx": "diálogo uid03330722"
+},
+{
+"id": 62195,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key I4<Color:Default>.\n ",
+"ctx": "diálogo uid03330723"
+},
+{
+"id": 62196,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key J4<Color:Default>.\n ",
+"ctx": "diálogo uid03330724"
+},
+{
+"id": 62197,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key A5<Color:Default>.\n ",
+"ctx": "diálogo uid03330725"
+},
+{
+"id": 62198,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key B5<Color:Default>.\n ",
+"ctx": "diálogo uid03330726"
+},
+{
+"id": 62199,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key C5<Color:Default>.\n ",
+"ctx": "diálogo uid03330727"
+},
+{
+"id": 62200,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key D5<Color:Default>.\n ",
+"ctx": "diálogo uid03330728"
+},
+{
+"id": 62201,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key E5<Color:Default>.\n ",
+"ctx": "diálogo uid03330729"
+},
+{
+"id": 62202,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key F5<Color:Default>.\n ",
+"ctx": "diálogo uid0333072a"
+},
+{
+"id": 62203,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key G5<Color:Default>.\n ",
+"ctx": "diálogo uid0333072b"
+},
+{
+"id": 62204,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key H5<Color:Default>.\n ",
+"ctx": "diálogo uid0333072c"
+},
+{
+"id": 62205,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key I5<Color:Default>.\n ",
+"ctx": "diálogo uid0333072d"
+},
+{
+"id": 62206,
+"en": "You got <Color:255,255,200,255>Taihei Boulevard Locker Key J5<Color:Default>.\n ",
+"ctx": "diálogo uid0333072e"
+},
+{
+"id": 62207,
+"en": "You can save the game at public phones.",
+"ctx": "diálogo uid03330937"
+},
+{
+"id": 62208,
+"en": "You can save the game and use the Item Box at pay phones or fax machines.",
+"ctx": "diálogo uid03330a5c"
+},
+{
+"id": 62209,
+"en": "You can save the game and use the Item Box at phones.",
+"ctx": "diálogo uid03330b9c + diálogo uid03330beb"
+},
+{
+"id": 62210,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key  A5<Color:Default>.\n ",
+"ctx": "diálogo uid03330c23"
+},
+{
+"id": 62211,
+"en": "You got <Color:255,255,200,255>Sotenbori Locker Key A5<Color:Default>.\n ",
+"ctx": "diálogo uid03330c23"
+},
+{
+"id": 62212,
+"en": "Hold on, let's swing by here!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 29
+},
+{
+"id": 62213,
+"en": "Hold on, I wanna see this!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 26
+},
+{
+"id": 62214,
+"en": "Let's get some mizutaki!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 24
+},
+{
+"id": 62215,
+"en": "Wanna play some darts?",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 22
+},
+{
+"id": 62216,
+"en": "Let's get some sushi!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 21
+},
+{
+"id": 62217,
+"en": "Let's get some motsunabe!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 25
+},
+{
+"id": 62218,
+"en": "Ooh, let's sing some karaoke!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 29
+},
+{
+"id": 62219,
+"en": "Wanna play Taiko No Tatsujin?",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 29
+},
+{
+"id": 62220,
+"en": "Let's hit up that photo booth!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 30
+},
+{
+"id": 62221,
+"en": "I wanna stuffed animal!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 23
+},
+{
+"id": 62222,
+"en": "I'm staaarving.",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 15
+},
+{
+"id": 62223,
+"en": "I'm booored.\nLet's do somethin'!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 33
+},
+{
+"id": 62224,
+"en": "Oh boy, I'm beat.",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 17
+},
+{
+"id": 62225,
+"en": "Let's play some darts!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 22
+},
+{
+"id": 62226,
+"en": "That was wicked fun!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 20
+},
+{
+"id": 62227,
+"en": "Wanna take some pics together?",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 30
+},
+{
+"id": 62228,
+"en": "Let's take more pics sometime!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 30
+},
+{
+"id": 62229,
+"en": "Win me that Opa-Opa!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 20
+},
+{
+"id": 62230,
+"en": "Let's check this out!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 21
+},
+{
+"id": 62231,
+"en": "That looks interesting!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 23
+},
+{
+"id": 62232,
+"en": "Want to use the photo booth?",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 28
+},
+{
+"id": 62233,
+"en": "Want to go bowling?",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 19
+},
+{
+"id": 62234,
+"en": "I want some gyoza!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 18
+},
+{
+"id": 62235,
+"en": "I want some sushi!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 18
+},
+{
+"id": 62236,
+"en": "Want to sing some karaoke?",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 26
+},
+{
+"id": 62237,
+"en": "I want lamb barbecue!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 21
+},
+{
+"id": 62238,
+"en": "Wanna shoot some pool?",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 22
+},
+{
+"id": 62239,
+"en": "Want to play darts?",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 19
+},
+{
+"id": 62240,
+"en": "I'm hungry...",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 13
+},
+{
+"id": 62241,
+"en": "I'm bored!\nLet's do something.",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 31
+},
+{
+"id": 62242,
+"en": "I'm tired...",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 12
+},
+{
+"id": 62243,
+"en": "That photo's great!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 19
+},
+{
+"id": 62244,
+"en": "I wanna see this!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 17
+},
+{
+"id": 62245,
+"en": "Let's stop by here real quick!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 30
+},
+{
+"id": 62246,
+"en": "I'm cravin' some okonomiyaki!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 29
+},
+{
+"id": 62247,
+"en": "Wanna grab a drink at Watami?",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 29
+},
+{
+"id": 62248,
+"en": "I'm cravin' some pork skewers!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 30
+},
+{
+"id": 62249,
+"en": "I'm feelin' the urge to sing!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 29
+},
+{
+"id": 62250,
+"en": "I'm cravin' some crab!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 22
+},
+{
+"id": 62251,
+"en": "I'm cravin' some fugu!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 22
+},
+{
+"id": 62252,
+"en": "I'm cravin' some sushi!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 23
+},
+{
+"id": 62253,
+"en": "Let's get some drinks!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 22
+},
+{
+"id": 62254,
+"en": "I'm cravin' some Japanese cuisine!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 34
+},
+{
+"id": 62255,
+"en": "I want a stuffed animal!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 24
+},
+{
+"id": 62256,
+"en": "Let's hit the photo booth!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 26
+},
+{
+"id": 62257,
+"en": "I'm booored. Let's do somethin'!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 32
+},
+{
+"id": 62258,
+"en": "I'm beat...",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 11
+},
+{
+"id": 62259,
+"en": "Get me a Jumbo Chestnut!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 24
+},
+{
+"id": 62260,
+"en": "Let's take some pics!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 21
+},
+{
+"id": 62261,
+"en": "Could we stop here a moment?",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 28
+},
+{
+"id": 62262,
+"en": "That shop looks interesting.",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 28
+},
+{
+"id": 62263,
+"en": "Those tebasaki look delicious!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 30
+},
+{
+"id": 62264,
+"en": "Ooh, cocktails.",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 15
+},
+{
+"id": 62265,
+"en": "Shall we play pool?",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 19
+},
+{
+"id": 62266,
+"en": "That udon looks delicious!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 26
+},
+{
+"id": 62267,
+"en": "Shall we play Taiko No Tatsujin?",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 32
+},
+{
+"id": 62268,
+"en": "Shall we try the photo booth?",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 29
+},
+{
+"id": 62269,
+"en": "I'd love a stuffed animal.",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 26
+},
+{
+"id": 62270,
+"en": "Karaoke sounds fun!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 19
+},
+{
+"id": 62271,
+"en": "I'm famished.",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 13
+},
+{
+"id": 62272,
+"en": "I'm bored. Can we do something?",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 31
+},
+{
+"id": 62273,
+"en": "I'm exhausted.",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 14
+},
+{
+"id": 62274,
+"en": "Now we have a lovely keepsake!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 30
+},
+{
+"id": 62275,
+"en": "Could you get me that odd\nlooking purple one?",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 46
+},
+{
+"id": 62276,
+"en": "Hey, let's check this out!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 26
+},
+{
+"id": 62277,
+"en": "I want to see this!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 19
+},
+{
+"id": 62278,
+"en": "Let's play darts!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 17
+},
+{
+"id": 62279,
+"en": "I'm hungry for some sushi!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 26
+},
+{
+"id": 62280,
+"en": "I'm hungry for some yakiniku!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 29
+},
+{
+"id": 62281,
+"en": "I'm kinda thirsty.",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 18
+},
+{
+"id": 62282,
+"en": "Let's play pool!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 16
+},
+{
+"id": 62283,
+"en": "Karaoke, karaoke, karaoke!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 26
+},
+{
+"id": 62284,
+"en": "Let's go bowling!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 17
+},
+{
+"id": 62285,
+"en": "Hot springs sound great!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 24
+},
+{
+"id": 62286,
+"en": "I'm so booored. Let's go do something!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 38
+},
+{
+"id": 62287,
+"en": "Whew, I'm beat.",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 15
+},
+{
+"id": 62288,
+"en": "This'll be a keepsake!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 22
+},
+{
+"id": 62289,
+"en": "I want that Nico Nico TV-chan!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 30
+},
+{
+"id": 62290,
+"en": "These came out great!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 21
+},
+{
+"id": 62291,
+"en": "This way, Uncle Kaz!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 20
+},
+{
+"id": 62292,
+"en": "Over here, Uncle Kaz!",
+"ctx": "frase de acompañante/calle STID_MG_ANAN + frase de acompañante/calle STID_MG_BACCARAT …",
+"max": 21
+},
+{
+"id": 62293,
+"en": "\n\n\n\n\n\n\n\n//Player→バーテン\n//キャバ嬢→バーテン\n//バーテン→プレイヤー",
+"ctx": "frase de acompañante/calle STID_ST_BANTAM + frase de acompañante/calle STID_ST_F_BEE …",
+"max": 104
+},
+{
+"id": 62294,
+"en": "Aw, rats...",
+"ctx": "frase de acompañante/calle STID_ST_BANTAM",
+"max": 11
+},
+{
+"id": 62295,
+"en": "Uncle Kaz! I bet you've got amazing aim in <Color:8>darts<Color:Default>!",
+"ctx": "frase de acompañante/calle STID_ST_BANTAM",
+"max": 73
+},
+{
+"id": 62296,
+"en": "Don't go easy on me, okay? I wanna see what you're really made of.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 66
+},
+{
+"id": 62297,
+"en": "You've got a lot of pent-up aggression. Let's see if I can help you get it out.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 79
+},
+{
+"id": 62298,
+"en": "C'mon, what's wrong?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 20
+},
+{
+"id": 62299,
+"en": "Sorry, but this isn't over yet. Not till you dig deep and show me what you can really do.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 89
+},
+{
+"id": 62300,
+"en": "Nothin' to do...",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 16
+},
+{
+"id": 62301,
+"en": "Wanna grab a drink?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 19
+},
+{
+"id": 62302,
+"en": "Where ya from?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 14
+},
+{
+"id": 62303,
+"en": "Where'd I park?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 15
+},
+{
+"id": 62304,
+"en": "Oh, no. What'll I do?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 21
+},
+{
+"id": 62305,
+"en": "Let's get some motsunabe.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 25
+},
+{
+"id": 62306,
+"en": "Lemme think about that.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 23
+},
+{
+"id": 62307,
+"en": "C-Cold...",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 9
+},
+{
+"id": 62308,
+"en": "Welcome to Club SEGA!",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 21
+},
+{
+"id": 62309,
+"en": "Oh, Riku-chan...",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 16
+},
+{
+"id": 62310,
+"en": "Check out our hostess club!",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA + frase de acompañante/calle STID_ST_NAGOYA",
+"max": 27
+},
+{
+"id": 62311,
+"en": "What should I do?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA + frase de acompañante/calle STID_ST_KAMURO …",
+"max": 17
+},
+{
+"id": 62312,
+"en": "Only if you're a good boy.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 26
+},
+{
+"id": 62313,
+"en": "Come on, Mom!",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 13
+},
+{
+"id": 62314,
+"en": "Suzuki-san!",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 11
+},
+{
+"id": 62315,
+"en": "Ugh, so freakin' cold.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 22
+},
+{
+"id": 62316,
+"en": "What a dilemma...",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 17
+},
+{
+"id": 62317,
+"en": "What's keepin' them?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 20
+},
+{
+"id": 62318,
+"en": "Strange...",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 10
+},
+{
+"id": 62319,
+"en": "I had too much...",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 17
+},
+{
+"id": 62320,
+"en": "Look at the time. Yikes!",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 24
+},
+{
+"id": 62321,
+"en": "Got a text.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 11
+},
+{
+"id": 62322,
+"en": "I've had it!",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 12
+},
+{
+"id": 62323,
+"en": "I'm starvin'.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 13
+},
+{
+"id": 62324,
+"en": "A maid café, huh?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 18
+},
+{
+"id": 62325,
+"en": "Ahaha!",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 6
+},
+{
+"id": 62326,
+"en": "They're so sweet.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 17
+},
+{
+"id": 62327,
+"en": "Where'd I put it?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 17
+},
+{
+"id": 62328,
+"en": "What's takin' her?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 18
+},
+{
+"id": 62329,
+"en": "Wanna go to karaoke?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 20
+},
+{
+"id": 62330,
+"en": "Hungry yet?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 11
+},
+{
+"id": 62331,
+"en": "Ain't it pretty?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 16
+},
+{
+"id": 62332,
+"en": "Ain't got no money.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 19
+},
+{
+"id": 62333,
+"en": "Let's hit a hostess club!",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 25
+},
+{
+"id": 62334,
+"en": "Sounds perfect.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 15
+},
+{
+"id": 62335,
+"en": "That concert was amazing!",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 25
+},
+{
+"id": 62336,
+"en": "They were so cool.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 18
+},
+{
+"id": 62337,
+"en": "Wanna grab ramen?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 17
+},
+{
+"id": 62338,
+"en": "I am totally smashed.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 21
+},
+{
+"id": 62339,
+"en": "Sounds fun.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 11
+},
+{
+"id": 62340,
+"en": "Hurry, hurry.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 13
+},
+{
+"id": 62341,
+"en": "Can ya slow down?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 17
+},
+{
+"id": 62342,
+"en": "Let's get some coffee.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 22
+},
+{
+"id": 62343,
+"en": "Wanna grab a bite to eat?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 25
+},
+{
+"id": 62344,
+"en": "I'm headin' home now.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 21
+},
+{
+"id": 62345,
+"en": "Want me to pick up anything?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 28
+},
+{
+"id": 62346,
+"en": "I so need a guy.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 16
+},
+{
+"id": 62347,
+"en": "Which should I choose?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 22
+},
+{
+"id": 62348,
+"en": "Oof, I'm stuffed.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 17
+},
+{
+"id": 62349,
+"en": "Man, that was delicious.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 24
+},
+{
+"id": 62350,
+"en": "Let's go get drunk!",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 19
+},
+{
+"id": 62351,
+"en": "I need a girlfriend.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 20
+},
+{
+"id": 62352,
+"en": "Beer and nabe tonight! Yeah, baby!",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 34
+},
+{
+"id": 62353,
+"en": "Gotta find a job, or  I'm screwed...",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 36
+},
+{
+"id": 62354,
+"en": "Hope ya didn't wait too long.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 29
+},
+{
+"id": 62355,
+"en": "I wanna lose weight...",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 22
+},
+{
+"id": 62356,
+"en": "Tripe diet?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 11
+},
+{
+"id": 62357,
+"en": "We're too broke!",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 16
+},
+{
+"id": 62358,
+"en": "Crazy awesome, dude.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 20
+},
+{
+"id": 62359,
+"en": "Aww, no.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 8
+},
+{
+"id": 62360,
+"en": "Am I gonna make it?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 19
+},
+{
+"id": 62361,
+"en": "I'm counting on you.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 20
+},
+{
+"id": 62362,
+"en": "Anything good at all?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 21
+},
+{
+"id": 62363,
+"en": "Where's the convenience store?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 30
+},
+{
+"id": 62364,
+"en": "Yeah, yeah, I heard.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 20
+},
+{
+"id": 62365,
+"en": "It's chilly...",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 14
+},
+{
+"id": 62366,
+"en": "I think this is better.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 23
+},
+{
+"id": 62367,
+"en": "Agh, so cold.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 13
+},
+{
+"id": 62368,
+"en": "This is spicy!",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 14
+},
+{
+"id": 62369,
+"en": "But it's good!",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 14
+},
+{
+"id": 62370,
+"en": "No, it ain't.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 13
+},
+{
+"id": 62371,
+"en": "Lost in Hakata now...",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 21
+},
+{
+"id": 62372,
+"en": "Just a bit more.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 16
+},
+{
+"id": 62373,
+"en": "So lovely...",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 12
+},
+{
+"id": 62374,
+"en": "Look, over there.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 17
+},
+{
+"id": 62375,
+"en": "Where, where?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 13
+},
+{
+"id": 62376,
+"en": "Oh, don't exaggerate.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 21
+},
+{
+"id": 62377,
+"en": "What's with you, man?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 21
+},
+{
+"id": 62378,
+"en": "Nothin' goin' on...",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 19
+},
+{
+"id": 62379,
+"en": "What happened to me?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 20
+},
+{
+"id": 62380,
+"en": "What happens next?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 18
+},
+{
+"id": 62381,
+"en": "What do I feel like today?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 26
+},
+{
+"id": 62382,
+"en": "Goin' straight home tonight.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 28
+},
+{
+"id": 62383,
+"en": "The evenin' sky's pretty.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 25
+},
+{
+"id": 62384,
+"en": "Yeah, agreed.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 13
+},
+{
+"id": 62385,
+"en": "Better show up soon.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 20
+},
+{
+"id": 62386,
+"en": "How'll I last till payday?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 26
+},
+{
+"id": 62387,
+"en": "My eyes are goin' on me...",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 26
+},
+{
+"id": 62388,
+"en": "The sun sets so quickly.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 24
+},
+{
+"id": 62389,
+"en": "Yup, on my way.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 15
+},
+{
+"id": 62390,
+"en": "Can I do it, too?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 17
+},
+{
+"id": 62391,
+"en": "Gonna be late tonight.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 22
+},
+{
+"id": 62392,
+"en": "Gotta blow off some steam.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 26
+},
+{
+"id": 62393,
+"en": "That's it, yeah?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 16
+},
+{
+"id": 62394,
+"en": "Seriously? That's killer!",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 25
+},
+{
+"id": 62395,
+"en": "The low sun gets in the eyes.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 29
+},
+{
+"id": 62396,
+"en": "Honest truth.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 13
+},
+{
+"id": 62397,
+"en": "Another day done!",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 17
+},
+{
+"id": 62398,
+"en": "Come on, enough!",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 16
+},
+{
+"id": 62399,
+"en": "It's about that time...",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 23
+},
+{
+"id": 62400,
+"en": "Listen...",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 9
+},
+{
+"id": 62401,
+"en": "Oh no... They're about to start!",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 32
+},
+{
+"id": 62402,
+"en": "Bahaha!",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 7
+},
+{
+"id": 62403,
+"en": "I hope Haruka comes home soon...",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 32
+},
+{
+"id": 62404,
+"en": "Oh no... It's gone!?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 20
+},
+{
+"id": 62405,
+"en": "We're really screwed now...",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 27
+},
+{
+"id": 62406,
+"en": "What do we even talk about?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 27
+},
+{
+"id": 62407,
+"en": "River fishing sure is tricky...",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 31
+},
+{
+"id": 62408,
+"en": "It's getting late.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 18
+},
+{
+"id": 62409,
+"en": "Bleah... *hic* Dammit!",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 22
+},
+{
+"id": 62410,
+"en": "No more of this.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 16
+},
+{
+"id": 62411,
+"en": "Oh, what're ya sayin'?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 22
+},
+{
+"id": 62412,
+"en": "She ain't comin'...",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 19
+},
+{
+"id": 62413,
+"en": "Ooh, baby.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 10
+},
+{
+"id": 62414,
+"en": "Lay one on me, baby.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 20
+},
+{
+"id": 62415,
+"en": "Hey, now.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 9
+},
+{
+"id": 62416,
+"en": "Where am I?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 11
+},
+{
+"id": 62417,
+"en": "It's over, isn't it?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 20
+},
+{
+"id": 62418,
+"en": "Huff, huff...",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 13
+},
+{
+"id": 62419,
+"en": "Oh, come on!",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 12
+},
+{
+"id": 62420,
+"en": "Ow, dammit! My arm's broken!",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 28
+},
+{
+"id": 62421,
+"en": "Quit messing around!",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 20
+},
+{
+"id": 62422,
+"en": "Man... Doesn't anyone\nwant a taxi today?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 41
+},
+{
+"id": 62423,
+"en": "Yow ow oww...",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 13
+},
+{
+"id": 62424,
+"en": "Hey, just hear me out.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 22
+},
+{
+"id": 62425,
+"en": "Come on, don't go.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 18
+},
+{
+"id": 62426,
+"en": "Please, just go away!",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 21
+},
+{
+"id": 62427,
+"en": "Hmm... No one here?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 19
+},
+{
+"id": 62428,
+"en": "Uncle Kaz! Over here!",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA + frase de acompañante/calle STID_ST_OSAKA …",
+"max": 21
+},
+{
+"id": 62429,
+"en": "Hmm, what to buy?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 17
+},
+{
+"id": 62430,
+"en": "What would work best?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 21
+},
+{
+"id": 62431,
+"en": "We need something good.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 23
+},
+{
+"id": 62432,
+"en": "I need a present...",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 19
+},
+{
+"id": 62433,
+"en": "The Yamagasa Family, huh?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 25
+},
+{
+"id": 62434,
+"en": "The Yahata Family...",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 20
+},
+{
+"id": 62435,
+"en": "Rent...",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 7
+},
+{
+"id": 62436,
+"en": "Energy drinks...",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 16
+},
+{
+"id": 62437,
+"en": "What a pain...",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 14
+},
+{
+"id": 62438,
+"en": "Those Devil Killers...",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 22
+},
+{
+"id": 62439,
+"en": "The Devil Killers...",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 20
+},
+{
+"id": 62440,
+"en": "Nagasu Taxi...",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 14
+},
+{
+"id": 62441,
+"en": "Scary stuff...",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 14
+},
+{
+"id": 62442,
+"en": "Those guys in the black suits...",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 32
+},
+{
+"id": 62443,
+"en": "Those guys were yakuza.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 23
+},
+{
+"id": 62444,
+"en": "Yahata Family...",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 16
+},
+{
+"id": 62445,
+"en": "Red tracksuits...",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 17
+},
+{
+"id": 62446,
+"en": "They're yakuza.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 15
+},
+{
+"id": 62447,
+"en": "Yahata Family men...",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 20
+},
+{
+"id": 62448,
+"en": "Damn yakuza!",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 12
+},
+{
+"id": 62449,
+"en": "Never seen anythin' like it.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 28
+},
+{
+"id": 62450,
+"en": "Let go!",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 7
+},
+{
+"id": 62451,
+"en": "What're they doing?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 19
+},
+{
+"id": 62452,
+"en": "What's with that?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 17
+},
+{
+"id": 62453,
+"en": "Watch it.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA + frase de acompañante/calle STID_ST_NAGOYA …",
+"max": 9
+},
+{
+"id": 62454,
+"en": "I'm full.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 9
+},
+{
+"id": 62455,
+"en": "That tasted great.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 18
+},
+{
+"id": 62456,
+"en": "?|ee?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 5
+},
+{
+"id": 62457,
+"en": "Isn't there anyone around?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 26
+},
+{
+"id": 62458,
+"en": "Ya right in the head?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 21
+},
+{
+"id": 62459,
+"en": "Mmm, nope.",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 10
+},
+{
+"id": 62460,
+"en": "Yer mom really pushed the boat out!",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 35
+},
+{
+"id": 62461,
+"en": "A'mt?",
+"ctx": "frase de acompañante/calle STID_ST_FUKUOKA",
+"max": 5
+},
+{
+"id": 62462,
+"en": "Hah! There's no\nway I'll lose!",
+"ctx": "frase de acompañante/calle STID_ST_F_BEE",
+"max": 31
+},
+{
+"id": 62463,
+"en": "How did I lose that one?",
+"ctx": "frase de acompañante/calle STID_ST_F_BEE",
+"max": 24
+},
+{
+"id": 62464,
+"en": "Must've been practicing\nbehind my back.",
+"ctx": "frase de acompañante/calle STID_ST_F_BEE",
+"max": 40
+},
+{
+"id": 62465,
+"en": "I need to step up my game.",
+"ctx": "frase de acompañante/calle STID_ST_F_BEE",
+"max": 26
+},
+{
+"id": 62466,
+"en": "I'm getting pretty good!",
+"ctx": "frase de acompañante/calle STID_ST_F_BEE",
+"max": 24
+},
+{
+"id": 62467,
+"en": "I lost to someone who\ndidn't even play well.",
+"ctx": "frase de acompañante/calle STID_ST_F_BEE",
+"max": 45
+}
+]

@@ -1,0 +1,1067 @@
+[
+{
+"id": 35642,
+"en": "...All right!",
+"ctx": "diálogo uid0102076f"
+},
+{
+"id": 35643,
+"en": "Good morning, Aniki.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35644,
+"en": "Hey. Didn't notice you were back.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35645,
+"en": "Yeah, sorry I was late.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35646,
+"en": "Well, as to what we gotta do today...",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35647,
+"en": "Yeah, I think it's gonna be hairy.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35648,
+"en": "If you need to do anything first, better go do it right now.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35649,
+"en": "I'll do the same. Let's meet back here by noon.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35650,
+"en": "(This could be the last day to roam free in Tsukimino.)",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35651,
+"en": "(Better not leave with any regrets.)",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35652,
+"en": "(He said to rest up, but do I really wanna?)",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35653,
+"en": "I can sleep when I'm dead.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35654,
+"en": "It <Italic>is</Italic> gonna be a busy day tomorrow...",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35655,
+"en": "It took you a while to come back.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35656,
+"en": "I was doin' recon at the site. Security is everywhere. It's gonna be tough to even get close.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35657,
+"en": "That's the least of our worries.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35658,
+"en": "Even if we manage to pull off this abduction, we're gonna have both the cops and the Kitakata chasing us.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35659,
+"en": "Our chances of success are... pretty damn slim.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35660,
+"en": "Yeah, tell me somethin' I don't know. We're still gonna try, and any problems that arise, we'll deal with 'em as they come.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35661,
+"en": "I gotta know the truth behind Majima's death. Whatever it takes, I gotta know.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35662,
+"en": "For what?",
+"ctx": "diálogo uid010207c6 + diálogo uid01330985"
+},
+{
+"id": 35663,
+"en": "For gettin' ya involved.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35664,
+"en": "Aniki, you saved my life in prison, and on the mountain!",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35665,
+"en": "It's my turn to do something for you. Please don't apologize for receiving what you're owed.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35666,
+"en": "All right. 'Preciate it.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35667,
+"en": "So... Did you find anything we can use for the actual kidnapping itself?",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35668,
+"en": "That's the thing. I got no idea how we're gonna get close to Kitakata.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35669,
+"en": "Gotta figure out some way of gettin' close without bein' noticed.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35670,
+"en": "You know, I... I just remembered something. I have to go out for a bit.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35671,
+"en": "Nothing important. You should probably get some shut-eye while I'm gone.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35672,
+"en": "(What's eatin' Baba-chan?)",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35673,
+"en": "(Do I really wanna sleep like he suggested?)",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35674,
+"en": "Hey. How're ya doin'?",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35675,
+"en": "Much better than yesterday. I'll be able to put in a proper day's work today!",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35676,
+"en": "Okay. But we can't go out together⑬that'll draw attention. We'll do the scoutin' separately.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35677,
+"en": "Good idea. Let's meet back here when we're both done casing the site.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35678,
+"en": "So did you learn anything useful?",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35679,
+"en": "Yeah. Kitakata's gonna be a guest of honor at the snow festival's opening ceremony. That's two days from now, at noon.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35680,
+"en": "That makes sense. He's a local VIP in this town.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35681,
+"en": "Yeah. Which means we don't know when his path is gonna cross ours again... This ceremony is the only chance we'll get.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35682,
+"en": "Waitin' around for another opportunity will just get us nabbed by cops.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35683,
+"en": "But how are we going to get Kitakata to talk to us?",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35684,
+"en": "And won't he be center stage at the snow festival? That's not exactly ideal.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35685,
+"en": "There'll be lotsa security, that's true.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35686,
+"en": "Um, then maybe... What if we disguised ourselves as guests?",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35687,
+"en": "With my build? Won't ever work.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35688,
+"en": "Okay. We could... wait until the end of the ceremony, after he walks offstage, and approach him then?",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35689,
+"en": "I'll get collared long before that.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35690,
+"en": "Well, then, uh...",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35691,
+"en": "That settles it. We'll have to kidnap him.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35692,
+"en": "It's our only choice.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35693,
+"en": "We can do it during the ceremony if we choose a moment when there's hardly any guards around 'im.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35694,
+"en": "Wait! Just listen to what you're saying!",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35695,
+"en": "This isn't just some little block party.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35696,
+"en": "There'll be tens, no, hundreds of thousands of people watching the ceremony on TV.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35697,
+"en": "There's no way we can pull off a kidnapping!",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35698,
+"en": "It's still the only way.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35699,
+"en": "Every day we do nothin' is a day where I might get hauled back to prison. Can't have that.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35700,
+"en": "No choice. We gotta make a move. We'll nab him when no one's payin' attention.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35701,
+"en": "And when would that be?",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35702,
+"en": "Well, obviously we gotta plan it out.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35703,
+"en": "The only thing harder than this would be if we just outright attacked their office!",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35704,
+"en": "Oh come on... It's not like the boss is some spring chicken. How hard could it be to snatch 'im?",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35705,
+"en": "It just seems so impossible.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35706,
+"en": "Y'know, why is Kitakata so popular around town anyway?",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35707,
+"en": "Well, he's third generation. The family's ruled Tsukimino since before the war.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35708,
+"en": "He's got deep ties in the local community. Nobody has a reason to speak ill of him.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35709,
+"en": "In fact, when a gang from Tohoku tried to muscle their way in, the Kitakata protected the whole town.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35710,
+"en": "Huh. Sounds like a man after my own heart.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35711,
+"en": "Which is why I can't believe he'd just kill Majima-san for no reason.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35712,
+"en": "Could be... if he's as responsible a man as he sounds...",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35713,
+"en": "He mighta been resistin' something that woulda been bad for his family. There's a rumor that Majima tried to force Kitakata to kneel to the Tojo Clan.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35714,
+"en": "Even if that rumor's true, the boss I knew would have used reason before violence. I'm sure of it.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35715,
+"en": "He's not some psychopath.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35716,
+"en": "Well, we'll hear the truth when we meet the man.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35717,
+"en": "We gotta sneak into the festival ceremony somehow.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35718,
+"en": "Then we should check out the site tomorrow, during the daytime.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35719,
+"en": "I've got cash. Take some.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35720,
+"en": "This from an old connection in town?",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35721,
+"en": "You could say that. There's no telling what might happen, so...",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35722,
+"en": "That's true. 'Preciate it.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35723,
+"en": "It's pretty crazy, right?",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35724,
+"en": "We should be out on parole right now, but instead we're runaways, drinking at a place like this, jumpy as rats...",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35725,
+"en": "Hey, I was lookin' forward to havin' a drink with you anyway. So this ain't so bad.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35726,
+"en": "Why do you think they put out a warrant for you and not for me?",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35727,
+"en": "They just made me into an anonymous dead body. They didn't even broadcast my name!",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35728,
+"en": "What the hell does that mean?",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35729,
+"en": "(No idea, kid...)",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35730,
+"en": "Is the Tojo Clan behind all of this? Behind this manhunt and what happened in prison...?",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35731,
+"en": "Oh, guess you don't want to think about that...",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35732,
+"en": "Just gonna go take care of some things.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35733,
+"en": "Huh? You're not afraid of being recognized?",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35734,
+"en": "Can't live life in fear. And I've got stuff to do.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35735,
+"en": "But it's teeming with cops out there!",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35736,
+"en": "I'm used to it. Dealt with the same thing two years ago.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35737,
+"en": "What's so important? Are you going to try and get intel on the Kitakata Family?",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35738,
+"en": "Kinda necessary, doncha think? If we wanna find their boss.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35739,
+"en": "Well, in that case, you'll want to try a joint called Ambitious.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35740,
+"en": "Kitakata guys used to hang there. They probably still do.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35741,
+"en": "Ambitious, ya said?",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35742,
+"en": "Yeah, the family runs a casino in the back room. It's been there for years.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35743,
+"en": "If you tip the bartender, he'll take you to the casino.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35744,
+"en": "And then it'll just be a simple thing to get the down low, right? Heh.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35745,
+"en": "So simple. But on a serious note... please be careful.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35746,
+"en": "The Kitakata Family is old school. If they decide you're an enemy, they don't hold back.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35747,
+"en": "They're a bunch of hardliners not afraid to die for the old man.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35748,
+"en": "All the more fun.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35749,
+"en": "At least take this with you.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35750,
+"en": "A phone?",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35751,
+"en": "I got it through an old connection. It's prepaid, and untraceable.",
+"ctx": "diálogo uid010207c6"
+},
+{
+"id": 35752,
+"en": "It's right up here.",
+"ctx": "diálogo uid010207d3"
+},
+{
+"id": 35753,
+"en": "Ya got the time?",
+"ctx": "diálogo uid010207d3"
+},
+{
+"id": 35754,
+"en": "It's already past noon. The opening ceremony should've started by now.",
+"ctx": "diálogo uid010207d3"
+},
+{
+"id": 35755,
+"en": "All right, here we are.",
+"ctx": "diálogo uid010207d3"
+},
+{
+"id": 35756,
+"en": "Somethin' the matter? You're not gettin' cold feet on me now, are ya?",
+"ctx": "diálogo uid010207d3"
+},
+{
+"id": 35757,
+"en": "No! It's just... I don't know what to say to the boss when I see him...",
+"ctx": "diálogo uid010207d3"
+},
+{
+"id": 35758,
+"en": "Don't be worryin' about that now. Focus on how we're gonna pull off the kidnappin'.",
+"ctx": "diálogo uid010207d3"
+},
+{
+"id": 35759,
+"en": "...You're right, Aniki. I'm sorry.",
+"ctx": "diálogo uid010207d3"
+},
+{
+"id": 35760,
+"en": "All right. Let's go.",
+"ctx": "diálogo uid010207d3"
+},
+{
+"id": 35761,
+"en": "I bought this building just the other day.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35762,
+"en": "Tsukimino's been hurting economically.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35763,
+"en": "Speculators come crying to me with properties they can't sell.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35764,
+"en": "Hmph. It's not like I'm rolling in dough either.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35765,
+"en": "Let's cut to the chase. What did ya wanna tell me?",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35766,
+"en": "Somethin' to do with Majima's final words?",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35767,
+"en": "Yeah. Something like that.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35768,
+"en": "Um, I'm going to scout the area. Saejima-aniki and I can't just take your word that it's safe.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35769,
+"en": "Heh, that kid wasn't born yesterday. He another sworn brother of yours?",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35770,
+"en": "...Thought you two might know each other, actually.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35771,
+"en": "No, can't say we do.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35772,
+"en": "You know, you're not like how I thought you'd be.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35773,
+"en": "I was expecting more of a big, strong brute.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35774,
+"en": "But I should have figured... You're a sworn brother of Majima, and like him, you're soft on the inside.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35775,
+"en": "First time I been called that.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35776,
+"en": "Hmph. Our line of work has been taken over by those too blind to see the forest for the trees.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35777,
+"en": "All they care about is posturing. Pretending to be the tough guy. That's why they fail.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35778,
+"en": "...By the way. You don't seem all too angry for someone whose sworn brother was murdered.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35779,
+"en": "If he's dead, it means he was weak.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35780,
+"en": "Ain't no call for me to get involved just 'cause the weak fell to the strong.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35781,
+"en": "But I do wanna know... <Italic>Why</Italic> did Majima hafta be killed?",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35782,
+"en": "And what were his dyin' words? That much, I gotta hear.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35783,
+"en": "So when are ya gonna quit stallin' and tell me?",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35784,
+"en": "Well... I've been turning it all over in my mind...",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35785,
+"en": "How to tell you what happened that day. How to tell you the truth.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35786,
+"en": "What truth?",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35787,
+"en": "Let's hear it.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35788,
+"en": "...The Kitakata Family didn't kill Majima.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35789,
+"en": "We never had any reason to...",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35790,
+"en": "I mean exactly what I say. Nothing more, nothing less.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35791,
+"en": "I know Majima tried to make ya accept an allegiance pact with the Tojo Clan.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35792,
+"en": "That's more than enough reason to snuff him out.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35793,
+"en": "Don't try to tell me ya had no motivation.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35794,
+"en": "Ah, but that's where you're mistaken. Majima never demanded that we become a subsidiary of the Tojo.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35795,
+"en": "He came with his head bowed, asking me to accept an equal alliance.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35796,
+"en": "In other words, he asked me to become Daigo Dojima's sworn brother.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35797,
+"en": "Kitakata and Tojo... Equal partners?",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35798,
+"en": "Oh yes. And not just us. Apparently, the same deal was being offered in Fukuoka and Nagoya.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35799,
+"en": "(...What's goin' on?)",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35800,
+"en": "I did not, and still don't, have any objections to an equal partnership.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35801,
+"en": "With Tojo as a partner, people will think twice before trying to mess with us.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35802,
+"en": "So you were gonna accept the pact?",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35803,
+"en": "I was. So you can see, I had no reason to kill Majima.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35804,
+"en": "Then who did?",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35805,
+"en": "That's... the most important truth I have to tell you.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35806,
+"en": "After the first meeting, I ruminated on the excellent offer, made my decision, and arranged for a second talk with Majima.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35807,
+"en": "That's when things went sideways.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35808,
+"en": "I told Majima I would take the offer, but then he just sat there in complete silence.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35809,
+"en": "Yeah. And when he finally did open his mouth, I couldn't believe what he said.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35810,
+"en": "What was it?",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35811,
+"en": "He said in a very serious tone... that I shouldn't accept the alliance.",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35812,
+"en": "What!? That doesn't make any sense!",
+"ctx": "diálogo uid010207d9"
+},
+{
+"id": 35813,
+"en": "So... you took on a passenger from the middle of the line today, right? <Color:7>Tenjin Transportation<Color:Default> came bellyachin' about it.",
+"ctx": "diálogo uid010207e6"
+},
+{
+"id": 35814,
+"en": "We get enough flak from the other firms as it is. Mind bein' a bit more careful?",
+"ctx": "diálogo uid010207e6"
+},
+{
+"id": 35815,
+"en": "Sorry for the trouble, sir. It was an amateur mistake.",
+"ctx": "diálogo uid010207e6"
+},
+{
+"id": 35816,
+"en": "Ah, don't be so hard on yerself. I'm about to head over there with some cakes or what have ya and apologize.",
+"ctx": "diálogo uid010207e6"
+},
+{
+"id": 35817,
+"en": "No. I should be the one to go.",
+"ctx": "diálogo uid010207e6"
+},
+{
+"id": 35818,
+"en": "Like heck ya should. It's my company, so I've gotta do this.",
+"ctx": "diálogo uid010207e6"
+},
+{
+"id": 35819,
+"en": "Please, I insist.",
+"ctx": "diálogo uid010207e6"
+},
+{
+"id": 35820,
+"en": "Yeah? Guess I'll leave it in yer hands, then.",
+"ctx": "diálogo uid010207e6"
+},
+{
+"id": 35821,
+"en": "You know where Tenjin Transportation is, right? Over on West Gion Street.",
+"ctx": "diálogo uid010207e6"
+},
+{
+"id": 35822,
+"en": "Well, hope everythin' goes well. Call me after you're done there.",
+"ctx": "diálogo uid010207e6"
+},
+{
+"id": 35823,
+"en": "(I need to go to Tenjin Transportation and apologize. That should set things right.)",
+"ctx": "diálogo uid010207e6"
+},
+{
+"id": 35824,
+"en": "Sorry I had to do this, but I gotta know the facts about my sworn brother.",
+"ctx": "diálogo uid010207f7"
+},
+{
+"id": 35825,
+"en": "(And only Kitakata himself knows those facts.)",
+"ctx": "diálogo uid010207f7"
+},
+{
+"id": 35826,
+"en": "Ugh, fuck you...",
+"ctx": "diálogo uid010207f7"
+},
+{
+"id": 35827,
+"en": "(He doesn't know when to quit...)",
+"ctx": "diálogo uid010207f7"
+},
+{
+"id": 35828,
+"en": "Don't think this is over. We'll hunt you down.",
+"ctx": "diálogo uid010207f7"
+},
+{
+"id": 35829,
+"en": "You can't escape the Kitakata in Tsukimino.",
+"ctx": "diálogo uid010207f7"
+},
+{
+"id": 35830,
+"en": "(Great. Now they'll be tailin' me.)",
+"ctx": "diálogo uid010207f7"
+},
+{
+"id": 35831,
+"en": "I'm sorry sir, this area is closed to the public.",
+"ctx": "diálogo uid010207f7"
+},
+{
+"id": 35832,
+"en": "Hey, take a look at this pass I got here.",
+"ctx": "diálogo uid010207f7"
+},
+{
+"id": 35833,
+"en": "Hm, show the barkeep, please.",
+"ctx": "diálogo uid010207f7"
+},
+{
+"id": 35834,
+"en": "Please go on through.",
+"ctx": "diálogo uid010207f7"
+},
+{
+"id": 35835,
+"en": "Only two days left 'til the snow festival. Nothing quite like knockin' back a few drinks to keep warm in that bitin' cold.",
+"ctx": "diálogo uid010207f7"
+},
+{
+"id": 35836,
+"en": "I hear there are gonna be lots of people there this year, too.",
+"ctx": "diálogo uid010207f7"
+},
+{
+"id": 35837,
+"en": "That's good! With all the sponsors ditchin' over the past few years, I was afraid the festival was gonna flat out disappear or some shit.",
+"ctx": "diálogo uid010207f7"
+},
+{
+"id": 35838,
+"en": "They say the big crowds this year are all because of the old man.",
+"ctx": "diálogo uid010207f7"
+},
+{
+"id": 35839,
+"en": "Patriarch Kitakata?",
+"ctx": "diálogo uid010207f7"
+},
+{
+"id": 35840,
+"en": "Yeah. Apparently he scared up sponsors all across Hokkaido, and didn't let up until the festival was fully funded.",
+"ctx": "diálogo uid010207f7"
+},
+{
+"id": 35841,
+"en": "Hell yeah. That's our guy.",
+"ctx": "diálogo uid010207f7"
+},
+{
+"id": 35842,
+"en": "(Just need them to say where he is...)",
+"ctx": "diálogo uid010207f7"
+},
+{
+"id": 35843,
+"en": "The boss has got more connections than I can count. Shit, he's even had drinks with the mayor.",
+"ctx": "diálogo uid010207f7"
+},
+{
+"id": 35844,
+"en": "Really? The mayor of Sapporo?",
+"ctx": "diálogo uid010207f7"
+},
+{
+"id": 35845,
+"en": "Yeah. Trust me, I was there, man.",
+"ctx": "diálogo uid010207f7"
+},
+{
+"id": 35846,
+"en": "The mayor, he treated Kitakata with total respect. It was something to behold. Glad I'm in this family, let me tell ya!",
+"ctx": "diálogo uid010207f7"
+},
+{
+"id": 35847,
+"en": "Well, the mayor <Italic>should</Italic> have some respect. This festival wouldn't even be happening without the old man.",
+"ctx": "diálogo uid010207f7"
+},
+{
+"id": 35848,
+"en": "Also explains why he's a guest of honor.",
+"ctx": "diálogo uid010207f7"
+},
+{
+"id": 35849,
+"en": "(Now there's some useful info.)",
+"ctx": "diálogo uid010207f7"
+},
+{
+"id": 35850,
+"en": "You didn't know?",
+"ctx": "diálogo uid010207f7"
+},
+{
+"id": 35851,
+"en": "Kitakata's going to be in the festival's opening ceremony with all the other guests in front of the special stage.",
+"ctx": "diálogo uid010207f7"
+},
+{
+"id": 35852,
+"en": "Heh, thank goodness it starts at noon. He hates getting up early.",
+"ctx": "diálogo uid010207f7"
+},
+{
+"id": 35853,
+"en": "Tch, he also hates stuffed-shirt events. Won't this be torture for him?",
+"ctx": "diálogo uid010207f7"
+},
+{
+"id": 35854,
+"en": "For some reason, he cheerfully accepted this particular invite.",
+"ctx": "diálogo uid010207f7"
+}
+]

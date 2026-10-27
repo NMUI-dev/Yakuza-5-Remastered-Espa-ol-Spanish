@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_k4",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    12,
+    144,
+    507,
+    256
+   ],
+   "en": "I have a reservation under Kiryu",
+   "ocr": "Dhaveareservation underkiryu",
+   "es": "Tengo una reserva a nombre de Kiryu",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 495
+  }
+ ]
+}

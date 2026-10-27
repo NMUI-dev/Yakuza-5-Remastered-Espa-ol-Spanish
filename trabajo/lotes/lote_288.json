@@ -1,0 +1,777 @@
+[
+{
+"id": 59007,
+"en": "Until two years ago, when Deputy Commissioner Munakata of\nMetropolitan Police was arrested for being involved in the\nscam.",
+"ctx": "diálogo uid01490206"
+},
+{
+"id": 59008,
+"en": "That brought the whole case back into the open. But this\ntime, the truth got out, and the bank's president was\narrested.",
+"ctx": "diálogo uid01490206"
+},
+{
+"id": 59009,
+"en": "The authorities grilled me, too. But because all the\ninternal documents were destroyed after you were let go,\nthey didn't have enough to charge me.",
+"ctx": "diálogo uid01490206"
+},
+{
+"id": 59010,
+"en": "Of course, the accusations alone were enough to end my\ncareer at the bank.",
+"ctx": "diálogo uid01490206"
+},
+{
+"id": 59011,
+"en": "So you left for Kansai, started your own financial\nconsulting firm, and here we are.",
+"ctx": "diálogo uid01490206"
+},
+{
+"id": 59012,
+"en": "Unfortunately, I didn't have what it takes to run my own\nbusiness. Unlike you.",
+"ctx": "diálogo uid01490206"
+},
+{
+"id": 59013,
+"en": "But you clearly haven't given up. Otherwise, you wouldn't\nbe looking for a loan.",
+"ctx": "diálogo uid01490206"
+},
+{
+"id": 59014,
+"en": "Good. Now, to get back to business.",
+"ctx": "diálogo uid01490206"
+},
+{
+"id": 59015,
+"en": "Do you or don't you want to borrow money from me? Let's\nstart there.",
+"ctx": "diálogo uid01490206"
+},
+{
+"id": 59016,
+"en": "No. I won't. I don't have much left, but I still have my\npride.",
+"ctx": "diálogo uid01490206"
+},
+{
+"id": 59017,
+"en": "Sorry to waste your time.",
+"ctx": "diálogo uid01490206"
+},
+{
+"id": 59018,
+"en": "What are you going to do now? You won't get a loan from\nanyone else in this town.",
+"ctx": "diálogo uid01490206"
+},
+{
+"id": 59019,
+"en": "Who knows? Maybe I'll rob a bank.",
+"ctx": "diálogo uid01490206"
+},
+{
+"id": 59020,
+"en": "Human beings will always try to survive, no matter how dire\nthe situation, just like you did when you were on the streets.",
+"ctx": "diálogo uid01490206"
+},
+{
+"id": 59021,
+"en": "(Well, I can't say I expected him to take me up on my offer...)",
+"ctx": "diálogo uid01490206"
+},
+{
+"id": 59022,
+"en": "(Still, no one else is going to grant him a loan. I doubt\nhe'd actually resort to robbing a bank, but... might want to\nkeep an eye on him.)",
+"ctx": "diálogo uid01490206"
+},
+{
+"id": 59023,
+"en": "(Wow, lots of letters in these bags. I'll be sure to read and answer every last one of them.)",
+"ctx": "diálogo uid01490214"
+},
+{
+"id": 59024,
+"en": "(Those pen names were so silly! Hehe!)",
+"ctx": "diálogo uid01490214"
+},
+{
+"id": 59025,
+"en": "(Did they really think I wouldn't figure out their true identities? Haha! They remind me of someone else I know!)",
+"ctx": "diálogo uid01490214"
+},
+{
+"id": 59026,
+"en": "(They couldn't talk to me directly, so they wrote letters. Hehe, they're so cute!)",
+"ctx": "diálogo uid01490214"
+},
+{
+"id": 59027,
+"en": "(It's almost time for the interview. Should I go in?)",
+"ctx": "diálogo uid01490214"
+},
+{
+"id": 59028,
+"en": "(Oops, I have something to do first! I'll finish it up fast and come back.)",
+"ctx": "diálogo uid01490214"
+},
+{
+"id": 59029,
+"en": "(I'll give some really fun answers in case any of the kids see it!)",
+"ctx": "diálogo uid01490214"
+},
+{
+"id": 59030,
+"en": "(Hm, why is she being so pushy?)",
+"ctx": "diálogo uid01490214"
+},
+{
+"id": 59031,
+"en": "(I'll just tell her, \"Okay, thanks, Ayako! I'm off to work now. Talk later! Love, Haruka.\")",
+"ctx": "diálogo uid01490214"
+},
+{
+"id": 59032,
+"en": "(It's a relief to hear everything's all right back home. That last message was weird, though.)",
+"ctx": "diálogo uid01490214"
+},
+{
+"id": 59033,
+"en": "(Uh-oh! It's time for the interview! I better hurry to the Bunzaemon Outdoor Mall studio.)",
+"ctx": "diálogo uid01490214"
+},
+{
+"id": 59034,
+"en": "(Yay, I don't have to worry! Of course, I don't want them to worry about me, now...)",
+"ctx": "diálogo uid01490214"
+},
+{
+"id": 59035,
+"en": "(Let's see. \"No, thanks, I'm good on goya! Soon I'm going to do an interview for a tourism mag. Maybe you'll all get to read it!\")",
+"ctx": "diálogo uid01490214"
+},
+{
+"id": 59036,
+"en": "(That'll get them excited!)",
+"ctx": "diálogo uid01490214"
+},
+{
+"id": 59037,
+"en": "(Can't wait to see how they react.)",
+"ctx": "diálogo uid01490214"
+},
+{
+"id": 59038,
+"en": "(Come on, Ayako! Why are you taking so long to write back?)",
+"ctx": "diálogo uid01490214"
+},
+{
+"id": 59039,
+"en": "(Oh, here we go!)",
+"ctx": "diálogo uid01490214"
+},
+{
+"id": 59040,
+"en": "(Aw, they're all watching me on TV? That's so nice! It makes me happy, even though it's kind of embarrassing!)",
+"ctx": "diálogo uid01490214"
+},
+{
+"id": 59041,
+"en": "(I'd better write back... \"I'm so glad to hear from you! Is everything okay back home?\")",
+"ctx": "diálogo uid01490214"
+},
+{
+"id": 59042,
+"en": "(Oh, she answered back already! She's getting good at this email thing.)",
+"ctx": "diálogo uid01490214"
+},
+{
+"id": 59043,
+"en": "(I wonder how everyone's doing back home?)",
+"ctx": "diálogo uid01490214"
+},
+{
+"id": 59044,
+"en": "(I miss it... Oh, that's right! Yamaura-san said I have an interview with an Okinawa tourism magazine. I've been so busy, I nearly forgot!)",
+"ctx": "diálogo uid01490214"
+},
+{
+"id": 59045,
+"en": "(Oh, I got an email.)",
+"ctx": "diálogo uid01490214"
+},
+{
+"id": 59046,
+"en": "(That's a big crowd... I wonder what's going on over there?)",
+"ctx": "diálogo uid0149026c"
+},
+{
+"id": 59047,
+"en": "(That's Miss Yamaura! What's she doing here?)",
+"ctx": "diálogo uid0149026c"
+},
+{
+"id": 59048,
+"en": "(Oh, and there's Ayu Kurata!)",
+"ctx": "diálogo uid01490270"
+},
+{
+"id": 59049,
+"en": "(She must be doing a report on those street performers.)",
+"ctx": "diálogo uid01490270"
+},
+{
+"id": 59050,
+"en": "Wow! You're a fantastic dancer! Are you hopin' to go pro\nsomeday?",
+"ctx": "diálogo uid01490270"
+},
+{
+"id": 59051,
+"en": "You bet! I can dance, and I can sing, too! I'm working\nhard toward making my debut!",
+"ctx": "diálogo uid01490270"
+},
+{
+"id": 59052,
+"en": "Oh, I'm sure you can do it! I bet you'll be a big star\nsomeday! Good luck to you!",
+"ctx": "diálogo uid01490270"
+},
+{
+"id": 59053,
+"en": "And cut! Okay, everybody, take five.",
+"ctx": "diálogo uid01490270"
+},
+{
+"id": 59054,
+"en": "Phew. This is exhausting.",
+"ctx": "diálogo uid01490270"
+},
+{
+"id": 59055,
+"en": "(Miss Yamaura's old partner, huh? If I want to talk to her,\nthis might be my only chance.)",
+"ctx": "diálogo uid01490270"
+},
+{
+"id": 59056,
+"en": "(Okay, this could be what Miyu-chan is looking for.\nSaida-san needs to hear this.)",
+"ctx": "diálogo uid014903de"
+},
+{
+"id": 59057,
+"en": "(That's where the magazine interview is.)",
+"ctx": "diálogo uid014906f9"
+},
+{
+"id": 59058,
+"en": "(This is the Shofuku Sotenbori Building. I should see how\nNanako's doing.)",
+"ctx": "diálogo uid014906fa"
+},
+{
+"id": 59059,
+"en": "合計数値が22以上になるとBURSTとなり、\n無条件で負けとなってしまうので\n気を気をつけて下さい。",
+"ctx": "diálogo uid01520000"
+},
+{
+"id": 59060,
+"en": "TOTALという数値が、\n今のあなたの手札の合計値です。",
+"ctx": "diálogo uid01520000"
+},
+{
+"id": 59061,
+"en": "合計値が11以下のとき、\nBURSTすることはあり得ません。\nカードを引く選択を選んでみましょう。",
+"ctx": "diálogo uid01520000"
+},
+{
+"id": 59062,
+"en": "これ以上カードをもらうと\n21を超えてしまいそうだと感じたら\nSTANDしましょう。",
+"ctx": "diálogo uid01520000"
+},
+{
+"id": 59063,
+"en": "HITを選択すると、1枚カードを引きます。",
+"ctx": "diálogo uid01520000"
+},
+{
+"id": 59064,
+"en": "DOUBLEDOWNも1枚カードをひきますが\n引いた後の数字が必ず勝負しなければなりません。\nBET額を2倍にできます。",
+"ctx": "diálogo uid01520000"
+},
+{
+"id": 59065,
+"en": "Welcome to the blackjack table. Let's start with a tutorial on how to play. It will include three practice games that will help you learn.",
+"ctx": "diálogo uid01520001"
+},
+{
+"id": 59066,
+"en": "The point of blackjack is to make the sum of your cards as close to 21 as possible.",
+"ctx": "diálogo uid01520001"
+},
+{
+"id": 59067,
+"en": "If your cards add up to 22 or more, you automatically lose. This is called busting.",
+"ctx": "diálogo uid01520001"
+},
+{
+"id": 59068,
+"en": "The \"Total\" you see here displays the total of the cards you currently have.",
+"ctx": "diálogo uid01520001"
+},
+{
+"id": 59069,
+"en": "When your total is 11 or less, it's impossible to bust, so you should always draw an additional card.",
+"ctx": "diálogo uid01520001"
+},
+{
+"id": 59070,
+"en": "Selecting \"Hit\" will draw a card.",
+"ctx": "diálogo uid01520001"
+},
+{
+"id": 59071,
+"en": "Double Down will also draw a card, but you'll have to play with the cards in your hand at that point. You can also double your bet.",
+"ctx": "diálogo uid01520001"
+},
+{
+"id": 59072,
+"en": "Draw one more card by selecting Hit or Double Down.",
+"ctx": "diálogo uid01520001"
+},
+{
+"id": 59073,
+"en": "If you think you may go over 21 if you draw another card, select \"Stand\" to stay at your current total.",
+"ctx": "diálogo uid01520001"
+},
+{
+"id": 59074,
+"en": "It's your turn. Oh, it looks like you have two Queens. All face cards have a value of 10.",
+"ctx": "diálogo uid01520001"
+},
+{
+"id": 59075,
+"en": "When you have two cards of the same value, you can perform a split. Try selecting Split now.",
+"ctx": "diálogo uid01520001"
+},
+{
+"id": 59076,
+"en": "Splitting allows you to separate your cards into two hands that you can play simultaneously. The value of the bet also doubles.",
+"ctx": "diálogo uid01520001"
+},
+{
+"id": 59077,
+"en": "The result of your game will be reflected in the chip count, as you see here.",
+"ctx": "diálogo uid01520001"
+},
+{
+"id": 59078,
+"en": "The dealer's open card is an ace. If the second one is a 10, Jack, Queen, or King, he has blackjack.",
+"ctx": "diálogo uid01520001"
+},
+{
+"id": 59079,
+"en": "You'll most likely lose if the dealer gets blackjack, but you can lower your risk by setting half the bet amount as insurance.",
+"ctx": "diálogo uid01520001"
+},
+{
+"id": 59080,
+"en": "Let's try using insurance this time.",
+"ctx": "diálogo uid01520001"
+},
+{
+"id": 59081,
+"en": "If your insurance bet succeeds, you'll make your original bet back.",
+"ctx": "diálogo uid01520001"
+},
+{
+"id": 59082,
+"en": "Otherwise, the round will continue as normal.",
+"ctx": "diálogo uid01520001"
+},
+{
+"id": 59083,
+"en": "If you decide you have little or no chance of winning, you can select Surrender to retire from the game, losing only half the amount you bet.",
+"ctx": "diálogo uid01520001"
+},
+{
+"id": 59084,
+"en": "One more rule. If you get six cards in your hand without busting, you get what is called a Six Card Charlie and win automatically.",
+"ctx": "diálogo uid01520001"
+},
+{
+"id": 59085,
+"en": "This concludes our tutorial. Please enjoy playing all the games of skill and chance our casino has to offer!",
+"ctx": "diálogo uid01520001 + diálogo uid01520003"
+},
+{
+"id": 59086,
+"en": "Select Bet to set the number of chips to wager.",
+"ctx": "diálogo uid01520001"
+},
+{
+"id": 59087,
+"en": "Let's play the second game. Select Bet or Re-bet and then set the number of chips to wager.",
+"ctx": "diálogo uid01520001"
+},
+{
+"id": 59088,
+"en": "This is the final game in the tutorial. Select Bet or Re-bet, then set the number of chips to wager.",
+"ctx": "diálogo uid01520001"
+},
+{
+"id": 59089,
+"en": "I'll teach you the rules of Pineapple Hold 'em, a variation of Texas Hold 'em, as we play.",
+"ctx": "diálogo uid01520002"
+},
+{
+"id": 59090,
+"en": "Texas Hold 'em is a poker game in which you build five-card hands from two hole cards⑬your own cards⑬and five community cards.",
+"ctx": "diálogo uid01520002"
+},
+{
+"id": 59091,
+"en": "In Pineapple Hold 'em, you are dealt three cards instead of two, but you must discard one of them.",
+"ctx": "diálogo uid01520002"
+},
+{
+"id": 59092,
+"en": "This rule does not exist in regular Texas Hold 'em.",
+"ctx": "diálogo uid01520002"
+},
+{
+"id": 59093,
+"en": "Let's see how things develop⑬select Check to end your turn.",
+"ctx": "diálogo uid01520002 + diálogo uid01520004"
+},
+{
+"id": 59094,
+"en": "All players have bet the same amount, so the game continues to the next round.",
+"ctx": "diálogo uid01520002 + diálogo uid01520004"
+},
+{
+"id": 59095,
+"en": "Community cards are dealt in the second round.",
+"ctx": "diálogo uid01520002 + diálogo uid01520004"
+},
+{
+"id": 59096,
+"en": "Notice how there is a card of the same rank in your own cards and in the community cards. That means you have one pair at this point.",
+"ctx": "diálogo uid01520002"
+},
+{
+"id": 59097,
+"en": "The player to your right has selected Bet and increased the wager. He may have a good hand.",
+"ctx": "diálogo uid01520002 + diálogo uid01520004"
+},
+{
+"id": 59098,
+"en": "If you think you have a good hand, select Raise. Or, you can select Call to bet the same as the previous player. (Fold is currently disabled.)",
+"ctx": "diálogo uid01520002 + diálogo uid01520004"
+},
+{
+"id": 59099,
+"en": "This is the third round. A new community card has been dealt.",
+"ctx": "diálogo uid01520002 + diálogo uid01520004"
+},
+{
+"id": 59100,
+"en": "However, you still only have one pair.",
+"ctx": "diálogo uid01520002"
+},
+{
+"id": 59101,
+"en": "At this point, you could select Fold to drop out if you didn't like your cards.",
+"ctx": "diálogo uid01520002 + diálogo uid01520004"
+},
+{
+"id": 59102,
+"en": "But it would be a shame to waste your pair, so let's stay in the game. (Fold is currently disabled.)",
+"ctx": "diálogo uid01520002 + diálogo uid01520004"
+},
+{
+"id": 59103,
+"en": "This is the final round. All community cards have been dealt.",
+"ctx": "diálogo uid01520002 + diálogo uid01520004"
+},
+{
+"id": 59104,
+"en": "Notice how you have another pair. That makes two pair in your hand. Let's heat things up by selecting Raise.",
+"ctx": "diálogo uid01520002"
+},
+{
+"id": 59105,
+"en": "Congratulations! You have the stronger hand, which means you win all the chips that were bet in the current game.",
+"ctx": "diálogo uid01520002 + diálogo uid01520004"
+},
+{
+"id": 59106,
+"en": "Remember, select Bet or Raise when you think you have a good hand, and Check or Call when you want to assess the situation. If you'd rather retire, select Fold.",
+"ctx": "diálogo uid01520002 + diálogo uid01520004"
+},
+{
+"id": 59107,
+"en": "This concludes the practice round. Please enjoy playing all the games of skill and chance our casino has to offer!",
+"ctx": "diálogo uid01520002 + diálogo uid01520004"
+},
+{
+"id": 59108,
+"en": "Welcome to the baccarat table. I'll explain the rules for Super 6 baccarat while you play.",
+"ctx": "diálogo uid01520003"
+},
+{
+"id": 59109,
+"en": "Baccarat is basically a game in which you bet on whether the player or the banker will win by getting the closest to 9.",
+"ctx": "diálogo uid01520003"
+},
+{
+"id": 59110,
+"en": "There are six spots on which you can bet. For now, try betting on either the banker or the player.",
+"ctx": "diálogo uid01520003"
+},
+{
+"id": 59111,
+"en": "Select whether you think the player or the banker will win.",
+"ctx": "diálogo uid01520003"
+},
+{
+"id": 59112,
+"en": "Select a wager between the minimum and maximum betting limit. Use ○ to change your bet.",
+"ctx": "diálogo uid01520003"
+},
+{
+"id": 59113,
+"en": "Use <Action:Button_RS_Up@Baccarat><Action:Button_RS_Down@Baccarat> to turn over the second card of the side you bet on. Go ahead.",
+"ctx": "diálogo uid01520003"
+},
+{
+"id": 59114,
+"en": "If either the player or banker has an 8 or 9 (a natural), the winner is decided at that point.",
+"ctx": "diálogo uid01520003"
+},
+{
+"id": 59115,
+"en": "A winning bet on the player pays 1:1, while a winning bet on the banker pays 0.95:1.",
+"ctx": "diálogo uid01520003"
+},
+{
+"id": 59116,
+"en": "You can also bet that the player and banker will tie, and if you're right, the payout will be 8:1.",
+"ctx": "diálogo uid01520003"
+},
+{
+"id": 59117,
+"en": "Now, let's bet on a pair. This means you think that the numbers of the first cards dealt will be the same.",
+"ctx": "diálogo uid01520003"
+},
+{
+"id": 59118,
+"en": "Select whether you think the player or the banker will get a pair.",
+"ctx": "diálogo uid01520003"
+},
+{
+"id": 59119,
+"en": "When you bet on a player pair, you're guessing that the first two cards dealt to the player will be the same number.",
+"ctx": "diálogo uid01520003"
+},
+{
+"id": 59120,
+"en": "When you bet on a banker pair, you're guessing that the first two cards dealt to the banker will be the same number.",
+"ctx": "diálogo uid01520003"
+},
+{
+"id": 59121,
+"en": "This time, try betting on which one will get a pair.",
+"ctx": "diálogo uid01520003"
+},
+{
+"id": 59122,
+"en": "When you bet on a pair, the game is decided as soon as the first two cards of each side are opened.",
+"ctx": "diálogo uid01520003"
+},
+{
+"id": 59123,
+"en": "A win pays 11:1.",
+"ctx": "diálogo uid01520003"
+},
+{
+"id": 59124,
+"en": "Last but not least, I'll explain how to bet on Super 6 baccarat. The best way to learn is by playing, so let's place a practice bet.",
+"ctx": "diálogo uid01520003"
+},
+{
+"id": 59125,
+"en": "Start by selecting Super 6.",
+"ctx": "diálogo uid01520003"
+},
+{
+"id": 59126,
+"en": "Super 6 refers to the banker beating the player with a 6.",
+"ctx": "diálogo uid01520003"
+},
+{
+"id": 59127,
+"en": "A winning bet pays up to 12:1, but the payout is only 0.5:1 if you bet on the banker when a Super 6 results.",
+"ctx": "diálogo uid01520003"
+},
+{
+"id": 59128,
+"en": "I'll teach you the rules of Omaha Hold 'em, a variation of Texas Hold 'em, as we play.",
+"ctx": "diálogo uid01520004"
+},
+{
+"id": 59129,
+"en": "Omaha Hold 'em is basically the same as regular Texas Hold 'em, except you are dealt four cards instead of two.",
+"ctx": "diálogo uid01520004"
+},
+{
+"id": 59130,
+"en": "You then try to make the best hand you can with your own four cards and the five community cards.",
+"ctx": "diálogo uid01520004"
+},
+{
+"id": 59131,
+"en": "At the end of the game, you must use two of your own cards and three of the community cards to create a hand.",
+"ctx": "diálogo uid01520004"
+},
+{
+"id": 59132,
+"en": "Notice how you have two fives. That means you have one pair in your hand.",
+"ctx": "diálogo uid01520004"
+},
+{
+"id": 59133,
+"en": "This is the third round. A new community card has been dealt. You now have another pair. This time, two fours. That means you have two pair in your hand.",
+"ctx": "diálogo uid01520004"
+},
+{
+"id": 59134,
+"en": "This is the final round. All the cards have now been dealt. The last card dealt was a five. You must now make a hand with two of your own cards and three of the community cards.",
+"ctx": "diálogo uid01520004"
+},
+{
+"id": 59135,
+"en": "It looks like you have a full house. Let's heat things up by selecting Raise.",
+"ctx": "diálogo uid01520004"
+},
+{
+"id": 59136,
+"en": "Cold, isn't it? Come near the fire and warm up.",
+"ctx": "diálogo uid0169001e"
+},
+{
+"id": 59137,
+"en": "The road just re-opened, and they're selling gasoline again. What a relief, huh?",
+"ctx": "diálogo uid0169001e"
+},
+{
+"id": 59138,
+"en": "What was your name? Saejima-san? And the other fellow is Baba-san, right?",
+"ctx": "diálogo uid0169001e"
+},
+{
+"id": 59139,
+"en": "Don't look surprised. News gets around fast in a small community like this.",
+"ctx": "diálogo uid0169001e"
+},
+{
+"id": 59140,
+"en": "Come on, warm your hands near the fire. It's too frigging cold to do anything else.",
+"ctx": "diálogo uid0169001e"
+},
+{
+"id": 59141,
+"en": "You're not from around here, are you? Are you a tourist?",
+"ctx": "diálogo uid0169001e"
+},
+{
+"id": 59142,
+"en": "Not much to tour here. Except for the mountain! Last tour of your life, that might be.",
+"ctx": "diálogo uid0169001e"
+},
+{
+"id": 59143,
+"en": "Never thought I'd have to be rescued by anyone. I'm getting old.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59144,
+"en": "I'm just glad yer safe. You're like a mentor to me, Okudera-han.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59145,
+"en": "Let's eat. Baba there must be hungry.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59146,
+"en": "This is... good, I think. It's not as gamey as I thought it would be. Yep, yep, tasty. Real tasty.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59147,
+"en": "Can't say I like it myself... Just tastes lean and dry. But that's rabbit for ya.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59148,
+"en": "I feel like it's making my strength return, at least.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59149,
+"en": "Seems you're well on the way to recovery, Baba.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59150,
+"en": "Yes. I... I really want to thank you both. For everything. I'm very\ngrateful.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59151,
+"en": "Saejima, good news about your cold weather clothes. I used the rabbit's skin to patch them up. Would you like to try them on?",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59152,
+"en": "Real warm. Downright cozy.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59153,
+"en": "That'll slow down your energy loss on the mountain.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59154,
+"en": "Thank you, Okudera-han.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59155,
+"en": "You got Special Cold Wear.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59156,
+"en": "Don't thank me. You're the one who caught the rabbit, and risked your life to do so.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59157,
+"en": "Hmph, modest as always.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59158,
+"en": "Heh. That's for sure.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59159,
+"en": "So be it, then.",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59160,
+"en": "Where ya goin' now?",
+"ctx": "diálogo uid01690021"
+},
+{
+"id": 59161,
+"en": "To check on the village. I want to see if the road is still closed from the snow.",
+"ctx": "diálogo uid01690021"
+}
+]

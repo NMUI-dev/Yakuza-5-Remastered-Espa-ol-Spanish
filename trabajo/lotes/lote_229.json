@@ -1,0 +1,927 @@
+[
+{
+"id": 48758,
+"en": "If people having no confidence get bravery from seeing me and hearing my melodies, then my career is one of great value.",
+"ctx": "diálogo uid0116016b"
+},
+{
+"id": 48759,
+"en": "Shinada-san, I've never seen Daddy open up like this... Guess that's what the sake's for.",
+"ctx": "diálogo uid0116016b"
+},
+{
+"id": 48760,
+"en": "Oh boy. Daddy's had a few too many sips, it appears. Perhaps\nwe'd best be on our way.",
+"ctx": "diálogo uid0116016b"
+},
+{
+"id": 48761,
+"en": "I'm sorry, Shinada-san, but here's my wallet. Can you settle the tab, please? I'll take Daddy outside for some fresh air.",
+"ctx": "diálogo uid0116016b"
+},
+{
+"id": 48762,
+"en": "What's wrong? You done already?",
+"ctx": "diálogo uid01200000"
+},
+{
+"id": 48763,
+"en": "*huff* *cough* Damn it! I lost! I'm never going to make it out of the qualifiers!",
+"ctx": "diálogo uid01200000"
+},
+{
+"id": 48764,
+"en": "What're you talking about?",
+"ctx": "diálogo uid01200000"
+},
+{
+"id": 48765,
+"en": "I'm in the Victory Road tournament. I thought you were, too.",
+"ctx": "diálogo uid01200000"
+},
+{
+"id": 48766,
+"en": "A tournament run by a bunch of rich guys. They have some serious prize money for whoever proves to be the ultimate streetfighter in Japan.",
+"ctx": "diálogo uid01200000"
+},
+{
+"id": 48767,
+"en": "Never heard of it.",
+"ctx": "diálogo uid01200000"
+},
+{
+"id": 48768,
+"en": "You're in a special category... Kazuma Kiryu-san.",
+"ctx": "diálogo uid01200000"
+},
+{
+"id": 48769,
+"en": "I help run the Victory Road tournament. It's an underground fighting contest with qualifiers held concurrently all over Japan.",
+"ctx": "diálogo uid01200000"
+},
+{
+"id": 48770,
+"en": "Like I said, never heard of it. Anyway, you got the wrong guy. I'm not Kazuma Kiryu.",
+"ctx": "diálogo uid01200000"
+},
+{
+"id": 48771,
+"en": "Very well. Taichi Suzuki-san will do just fine.",
+"ctx": "diálogo uid01200000"
+},
+{
+"id": 48772,
+"en": "Most of the entrants already assume that you'll participate.",
+"ctx": "diálogo uid01200000"
+},
+{
+"id": 48773,
+"en": "After all, a man of your stature can't ever truly melt into the crowd, even outside of Kamurocho. Isn't that right, \"Suzuki-san\"?",
+"ctx": "diálogo uid01200000"
+},
+{
+"id": 48774,
+"en": "A certain tournament entrant told us you were in town. Perhaps you'd like to speak to him directly.",
+"ctx": "diálogo uid01200000"
+},
+{
+"id": 48775,
+"en": "Where would I find him?",
+"ctx": "diálogo uid01200000"
+},
+{
+"id": 48776,
+"en": "Ose Bridge. His name is Ren Higashino.",
+"ctx": "diálogo uid01200000"
+},
+{
+"id": 48777,
+"en": "I don't know anyone by that name.",
+"ctx": "diálogo uid01200000"
+},
+{
+"id": 48778,
+"en": "He's just another young fighter trying to make a name for himself.",
+"ctx": "diálogo uid01200000"
+},
+{
+"id": 48779,
+"en": "Now, if you'll excuse me.",
+"ctx": "diálogo uid01200000 + diálogo uid01200033"
+},
+{
+"id": 48780,
+"en": "(Ren Higashino... He said he'd be over on Ose Bridge.)",
+"ctx": "diálogo uid01200000"
+},
+{
+"id": 48781,
+"en": "Argh! I can't believe there's such a strong contender in a local qualifier.",
+"ctx": "diálogo uid01200027"
+},
+{
+"id": 48782,
+"en": "But you better watch yourself. I hear Valery Garrett's here in town.",
+"ctx": "diálogo uid01200027"
+},
+{
+"id": 48783,
+"en": "Valery Garrett...",
+"ctx": "diálogo uid01200027"
+},
+{
+"id": 48784,
+"en": "He's a regular at the Underground Coliseum over in Tokyo. Made a pretty big name for himself over there.",
+"ctx": "diálogo uid01200027"
+},
+{
+"id": 48785,
+"en": "He's racked up win after win since he entered Victory Road. And they say he's not even trying.",
+"ctx": "diálogo uid01200027"
+},
+{
+"id": 48786,
+"en": "Even so, no one's been able to touch him. But someone like you might have a chance.",
+"ctx": "diálogo uid01200027"
+},
+{
+"id": 48787,
+"en": "(So Valery Garrett's in town. We've slugged it out at the Underground Coliseum in Purgatory before.)",
+"ctx": "diálogo uid01200027"
+},
+{
+"id": 48788,
+"en": "Come on, that all ya got?",
+"ctx": "diálogo uid01200033"
+},
+{
+"id": 48789,
+"en": "Dammit! Why can't I beat you?",
+"ctx": "diálogo uid01200033 + diálogo uid0120003b …"
+},
+{
+"id": 48790,
+"en": "(That one didn't seem like an ordinary street punk.)",
+"ctx": "diálogo uid01200033"
+},
+{
+"id": 48791,
+"en": "That was an impressive fight, Taiga Saejima-san.",
+"ctx": "diálogo uid01200033"
+},
+{
+"id": 48792,
+"en": "We've been watching you. It would seem you've been trying to avoid attention.",
+"ctx": "diálogo uid01200033"
+},
+{
+"id": 48793,
+"en": "That man you just defeated is in the qualifying round of the Victory Road tournament.",
+"ctx": "diálogo uid01200033"
+},
+{
+"id": 48794,
+"en": "Victory Road?",
+"ctx": "diálogo uid01200033 + diálogo uid0120003b …"
+},
+{
+"id": 48795,
+"en": "The Victory Road is an underground fighting contest with qualifiers held concurrently all over Japan.",
+"ctx": "diálogo uid01200033 + diálogo uid0120003b"
+},
+{
+"id": 48796,
+"en": "Its sole purpose is to find the ultimate fighter in all of Japan. As for me? I help run the tournament.",
+"ctx": "diálogo uid01200033"
+},
+{
+"id": 48797,
+"en": "What's this got to do with me?",
+"ctx": "diálogo uid01200033"
+},
+{
+"id": 48798,
+"en": "Anyone as strong as you are has everything to do with our tournament.",
+"ctx": "diálogo uid01200033"
+},
+{
+"id": 48799,
+"en": "But be warned. From now on, other Victory Road contenders will be gunning for you.",
+"ctx": "diálogo uid01200033 + diálogo uid0120003b …"
+},
+{
+"id": 48800,
+"en": "Defeat all the contenders here in town, and I'll see you at the finals. Can you become the Ultimate Fighter, Saejima-san?",
+"ctx": "diálogo uid01200033"
+},
+{
+"id": 48801,
+"en": "And if I got other things to do?",
+"ctx": "diálogo uid01200033"
+},
+{
+"id": 48802,
+"en": "You'll come around. Your kind always does.",
+"ctx": "diálogo uid01200033"
+},
+{
+"id": 48803,
+"en": "(Sounds like another pain in the ass.)",
+"ctx": "diálogo uid01200033"
+},
+{
+"id": 48804,
+"en": "Shit! Lost again!",
+"ctx": "diálogo uid01200038"
+},
+{
+"id": 48805,
+"en": "Whaddya mean, \"again\"? You been going around pickin' fights all day?",
+"ctx": "diálogo uid01200038"
+},
+{
+"id": 48806,
+"en": "Yeah. I'm in the Victory Road qualifier, but just a few minutes ago, I ran into this dude claiming to be the best fighter in Japan.",
+"ctx": "diálogo uid01200038"
+},
+{
+"id": 48807,
+"en": "He wasn't as good as he thinks, though. Don't get me wrong. He's no pushover, either, but that's why losing to him really pissed me off.",
+"ctx": "diálogo uid01200038"
+},
+{
+"id": 48808,
+"en": "So you were tryin' to take it out on me then?",
+"ctx": "diálogo uid01200038"
+},
+{
+"id": 48809,
+"en": "It's not just me. There's a ton of other guys who're pissed off because they lost to him.",
+"ctx": "diálogo uid01200038"
+},
+{
+"id": 48810,
+"en": "What's his name?",
+"ctx": "diálogo uid01200038"
+},
+{
+"id": 48811,
+"en": "Better be careful if you're going up against Tokita. He's got a way of getting under your skin.",
+"ctx": "diálogo uid01200038"
+},
+{
+"id": 48812,
+"en": "Tokita? The Tokita from Sodachi Dojo?",
+"ctx": "diálogo uid01200038"
+},
+{
+"id": 48813,
+"en": "Had enough yet?",
+"ctx": "diálogo uid0120003b"
+},
+{
+"id": 48814,
+"en": "(That was no ordinary street punk.)",
+"ctx": "diálogo uid0120003b"
+},
+{
+"id": 48815,
+"en": "(He must be pretty confident in his fighting skills if he's that upset about losing.)",
+"ctx": "diálogo uid0120003b"
+},
+{
+"id": 48816,
+"en": "That was an impressive fight, Shun Akiyama-san.",
+"ctx": "diálogo uid0120003b"
+},
+{
+"id": 48817,
+"en": "Hm? Who're you?",
+"ctx": "diálogo uid0120003b"
+},
+{
+"id": 48818,
+"en": "I help run the Victory Road tournament. I look forward to seeing much more of you.",
+"ctx": "diálogo uid0120003b + diálogo uid01200056"
+},
+{
+"id": 48819,
+"en": "Its sole purpose is to find the ultimate fighter in the nation. And that man you just defeated? He was in the qualifying round.",
+"ctx": "diálogo uid0120003b + diálogo uid01200056"
+},
+{
+"id": 48820,
+"en": "That still doesn't explain why he was so eager to pick a fight with me.",
+"ctx": "diálogo uid0120003b"
+},
+{
+"id": 48821,
+"en": "It's simple. You're a possible contender.",
+"ctx": "diálogo uid0120003b"
+},
+{
+"id": 48822,
+"en": "We've had our eye on you. You seem to be a formidable fighter.",
+"ctx": "diálogo uid0120003b"
+},
+{
+"id": 48823,
+"en": "Defeat all the contenders here in town, and I'll see you at the finals. Can you become the Ultimate Fighter, Akiyama?",
+"ctx": "diálogo uid0120003b"
+},
+{
+"id": 48824,
+"en": "And what if I'm not interested?",
+"ctx": "diálogo uid0120003b"
+},
+{
+"id": 48825,
+"en": "You'll come around. Your kind always does. Now, if you'll excuse me.",
+"ctx": "diálogo uid0120003b + diálogo uid01200056"
+},
+{
+"id": 48826,
+"en": "(I wasn't looking for trouble, but it seems it came looking for me.)",
+"ctx": "diálogo uid0120003b"
+},
+{
+"id": 48827,
+"en": "Hey, pal! I need you to follow that <Color:22>white car<Color:Default> up ahead. But don't let them see you!",
+"ctx": "diálogo uid01200043"
+},
+{
+"id": 48828,
+"en": "The car up there?",
+"ctx": "diálogo uid01200043"
+},
+{
+"id": 48829,
+"en": "Yeah, they're bad guys. I may not look it, but I'm a police officer. Come on, let's roll!",
+"ctx": "diálogo uid01200043"
+},
+{
+"id": 48830,
+"en": "Aww, shit!",
+"ctx": "diálogo uid01200044"
+},
+{
+"id": 48831,
+"en": "Gah! They took off! What do we do now!?",
+"ctx": "diálogo uid01200044"
+},
+{
+"id": 48832,
+"en": "Want me to go after them?",
+"ctx": "diálogo uid01200044"
+},
+{
+"id": 48833,
+"en": "Yeah, go get them!",
+"ctx": "diálogo uid01200044"
+},
+{
+"id": 48834,
+"en": "Damn it. You lost them. I guess this was too much to ask of a taxi driver.",
+"ctx": "diálogo uid01200044"
+},
+{
+"id": 48835,
+"en": "(It seems I let him down. I'll have to step up my game.)",
+"ctx": "diálogo uid01200044 + diálogo uid01200048"
+},
+{
+"id": 48836,
+"en": "Heheh. I've got you now!",
+"ctx": "diálogo uid01200048"
+},
+{
+"id": 48837,
+"en": "Oh shit!",
+"ctx": "diálogo uid01200048"
+},
+{
+"id": 48838,
+"en": "Haha! I've been after you guys for a while!",
+"ctx": "diálogo uid01200048"
+},
+{
+"id": 48839,
+"en": "And now I've caught you in the act... Oh no!",
+"ctx": "diálogo uid01200048"
+},
+{
+"id": 48840,
+"en": "Looks like I forgot my badge. Damn. I bet it ended up in the wash.",
+"ctx": "diálogo uid01200048"
+},
+{
+"id": 48841,
+"en": "Come on, now's our chance!",
+"ctx": "diálogo uid01200048"
+},
+{
+"id": 48842,
+"en": "Heheh. What a clown.",
+"ctx": "diálogo uid01200048"
+},
+{
+"id": 48843,
+"en": "Hm. Guess I'll just have to wipe the floor with you guys myself.",
+"ctx": "diálogo uid01200048"
+},
+{
+"id": 48844,
+"en": "What did you say? You should've stuck to driving, old man.",
+"ctx": "diálogo uid01200048"
+},
+{
+"id": 48845,
+"en": "Get him!",
+"ctx": "diálogo uid01200048"
+},
+{
+"id": 48846,
+"en": "Damn. I guess this was too much to ask of a taxi driver.",
+"ctx": "diálogo uid01200048"
+},
+{
+"id": 48847,
+"en": "Ow ow ow...",
+"ctx": "diálogo uid01200048"
+},
+{
+"id": 48848,
+"en": "Huh!? What happened?",
+"ctx": "diálogo uid01200048"
+},
+{
+"id": 48849,
+"en": "Who did that to them?",
+"ctx": "diálogo uid01200048"
+},
+{
+"id": 48850,
+"en": "Don't you remember? You took them down yourself.",
+"ctx": "diálogo uid01200048"
+},
+{
+"id": 48851,
+"en": "You must have hit your head during the fight.",
+"ctx": "diálogo uid01200048"
+},
+{
+"id": 48852,
+"en": "Yeah? Huh. Well, I'd better call it in and haul these guys off to the station.",
+"ctx": "diálogo uid01200048"
+},
+{
+"id": 48853,
+"en": "Thanks for the help, pal! They would have slipped through our fingers without you!",
+"ctx": "diálogo uid01200048"
+},
+{
+"id": 48854,
+"en": "Remember to check your pockets before you do the wash next time.",
+"ctx": "diálogo uid01200048"
+},
+{
+"id": 48855,
+"en": "Yeah. My mom's been telling me that since I was a kid. I'll ask for you by name next time.",
+"ctx": "diálogo uid01200048"
+},
+{
+"id": 48856,
+"en": "(Everything seems to have worked out well.)",
+"ctx": "diálogo uid01200048"
+},
+{
+"id": 48857,
+"en": "Whew... How many does that make it now?",
+"ctx": "diálogo uid01200052"
+},
+{
+"id": 48858,
+"en": "Dang, you're fast! I never thought I'd run into someone like you here.",
+"ctx": "diálogo uid01200052"
+},
+{
+"id": 48859,
+"en": "But you know, there's another guy who's gone undefeated so far.",
+"ctx": "diálogo uid01200052"
+},
+{
+"id": 48860,
+"en": "They say he was born to be a martial artist. His fighting skills are in a whole other league compared to regular street fighters.",
+"ctx": "diálogo uid01200052"
+},
+{
+"id": 48861,
+"en": "Even you would be no match for him.",
+"ctx": "diálogo uid01200052"
+},
+{
+"id": 48862,
+"en": "Head over to the <Color:7>Sotenbori Footpath<Color:Default> if you're curious. Good luck, hehe.",
+"ctx": "diálogo uid01200052"
+},
+{
+"id": 48863,
+"en": "(<Color:7>Sotenbori Footpath<Color:Default>, huh? Maybe I'll go check it out sometime.)",
+"ctx": "diálogo uid01200052"
+},
+{
+"id": 48864,
+"en": "Why do you guys keep picking fights with me?",
+"ctx": "diálogo uid01200056"
+},
+{
+"id": 48865,
+"en": "(He seems stronger than your average street punk. Probably been in a lot of fights.)",
+"ctx": "diálogo uid01200056"
+},
+{
+"id": 48866,
+"en": "Excuse me. Are you Tatsuo Shinada-san?",
+"ctx": "diálogo uid01200056"
+},
+{
+"id": 48867,
+"en": "Man... Yeah, who's asking?",
+"ctx": "diálogo uid01200056"
+},
+{
+"id": 48868,
+"en": "Allow me to explain. The Victory Road is an underground fighting contest with qualifiers held concurrently all over Japan.",
+"ctx": "diálogo uid01200056"
+},
+{
+"id": 48869,
+"en": "Yeah, sure, cool. But what does that have to do with me?",
+"ctx": "diálogo uid01200056"
+},
+{
+"id": 48870,
+"en": "We've had our eye on you. You seem to be a rather formidable fighter.",
+"ctx": "diálogo uid01200056"
+},
+{
+"id": 48871,
+"en": "Wait, what does any of this have to do with me!? I've never even heard of your damn tournament!",
+"ctx": "diálogo uid01200056"
+},
+{
+"id": 48872,
+"en": "The winner will be granted the proud title of Ultimate Fighter. Oh, and then there's the prize money.",
+"ctx": "diálogo uid01200056"
+},
+{
+"id": 48873,
+"en": "Wait, did you just say prize money? Is it a lot?",
+"ctx": "diálogo uid01200056"
+},
+{
+"id": 48874,
+"en": "Defeat all the contenders here in town, and I'll see you at the finals. Can you become the Ultimate Fighter, Shinada-san?",
+"ctx": "diálogo uid01200056"
+},
+{
+"id": 48875,
+"en": "I haven't agreed to enter yet, you know.",
+"ctx": "diálogo uid01200056"
+},
+{
+"id": 48876,
+"en": "(The Victory Road qualifiers... I suppose it's worth a shot if there's some prize money in it for me.)",
+"ctx": "diálogo uid01200056"
+},
+{
+"id": 48877,
+"en": "You better not get in our way, asshole!",
+"ctx": "diálogo uid01200141"
+},
+{
+"id": 48878,
+"en": "Yuta! Oh god...",
+"ctx": "diálogo uid01200141"
+},
+{
+"id": 48879,
+"en": "Mom! Help!",
+"ctx": "diálogo uid01200141"
+},
+{
+"id": 48880,
+"en": "Let the kid go. You and I need to have a little talk.",
+"ctx": "diálogo uid01200141"
+},
+{
+"id": 48881,
+"en": "You think we're just gonna sit down and chat!? Nice fuckin'\ntry! Now if you don't scram this instant, we're putting you\nin the ground!",
+"ctx": "diálogo uid01200141"
+},
+{
+"id": 48882,
+"en": "Wait... Is that you, Itoda-san?",
+"ctx": "diálogo uid01200141"
+},
+{
+"id": 48883,
+"en": "Do you know this guy?",
+"ctx": "diálogo uid01200141"
+},
+{
+"id": 48884,
+"en": "I can't see his face, but I recognize that voice. I think he's a former employee of ours. My husband fired him the other day for embezzling company funds.",
+"ctx": "diálogo uid01200141"
+},
+{
+"id": 48885,
+"en": "But I gave the money back! And now I'm in debt up to my eyeballs. This was my only play!",
+"ctx": "diálogo uid01200141"
+},
+{
+"id": 48886,
+"en": "Please, Itoda-san! Let Yuta go! I promise I won't tell the police!",
+"ctx": "diálogo uid01200141"
+},
+{
+"id": 48887,
+"en": "This isn't how I thought it'd go down... I went about it all wrong!",
+"ctx": "diálogo uid01200141"
+},
+{
+"id": 48888,
+"en": "I should have kidnapped the wife along with the kid! Look at all this extra bullshit I have to go through!",
+"ctx": "diálogo uid01200141"
+},
+{
+"id": 48889,
+"en": "You're coming along for the ride, too, mystery man. I'm taking all your asses hostage! Now get over here!",
+"ctx": "diálogo uid01200141"
+},
+{
+"id": 48890,
+"en": "What? Don't give me that look. You want me to turn you into worm food!?",
+"ctx": "diálogo uid01200141"
+},
+{
+"id": 48891,
+"en": "You really have no idea how much pain you're causing these\npeople... Maybe I need to give you a taste of it firsthand.",
+"ctx": "diálogo uid01200141"
+},
+{
+"id": 48892,
+"en": "Yeah? Well, how 'bout I make you taste your own <Italic>blood</Italic>\nfirsthand!? Your corpse won't even look human by the time we're done with you!",
+"ctx": "diálogo uid01200141"
+},
+{
+"id": 48893,
+"en": "Sorry... I couldn't do it. Those guys were too fast.",
+"ctx": "diálogo uid01200141"
+},
+{
+"id": 48894,
+"en": "Oh no... What about my little boy!?",
+"ctx": "diálogo uid01200141"
+},
+{
+"id": 48895,
+"en": "I hope he's okay. Have you called the police?",
+"ctx": "diálogo uid01200141"
+},
+{
+"id": 48896,
+"en": "Yes. But who knows if they'll ever find that car?",
+"ctx": "diálogo uid01200141"
+},
+{
+"id": 48897,
+"en": "Mom! I was so scared...",
+"ctx": "diálogo uid01200141"
+},
+{
+"id": 48898,
+"en": "Thank you so much! You aren't hurt, are you?",
+"ctx": "diálogo uid01200141"
+},
+{
+"id": 48899,
+"en": "Don't worry about me. I'm just glad you two are okay. Now what should we do with these guys...",
+"ctx": "diálogo uid01200141"
+},
+{
+"id": 48900,
+"en": "I've already called the police. They'll be here any moment.",
+"ctx": "diálogo uid01200141"
+},
+{
+"id": 48901,
+"en": "Oh, come on! Give us a break, lady! You got your kid back alive, didn't you!?",
+"ctx": "diálogo uid01200141"
+},
+{
+"id": 48902,
+"en": "You're not getting off the hook that easy! Do you seriously think giving back the money and the kid makes up for what you did!?",
+"ctx": "diálogo uid01200141"
+},
+{
+"id": 48903,
+"en": "You need to wake up and realize you can't just do whatever\nyou want, using your problems as an excuse. But I'm sure\nyou'll have plenty of time to think about that behind bars.",
+"ctx": "diálogo uid01200141"
+},
+{
+"id": 48904,
+"en": "Why you... Who the hell are you, anyway? You sure don't act like a taxi driver!",
+"ctx": "diálogo uid01200141"
+},
+{
+"id": 48905,
+"en": "I really appreciate what you've done. If it wasn't for you, who knows what would have happened to Yuta? I can't thank you enough.",
+"ctx": "diálogo uid01200141"
+},
+{
+"id": 48906,
+"en": "Hey, don't worry about it. I just happened to be in the right place at the right time.",
+"ctx": "diálogo uid01200141"
+},
+{
+"id": 48907,
+"en": "There must be something I can do to express my gratitude.\nHere, this is the least I can give you.",
+"ctx": "diálogo uid01200141"
+},
+{
+"id": 48908,
+"en": "I'll never forget the way you helped us today! I hope you\nknow how wonderful you are...",
+"ctx": "diálogo uid01200141"
+},
+{
+"id": 48909,
+"en": "For real! You kicked some royal ass back there, sir!",
+"ctx": "diálogo uid01200141"
+},
+{
+"id": 48910,
+"en": "Nice driving.",
+"ctx": "diálogo uid0120016f"
+},
+{
+"id": 48911,
+"en": "Your driving's all right, I guess.",
+"ctx": "diálogo uid0120016f"
+},
+{
+"id": 48912,
+"en": "Your driving's terrible.",
+"ctx": "diálogo uid0120016f"
+},
+{
+"id": 48913,
+"en": "(What's with that car?)",
+"ctx": "diálogo uid01200171"
+},
+{
+"id": 48914,
+"en": "Oh? What's the Spangled Meteor doing around here?",
+"ctx": "diálogo uid01200171"
+},
+{
+"id": 48915,
+"en": "Wada-san... You know about this car?",
+"ctx": "diálogo uid01200171"
+},
+{
+"id": 48916,
+"en": "Why, is this the first time you've seen it?",
+"ctx": "diálogo uid01200171"
+},
+{
+"id": 48917,
+"en": "It is. There something special about it?",
+"ctx": "diálogo uid01200171"
+},
+{
+"id": 48918,
+"en": "Well sure. The lady who drives this sexy piece of machinery is in charge of the Vixen Zeroes. They call her the Spangled Meteor.",
+"ctx": "diálogo uid01200171"
+},
+{
+"id": 48919,
+"en": "And what's the Vixen Zeroes?",
+"ctx": "diálogo uid01200171"
+},
+{
+"id": 48920,
+"en": "They say they're a group of gorgeous women who can outspeed anyone they challenge. Wish they'd drive up on <Italic>me</Italic> someday!",
+"ctx": "diálogo uid01200171"
+},
+{
+"id": 48921,
+"en": "So they're essentially an all-girl street racing team?",
+"ctx": "diálogo uid01200171"
+},
+{
+"id": 48922,
+"en": "According to the stories, yeah. But I've never heard of anyone who's actually seen their faces.",
+"ctx": "diálogo uid01200171"
+},
+{
+"id": 48923,
+"en": "Then they may not be gorgeous at all.",
+"ctx": "diálogo uid01200171"
+},
+{
+"id": 48924,
+"en": "Haha, that's about the size of it. Guess you could say it's one of those urban legends.",
+"ctx": "diálogo uid01200171"
+},
+{
+"id": 48925,
+"en": "Oh, and apparently, the only way to see them is to beat them in a race.",
+"ctx": "diálogo uid01200171"
+},
+{
+"id": 48926,
+"en": "Interestingly enough, the Vixen Zeroes are usually the ones who initiate the challenges.",
+"ctx": "diálogo uid01200171"
+},
+{
+"id": 48927,
+"en": "If you lose, they just speed off. But if you win? You catch a glimpse of true beauty.",
+"ctx": "diálogo uid01200171"
+},
+{
+"id": 48928,
+"en": "But if nobody's ever seen them in person, does that mean they're undefeated?",
+"ctx": "diálogo uid01200171"
+},
+{
+"id": 48929,
+"en": "Who knows? All I've heard are rumors. Sure makes a good story, though, don't you think?",
+"ctx": "diálogo uid01200171"
+},
+{
+"id": 48930,
+"en": "Heh. I guess you're right.",
+"ctx": "diálogo uid01200171"
+},
+{
+"id": 48931,
+"en": "Excuse me. You wouldn't happen to be Suzuki-san from Nagasu Taxi, would you?",
+"ctx": "diálogo uid01200192"
+},
+{
+"id": 48932,
+"en": "Who's asking?",
+"ctx": "diálogo uid01200192 + diálogo uid013304c6"
+},
+{
+"id": 48933,
+"en": "I'm with the Vixen Zeroes. Our leader has a message for you.",
+"ctx": "diálogo uid01200192"
+},
+{
+"id": 48934,
+"en": "On behalf of the Vixen Zeroes, the Spangled Meteor wishes to challenge you to a race. She's ready and waiting, whenever you can come.",
+"ctx": "diálogo uid01200192"
+},
+{
+"id": 48935,
+"en": "Why does she want to race me? I'm just a taxi driver.",
+"ctx": "diálogo uid01200192"
+},
+{
+"id": 48936,
+"en": "The Spangled Meteor is well aware of your exploits. And perhaps you're well aware of hers. Does that give you a hint?",
+"ctx": "diálogo uid01200192"
+},
+{
+"id": 48937,
+"en": "(It must be that girl, Nanami. So she <Italic>was</Italic> the Spangled Meteor!)",
+"ctx": "diálogo uid01200192"
+},
+{
+"id": 48938,
+"en": "What do you say, Suzuki-san? Ready to race?",
+"ctx": "diálogo uid01200192"
+},
+{
+"id": 48939,
+"en": "Sorry, but I can't be doing that.",
+"ctx": "diálogo uid01200192"
+},
+{
+"id": 48940,
+"en": "I figured you might say that. Well, let me know if you ever change your mind. The invitation's always open.",
+"ctx": "diálogo uid01200192"
+},
+{
+"id": 48941,
+"en": "It seems the rumors about Suzuki the taxi driver were true.",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48942,
+"en": "Rena Nanami... Or should I say, the Spangled Meteor?",
+"ctx": "diálogo uid0120019e"
+}
+]

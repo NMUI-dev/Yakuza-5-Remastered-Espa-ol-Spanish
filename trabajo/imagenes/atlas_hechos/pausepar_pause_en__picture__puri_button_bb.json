@@ -1,0 +1,38 @@
+{
+ "textura": "pausepar_pause_en/picture/puri_button_bb",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    288,
+    18,
+    493,
+    47
+   ],
+   "en": "Previous Page X OK",
+   "ocr": "Previous Page X OK",
+   "es": "Página anterior X Aceptar",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 201
+  },
+  {
+   "caja": [
+    547,
+    19,
+    730,
+    47
+   ],
+   "en": "Close Next Page",
+   "ocr": "Close Next Page",
+   "es": "Cerrar Página siguiente",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 179
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_taiko_common.par/texlist_0001/taiko_common_02",
+ "fuente": "segoeuib.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    347,
+    304,
+    443,
+    368
+   ],
+   "en": "1st",
+   "es": "1.º",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 90
+  },
+  {
+   "caja": [
+    353,
+    391,
+    449,
+    445
+   ],
+   "en": "2nd",
+   "es": "2.º",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 90
+  },
+  {
+   "caja": [
+    333,
+    456,
+    445,
+    510
+   ],
+   "en": "3rd",
+   "es": "3.º",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 106
+  },
+  {
+   "caja": [
+    819,
+    512,
+    995,
+    544
+   ],
+   "en": "Auntie",
+   "es": "Tía",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 170
+  },
+  {
+   "caja": [
+    39,
+    79,
+    76,
+    212
+   ],
+   "en": "Easy",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 31,
+   "dejar": true
+  },
+  {
+   "caja": [
+    133,
+    74,
+    184,
+    218
+   ],
+   "en": "Normal",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 45,
+   "dejar": true
+  },
+  {
+   "caja": [
+    235,
+    77,
+    281,
+    218
+   ],
+   "en": "Hard",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 40,
+   "dejar": true
+  }
+ ]
+}

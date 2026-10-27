@@ -1,0 +1,41 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_baccarat.par/texlist/2d_yk_mg_bc_result",
+ "fuente": "times.ttf",
+ "margen": 1,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    0,
+    180,
+    30
+   ],
+   "en": "BACCARAT",
+   "es": "R E S U L T A D O S",
+   "fuente": "times.ttf",
+   "alin": "izq",
+   "sangria": 7,
+   "efecto": "nada",
+   "ancho_max": 172,
+   "nota": "espacios finos U+2009 entre letras para imitar el espaciado del original"
+  },
+  {
+   "caja": [
+    0,
+    30,
+    180,
+    60
+   ],
+   "en": "RESULTS",
+   "es": "D E  B A C A R Á",
+   "fuente": "times.ttf",
+   "alin": "izq",
+   "sangria": 7,
+   "efecto": "nada",
+   "ancho_max": 172,
+   "nota": "idem; traduccion: RESULTADOS / DE BACARÁ"
+  }
+ ],
+ "ceñido": true
+}

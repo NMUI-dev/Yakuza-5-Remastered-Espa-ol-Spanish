@@ -1,0 +1,899 @@
+[
+{
+"id": 70150,
+"en": "Pose/Confirm",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_purikura); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 21
+},
+{
+"id": 70151,
+"en": "Pose/Cancel",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_purikura); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 19
+},
+{
+"id": 70152,
+"en": "RemoveNoodles",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_ramen); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 70153,
+"en": "Remove Noodles/Confirm",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_ramen); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 35
+},
+{
+"id": 70154,
+"en": "Remove Noodles",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_ramen); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 24
+},
+{
+"id": 70155,
+"en": "RemoveNoodles/Cancel",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_ramen); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 33
+},
+{
+"id": 70156,
+"en": "Remove Noodles/Cancel",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_ramen_bb); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 34
+},
+{
+"id": 70157,
+"en": "RemoveNoodles/Confirm",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_ramen_bb); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 34
+},
+{
+"id": 70158,
+"en": "ReplenishSnowballs",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_snowball); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 30
+},
+{
+"id": 70159,
+"en": "Run (double-tap to Dodge)",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_snowball); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 40
+},
+{
+"id": 70160,
+"en": "ThrowScattershot",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_snowball); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 27
+},
+{
+"id": 70161,
+"en": "ThrowSnowball",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_snowball); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 70162,
+"en": "PeekLeft/Right",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_snowball); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 24
+},
+{
+"id": 70163,
+"en": "Run(double-tap to Dodge)",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_snowball); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 38
+},
+{
+"id": 70164,
+"en": "Right Stick",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_snowball); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 19
+},
+{
+"id": 70165,
+"en": "Decelerate",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_snowmobile); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 70166,
+"en": "Accelerate",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_snowmobile); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 70167,
+"en": "Tackle (+Left Stick)",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_snowmobile); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70168,
+"en": "Move Character",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_snowmobile); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 24
+},
+{
+"id": 70169,
+"en": "Return to Title",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_snowmobile); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 70170,
+"en": "MAXBET",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_suro); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 70171,
+"en": "Beat Rim (Left)",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_taiko); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 70172,
+"en": "Beat Rim (Right)",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_taiko); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 27
+},
+{
+"id": 70173,
+"en": "BeatFront(Right)",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_taiko); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 27
+},
+{
+"id": 70174,
+"en": "BeatFront(Left)",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_taiko); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 70175,
+"en": "Beat Front(Right)/Confirm",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_taiko); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 40
+},
+{
+"id": 70176,
+"en": "Beat Front(Right)",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_taiko); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 28
+},
+{
+"id": 70177,
+"en": "BeatFront(Right)/Cancel",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_taiko); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 37
+},
+{
+"id": 70178,
+"en": "BeatFront(Right)/Confirm",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_taiko_bb); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 38
+},
+{
+"id": 70179,
+"en": "Accelerator",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_taxi_race); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 19
+},
+{
+"id": 70180,
+"en": "Brake",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_taxi_race); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 70181,
+"en": "Change View",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_taxi_race); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 19
+},
+{
+"id": 70182,
+"en": "Drag Heat Actions",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_taxi_race); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 28
+},
+{
+"id": 70183,
+"en": "Toggle Blinkers",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_taxi_race); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 70184,
+"en": "Drift",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_taxi_race); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 70185,
+"en": "Horn",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_taxi_race); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 70186,
+"en": "L3 Button",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_taxi_race); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 17
+},
+{
+"id": 70187,
+"en": "Move Taxi Left/Right",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_taxi_race); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 33
+},
+{
+"id": 70188,
+"en": "MoveTaxi Left/Right",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_taxi_race_t); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 31
+},
+{
+"id": 70189,
+"en": "Return toTitle",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_taxi_race_t); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 24
+},
+{
+"id": 70190,
+"en": "Reposition",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_taxi_shinai); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 70191,
+"en": "MoveCartLeft/Right",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_taxi_yatai); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 30
+},
+{
+"id": 70192,
+"en": "Command NPC",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_yuki); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 19
+},
+{
+"id": 70193,
+"en": "StrafeMove/Shoot",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_yuki); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 27
+},
+{
+"id": 70194,
+"en": "MeleeAttack",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_yuki); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 19
+},
+{
+"id": 70195,
+"en": "Up Button",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_yuki); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 17
+},
+{
+"id": 70196,
+"en": "ThrowOutBearBait",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_yuki); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 27
+},
+{
+"id": 70197,
+"en": "Fire Gun Dodge MoveCamera",
+"ctx": "imagen: guía de controles de minijuego (2d_jm_mgs_yuki); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70198,
+"en": "Its definitely love!",
+"ctx": "imagen de menú (2d_jm_puri_a1); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 33
+},
+{
+"id": 70199,
+"en": "Mustntrunaway",
+"ctx": "imagen de menú (2d_jm_puri_a2); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 70200,
+"en": "Welcometo",
+"ctx": "imagen de menú (2d_jm_puri_a3); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 17
+},
+{
+"id": 70201,
+"en": "Sky Finance",
+"ctx": "imagen de menú (2d_jm_puri_a3); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 19
+},
+{
+"id": 70202,
+"en": "Sirwouldyou",
+"ctx": "imagen de menú (2d_jm_puri_a4); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 19
+},
+{
+"id": 70203,
+"en": "mind coming with me?",
+"ctx": "imagen de menú (2d_jm_puri_a4); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 33
+},
+{
+"id": 70204,
+"en": "Loveto",
+"ctx": "imagen de menú (2d_jm_puri_a5); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 70205,
+"en": "See You Smile!",
+"ctx": "imagen de menú (2d_jm_puri_a5); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 24
+},
+{
+"id": 70206,
+"en": "Aki-nyans",
+"ctx": "imagen de menú (2d_jm_puri_a9); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 17
+},
+{
+"id": 70207,
+"en": "goingallout!",
+"ctx": "imagen de menú (2d_jm_puri_a9); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 21
+},
+{
+"id": 70208,
+"en": "Hanaka",
+"ctx": "imagen de menú (2d_jm_puri_a_k); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 70209,
+"en": "ShunMManaka",
+"ctx": "imagen de menú (2d_jm_puri_a_kyaba); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 19
+},
+{
+"id": 70210,
+"en": "Youulgetarrestedt",
+"ctx": "imagen de menú (2d_jm_puri_a_kyaba); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 28
+},
+{
+"id": 70211,
+"en": "Cutepose",
+"ctx": "imagen de menú (2d_jm_puri_h1); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 70212,
+"en": "10:000,000,000 yen",
+"ctx": "imagen de menú (2d_jm_puri_h2); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 30
+},
+{
+"id": 70213,
+"en": "Kamurocho,",
+"ctx": "imagen de menú (2d_jm_puri_h3); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 70214,
+"en": "sofullofmemories",
+"ctx": "imagen de menú (2d_jm_puri_h3); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 27
+},
+{
+"id": 70215,
+"en": "you",
+"ctx": "imagen de menú (2d_jm_puri_h4); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 8
+},
+{
+"id": 70216,
+"en": "forrequestingme",
+"ctx": "imagen de menú (2d_jm_puri_h4); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 70217,
+"en": "LovetoSee",
+"ctx": "imagen de menú (2d_jm_puri_h5); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 17
+},
+{
+"id": 70218,
+"en": "You",
+"ctx": "imagen de menú (2d_jm_puri_h5); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 8
+},
+{
+"id": 70219,
+"en": "It's the Haruka",
+"ctx": "imagen de menú (2d_jm_puri_h6); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 70220,
+"en": "idn",
+"ctx": "imagen de menú (2d_jm_puri_h6); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 8
+},
+{
+"id": 70221,
+"en": "too",
+"ctx": "imagen de menú (2d_jm_puri_h7); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 8
+},
+{
+"id": 70222,
+"en": "ldliketoridetheFemiswheel",
+"ctx": "imagen de menú (2d_jm_puri_h8); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 40
+},
+{
+"id": 70223,
+"en": "withsomeonesomeday",
+"ctx": "imagen de menú (2d_jm_puri_h8); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 30
+},
+{
+"id": 70224,
+"en": "Im Haru-nyan",
+"ctx": "imagen de menú (2d_jm_puri_h9); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 21
+},
+{
+"id": 70225,
+"en": "lshoweryou",
+"ctx": "imagen de menú (2d_jm_puri_k1); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 70226,
+"en": "with1obillionkisses",
+"ctx": "imagen de menú (2d_jm_puri_k1); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 31
+},
+{
+"id": 70227,
+"en": "me",
+"ctx": "imagen de menú (2d_jm_puri_k2); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 6
+},
+{
+"id": 70228,
+"en": "ifyouwanttodie!",
+"ctx": "imagen de menú (2d_jm_puri_k2); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 70229,
+"en": "Comeat",
+"ctx": "imagen de menú (2d_jm_puri_k2); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 70230,
+"en": "Dhaveareservation",
+"ctx": "imagen de menú (2d_jm_puri_k4); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 28
+},
+{
+"id": 70231,
+"en": "underkiryu",
+"ctx": "imagen de menú (2d_jm_puri_k4); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 70232,
+"en": "Seeva",
+"ctx": "imagen de menú (2d_jm_puri_k5); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 70233,
+"en": "tmile!",
+"ctx": "imagen de menú (2d_jm_puri_k5); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 70234,
+"en": "serving",
+"ctx": "imagen de menú (2d_jm_puri_k6); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 70235,
+"en": "Now.",
+"ctx": "imagen de menú (2d_jm_puri_k6); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 70236,
+"en": "noodles",
+"ctx": "imagen de menú (2d_jm_puri_k6); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 70237,
+"en": "cold",
+"ctx": "imagen de menú (2d_jm_puri_k6); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 70238,
+"en": "I came",
+"ctx": "imagen de menú (2d_jm_puri_k7); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 70239,
+"en": "Hello, Nagoya!",
+"ctx": "imagen de menú (2d_jm_puri_k8); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 24
+},
+{
+"id": 70240,
+"en": "Im Kazu-nyan",
+"ctx": "imagen de menú (2d_jm_puri_k9); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 21
+},
+{
+"id": 70241,
+"en": "-inata",
+"ctx": "imagen de menú (2d_jm_puri_k_k01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 70242,
+"en": "Kiryu-san MRiku",
+"ctx": "imagen de menú (2d_jm_puri_k_k02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 70243,
+"en": "Kiryu-san",
+"ctx": "imagen de menú (2d_jm_puri_k_kyaba01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 17
+},
+{
+"id": 70244,
+"en": "MRiku",
+"ctx": "imagen de menú (2d_jm_puri_k_kyaba01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 70245,
+"en": "More noodles,",
+"ctx": "imagen de menú (2d_jm_puri_k_kyaba01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 70246,
+"en": "extrahardo",
+"ctx": "imagen de menú (2d_jm_puri_k_kyaba01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 70247,
+"en": "KiryuFsan",
+"ctx": "imagen de menú (2d_jm_puri_k_kyaba02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 17
+},
+{
+"id": 70248,
+"en": "Commemorative print",
+"ctx": "imagen de menú (2d_jm_puri_k_kyaba02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 31
+},
+{
+"id": 70249,
+"en": "Two people in love",
+"ctx": "imagen de menú (2d_jm_puri_kh00); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 30
+},
+{
+"id": 70250,
+"en": "Comeatmey",
+"ctx": "imagen de menú (2d_jm_puri_kh01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 17
+},
+{
+"id": 70251,
+"en": "fepoguemnorm",
+"ctx": "imagen de menú (2d_jm_puri_kh01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 21
+},
+{
+"id": 70252,
+"en": "Welcome to",
+"ctx": "imagen de menú (2d_jm_puri_kh02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 70253,
+"en": "Ifyoulayafingeron",
+"ctx": "imagen de menú (2d_jm_puri_kh03); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 28
+},
+{
+"id": 70254,
+"en": "myHaruka,I'llkillyou.",
+"ctx": "imagen de menú (2d_jm_puri_kh03); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 34
+},
+{
+"id": 70255,
+"en": "HiOmHaruka!",
+"ctx": "imagen de menú (2d_jm_puri_kh03); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 19
+},
+{
+"id": 70256,
+"en": "You Smile!",
+"ctx": "imagen de menú (2d_jm_puri_kh04); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 70257,
+"en": "wont forgiveyou",
+"ctx": "imagen de menú (2d_jm_puri_kh05); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 70258,
+"en": "fthereareanyleftovers.",
+"ctx": "imagen de menú (2d_jm_puri_kh05); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 35
+},
+{
+"id": 70259,
+"en": "special.",
+"ctx": "imagen de menú (2d_jm_puri_kh05); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 70260,
+"en": "Harukas",
+"ctx": "imagen de menú (2d_jm_puri_kh05); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 70261,
+"en": "the",
+"ctx": "imagen de menú (2d_jm_puri_kh05); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 8
+},
+{
+"id": 70262,
+"en": "It's",
+"ctx": "imagen de menú (2d_jm_puri_kh05); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 70263,
+"en": "Food'sup!",
+"ctx": "imagen de menú (2d_jm_puri_kh05); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 17
+},
+{
+"id": 70264,
+"en": "stops",
+"ctx": "imagen de menú (2d_jm_puri_kh06); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 70265,
+"en": "never",
+"ctx": "imagen de menú (2d_jm_puri_kh06); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 70266,
+"en": "Wanttoeatmisocutlets,",
+"ctx": "imagen de menú (2d_jm_puri_kh07); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 34
+},
+{
+"id": 70267,
+"en": "Youllgetfat,Haruka..o",
+"ctx": "imagen de menú (2d_jm_puri_kh07); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 34
+},
+{
+"id": 70268,
+"en": "Arcade dateM",
+"ctx": "imagen de menú (2d_jm_puri_kh9); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 21
+},
+{
+"id": 70269,
+"en": "Raguya",
+"ctx": "imagen de menú (2d_jm_puri_s_kyaba); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 70270,
+"en": "Ahhh,so much love",
+"ctx": "imagen de menú (2d_jm_puri_s_kyaba); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 28
+},
+{
+"id": 70271,
+"en": "Who'sgonnalikethis?",
+"ctx": "imagen de menú (2d_jm_puri_sa1); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 31
+},
+{
+"id": 70272,
+"en": "Yougottabe",
+"ctx": "imagen de menú (2d_jm_puri_sa2); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 70273,
+"en": "Kiddinme",
+"ctx": "imagen de menú (2d_jm_puri_sa2); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 70274,
+"en": "Imback!!",
+"ctx": "imagen de menú (2d_jm_puri_sa3); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 70275,
+"en": "Request me!",
+"ctx": "imagen de menú (2d_jm_puri_sa4); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 19
+},
+{
+"id": 70276,
+"en": "Shut up @nd",
+"ctx": "imagen de menú (2d_jm_puri_sa6); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 19
+},
+{
+"id": 70277,
+"en": "eat!",
+"ctx": "imagen de menú (2d_jm_puri_sa6); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 70278,
+"en": "with",
+"ctx": "imagen de menú (2d_jm_puri_sa7); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 70279,
+"en": "Dontmess",
+"ctx": "imagen de menú (2d_jm_puri_sa7); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 70280,
+"en": "themountain",
+"ctx": "imagen de menú (2d_jm_puri_sa7); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 19
+},
+{
+"id": 70281,
+"en": "Cimme",
+"ctx": "imagen de menú (2d_jm_puri_sa8); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 70282,
+"en": "miso cutlets!",
+"ctx": "imagen de menú (2d_jm_puri_sa8); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 70283,
+"en": "Im Saejima-nyan",
+"ctx": "imagen de menú (2d_jm_puri_sa9); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 70284,
+"en": "Iwanttogetto",
+"ctx": "imagen de menú (2d_jm_puri_si1); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 21
+},
+{
+"id": 70285,
+"en": "firstbase with you!",
+"ctx": "imagen de menú (2d_jm_puri_si1); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 31
+},
+{
+"id": 70286,
+"en": "Besureto",
+"ctx": "imagen de menú (2d_jm_puri_si2); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 70287,
+"en": "borrowresponsibly",
+"ctx": "imagen de menú (2d_jm_puri_si2); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 28
+},
+{
+"id": 70288,
+"en": "Iheardtheresgood",
+"ctx": "imagen de menú (2d_jm_puri_si3); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 27
+},
+{
+"id": 70289,
+"en": "parlors",
+"ctx": "imagen de menú (2d_jm_puri_si3); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 70290,
+"en": "here",
+"ctx": "imagen de menú (2d_jm_puri_si3); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 70291,
+"en": "Champagne!",
+"ctx": "imagen de menú (2d_jm_puri_si4); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 70292,
+"en": "Putitonmytab!",
+"ctx": "imagen de menú (2d_jm_puri_si4); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 70293,
+"en": "SeeYva",
+"ctx": "imagen de menú (2d_jm_puri_si5); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 70294,
+"en": "F worke hard and",
+"ctx": "imagen de menú (2d_jm_puri_si6); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 27
+},
+{
+"id": 70295,
+"en": "get",
+"ctx": "imagen de menú (2d_jm_puri_si6); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 8
+},
+{
+"id": 70296,
+"en": "out",
+"ctx": "imagen de menú (2d_jm_puri_si6); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 8
+},
+{
+"id": 70297,
+"en": "Now is",
+"ctx": "imagen de menú (2d_jm_puri_si7); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 70298,
+"en": "winter",
+"ctx": "imagen de menú (2d_jm_puri_si7); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 70299,
+"en": "the. destitution",
+"ctx": "imagen de menú (2d_jm_puri_si7); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+}
+]

@@ -1,0 +1,892 @@
+[
+{
+"id": 22236,
+"en": "Come see me again when you're a little less loaded down. I'll be here.",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22237,
+"en": "That could be fun. I'd be up for some fishing as long as you've got room.",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22238,
+"en": "Of course there's room! Let's hit the waves, then!",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22239,
+"en": "No, I think I'll pass for now.",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22240,
+"en": "You sure? Well, the offer's open if you change your mind later. I won't go anywhere just yet.",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22241,
+"en": "Oh, you finished for now?",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22242,
+"en": "Yeah. Thanks for having me along.",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22243,
+"en": "No need to thank me! Come by again whenever you feel like it. You're welcome anytime.",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22244,
+"en": "Hm? You had enough?",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22245,
+"en": "Yeah. Thanks for inviting me along. I had a good time.",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22246,
+"en": "Yeah? Great to hear it! The fish you caught will only weigh you down, so I'll get them sent to your place later.",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22247,
+"en": "I must say, you're pretty good at fishing. I haven't been having much luck lately on my end.",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22248,
+"en": "In fact, I was just thinking about changing to a different spot.",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22249,
+"en": "You're welcome to tag along if you feel up to it.",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22250,
+"en": "Where are you headed next?",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22251,
+"en": "Out to sea. Sea fishing's my specialty!",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22252,
+"en": "Sea fishing? Right now? Huh, you don't mess around.",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22253,
+"en": "Hahaha, no, I sure don't! It's my policy to always act on something whenever I get the idea.",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22254,
+"en": "For example, I wanted to be a pilot when I was a kid, so I ended up joining the Air Self-Defense Force!",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22255,
+"en": "So you're a former self-defense official? What do you do for work now?",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22256,
+"en": "We'll get to that later. The name's Kimura, by the way. How about yourself?",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22257,
+"en": "I'm Suzuki. I drive a taxi here in town.",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22258,
+"en": "A taxi driver, huh? I take it you're off duty today?",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22259,
+"en": "Yeah, something like that.",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22260,
+"en": "Then what do you say, Suzuki-san? Want to come sea fishing? We can catch all sorts of fish out there, like tuna, flounder, and sea bream.",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22261,
+"en": "(Sea fishing? That could take a while, but it's not often I get a chance like this.)",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22262,
+"en": "Well, what's the verdict? You're welcome to fish here if you want. I could lend you a fishing rod and some bait.",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22263,
+"en": "(He's river fishing. I doubt there'd be many fish in there, though.)",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22264,
+"en": "Hmm? Can I help you?",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22265,
+"en": "Oh, I was just wondering if there's actually something to catch here.",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22266,
+"en": "There aren't many fish around, to be sure. But that doesn't mean there are none.",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22267,
+"en": "Can you tell me what the local fish are?",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22268,
+"en": "Carp, koi, and catfish mainly. There are also a few goby around.",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22269,
+"en": "That's more than I would've expected.",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22270,
+"en": "Hah, I guess so! I'm more of a sea fishing man myself, but there's nothing quite like taking a break here in one of the quieter corners of town.",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22271,
+"en": "How about you give it a try? We could do some fishing together if you want. I'd even lend you a fishing rod and some bait.",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22272,
+"en": "(Fishing, huh? Now that could be interesting.)",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22273,
+"en": "Okay, I'd like that. As long as it's not too much trouble, that is. Can I borrow that equipment you mentioned?",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22274,
+"en": "Whoops. I've got three pieces of bait to give you, but it doesn't look like you have room for them.",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22275,
+"en": "Okay, I'd like that. Hope it's not too much to ask.",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22276,
+"en": "Not at all! Come on over, then. No doubt you'll get plenty of fish if you're next to me!",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22277,
+"en": "No, I'd better pass for now. Sorry to bother you.",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22278,
+"en": "You sure? Well, you know where to find me if you change your mind.",
+"ctx": "diálogo uid000c0d9c"
+},
+{
+"id": 22279,
+"en": "Let's wrap up for now, Suzuki-san. How have you done so far?",
+"ctx": "diálogo uid000c0d9d"
+},
+{
+"id": 22280,
+"en": "I've caught one. How about you, Kimura-san?",
+"ctx": "diálogo uid000c0d9d"
+},
+{
+"id": 22281,
+"en": "I've caught two. How about you, Kimura-san?",
+"ctx": "diálogo uid000c0d9d"
+},
+{
+"id": 22282,
+"en": "I've caught three. How about you, Kimura-san?",
+"ctx": "diálogo uid000c0d9d"
+},
+{
+"id": 22283,
+"en": "Yeah? Same here. I guess that makes it a draw!",
+"ctx": "diálogo uid000c0d9d"
+},
+{
+"id": 22284,
+"en": "This was the most fun I've had in a while! Let me treat you to something for keeping me company here.",
+"ctx": "diálogo uid000c0d9d"
+},
+{
+"id": 22285,
+"en": "No luck at all. I haven't caught a thing.",
+"ctx": "diálogo uid000c0d9d"
+},
+{
+"id": 22286,
+"en": "I see. I got a few myself, so I guess I win for today.",
+"ctx": "diálogo uid000c0d9d"
+},
+{
+"id": 22287,
+"en": "Oh, I wouldn't want to impose.",
+"ctx": "diálogo uid000c0d9d"
+},
+{
+"id": 22288,
+"en": "You wouldn't be imposing! I'm only going to give you what we caught here!",
+"ctx": "diálogo uid000c0d9d"
+},
+{
+"id": 22289,
+"en": "I'll go fillet our catch over at my restaurant. It's in Nagasu, so I hope you'll stop by a bit.",
+"ctx": "diálogo uid000c0d9d"
+},
+{
+"id": 22290,
+"en": "You run a restaurant, Kimura-san?",
+"ctx": "diálogo uid000c0d9d"
+},
+{
+"id": 22291,
+"en": "That's right. I don't know if you've heard of it. It's called Sushi Zanmai.",
+"ctx": "diálogo uid000c0d9d"
+},
+{
+"id": 22292,
+"en": "We're open 24/7, all year round. They even call me the Tuna King down at the port.",
+"ctx": "diálogo uid000c0d9d"
+},
+{
+"id": 22293,
+"en": "The Tuna King? Hey, I know that name. So you're who that is.",
+"ctx": "diálogo uid000c0d9d"
+},
+{
+"id": 22294,
+"en": "One of my coworkers was talking about you. He was saying how Sushi Zanmai was run by some legendary Tuna King.",
+"ctx": "diálogo uid000c0d9d"
+},
+{
+"id": 22295,
+"en": "Hahahah! Well, that saves me the explanation! Okay, Suzuki-san. Let's head to my restaurant!",
+"ctx": "diálogo uid000c0d9d"
+},
+{
+"id": 22296,
+"en": "I'm not working today, so it's on the house!",
+"ctx": "diálogo uid000c0d9d"
+},
+{
+"id": 22297,
+"en": "River fishing is fun enough, but the sea's where I really like to be! I hope you have a blast, Suzuki-san!",
+"ctx": "diálogo uid000c0d9d"
+},
+{
+"id": 22298,
+"en": "I'm sure I will.",
+"ctx": "diálogo uid000c0d9d"
+},
+{
+"id": 22299,
+"en": "Okay, let's have a little contest. Make it a bit more interesting.",
+"ctx": "diálogo uid000c0d9d"
+},
+{
+"id": 22300,
+"en": "How about we see who can catch the most tuna?",
+"ctx": "diálogo uid000c0d9d"
+},
+{
+"id": 22301,
+"en": "Heh, all right then. I'll have you know this isn't my first time fishing at sea.",
+"ctx": "diálogo uid000c0d9d"
+},
+{
+"id": 22302,
+"en": "Then this should be good! I can use all the little tricks I've got up my sleeve! Feel free to use that bait I gave you.",
+"ctx": "diálogo uid000c0d9d"
+},
+{
+"id": 22303,
+"en": "You have three attempts to catch as many tuna as you can out at sea.",
+"ctx": "diálogo uid000c0d9d"
+},
+{
+"id": 22304,
+"en": "All ready to go, Suzuki-san! I made a seafood rice bowl from what we caught earlier. I hope you like it.",
+"ctx": "diálogo uid000c0d9e"
+},
+{
+"id": 22305,
+"en": "Heh, I feel a little guilty getting served by the owner of a famous sushi chain.",
+"ctx": "diálogo uid000c0d9e"
+},
+{
+"id": 22306,
+"en": "Hahahah! Don't you worry about that! We're fishing buddies now!",
+"ctx": "diálogo uid000c0d9e"
+},
+{
+"id": 22307,
+"en": "Just enjoy the delicate flavors and the thick, fatty textures of the seafood bowl I made you. It doesn't get fresher than this!",
+"ctx": "diálogo uid000c0d9e"
+},
+{
+"id": 22308,
+"en": "I'll dig in, then.",
+"ctx": "diálogo uid000c0d9e"
+},
+{
+"id": 22309,
+"en": "(...This is incredible! Made with fresh fish cut up right in front of me by the Tuna King himself! What a rare treat.)",
+"ctx": "diálogo uid000c0d9e"
+},
+{
+"id": 22310,
+"en": "How do you like it, Suzuki-san?",
+"ctx": "diálogo uid000c0d9e"
+},
+{
+"id": 22311,
+"en": "I'm almost speechless. It's perfect.",
+"ctx": "diálogo uid000c0d9e"
+},
+{
+"id": 22312,
+"en": "Yeah!? I thought you might say that!",
+"ctx": "diálogo uid000c0d9e"
+},
+{
+"id": 22313,
+"en": "See, I made this dish with the way you fish in mind.",
+"ctx": "diálogo uid000c0d9e"
+},
+{
+"id": 22314,
+"en": "You did?",
+"ctx": "diálogo uid000c0d9e + diálogo uid00690235 …"
+},
+{
+"id": 22315,
+"en": "Indeed. At first glance, one might think your fishing form unrefined, but a closer look reveals your fine control and raw power⑬the envy of any fisherman!",
+"ctx": "diálogo uid000c0d9e"
+},
+{
+"id": 22316,
+"en": "I just knew I had to capture that beauty in the form of sashimi on rice! I shall dub my new creation... the Dragon Seafood Bowl!",
+"ctx": "diálogo uid000c0d9e"
+},
+{
+"id": 22317,
+"en": "Seafood as raw as a dragon's strength... I guess that fits the dish pretty well.",
+"ctx": "diálogo uid000c0d9e"
+},
+{
+"id": 22318,
+"en": "It does, doesn't it? This'll be a hit! I'll add it to the Sushi Zanmai menu straightaway!",
+"ctx": "diálogo uid000c0d9e"
+},
+{
+"id": 22319,
+"en": "Just like that? Aren't you going to test it out or something first?",
+"ctx": "diálogo uid000c0d9e"
+},
+{
+"id": 22320,
+"en": "Nope! Like I told you, I always act on impulse⑬they're hardly ever wrong! And if they are, I'll own up to it! Besides, this is my way of saying thanks for the inspiration.",
+"ctx": "diálogo uid000c0d9e"
+},
+{
+"id": 22321,
+"en": "If I hadn't run into you, I'd probably still be at that river, wracking my brain for new menu ideas!",
+"ctx": "diálogo uid000c0d9e"
+},
+{
+"id": 22322,
+"en": "Heh, is that right? Then I'm glad I came by.",
+"ctx": "diálogo uid000c0d9e"
+},
+{
+"id": 22323,
+"en": "As am I, friend! You're always welcome to fish with me anytime.",
+"ctx": "diálogo uid000c0d9e"
+},
+{
+"id": 22324,
+"en": "Oh, and stop by the restaurant sometime! Sushi Zanmai would love to have you back!",
+"ctx": "diálogo uid000c0d9e"
+},
+{
+"id": 22325,
+"en": "The Dragon Seafood Bowl has been added to the menu\nat each branch of Sushi Zanmai.",
+"ctx": "diálogo uid000c0d9e"
+},
+{
+"id": 22326,
+"en": "I spent a fortune on UFO Catchers and came up empty. Is there some secret technique?",
+"ctx": "diálogo uid000c0d9f"
+},
+{
+"id": 22327,
+"en": "There's only one skill you need: charming a clerk into repositioning prizes so they're easy to grab.",
+"ctx": "diálogo uid000c0d9f"
+},
+{
+"id": 22328,
+"en": "That's just great.",
+"ctx": "diálogo uid000c0d9f"
+},
+{
+"id": 22329,
+"en": "Hey, Ta-chan. What do you say to that offer I made? I'd like you to work here and try to catch that pesky shoplifter.",
+"ctx": "diálogo uid000c0da1"
+},
+{
+"id": 22330,
+"en": "Sure. I'll give it a shot.",
+"ctx": "diálogo uid000c0da1"
+},
+{
+"id": 22331,
+"en": "Oh, yeah! You're the man. Can you hop on the register right away?",
+"ctx": "diálogo uid000c0da1"
+},
+{
+"id": 22332,
+"en": "Nah, I'll pass.",
+"ctx": "diálogo uid000c0da1 + diálogo uid0116013a"
+},
+{
+"id": 22333,
+"en": "You sure? Well, it was worth a shot.",
+"ctx": "diálogo uid000c0da1"
+},
+{
+"id": 22334,
+"en": "Hey, is everything cool? You look kinda down⑬I can tell\neven with that mask on.",
+"ctx": "diálogo uid000c0da1"
+},
+{
+"id": 22335,
+"en": "Oh, hi, Ta-chan. Yeah, we got shoplifter trouble. Some\npunk decided to use us as his personal pantry.",
+"ctx": "diálogo uid000c0da1"
+},
+{
+"id": 22336,
+"en": "He's been sneaking off with things like soda and snacks...\neven dirty magazines! And gets away with it. Every. Single.\nTime!",
+"ctx": "diálogo uid000c0da1"
+},
+{
+"id": 22337,
+"en": "Huh, sounds annoying. There sure are a lot of troublemakers out there!",
+"ctx": "diálogo uid000c0da1"
+},
+{
+"id": 22338,
+"en": "Speaking of trouble, guys like you shamelessly asking for expired bento boxes are about as much of a nuisance.",
+"ctx": "diálogo uid000c0da1"
+},
+{
+"id": 22339,
+"en": "Says you. You never give me any, even when I ask nicely.",
+"ctx": "diálogo uid000c0da1"
+},
+{
+"id": 22340,
+"en": "What do you expect? This isn't a soup kitchen.",
+"ctx": "diálogo uid000c0da1"
+},
+{
+"id": 22341,
+"en": "Besides, if I did give expired food away, who knows how many other freeloaders would catch on? There'd be no end to it.",
+"ctx": "diálogo uid000c0da1"
+},
+{
+"id": 22342,
+"en": "Sheesh, is this what I get for asking how you're doing?",
+"ctx": "diálogo uid000c0da1"
+},
+{
+"id": 22343,
+"en": "Ah, no, I didn't mean to blow up at you. I'm just stressed because of that stupid shoplifter.",
+"ctx": "diálogo uid000c0da1"
+},
+{
+"id": 22344,
+"en": "Yeah, but with the way you're circling around your store\nlike a hawk, customers will be too scared to come in.",
+"ctx": "diálogo uid000c0da1"
+},
+{
+"id": 22345,
+"en": "Unfortunately, right now, all our customers look like crooks to me.",
+"ctx": "diálogo uid000c0da1"
+},
+{
+"id": 22346,
+"en": "I know! Ta-chan, how would you like to take home an expired bento today?",
+"ctx": "diálogo uid000c0da1"
+},
+{
+"id": 22347,
+"en": "Huh? Really? Why the sudden change of heart?",
+"ctx": "diálogo uid000c0da1"
+},
+{
+"id": 22348,
+"en": "I was hoping I could get you to work here in return. Just for a while.",
+"ctx": "diálogo uid000c0da1"
+},
+{
+"id": 22349,
+"en": "Huh? Work? Like, you want me to man the counter?",
+"ctx": "diálogo uid000c0da1"
+},
+{
+"id": 22350,
+"en": "Yup. And, if you can, I'd like you to catch our shoplifter.",
+"ctx": "diálogo uid000c0da1"
+},
+{
+"id": 22351,
+"en": "Oh, now I get it.",
+"ctx": "diálogo uid000c0da1"
+},
+{
+"id": 22352,
+"en": "I just thought you looked like you could handle yourself in a fight. Besides, you're not all that busy, are you?",
+"ctx": "diálogo uid000c0da1"
+},
+{
+"id": 22353,
+"en": "What, I look like I'm always loitering around to you?",
+"ctx": "diálogo uid000c0da1"
+},
+{
+"id": 22354,
+"en": "That's exactly what I'm saying.",
+"ctx": "diálogo uid000c0da1"
+},
+{
+"id": 22355,
+"en": "...Yeah, you have a point.",
+"ctx": "diálogo uid000c0da1"
+},
+{
+"id": 22356,
+"en": "I'm serious, though. I really am in a bind here, and I could use all the help I can get.",
+"ctx": "diálogo uid000c0da1"
+},
+{
+"id": 22357,
+"en": "Even if the shoplifter doesn't show, I'll pay you for the time you work. And that's on top of the bento.",
+"ctx": "diálogo uid000c0da1"
+},
+{
+"id": 22358,
+"en": "(So he wants me to be a convenience store clerk? It's not a bad deal, what with the pay and the lunch.)",
+"ctx": "diálogo uid000c0da1"
+},
+{
+"id": 22359,
+"en": "What do you say, Ta-chan? Can you do it?",
+"ctx": "diálogo uid000c0da1"
+},
+{
+"id": 22360,
+"en": "I'm hungry. How about we drop in somewhere for a bite instead of eating at home?",
+"ctx": "diálogo uid000c0dab"
+},
+{
+"id": 22361,
+"en": "Okay, but it's not because you don't want to eat my cooking, is it?",
+"ctx": "diálogo uid000c0dab"
+},
+{
+"id": 22362,
+"en": "Uh... Of course not! Not at all! Ahaha...",
+"ctx": "diálogo uid000c0dab"
+},
+{
+"id": 22363,
+"en": "No one's gonna mind. C'mon, just a little. Real talk, where's the harm in just a drink or two?",
+"ctx": "diálogo uid000c0dae"
+},
+{
+"id": 22364,
+"en": "Did you forget that your poor wife banned you from drinking? Think of your health.",
+"ctx": "diálogo uid000c0dae"
+},
+{
+"id": 22365,
+"en": "No, don't side with that teetotaler! Just a little! She won't even know. C'mon! Come ooon!",
+"ctx": "diálogo uid000c0dae"
+},
+{
+"id": 22366,
+"en": "What are you, twelve?",
+"ctx": "diálogo uid000c0dae"
+},
+{
+"id": 22367,
+"en": "Sorry to keep ya waitin'! Here's yer order.",
+"ctx": "diálogo uid000c0dbd"
+},
+{
+"id": 22368,
+"en": "Thank you, my good man. Kudos to you, for making it across such a slick street.",
+"ctx": "diálogo uid000c0dbd"
+},
+{
+"id": 22369,
+"en": "If you wanna praise someone, it should be that delivery guy over there. I'm just helpin' him because of how dedicated he is to his job.",
+"ctx": "diálogo uid000c0dbd"
+},
+{
+"id": 22370,
+"en": "Ah, a true professional. Well, I'm sure this ramen will be all the tastier for it.",
+"ctx": "diálogo uid000c0dbd"
+},
+{
+"id": 22371,
+"en": "Heh, enjoy.",
+"ctx": "diálogo uid000c0dbd"
+},
+{
+"id": 22372,
+"en": "Huh? Oh, it's you, Suzuki-san.",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22373,
+"en": "Done for the day, Muramatsu-san?",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22374,
+"en": "Nope, not quite. Anyway, there something I can help you with?",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22375,
+"en": "Uh, not exactly, no. I just saw you there, and thought I'd say hello.",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22376,
+"en": "You sure? No ulterior motive whatsoever? Huh. You're a lot friendlier than I gave you credit for.",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22377,
+"en": "Like I said, I was just passing by, and...",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22378,
+"en": "You gotta be kidding me!",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22379,
+"en": "That you, Kiryu-san? Man, you're the last guy I expected to run into out here!",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22380,
+"en": "(Not good!)",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22381,
+"en": "Sure has been a while since you last swung by the club! You remember your old pal Yuya, right? From Stardust?",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22382,
+"en": "(How could I forget? He manages the number one host club in Kamurocho... So what's he doing out here!?)",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22383,
+"en": "You know this guy, Suzuki-san? And what's this whole \"Kiryu-san\" business?",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22384,
+"en": "Huh? Uh... Who's Suzuki-san?",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22385,
+"en": "(Of course Yuya wouldn't know I'm hiding my identity...)",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22386,
+"en": "You must have the wrong guy. My name is Suzuki.",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22387,
+"en": "How could I be wrong, Kiryu-san? I'd know you from a mile away.",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22388,
+"en": "It must just be a chance resemblance. They say there are always three others who look exactly like you, somewhere in the world.",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22389,
+"en": "Come on, Kiryu-san, stop messing around! You're not just pulling my leg?",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22390,
+"en": "Sorry to interrupt, but who are you?",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22391,
+"en": "Uh, I have to get going, Muramatsu-san.",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22392,
+"en": "Whoa, what's the rush? What about this guy you know here?",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22393,
+"en": "Guy I know? What guy?",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22394,
+"en": "Me, of course! What happened to you, man!?",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22395,
+"en": "Oh, would you look at the time. I'd better head in to work.",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22396,
+"en": "Work? Kiryu-san, don't tell me you work in some stuffy office now!",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22397,
+"en": "Say, who's this \"Kiryu-san\" you keep talking about?",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22398,
+"en": "Who's Kiryu-san, you ask? Only the Dragon of Dojima himself!",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22399,
+"en": "The Dragon of Dojima? Never heard of it. Can I ask who you are?",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22400,
+"en": "Oh, the name's Yuya. I work as a host in Tokyo. Me and Kiryu-san here go way back.",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22401,
+"en": "Anyway, I thought you were still in Okinawa, so it's strange running into you here. Small world, huh?",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22402,
+"en": "What's this all about, Suzuki-san? This Yuya fellow seems to think he knows you.",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22403,
+"en": "Of course I do. Tell him, Kiryu-san.",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22404,
+"en": "(I have to find a way out of this mess! What's my best move?)",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22405,
+"en": "Do I really look that much like this Kiryu-san guy you know?",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22406,
+"en": "Look like? C'mon, I know it's you.",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22407,
+"en": "No, you must have made some mistake. I've never heard of this mystery man you're talking about.",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22408,
+"en": "Enough already! I don't know any Kiryu-san, and I don't plan on listening to any more of your nonsense!",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22409,
+"en": "That's it! I'd know that voice anywhere... Nobody else has that commanding presence or power! If you're not Kazuma Kiryu, then I don't know who is!",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22410,
+"en": "For the last time, I'm Suzuki!",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22411,
+"en": "...I don't get it. Why're you trying so hard to avoid me?",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22412,
+"en": "(Damn it. What do I do now?)",
+"ctx": "diálogo uid000c0dbe"
+},
+{
+"id": 22413,
+"en": "Hey, Suzuki-san. You don't think this guy's... trying to scam you, do ya?",
+"ctx": "diálogo uid000c0dbe"
+}
+]

@@ -1,0 +1,84 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_taiko_gameover.par/texlist_0001/taiko_game_over_02",
+ "fuente": "segoeuib.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    138,
+    778,
+    671,
+    884
+   ],
+   "en": "That's all!",
+   "ocr": "That's all!",
+   "es": "¡Eso es todo!",
+   "fuente": "verdanab.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 520,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     4
+    ],
+    "brillo": null
+   },
+   "alto": 72,
+   "margen": 6
+  },
+  {
+   "caja": [
+    42,
+    920,
+    767,
+    996
+   ],
+   "en": "Thanks for playing!",
+   "ocr": "Thanks for playing!",
+   "es": "¡Gracias por jugar!",
+   "fuente": "verdanab.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 712,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     4
+    ],
+    "brillo": null
+   },
+   "alto": 62,
+   "margen": 6
+  }
+ ]
+}

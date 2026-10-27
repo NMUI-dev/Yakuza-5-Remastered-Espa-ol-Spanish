@@ -1,0 +1,94 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_chinchiro.par/texlist/2d_jm_mg_chinchiro",
+ "fuente": "timesbd.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    192,
+    0,
+    272,
+    32
+   ],
+   "en": "One-roll Triple",
+   "es": "Triple directo",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 74,
+   "alto": 17
+  },
+  {
+   "caja": [
+    352,
+    0,
+    512,
+    48
+   ],
+   "en": "One-roll Triple",
+   "es": "Triple directo",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 140
+  },
+  {
+   "caja": [
+    192,
+    32,
+    224,
+    64
+   ],
+   "en": "Odd",
+   "es": "Non",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 26,
+   "alto": 13
+  },
+  {
+   "caja": [
+    224,
+    32,
+    256,
+    64
+   ],
+   "en": "Even",
+   "es": "Par",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 26,
+   "alto": 13
+  },
+  {
+   "caja": [
+    0,
+    32,
+    190,
+    70
+   ],
+   "en": "Bk Pl Wn Ls T",
+   "es": "",
+   "dejar": true,
+   "nota": "abreviaturas en fichas de color; el juego las deja"
+  }
+ ]
+}

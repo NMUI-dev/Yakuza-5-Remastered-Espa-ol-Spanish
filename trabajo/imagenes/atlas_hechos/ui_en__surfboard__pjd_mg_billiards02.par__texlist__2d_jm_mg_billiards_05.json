@@ -1,0 +1,56 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_billiards02.par/texlist/2d_jm_mg_billiards_05",
+ "fuente": "times.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    0,
+    360,
+    96
+   ],
+   "en": "POINT!",
+   "es": "¡PUNTO!",
+   "fuente": "timesbi.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 350,
+   "alto": 57,
+   "estilo": {
+    "arriba": [
+     255,
+     240,
+     130
+    ],
+    "abajo": [
+     200,
+     120,
+     5
+    ],
+    "contorno": [
+     [
+      60,
+      35,
+      0
+     ],
+     2
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    0,
+    416,
+    528,
+    480
+   ],
+   "en": "S T A G E C L I F R D",
+   "es": "",
+   "dejar": true,
+   "nota": "letras sueltas (celdas de 48 px) con las que el juego compone STAGE CLEAR etc.; no hay letras para el español"
+  }
+ ]
+}

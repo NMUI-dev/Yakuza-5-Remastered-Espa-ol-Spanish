@@ -1,0 +1,117 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_bowling.par/texlist/2d_cf_mg_bowling_asc_shine",
+ "fuente": "impact.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    246,
+    80,
+    512,
+    182
+   ],
+   "en": "WIN",
+   "es": "GANAS",
+   "fuente": "georgiab.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 256,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     4
+    ],
+    "brillo": null
+   },
+   "alto": 80
+  },
+  {
+   "caja": [
+    0,
+    182,
+    352,
+    288
+   ],
+   "en": "LOSE",
+   "es": "PIERDES",
+   "fuente": "georgiab.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 340,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     4
+    ],
+    "brillo": null
+   },
+   "alto": 80
+  },
+  {
+   "caja": [
+    0,
+    0,
+    512,
+    80
+   ],
+   "en": "S T R I K E A",
+   "es": "",
+   "dejar": true,
+   "nota": "fichas de letras sueltas con las que el juego compone STRIKE/SPARE/CLEAR: intraducibles"
+  },
+  {
+   "caja": [
+    0,
+    80,
+    222,
+    161
+   ],
+   "en": "P C L",
+   "es": "",
+   "dejar": true,
+   "nota": "idem"
+  },
+  {
+   "caja": [
+    5,
+    437,
+    511,
+    512
+   ],
+   "en": "/10 Frames",
+   "es": "",
+   "dejar": true,
+   "nota": "'frame' es el término de bolos en español también; no hay letra slab pesada en el kit"
+  }
+ ],
+ "nota": "fable2: capa shine de 2d_cf_mg_bowling_asc. MISMAS cajas/fuente/alto/texto que ese json (fable1); solo cambia el estilo: silueta blanca (relleno y contorno blancos) = alfa de la capa de color."
+}

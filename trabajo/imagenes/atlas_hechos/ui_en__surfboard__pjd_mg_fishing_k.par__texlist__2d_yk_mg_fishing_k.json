@@ -1,0 +1,93 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_fishing_k.par/texlist/2d_yk_mg_fishing_k",
+ "fuente": "verdanaz.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    869,
+    0,
+    973,
+    30
+   ],
+   "en": "PRESS",
+   "es": "PRESIONA",
+   "fuente": "verdanaz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 102
+  },
+  {
+   "caja": [
+    259,
+    349,
+    431,
+    395
+   ],
+   "en": "HIT!",
+   "es": "¡PICA!",
+   "fuente": "verdanaz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 170,
+   "alto": 31
+  },
+  {
+   "caja": [
+    435,
+    349,
+    629,
+    395
+   ],
+   "en": "MISS!",
+   "es": "¡FALLO!",
+   "fuente": "verdanaz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 194
+  },
+  {
+   "caja": [
+    637,
+    349,
+    931,
+    395
+   ],
+   "en": "HOOKED!",
+   "es": "¡ENGANCHADO!",
+   "fuente": "verdanaz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 294
+  },
+  {
+   "caja": [
+    259,
+    396,
+    931,
+    443
+   ],
+   "en": "CONGRATULATIONS!",
+   "es": "¡FELICIDADES!",
+   "fuente": "verdanaz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 668
+  },
+  {
+   "caja": [
+    259,
+    464,
+    931,
+    511
+   ],
+   "en": "CONGRATULATIONS!",
+   "es": "¡FELICIDADES!",
+   "fuente": "verdanaz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 668
+  }
+ ]
+}

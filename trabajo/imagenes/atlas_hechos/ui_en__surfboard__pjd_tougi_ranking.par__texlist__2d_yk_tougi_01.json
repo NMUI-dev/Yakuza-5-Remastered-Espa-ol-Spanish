@@ -1,0 +1,595 @@
+{
+ "textura": "ui_en/surfboard/pjd_tougi_ranking.par/texlist/2d_yk_tougi_01",
+ "fuente": "times.ttf",
+ "margen": 0,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    456,
+    8,
+    740,
+    44
+   ],
+   "en": "Maximum Grand Prix",
+   "es": "GP Máximo",
+   "fuente": "times.ttf",
+   "alin": "centro",
+   "ancho_max": 278,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     120,
+     120,
+     120
+    ]
+   }
+  },
+  {
+   "caja": [
+    456,
+    58,
+    740,
+    95
+   ],
+   "en": "Twin Dragon Grand Prix",
+   "es": "GP Dragón Gemelo",
+   "fuente": "times.ttf",
+   "alin": "centro",
+   "ancho_max": 278,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     120,
+     120,
+     120
+    ]
+   }
+  },
+  {
+   "caja": [
+    456,
+    108,
+    740,
+    145
+   ],
+   "en": "Weapon Master Grand Prix",
+   "es": "GP Maestro de Armas",
+   "fuente": "times.ttf",
+   "alin": "centro",
+   "ancho_max": 278,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     120,
+     120,
+     120
+    ]
+   }
+  },
+  {
+   "caja": [
+    456,
+    157,
+    740,
+    195
+   ],
+   "en": "Street Fight Grand Prix",
+   "es": "GP Pelea Callejera",
+   "fuente": "times.ttf",
+   "alin": "centro",
+   "ancho_max": 278,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     120,
+     120,
+     120
+    ]
+   }
+  },
+  {
+   "caja": [
+    456,
+    207,
+    740,
+    243
+   ],
+   "en": "Limited Berserk",
+   "es": "Furia Limitada",
+   "fuente": "times.ttf",
+   "alin": "centro",
+   "ancho_max": 278,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     120,
+     120,
+     120
+    ]
+   }
+  },
+  {
+   "caja": [
+    456,
+    258,
+    740,
+    294
+   ],
+   "en": "Heat Bomber Grand Prix",
+   "es": "GP Bombardero Heat",
+   "fuente": "times.ttf",
+   "alin": "centro",
+   "ancho_max": 278,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     120,
+     120,
+     120
+    ]
+   }
+  },
+  {
+   "caja": [
+    456,
+    306,
+    740,
+    343
+   ],
+   "en": "Tag Team Match Info",
+   "es": "Info de combate en equipo",
+   "fuente": "times.ttf",
+   "alin": "centro",
+   "ancho_max": 278,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     120,
+     120,
+     120
+    ]
+   }
+  },
+  {
+   "caja": [
+    456,
+    358,
+    740,
+    394
+   ],
+   "en": "Individual Match Info",
+   "es": "Info de combate individual",
+   "fuente": "times.ttf",
+   "alin": "centro",
+   "ancho_max": 278,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     120,
+     120,
+     120
+    ]
+   }
+  },
+  {
+   "caja": [
+    456,
+    407,
+    740,
+    443
+   ],
+   "en": "Results",
+   "es": "Resultados",
+   "fuente": "times.ttf",
+   "alin": "centro",
+   "ancho_max": 278,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     120,
+     120,
+     120
+    ]
+   }
+  },
+  {
+   "caja": [
+    740,
+    8,
+    1024,
+    44
+   ],
+   "en": "King of Kings",
+   "es": "Rey de Reyes",
+   "fuente": "times.ttf",
+   "alin": "centro",
+   "ancho_max": 278,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     120,
+     120,
+     120
+    ]
+   }
+  },
+  {
+   "caja": [
+    740,
+    58,
+    1024,
+    95
+   ],
+   "en": "Deathmatch 100",
+   "es": "Duelo Mortal 100",
+   "fuente": "times.ttf",
+   "alin": "centro",
+   "ancho_max": 278,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     120,
+     120,
+     120
+    ]
+   }
+  },
+  {
+   "caja": [
+    740,
+    108,
+    1024,
+    145
+   ],
+   "en": "Breakout Grand Prix",
+   "es": "GP de Escape",
+   "fuente": "times.ttf",
+   "alin": "centro",
+   "ancho_max": 278,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     120,
+     120,
+     120
+    ]
+   }
+  },
+  {
+   "caja": [
+    740,
+    157,
+    1024,
+    195
+   ],
+   "en": "Legendary Arena Grand Prix",
+   "es": "GP Arena Legendaria",
+   "fuente": "times.ttf",
+   "alin": "centro",
+   "ancho_max": 278,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     120,
+     120,
+     120
+    ]
+   }
+  },
+  {
+   "caja": [
+    740,
+    207,
+    1024,
+    243
+   ],
+   "en": "Ranked Arena Grand Prix",
+   "es": "GP Arena Clasificatoria",
+   "fuente": "times.ttf",
+   "alin": "centro",
+   "ancho_max": 278,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     120,
+     120,
+     120
+    ]
+   }
+  },
+  {
+   "caja": [
+    456,
+    458,
+    912,
+    495
+   ],
+   "en": "Underground Coliseum Rankings",
+   "es": "Clasificación del Coliseo",
+   "fuente": "times.ttf",
+   "alin": "centro",
+   "ancho_max": 450,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     120,
+     120,
+     120
+    ]
+   }
+  },
+  {
+   "caja": [
+    740,
+    258,
+    912,
+    294
+   ],
+   "en": "Kazuma Kiryu",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    740,
+    306,
+    912,
+    343
+   ],
+   "en": "Taiga Saejima",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    740,
+    358,
+    912,
+    394
+   ],
+   "en": "Shun Akiyama",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    740,
+    407,
+    912,
+    443
+   ],
+   "en": "Tatsuo Shinada",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    965,
+    251,
+    1024,
+    276
+   ],
+   "en": "RANK",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    987,
+    268,
+    1024,
+    294
+   ],
+   "en": "PT",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    942,
+    292,
+    1024,
+    312
+   ],
+   "en": "Team Name",
+   "es": "Equipo",
+   "fuente": "times.ttf",
+   "alin": "centro",
+   "ancho_max": 80,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 10
+  },
+  {
+   "caja": [
+    960,
+    316,
+    1024,
+    338
+   ],
+   "en": "Name",
+   "es": "Nombre",
+   "fuente": "times.ttf",
+   "alin": "centro",
+   "ancho_max": 62,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 12
+  }
+ ],
+ "copiado_de": "ui_en__surfboard__pjd_tougi.par__texlist__2d_yk_tougi_01"
+}

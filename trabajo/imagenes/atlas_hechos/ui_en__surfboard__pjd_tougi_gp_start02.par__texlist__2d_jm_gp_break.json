@@ -1,0 +1,80 @@
+{
+ "textura": "ui_en/surfboard/pjd_tougi_gp_start02.par/texlist/2d_jm_gp_break",
+ "fuente": "Knewave-Regular.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    270,
+    44,
+    770,
+    129
+   ],
+   "en": "BREAKOUT",
+   "es": "GRAN PREMIO",
+   "fuente": "Knewave-Regular.ttf",
+   "alin": "centro",
+   "ancho_max": 490,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "alto": 73
+  },
+  {
+   "caja": [
+    260,
+    129,
+    780,
+    212
+   ],
+   "en": "GRAND PRIX",
+   "es": "DE ESCAPE",
+   "fuente": "Knewave-Regular.ttf",
+   "alin": "centro",
+   "ancho_max": 510,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     1
+    ],
+    "brillo": null
+   },
+   "alto": 73
+  }
+ ]
+}

@@ -1,0 +1,202 @@
+[
+{
+"id": 8511,
+"en": "Press <Action:Button_Cross@UI> to view your valuables up close. Valuables generally aren't treated as items, so they aren't included in your inventory. They also cannot be discarded or sold. Valuables include items important to the story and CDs used to change the background music.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8512,
+"en": "Some people on the street in each city will try to pick a fight with you. You'll know them because their speech will appear in <Color:255,200,200,255>red<Color:Default>. They are actively looking for someone to brawl with, so when you're not looking for a fight, keep an eye out and be careful not to get too close to them.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8513,
+"en": "You can walk by holding down <Action:Button_R1@Adventure> as you move. Walking makes it less likely that someone looking for a fight will single you out. Take advantage of this if you'd rather not get in a brawl, such as when your health is low, or when you're rushing to get to your destination. You can also avoid people looking for a fight by passing behind them.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8514,
+"en": "Substories are events that the protagonists can get caught up in by chance or be asked to help out with. Resolving them can earn you rewards and experience points. When such an event occurs, it is listed under Substories on the Pause Menu, so check there for more information.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8515,
+"en": "When viewing the Substory submenu on the Pause Menu, \"Resolved\" and \"Done\" marks are displayed to show you have completed a substory. They indicate whether the substory was fully completed or not, with \"Done\" usually indicating it did not have a satisfactory ending. A \"Done\" result still counts towards overall completion.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8516,
+"en": "You can eat and drink at eateries such as restaurants, bars, and coffee shops. Eating and drinking restores lost health. Having a meal also gives you experience points. Try a range of different cuisine on offer in each region.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8517,
+"en": "After learning the Gourmet in Training ability from Tatsuya, you can boost your health with a second Health Gauge. The first gauge is orange, and the second gauge is yellow. Have a meal at an eatery when your first health gauge is full to fill up the second Health Gauge. It is a good idea to have a meal before taking on more powerful foes.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8518,
+"en": "After learning the Gourmet in Training ability from Tatsuya, you can boost your abilities by eating. The following abilities can be boosted:\n- Strength: Boosts unarmed attacks (Haruka: Boosts dance battle points)\n- Focus: Heat Gauge stays above a certain point\n- Fighting Spirit: Boosts heat power (Haruka: Boosts Heat Gauge fill rate)\nYou can see which ability is boosted upon ordering.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8519,
+"en": "You can buy items at places such as convenience stores. Items include food that restores health and alcohol that makes you drunk. You can also buy items such as weapons and gear that aid you in combat.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8520,
+"en": "The target destination for the current storyline is shown on the map as a red circle. The target destination is updated based on your progress in the story, so be sure to keep an eye on the Map and Minimap. You will also hear an alert that sounds like a drop of water when you get close to the target destination.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8521,
+"en": "The menu at Pronto changes depending on the time of day. At night, you can enjoy alcoholic beverages and accompanying food in a bar atmosphere. In the daytime, the place transforms into a coffee house with a pasta-based menu.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8522,
+"en": "If you collide with ordinary people walking around town while running, you will stagger and lose control for a few seconds. When you are in a hurry, try to walk or avoid running into other people to prevent delays.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8523,
+"en": "There are a number of advantages and disadvantages to getting drunk by drinking alcohol at bars or from convenience stores. For example, your Heat Gauge builds up faster when attacking, and people are more likely to pick a fight with you around town. You can sober up by drinking coffee, taking medicine, etc., but try not to overdo the alcohol in the first place.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8524,
+"en": "If you drink alcohol and get drunk, you can sober up in the following ways:\n \n- Spending time fighting\n- Walking or running in adventure mode\n- Drinking coffee or taking supplements",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8525,
+"en": "You can get in and out of taxis at certain places in each city. Depending on your destination, taking a taxi may save you time. When necessary, you can also use a taxi to take you to areas outside the city. When you want to go somewhere not found on your current map, try going to a taxi stand.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8526,
+"en": "Once you reach the Finale, you can use a taxi to return to the cities each of the protagonists were in. It doesn't cost anything to travel between cities, so if you have any unfinished business, such as Side Stories or Substories, this gives you another chance to go back and complete them.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8527,
+"en": "Use <Action:Button_R3@Adventure> in adventure mode to switch to first-person perspective. In this mode, you see through the character's eyes, which might help you discover things you weren't aware of before. Be sure to try first-person perspective when you'd like to take a closer look at your surroundings.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8528,
+"en": "All lockers are already in use by someone and can't be used for their original purpose. The locker keys have been scattered all over the place, from the roadside to less conspicuous locations. It appears that whoever finds them has the right to take whatever that locker contains. Use <Action:Button_R3@Adventure> to switch to first-person perspective and track down the keys so you can claim the contents inside.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8529,
+"en": "Nagasu Taxi Co. is asking its employees to pick up garbage in order to give back to the community. When you see garbage lying around the city, be sure to pick it up. Picking up garbage raises your social commitment level, and when you hit certain levels, the company will reward you. You can check your current social commitment level on the whiteboard at Nagasu Taxi Co.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8530,
+"en": "Small fragments of treasure maps can be found scattered around Tsukimino. You can find out where treasures are hidden by collecting these scraps and completing the maps. Be sure to pick up any scraps that you find to locate the treasure.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8531,
+"en": "You may find prize tickets scattered around Kineicho. You can take part in the drawing by collecting these prize tickets. Fabulous prizes are up for grabs, so pick up any prize tickets you find and take them to the drawing booth.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8532,
+"en": "The following services are available at Naomi's Palace.\n1. Pick up item packs\n2. Pick up rewards for completion\nThese services are also available at convenience stores. Note that Haruka cannot receive certain items.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8533,
+"en": "While controlling Kiryu, talk to Haruka at New Serena to travel with her around the five cities and fulfill her requests. Kiryu is only able to travel to all five cities while performing requests for Haruka (when he has Haruka with him).",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8534,
+"en": "Hold <Action:Battle_Fight_Stance@Combat> to enter a Fighting Stance against an enemy. While in this stance, you are locked onto that enemy, making it easier to hit them with consecutive attacks. On the other hand, when surrounded, it may be better not to use a Fighting Stance so you can deal with attacks from behind.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8535,
+"en": "Press <Action:Battle_Drop_Weapon@Combat> to grab hold of an enemy. After grabbing an opponent, you have a number of options. Press <Action:Battle_Normal_Attack@Combat> to strike them, <Action:Battle_Heavy_Attack@Combat> to kick them away, and <Action:Battle_Drop_Weapon@Combat> to throw them. You can also press <Action:Battle_Guard@Combat> while grabbing an enemy to take hold of them from the other side. Enemies will work their way out of your grasp after a certain amount of time passes. Some moves change when you're next to stairs, walls, etc.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8536,
+"en": "Press <Action:Battle_Heavy_Attack@Combat> next to an enemy on the ground to perform a finishing move on them. Enemies are defenseless while lying prone, so finishing moves give you the upper hand. When you want to perform a finishing move without using Heat Actions, hold down <Action:Battle_Center_Camera@Combat> and press <Action:Battle_Heavy_Attack@Combat>.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8537,
+"en": "Hold <Action:Battle_Guard@Combat> to raise your guard. This protects you against all but the most powerful enemy and weapon attacks. When you have a weapon equipped, you can guard against the weapons of opponents, so using a weapon is one way to protect yourself against weapon-wielding enemies.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8538,
+"en": "Press <Action:Battle_Dodge@Combat> to perform an evasive maneuver. Use this together with <Action:Move_Forward@Combat><Action:Move_Back@Combat><Action:Move_Left@Combat><Action:Move_Right@Combat> to quickly move in a given direction. If you use Quickstep while in a Fighting Stance, you can circle around an enemy.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8539,
+"en": "Press <Action:Battle_Extreme_Heat@Combat> to perform a taunt. Certain abilities, gained through upgrades, can raise your Heat Gauge when taunting or enable Heat Actions only available when taunting.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8540,
+"en": "Use <Action:Turn_Camera_Up@Combat><Action:Turn_Camera_Down@Combat><Action:Turn_Camera_Left@Combat><Action:Turn_Camera_Right@Combat> to control the camera. When surrounded or pinned against a wall by enemies, rotating the camera to check your surroundings can be the key to victory. This could help you find a better place to fight or discover a weapon that can help you turn the tide.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8541,
+"en": " Press <Action:Battle_Hide_Weapon@Combat> to smoke a cigarette. Certain Heat Actions can only be triggered while smoking.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8542,
+"en": "Press <Action:Battle_Normal_Attack@Combat> to perform a Rush Combo. This triggers a series of moves based on the number of times you press it. If an enemy evades your attacks or you get yourself in trouble, it is sometimes better to fall back and survey the situation rather than randomly unleash Rush Combos.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8543,
+"en": "Press <Action:Battle_Heavy_Attack@Combat> during a Rush Combo to perform a Finishing Blow. Finishing Blows are powerful attacks that send an enemy flying. The form the attack takes depends on what level the Rush Combo is at when you trigger it. Each has unique characteristics, so use them as you see fit while fighting.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8544,
+"en": "Press <Action:Battle_Heavy_Attack@Combat> to launch a single powerful attack. The form the heavy attack takes depends on whether or not you are in a fighting stance. The attack will also change based on the situation, such as when pushing enemies up against a wall or flipping over enemies on the ground.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8545,
+"en": "Press the opposite direction you are facing and <Action:Battle_Normal_Attack@Combat> or <Action:Battle_Heavy_Attack@Combat> to perform a turning attack. This is useful when you want to attack an enemy behind you during a combo, etc. After pressing <Action:Battle_Normal_Attack@Combat> to perform a turning attack, you can press <Action:Battle_Normal_Attack@Combat> or <Action:Battle_Heavy_Attack@Combat> to lead into a combo.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8546,
+"en": "Press <Action:Battle_Heavy_Attack@Combat> while the Heat icon is displayed on the upper right corner of the screen to unleash a Heat Action. There are a variety of Heat Actions which change depending on the situation, but they are all powerful attacks. Using a Heat Action depletes the Heat Gauge by a certain amount, so hit enemies with Rush Combos to build it up again.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8547,
+"en": "Using Heat Actions builds up the Climax Heat Gauge surrounding the dragon mark on the upper left of the screen. You can trigger a Climax Heat Action when this gauge is full. When the red Heat icon appears, press <Action:Battle_Heavy_Attack@Combat> to unleash a Climax Heat Action. If you press the right buttons after triggering a Climax Heat Action, you can inflict more damage than with a regular Heat Action. Use it wisely.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8548,
+"en": "The Heat Gauge fills as you hit enemies with attacks. There are also many other ways of increasing the gauge, such as using abilities or items. Fill the gauge up so you can unleash Heat Actions. Note that the Heat Gauge depletes when you take damage from an enemy.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8549,
+"en": "After standard Heat Actions such as Essence of Finishing or Essence of Ground Slamming have been used a set number of times, new follow-up moves are added, allowing you to inflict more damage. Use these Heat Actions as often as you can to unlock the new moves.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+},
+{
+"id": 8550,
+"en": "When you are stunned, you cannot perform actions for a set amount of time. You recover when you take damage, but until then you are left completely defenseless. Take care when an enemy uses attacks or weapons that could stun you.",
+"ctx": "tabla tips_tutorial|TIPS_EXPLANATION"
+}
+]

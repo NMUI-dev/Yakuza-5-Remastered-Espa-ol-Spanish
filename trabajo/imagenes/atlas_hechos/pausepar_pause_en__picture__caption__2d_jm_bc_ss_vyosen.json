@@ -1,0 +1,38 @@
+{
+ "textura": "pausepar_pause_en/picture/caption/2d_jm_bc_ss_vyosen",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    199,
+    42,
+    827,
+    131
+   ],
+   "en": "VICTORY ROAD",
+   "ocr": "VICTORY ROAD",
+   "es": "CLASIFICATORIA DEL",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 624
+  },
+  {
+   "caja": [
+    284,
+    122,
+    743,
+    215
+   ],
+   "en": "QUALIFIER",
+   "ocr": "QUALIFIER",
+   "es": "VICTORY ROAD",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 455
+  }
+ ]
+}

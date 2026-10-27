@@ -1,0 +1,782 @@
+[
+{
+"id": 50288,
+"en": "(Taichi is still a bit of a rascal, unlike Koji, but he does act his age when it comes to looking after the younger kids.)",
+"ctx": "diálogo uid01330448"
+},
+{
+"id": 50289,
+"en": "(I remember wearing a wrestling mask to cheer him up once. He's been into masked wrestlers ever since.)",
+"ctx": "diálogo uid01330448"
+},
+{
+"id": 50290,
+"en": "(Come to think of it, he mentioned wanting a replica mask once. You can get them for around 10,000 yen.)",
+"ctx": "diálogo uid01330448"
+},
+{
+"id": 50291,
+"en": "(I'll send 10,000 yen for Taichi.)",
+"ctx": "diálogo uid01330448"
+},
+{
+"id": 50292,
+"en": "(Riona's probably the trendiest kid at Morning Glory. She likes fashion and talked about going to Tokyo one day.)",
+"ctx": "diálogo uid01330448"
+},
+{
+"id": 50293,
+"en": "(Okay, first up is Izumi.)",
+"ctx": "diálogo uid01330448"
+},
+{
+"id": 50294,
+"en": "(No point doing this in Kamurocho...)",
+"ctx": "diálogo uid01330449 + diálogo uid0133044a …"
+},
+{
+"id": 50295,
+"en": "(No, this isn't for me.)",
+"ctx": "diálogo uid01330449 + diálogo uid0133044a …"
+},
+{
+"id": 50296,
+"en": "(Hmm... The Easy Game is 300 yen. Maybe I should give it a try.)",
+"ctx": "diálogo uid01330449"
+},
+{
+"id": 50297,
+"en": "(Okay. Let's give it a go.)",
+"ctx": "diálogo uid01330449 + diálogo uid0133044a …"
+},
+{
+"id": 50298,
+"en": "(No. Not now.)",
+"ctx": "diálogo uid01330449 + diálogo uid0133044a …"
+},
+{
+"id": 50299,
+"en": "Press <Action:Button_Cross@Battingcenter> at the right time to hit the balls pitched by the pitching machine. Hit the targets to earn points.",
+"ctx": "diálogo uid01330449 + diálogo uid0133044a …"
+},
+{
+"id": 50300,
+"en": "There are four targets in the Easy Game. Each target will grant the same number of points, but once a target is hit, it will not be restored until all the remaining targets are also hit.",
+"ctx": "diálogo uid01330449"
+},
+{
+"id": 50301,
+"en": "Use <Action:Button_LS_Up@Battingcenter><Action:Button_LS_Down@Battingcenter><Action:Button_LS_Left@Battingcenter><Action:Button_LS_Right@Battingcenter> to aim your shot. If you aim well enough, you can hit multiple targets at once and earn that many times the points.",
+"ctx": "diálogo uid01330449 + diálogo uid0133044a"
+},
+{
+"id": 50302,
+"en": "Once you hit all the targets, a bonus target will appear. However, you only get one chance to hit it. The bonus target disappears after one pitch, whether you hit it or not. Take careful aim!",
+"ctx": "diálogo uid01330449 + diálogo uid0133044a"
+},
+{
+"id": 50303,
+"en": "(One Easy Game is 300 yen. I don't have enough money, though...)",
+"ctx": "diálogo uid01330449"
+},
+{
+"id": 50304,
+"en": "(Hmm... The Normal Game is 300 yen. Maybe I should give it a try.)",
+"ctx": "diálogo uid0133044a"
+},
+{
+"id": 50305,
+"en": "There are five targets in the Normal Game. Each target will grant the same number of points, but once a target is hit, it will not be restored until all the remaining targets are also hit.",
+"ctx": "diálogo uid0133044a"
+},
+{
+"id": 50306,
+"en": "(One Normal Game is 300 yen, but I don't have enough money...)",
+"ctx": "diálogo uid0133044a"
+},
+{
+"id": 50307,
+"en": "(The Academic Course is 300 yen. Should I give it a go?)",
+"ctx": "diálogo uid0133044b"
+},
+{
+"id": 50308,
+"en": "A math question will appear on the targets. After a short amount of time, numbers will appear in its place. Press <Action:Button_Cross@Battingcenter> at  the right time to hit the ball into the correct panel.",
+"ctx": "diálogo uid0133044b"
+},
+{
+"id": 50309,
+"en": "You can also hit multiple targets at once. If one of the panels is the correct answer, you get the question right. If you're not sure of the answer, try to hit multiple targets simultaneously to increase your chances of success.",
+"ctx": "diálogo uid0133044b"
+},
+{
+"id": 50310,
+"en": "There are five questions in all. After you correctly answer three, you'll be rewarded with a special treat after each correct answer. Try to get all five questions right!",
+"ctx": "diálogo uid0133044b"
+},
+{
+"id": 50311,
+"en": "(The Academic Course is 300 yen, but I don't have that much on me...)",
+"ctx": "diálogo uid0133044b"
+},
+{
+"id": 50312,
+"en": "(The Extra Course is 300 yen. Should I give it a go?)",
+"ctx": "diálogo uid0133044c"
+},
+{
+"id": 50313,
+"en": "There are two types of plates. Green plates can be broken in one hit. Red plates turn green when hit⑬meaning they must be hit twice to break.",
+"ctx": "diálogo uid0133044c"
+},
+{
+"id": 50314,
+"en": "After every three hits on a plate, you will trigger a Bomb Chance. For one pitch,  a special, explosive ball will be thrown your way. When it hits, it will blow up and shatter any plate within their blast radius, even red plates!",
+"ctx": "diálogo uid0133044c"
+},
+{
+"id": 50315,
+"en": "Use multi-plate hits and Bomb Chance to destroy all the plates as quickly as possible!",
+"ctx": "diálogo uid0133044c"
+},
+{
+"id": 50316,
+"en": "(The Extra Course is 300 yen, but I can't afford it right now... Bummer.)",
+"ctx": "diálogo uid0133044c"
+},
+{
+"id": 50317,
+"en": "Can we try that photo booth? This one has some great frames! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid0133044f"
+},
+{
+"id": 50318,
+"en": "What did y'even call me out for? Ya meanie!",
+"ctx": "diálogo uid0133044f"
+},
+{
+"id": 50319,
+"en": "Really!? Why'd ya even ask me out?",
+"ctx": "diálogo uid0133044f"
+},
+{
+"id": 50320,
+"en": "What? You called me all the way out here and now we're not even going to take pictures? I should have just stayed in bed!",
+"ctx": "diálogo uid0133044f"
+},
+{
+"id": 50321,
+"en": "Oh, I don't think we did a good job on these.",
+"ctx": "diálogo uid0133044f"
+},
+{
+"id": 50322,
+"en": "What's the meaning of this? You made me come all the way out here, and we're not even going to take any pictures?",
+"ctx": "diálogo uid0133044f"
+},
+{
+"id": 50323,
+"en": "That was quite fun! I'll be heading back to Tokyo now. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid0133044f"
+},
+{
+"id": 50324,
+"en": "That was loads of fun! Please ask me out again sometime! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid0133044f + diálogo uid01330746 …"
+},
+{
+"id": 50325,
+"en": "Sorry to keep ya waitin'! <Color:255,200,200,255>⑮<Color:Default> So, ya wanted t'do the photo booth with me, Kiryu-san?",
+"ctx": "diálogo uid0133044f"
+},
+{
+"id": 50326,
+"en": "Sorry for the wait! This was so outta the blue, Akiyama-san. So, ya wanna take some photo booth pics with me, huh?",
+"ctx": "diálogo uid0133044f"
+},
+{
+"id": 50327,
+"en": "Apologies for the delay, Shinada-san! This was just so out of the blue. Are you that eager for me to join you in the photo booth?",
+"ctx": "diálogo uid0133044f"
+},
+{
+"id": 50328,
+"en": "But this thing has frames that are exclusive to Kineicho! I <Italic>had</Italic> to have you come here!",
+"ctx": "diálogo uid0133044f"
+},
+{
+"id": 50329,
+"en": "(This is Elise, the cabaret club I own.)",
+"ctx": "diálogo uid01330484"
+},
+{
+"id": 50330,
+"en": "(I wonder if Miyu's here. I should ask her about that thing Saida-san wanted.)",
+"ctx": "diálogo uid01330484"
+},
+{
+"id": 50331,
+"en": "(Elise, huh? Isn't this the club that Akiyama-san owns? Either way, I probably shouldn't be here.)",
+"ctx": "diálogo uid01330484"
+},
+{
+"id": 50332,
+"en": "(Here I am at Elise. I can't just barge in, though. I should hit up an adult entertainment info booth first.)",
+"ctx": "diálogo uid01330484"
+},
+{
+"id": 50333,
+"en": "(I hope Riku's hanging in there okay. I'll come back when the club's in better shape.)",
+"ctx": "diálogo uid01330484"
+},
+{
+"id": 50334,
+"en": "(This is Akiyama's club. I should introduce him to Riku.)",
+"ctx": "diálogo uid01330484"
+},
+{
+"id": 50335,
+"en": "(Elise, huh? I think this is the club Akiyama owns.)",
+"ctx": "diálogo uid01330484"
+},
+{
+"id": 50336,
+"en": "(But right now, I have to put business before pleasure. I'll come back later.)",
+"ctx": "diálogo uid01330484"
+},
+{
+"id": 50337,
+"en": "(Elise, huh? This must be the place Akiyama owns. Maybe I oughta find somewhere else to get my kicks.)",
+"ctx": "diálogo uid01330484"
+},
+{
+"id": 50338,
+"en": "(Elise, huh? Wonder if Kaguya's workin' hard and all. Well, no news is good news, as they say.)",
+"ctx": "diálogo uid01330484"
+},
+{
+"id": 50339,
+"en": "(I oughta come back when I'm by myself.)",
+"ctx": "diálogo uid01330484 + diálogo uid01330485"
+},
+{
+"id": 50340,
+"en": "(This here's Akiyama's club, yeah? I should introduce Kaguya to him.)",
+"ctx": "diálogo uid01330484"
+},
+{
+"id": 50341,
+"en": "(Club Elise. Hmm. Much as I'd like to take a load off, I should probably focus on other things. Maybe later in Kineicho?)",
+"ctx": "diálogo uid01330484"
+},
+{
+"id": 50342,
+"en": "(Well, this is Elise. I'm worried about Shion-chan, but better not bother her right now.)",
+"ctx": "diálogo uid01330484"
+},
+{
+"id": 50343,
+"en": "(Maybe I should come back here when I'm alone.)",
+"ctx": "diálogo uid01330484 + diálogo uid01330486"
+},
+{
+"id": 50344,
+"en": "(This is Akiyama-san's club, right? I should set him up with Shion-chan.)",
+"ctx": "diálogo uid01330484"
+},
+{
+"id": 50345,
+"en": "(This is my cabaret club, Elise.)",
+"ctx": "diálogo uid01330484"
+},
+{
+"id": 50346,
+"en": "(Business is finally looking up again. I don't need to poke my nose into things right now.)",
+"ctx": "diálogo uid01330484"
+},
+{
+"id": 50347,
+"en": "(Maybe I'll come back when I'm alone.)",
+"ctx": "diálogo uid01330484"
+},
+{
+"id": 50348,
+"en": "(I've done everything that I can. Now I've just gotta wait to see how things go with Kiryu-san and Hinata.)",
+"ctx": "diálogo uid01330484"
+},
+{
+"id": 50349,
+"en": "(I'll come back once this mess is settled.)",
+"ctx": "diálogo uid01330484"
+},
+{
+"id": 50350,
+"en": "(All right, let's introduce Honoka-chan.)",
+"ctx": "diálogo uid01330484"
+},
+{
+"id": 50351,
+"en": "(I've been so busy with stuff in Osaka lately. I should pop in and check on things.)",
+"ctx": "diálogo uid01330484"
+},
+{
+"id": 50352,
+"en": "(Rose Hip's a cabaret club. If anyone saw me in a place like this, it'd make a big scene.)",
+"ctx": "diálogo uid01330485"
+},
+{
+"id": 50353,
+"en": "(Oh yeah, Kaguya's in Kamurocho right now. She'll be back once Akiyama's place is on its feet again. No reason to come here until then.)",
+"ctx": "diálogo uid01330485"
+},
+{
+"id": 50354,
+"en": "(I convinced Kaguya to go to Tokyo. I should stop by Elise when I head back to Kamurocho.)",
+"ctx": "diálogo uid01330485"
+},
+{
+"id": 50355,
+"en": "(Right, Akiyama was lookin' for girls who're ready to work his club. Not sure if it's her thing, but I oughta ask Kaguya.)",
+"ctx": "diálogo uid01330485"
+},
+{
+"id": 50356,
+"en": "(Rose Hip⑬a cabaret club. Instead of bargin' in, I should get a hook up from an adult entertainment info booth.)",
+"ctx": "diálogo uid01330485"
+},
+{
+"id": 50357,
+"en": "(Rose Hip's a cabaret club. Tempting, but I should avoid distractions for now.)",
+"ctx": "diálogo uid01330485"
+},
+{
+"id": 50358,
+"en": "(Rose Hip's a cabaret club. As fun as it might be, I should fight the urge for right now.)",
+"ctx": "diálogo uid01330485"
+},
+{
+"id": 50359,
+"en": "(Rose Hip's a cabaret club. Man, I'd love to check it out, but I'd better not.)",
+"ctx": "diálogo uid01330485"
+},
+{
+"id": 50360,
+"en": "(Rose Hip's a cabaret club. If anyone saw me in a place like this, it'd cause a big scene.)",
+"ctx": "diálogo uid01330485"
+},
+{
+"id": 50361,
+"en": "(Club Eden. A cabaret club⑬ and a really expensive-looking one, at that. Not that it really matters to me.)",
+"ctx": "diálogo uid01330486"
+},
+{
+"id": 50362,
+"en": "(I can't visit a place like this right now!)",
+"ctx": "diálogo uid01330486"
+},
+{
+"id": 50363,
+"en": "(Wow, this place looks real fancy. I can't go in here just yet.)",
+"ctx": "diálogo uid01330486"
+},
+{
+"id": 50364,
+"en": "(Shion-chan is in Kamurocho, isn't she? Once her gig at Elise is over, maybe she'll be back. Until then, I don't need to go here.)",
+"ctx": "diálogo uid01330486"
+},
+{
+"id": 50365,
+"en": "(Okay, so I talked Shion-chan into coming with me to Tokyo. I should go to Elise once I get back to Kamurocho.)",
+"ctx": "diálogo uid01330486"
+},
+{
+"id": 50366,
+"en": "(Oh yeah, Akiyama-san asked me to look for some new girls to work at his club. Maybe Shion-chan's interested?)",
+"ctx": "diálogo uid01330486"
+},
+{
+"id": 50367,
+"en": "(Club Eden is a cabaret club. Instead of just going on inside, I should check out an adult entertainment info booth first.)",
+"ctx": "diálogo uid01330486"
+},
+{
+"id": 50368,
+"en": "(Club Eden's a cabaret club. Tempting, but I should avoid distractions for now.)",
+"ctx": "diálogo uid01330486"
+},
+{
+"id": 50369,
+"en": "(Club Eden is a cabaret club. As fun as it might be, I should fight the urge for right now.)",
+"ctx": "diálogo uid01330486"
+},
+{
+"id": 50370,
+"en": "(Club Eden's a cabaret club. It's a waste of time for me to go to a bunch of different clubs. Gotta focus on just one place.)",
+"ctx": "diálogo uid01330486"
+},
+{
+"id": 50371,
+"en": "(Huh? It's out of order. That's not the biggest issue, though. I'm supposed to report back to Coach Igarashi about fishing. Better not keep him waiting.)",
+"ctx": "diálogo uid01330487"
+},
+{
+"id": 50372,
+"en": "(Coach Igarashi said to get three homers out of ten pitches on Beginner Course, Random Pitches.)",
+"ctx": "diálogo uid01330487"
+},
+{
+"id": 50373,
+"en": "(But that'll have to wait.)",
+"ctx": "diálogo uid01330487 + diálogo uid01330488"
+},
+{
+"id": 50374,
+"en": "(Coach Igarashi said to hit three homers out of ten pitches on the Beginner Course, Random Pitches.)",
+"ctx": "diálogo uid01330487"
+},
+{
+"id": 50375,
+"en": "(Playing the Beginner Course with Random Pitches costs 300 yen. Should I give it a go?)",
+"ctx": "diálogo uid01330487"
+},
+{
+"id": 50376,
+"en": "(Oops. I'm too broke.)",
+"ctx": "diálogo uid01330487 + diálogo uid01330488 …"
+},
+{
+"id": 50377,
+"en": "(Okay, let's get her done.)",
+"ctx": "diálogo uid01330487"
+},
+{
+"id": 50378,
+"en": "(Nope. Not now.)",
+"ctx": "diálogo uid01330487 + diálogo uid01330488 …"
+},
+{
+"id": 50379,
+"en": "(The Beginner Course costs 300 yen to play. Looks like it's got a selection of training menus. Should I go for it?)",
+"ctx": "diálogo uid01330487"
+},
+{
+"id": 50380,
+"en": "(Okay, let's get her done. Which course should I go for?)",
+"ctx": "diálogo uid01330487"
+},
+{
+"id": 50381,
+"en": "(The level's too high. It's a bit more than I can handle now.)",
+"ctx": "diálogo uid01330487 + diálogo uid01330488 …"
+},
+{
+"id": 50382,
+"en": "(Coach Igarashi said to get three homers out of fifteen pitches on the Intermediate Course.)",
+"ctx": "diálogo uid01330488"
+},
+{
+"id": 50383,
+"en": "(Coach Igarashi said to get three homers out of fifteen pitches on the Intermediate Course using only a specific swing.)",
+"ctx": "diálogo uid01330488"
+},
+{
+"id": 50384,
+"en": "(The Intermediate Course costs 300 yen to play. Should I go for it?)",
+"ctx": "diálogo uid01330488"
+},
+{
+"id": 50385,
+"en": "(Okay, let's smack some balls.)",
+"ctx": "diálogo uid01330488 + diálogo uid01330489"
+},
+{
+"id": 50386,
+"en": "(The Advanced Course costs 300 yen to play. Should I give it a go?)",
+"ctx": "diálogo uid01330489"
+},
+{
+"id": 50387,
+"en": "(The Mission Course costs 300 yen to play. Should I go for it?)",
+"ctx": "diálogo uid0133048a"
+},
+{
+"id": 50388,
+"en": "(All right. Let's do this.)",
+"ctx": "diálogo uid0133048a + diálogo uid0133048c"
+},
+{
+"id": 50389,
+"en": "(Sawada... Nope. Not in the mood for this now.)",
+"ctx": "diálogo uid0133048b"
+},
+{
+"id": 50390,
+"en": "(The Sawada Course costs 300 yen to play. Should I go for it?)",
+"ctx": "diálogo uid0133048b"
+},
+{
+"id": 50391,
+"en": "(It's out of order...)",
+"ctx": "diálogo uid0133048c"
+},
+{
+"id": 50392,
+"en": "(Nope. Out of order.)",
+"ctx": "diálogo uid0133048c"
+},
+{
+"id": 50393,
+"en": "(Looks like it's busted.)",
+"ctx": "diálogo uid0133048c"
+},
+{
+"id": 50394,
+"en": "(Huh. It's broken.)",
+"ctx": "diálogo uid0133048c"
+},
+{
+"id": 50395,
+"en": "(Oh. It's out of order.)",
+"ctx": "diálogo uid0133048c"
+},
+{
+"id": 50396,
+"en": "(The Challenge Course costs 300 yen to play. Should I give it a try?)",
+"ctx": "diálogo uid0133048c"
+},
+{
+"id": 50397,
+"en": "(This is the perfect place to do some fishing. Maybe I should put a line out for a bit.)",
+"ctx": "diálogo uid01330490 + diálogo uid013309ba"
+},
+{
+"id": 50398,
+"en": "Uncle Kaz! I want to see you catch an <Color:8>oarfish<Color:Default>!",
+"ctx": "diálogo uid01330490"
+},
+{
+"id": 50399,
+"en": "(Hmm. Looks like Haruka wants me to catch an <Color:8>oarfish<Color:Default>.)",
+"ctx": "diálogo uid01330490"
+},
+{
+"id": 50400,
+"en": "Oh, okay. Maybe next time?",
+"ctx": "diálogo uid01330490 + diálogo uid01330526"
+},
+{
+"id": 50401,
+"en": "(Okay, here goes.)",
+"ctx": "diálogo uid01330490 + diálogo uid01330526"
+},
+{
+"id": 50402,
+"en": "I wonder if it would go for a <Color:8>Catnip Stick<Color:Default> or <Color:8>1-2-3 Gum<Color:Default>?",
+"ctx": "diálogo uid01330490"
+},
+{
+"id": 50403,
+"en": "(I don't have anything I can use for bait.)",
+"ctx": "diálogo uid01330490 + diálogo uid013309ba"
+},
+{
+"id": 50404,
+"en": "(This is a good spot to do some fishing. Maybe I'll stop and fish for a while.)",
+"ctx": "diálogo uid01330490 + diálogo uid013309ba"
+},
+{
+"id": 50405,
+"en": "(Okay, let's give it a try.)",
+"ctx": "diálogo uid01330490 + diálogo uid01330518 …"
+},
+{
+"id": 50406,
+"en": "(I think I'll pass after all.)",
+"ctx": "diálogo uid01330490 + diálogo uid013309ba"
+},
+{
+"id": 50407,
+"en": "(This is a fine spot to do some fishin'. Maybe I'll stop and fish for a bit.)",
+"ctx": "diálogo uid01330490 + diálogo uid013309ba"
+},
+{
+"id": 50408,
+"en": "(All right, I'm gonna get me some fish.)",
+"ctx": "diálogo uid01330490 + diálogo uid013309ba"
+},
+{
+"id": 50409,
+"en": "(Guess I'll pass for now.)",
+"ctx": "diálogo uid01330490 + diálogo uid01330522 …"
+},
+{
+"id": 50410,
+"en": "(I ain't got any bait on me.)",
+"ctx": "diálogo uid01330490 + diálogo uid013309ba"
+},
+{
+"id": 50411,
+"en": "(Nah, guess I'll pass for now.)",
+"ctx": "diálogo uid01330490 + diálogo uid013309ba"
+},
+{
+"id": 50412,
+"en": "(Okay, I'll give it a go.)",
+"ctx": "diálogo uid01330490 + diálogo uid013309ba"
+},
+{
+"id": 50413,
+"en": "(I guess I'll pass for now.)",
+"ctx": "diálogo uid01330490 + diálogo uid013309ba"
+},
+{
+"id": 50414,
+"en": "(I haven't got any bait to use.)",
+"ctx": "diálogo uid01330490 + diálogo uid013309ba"
+},
+{
+"id": 50415,
+"en": "(No, I think I'll pass.)",
+"ctx": "diálogo uid01330490 + diálogo uid013309ba"
+},
+{
+"id": 50416,
+"en": "That's fine. We hope you'll come again soon.",
+"ctx": "diálogo uid0133049c"
+},
+{
+"id": 50417,
+"en": "Say, buddy, got a minute?",
+"ctx": "diálogo uid013304ac"
+},
+{
+"id": 50418,
+"en": "The name's Takamine. Every now and again, I'll have a little challenge with the local batters. Call it a hobby of mine.",
+"ctx": "diálogo uid013304ac"
+},
+{
+"id": 50419,
+"en": "So, want to square off? There's money in it for you, if you hold up.",
+"ctx": "diálogo uid013304ac"
+},
+{
+"id": 50420,
+"en": "I'm always down for money. You're a pitcher, I take it?",
+"ctx": "diálogo uid013304ac"
+},
+{
+"id": 50421,
+"en": "Yep. So here's how it works. You get one at bat, and all you need to do is hit a single pitch to win. Easy, right?",
+"ctx": "diálogo uid013304ac"
+},
+{
+"id": 50422,
+"en": "You know... I'll pass. Baseball and betting don't mix, in my opinion. Hope you can find someone else.",
+"ctx": "diálogo uid013304ac"
+},
+{
+"id": 50423,
+"en": "Oh, come on, don't say that... Tatsuo Shinada.",
+"ctx": "diálogo uid013304ac"
+},
+{
+"id": 50424,
+"en": "Who are you and how do you know me?",
+"ctx": "diálogo uid013304ac"
+},
+{
+"id": 50425,
+"en": "Oh, well, that would be because I'm a hired gun. Sent by Shirakawa-san.",
+"ctx": "diálogo uid013304ac"
+},
+{
+"id": 50426,
+"en": "Shirakawa put you up to this? What for?",
+"ctx": "diálogo uid013304ac"
+},
+{
+"id": 50427,
+"en": "I'll tell you if you can beat me. Now whip out that wallet and let's get to it!",
+"ctx": "diálogo uid013304ac"
+},
+{
+"id": 50428,
+"en": "How much are we asking?",
+"ctx": "diálogo uid013304ac"
+},
+{
+"id": 50429,
+"en": "Aw, 50,000 yen should do it.",
+"ctx": "diálogo uid013304ac"
+},
+{
+"id": 50430,
+"en": "Yow! That's way too much! Fifty grand for one at bat? Give me a break!",
+"ctx": "diálogo uid013304ac"
+},
+{
+"id": 50431,
+"en": "Gahaha! Relax, relax. I already got my cut from Shirakawa-san. So you can play for free.",
+"ctx": "diálogo uid013304ac"
+},
+{
+"id": 50432,
+"en": "Oh... sheesh. You scared me for a minute.",
+"ctx": "diálogo uid013304ac"
+},
+{
+"id": 50433,
+"en": "Well, what's it gonna be? You taking the challenge? Win and it's fifty grand for you, plus a lil vignette about Shirakawa-san. Not a bad deal, I'd say.",
+"ctx": "diálogo uid013304ac"
+},
+{
+"id": 50434,
+"en": "All right, then. Challenge accepted.",
+"ctx": "diálogo uid013304ac"
+},
+{
+"id": 50435,
+"en": "'Course it is. How could you refuse? Let's get this show started.",
+"ctx": "diálogo uid013304ac"
+},
+{
+"id": 50436,
+"en": "I gotta warn you. No one's tagged me for a hit in ages. Hope you can handle the heat.",
+"ctx": "diálogo uid013304ac"
+},
+{
+"id": 50437,
+"en": "Oh, you might just be surprised.",
+"ctx": "diálogo uid013304ac"
+},
+{
+"id": 50438,
+"en": "I like that answer! Here goes!",
+"ctx": "diálogo uid013304ac"
+},
+{
+"id": 50439,
+"en": "Look, if you wanna take me on, you gotta have at least fifty grand to your name, buddy boy.",
+"ctx": "diálogo uid013304ac"
+},
+{
+"id": 50440,
+"en": "(Dang. Can't afford this at all.)",
+"ctx": "diálogo uid013304ac"
+},
+{
+"id": 50441,
+"en": "What the⑬!? How in the haystack did you hit that?",
+"ctx": "diálogo uid013304ac"
+},
+{
+"id": 50442,
+"en": "I know, right? Not a lot of pros can fire out breaking balls with that kind of impunity. An amateur wouldn't stand a chance against you.",
+"ctx": "diálogo uid013304ac"
+},
+{
+"id": 50443,
+"en": "Heh, thanks for noticing. I should congratulate you, then.",
+"ctx": "diálogo uid013304ac"
+}
+]

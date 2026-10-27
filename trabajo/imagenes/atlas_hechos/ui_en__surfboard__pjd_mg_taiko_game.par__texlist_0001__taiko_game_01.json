@@ -1,0 +1,68 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_taiko_game.par/texlist_0001/taiko_game_01",
+ "fuente": "segoeuib.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    596,
+    8,
+    1000,
+    60
+   ],
+   "en": "From the New World",
+   "es": "",
+   "dejar": true,
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 400
+  },
+  {
+   "caja": [
+    596,
+    70,
+    1000,
+    122
+   ],
+   "en": "Mappy Medley",
+   "es": "",
+   "dejar": true,
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 400
+  },
+  {
+   "caja": [
+    596,
+    132,
+    1020,
+    184
+   ],
+   "en": "Nijiiro Yumeiro Taikoiro",
+   "es": "",
+   "dejar": true,
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 420
+  },
+  {
+   "caja": [
+    42,
+    750,
+    71,
+    864
+   ],
+   "en": "ハズレなし",
+   "es": "",
+   "dejar": true,
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 29
+  }
+ ]
+}

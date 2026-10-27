@@ -1,0 +1,131 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_darts_01_2",
+ "fuente": "verdana.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    372,
+    16,
+    640,
+    50
+   ],
+   "en": "01 GAME RULE",
+   "es": "REGLAS DEL JUEGO 01",
+   "fuente": "verdana.ttf",
+   "alin": "centro",
+   "ancho_max": 262,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "margen": 0
+  },
+  {
+   "caja": [
+    416,
+    172,
+    630,
+    267
+   ],
+   "en": "BUST",
+   "ocr": "BUST",
+   "es": "PASARSE",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 210
+  },
+  {
+   "caja": [
+    407,
+    366,
+    621,
+    398
+   ],
+   "en": "Game Overview",
+   "es": "Resumen del juego",
+   "fuente": "verdana.ttf",
+   "alin": "centro",
+   "ancho_max": 210,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "margen": 0
+  },
+  {
+   "caja": [
+    160,
+    408,
+    860,
+    442
+   ],
+   "en": "Going below zero is known as \"going bust.\"",
+   "es": "Quedar por debajo de cero se conoce como \"pasarse\".",
+   "fuente": "verdana.ttf",
+   "alin": "centro",
+   "ancho_max": 694,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "margen": 0
+  },
+  {
+   "caja": [
+    163,
+    117,
+    276,
+    174
+   ],
+   "en": "DARTS (logo)",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    301,
+    285,
+    334,
+    306
+   ],
+   "en": "Player",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    374,
+    309,
+    450,
+    331
+   ],
+   "en": "SINGLE 20",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    661,
+    286,
+    729,
+    304
+   ],
+   "en": "Susumu Yamagata",
+   "es": "",
+   "dejar": true
+  }
+ ]
+}

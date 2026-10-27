@@ -1,0 +1,38 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_kh02",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    27,
+    164,
+    274,
+    226
+   ],
+   "en": "Welcome to",
+   "ocr": "Welcome to",
+   "es": "Bienvenido a",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 243
+  },
+  {
+   "caja": [
+    274,
+    179,
+    480,
+    236
+   ],
+   "en": "Kamurocho",
+   "ocr": "Kamurocho",
+   "es": "Kamurocho",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 202
+  }
+ ]
+}

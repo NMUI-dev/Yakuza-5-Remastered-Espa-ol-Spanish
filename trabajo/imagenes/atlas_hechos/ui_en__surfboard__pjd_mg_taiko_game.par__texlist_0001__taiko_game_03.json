@@ -1,0 +1,330 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_taiko_game.par/texlist_0001/taiko_game_03",
+ "fuente": "segoeuib.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    204,
+    35,
+    310,
+    74
+   ],
+   "en": "Combo",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 102,
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    80,
+    417,
+    230,
+    453
+   ],
+   "en": "Drum Roll!",
+   "es": "¡Redoble!",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 146,
+   "color": [
+    70,
+    35,
+    0
+   ],
+   "fondo": "lama",
+   "alto": 22
+  },
+  {
+   "caja": [
+    0,
+    496,
+    122,
+    519
+   ],
+   "en": "DRUM ROLL",
+   "es": "REDOBLE",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 118,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    205,
+    497,
+    292,
+    540
+   ],
+   "en": "BAD",
+   "es": "MAL",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 83
+  },
+  {
+   "caja": [
+    22,
+    521,
+    84,
+    549
+   ],
+   "en": "Drum",
+   "es": "¡Toca",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 58,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 15
+  },
+  {
+   "caja": [
+    103,
+    521,
+    165,
+    549
+   ],
+   "en": "Roll!",
+   "es": "rápido!",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 58,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 15
+  },
+  {
+   "caja": [
+    0,
+    560,
+    144,
+    592
+   ],
+   "en": "pts.",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "der",
+   "ancho_max": 140
+  },
+  {
+   "caja": [
+    130,
+    560,
+    252,
+    600
+   ],
+   "en": "GOOD",
+   "es": "BIEN",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 118
+  },
+  {
+   "caja": [
+    256,
+    560,
+    384,
+    640
+   ],
+   "en": "OK",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 124
+  },
+  {
+   "caja": [
+    770,
+    570,
+    830,
+    600
+   ],
+   "en": "Don",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 56,
+   "dejar": true
+  },
+  {
+   "caja": [
+    890,
+    570,
+    940,
+    600
+   ],
+   "en": "Ka",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 46,
+   "dejar": true
+  },
+  {
+   "caja": [
+    750,
+    606,
+    854,
+    634
+   ],
+   "en": "Do",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 100,
+   "dejar": true
+  },
+  {
+   "caja": [
+    895,
+    604,
+    935,
+    640
+   ],
+   "en": "Ka",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 36,
+   "dejar": true
+  },
+  {
+   "caja": [
+    768,
+    640,
+    1024,
+    656
+   ],
+   "en": "Ko KA",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 252,
+   "dejar": true
+  },
+  {
+   "caja": [
+    482,
+    670,
+    944,
+    690
+   ],
+   "en": "DON",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 458,
+   "dejar": true
+  },
+  {
+   "caja": [
+    637,
+    840,
+    695,
+    862
+   ],
+   "en": "CLEAR",
+   "es": "META",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 54,
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "fondo": "lama",
+   "alto": 15,
+   "dejar": true
+  },
+  {
+   "caja": [
+    707,
+    904,
+    762,
+    926
+   ],
+   "en": "CLEAR",
+   "es": "META",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 51,
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "fondo": "lama",
+   "alto": 15,
+   "dejar": true
+  },
+  {
+   "caja": [
+    777,
+    970,
+    836,
+    990
+   ],
+   "en": "CLEAR",
+   "es": "META",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 55,
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "fondo": "lama",
+   "alto": 15,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1,
+    997,
+    61,
+    1020
+   ],
+   "en": "CLEAR",
+   "es": "META",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 56,
+   "dejar": true
+  }
+ ]
+}

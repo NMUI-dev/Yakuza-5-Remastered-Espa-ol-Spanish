@@ -1,0 +1,658 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_taxi_mission.par/pjd_sstory_taxi_mission_texlist/2d_jm_taxi_mission",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    0,
+    32,
+    96,
+    48
+   ],
+   "en": "Race Missions",
+   "es": "Carreras",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 94
+  },
+  {
+   "caja": [
+    0,
+    48,
+    96,
+    64
+   ],
+   "en": "Taxi Missions",
+   "es": "Misiones taxi",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 94
+  },
+  {
+   "caja": [
+    0,
+    64,
+    96,
+    80
+   ],
+   "en": "Free Missions",
+   "es": "Modo libre",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 94
+  },
+  {
+   "caja": [
+    0,
+    80,
+    96,
+    96
+   ],
+   "en": "Mission Info",
+   "es": "Info de misión",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 94
+  },
+  {
+   "caja": [
+    0,
+    96,
+    96,
+    112
+   ],
+   "en": "Customization 1",
+   "es": "Personalizar 1",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 94
+  },
+  {
+   "caja": [
+    0,
+    112,
+    96,
+    128
+   ],
+   "en": "Customization 2",
+   "es": "Personalizar 2",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 94
+  },
+  {
+   "caja": [
+    0,
+    128,
+    96,
+    144
+   ],
+   "en": "Mission List",
+   "es": "Lista de misiones",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 94
+  },
+  {
+   "caja": [
+    0,
+    144,
+    96,
+    160
+   ],
+   "en": "Select Mode",
+   "es": "Elige un modo",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 94
+  },
+  {
+   "caja": [
+    0,
+    160,
+    96,
+    176
+   ],
+   "en": "Speed",
+   "es": "Velocidad",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 94
+  },
+  {
+   "caja": [
+    0,
+    176,
+    96,
+    192
+   ],
+   "en": "Acceleration",
+   "es": "Aceleración",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 94
+  },
+  {
+   "caja": [
+    0,
+    192,
+    96,
+    208
+   ],
+   "en": "Handling",
+   "es": "Manejo",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 94
+  },
+  {
+   "caja": [
+    96,
+    160,
+    144,
+    176
+   ],
+   "en": "Music",
+   "es": "Música",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 46
+  },
+  {
+   "caja": [
+    52,
+    0,
+    152,
+    12
+   ],
+   "en": "Nagasu Taxi Co.",
+   "es": "Taxis Nagasu",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 96
+  },
+  {
+   "caja": [
+    240,
+    0,
+    352,
+    32
+   ],
+   "en": "Missions",
+   "es": "Misiones",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 108
+  },
+  {
+   "caja": [
+    352,
+    0,
+    512,
+    32
+   ],
+   "en": "Customization",
+   "es": "Personalizar",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 158
+  },
+  {
+   "caja": [
+    224,
+    32,
+    288,
+    64
+   ],
+   "en": "Tires",
+   "es": "Ruedas",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 60,
+   "mediana": false
+  },
+  {
+   "caja": [
+    288,
+    32,
+    352,
+    64
+   ],
+   "en": "Turbo",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 60,
+   "dejar": true
+  },
+  {
+   "caja": [
+    352,
+    32,
+    431,
+    64
+   ],
+   "en": "Tuning",
+   "es": "Ajustes",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 76
+  },
+  {
+   "caja": [
+    432,
+    44,
+    475,
+    57
+   ],
+   "en": "LEVEL",
+   "es": "NIVEL",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 42
+  },
+  {
+   "caja": [
+    224,
+    64,
+    400,
+    96
+   ],
+   "en": "Driver Level",
+   "es": "Nivel de conductor",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "izq",
+   "ancho_max": 170,
+   "mediana": false
+  },
+  {
+   "caja": [
+    400,
+    64,
+    424,
+    80
+   ],
+   "en": "PT",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 20,
+   "dejar": true
+  },
+  {
+   "caja": [
+    176,
+    160,
+    288,
+    179
+   ],
+   "en": "Semi-Racing",
+   "es": "Semicarrera",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 108
+  },
+  {
+   "caja": [
+    288,
+    160,
+    400,
+    179
+   ],
+   "en": "Pure Sports",
+   "es": "Deportivas",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 108
+  },
+  {
+   "caja": [
+    400,
+    160,
+    512,
+    179
+   ],
+   "en": "Normal Tires",
+   "es": "Normales",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 108
+  },
+  {
+   "caja": [
+    176,
+    179,
+    288,
+    198
+   ],
+   "en": "Twin Turbo",
+   "es": "Turbo doble",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 108
+  },
+  {
+   "caja": [
+    288,
+    179,
+    400,
+    198
+   ],
+   "en": "Hyper Turbo",
+   "es": "Hiperturbo",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 108
+  },
+  {
+   "caja": [
+    400,
+    179,
+    512,
+    198
+   ],
+   "en": "Normal Turbo",
+   "es": "Turbo normal",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 108
+  },
+  {
+   "caja": [
+    176,
+    198,
+    288,
+    217
+   ],
+   "en": "Type A",
+   "es": "Tipo A",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "der",
+   "ancho_max": 108
+  },
+  {
+   "caja": [
+    288,
+    198,
+    400,
+    217
+   ],
+   "en": "Type B",
+   "es": "Tipo B",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "der",
+   "ancho_max": 108
+  },
+  {
+   "caja": [
+    400,
+    198,
+    512,
+    217
+   ],
+   "en": "Type C",
+   "es": "Tipo C",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "der",
+   "ancho_max": 108
+  },
+  {
+   "caja": [
+    306,
+    220,
+    345,
+    235
+   ],
+   "en": "MAX",
+   "es": "MÁX",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 37
+  },
+  {
+   "caja": [
+    176,
+    226,
+    248,
+    250
+   ],
+   "en": "Chassis",
+   "es": "Chasis",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 68
+  },
+  {
+   "caja": [
+    256,
+    239,
+    352,
+    255
+   ],
+   "en": "NEXT LEVEL",
+   "es": "SIG. NIVEL",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 92
+  },
+  {
+   "caja": [
+    40,
+    243,
+    93,
+    252
+   ],
+   "en": "LOADING",
+   "es": "CARGANDO",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alin": "centro",
+   "ancho_max": 51
+  }
+ ]
+}

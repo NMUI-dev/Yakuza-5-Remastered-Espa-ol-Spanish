@@ -1,0 +1,862 @@
+[
+{
+"id": 47903,
+"en": "Oh, that could be fun! I'll have to get myself out there as soon as possible! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid0111079c"
+},
+{
+"id": 47904,
+"en": "Maybe you can start by going to wherever that old lady was trying to get to?",
+"ctx": "diálogo uid0111079c"
+},
+{
+"id": 47905,
+"en": "Good idea! I've been curious about it myself ever since! I'll be sure to learn the way so I can give people directions next time!",
+"ctx": "diálogo uid0111079c"
+},
+{
+"id": 47906,
+"en": "Did you come to Kamurocho much before you started working here?",
+"ctx": "diálogo uid011107a4"
+},
+{
+"id": 47907,
+"en": "Oh yeah. I'd come here to sing karaoke a lot.",
+"ctx": "diálogo uid011107a4"
+},
+{
+"id": 47908,
+"en": "You came all the way from Saitama just for karaoke?",
+"ctx": "diálogo uid011107a4"
+},
+{
+"id": 47909,
+"en": "This was always the easiest place for my online friends to meet up, so we'd wind up gathering here.",
+"ctx": "diálogo uid011107a4"
+},
+{
+"id": 47910,
+"en": "My local friends would never come all the way out here.",
+"ctx": "diálogo uid011107a4"
+},
+{
+"id": 47911,
+"en": "Online friends? I suppose that's pretty typical these days, isn't it?",
+"ctx": "diálogo uid011107a4"
+},
+{
+"id": 47912,
+"en": "In sheer numbers, I have way more online friends than I do from school.",
+"ctx": "diálogo uid011107a4"
+},
+{
+"id": 47913,
+"en": "So because of that, Kamurocho is less of a nightlife spot and more where I hang out during the day.",
+"ctx": "diálogo uid011107a4"
+},
+{
+"id": 47914,
+"en": "That's unusual. Kamurocho is the city that never sleeps. I think most folks would consider it a nightlife spot.",
+"ctx": "diálogo uid011107a4"
+},
+{
+"id": 47915,
+"en": "Since I work nights in the club, I don't go out drinking much at night. But after I get off work, I might go early in the morning.",
+"ctx": "diálogo uid011107a4"
+},
+{
+"id": 47916,
+"en": "I see. You're more of a resident of the neighborhood than a visitor, so I suppose it's natural you'd have a different perspective.",
+"ctx": "diálogo uid011107a4"
+},
+{
+"id": 47917,
+"en": "You're a nighttime sort of guy, aren't you, Kiryu-san?",
+"ctx": "diálogo uid011107a4"
+},
+{
+"id": 47918,
+"en": "I am. I like strolling through the busy streets, bathed in bright neon lights. I don't get the same energy from the sparse daytime crowds.",
+"ctx": "diálogo uid011107a4"
+},
+{
+"id": 47919,
+"en": "I get you. When night comes around, more people like you come out to the streets! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid011107a4"
+},
+{
+"id": 47920,
+"en": "That's one way to put it.",
+"ctx": "diálogo uid011107a4"
+},
+{
+"id": 47921,
+"en": "The nightlife is good, too. Men have the hostesses, women have the hosts. Are you into hosts?",
+"ctx": "diálogo uid011107a4"
+},
+{
+"id": 47922,
+"en": "I've seen them a few times, but it's never really gone well.",
+"ctx": "diálogo uid011107a4"
+},
+{
+"id": 47923,
+"en": "Oh? Why's that?",
+"ctx": "diálogo uid011107a4 + diálogo uid01340021"
+},
+{
+"id": 47924,
+"en": "I guess lots of guys who are hosts are really narcissistic.",
+"ctx": "diálogo uid011107a4"
+},
+{
+"id": 47925,
+"en": "I mean, I like a guy that's hot and all, but not if they're the kind who act like they're cooler than everyone else.",
+"ctx": "diálogo uid011107a4"
+},
+{
+"id": 47926,
+"en": "You prefer a man who's humble?",
+"ctx": "diálogo uid011107a4"
+},
+{
+"id": 47927,
+"en": "Yeah, exactly. That's why I prefer to go to bars with hot bartenders, rather than host clubs.",
+"ctx": "diálogo uid011107a4"
+},
+{
+"id": 47928,
+"en": "There's got to be places like that around here somewhere. You should go look for them.",
+"ctx": "diálogo uid011107a4"
+},
+{
+"id": 47929,
+"en": "Times have changed. Back in my day, this wasn't the sort of place where respectable people would hang out so casually.",
+"ctx": "diálogo uid011107a4"
+},
+{
+"id": 47930,
+"en": "Really? When did that start to change?",
+"ctx": "diálogo uid011107a4"
+},
+{
+"id": 47931,
+"en": "I wonder. I was away for a long time, so I don't know much about what happened during my absence.",
+"ctx": "diálogo uid011107a4"
+},
+{
+"id": 47932,
+"en": "Oh, right. You moved to Okinawa, didn't you?",
+"ctx": "diálogo uid011107a4"
+},
+{
+"id": 47933,
+"en": "No, that was much more recent. I'm talking about a time much farther in my past.",
+"ctx": "diálogo uid011107a4"
+},
+{
+"id": 47934,
+"en": "Hey, are you keeping secrets from me?",
+"ctx": "diálogo uid011107a4"
+},
+{
+"id": 47935,
+"en": "I'll just say, there was a time when I was away from Kamurocho for ten years. After all that time, it's natural for the town to have changed.",
+"ctx": "diálogo uid011107a4"
+},
+{
+"id": 47936,
+"en": "Hey, not so fast! You can't just dodge the question like that!",
+"ctx": "diálogo uid011107a4"
+},
+{
+"id": 47937,
+"en": "You know, I've been fascinated with hostesses since I was little. My grade school graduation essay was even about how I dreamed of becoming one in the future.",
+"ctx": "diálogo uid011107a5"
+},
+{
+"id": 47938,
+"en": "Since you were a little girl? Weren't you a bit young to know about that?",
+"ctx": "diálogo uid011107a5"
+},
+{
+"id": 47939,
+"en": "No way, I saw stuff about it on TV all the time! Honestly, I never really gave much thought to any other line of work.",
+"ctx": "diálogo uid011107a5"
+},
+{
+"id": 47940,
+"en": "Then that means you're already living the dream, doesn't it?",
+"ctx": "diálogo uid011107a5"
+},
+{
+"id": 47941,
+"en": "Yeah, exactly! I put together a résumé, went in for an interview, and that was that. It was almost too easy!",
+"ctx": "diálogo uid011107a5"
+},
+{
+"id": 47942,
+"en": "Hmm. But is it really a dream if you didn't have to do anything difficult to get it? I guess it might still be.",
+"ctx": "diálogo uid011107a5"
+},
+{
+"id": 47943,
+"en": "But then you've got your whole life ahead of you, without anything to work for.",
+"ctx": "diálogo uid011107a5"
+},
+{
+"id": 47944,
+"en": "That's why, at least for now, I'm aiming to be the number one girl at the club.",
+"ctx": "diálogo uid011107a5"
+},
+{
+"id": 47945,
+"en": "It's good to have goals. People can't grow if they never challenge themselves.",
+"ctx": "diálogo uid011107a5"
+},
+{
+"id": 47946,
+"en": "Right! Hey, while we're at it, do you want me to set a goal for you, Kiryu-san?",
+"ctx": "diálogo uid011107a5"
+},
+{
+"id": 47947,
+"en": "A goal for me? What does that mean?",
+"ctx": "diálogo uid011107a5"
+},
+{
+"id": 47948,
+"en": "That means you're going to help me become the number one girl! How's that sound?",
+"ctx": "diálogo uid011107a5"
+},
+{
+"id": 47949,
+"en": "Don't be ridiculous. It's your job to make me want to do that.",
+"ctx": "diálogo uid011107a5"
+},
+{
+"id": 47950,
+"en": "But you <Italic>do</Italic> still want me to become number one, don't you?",
+"ctx": "diálogo uid011107a5"
+},
+{
+"id": 47951,
+"en": "Not really...",
+"ctx": "diálogo uid011107a5"
+},
+{
+"id": 47952,
+"en": "Aw, come on. Everyone needs goals in life, right? I think you're better off helping me out than you are doing nothing.",
+"ctx": "diálogo uid011107a5"
+},
+{
+"id": 47953,
+"en": "Hm. I suppose that is the sort of perseverance you need to make your dreams come true.",
+"ctx": "diálogo uid011107a5"
+},
+{
+"id": 47954,
+"en": "You should aim higher. A goal like that is hardly worth shooting for.",
+"ctx": "diálogo uid011107a5"
+},
+{
+"id": 47955,
+"en": "What? How come?",
+"ctx": "diálogo uid011107a5"
+},
+{
+"id": 47956,
+"en": "Because you'll probably become the number one girl at this club in no time. And then what will you do?",
+"ctx": "diálogo uid011107a5"
+},
+{
+"id": 47957,
+"en": "Hahaha! Oh, that's silly. You haven't known me long enough to drop that kind of line!",
+"ctx": "diálogo uid011107a5"
+},
+{
+"id": 47958,
+"en": "It's not flattery. I really do believe that.",
+"ctx": "diálogo uid011107a5"
+},
+{
+"id": 47959,
+"en": "Well, I guess if it seems that easy to you, it's bound to happen. Maybe I really should pick something more difficult.",
+"ctx": "diálogo uid011107a5"
+},
+{
+"id": 47960,
+"en": "There's nothing wrong with that goal, but don't limit yourself to just that. It's better to try lots of different things.",
+"ctx": "diálogo uid011107a5"
+},
+{
+"id": 47961,
+"en": "You're right. I'll have to think of other goals to go after!",
+"ctx": "diálogo uid011107a5"
+},
+{
+"id": 47962,
+"en": "Is that all? Why was that what you decided to shoot for?",
+"ctx": "diálogo uid011107a5"
+},
+{
+"id": 47963,
+"en": "I mean, I'm a hostess, after all. Isn't that a normal thing for me to want?",
+"ctx": "diálogo uid011107a5"
+},
+{
+"id": 47964,
+"en": "But that's what every hostess wants. You get a higher ranking just by being good at your job, and the longer you do it the better you naturally get.",
+"ctx": "diálogo uid011107a5"
+},
+{
+"id": 47965,
+"en": "Isn't there something else that you've dreamed of? Something that's more personal to you?",
+"ctx": "diálogo uid011107a5"
+},
+{
+"id": 47966,
+"en": "I mean, not really. But isn't it kinda wrong to think about my next goal before I even reach my current one?",
+"ctx": "diálogo uid011107a5"
+},
+{
+"id": 47967,
+"en": "Think of it this way. You've got short, medium, and long-term goals. Hitting number one should be part of that bigger goal.",
+"ctx": "diálogo uid011107a5"
+},
+{
+"id": 47968,
+"en": "Oh, I don't need all that. If my dreams don't come true, then they don't come true. It doesn't have to be more complicated than that.",
+"ctx": "diálogo uid011107a5"
+},
+{
+"id": 47969,
+"en": "Hmph. I would have thought you'd be more passionate about this kind of thing, but I guess I was wrong.",
+"ctx": "diálogo uid011107a5"
+},
+{
+"id": 47970,
+"en": "Have you already been out drinking today?",
+"ctx": "diálogo uid011107bc"
+},
+{
+"id": 47971,
+"en": "No, I'm just heading out now.",
+"ctx": "diálogo uid011107bc"
+},
+{
+"id": 47972,
+"en": "I see! Well, I'm sure you'll like this place!",
+"ctx": "diálogo uid011107bc"
+},
+{
+"id": 47973,
+"en": "Is there a hostess you'd recommend?",
+"ctx": "diálogo uid011107bc"
+},
+{
+"id": 47974,
+"en": "I'm not sure if she's working today, but there's a girl named Riku-chan who comes highly praised.",
+"ctx": "diálogo uid011107bc"
+},
+{
+"id": 47975,
+"en": "Riku, huh?",
+"ctx": "diálogo uid011107bc"
+},
+{
+"id": 47976,
+"en": "Born and raised right here in Hakata! She's very sociable and enjoys nice, friendly conversation.",
+"ctx": "diálogo uid011107bc"
+},
+{
+"id": 47977,
+"en": "She might seem like she's got it together, but she's not perfect. I think she'd appreciate it if you were supportive when you talk to her.",
+"ctx": "diálogo uid011107bc"
+},
+{
+"id": 47978,
+"en": "In addition, her blood type is B, and she's a twenty-year-old Cancer! I don't know what sort of things she likes, but you can probably find out by talking to her.",
+"ctx": "diálogo uid011107bc"
+},
+{
+"id": 47979,
+"en": "You seem to know quite a bit about her.",
+"ctx": "diálogo uid011107bc"
+},
+{
+"id": 47980,
+"en": "I actually visited her once, myself.",
+"ctx": "diálogo uid011107bc"
+},
+{
+"id": 47981,
+"en": "So you have the most accurate information, then.",
+"ctx": "diálogo uid011107bc"
+},
+{
+"id": 47982,
+"en": "Of course! I can hardly recommend a girl to a customer without first-hand experience!",
+"ctx": "diálogo uid011107bc"
+},
+{
+"id": 47983,
+"en": "Where are you in town from, sir?",
+"ctx": "diálogo uid011107dc"
+},
+{
+"id": 47984,
+"en": "Tokyo.",
+"ctx": "diálogo uid011107dc + diálogo uid01340003"
+},
+{
+"id": 47985,
+"en": "Tokyo, really? I'm from Tokyo myself, actually.",
+"ctx": "diálogo uid011107dc"
+},
+{
+"id": 47986,
+"en": "Oh yeah? What're ya doin' in Tsukimino, then?",
+"ctx": "diálogo uid011107dc"
+},
+{
+"id": 47987,
+"en": "Well... it's something of a delicate subject. I'll just say, certain things kept me from sticking around Honshu.",
+"ctx": "diálogo uid011107dc"
+},
+{
+"id": 47988,
+"en": "Uh, I'll change the subject. What sorta club are ya takin' me to? The girls there any good?",
+"ctx": "diálogo uid011107dc"
+},
+{
+"id": 47989,
+"en": "I'm not sure what your tastes are, sir, but personally, I would recommend Kaguya-chan.",
+"ctx": "diálogo uid011107dc"
+},
+{
+"id": 47990,
+"en": "Kaguya, eh?",
+"ctx": "diálogo uid011107dc"
+},
+{
+"id": 47991,
+"en": "(Kaguya's the same girl that Himura recommended, right?)",
+"ctx": "diálogo uid011107dc"
+},
+{
+"id": 47992,
+"en": "Oh, yes! She's pin-up girl material, with a real dynamite body! Just wait 'til you set your eyes on her melons, hehehe.",
+"ctx": "diálogo uid011107dc"
+},
+{
+"id": 47993,
+"en": "She also can come off as kind of lackadaisical, but she's actually really smart and a snappy conversationalist. She's pretty popular with the older men.",
+"ctx": "diálogo uid011107dc"
+},
+{
+"id": 47994,
+"en": "Lackawhatsical?",
+"ctx": "diálogo uid011107dc"
+},
+{
+"id": 47995,
+"en": "I'll just say, she takes things at her own pace, and it's probably not worth trying to lecture her about it.",
+"ctx": "diálogo uid011107dc"
+},
+{
+"id": 47996,
+"en": "Not a fan of bein' lectured, then.",
+"ctx": "diálogo uid011107dc"
+},
+{
+"id": 47997,
+"en": "She's also blood type A, 26 years old, and a Scorpio. If memory serves me correctly, she's a big lover of chocolate as well.",
+"ctx": "diálogo uid011107dc"
+},
+{
+"id": 47998,
+"en": "Business slow today?",
+"ctx": "diálogo uid011107e2"
+},
+{
+"id": 47999,
+"en": "No, this is pretty typical. With New Year's Eve right around the corner, normal bars are more likely to be packed.",
+"ctx": "diálogo uid011107e2"
+},
+{
+"id": 48000,
+"en": "Have you ever been to Prime?",
+"ctx": "diálogo uid011107e2"
+},
+{
+"id": 48001,
+"en": "Yes. Let me think.",
+"ctx": "diálogo uid011107e2"
+},
+{
+"id": 48002,
+"en": "Oh, right. There's a girl there named Honoka-chan who's pretty good.",
+"ctx": "diálogo uid011107e2"
+},
+{
+"id": 48003,
+"en": "Honoka-chan, huh?",
+"ctx": "diálogo uid011107e2"
+},
+{
+"id": 48004,
+"en": "Yes, sir. Like most of the girls in town, she's a real energetic go-getter. And she talks an awful lot, so you'll never be bored.",
+"ctx": "diálogo uid011107e2"
+},
+{
+"id": 48005,
+"en": "Heh. Sounds like my kind of girl.",
+"ctx": "diálogo uid011107e2"
+},
+{
+"id": 48006,
+"en": "She is known to exaggerate at times, but don't worry about every little detail she says. You're fine so long as you can say something interesting.",
+"ctx": "diálogo uid011107e2"
+},
+{
+"id": 48007,
+"en": "That sounds complicated, but okay.",
+"ctx": "diálogo uid011107e2"
+},
+{
+"id": 48008,
+"en": "Her blood type is AB, she's a Virgo, and she's 21 years old. Just feed her some pork skewers, and it'll all be A-OK!",
+"ctx": "diálogo uid011107e2"
+},
+{
+"id": 48009,
+"en": "Oh, you'll know when you see her.",
+"ctx": "diálogo uid011107e2"
+},
+{
+"id": 48010,
+"en": "A cabaret club? That's not your usual go-to place, Shinada-san.",
+"ctx": "diálogo uid01110800"
+},
+{
+"id": 48011,
+"en": "The sex business is just my job. This is personal.",
+"ctx": "diálogo uid01110800"
+},
+{
+"id": 48012,
+"en": "Yeah, all right. Just don't fall for a hostess and go even deeper into debt, okay? Please?",
+"ctx": "diálogo uid01110800"
+},
+{
+"id": 48013,
+"en": "Ha! Do I look like a would-be sugar daddy to you? I don't like girls who are pushy like that anyhow, so don't you worry about me.",
+"ctx": "diálogo uid01110800"
+},
+{
+"id": 48014,
+"en": "Well, I suppose not. I figured that Shion-chan is more of your type, anyway.",
+"ctx": "diálogo uid01110800"
+},
+{
+"id": 48015,
+"en": "Shion-chan, huh? What's she like?",
+"ctx": "diálogo uid01110800"
+},
+{
+"id": 48016,
+"en": "Oh, don't you know her?",
+"ctx": "diálogo uid01110800"
+},
+{
+"id": 48017,
+"en": "No, obviously! Tell me!",
+"ctx": "diálogo uid01110800"
+},
+{
+"id": 48018,
+"en": "Shion-chan is a-MAY-zing! She's gorgeous, refined, and elegant! An honest-to-goodness Nagoya princess!",
+"ctx": "diálogo uid01110800"
+},
+{
+"id": 48019,
+"en": "Oooh! Tell me more!",
+"ctx": "diálogo uid01110800"
+},
+{
+"id": 48020,
+"en": "Her blood type's O, and she's a Gemini, age 24.",
+"ctx": "diálogo uid01110800"
+},
+{
+"id": 48021,
+"en": "What kind of stuff does she like?",
+"ctx": "diálogo uid01110800"
+},
+{
+"id": 48022,
+"en": "Hey, you said you weren't gonna be her sugar daddy!",
+"ctx": "diálogo uid01110800"
+},
+{
+"id": 48023,
+"en": "Calm down, man, I'm just asking what she's interested in!",
+"ctx": "diálogo uid01110800"
+},
+{
+"id": 48024,
+"en": "Well, she's real upper crust. So if you get her a gift that is too common, it may backfire and make her angry.",
+"ctx": "diálogo uid01110800"
+},
+{
+"id": 48025,
+"en": "I bet. What else?",
+"ctx": "diálogo uid01110800"
+},
+{
+"id": 48026,
+"en": "She's rather short-tempered, and saying the wrong thing will set her off. If you think she's mad, you'd better change the subject quick.",
+"ctx": "diálogo uid01110800"
+},
+{
+"id": 48027,
+"en": "Right. Gotta make sure to not get her angry.",
+"ctx": "diálogo uid01110800"
+},
+{
+"id": 48028,
+"en": "Elise has really become something! They've got new girls on staff and they are all top notch!",
+"ctx": "diálogo uid0111080c"
+},
+{
+"id": 48029,
+"en": "Any you recommend?",
+"ctx": "diálogo uid0111080c"
+},
+{
+"id": 48030,
+"en": "Oh, of course! You've got your pick of lovely ladies who have been scouted from all across Japan!",
+"ctx": "diálogo uid0111080c"
+},
+{
+"id": 48031,
+"en": "There's Riku-chan from Nagasugai, Hakata, out in Kyushu. She's a big hit with folks who are all about that perky Hakata dialect of hers!",
+"ctx": "diálogo uid0111080c"
+},
+{
+"id": 48032,
+"en": "Is that so.",
+"ctx": "diálogo uid0111080c"
+},
+{
+"id": 48033,
+"en": "(Sounds like she's doing a good job.)",
+"ctx": "diálogo uid0111080c"
+},
+{
+"id": 48034,
+"en": "There's also Kaguya-chan from Tsukimino, Sapporo! I've heard she's been working as a model lately, with big-name talent scouts coming to see her, too!",
+"ctx": "diálogo uid0111080c"
+},
+{
+"id": 48035,
+"en": "Interesting.",
+"ctx": "diálogo uid0111080c"
+},
+{
+"id": 48036,
+"en": "(Never expected Saejima to win over such a gem.)",
+"ctx": "diálogo uid0111080c"
+},
+{
+"id": 48037,
+"en": "Next, from Sotenbori in Osaka, comes Honoka-chan! Young men are getting worked up by her high-energy Kansai conversation style on a nightly basis!",
+"ctx": "diálogo uid0111080c"
+},
+{
+"id": 48038,
+"en": "(Leave it to Akiyama to pick a winner.)",
+"ctx": "diálogo uid0111080c"
+},
+{
+"id": 48039,
+"en": "And, last but not least, there's Shion-chan from Kineicho, Nagoya! She's a blonde-haired, half-Japanese bombshell, who is always in demand by well-heeled VIP guests!",
+"ctx": "diálogo uid0111080c"
+},
+{
+"id": 48040,
+"en": "(That Shinada's not just some schmuck after all. Maybe I should reconsider my opinion of him.)",
+"ctx": "diálogo uid0111080c"
+},
+{
+"id": 48041,
+"en": "Oh! And a special bit of info you can only get here! Today's the big debut of Hinata-chan, their secret weapon, fresh off of training!",
+"ctx": "diálogo uid0111080c"
+},
+{
+"id": 48042,
+"en": "Hm. What's she like?",
+"ctx": "diálogo uid0111080c"
+},
+{
+"id": 48043,
+"en": "Not much is known yet, other than she's blood type A, 23 years old, and an Aquarius.",
+"ctx": "diálogo uid0111080c"
+},
+{
+"id": 48044,
+"en": "But you can be sure she exemplifies what a hostess should be! She really is the \"It Girl\" of Tokyo right now.",
+"ctx": "diálogo uid0111080c"
+},
+{
+"id": 48045,
+"en": "Just go along with the conversation and I think she'll like you just fine. But winning her over will not be easy⑬or cheap.",
+"ctx": "diálogo uid0111080c"
+},
+{
+"id": 48046,
+"en": "So I just have to go with the flow...",
+"ctx": "diálogo uid0111080c"
+},
+{
+"id": 48047,
+"en": "Well, there's more to her than that. It would be too easy if that's all you had to do.",
+"ctx": "diálogo uid0111080c"
+},
+{
+"id": 48048,
+"en": "Gunfire!?",
+"ctx": "diálogo uid0113007e"
+},
+{
+"id": 48049,
+"en": "(There are a lot of them.)",
+"ctx": "diálogo uid0113008b"
+},
+{
+"id": 48050,
+"en": "(Hm, that float gives me an idea.)",
+"ctx": "diálogo uid0113008b"
+},
+{
+"id": 48051,
+"en": "(And it's in the perfect spot, too. Good.)",
+"ctx": "diálogo uid0113008b"
+},
+{
+"id": 48052,
+"en": "(The elevator is stopped at the fifth floor and won't come down. I'll have to take the stairs.)",
+"ctx": "diálogo uid011300d0"
+},
+{
+"id": 48053,
+"en": "This way, Aniki!",
+"ctx": "diálogo uid01130109"
+},
+{
+"id": 48054,
+"en": "Are you all right, Aniki?",
+"ctx": "diálogo uid01130109"
+},
+{
+"id": 48055,
+"en": "Right as rain.",
+"ctx": "diálogo uid01130109"
+},
+{
+"id": 48056,
+"en": "By the way, what's with the getup?",
+"ctx": "diálogo uid01130109"
+},
+{
+"id": 48057,
+"en": "This? Just camouflage to keep the cops off my tail.",
+"ctx": "diálogo uid01130109"
+},
+{
+"id": 48058,
+"en": "You kind of stick out.",
+"ctx": "diálogo uid01130109"
+},
+{
+"id": 48059,
+"en": "Yeah? Better change, then. Hang on.",
+"ctx": "diálogo uid01130109"
+},
+{
+"id": 48060,
+"en": "This'll work, right? I'll stash the other outfit for now.",
+"ctx": "diálogo uid01130109"
+},
+{
+"id": 48061,
+"en": "No time to waste. Follow me!",
+"ctx": "diálogo uid01130109"
+},
+{
+"id": 48062,
+"en": "Damn it! They're waiting for us here, too!",
+"ctx": "diálogo uid01130109"
+},
+{
+"id": 48063,
+"en": "Only one way through. Let's do this, Baba-chan!",
+"ctx": "diálogo uid01130109"
+},
+{
+"id": 48064,
+"en": "(Tch, there's a cop. Better cross the road and take the long way around.)",
+"ctx": "diálogo uid0113010a"
+},
+{
+"id": 48065,
+"en": "(Huh?)",
+"ctx": "diálogo uid0113010a + diálogo uid01200171"
+},
+{
+"id": 48066,
+"en": "(There's a cop on that side, too!)",
+"ctx": "diálogo uid0113010a"
+},
+{
+"id": 48067,
+"en": "(Gotta hide! Wait... Huh?)",
+"ctx": "diálogo uid0113010a"
+},
+{
+"id": 48068,
+"en": "(Ain't nowhere to hide, so I need a disguise!)",
+"ctx": "diálogo uid0113010a"
+},
+{
+"id": 48069,
+"en": "(This'll work! Sorry, but I gotta borrow this!)",
+"ctx": "diálogo uid01130118 + diálogo uid01130173"
+},
+{
+"id": 48070,
+"en": "(All right, looks like it worked. I'll give this outfit back later. Gotta find Baba-chan now.)",
+"ctx": "diálogo uid01130118 + diálogo uid01130173"
+},
+{
+"id": 48071,
+"en": "(There's Baba-chan! Is he lookin' for me?)",
+"ctx": "diálogo uid01130130"
+},
+{
+"id": 48072,
+"en": "(Gotta cross the road and meet up.)",
+"ctx": "diálogo uid01130130"
+},
+{
+"id": 48073,
+"en": "It's quiet.",
+"ctx": "diálogo uid011301e0"
+},
+{
+"id": 48074,
+"en": "They're probably all guarding the patriarch's room. That works in our favor.",
+"ctx": "diálogo uid011301e0"
+}
+]

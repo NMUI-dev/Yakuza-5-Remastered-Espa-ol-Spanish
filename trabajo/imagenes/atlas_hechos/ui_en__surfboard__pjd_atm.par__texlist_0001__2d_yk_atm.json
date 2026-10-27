@@ -1,0 +1,68 @@
+{
+ "textura": "ui_en/surfboard/pjd_atm.par/texlist_0001/2d_yk_atm",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    255,
+    256,
+    285
+   ],
+   "en": "Futaba Bank ATM",
+   "ocr": "FutabaBankATM",
+   "es": "Cajero Futaba Bank",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 252
+  },
+  {
+   "caja": [
+    0,
+    345,
+    256,
+    375
+   ],
+   "en": "Clear",
+   "ocr": "Clear",
+   "es": "Borrar",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 252
+  },
+  {
+   "caja": [
+    0,
+    375,
+    256,
+    405
+   ],
+   "en": "Cancel",
+   "ocr": "Cancel",
+   "es": "Cancelar",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 252
+  },
+  {
+   "caja": [
+    0,
+    405,
+    256,
+    435
+   ],
+   "en": "Confirm",
+   "ocr": "Confirm",
+   "es": "Confirmar",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 252
+  }
+ ]
+}

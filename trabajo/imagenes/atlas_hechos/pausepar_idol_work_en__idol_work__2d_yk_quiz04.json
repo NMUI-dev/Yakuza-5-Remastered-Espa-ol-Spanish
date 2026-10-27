@@ -1,0 +1,45 @@
+{
+ "textura": "pausepar_idol_work_en/idol_work/2d_yk_quiz04",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    38,
+    106,
+    219,
+    152
+   ],
+   "en": "Special 2",
+   "ocr": "Special2",
+   "es": "Especial 2",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 177,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     90,
+     225,
+     255
+    ],
+    "contorno": [
+     [
+      25,
+      45,
+      130
+     ],
+     2
+    ],
+    "brillo": null
+   }
+  }
+ ]
+}

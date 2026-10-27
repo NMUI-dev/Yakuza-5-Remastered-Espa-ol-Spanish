@@ -1,0 +1,128 @@
+{
+ "textura": "pausepar_pause_en/picture/mail/2d_yk_kamiyama_os",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    13,
+    4,
+    117,
+    33
+   ],
+   "en": "Now open",
+   "ocr": "Nowopen",
+   "es": "Ahora abierto",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 100,
+   "dejar": true
+  },
+  {
+   "caja": [
+    13,
+    24,
+    163,
+    59
+   ],
+   "en": "in Shofukucho!",
+   "ocr": "inShofukucho！",
+   "es": "¡en Shofukucho!",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 146,
+   "dejar": true
+  },
+  {
+   "caja": [
+    16,
+    48,
+    200,
+    87
+   ],
+   "en": "Come by and have",
+   "ocr": "Comeby andhave",
+   "es": "Ven por aquí y diviértete.",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 180,
+   "dejar": true
+  },
+  {
+   "caja": [
+    16,
+    79,
+    88,
+    115
+   ],
+   "en": "a look!",
+   "ocr": "a look!",
+   "es": "¡vistazo!",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 68,
+   "dejar": true
+  },
+  {
+   "caja": [
+    133,
+    199,
+    234,
+    253
+   ],
+   "en": "Super deals",
+   "ocr": "Supery Zdeals!",
+   "es": "Súper repartos",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 97,
+   "dejar": true
+  },
+  {
+   "caja": [
+    151,
+    219,
+    243,
+    270
+   ],
+   "en": "Super deals!",
+   "ocr": "Supery Zdeals!",
+   "es": "¡Súper repartos!",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 88,
+   "dejar": true
+  },
+  {
+   "caja": [
+    73,
+    274,
+    239,
+    303
+   ],
+   "en": "KamiyamaWORKS",
+   "ocr": "KamiyamaWoRKS",
+   "es": "Kamiyama WoRKS",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 162,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: lo hace el PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

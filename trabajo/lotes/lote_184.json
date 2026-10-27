@@ -1,0 +1,1017 @@
+[
+{
+"id": 40464,
+"en": "Thanks for the ride... Oh, right, the fare.",
+"ctx": "diálogo uid010c0688"
+},
+{
+"id": 40465,
+"en": "(He looks even gloomier now.)",
+"ctx": "diálogo uid010c0688"
+},
+{
+"id": 40466,
+"en": "(Guess encouraging young people isn't as easy as I thought.)",
+"ctx": "diálogo uid010c0688"
+},
+{
+"id": 40467,
+"en": "I'm from Nagasu Taxi. Sorry for the wait.",
+"ctx": "diálogo uid010c0689 + diálogo uid010c068d …"
+},
+{
+"id": 40468,
+"en": "To the airport, please.",
+"ctx": "diálogo uid010c0689"
+},
+{
+"id": 40469,
+"en": "(Has she been crying? Her eyes are all puffy. Maybe she's going through a tough time.)",
+"ctx": "diálogo uid010c0689"
+},
+{
+"id": 40470,
+"en": "Of course. Let's go.",
+"ctx": "diálogo uid010c0689 + diálogo uid010c068d …"
+},
+{
+"id": 40471,
+"en": "(It looks like she's upset about something. I'll see if I can strike up a conversation.)",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40472,
+"en": "You'll get carsick if you stare out the window.",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40473,
+"en": "Mind your own business, won't you? I'm having a hard time and I just wanted to look at the scenery.",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40474,
+"en": "I see Hakata has a special place in your heart.",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40475,
+"en": "That's a very astute observation.",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40476,
+"en": "You were just staring out with such fondness.",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40477,
+"en": "Yes. This is where I was born and raised. I have so many unforgettable memories here.",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40478,
+"en": "I never thought I'd end up leaving.",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40479,
+"en": "Oh? Why are you leaving?",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40480,
+"en": "I'm to be married to a man in Tokyo. I'm off to go live with him there.",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40481,
+"en": "He's from a good family, and quite wealthy.",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40482,
+"en": "...You really don't know how to read people, do you?",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40483,
+"en": "I wanted to talk to someone about it, but I doubt you'd understand.",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40484,
+"en": "Oh. Sorry.",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40485,
+"en": "*sigh* Never mind.",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40486,
+"en": "You don't look too happy about it.",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40487,
+"en": "Hm? Ha. Well, no.",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40488,
+"en": "You're quite perceptive, aren't you?",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40489,
+"en": "I was actually seeing a guy here in Hakata for many years. We were in love.",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40490,
+"en": "He's a writer, with hopes of being a novelist one day. We were planning to get married once he won that literary prize.",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40491,
+"en": "But I couldn't wait for that.",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40492,
+"en": "What does he think about you getting married now?",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40493,
+"en": "I couldn't bring myself to tell him. I left without saying a word.",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40494,
+"en": "Do you think he'll ever be able to forgive me? I think he will, in time. Right?",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40495,
+"en": "I'm sure he'll forgive you.",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40496,
+"en": "Thank you. That makes me feel a little better about this.",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40497,
+"en": "Has something like this ever happened to you?",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40498,
+"en": "Well, no.",
+"ctx": "diálogo uid010c068b + diálogo uid016900af"
+},
+{
+"id": 40499,
+"en": "Then how do you know he'll get over it?",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40500,
+"en": "So you just said the first thing you thought of?",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40501,
+"en": "No, it's not like that.",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40502,
+"en": "Hmph. I feel stupid baring my soul to a taxi driver, of all people. Ugh. Now I just feel worse.",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40503,
+"en": "I doubt he'll ever get over it.",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40504,
+"en": "What? You make me sound like a woman who's throwing away love for the sake of money!",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40505,
+"en": "It wasn't easy of me to make this decision, you know! You have no idea how I feel!",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40506,
+"en": "Ugh, never mind! There's no point telling you about it.",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40507,
+"en": "There's still time to turn back and tell him.",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40508,
+"en": "Oh, I couldn't bear to see the look on his face.",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40509,
+"en": "Forgive me for saying this, but are you trying to spare his feelings or yours?",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40510,
+"en": "Look, I have no idea if you're making the right call in going off to get married.",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40511,
+"en": "But I do think if you run away without saying a word to him, you'll only end up regretting it in the end.",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40512,
+"en": "And I can't see that as being good for either of you.",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40513,
+"en": "Well, what're you going to do? We're almost at the on-ramp.",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40514,
+"en": "...Can I ask you to turn back? I think I'll wait another day to go to Tokyo.",
+"ctx": "diálogo uid010c068b"
+},
+{
+"id": 40515,
+"en": "I really must thank you.",
+"ctx": "diálogo uid010c068c"
+},
+{
+"id": 40516,
+"en": "If I'd gone to Tokyo today, I would have had to live with that regret the rest of my life.",
+"ctx": "diálogo uid010c068c"
+},
+{
+"id": 40517,
+"en": "I have to tell him, face to face. Thank you for helping me realize that.",
+"ctx": "diálogo uid010c068c"
+},
+{
+"id": 40518,
+"en": "Here is my fare. Will you accept a tip, too?",
+"ctx": "diálogo uid010c068c"
+},
+{
+"id": 40519,
+"en": "Good luck on the rest of your travels!",
+"ctx": "diálogo uid010c068c"
+},
+{
+"id": 40520,
+"en": "Thank you. Here's my fare.",
+"ctx": "diálogo uid010c068c"
+},
+{
+"id": 40521,
+"en": "Best of luck to you.",
+"ctx": "diálogo uid010c068c"
+},
+{
+"id": 40522,
+"en": "I have a feeling this job doesn't suit you.",
+"ctx": "diálogo uid010c068c"
+},
+{
+"id": 40523,
+"en": "I apologize.",
+"ctx": "diálogo uid010c068c + diálogo uid010c0691 …"
+},
+{
+"id": 40524,
+"en": "Yeah. Try putting more thought into what you say next time. Bye.",
+"ctx": "diálogo uid010c068c"
+},
+{
+"id": 40525,
+"en": "To <Color:22>Meisei Street<Color:Default> please. There's no hurry, so drive carefully, won't you?",
+"ctx": "diálogo uid010c068d"
+},
+{
+"id": 40526,
+"en": "Thank you, driver. Can I ask your name?",
+"ctx": "diálogo uid010c0691"
+},
+{
+"id": 40527,
+"en": "It's Suzuki.",
+"ctx": "diálogo uid010c0691 + diálogo uid010c08a1 …"
+},
+{
+"id": 40528,
+"en": "Ah. Well, that was a very smooth ride, Suzuki-san. I'll ask for you by name next time.",
+"ctx": "diálogo uid010c0691"
+},
+{
+"id": 40529,
+"en": "Be seeing you, then!",
+"ctx": "diálogo uid010c0691"
+},
+{
+"id": 40530,
+"en": "You're welcome.",
+"ctx": "diálogo uid010c0691 + diálogo uid010c08a7"
+},
+{
+"id": 40531,
+"en": "You need to get your act together. You're supposed to be a professional, aren't you?",
+"ctx": "diálogo uid010c0691"
+},
+{
+"id": 40532,
+"en": "Well, just try to do better.",
+"ctx": "diálogo uid010c0691"
+},
+{
+"id": 40533,
+"en": "(That passenger didn't look too happy. I'll have to be more careful in the future.)",
+"ctx": "diálogo uid010c0691"
+},
+{
+"id": 40534,
+"en": "You got 600 experience points.",
+"ctx": "diálogo uid010c0691 + diálogo uid010c0696 …"
+},
+{
+"id": 40535,
+"en": "<Color:22>Fukuhaku Street<Color:Default>, please. I'm in a bit of a rush, but you should make it there in time driving normally, so no need to go crazy fast.",
+"ctx": "diálogo uid010c0692"
+},
+{
+"id": 40536,
+"en": "Understood. Let's go.",
+"ctx": "diálogo uid010c0692 + diálogo uid010c07cd …"
+},
+{
+"id": 40537,
+"en": "Wow. We made it on time, and it was a very pleasant ride.",
+"ctx": "diálogo uid010c0696"
+},
+{
+"id": 40538,
+"en": "I hope you enjoy your daughter's performance.",
+"ctx": "diálogo uid010c0696"
+},
+{
+"id": 40539,
+"en": "I will. Thank you.",
+"ctx": "diálogo uid010c0696"
+},
+{
+"id": 40540,
+"en": "I appreciate your help.",
+"ctx": "diálogo uid010c0696"
+},
+{
+"id": 40541,
+"en": "It was a pleasure driving you.",
+"ctx": "diálogo uid010c0696"
+},
+{
+"id": 40542,
+"en": "Gah! My daughter's going to be so mad at me.",
+"ctx": "diálogo uid010c0696"
+},
+{
+"id": 40543,
+"en": "Ah, well. I'll just ask someone else to drive me to next month's recital.",
+"ctx": "diálogo uid010c0696"
+},
+{
+"id": 40544,
+"en": "(I really let him down. I'll have to do better in the future.)",
+"ctx": "diálogo uid010c0696"
+},
+{
+"id": 40545,
+"en": "Nice day out, huh?",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40546,
+"en": "Sure's been awful cold out lately. Every year the fall gets shorter and the winter gets longer, am I right?",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40547,
+"en": "Don't you think so, driver?",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40548,
+"en": "I guess.",
+"ctx": "diálogo uid010c0699 + diálogo uid01340003"
+},
+{
+"id": 40549,
+"en": "You're pretty quiet for a cabbie.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40550,
+"en": "Hey, driver. There's only so much silence I can take. How long've you been at this job?",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40551,
+"en": "Only around six months.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40552,
+"en": "Oh, okay. That explains it.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40553,
+"en": "(What's he talking about?)",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40554,
+"en": "Let me put it to you like this.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40555,
+"en": "I don't know about other parts, but here in Fukuoka, taxi drivers are expected to keep up the conversation.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40556,
+"en": "Most of us locals here in Fukuoka like to chat. If you don't have the gift of gab, you're not gonna get any regular customers.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40557,
+"en": "I see... My boss told me the same thing, come to think of it.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40558,
+"en": "I bet he did. Taxi driving's a service job, and small talk's a big part of the service.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40559,
+"en": "Right, but I don't know what to talk about...",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40560,
+"en": "Then how about I give you some pointers?",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40561,
+"en": "Such as?",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40562,
+"en": "Well, I thought we'd do some practice dialogue, help get you started. I'm not speaking the Hakata dialect, so it should be easy to follow. Sound good?",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40563,
+"en": "So, how's business today?",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40564,
+"en": "I'm asking you, driver.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40565,
+"en": "Oh, sorry. Let's see...",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40566,
+"en": "Business is pretty good. It helps when I get passengers like you who are going on longer trips.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40567,
+"en": "There you go. That's how it's done.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40568,
+"en": "Okay. I think I'm getting the hang of this.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40569,
+"en": "Business could be better. Long-distance fares like these mean my cab's going to be empty on the return trip.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40570,
+"en": "Come on, why would you bring that up? You gotta make the customer feel welcome, even if you don't mean it.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40571,
+"en": "Oh... Then that's tricky.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40572,
+"en": "None of your damn business.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40573,
+"en": "Whoa! Where'd that come from?",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40574,
+"en": "Oh, sorry. The line sounded cool in my head, so I thought it'd be appropriate.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40575,
+"en": "Come on, what did we just talk about? The goal here is to get a conversation going!",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40576,
+"en": "Right, conversation...",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40577,
+"en": "So why'd you go off spouting some random one-liner? You trying to be a comedian?",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40578,
+"en": "No, not really...",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40579,
+"en": "Look, don't overthink it. All you have to do is think of something casual and inoffensive to say. There's nothing complicated about this.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40580,
+"en": "So, have you gotten the hang of the job yet?",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40581,
+"en": "No, I still have plenty to learn.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40582,
+"en": "Yeah, I imagine it takes time.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40583,
+"en": "What sort of work do you do?",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40584,
+"en": "Me? I'm more of a glorified security guard than anything... Never mind that, though. Different subject.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40585,
+"en": "What's your favorite Hakata food so far?",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40586,
+"en": "Well, I tried mizutaki the other day, and it was delicious.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40587,
+"en": "Yeah, it's pretty tasty, isn't it? Goes well with sake, so it's perfect for those who like their drink. You a big drinker?",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40588,
+"en": "Oh, I'll have a drink every now and then.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40589,
+"en": "I'd have to say Hakata ramen.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40590,
+"en": "Ah, Hakata ramen's a classic. Each restaurant has its own take on the standard tonkotsu broth. You should try out as many different places as you can.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40591,
+"en": "I might just do that.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40592,
+"en": "Do you even need to ask? It's gotta be takoyaki.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40593,
+"en": "Hey, takoyaki's a Kansai thing! Don't get us confused.\nAnd what's with the attitude all of a sudden?",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40594,
+"en": "Sorry. I don't know what came over me...",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40595,
+"en": "You're a strange one, aren't you...",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40596,
+"en": "Oh, hey, you know what you should try next? <Italic>Gameni.</Italic>",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40597,
+"en": "Gameni...? Never heard of that one. Is it any good?",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40598,
+"en": "Why sure. You might hear some people call it <Italic>chikuzenni</Italic>.\nAnyway, it's a chicken and vegetable stew.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40599,
+"en": "We always have it at New Year's⑬",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40600,
+"en": "The car behind us sped up all of a sudden and tried to run us off the road. Are you all right, sir?",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40601,
+"en": "I'm fine. But that car... It looks like they're one of the <Color:7>Devil Killers<Color:Default>!",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40602,
+"en": "<Color:7>Devil Killers<Color:Default>?",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40603,
+"en": "Street racers who cause nothing but trouble.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40604,
+"en": "They challenge people on the road and shake them down for money if they lose. Happened to a lot of people already.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40605,
+"en": "(That punk from earlier said he was with the Devil Killers, now that I think back on it. I didn't realize they were this much of a menace.)",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40606,
+"en": "Now they've decided to pick on a local taxi? Bunch of goddamn lunatics...",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40607,
+"en": "You know what, though. A professional driver like you should be more than capable of handling them. Go ahead and take them on.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40608,
+"en": "I don't know if that's a good idea...",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40609,
+"en": "I didn't tell you, but I'm actually with the motor patrol unit of the Fukuoka Police.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40610,
+"en": "What? You're an officer?",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40611,
+"en": "Yeah, and not the kind who sits back on his ass while\na bunch of little shits pretend like they own the road.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40612,
+"en": "Driver, you have my permission. We need to take a stand\nagainst these reckless criminals if we want to keep the\nstreets safe for our citizens!",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40613,
+"en": "I can't guarantee this will turn out how you want...\nbut I might as well give it a shot.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40614,
+"en": "Great! Let's burn some rubber!",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40615,
+"en": "Here goes nothing.",
+"ctx": "diálogo uid010c0699"
+},
+{
+"id": 40616,
+"en": "What's the job?",
+"ctx": "diálogo uid010c06dc"
+},
+{
+"id": 40617,
+"en": "It's the foreigner from the other day again. You know, DeVille something-or-other.",
+"ctx": "diálogo uid010c06dc"
+},
+{
+"id": 40618,
+"en": "(Must be Watanabe of the Devil Killers again. This time I'll win, no matter what.)",
+"ctx": "diálogo uid010c06dc"
+},
+{
+"id": 40619,
+"en": "I'll be heading out, then.",
+"ctx": "diálogo uid010c06dc"
+},
+{
+"id": 40620,
+"en": "Well, it's a pickup request, but I find it rather strange.",
+"ctx": "diálogo uid010c06dc"
+},
+{
+"id": 40621,
+"en": "Oh, just... Calling a taxi to pick you up from a highway rest area seems rather odd, don't you think?",
+"ctx": "diálogo uid010c06dc"
+},
+{
+"id": 40622,
+"en": "For instance, that's where those rowdy packs of motorheads are always hanging out. Please be careful out there.",
+"ctx": "diálogo uid010c06dc"
+},
+{
+"id": 40623,
+"en": "(This is probably a challenge from the Devil Killers. I better keep my promise to Furumichi.)",
+"ctx": "diálogo uid010c06dc"
+},
+{
+"id": 40624,
+"en": "If you're going to face off with the Devil Killers, I suggest you think better of it.",
+"ctx": "diálogo uid010c06dc"
+},
+{
+"id": 40625,
+"en": "Well, it's only dumb luck that a regular old driver like you managed to win. And that was one time.",
+"ctx": "diálogo uid010c06dc"
+},
+{
+"id": 40626,
+"en": "You let your ego run wild and you'll get in over your head. These guys don't mess around.",
+"ctx": "diálogo uid010c06dc"
+},
+{
+"id": 40627,
+"en": "I appreciate your concern. But this is something I have to do for everyone's benefit, including yours.",
+"ctx": "diálogo uid010c06dc"
+},
+{
+"id": 40628,
+"en": "Muramatsu-kun?",
+"ctx": "diálogo uid010c06dc"
+},
+{
+"id": 40629,
+"en": "Is this \"DeVille Kellars\" a foreigner or something? Everyone seems to be talking about him lately.",
+"ctx": "diálogo uid010c06dc"
+},
+{
+"id": 40630,
+"en": "Run him into the ground, Aniki!",
+"ctx": "diálogo uid010c06de"
+},
+{
+"id": 40631,
+"en": "Heh, don't you worry. You're about to see this loser get left in the dust... again! Can't wait to see the look on his face!",
+"ctx": "diálogo uid010c06de"
+},
+{
+"id": 40632,
+"en": "Quit running your mouth and get behind the wheel.",
+"ctx": "diálogo uid010c06de"
+},
+{
+"id": 40633,
+"en": "Been waitin' for you, taxi man!",
+"ctx": "diálogo uid010c06de"
+},
+{
+"id": 40634,
+"en": "I'm surprised you didn't turn tail and run, considering how\nbadly you lost the other day.",
+"ctx": "diálogo uid010c06de"
+},
+{
+"id": 40635,
+"en": "Hah! It ain't me you're up against.",
+"ctx": "diálogo uid010c06de"
+},
+{
+"id": 40636,
+"en": "I got my aniki here to step up for me! And he's the roughest, toughest Devil Killer you ever saw! Tell him, Aniki!",
+"ctx": "diálogo uid010c06de"
+},
+{
+"id": 40637,
+"en": "So you're the cabbie who did a number on Nagata, huh?",
+"ctx": "diálogo uid010c06de"
+},
+{
+"id": 40638,
+"en": "What if I am? You here to avenge him?",
+"ctx": "diálogo uid010c06de"
+},
+{
+"id": 40639,
+"en": "He sure is! Our aniki here, he would never let⑬",
+"ctx": "diálogo uid010c06de"
+},
+{
+"id": 40640,
+"en": "Shut up. This ain't about you, dumbass.",
+"ctx": "diálogo uid010c06de"
+},
+{
+"id": 40641,
+"en": "It's not!? Then why...",
+"ctx": "diálogo uid010c06de"
+},
+{
+"id": 40642,
+"en": "I'm pissed that one of the mighty Devil Killers lost to some nobody who carts around passengers for a living!",
+"ctx": "diálogo uid010c06de"
+},
+{
+"id": 40643,
+"en": "If the Four Kings got word of this, they'd blow a gasket.",
+"ctx": "diálogo uid010c06de"
+},
+{
+"id": 40644,
+"en": "The Four Kings?",
+"ctx": "diálogo uid010c06de"
+},
+{
+"id": 40645,
+"en": "Forget that shit! All you need to know is you're about to get beat to a pulp, all for the glory of the Devil Killers!",
+"ctx": "diálogo uid010c06de"
+},
+{
+"id": 40646,
+"en": "You rock, Aniki!",
+"ctx": "diálogo uid010c06e1"
+},
+{
+"id": 40647,
+"en": "Hahaha! Whaddya expect? It's just a fuckin' taxi driver!",
+"ctx": "diálogo uid010c06e1"
+},
+{
+"id": 40648,
+"en": "What? You all sad now!? Don't worry, you can swallow my fumes again any day you want. I'll leave ya chokin' on my exhaust pipe!",
+"ctx": "diálogo uid010c06e1"
+},
+{
+"id": 40649,
+"en": "Hahahaha! Ahhh... I love being aniki sometimes.",
+"ctx": "diálogo uid010c06e1"
+},
+{
+"id": 40650,
+"en": "Nah, this can't be real... I'm a Devil Killer and he's⑬ he's just a cab driver!",
+"ctx": "diálogo uid010c06e1"
+},
+{
+"id": 40651,
+"en": "What happened, Aniki!? If the Four Kings find out about this, we're done for!",
+"ctx": "diálogo uid010c06e1"
+},
+{
+"id": 40652,
+"en": "...Even so. We gotta tell 'em.",
+"ctx": "diálogo uid010c06e1"
+},
+{
+"id": 40653,
+"en": "But you can't! We'd be in deep shit for runnin' the Devil Killers' name into the ground!",
+"ctx": "diálogo uid010c06e1"
+},
+{
+"id": 40654,
+"en": "You little turd! Stop thinkin' of yourself over the honor of the team! We can't let this defeat stand!",
+"ctx": "diálogo uid010c06e1"
+},
+{
+"id": 40655,
+"en": "Yo. The Four Kings'll give you a personal demo of why no one messes with us. You'll see!",
+"ctx": "diálogo uid010c06e1"
+},
+{
+"id": 40656,
+"en": "Who are these Four Kings you keep talking about?",
+"ctx": "diálogo uid010c06e1"
+},
+{
+"id": 40657,
+"en": "You'll find out soon enough. You'll wish you never crossed paths with <Italic>real</Italic> hardcore street racers like us!",
+"ctx": "diálogo uid010c06e1"
+},
+{
+"id": 40658,
+"en": "(Looks like bringing down the Devil Killers is going to take a lot longer than I thought...)",
+"ctx": "diálogo uid010c06e1"
+},
+{
+"id": 40659,
+"en": "Oh, hi there, Suzuki-san. Did you get along okay with that DeVille fellow?",
+"ctx": "diálogo uid010c06e2"
+},
+{
+"id": 40660,
+"en": "I did. He might even be a regular customer now.",
+"ctx": "diálogo uid010c06e2"
+},
+{
+"id": 40661,
+"en": "Excellent to hear.",
+"ctx": "diálogo uid010c06e2"
+},
+{
+"id": 40662,
+"en": "Well? What happened?",
+"ctx": "diálogo uid010c06e2"
+},
+{
+"id": 40663,
+"en": "Nothing much. I did win a race, though.",
+"ctx": "diálogo uid010c06e2"
+},
+{
+"id": 40664,
+"en": "Wait, you beat the Devil Killers <Italic>again</Italic>!? I don't believe what I'm hearing...",
+"ctx": "diálogo uid010c06e2"
+},
+{
+"id": 40665,
+"en": "Muramatsu-san, could it be you're familiar with the street racing scene?",
+"ctx": "diálogo uid010c06e2"
+},
+{
+"id": 40666,
+"en": "No, that would be crazy... I just don't think you should be going around racing on public roads like that.",
+"ctx": "diálogo uid010c06e2"
+}
+]

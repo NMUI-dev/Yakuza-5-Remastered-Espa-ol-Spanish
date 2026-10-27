@@ -1,0 +1,94 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_shougi3",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    466,
+    7,
+    557,
+    46
+   ],
+   "en": "Shogi",
+   "ocr": "Shogi",
+   "es": "Shogi",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 87,
+   "dejar": true
+  },
+  {
+   "caja": [
+    33,
+    85,
+    318,
+    120
+   ],
+   "en": "Capture and Drops",
+   "ocr": "CaptureandDrops",
+   "es": "Capturas y Caídas",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 281,
+   "dejar": true
+  },
+  {
+   "caja": [
+    48,
+    126,
+    1002,
+    162
+   ],
+   "en": "When one of your pieces lands on the same square as an opponent's, you capture",
+   "ocr": "When one of your pieces lands on the same square as an opponent's, you capture",
+   "es": "Cuando una de tus fichas cae en la misma casilla que la de un oponente, la capturas.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 950,
+   "dejar": true
+  },
+  {
+   "caja": [
+    46,
+    191,
+    993,
+    225
+   ],
+   "en": "square. When you drop a piece, you cannot move it until your next turn. Also any",
+   "ocr": "square. When you drop a piece, you cannot move it until your next turn. Also any",
+   "es": "casilla. Cuando colocas una pieza, no puedes Moverla hasta el turno Siguiente. Además, cualquier",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 947,
+   "dejar": true
+  },
+  {
+   "caja": [
+    48,
+    225,
+    852,
+    255
+   ],
+   "en": "promoted pieces captured are flipped back over to their original state.",
+   "ocr": "promotedpiecescapturedareflippedbackovertotheiroriginalstate.",
+   "es": "pieza promovida que sea capturada se voltea hacia Atrás y recupera su estado Original.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 804,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: lo hace el PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

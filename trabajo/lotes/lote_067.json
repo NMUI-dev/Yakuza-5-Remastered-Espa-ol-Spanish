@@ -1,0 +1,852 @@
+[
+{
+"id": 18652,
+"en": "No admission of guilt nor any sign of remorse. Okay. You had\nyour chance. What do you say we call the police?",
+"ctx": "diálogo uid0003385c"
+},
+{
+"id": 18653,
+"en": "I'm not lyin', I'm tellin' ya... Look! There he is!",
+"ctx": "diálogo uid0003385c"
+},
+{
+"id": 18654,
+"en": "That's him! He's the real stalker! I see him wanderin'\naround Haruka-chan's apartment all the time!",
+"ctx": "diálogo uid0003385c"
+},
+{
+"id": 18655,
+"en": "...You're serious?",
+"ctx": "diálogo uid0003385c"
+},
+{
+"id": 18656,
+"en": "See? There he goes! He's the stalker! Ya gotta believe me!",
+"ctx": "diálogo uid0003385c"
+},
+{
+"id": 18657,
+"en": "What? Damn it! Why do they always have to run!?",
+"ctx": "diálogo uid0003385c"
+},
+{
+"id": 18658,
+"en": "Man, they've got me running all over town... So, pal, tell\nme⑬are you the real stalker?",
+"ctx": "diálogo uid00033862"
+},
+{
+"id": 18659,
+"en": "Stalker? Ya got it all wrong! I was hopin' to protect\nHaruka-chan...",
+"ctx": "diálogo uid00033862"
+},
+{
+"id": 18660,
+"en": "Oh, geez, not you, too. Fine, we'll let the police sort\nthis out.",
+"ctx": "diálogo uid00033862"
+},
+{
+"id": 18661,
+"en": "Wait, wait, wait! I really ain't your stalker! Look over\nthere! There he is!",
+"ctx": "diálogo uid00033862"
+},
+{
+"id": 18662,
+"en": "Ah!",
+"ctx": "diálogo uid00033862 + diálogo uid010c08b0 …"
+},
+{
+"id": 18663,
+"en": "Don't try to pretend you're not, ya creep! I seen ya\nstakin' out Haruka-chan's apartment plenty of times!",
+"ctx": "diálogo uid00033862"
+},
+{
+"id": 18664,
+"en": "You take that back! I ain't no stalker! I'll have you know\nI been keepin' Haruka-chan safe!",
+"ctx": "diálogo uid00033862"
+},
+{
+"id": 18665,
+"en": "Hey, mellow out. What's going on here?",
+"ctx": "diálogo uid00033862"
+},
+{
+"id": 18666,
+"en": "Hell if I know! Where do you get off callin' me a stalker!?",
+"ctx": "diálogo uid00033862"
+},
+{
+"id": 18667,
+"en": "I'm gonna keep Haruka-chan safe from the likes of you\nassholes! Say your prayers!",
+"ctx": "diálogo uid00033862"
+},
+{
+"id": 18668,
+"en": "Hiya, Yamaura-san. How's Haruka-chan?",
+"ctx": "diálogo uid00033864"
+},
+{
+"id": 18669,
+"en": "Oh, hi, Akiyama-san. Actually, I was hopin' to talk to you\nabout her.",
+"ctx": "diálogo uid00033864"
+},
+{
+"id": 18670,
+"en": "Our agency has neither the staff nor the money to keep watch\nover Haruka 24/7, you know?",
+"ctx": "diálogo uid00033864"
+},
+{
+"id": 18671,
+"en": "Since we're up here, she'll be fine. But we're headin' back\ndown to Osaka after her concert, so it's not exactly\nsomething we can just ignore.",
+"ctx": "diálogo uid00033864"
+},
+{
+"id": 18672,
+"en": "I'd have to agree.",
+"ctx": "diálogo uid00033864 + diálogo uid0049014c"
+},
+{
+"id": 18673,
+"en": "In that case, I was wondering⑬if you ever go back to\nSotenbori, do you think you could take a look around\nHaruka's apartment building? You know, when you have time.",
+"ctx": "diálogo uid00033864"
+},
+{
+"id": 18674,
+"en": "Hey! Hey, you! Hold it right there!",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18675,
+"en": "Hmm? Me?",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18676,
+"en": "Yeah, you! Who do you think!? You're Haruka Sawamura, aren't\nyou?",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18677,
+"en": "Yes, that's right. Um... Do I know you?",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18678,
+"en": "What!? You're trying to be a top idol, and you don't even\nknow who I am!?",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18679,
+"en": "I'm Ulala, the daughter of the legendary beauty from the\nneighboring town.",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18680,
+"en": "Um, so your mother is a legendary beauty?",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18681,
+"en": "My mother is, and I am, too! They always told me I'd be\nbeautiful when I grew up, and, as you can plainly see, I am!",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18682,
+"en": "But if you think you can be an idol around here and not know\nwho I am, you've got another thing coming! We idols are very\nparticular, you know!",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18683,
+"en": "I'm very sorry. I still have a lot to learn...",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18684,
+"en": "Exactly! And don't you think you've been letting your\nsuccess go to your head lately?",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18685,
+"en": "You're not even that cute, but you suddenly get a few fans,\nand now you're all full of yourself!",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18686,
+"en": "Show-offs like you make me absolutely sick!",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18687,
+"en": "I'm sorry. I didn't mean to come across that way.",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18688,
+"en": "I've seen you, with that snooty, smug look on your face,\ntwisting and gyrating all over the stage, doing those dance battles or whatever you call them!",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18689,
+"en": "Hmph! You should be downright embarrassed, if you ask me! A\npotato'd make a better dancer than you!",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18690,
+"en": "Um, I'm not sure what I did wrong, but I'm sorry if I did\nsomething to upset you.",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18691,
+"en": "Truly, I am.",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18692,
+"en": "Ha! One itty-bitty apology isn't going to cut it, sister!",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18693,
+"en": "I came all this way to Sotenbori, only to find everybody\nmaking a big fuss over a little nothing like you!? What a\njoke!",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18694,
+"en": "What do you call those thingies again? Dance battles? Okay\nthen, let's see you do one right now! I, the great Ulala,\nwill be your opponent!",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18695,
+"en": "What? You want to have a dance battle with me?",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18696,
+"en": "That's right! What, is there something wrong with your\nhearing, too!?",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18697,
+"en": "Ooh, you make me so mad! Hmph. But that's all right. You'll\nget yours when I completely annihilate you in front of\neverybody!",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18698,
+"en": "Unless you're too scared to take me on, that is? I mean,\nwho could blame you for thinking you're no match for the\ngreat Ulala?",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18699,
+"en": "All right. You're on.",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18700,
+"en": "Great. Just try not to cry when I beat you!",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18701,
+"en": "Well, I'd love to, but I'm afraid I'm a little busy right\nnow.",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18702,
+"en": "Yeah, right! Some excuse that is... Whatever! I'll be here\nwaiting if you ever work up enough courage.",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18703,
+"en": "Ha! You're back! Ready to get pulverized in our dance\nbattle!?",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18704,
+"en": "Well, you've got guts, I'll give you that much. Just try not\nto cry when I beat you!",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18705,
+"en": "I lost!? After the performance I just gave!? How could I\nhave lost!?",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18706,
+"en": "Grr! How could a little stick like you possibly beat me!? It\ndoesn't make any sense!",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18707,
+"en": "I've worked so hard on my wardrobe and my diet so I could\nbecome a top idol! Do you have any idea what I've been\nthrough!?",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18708,
+"en": "Um... No, but⑬",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18709,
+"en": "Now I'm hungry! And it's all your fault! I'm gonna go get\nsome takoyaki. You wait right there!",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18710,
+"en": "Mmm, that was good! I had three helpings because of you!\nThanks for that!",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18711,
+"en": "Three helpings? But I thought you were trying to diet?",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18712,
+"en": "Shut up! Who asked you!? What I really wanted to have was\ncake, but I stopped myself. But what would you know!? You\ncould never understand!",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18713,
+"en": "Oh, no! What time is it!? The T-shirt sale at the\nsupermarket is just about to end! They're on sale for only\n500 yen each!",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18714,
+"en": "If I miss that sale, it'll be all your fault!",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18715,
+"en": "Wait a minute. When you said you've been working hard on\nyour wardrobe, did you mean bargain T-shirts?",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18716,
+"en": "When there's a supermarket sale, you have to go in prepared\nfor battle! They're serious business!",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18717,
+"en": "That may be true, but a bargain T-shirt isn't really what\nmost people would call \"fashionable,\" don't you think?",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18718,
+"en": "You've got something to say about everything, don't you,\nlittle stick girl!?",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18719,
+"en": "I'll get my revenge on you! Just you wait! You'd better\nenjoy your life while you still can!",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18720,
+"en": "Wow. Ulala sure is something...",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18721,
+"en": "You got 2,500 experience points.",
+"ctx": "diálogo uid00033c15 + diálogo uid01020bd9 …"
+},
+{
+"id": 18722,
+"en": "Ha! You lose! As expected! I told you a potato could dance\nbetter than you!",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18723,
+"en": "Wait a minute! Something was off about that battle...",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18724,
+"en": "I think the smaller girl danced better!",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18725,
+"en": "What's that!? You all got something to say!?",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18726,
+"en": "Fine! If the peanut gallery doesn't agree that I won, then\nI'll just do it again! I'll crush this girl as many times as you like!",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18727,
+"en": "You hear that, Haruka!? You'd better come back so I can\nprove to the crowd once again that I'm the best! I'll be\nwaiting for you!",
+"ctx": "diálogo uid00033c15"
+},
+{
+"id": 18728,
+"en": "What am I going to do? I'm stumped.",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18729,
+"en": "(What's this wacky getup? A street performer or somethin'?)",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18730,
+"en": "Sorry, sir. I'm not performing right now.",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18731,
+"en": "Ya sure about that? Way you're dressed, I'm expectin' you to squirt water out of a flower any second.",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18732,
+"en": "I just met with the festival organizers. I haven't had a chance to change.",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18733,
+"en": "Whatever. You take care.",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18734,
+"en": "Wait, stay a moment!",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18735,
+"en": "Eh?",
+"ctx": "diálogo uid00033c40 + diálogo uid00091ea0 …"
+},
+{
+"id": 18736,
+"en": "You came to see the snow festival, didn't you? Can I get your opinion on something?",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18737,
+"en": "Depends. On what?",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18738,
+"en": "My name's Inari. I was invited to add a little pizzazz to the festival.",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18739,
+"en": "So I put together a few acts to show the organizers...",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18740,
+"en": "And they didn't like any of it! They want me to do something with a local bent. Something that fits the snow festival theme.",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18741,
+"en": "A street performance with a snow festival theme? What the hell would that be?",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18742,
+"en": "Exactly! I have no idea!",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18743,
+"en": "Snow is white. Maybe something white? White sugar? I could bake a cake... while juggling!",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18744,
+"en": "Argh, that's stupid. And I'm running out of time!",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18745,
+"en": "So you're askin' random passersby for ideas?",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18746,
+"en": "I thought a visitor might have a fresh perspective on the snow festival.",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18747,
+"en": "Not me. I ain't even here for the snow festival.",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18748,
+"en": "Oh? I just assumed... I'm quite sorry.",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18749,
+"en": "It's fine. Look, I feel for ya, but I ain't exactly a guy who thinks up candy-ass festival ideas.",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18750,
+"en": "Sure... But hey, if you see anything around here that inspires you, come back and tell me.",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18751,
+"en": "I'm not trying to enlist you! Just, please, if you happen to be struck by an idea, I'd love to hear it.",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18752,
+"en": "You're some kinda desperate. All right. If I find somethin' interesting I'll let ya know.",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18753,
+"en": "Thank you! I'll be right here, racking my brains!",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18754,
+"en": "(Snow festival theme, huh? These snow statues gotta be it. Might as well have a look at 'em.)",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18755,
+"en": "If you were struck by any ideas for a street performance with a snow festival theme, I'd be grateful to hear them.",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18756,
+"en": "(Snow festival, huh? These snow statues gotta be part of that. Might as well have a look at 'em.)",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18757,
+"en": "Oh, hello! It's no good. I can't come up with any ideas.",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18758,
+"en": "You really a performer? Ya'd think a pro could come up with somethin'.",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18759,
+"en": "You're right... I should just quit. That would be better for everyone...",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18760,
+"en": "Hey, not so fast. Come on... ya gotta show a little more fight than that.",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18761,
+"en": "Easy for you to say.",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18762,
+"en": "Well, I did find somethin' that might help ya.",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18763,
+"en": "Really!? What is it?",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18764,
+"en": "Whaddaya think of a snowman?",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18765,
+"en": "A snowman...?",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18766,
+"en": "Yeah. Ya see the big snowman over there? Why doncha roll giant snowballs by riding on top of 'em, and make a huge snowman?",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18767,
+"en": "Ride giant snowballs and make a snowman?",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18768,
+"en": "I love that! I'm going with it!",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18769,
+"en": "You're gonna use my idea just like that? Did ya even do any thinkin' of your own?",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18770,
+"en": "Of course I did! I thought about it so hard I forgot all my good ideas.",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18771,
+"en": "But yours is so much better, anyway. You even cleverly incorporated the fact that I'm an expert ball-rider. I tip my hat to you, sir!",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18772,
+"en": "Eh? I didn't incorporate nothin'. How can you be an expert at ball⑬",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18773,
+"en": "Okay! I need to practice! Oh, I know! I'll do more than just ride the snowball. I'll juggle at the same time!",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18774,
+"en": "Wow! You listening to this? Ideas are pouring out of me now!",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18775,
+"en": "Pouring out of you? All ya did was add juggling.",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18776,
+"en": "Don't get hung up on the details. Anyway, thank you so much! You're my savior!",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18777,
+"en": "I'll put together a new act, and I hope you'll come see it!",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18778,
+"en": "If I got time.",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18779,
+"en": "Ooh, yeah! I'm going to be a star!",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18780,
+"en": "(Not sure how that's gonna go, but at least the fella's happy.)",
+"ctx": "diálogo uid00033c40"
+},
+{
+"id": 18781,
+"en": "You got 1,500 experience points.",
+"ctx": "diálogo uid00033c40 + diálogo uid00033c42 …"
+},
+{
+"id": 18782,
+"en": "Oh, hiya! Can I interest you in some okonomiyaki? No\nfoolin', they're real good!",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18783,
+"en": "I have to admit, it does smell great. But, uh, aren't all\nokonomiyaki from stalls pretty much the same?",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18784,
+"en": "Hey, now, those are fightin' words. No, we keep it real. We\ntake the time to get things right, from sourcing the flour\nto the final prep.",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18785,
+"en": "It's downright heartbreakin' to hear you lumpin' us all\ntogether with the usual street fare.",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18786,
+"en": "Is that right? Well, let's see you back up your claim. I'll\ntry one.",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18787,
+"en": "Thank you! I'll grill one up fresh and hot. Hang tight now.",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18788,
+"en": "Here ya go!",
+"ctx": "diálogo uid00033c42 + diálogo uid01340015"
+},
+{
+"id": 18789,
+"en": "Thanks. Best served hot, right?",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18790,
+"en": "Hm, hm... Whoa!",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18791,
+"en": "You weren't kidding, this is good! This stuff puts\nrestaurants to shame.",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18792,
+"en": "Absolutely. I'm confident in what I sell. Only trouble is\nthat lot over there've been takin' all my business. I'm\nreally hurtin' here.",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18793,
+"en": "Hi! Come on over!",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18794,
+"en": "Fresh okonomiyaki to go, right here!",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18795,
+"en": "And that charming pair over there?",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18796,
+"en": "They're yakuza goons who run things around here.",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18797,
+"en": "Whenever we get customers, they cause trouble to scare them\noff.",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18798,
+"en": "Classic...",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18799,
+"en": "Huh? Hey...",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18800,
+"en": "Yo, Yasuo, what's up? Got yourself a customer?",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18801,
+"en": "Nice goin'. Business's been a little slow lately, huh?",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18802,
+"en": "What's it to you? Our okonomiyaki's better than the crap\nyou're servin'. Ain't no wonder customers choose us over\nyou.",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18803,
+"en": "Ya can talk the talk, I'll give ya that.",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18804,
+"en": "But hey, Yasuo, wrap your head around this. What happens if\nrumors start spreadin'? Drop money at Yasuo's place, and a\ncoupla scary folks'll kick your ass.",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18805,
+"en": "What!? Don't ya dare! The customers ain't got nothin' to do\nwith this.",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18806,
+"en": "They got everythin' to do with this, dipshit! Folks who\ncan't appreciate good food need to be shown the error of their ways.",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18807,
+"en": "See, pal, we got no personal axe to grind with ya, but we\ngotta thump ya. Just good business, ya know? No hard\nfeelings.",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18808,
+"en": "Haha... That's some business model you've got there. You\ndon't actually believe that, do you?",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18809,
+"en": "You're a man of reason. I like that. But this is our\nterritory, so we make the rules. Whatever we do, that's\njustice, see?",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18810,
+"en": "So, let's get this over with, pal. Remember, if ya wanna\nthank someone for your bumps and bruises, you can thank Yasuo.",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18811,
+"en": "Ow, fuck, owww... Who the hell are you? You're a monster.",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18812,
+"en": "Sorry to disappoint, but I'm just a passing customer. Nice\nto see you fellows are so committed to your job, but learn\nto pick your fights better, all right?",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18813,
+"en": "Tch... This ain't over!",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18814,
+"en": "Sorry about that. I shouldn't be causing a scene in front of your place.",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18815,
+"en": "Oh, no problem at all. That was a heck of a display. Say,\nwhaddya call that style of yours? You kicked those goons\naround like they were sacks of rice.",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18816,
+"en": "Huh? Oh, yeah. Might've gotten a little carried away...",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18817,
+"en": "No, you were awesome! You really inspired me. If it were me\nputtin' on an acrobatic spectacle like that, people'd come\nfrom miles around to see what I'm cookin'.",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18818,
+"en": "Mister, what's your name?",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18819,
+"en": "Huh? I'm Akiyama.",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18820,
+"en": "Akiyama-han, just you watch, I'm gonna be the Akiyama-han of\nthe okonomiyaki world!",
+"ctx": "diálogo uid00033c42"
+},
+{
+"id": 18821,
+"en": "I already got the flavor down. All's I need now is a\nshowstoppin' performance that'll capture the hearts and\nminds of the customers!",
+"ctx": "diálogo uid00033c42"
+}
+]

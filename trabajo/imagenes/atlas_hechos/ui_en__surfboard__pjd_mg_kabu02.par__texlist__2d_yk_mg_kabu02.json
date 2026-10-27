@@ -1,0 +1,233 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_kabu02.par/texlist/2d_yk_mg_kabu02",
+ "fuente": "timesbd.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    5,
+    340,
+    105
+   ],
+   "en": "Zero",
+   "ocr": "Zero",
+   "es": "Cero",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 336
+  },
+  {
+   "caja": [
+    684,
+    5,
+    1024,
+    105
+   ],
+   "en": "Two",
+   "ocr": "Two",
+   "es": "Dos",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 336
+  },
+  {
+   "caja": [
+    342,
+    5,
+    682,
+    105
+   ],
+   "en": "One",
+   "ocr": "One",
+   "es": "Uno",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 336
+  },
+  {
+   "caja": [
+    0,
+    116,
+    340,
+    216
+   ],
+   "en": "Three",
+   "ocr": "Three",
+   "es": "Tres",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 336
+  },
+  {
+   "caja": [
+    342,
+    116,
+    682,
+    216
+   ],
+   "en": "Four",
+   "ocr": "Four",
+   "es": "Cuatro",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 336
+  },
+  {
+   "caja": [
+    684,
+    116,
+    1024,
+    216
+   ],
+   "en": "Five",
+   "ocr": "Five",
+   "es": "Cinco",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 336
+  },
+  {
+   "caja": [
+    0,
+    227,
+    340,
+    327
+   ],
+   "en": "Six",
+   "ocr": "Six",
+   "es": "Seis",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 336
+  },
+  {
+   "caja": [
+    342,
+    227,
+    682,
+    327
+   ],
+   "en": "Seven",
+   "ocr": "Seven",
+   "es": "Siete",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 336
+  },
+  {
+   "caja": [
+    684,
+    227,
+    1024,
+    327
+   ],
+   "en": "Eight",
+   "ocr": "Eight",
+   "es": "Ocho",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 336
+  },
+  {
+   "caja": [
+    0,
+    338,
+    512,
+    438
+   ],
+   "en": "Four-One",
+   "ocr": "Four-One",
+   "es": "Cuatro-Uno",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 508
+  },
+  {
+   "caja": [
+    512,
+    338,
+    1024,
+    438
+   ],
+   "en": "Nine-One",
+   "ocr": "Nine-One",
+   "es": "Nueve-Uno",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 508
+  },
+  {
+   "caja": [
+    0,
+    449,
+    512,
+    549
+   ],
+   "en": "Storm",
+   "ocr": "Storm",
+   "es": "Tormenta",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 508
+  },
+  {
+   "caja": [
+    512,
+    449,
+    1024,
+    549
+   ],
+   "en": "Ten-Ten-One",
+   "ocr": "Ten-Ten-One",
+   "es": "Diez-Diez-Uno",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 508
+  },
+  {
+   "caja": [
+    0,
+    560,
+    340,
+    660
+   ],
+   "en": "Nine",
+   "ocr": "Nine",
+   "es": "Nueve",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 336
+  },
+  {
+   "caja": [
+    342,
+    560,
+    1024,
+    660
+   ],
+   "en": "Four-Six",
+   "ocr": "Four-Six",
+   "es": "Cuatro-Seis",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 678
+  }
+ ]
+}

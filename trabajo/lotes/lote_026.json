@@ -1,0 +1,987 @@
+[
+{
+"id": 8008,
+"en": "This powerhouse was a karate national champion back in middle school,\nbut it took a bout against Akiyama to teach him his limits. In his quest\nfor true strength, he has formed a tag team with his former rival.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 8009,
+"en": "Saejima once taught Tokita at the Sodachi Dojo. Now the student has\ndecided that he is the only suitable tag team partner for his former\nmaster.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 8010,
+"en": "This once-promising superstar of pro wrestling lost himself in\nan alcoholic haze after an injury shattered his dreams. It took a bout with\nShinada to open his eyes once more. Now he's out to prove something!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 8011,
+"en": "Japan",
+"ctx": "menú/texto string_tbl + tabla tougijyo_participant|NATIONALITY"
+},
+{
+"id": 8012,
+"en": "America",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 8013,
+"en": "Netherlands",
+"ctx": "menú/texto string_tbl + tabla tougijyo_participant|NATIONALITY"
+},
+{
+"id": 8014,
+"en": "Thailand",
+"ctx": "menú/texto string_tbl + tabla tougijyo_participant|NATIONALITY"
+},
+{
+"id": 8015,
+"en": "New Zealand",
+"ctx": "menú/texto string_tbl + tabla tougijyo_participant|NATIONALITY"
+},
+{
+"id": 8016,
+"en": "China",
+"ctx": "menú/texto string_tbl + tabla tougijyo_participant|NATIONALITY"
+},
+{
+"id": 8017,
+"en": "Unknown",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 8018,
+"en": "From a Far-off Land",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8019,
+"en": "Taxi SOS",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8020,
+"en": "King of the Mixer",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8021,
+"en": "Hunt for the Kidnapper",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8022,
+"en": "Another Haruka",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8023,
+"en": "Cyberterrorism",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8024,
+"en": "Kiryu the Actor",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8025,
+"en": "A Chance Meeting ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8026,
+"en": "A Knock on the Door",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8027,
+"en": "Dragon Seafood Bowl",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8028,
+"en": "The Spangled Meteor ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8029,
+"en": "Dragon Mask Redux",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8030,
+"en": "A Plea to the Gods",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8031,
+"en": "Fast Food!",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8032,
+"en": "The Perfect Seasoning",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8033,
+"en": "Mack Returns",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8034,
+"en": "Got to be Firm ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8035,
+"en": "Amon",
+"ctx": "tabla substory|TITLE + tabla dance_battle|NAME"
+},
+{
+"id": 8036,
+"en": "Truth and Lies",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8037,
+"en": "Hunter and Hunted",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8038,
+"en": "A Familiar Dojo",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8039,
+"en": "A Special Place ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8040,
+"en": "The Santa Hunters ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8041,
+"en": "Snow Festival Map",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8042,
+"en": "Big City Dreamin'",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8043,
+"en": "Gourmet Traveler ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8044,
+"en": "The Ultimate Warmth ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8045,
+"en": "Set Free ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8046,
+"en": "The Little Match Girl",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8047,
+"en": "The Frozen City ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8048,
+"en": "Slip and Slide ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8049,
+"en": "Snow Festival Performer ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8050,
+"en": "Winter Combat ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8051,
+"en": "The Letters",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8052,
+"en": "A Source of Strength ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8053,
+"en": "Lost Dreams ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8054,
+"en": "A Normal Life ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8055,
+"en": "Manager for a Day ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8056,
+"en": "The Announcer School ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8057,
+"en": "Gourmet Reporter ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8058,
+"en": "Light and Dark ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8059,
+"en": "Magical Haruka ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8060,
+"en": "Autograph Session ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8061,
+"en": "Watami vs. Watamin-chi ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8062,
+"en": "Find the Paparazzi ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8063,
+"en": "Starbound ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8064,
+"en": "The Comedian Hopeful",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8065,
+"en": "Giving up on a Dream",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8066,
+"en": "Money and Pride",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8067,
+"en": "A Moneylender's Principles ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8068,
+"en": "New Kid on the Block",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8069,
+"en": "A Quirky Idol ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8070,
+"en": "Barter Wars",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8071,
+"en": "The Stalker",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8072,
+"en": "Dancin' Akiyama",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8073,
+"en": "Geriatric Dance-Off ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8074,
+"en": "Story of a Stubborn Fool",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8075,
+"en": "Treats from All Over ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8076,
+"en": "Bad Boys",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8077,
+"en": "Subsidized Relationships ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8078,
+"en": "The Cursed PrintCircle ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8079,
+"en": "Okonomiyaki Performer ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8080,
+"en": "Dirty Heart",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8081,
+"en": "Daddy Papa",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8082,
+"en": "Saving Yourself",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8083,
+"en": "Want to Party? ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8084,
+"en": "Shinada's Interview ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8085,
+"en": "Next! ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8086,
+"en": "Miki-chan's Job",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8087,
+"en": "Getting it Sorted ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8088,
+"en": "A Precious Meal ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8089,
+"en": "The Old Scout's Eyes ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8090,
+"en": "The Great Scoop",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8091,
+"en": "Get Out the Vote ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8092,
+"en": "Shinada the Store Clerk ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8093,
+"en": "The Sweet Spot ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8094,
+"en": "Getting Rich Quick ",
+"ctx": "tabla substory|TITLE"
+},
+{
+"id": 8095,
+"en": "Christmas is coming up soon. It'd be good to do something for the kids. Maybe I'll ask Wada-san at the office for advice. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8096,
+"en": "Wada-san saw right through me. I guess I'll try and do what I can. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8097,
+"en": "I'll send money for Izumi's present using the ATM. 5,000 yen should be enough. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8098,
+"en": "I'll send money for Shiro's present using the ATM. 5,000 yen should be enough. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8099,
+"en": "I'll send money for Eri's present using the ATM. 8,000 yen should be enough. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8100,
+"en": "I'll send money for Riona's present using the ATM. 6,000 yen should be enough. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8101,
+"en": "I'll send money for Mitsuo's present using the ATM. 6,000 yen should be enough. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8102,
+"en": "I'll send money for Koji's present using the ATM. 10,000 yen should be enough. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8103,
+"en": "I'll send money for Taichi's present using the ATM. 10,000 yen should be enough. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8104,
+"en": "I'll send money for Ayako's present using the ATM. 20,000 yen should be enough. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8105,
+"en": "I wonder if this will cheer the kids up. Heh, I'm probably just doing it to feel better about myself. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8106,
+"en": "I've finished sending the eight kids money. I hope they have a good Christmas even without me there. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8107,
+"en": "There was apparently a taxi with its emergency light triggered on Nagasu Boulevard. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8108,
+"en": "The taxi just sped off all of a sudden. It looked like it was heading north along Nagasu Boulevard. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8109,
+"en": "It looks like the taxi is headed toward Suzukake Lane. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8110,
+"en": "It looks like the taxi went further south from Suzukake Lane. Maybe I should head to Fukuhaku Street. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8111,
+"en": "This is the guy behind it all! I've got to save the driver. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8112,
+"en": "It looks like we both had it wrong. Well, at least the misunderstanding is sorted out now. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8113,
+"en": "Kiyokawa is having a mixer party at Motsunabe Kaede. I want to help out if I can. Maybe they're still waiting outside. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8114,
+"en": "We made it through that mixer party. It didn't turn out as well as it could have, but those two seemed to be okay. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8115,
+"en": "I have to save that kidnapped kid! ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8116,
+"en": "I couldn't catch the kidnapper, but at least the kid is safe now. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8117,
+"en": "I'm glad I caught up to that kidnapper. It's a relief to know the kid is safe now. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8118,
+"en": "That was no ordinary dog howl. I think it was coming from behind the toilets next to the river. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8119,
+"en": "I guess idiots who gang up and prey upon the weak can be found anywhere. I think they need a little wake-up call. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8120,
+"en": "I need to bring Haruka's father to where she is. He should be at Café Portugal on Nagasu Boulevard. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8121,
+"en": "Who'd stoop to taking a young girl hostage? These guys are a lost cause. Time to make them pay. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8122,
+"en": "It was good to see Haruka and her father patch things up. I wish I could see my Haruka... ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8123,
+"en": "I have to do something about the chief's computer.",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8124,
+"en": "Looks like that messed it up badly. I probably should have stopped the chief.",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8125,
+"en": "I'm glad it wasn't anything too serious. I made the right call stopping the chief. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8126,
+"en": "Kudarizaka was looking for someone to stand in for him in a movie. I might still find him on Chikuzengawa Street. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8127,
+"en": "I've got to defeat the zombies just like the script says. It's kind of tricky, though. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8128,
+"en": "They want me fight this horde of zombies? These movie actors have a rough job. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8129,
+"en": "Time for the climactic scene of the movie. Hopefully I can pack plenty of action into it. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8130,
+"en": "I guess I didn't make a very good stand-in actor. The acting business is pretty tough. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8131,
+"en": "It looks like I did an okay job filling in on the movie. This acting business is a lot tougher than I imagined.",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8132,
+"en": "Yuya is the last person I expected to see in Nagasugai. Luckily, my true identity wasn't exposed to Muramatsu-san. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8133,
+"en": "It sounds like Yuya has his fair share of troubles, too. I hope things go well for him no matter what he decides. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8134,
+"en": "I got an email from Yuya. Apparently he got a job as a waiter at a cabaret club called La Seine. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8135,
+"en": "Yuya seemed to be doing well at that cabaret club. I'll have to check in on him again sometime. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8136,
+"en": "I wonder how Yuya is doing. Maybe I'll go see him at La Seine. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8137,
+"en": "Heh. Yuya has that same old spark in his eyes again now. I'll give him a hand with these yakuza. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8138,
+"en": "I know you still have things on your mind, Yuya, but good luck back at Stardust. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8139,
+"en": "Maybe a new neighbor came to introduce themselves? I pretended I was out, but I should say hi if they come back. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8140,
+"en": "It's one of those pushy newspaper salesmen. I think I'll rough him up a little to teach him a lesson. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8141,
+"en": "It was too much trouble to talk him around, so I signed up for a newspaper subscription. Talk about a pushy salesman. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8142,
+"en": "That newspaper salesman was about as obnoxious as they come, but I think he'll change his tune now. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8143,
+"en": "A fisherman invited me to do some river fishing. He's toward the north end of Chikuzengawa Street. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8144,
+"en": "It's sea fishing this time. That could be fun. I can meet him toward the north end of Chikuzengawa Street again. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8145,
+"en": "So Kimura-san is the Tuna King, huh? That Dragon Seafood Bowl tasted incredible. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8146,
+"en": "The Spangled Meteor? What sort of girl drives a car like that? ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8147,
+"en": "That Nanami girl had heard rumors about me. I wonder if she has something to do with the Spangled Meteor? ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8148,
+"en": "I got a challenge from the Spangled Meteor. The driver seems to know me, so maybe it really is Nanami. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8149,
+"en": "I got a challenge from the Spangled Meteor. I lost the last race, but this time I think I can win and unmask them.",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8150,
+"en": "The Spangled Meteor is Rena Nanami. She's a good woman who understands the importance of being honest with herself.",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8151,
+"en": "So this guy's name is Hors d'Oeuvre Morosawa? He's a little out of control. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8152,
+"en": "I could join him in the ring if I had something to hide my face with. Did I have anything like that at my apartment? ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8153,
+"en": "With the dragon mask, I can take part in the bout with Morosawa. I'll go home to prepare then head to Ose Bridge. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8154,
+"en": "I'll make Hors d'Oeuvre Morosawa's retirement fight a fitting end to his career. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8155,
+"en": "Who knew that dragon mask would come in handy? I think Morosawa got the closure he was looking for. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8156,
+"en": "That student who lost his answer booklet looked pretty stressed out. I wonder if he's still at Ose Bridge. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8157,
+"en": "I think that student learned something more important than the answers to his test. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8158,
+"en": "A food stall owner wanted me to help get his stall in place. He's probably still on Meisei Street.",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8159,
+"en": "Unless I get that poor guy's food stall in place soon, he won't be able to open on time. I'd better hurry up.",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8160,
+"en": "I lugged the food stall over, but it got a bit damaged. At least his patrons won't miss out on their food.",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8161,
+"en": "I lugged the food stall over in one piece. Now his patrons won't have to wait for their food.",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8162,
+"en": "It sounds like this place is pretty deep in debt. I should ask for more details in case I can help out. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8163,
+"en": "Tatsuya is scouring the country for ideas to use in his new creations. Once he's done, he might be able to lend a hand. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8164,
+"en": "Tatsuya said he was at Theater Square. I should go and meet him there. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8165,
+"en": "I bet Tatsuya can come up with plenty of other masterpiece dishes in the future. I hope he keeps it up. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8166,
+"en": "Mack Shinozuka... I met him in Kamurocho before. He seems to be traveling the world and taking photos again. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8167,
+"en": "Revelations, huh? I guess I'll let Mack know if I capture any moments that strike me as special. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8168,
+"en": "That food stall ramen I had with the chief tasted great. When I get a chance, I want to go and try it again. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8169,
+"en": "Cooking noodles is more hectic than I thought. The guy looked happy, so maybe I'll go help out again sometime. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8170,
+"en": "I got a challenge from the Amon Clan. Once we're all ready, their messenger outside New Serena will take us where they are.",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8171,
+"en": "We have to finish things with the Amon Clan. I need to make sure we all get back alive. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8172,
+"en": "I guess there's no end in sight for our struggle with the Amon Clan...",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8173,
+"en": "Those hostesses were talkin' about Himura near Rose Hip.",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8174,
+"en": "Could be others 'round here who knew Himura. Gotta be a lot of foot traffic passing through the arcade area. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8175,
+"en": "Another one of those arms deals Himura was talkin' about in the slammer could be goin' down. Probably in Ramen Village. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8176,
+"en": "There's supposed to be an arms deal at the plaza in Ramen Village. Cops'll be there, but I better go for a look. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8177,
+"en": "Ain't every day I end up protectin' cops from the mafia. Still, I'll pay back the debt I owe, Himura! ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8178,
+"en": "For better or worse, Himura's a show-off. I got taken in hook, line, and sinker. It was still fun, though.",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8179,
+"en": "That guy's three sheets to the wind. Better steer clear of him. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8180,
+"en": "That old guy in Ambitious was hammered. Maybe I oughta hear him out at least. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8181,
+"en": "Araseki-han ran off after the bag snatcher! They were headed towards Nakatsuki Street. I better go after 'em. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8182,
+"en": "Losers with no dreams ain't got a right to look down on Araseki-han. I'll show 'em the error of their ways. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8183,
+"en": "So Araseki-han was chasin' old Oshima, huh? I better watch my step next time I see him. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8184,
+"en": "Looks like Sodachi's been workin' on his skills. Let's see how far he's come. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8185,
+"en": "Sounds like Sodachi's trainin' his heart out. Hope he keeps makin' more progress. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8186,
+"en": "Sounds like Sodachi's in some kinda trouble! Better head to the dojo right now. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8187,
+"en": "This place is precious to us. No way I'm gonna let these guys ruin that! ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8188,
+"en": "Keep holdin' down the fort for us, Sodachi. That place is special to us all.",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8189,
+"en": "Who'd wanna harm Santa? I might go and help out later. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8190,
+"en": "Santa hunters? What's wrong with these guys? I better track 'em down and give 'em a talking-to. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8191,
+"en": "Don't tell me these guys are huntin' down Santas! Guess I'm gonna have to turn tail and run. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8192,
+"en": "Santa hunters, huh? I might help out if I get the chance. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8193,
+"en": "So these're the Santa hunters. Time to give 'em a piece of my mind. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8194,
+"en": "Guess that settles that. I could get used to bein' Santa. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8195,
+"en": "They need me to check where each of the snow sculptures are at. Guess I could pitch in for the sake of the festival. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8196,
+"en": "I was supposed to check where the snow sculptures are at. Gotta tell the guy on the west side of the snow festival. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8197,
+"en": "Looks like I messed up the location of the snow sculptures. Better check one more time and go tell that guy again. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8198,
+"en": "Looks like I messed up the location of the snow sculptures. The snow festival's gonna be fun. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8199,
+"en": "Looks like I got the snow sculpture locations right. I'm really lookin' forward to the snow festival. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8200,
+"en": "Masao said he was headed to Tsukimino. Hope his mom at the village'll be okay. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8201,
+"en": "Gotta deliver this letter to Masao that his mom gave me. Think he was workin' at a place called Apocalypse. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8202,
+"en": "There's a place called Apocalypse near Rose Hip. Gotta deliver this letter to Masao that his mom gave me. ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8203,
+"en": "Looks like Masao got set up by that club. He ain't there anymore, so where's he at now? ",
+"ctx": "tabla substory|EXPLANATION"
+},
+{
+"id": 8204,
+"en": "Looks like Masao's learnin' a few lessons about life. Now I gotta teach these guys a lesson as well! ",
+"ctx": "tabla substory|EXPLANATION"
+}
+]

@@ -1,0 +1,40 @@
+{
+ "textura": "ui_en/surfboard/pjd_btl_enemy.par/texlist/2d_jm_life_eff5",
+ "fuente": "times.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    280,
+    132,
+    456,
+    168
+   ],
+   "en": "Escape",
+   "ocr": "Esc ape",
+   "es": "",
+   "fuente": "times.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 172,
+   "dejar": true
+  },
+  {
+   "caja": [
+    324,
+    208,
+    447,
+    248
+   ],
+   "en": "Escape",
+   "ocr": "Esc ape",
+   "es": "",
+   "fuente": "times.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 119,
+   "dejar": true
+  }
+ ]
+}

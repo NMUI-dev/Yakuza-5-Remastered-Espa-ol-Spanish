@@ -1,0 +1,1057 @@
+[
+{
+"id": 49900,
+"en": "(I'll check the instructions.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304dc …"
+},
+{
+"id": 49901,
+"en": "(Maybe I should read the instructions.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304dc …"
+},
+{
+"id": 49902,
+"en": "(Better read the instructions.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013309b8"
+},
+{
+"id": 49903,
+"en": "(Let's take a look at those instructions.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304dc …"
+},
+{
+"id": 49904,
+"en": "(I better read the instructions.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304dc …"
+},
+{
+"id": 49905,
+"en": "(Nah, not now.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304dc …"
+},
+{
+"id": 49906,
+"en": "(Maybe another time.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304dc …"
+},
+{
+"id": 49907,
+"en": "(I didn't get a bite.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304dc …"
+},
+{
+"id": 49908,
+"en": "(Looks like I didn't get a bite.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304dc …"
+},
+{
+"id": 49909,
+"en": "(They ain't bitin'.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304dc …"
+},
+{
+"id": 49910,
+"en": "(Guess I struck out.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304dc …"
+},
+{
+"id": 49911,
+"en": "(Hmm, didn't catch anything.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304dc …"
+},
+{
+"id": 49912,
+"en": "(My cast was off.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304dc …"
+},
+{
+"id": 49913,
+"en": "(Missed my mark.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304dc …"
+},
+{
+"id": 49914,
+"en": "(Bah, blew that cast.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304dc …"
+},
+{
+"id": 49915,
+"en": "(Guess I cast a foul.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304dc …"
+},
+{
+"id": 49916,
+"en": "(My cast didn't go where I wanted.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304dc …"
+},
+{
+"id": 49917,
+"en": "(The line broke.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304dc …"
+},
+{
+"id": 49918,
+"en": "(Looks like my line broke.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304dc …"
+},
+{
+"id": 49919,
+"en": "(Great, my line broke.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304dc …"
+},
+{
+"id": 49920,
+"en": "(How come my line broke?)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304dc …"
+},
+{
+"id": 49921,
+"en": "(The fish got away.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304dc …"
+},
+{
+"id": 49922,
+"en": "(Guess I lost that one.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304dc …"
+},
+{
+"id": 49923,
+"en": "(It got away.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304dc …"
+},
+{
+"id": 49924,
+"en": "(Looks like it got away.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304dc …"
+},
+{
+"id": 49925,
+"en": "(Aw, it got away.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304de …"
+},
+{
+"id": 49926,
+"en": "(I should use some new bait.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304dc …"
+},
+{
+"id": 49927,
+"en": "(Maybe I should try some new bait.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304dc …"
+},
+{
+"id": 49928,
+"en": "(Lemme try some other kinda bait.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304dc …"
+},
+{
+"id": 49929,
+"en": "(Time to switch up the bait.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304dc …"
+},
+{
+"id": 49930,
+"en": "(Maybe a new kind of bait will work.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304dc …"
+},
+{
+"id": 49931,
+"en": "(That's enough for now.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304dc …"
+},
+{
+"id": 49932,
+"en": "(I've had enough fishing for now.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304dc …"
+},
+{
+"id": 49933,
+"en": "(I'm gonna call it quits for now.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304dc …"
+},
+{
+"id": 49934,
+"en": "(That's enough fishing for now.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304dc …"
+},
+{
+"id": 49935,
+"en": "(I think I'll stop for now.)",
+"ctx": "diálogo uid013303c9 + diálogo uid013304dc …"
+},
+{
+"id": 49936,
+"en": "Okay. Let's head to Ushijima-san's restaurant, shall we?",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49937,
+"en": "Hope we can get something useful.",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49938,
+"en": "(Ushijima-san's place is on Kumano Boulevard.)",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49939,
+"en": "What you got there? Looks like something an official scorer would compile.",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49940,
+"en": "Oh, this data's better than your average scorer's.",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49941,
+"en": "Where'd you get this? Someone from the Wyverns?",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49942,
+"en": "Don't tell me... Have you been putting together pitching data all this time?",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49943,
+"en": "No matter how much I try... I just can't say goodbye to baseball.",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49944,
+"en": "Hold up. There's more than just Sawada on there.",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49945,
+"en": "This data highlights the pitchers of all twelve major clubs. Course, pitch type, speed, accuracy⑬it's all there.",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49946,
+"en": "Takasugi-san. Remember when I said I can't just hit a home run even if I knew what pitch was coming?",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49947,
+"en": "That's actually only half true.",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49948,
+"en": "In the pros, just swinging at whatever comes won't make you any good.",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49949,
+"en": "You have to go to bat knowing about eighty percent of what the pitcher's gonna throw.",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49950,
+"en": "How often you can turn those into hits is what separates the best from the rest.",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49951,
+"en": "So you're saying you deliberately went to hit that home run?",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49952,
+"en": "Yeah. I knew what was coming.",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49953,
+"en": "I knew after six straight curveballs on a 0-2 count, Sawada would go for a fastball.",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49954,
+"en": "Then what are you trying to prove by poring over this stuff?",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49955,
+"en": "Don't tell me you can somehow pinpoint the Nagoya Family through pitching data?",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49956,
+"en": "No, I was checking to see if what Manabe-san and Sakai-san said was true.",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49957,
+"en": "Which was?",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49958,
+"en": "Manabe-san said the match fixing stopped as soon as I was banned from the league.",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49959,
+"en": "This data backs it up. It's like the Wyverns completely transformed after that game.",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49960,
+"en": "It might not be obvious to the untrained eye, but any weird\npitch selections or random bench-shuffling altogether\nvanished from their play.",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49961,
+"en": "You can tell that just from the data?",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49962,
+"en": "You might be surprised how much baseball adheres to set patterns of play.",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49963,
+"en": "Can't argue there.",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49964,
+"en": "That's not all. After my one and only game, the Wyverns completely changed their roster.",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49965,
+"en": "Their policy used to favor local talent, but all of a sudden they went after foreign players and actively engaged in trades.",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49966,
+"en": "But that's the opposite of what Sakai said. Didn't he say you were sacrificed to protect Nagoya?",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49967,
+"en": "What else could he mean but protecting local players?",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49968,
+"en": "Could be. But I think when Sakai-san mentioned Nagoya, it wasn't just about our old team.",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49969,
+"en": "I'm thinking it's something bigger. Like something that concerns the whole town.",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49970,
+"en": "All of Kineicho?",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49971,
+"en": "We both know this town has a dark side, but we're clueless about what happens in the shadows.",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49972,
+"en": "Now, if we want to find more about the Nagoya Family, we're gonna have to search beyond just baseball.",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49973,
+"en": "So that scandal of yours really did change the face of this town. And you're saying we get to the bottom of it.",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49974,
+"en": "Isn't there anyone who's in the know about these things?",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49975,
+"en": "There's a perfect guy for that. He's really well-known here in town.",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49976,
+"en": "The Chamber of Commerce chairman and esteemed local chef, Ushijima-san.",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49977,
+"en": "He's treated me good ever since I wound up here. Whatever kind of secret's going on around these parts, he would know.",
+"ctx": "diálogo uid013303cd"
+},
+{
+"id": 49978,
+"en": "So, what is it you wanted to ask me?",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 49979,
+"en": "It's a question about Nagoya.",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 49980,
+"en": "Oh? I never took you for one of those concerned citizen\ntypes.",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 49981,
+"en": "Well, let's just say I have to write a non-sexy article for once. That's all it is.",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 49982,
+"en": "Look, did something abruptly change around here 15 years back?",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 49983,
+"en": "For instance, I heard the Nagoya Family started popping up around that time.",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 49984,
+"en": "What, so now you're after details about the Nagoya Family? Then I've got nothing to tell you.",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 49985,
+"en": "We owe the Nagoya Family our livelihood.",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 49986,
+"en": "15 years ago, Kineicho was a bloody nightmare.",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 49987,
+"en": "Honjincho Street was caught in a turf war between the Tojo Clan and the Omi Alliance.",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 49988,
+"en": "Those militants were always causing some sort of scuffle or strife. Not to mention crime.",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 49989,
+"en": "But it's so peaceful now.",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 49990,
+"en": "Back then, the Tojo and the Omi controlled the baseball betting business.",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 49991,
+"en": "Plus this city's caught right between them, so any conflicts they had spilled over into our everyday lives.",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 49992,
+"en": "But after a certain incident, the two gangs were suddenly forced out of Nagoya.",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 49993,
+"en": "That match fixing scandal with the Wyverns 15 years ago.\nYou don't remember?",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 49994,
+"en": "Oh, yeah, that.",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 49995,
+"en": "Well, I'm not really a sports person, so I can't say I know all the details.",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 49996,
+"en": "But the scandal brought baseball betting under the law's\nwatchful eye. And evidently, that was enough to push the\nTojo and the Omi out of Nagoya for good.",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 49997,
+"en": "With those two tyrants gone, the Nagoya Family stepped in to clean up their mess.",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 49998,
+"en": "They've been looking after our town ever since.",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 49999,
+"en": "They're still yakuza, no doubt, but they don't start\nconflicts or run protection on us.",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 50000,
+"en": "By and large, we all get to live out our days in peace...\nin exchange for one little major league hiccup.",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 50001,
+"en": "A sacrifice for Nagoya...",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 50002,
+"en": "The dots are starting to connect.",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 50003,
+"en": "So, I take it you know who the boss of this Nagoya Family is?",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 50004,
+"en": "I can't imagine why you'd want to know, but I suggest you give that up.",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 50005,
+"en": "I couldn't tell you who's in charge, and I don't give a damn. The Nagoya Family protects us behind the scenes.",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 50006,
+"en": "For anyone doing business in this town, that's all we need to know.",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 50007,
+"en": "Ta-chan!? Please, I need your help! They took my brother away!",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 50008,
+"en": "They took Toriyama-san? Who?",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 50009,
+"en": "I don't know. One of the men had a wound on his cheek.",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 50010,
+"en": "I'm following them now. I'm near Warehouse 62 at the port. Ahhh⑬!",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 50011,
+"en": "Milky-chan!?",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 50012,
+"en": "Takasugi-san, there's somewhere I need to be!",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 50013,
+"en": "Sheesh. If you're going, I have to go too, dammit.",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 50014,
+"en": "Okay, Ushijima-san. If you think of anything, let me know.",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 50015,
+"en": "Oh, uh, I don't have to put this coffee on a tab, do I?",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 50016,
+"en": "Hey, what are you doing here at this hour? Come to settle your tab?",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 50017,
+"en": "Actually, I came here to ask you something.",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 50018,
+"en": "I told you, you're banned until you pay me in full.",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 50019,
+"en": "In that case, I'll cover it.",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 50020,
+"en": "And you must be the loan shark shaking Shinada down. Haven't heard much good about you.",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 50021,
+"en": "Don't know what kind of horror stories you're hearing, but all my clients love me.",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 50022,
+"en": "Well, as far as I'm concerned, whoever pays the bill is a valued customer.",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 50023,
+"en": "Huh? What the hell? You ran up a tab this high?",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 50024,
+"en": "You're not gonna, um...?",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 50025,
+"en": "Of course I'm tacking this on to your loan.",
+"ctx": "diálogo uid013303d8"
+},
+{
+"id": 50026,
+"en": "In this rhythm action game, you press buttons in time with a song. When the bar beneath the lyrics reaches a button icon, press that button and you're good to go.",
+"ctx": "diálogo uid013303f3"
+},
+{
+"id": 50027,
+"en": "If your timing is way off or if you press the wrong button, it'll count against you.",
+"ctx": "diálogo uid013303f3"
+},
+{
+"id": 50028,
+"en": "Well-timed, accurate button presses will score you lots of points, but too many mistakes and the song will come to an abrupt end.",
+"ctx": "diálogo uid013303f3"
+},
+{
+"id": 50029,
+"en": "Complete the game by singing (or letting your partner sing) a song from start to finish. Familiarize yourself with each song and perfect your technique as you aim for a new high score.",
+"ctx": "diálogo uid013303f3"
+},
+{
+"id": 50030,
+"en": "<Color:14>You can choose to switch between English and Japanese lyrics\nin the Options Menu.<Color:Default>",
+"ctx": "diálogo uid013303f3"
+},
+{
+"id": 50031,
+"en": "Your time is almost up. Please bring the microphones and your check to the front before leaving.",
+"ctx": "diálogo uid013303f3"
+},
+{
+"id": 50032,
+"en": "Your time is almost up. Would you like to extend your session for 500 yen?",
+"ctx": "diálogo uid013303f3"
+},
+{
+"id": 50033,
+"en": "(I don't have any cash on me, so...)\n　No, thanks.",
+"ctx": "diálogo uid013303f3"
+},
+{
+"id": 50034,
+"en": "Yeah, sounds good.",
+"ctx": "diálogo uid013303f3"
+},
+{
+"id": 50035,
+"en": "An extension? Yes, sir. Thank you very much. Enjoy your time.",
+"ctx": "diálogo uid013303f3"
+},
+{
+"id": 50036,
+"en": "Thank you very much. Please bring your microphones and your check to the front before leaving.",
+"ctx": "diálogo uid013303f3"
+},
+{
+"id": 50037,
+"en": "(Ain't got much money, so...)\n　Nah, I'm gonna pass.",
+"ctx": "diálogo uid013303f3"
+},
+{
+"id": 50038,
+"en": "Sure, why not?",
+"ctx": "diálogo uid013303f3"
+},
+{
+"id": 50039,
+"en": "(I'm a little light on cash, so...)\n　I don't think so.",
+"ctx": "diálogo uid013303f3"
+},
+{
+"id": 50040,
+"en": "(I'm short on cash, so that's it for now.)\n　No, thank you.",
+"ctx": "diálogo uid013303f3"
+},
+{
+"id": 50041,
+"en": "Yes, I'd like to stay a bit longer.",
+"ctx": "diálogo uid013303f3"
+},
+{
+"id": 50042,
+"en": "An extension? Yes, miss. Thank you very much. Enjoy your time.",
+"ctx": "diálogo uid013303f3"
+},
+{
+"id": 50043,
+"en": "(You're in good hands, Uno-san. Now to find me a cab to Warehouse 62. It's at the port, so Takasugi-san shouldn't be long after.)",
+"ctx": "diálogo uid013303f6"
+},
+{
+"id": 50044,
+"en": "(Gotta catch a cab to Warehouse 62, dockside. What did Milky-chan's brother get himself into this time?)",
+"ctx": "diálogo uid013303f6"
+},
+{
+"id": 50045,
+"en": "Uno-san? What's he want now?",
+"ctx": "diálogo uid013303f6"
+},
+{
+"id": 50046,
+"en": "Sorry, Uno-san, but we're a little busy here!",
+"ctx": "diálogo uid013303f6"
+},
+{
+"id": 50047,
+"en": "Shinada, get out while you still can!",
+"ctx": "diálogo uid013303f6"
+},
+{
+"id": 50048,
+"en": "Uno-san? What's wrong!?",
+"ctx": "diálogo uid013303f6"
+},
+{
+"id": 50049,
+"en": "These bastards showed up and... Gwah!",
+"ctx": "diálogo uid013303f6"
+},
+{
+"id": 50050,
+"en": "Hey, what're you doing on the phone? We have to hurry.",
+"ctx": "diálogo uid013303f6"
+},
+{
+"id": 50051,
+"en": "It's Uno-san. He's in trouble! We have to check on him first!",
+"ctx": "diálogo uid013303f6"
+},
+{
+"id": 50052,
+"en": "...You shitting me?",
+"ctx": "diálogo uid013303f6"
+},
+{
+"id": 50053,
+"en": "Hang on! Stay with me, Uno-san!",
+"ctx": "diálogo uid013303fb"
+},
+{
+"id": 50054,
+"en": "I'll call an ambulance! Shinada, go help your friends!",
+"ctx": "diálogo uid013303fb"
+},
+{
+"id": 50055,
+"en": "I'll be right behind you. And I'd better not find your ass dead!",
+"ctx": "diálogo uid013303fb"
+},
+{
+"id": 50056,
+"en": "(That's Warehouse 62 up ahead. Milky-chan and her brother\nmight be inside!)",
+"ctx": "diálogo uid013303fe"
+},
+{
+"id": 50057,
+"en": "Milky-chan, are you all right!?",
+"ctx": "diálogo uid013303fe"
+},
+{
+"id": 50058,
+"en": "Milky-chan, where is he? Where'd they take your brother?",
+"ctx": "diálogo uid013303fe"
+},
+{
+"id": 50059,
+"en": "Ta-chan, I'm sorry.",
+"ctx": "diálogo uid013303fe"
+},
+{
+"id": 50060,
+"en": "Ugh... Ushijima-san?",
+"ctx": "diálogo uid013303fe"
+},
+{
+"id": 50061,
+"en": "We got orders to take you out, Shinada.",
+"ctx": "diálogo uid013303fe"
+},
+{
+"id": 50062,
+"en": "It's your fault for not heeding the warnings.",
+"ctx": "diálogo uid013303fe"
+},
+{
+"id": 50063,
+"en": "If only you'd gotten scared away from all those incidents in town... it wouldn't have come to this.",
+"ctx": "diálogo uid013303fe"
+},
+{
+"id": 50064,
+"en": "You wanted to know about the Nagoya Family so bad? Well here's your answer.",
+"ctx": "diálogo uid013303fe"
+},
+{
+"id": 50065,
+"en": "I don't believe it... I <Italic>won't</Italic> believe it.",
+"ctx": "diálogo uid013303fe"
+},
+{
+"id": 50066,
+"en": "Any last words? We've known each other all of 15 years. I can listen to your will at least.",
+"ctx": "diálogo uid013303fe"
+},
+{
+"id": 50067,
+"en": "Hah. I know you're all good people. So you can stop playing the villain any time now.",
+"ctx": "diálogo uid013303fe"
+},
+{
+"id": 50068,
+"en": "Maybe I was too dumb for school, but I did learn how to read people.",
+"ctx": "diálogo uid013303fe"
+},
+{
+"id": 50069,
+"en": "And I know that every one of you opened your hearts to me!",
+"ctx": "diálogo uid013303fe"
+},
+{
+"id": 50070,
+"en": "That's why I can't believe your little gangster act!",
+"ctx": "diálogo uid013303fe"
+},
+{
+"id": 50071,
+"en": "Those accidents around town, and Sakai-san's death⑬you're saying you're behind all that!?",
+"ctx": "diálogo uid013303fe"
+},
+{
+"id": 50072,
+"en": "You all sold out to the Nagoya Family!?",
+"ctx": "diálogo uid013303fe"
+},
+{
+"id": 50073,
+"en": "Buddy. We <Italic>are</Italic> the Nagoya Family. A group of ordinary citizens dedicated to the cause.",
+"ctx": "diálogo uid013303fe"
+},
+{
+"id": 50074,
+"en": "Now I don't like the idea of being considered yakuza, but I\nguess that's how it goes.",
+"ctx": "diálogo uid013303fe"
+},
+{
+"id": 50075,
+"en": "Ushijima-san, if you really wanted to kill me, you could've\ndone so anytime you wanted.",
+"ctx": "diálogo uid013303fe"
+},
+{
+"id": 50076,
+"en": "But you didn't. Why is that?",
+"ctx": "diálogo uid013303fe"
+},
+{
+"id": 50077,
+"en": "Somebody's forcing you, aren't they?",
+"ctx": "diálogo uid013303fe"
+},
+{
+"id": 50078,
+"en": "And you're only doing this because you're following their orders, right?",
+"ctx": "diálogo uid013303fe"
+},
+{
+"id": 50079,
+"en": "Tell me who it is!",
+"ctx": "diálogo uid013303fe"
+},
+{
+"id": 50080,
+"en": "Milky, just do it already.",
+"ctx": "diálogo uid013303fe"
+},
+{
+"id": 50081,
+"en": "What are you asking? You're gonna make a girl do it?",
+"ctx": "diálogo uid013303fe"
+},
+{
+"id": 50082,
+"en": "I, uh... Ushijima-san?",
+"ctx": "diálogo uid013303fe"
+},
+{
+"id": 50083,
+"en": "Fine then. I'll end it.",
+"ctx": "diálogo uid013303fe"
+},
+{
+"id": 50084,
+"en": "Tatsuo, you okay now?",
+"ctx": "diálogo uid01330403"
+},
+{
+"id": 50085,
+"en": "Uh-huh. Good to go.",
+"ctx": "diálogo uid01330403"
+},
+{
+"id": 50086,
+"en": "Then make sure you prepare for what's ahead.",
+"ctx": "diálogo uid01330403"
+},
+{
+"id": 50087,
+"en": "There's no telling what may happen in Tokyo.",
+"ctx": "diálogo uid01330403"
+},
+{
+"id": 50088,
+"en": "Okay. Will do.",
+"ctx": "diálogo uid01330403"
+},
+{
+"id": 50089,
+"en": "Huh? Dojima, you said? Wait... could it be?",
+"ctx": "diálogo uid01330403"
+},
+{
+"id": 50090,
+"en": "Let's see... Huh, where are you?",
+"ctx": "diálogo uid01330403"
+},
+{
+"id": 50091,
+"en": "I swear, I remember a Dojima-kun in Homeroom 1 who had the\nbest grades in the class. Uh...",
+"ctx": "diálogo uid01330403"
+},
+{
+"id": 50092,
+"en": "I was in Homeroom 1 all right, but I'm not in that yearbook.",
+"ctx": "diálogo uid01330403"
+},
+{
+"id": 50093,
+"en": "Huh? Why not?",
+"ctx": "diálogo uid01330403"
+},
+{
+"id": 50094,
+"en": "Because I never graduated. I was expelled.",
+"ctx": "diálogo uid01330403"
+},
+{
+"id": 50095,
+"en": "You were!?",
+"ctx": "diálogo uid01330403"
+},
+{
+"id": 50096,
+"en": "I caused some major trouble the summer of our third year...\nI ended up graduating from juvie instead.",
+"ctx": "diálogo uid01330403"
+},
+{
+"id": 50097,
+"en": "Juvie? Huh? As in juvenile detention!?",
+"ctx": "diálogo uid01330403"
+},
+{
+"id": 50098,
+"en": "I had it out with a gang from Kamuro Tech High.",
+"ctx": "diálogo uid01330403"
+},
+{
+"id": 50099,
+"en": "Kamuro Tech? They were Tokyo's worst bad-boy school. We played them in the East Tokyo Final.",
+"ctx": "diálogo uid01330403"
+},
+{
+"id": 50100,
+"en": "Huh? Wait. There was someone who fought a whole bunch of Kamuro Tech guys all by himself the day before our regional final. Was that...",
+"ctx": "diálogo uid01330403"
+},
+{
+"id": 50101,
+"en": "I remember that. Those punks from Kamuro Tech were threatening our players to forfeit the final.",
+"ctx": "diálogo uid01330403"
+},
+{
+"id": 50102,
+"en": "But the day before the game, they all got sent to the emergency room.",
+"ctx": "diálogo uid01330403"
+},
+{
+"id": 50103,
+"en": "That let us play the final without interference. We won and went on to nationals!",
+"ctx": "diálogo uid01330403"
+},
+{
+"id": 50104,
+"en": "And at Koshien, we lost 2 to 1 in the first round, to Sawada and the rest of Chukyo Academy.",
+"ctx": "diálogo uid01330403"
+},
+{
+"id": 50105,
+"en": "Your home run was our only hit. I saw it on TV, in a waiting room at family court.",
+"ctx": "diálogo uid01330403"
+},
+{
+"id": 50106,
+"en": "But man, that blows my mind... I had no idea you saved our\nhides back then. Why would you put yourself through that?",
+"ctx": "diálogo uid01330403"
+},
+{
+"id": 50107,
+"en": "For me, seeing the baseball team make it to nationals at Koshien...",
+"ctx": "diálogo uid01330403"
+},
+{
+"id": 50108,
+"en": "No, for everyone at West Kamuro that summer, that was our dream.",
+"ctx": "diálogo uid01330403"
+},
+{
+"id": 50109,
+"en": "Your dream?",
+"ctx": "diálogo uid01330403"
+},
+{
+"id": 50110,
+"en": "Yeah. You were the one who gave us that dream in the first place.",
+"ctx": "diálogo uid01330403"
+}
+]

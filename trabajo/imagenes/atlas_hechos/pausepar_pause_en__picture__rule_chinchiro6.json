@@ -1,0 +1,100 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_chinchiro6",
+ "fuente": "verdana.ttf",
+ "margen": 0,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    459,
+    7,
+    565,
+    46
+   ],
+   "en": "Cee-lo",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    143,
+    75,
+    935,
+    107
+   ],
+   "en": "On their first turn, a player can decide to forfeit their right",
+   "es": "En su primer turno, un jugador puede renunciar a su derecho",
+   "fuente": "verdana.ttf",
+   "alin": "izq",
+   "ancho_max": 786,
+   "efecto": "nada",
+   "color": [
+    45,
+    45,
+    45
+   ],
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    143,
+    107,
+    935,
+    139
+   ],
+   "en": "to three tries and instead throw the dice only once, but with",
+   "es": "a tres intentos y lanzar los dados una sola vez, pero con",
+   "fuente": "verdana.ttf",
+   "alin": "izq",
+   "ancho_max": 786,
+   "efecto": "nada",
+   "color": [
+    45,
+    45,
+    45
+   ],
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    143,
+    139,
+    935,
+    172
+   ],
+   "en": "a triple payout if they win. This is called a One-roll Triple.",
+   "es": "un pago triple si gana. Esto se conoce como Triple en una tirada.",
+   "fuente": "verdana.ttf",
+   "alin": "izq",
+   "ancho_max": 786,
+   "efecto": "nada",
+   "color": [
+    45,
+    45,
+    45
+   ],
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    242,
+    338,
+    395,
+    373
+   ],
+   "en": "One-roll Triple",
+   "ocr": "One-roll Triple",
+   "es": "",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 149,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "dejar": true
+  }
+ ]
+}

@@ -1,0 +1,857 @@
+[
+{
+"id": 18084,
+"en": "You got <Color:8>Brass Straight Barrel and Point<Color:Default>.",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18085,
+"en": "You got <Color:8>Kite Flight and Shaft<Color:Default>.",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18086,
+"en": "You got <Color:8>Teardrop Flight and Shaft<Color:Default>.",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18087,
+"en": "They're customization parts. You know what to do with them?",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18088,
+"en": "They're a little cutesy since they're mine and all. You don't mind, though, yeah?",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18089,
+"en": "It's fun coming up with different combinations and making your own personalized set of darts.",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18090,
+"en": "Okay, I'm going to keep working on my skills. Let's have another game sometime!",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18091,
+"en": "Hey, feel like a game of darts with me?",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18092,
+"en": "Yeah, I guess I have time for that.",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18093,
+"en": "Okay, let's see what you can do, then!",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18094,
+"en": "Great! I'm actually thinking of trying my luck in a little tournament coming up. I've been looking for someone to practice with.",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18095,
+"en": "My name's Shino. Good to meet you. Let's play some 301, then. Don't hold back, okay?",
+"ctx": "diálogo uid000210d0"
+},
+{
+"id": 18096,
+"en": "(This was fun. Maybe I'll do something else now.)",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18097,
+"en": "Wow, you're really good at this, Kiryu-san! I'm kinda impressed!\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18098,
+"en": "Aww, guess it's a draw. I'll beat ya next time for sure!\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18099,
+"en": "That was wicked fun! Call me again sometime! <Color:255,200,200,255>⑮<Color:Default>\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18100,
+"en": "That was wicked fun! I'm headin' back to Tokyo now! <Color:255,200,200,255>⑮<Color:Default>\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18101,
+"en": "That was wicked fun! I'm headin' back to Hakata now! <Color:255,200,200,255>⑮<Color:Default>\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18102,
+"en": "You're amazing, Saejima-san! I really have to hand it to you.\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18103,
+"en": "Yay, I win! Looks like you have to practice some more, Saejima-san!\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18104,
+"en": "Wow, I can't believe it was that close! That really got my blood pumping good!  \n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18105,
+"en": "That was so much fun! This place is only a minute's walk from my house, so please call me again anytime! <Color:255,200,200,255>⑮<Color:Default>\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18106,
+"en": "This was so much fun! <Color:255,200,200,255>⑮<Color:Default> I wish I could head straight home now! But I have to make sure nobody from Rose Hip sees me.\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18107,
+"en": "That was lots of fun! I'm going to head home now. <Color:255,200,200,255>⑮<Color:Default>\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18108,
+"en": "That was so much fun! We simply must do it again sometime!\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18109,
+"en": "You're real good, Akiyama-san! I'm kinda surprised!\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18110,
+"en": "Yeah, I win! Gotta try a little harder than that, Akiyama-san!\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18111,
+"en": "Wow, I can't believe it's a draw! Next time I'm definitely gonna win!\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18112,
+"en": "That was super fun! Now I gotta get back to Osaka. <Color:255,200,200,255>⑮<Color:Default>\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18113,
+"en": "That was loads of fun! Gimme a call again sometime! <Color:255,200,200,255>⑮<Color:Default>\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18114,
+"en": "Shinada-san, you're so good at this! You definitely have my admiration.\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18115,
+"en": "Oh, I win! I knew I wouldn't lose to you, Shinada-san.\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18116,
+"en": "How remarkable that we managed to have a draw! I'll be sure to win next time, though!\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18117,
+"en": "That was quite fun! I'll be heading back to Nagoya now. <Color:255,200,200,255>⑮<Color:Default>\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18118,
+"en": "That was so much fun! Please do call me again sometime! <Color:255,200,200,255>⑮<Color:Default>\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18119,
+"en": "You're really good at that, Kiryu-san! I'm kinda surprised!\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18120,
+"en": "Yay, I win! Looks like you have to practice some more, Kiryu-san!\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18121,
+"en": "Wow, I can't believe it was a tie! But I'm gonna win next time!\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18122,
+"en": "That was super fun! Ask me out again sometime! <Color:255,200,200,255>⑮<Color:Default>\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18123,
+"en": "Sorry, that didn't go so well. I'm sure next time it'll be fine!",
+"ctx": "diálogo uid000211d4"
+},
+{
+"id": 18124,
+"en": "You did it, Uncle Kaz! That was super cool!",
+"ctx": "diálogo uid000211d4 + diálogo uid000c09f2 …"
+},
+{
+"id": 18125,
+"en": "(Haruka sure seems happy.)",
+"ctx": "diálogo uid000211d4 + diálogo uid000c015c …"
+},
+{
+"id": 18126,
+"en": "Thanks, Uncle Kaz! This is for you!\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid000c015c …"
+},
+{
+"id": 18127,
+"en": "You got <Color:8>Haruka's Necklace<Color:Default>.",
+"ctx": "diálogo uid000211d4 + diálogo uid000c015c …"
+},
+{
+"id": 18128,
+"en": "Thanks a ton, Uncle Kaz! I wanna come play cho-han with you next time, okay?\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid000c015c …"
+},
+{
+"id": 18129,
+"en": "Haruka will now occasionally predict the outcome of a round when you are playing cho-han.\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid000c015c …"
+},
+{
+"id": 18130,
+"en": "Thanks a ton, Uncle Kaz! I have a present for you!\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid000c015c …"
+},
+{
+"id": 18131,
+"en": "You got <Color:8>Haruka's Lunch<Color:Default>.",
+"ctx": "diálogo uid000211d4 + diálogo uid000c015c …"
+},
+{
+"id": 18132,
+"en": "Thanks, Uncle Kaz! I want to give you this!\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid000c015c …"
+},
+{
+"id": 18133,
+"en": "You got <Color:8>Haruka's First-Aid Kit<Color:Default>.",
+"ctx": "diálogo uid000211d4 + diálogo uid000c015c …"
+},
+{
+"id": 18134,
+"en": "You got <Color:8>Red Jewel<Color:Default>.",
+"ctx": "diálogo uid000211d4 + diálogo uid000c015c …"
+},
+{
+"id": 18135,
+"en": "You got <Color:8>Haruka's Amulet<Color:Default>.",
+"ctx": "diálogo uid000211d4 + diálogo uid000c015c …"
+},
+{
+"id": 18136,
+"en": "You got <Color:8>Haruka's Chocolate<Color:Default>.",
+"ctx": "diálogo uid000211d4 + diálogo uid000c015c …"
+},
+{
+"id": 18137,
+"en": "You got <Color:8>Haruka's Candy<Color:Default>.",
+"ctx": "diálogo uid000211d4 + diálogo uid000c015c …"
+},
+{
+"id": 18138,
+"en": "Thanks for doing all that stuff for me, Uncle Kaz!\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid000c015c …"
+},
+{
+"id": 18139,
+"en": "Here, this is a special present, just for you!\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid000c015c …"
+},
+{
+"id": 18140,
+"en": "You got <Color:8>Morning Glory Belly Warmer<Color:Default>.",
+"ctx": "diálogo uid000211d4 + diálogo uid000c015c …"
+},
+{
+"id": 18141,
+"en": "Thanks, Uncle Kaz! I love you!",
+"ctx": "diálogo uid000211d4 + diálogo uid000c015c …"
+},
+{
+"id": 18142,
+"en": "Uncle Kaz, I want to see if you can beat <Color:8>901 in single-player mode<Color:Default>!",
+"ctx": "diálogo uid000211d4"
+},
+{
+"id": 18143,
+"en": "(Haruka wants me to complete <Color:8>901 in single-player mode<Color:Default>.)",
+"ctx": "diálogo uid000211d4"
+},
+{
+"id": 18144,
+"en": "Good luck, Uncle Kaz!",
+"ctx": "diálogo uid000211d4 + diálogo uid000c0c3b …"
+},
+{
+"id": 18145,
+"en": "Do you want to play darts? One game is 200 yen.\n \n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18146,
+"en": "Do you want to play darts? It's 400 yen for two people.\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18147,
+"en": "Let's play darts together! ♪",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18148,
+"en": "(Riku wants to play some darts.)",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18149,
+"en": "Okay, let's play a round.",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18150,
+"en": "Hehe, I ain't gonna go easy on you! ♪",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18151,
+"en": "Sorry, but I'd rather play alone.",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18152,
+"en": "What? Aren't we on a date?",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18153,
+"en": "Sorry. I don't have the money.",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18154,
+"en": "Kiryu-san, you shouldn't invite people on dates if yer broke.\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18155,
+"en": "Sorry, but I'm not feeling it.",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18156,
+"en": "Oh... You're not?",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18157,
+"en": "(Kaguya wants to play darts.)",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18158,
+"en": "Sure, let's have ourselves a game.",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18159,
+"en": "Don't expect me to go easy on you!",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18160,
+"en": "Sorry, but I kinda wanna play alone.",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18161,
+"en": "Oh... I guess I'll just watch, then.",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18162,
+"en": "Sorry. Can't afford it.",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18163,
+"en": "Oh, okay... I guess we'll have to go somewhere that doesn't cost money, then.\n \n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18164,
+"en": "Sorry. Not really in the mood.",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18165,
+"en": "What? Why did you even ask me on a date, then!?",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18166,
+"en": "Let's play darts! ♪",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18167,
+"en": "(Hinata wants to play some darts...)",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18168,
+"en": "Hehe. I'm not letting you off easy! ♪",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18169,
+"en": "What? Fine, I'll just watch.",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18170,
+"en": "Sorry, I don't have the money.",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18171,
+"en": "Wow, you're pretty broke.",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18172,
+"en": "Seriously? But what about our date?",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18173,
+"en": "Have you ever customized your darts, sir? Come see me if you'd like to do so.\n \n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18174,
+"en": "You got <Color:8>Brass Barrel and Point<Color:Default>.",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18175,
+"en": "You got <Color:8>Tungsten Barrel and Point<Color:Default>.",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18176,
+"en": "You got <Color:8>Mini-standard Flight and Shaft<Color:Default>.",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18177,
+"en": "You got <Color:8>Bristol X Flight and Shaft<Color:Default>.",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18178,
+"en": "Darts are made of two simple parts: the dart itself and the flight. I'll give you four parts to play around with, but there are many more out there you can use.\n \n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18179,
+"en": "Many passionate dart players customize their darts, so you may find people who will give you parts for your own set.\n \n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18180,
+"en": "Go on, put the parts together and make your own custom set of darts.\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18181,
+"en": "Would you like to play with one of our employees? If so, it'll be 400 yen for two players.\n \n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18182,
+"en": "(Who should I invite to play? It'll be 400 yen for a two player game.)\n　 ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18183,
+"en": "(400 yen for two people, huh? Who should I invite to play?)\n　 ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18184,
+"en": "(All right, who should I invite to play? It's 400 yen for the two of us.)\n　 ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18185,
+"en": "(Who should I call over? It's 400 yen for two people, right?)\n　 ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18186,
+"en": "(I'll invite Riku.)",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18187,
+"en": "Sorry to keep y'waiting! You wanted to play darts with me?\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18188,
+"en": "Geez, why'd ya hafta call me back from Tokyo for this, Kiryu-san? Couldn't we have just gone somewhere out there?\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18189,
+"en": "Why didn't you say that before you got here?",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18190,
+"en": "Y'gotta be kiddin' me! Y'called me all the way out to Tokyo jus' to play darts!?\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18191,
+"en": "Well, you can do some sightseeing before you head back, too. Anyway, let's play.\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18192,
+"en": "Sorry to keep ya waitin'! You wanted to play darts with me?\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18193,
+"en": "(Let's call up Kaguya.)",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18194,
+"en": "Sorry to keep you waiting! I'd planned on staying in today, but I can't say no when you invite me out, Saejima-san!\n \n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18195,
+"en": "If you wanted to play darts, we could have played in Kamurocho. Why did you call me all the way back here to Tsukimino!?\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18196,
+"en": "Didn't expect ya'd actually come...",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18197,
+"en": "Going into work is enough of a pain as it is, but you go and call me all the way out here to Tokyo!? Unbelievable!\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18198,
+"en": "(Let's call up Honoka-chan.)",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18199,
+"en": "Ya called up a student who's busy lookin' for a job all the way out in Osaka, just to play darts? This some kinda joke?\n \n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18200,
+"en": "Oh, right. I'm really sorry.",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18201,
+"en": "Sorry for the wait! It's good to get out every once in a while! <Color:255,200,200,255>⑮<Color:Default>\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18202,
+"en": "(I'll give Shion-chan a call.)",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18203,
+"en": "It really is rather rude to make me come all the way from Nagoya for this, you know. Honestly! Do you think I have nothing better to do?\n \n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18204,
+"en": "Yeah, sorry about that! I guess the travel costs must've been rough, too.\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18205,
+"en": "Apologies for the delay! I haven't played darts in forever. I'm a little nervous, actually!\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18206,
+"en": "Well, want to get started?",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18207,
+"en": "(Let's give Hinata a call.)",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18208,
+"en": "Sorry to keep you waiting! I was just looking for something to do. Nice timing, Kiryu-san!\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18209,
+"en": "Enjoy your game.",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18210,
+"en": "I see. Please come again.",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18211,
+"en": "(I don't have the money.)",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18212,
+"en": "(I don't have the money. Better try again when I do.)\n　 ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18213,
+"en": "(Looks like I'm a little short.)",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18214,
+"en": "(Crap, I don't have 200 yen! Man... Better give up, then.)\n　 ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18215,
+"en": "(I don't have 200 yen. I'll have to come back later.)\n　 ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18216,
+"en": "(I don't have enough money to play with someone else...)\n　 ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18217,
+"en": "(I don't have enough to play with someone else. I'll have to hold off till next time.)\n　 ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18218,
+"en": "(I could invite someone to play if I had the cash.)\n　 ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18219,
+"en": "(If I had money, I could invite someone...)",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18220,
+"en": "(I don't have enough money. I'll try again some other time, I suppose.)\n　 ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18221,
+"en": "I'm sorry, but there's a 500 yen fee for replacing a card.\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18222,
+"en": "(I don't have enough money. Guess I'll have to play another time.)\n　 ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18223,
+"en": "(I don't have 500 yen! Damn, better give up, then...)\n　 ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18224,
+"en": "(I don't have 500 yen. I'll have to come back another day.)\n　 ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18225,
+"en": "Sir, it seems you are not in possession of a <Color:8>DARTSLIVE Membership Card<Color:Default> yet.\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18226,
+"en": "This handy little card lets you keep track of your darts results.\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18227,
+"en": "We give them away free to our customers. Don't forget to use it before you play a game.\n \n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18228,
+"en": "Here you go.",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18229,
+"en": "You got a <Color:8>DARTSLIVE Membership Card<Color:Default>.",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18230,
+"en": "If you look at the card, you'll notice that you can set the player name displayed during games, so please take a moment to do that.\n \n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18231,
+"en": "Okay, you're all done.",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18232,
+"en": "There's a 500 yen fee for replacing a card. Which one would you like?\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18233,
+"en": "Are you sure? You'll lose all your past darts results if you replace your card.\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18234,
+"en": "You replaced your <Color:8>DARTSLIVE Membership Card<Color:Default>. ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18235,
+"en": "Please enter your name on your new card.",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18236,
+"en": "Your registration is complete.",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18237,
+"en": "We have three different dart games you can choose from. Which rules do you want to see?\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18238,
+"en": "In this game, the numbers you hit are added to your score. The player with the highest score at the end of the game wins. In Count-Up, both the bull's-eye and double bull's-eye are worth 50 points.\n \n\n \n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18239,
+"en": "In this game, the points you hit are deducted from the designated score as you try to reach exactly zero. There are a variety of starting scores, such as 301 and 501. In '01, both the bull's-eye and double bull's-eye are worth 50 points.\n \n\n \n\n \n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18240,
+"en": "You bust if you go under zero, at which point your opponent gets to play. Your points will revert to what they were when the round started.\n \n\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18241,
+"en": "The first player to reach exactly zero at the end of the assigned number of rounds wins. If neither player can reach zero during the allotted rounds, the player with fewer remaining points is declared the winner.\n \n\n \n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18242,
+"en": "In Cricket, only the numbers 15 through 20 and the bull's-eye are used. Singles count as one hit, Doubles count as two hits, and Triples count as three hits.\n\n \n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18243,
+"en": "Three hits on a number closes it. The points from subsequent hits on a number you closed are added to your score.\n \n\n \n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18244,
+"en": "However, if your opponent closes that number as well, you will no longer get points when you hit it.\n \n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18245,
+"en": "When all rounds are concluded, the player with the highest score at the end of the assigned number of rounds wins. You can also win if you close all the numbers before the end of the assigned number of rounds and your score is higher than your opponent's. \n\n \n \n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18246,
+"en": "Another rule in Cricket states that when there's at least a 200-point difference in the scores, the winning player stops earning points. This is known as overkill.\n \n \n \n\n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18247,
+"en": "The player in overkill cannot score hit counts or points on open numbers with one exception: hit counts that do not involve points are valid as usual.\n \n\n \n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18248,
+"en": "Example: You are winning by 200 points and your first throw hits 15, your second throw also hits 15, and your third throw hits double 15. The hit count of the third throw is limited to one, resulting in a total hit count of three for the round.\n \n \n \n \n \n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18249,
+"en": "Note that if the score gap is 199 or less, points exceeding 200 are awarded, and the hit count is also valid. Example: You are winning by 199 points, and you hit triple 20: Your hit count is three, and you get 60 points, raising your point total to 259.\n \n\n \n \n \n ",
+"ctx": "diálogo uid000211d4 + diálogo uid00021291 …"
+},
+{
+"id": 18250,
+"en": "Oh, okay. Maybe you can play <Color:8>901<Color:Default> some other time.",
+"ctx": "diálogo uid000211d4"
+},
+{
+"id": 18251,
+"en": "You again.",
+"ctx": "diálogo uid000212be + diálogo uid00091d19 …"
+},
+{
+"id": 18252,
+"en": "Does this get me into the casino?",
+"ctx": "diálogo uid000212be"
+},
+{
+"id": 18253,
+"en": "You presented the Underground Casino Pass.",
+"ctx": "diálogo uid000212be"
+},
+{
+"id": 18254,
+"en": "Yup, you're good.",
+"ctx": "diálogo uid000212be"
+}
+]

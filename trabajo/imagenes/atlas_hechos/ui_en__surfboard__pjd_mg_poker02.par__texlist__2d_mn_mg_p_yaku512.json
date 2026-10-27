@@ -1,0 +1,224 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_poker02.par/texlist/2d_mn_mg_p_yaku512",
+ "fuente": "georgiaz.ttf",
+ "margen": 0,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    2,
+    10,
+    284,
+    60
+   ],
+   "en": "Full House",
+   "es": "Full",
+   "fuente": "georgiaz.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 276,
+   "tam": 50
+  },
+  {
+   "caja": [
+    284,
+    10,
+    512,
+    60
+   ],
+   "en": "Two Pair",
+   "es": "Doble par",
+   "fuente": "georgiaz.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 218,
+   "tam": 50
+  },
+  {
+   "caja": [
+    2,
+    66,
+    264,
+    128
+   ],
+   "en": "High Card",
+   "es": "Carta alta",
+   "fuente": "georgiaz.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 256,
+   "tam": 50
+  },
+  {
+   "caja": [
+    290,
+    66,
+    512,
+    128
+   ],
+   "en": "Straight",
+   "es": "Escalera",
+   "fuente": "georgiaz.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 212,
+   "tam": 50
+  },
+  {
+   "caja": [
+    2,
+    134,
+    370,
+    198
+   ],
+   "en": "Straight Flush",
+   "es": "Escalera de color",
+   "fuente": "georgiaz.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 362,
+   "tam": 50
+  },
+  {
+   "caja": [
+    370,
+    134,
+    512,
+    194
+   ],
+   "en": "Flush",
+   "es": "Color",
+   "fuente": "georgiaz.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 132,
+   "estilo": {
+    "arriba": [
+     255,
+     225,
+     0
+    ],
+    "abajo": [
+     225,
+     25,
+     0
+    ],
+    "contorno": [
+     [
+      70,
+      15,
+      0
+     ],
+     2
+    ],
+    "brillo": null
+   },
+   "tam": 50
+  },
+  {
+   "caja": [
+    2,
+    202,
+    392,
+    264
+   ],
+   "en": "Three of a Kind",
+   "es": "Trío",
+   "fuente": "georgiaz.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 384,
+   "tam": 50
+  },
+  {
+   "caja": [
+    2,
+    270,
+    352,
+    332
+   ],
+   "en": "Four of a Kind",
+   "es": "Póker",
+   "fuente": "georgiaz.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 344,
+   "tam": 50
+  },
+  {
+   "caja": [
+    0,
+    340,
+    512,
+    408
+   ],
+   "en": "Royal Flush",
+   "es": "Escalera real",
+   "fuente": "georgiaz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 502,
+   "tam": 56
+  },
+  {
+   "caja": [
+    2,
+    410,
+    222,
+    458
+   ],
+   "en": "One Pair",
+   "es": "Par",
+   "fuente": "georgiaz.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 214,
+   "tam": 50
+  },
+  {
+   "caja": [
+    298,
+    410,
+    512,
+    464
+   ],
+   "en": "Open Card",
+   "es": "Destapar",
+   "fuente": "georgiaz.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 204,
+   "tam": 42
+  },
+  {
+   "caja": [
+    2,
+    466,
+    240,
+    512
+   ],
+   "en": "Show Down",
+   "es": "Mostrar",
+   "fuente": "georgiaz.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 232,
+   "tam": 42
+  },
+  {
+   "caja": [
+    290,
+    468,
+    512,
+    512
+   ],
+   "en": "End Round",
+   "es": "Fin de ronda",
+   "fuente": "georgiaz.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 212,
+   "tam": 42
+  }
+ ]
+}

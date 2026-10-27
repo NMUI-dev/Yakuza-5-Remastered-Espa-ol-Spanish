@@ -1,0 +1,175 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_taiko_common.par/texlist_0001/taiko_game_02",
+ "fuente": "segoeuib.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    629,
+    128,
+    707,
+    160
+   ],
+   "en": "COMBO",
+   "ocr": "COMBO",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 74
+  },
+  {
+   "caja": [
+    592,
+    160,
+    720,
+    182
+   ],
+   "en": "COMBO",
+   "ocr": "COMBO",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 124
+  },
+  {
+   "caja": [
+    576,
+    176,
+    726,
+    224
+   ],
+   "en": "COMBO",
+   "ocr": "COMBO",
+   "es": "",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 146
+  },
+  {
+   "caja": [
+    357,
+    154,
+    411,
+    202
+   ],
+   "en": "1P",
+   "ocr": "TP",
+   "es": "",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 50
+  },
+  {
+   "caja": [
+    436,
+    169,
+    578,
+    208
+   ],
+   "en": "Don-chan",
+   "ocr": "Don-chan",
+   "es": "",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 138,
+   "dejar": true
+  },
+  {
+   "caja": [
+    60,
+    286,
+    134,
+    322
+   ],
+   "en": "Hard",
+   "ocr": "Hard",
+   "es": "Difícil",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 72,
+   "fondo": "lama",
+   "alto": 21,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     2
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    35,
+    415,
+    146,
+    454
+   ],
+   "en": "Normal",
+   "ocr": "Normal",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 107
+  },
+  {
+   "caja": [
+    58,
+    546,
+    130,
+    581
+   ],
+   "en": "Easy",
+   "ocr": "Easy",
+   "es": "Fácil",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 70,
+   "fondo": "lama",
+   "alto": 21,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     2
+    ],
+    "brillo": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "textura": "pausepar_pause_en/picture/takara/2d_jm_takarac_05",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    167,
+    2,
+    216,
+    18
+   ],
+   "en": "assembled as",
+   "ocr": "umoleda",
+   "es": "se reunieron como",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 49,
+   "dejar": true
+  },
+  {
+   "caja": [
+    158,
+    14,
+    214,
+    30
+   ],
+   "en": "body made",
+   "ocr": "bodymad",
+   "es": "Cuerpo hecho",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 56,
+   "dejar": true
+  },
+  {
+   "caja": [
+    52,
+    26,
+    128,
+    42
+   ],
+   "en": "that direction.",
+   "ocr": "lhat dinection.",
+   "es": "en esa Dirección.",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 76,
+   "dejar": true
+  },
+  {
+   "caja": [
+    46,
+    50,
+    191,
+    68
+   ],
+   "en": "When my path ended, I began",
+   "ocr": "Whenmy path ended.1 began",
+   "es": "Cuando terminó mi camino, comencé",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 145,
+   "dejar": true
+  },
+  {
+   "caja": [
+    46,
+    62,
+    164,
+    80
+   ],
+   "en": "When I had gone as far",
+   "ocr": "WhenI hadgone as far",
+   "es": "Cuando ya había llegado tan lejos",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 118,
+   "dejar": true
+  },
+  {
+   "caja": [
+    47,
+    86,
+    129,
+    103
+   ],
+   "en": "\"Congratulations,\"",
+   "ocr": "Congratulations,",
+   "es": "\"¡Felicidades!\",",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 82,
+   "dejar": true
+  },
+  {
+   "caja": [
+    46,
+    98,
+    106,
+    116
+   ],
+   "en": "my journey.",
+   "ocr": "nty'jourmey.",
+   "es": "mi viaje.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 60,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: lo hace el PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

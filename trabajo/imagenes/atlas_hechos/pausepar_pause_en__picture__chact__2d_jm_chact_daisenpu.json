@@ -1,0 +1,44 @@
+{
+ "textura": "pausepar_pause_en/picture/chact/2d_jm_chact_daisenpu",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    12,
+    527,
+    388,
+    568
+   ],
+   "en": "MY WHIRLWIND ESSENCE",
+   "ocr": "MY WHIRLWIND ESSENCE",
+   "es": "MI ESENCIA DE REMOLINO",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 372
+  },
+  {
+   "caja": [
+    11,
+    596,
+    387,
+    640
+   ],
+   "en": "MY WHIRLWIND ESSENCE",
+   "ocr": "MYWHIRLWIND ESSENCE",
+   "es": "MI ESENCIA DE REMOLINO",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 372,
+   "radio": 2.5,
+   "color": [
+    200,
+    25,
+    25
+   ]
+  }
+ ]
+}

@@ -1,0 +1,364 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_darts_result.par/texlist/2d_yk_mg_darts_result",
+ "fuente": "segoeuil.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    22,
+    52,
+    342,
+    103
+   ],
+   "en": "GAME RESULT",
+   "es": "RESULTADO",
+   "fuente": "segoeuil.ttf",
+   "alin": "izq",
+   "ancho_max": 316,
+   "efecto": "nada"
+  },
+  {
+   "caja": [
+    11,
+    110,
+    247,
+    178
+   ],
+   "en": "DRAW",
+   "es": "EMPATE",
+   "fuente": "LilitaOne-Regular.ttf",
+   "alin": "centro",
+   "ancho_max": 232,
+   "efecto": "estilo",
+   "alto": 56,
+   "estilo": {
+    "arriba": [
+     150,
+     215,
+     180
+    ],
+    "abajo": [
+     12,
+     85,
+     50
+    ],
+    "contorno": [
+     [
+      225,
+      255,
+      240
+     ],
+     2
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    122,
+    190,
+    234,
+    210
+   ],
+   "en": "9 Counts",
+   "es": "9 Aciertos",
+   "fuente": "segoeuil.ttf",
+   "alin": "izq",
+   "ancho_max": 108,
+   "efecto": "nada"
+  },
+  {
+   "caja": [
+    10,
+    262,
+    122,
+    282
+   ],
+   "en": "5Counts",
+   "es": "5 Aciertos",
+   "fuente": "segoeuil.ttf",
+   "alin": "izq",
+   "ancho_max": 108,
+   "efecto": "nada"
+  },
+  {
+   "caja": [
+    10,
+    282,
+    122,
+    302
+   ],
+   "en": "6Counts",
+   "es": "6 Aciertos",
+   "fuente": "segoeuil.ttf",
+   "alin": "izq",
+   "ancho_max": 108,
+   "efecto": "nada"
+  },
+  {
+   "caja": [
+    10,
+    302,
+    122,
+    322
+   ],
+   "en": "7Counts",
+   "es": "7 Aciertos",
+   "fuente": "segoeuil.ttf",
+   "alin": "izq",
+   "ancho_max": 108,
+   "efecto": "nada"
+  },
+  {
+   "caja": [
+    8,
+    322,
+    122,
+    342
+   ],
+   "en": "8Counts",
+   "es": "8 Aciertos",
+   "fuente": "segoeuil.ttf",
+   "alin": "izq",
+   "ancho_max": 110,
+   "efecto": "nada"
+  },
+  {
+   "caja": [
+    8,
+    917,
+    798,
+    962
+   ],
+   "en": "STANDARD CRICKET GAME RESULT",
+   "es": "RESULTADO DE CRICKET ESTÁNDAR",
+   "fuente": "segoeuil.ttf",
+   "alin": "izq",
+   "ancho_max": 786,
+   "efecto": "nada"
+  },
+  {
+   "caja": [
+    0,
+    970,
+    900,
+    1022
+   ],
+   "en": "COUNT-UP GAME RESULT",
+   "es": "RESULTADO DE COUNT-UP",
+   "fuente": "segoeuil.ttf",
+   "alin": "izq",
+   "ancho_max": 896,
+   "efecto": "nada"
+  },
+  {
+   "caja": [
+    863,
+    699,
+    1023,
+    770
+   ],
+   "en": "WIN",
+   "es": "GANAS",
+   "fuente": "LilitaOne-Regular.ttf",
+   "alin": "centro",
+   "ancho_max": 156,
+   "efecto": "estilo",
+   "alto": 52,
+   "estilo": {
+    "arriba": [
+     255,
+     245,
+     170
+    ],
+    "abajo": [
+     235,
+     150,
+     20
+    ],
+    "contorno": [
+     [
+      120,
+      60,
+      0
+     ],
+     2
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    850,
+    764,
+    1024,
+    838
+   ],
+   "en": "LOSE",
+   "es": "PIERDES",
+   "fuente": "LilitaOne-Regular.ttf",
+   "alin": "centro",
+   "ancho_max": 170,
+   "efecto": "estilo",
+   "alto": 48,
+   "estilo": {
+    "arriba": [
+     225,
+     245,
+     255
+    ],
+    "abajo": [
+     25,
+     110,
+     230
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     2
+    ],
+    "brillo": null
+   },
+   "margen": 0
+  },
+  {
+   "caja": [
+    900,
+    838,
+    1019,
+    890
+   ],
+   "en": "2nd",
+   "es": "2.º",
+   "fuente": "segoeuiz.ttf",
+   "alin": "centro",
+   "ancho_max": 115,
+   "efecto": "estilo"
+  },
+  {
+   "caja": [
+    0,
+    611,
+    332,
+    683
+   ],
+   "en": "TON 80",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    0,
+    687,
+    356,
+    759
+   ],
+   "en": "3 IN THE BLACK",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    360,
+    687,
+    696,
+    759
+   ],
+   "en": "HAT TRICK",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    75,
+    774,
+    329,
+    824
+   ],
+   "en": "3 IN A BED",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    524,
+    775,
+    694,
+    837
+   ],
+   "en": "LOW TON",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    12,
+    806,
+    249,
+    900
+   ],
+   "en": "HIGH TON",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    360,
+    843,
+    716,
+    915
+   ],
+   "en": "WHITE HORSE",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    804,
+    0,
+    856,
+    432
+   ],
+   "en": "RANDOM HIDDEN",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    774,
+    10,
+    812,
+    250
+   ],
+   "en": "POINTS PER ROUND",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    991,
+    10,
+    1024,
+    250
+   ],
+   "en": "MARKS PER ROUND",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    981,
+    260,
+    1022,
+    561
+   ],
+   "en": "AWARDS & FEATS",
+   "es": "",
+   "dejar": true
+  }
+ ]
+}

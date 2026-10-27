@@ -1,0 +1,53 @@
+{
+ "textura": "ui_en/surfboard/pjd_levelup.par/texlist_0001/2d_jm_levelup02",
+ "fuente": "calibrib.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    128,
+    256,
+    168
+   ],
+   "en": "Weapon skill improved",
+   "es": "Habilidad de arma mejorada",
+   "fuente": "calibrib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 250,
+   "estilo": {
+    "arriba": [
+     247,
+     251,
+     255
+    ],
+    "abajo": [
+     247,
+     251,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     110,
+     225,
+     215
+    ]
+   }
+  },
+  {
+   "caja": [
+    0,
+    171,
+    256,
+    213
+   ],
+   "en": "Weapon skill improved",
+   "es": "",
+   "dejar": true,
+   "fuente": "calibrib.ttf",
+   "nota": "versión disuelta en puntos (animación): el kit no tiene ese efecto; es ilegible de por sí"
+  }
+ ]
+}

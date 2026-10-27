@@ -1,0 +1,131 @@
+{
+ "textura": "ui_en/surfboard/pjd_tenkei_macsiv.par/texlist/2d_yk_macsiv",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    20,
+    5,
+    1004,
+    108
+   ],
+   "en": "Macsiv / Login",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    852,
+    23,
+    966,
+    43
+   ],
+   "en": "Home|Terms of Use",
+   "es": "",
+   "fuente": "times.ttf",
+   "alin": "der",
+   "ancho_max": 110,
+   "efecto": "nada",
+   "color": [
+    70,
+    70,
+    70
+   ],
+   "alto": 11,
+   "dejar": true
+  },
+  {
+   "caja": [
+    601,
+    118,
+    738,
+    168
+   ],
+   "en": "RIOMAGGIORE VERNAZZA",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    6,
+    119,
+    56,
+    133
+   ],
+   "en": "Sender",
+   "es": "Autor",
+   "fuente": "timesbd.ttf",
+   "alin": "izq",
+   "ancho_max": 46,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 12
+  },
+  {
+   "caja": [
+    4,
+    136,
+    88,
+    153
+   ],
+   "en": "Rank",
+   "es": "Rango",
+   "fuente": "timesbd.ttf",
+   "alin": "izq",
+   "ancho_max": 80,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 13
+  },
+  {
+   "caja": [
+    4,
+    158,
+    142,
+    178
+   ],
+   "en": "Popular posts",
+   "es": "Populares",
+   "fuente": "timesbd.ttf",
+   "alin": "izq",
+   "ancho_max": 134,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 14
+  },
+  {
+   "caja": [
+    5,
+    184,
+    135,
+    198
+   ],
+   "en": "Topic: Revelations",
+   "es": "Tema: Revelaciones",
+   "fuente": "timesbd.ttf",
+   "alin": "izq",
+   "ancho_max": 126,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 12
+  }
+ ]
+}

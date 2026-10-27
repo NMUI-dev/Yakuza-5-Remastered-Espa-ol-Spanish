@@ -1,0 +1,44 @@
+{
+ "textura": "pausepar_pause_en/picture/chact/2d_jm_chact_sourengeki",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    14,
+    531,
+    474,
+    566
+   ],
+   "en": "MY BASHING COMBO ESSENCE",
+   "ocr": "MY BASHING COMBO ESSENCE",
+   "es": "MI ESENCIA DE COMBO DE APORREO",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 456
+  },
+  {
+   "caja": [
+    12,
+    595,
+    475,
+    640
+   ],
+   "en": "MY BASHING COMBO ESSENCE",
+   "ocr": "MYBASHINGCOMBO ESSENCE",
+   "es": "MI ESENCIA DE COMBO DE APORREO",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 459,
+   "radio": 2.5,
+   "color": [
+    200,
+    25,
+    25
+   ]
+  }
+ ]
+}

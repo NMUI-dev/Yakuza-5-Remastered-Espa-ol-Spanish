@@ -1,0 +1,169 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_taiko_common.par/texlist_0001/taiko_common",
+ "fuente": "segoeuib.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    635,
+    841,
+    695,
+    860
+   ],
+   "en": "CLEAR",
+   "ocr": "CLEAR",
+   "es": "META",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 55,
+   "fondo": "lama",
+   "alto": 11,
+   "color": [
+    124,
+    125,
+    124
+   ],
+   "dejar": true
+  },
+  {
+   "caja": [
+    705,
+    905,
+    765,
+    924
+   ],
+   "en": "CLEAR",
+   "ocr": "CLEAR",
+   "es": "META",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 55,
+   "fondo": "lama",
+   "alto": 11,
+   "color": [
+    124,
+    125,
+    124
+   ],
+   "dejar": true
+  },
+  {
+   "caja": [
+    4,
+    1001,
+    58,
+    1016
+   ],
+   "en": "CLEAR",
+   "ocr": "CLEAR",
+   "es": "META",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 50,
+   "fondo": "lama",
+   "alto": 10,
+   "color": [
+    228,
+    228,
+    228
+   ],
+   "dejar": true
+  },
+  {
+   "caja": [
+    779,
+    630,
+    835,
+    645
+   ],
+   "en": "CLEAR",
+   "ocr": "CLEAR",
+   "es": "META",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 55,
+   "alto": 11,
+   "color": [
+    124,
+    125,
+    124
+   ],
+   "dejar": true
+  },
+  {
+   "caja": [
+    709,
+    694,
+    765,
+    709
+   ],
+   "en": "CLEAR",
+   "ocr": "CLEAR",
+   "es": "META",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 55,
+   "alto": 11,
+   "color": [
+    124,
+    125,
+    124
+   ],
+   "dejar": true
+  },
+  {
+   "caja": [
+    639,
+    758,
+    695,
+    773
+   ],
+   "en": "CLEAR",
+   "ocr": "CLEAR",
+   "es": "META",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 55,
+   "alto": 11,
+   "color": [
+    124,
+    125,
+    124
+   ],
+   "dejar": true
+  },
+  {
+   "caja": [
+    775,
+    969,
+    835,
+    988
+   ],
+   "en": "CLEAR",
+   "ocr": "CLEAR",
+   "es": "META",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 55,
+   "alto": 11,
+   "color": [
+    124,
+    125,
+    124
+   ],
+   "dejar": true
+  }
+ ]
+}

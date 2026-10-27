@@ -1,0 +1,1097 @@
+[
+{
+"id": 21342,
+"en": "Hey, buddy! Wanna play koi-koi?",
+"ctx": "diálogo uid000c0c3b"
+},
+{
+"id": 21343,
+"en": "Uncle Kaz! See if you can <Color:8>win 1,000 points or more at koi-koi<Color:Default>. You know the hands, right?",
+"ctx": "diálogo uid000c0c3b"
+},
+{
+"id": 21344,
+"en": "(Haruka wants me to <Color:8>win 1,000 points or more at koi-koi<Color:Default>.)",
+"ctx": "diálogo uid000c0c3b"
+},
+{
+"id": 21345,
+"en": "Aww, okay. Some other time.",
+"ctx": "diálogo uid000c0c3b + diálogo uid000c0c3c …"
+},
+{
+"id": 21346,
+"en": "All right. Maybe next time, then.",
+"ctx": "diálogo uid000c0c3b"
+},
+{
+"id": 21347,
+"en": "Hang on, you need at least 200 points to play koi-koi. Buy them at the front desk, okay?",
+"ctx": "diálogo uid000c0c3b"
+},
+{
+"id": 21348,
+"en": "Excellent. You're in?",
+"ctx": "diálogo uid000c0c3b"
+},
+{
+"id": 21349,
+"en": "That's what I wanted to hear! Right this way!",
+"ctx": "diálogo uid000c0c3b"
+},
+{
+"id": 21350,
+"en": "Is that so? Drop by again, okay?",
+"ctx": "diálogo uid000c0c3b"
+},
+{
+"id": 21351,
+"en": "You can play oicho-kabu here. Want to?",
+"ctx": "diálogo uid000c0c3c"
+},
+{
+"id": 21352,
+"en": "Uncle Kaz! See if you can <Color:8>win 300 points or more at oicho-kabu<Color:Default>. Maybe you can even get a 9-1!",
+"ctx": "diálogo uid000c0c3c"
+},
+{
+"id": 21353,
+"en": "(Haruka wants me to <Color:8>win 300 points or more at oicho-kabu<Color:Default>.)",
+"ctx": "diálogo uid000c0c3c"
+},
+{
+"id": 21354,
+"en": "Oh. Another time, then.",
+"ctx": "diálogo uid000c0c3c"
+},
+{
+"id": 21355,
+"en": "You need at least a hundred points to play oicho-kabu. The front desk sells them.",
+"ctx": "diálogo uid000c0c3c"
+},
+{
+"id": 21356,
+"en": "Sure, I'll play.",
+"ctx": "diálogo uid000c0c3c + diálogo uid00330050 …"
+},
+{
+"id": 21357,
+"en": "Good. Let's start.",
+"ctx": "diálogo uid000c0c3c"
+},
+{
+"id": 21358,
+"en": "No. I'll pass.",
+"ctx": "diálogo uid000c0c3c + diálogo uid000c0d8b …"
+},
+{
+"id": 21359,
+"en": "Thank you. Now I have five more boxes to sell.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21360,
+"en": "Thank you. Now I have four more boxes to sell.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21361,
+"en": "Wow, you sold two boxes? Thank you! Now I have three more boxes to sell.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21362,
+"en": "Wow, you sold three boxes? Thank you! Now I have two more boxes to sell.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21363,
+"en": "Wow, thank you! Now there's only one more box to sell.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21364,
+"en": "That so? All right, then...",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21365,
+"en": "I'll keep helpin' ya sell those matches. We'll get it done.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21366,
+"en": "I'll buy the rest of the matches off ya. That's 500 yen for five boxes, right?",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21367,
+"en": "Oh, but...",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21368,
+"en": "I'll buy the rest of the matches off ya. That's 400 yen for four boxes, right?",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21369,
+"en": "I'll buy the rest of the matches off ya. That's 300 yen for three boxes, right?",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21370,
+"en": "I'll buy the rest of the matches off ya. That's 200 yen for two boxes, right?",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21371,
+"en": "I'll buy the rest of the matches off ya. That's a hundred yen for one box, right?",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21372,
+"en": "Huh? Darn it, I can't. Don't have that much money right now. Sorry I got yer hopes up.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21373,
+"en": "Oh, it's okay. You've already helped me so much.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21374,
+"en": "Hm. Hope so...",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21375,
+"en": "Ya deserve it⑬it's a reward for all yer hard work. And that'll be enough to buy a present for your ma, right?",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21376,
+"en": "Oh... Are you sure?",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21377,
+"en": "Yeah, I was just thinkin' I could use some matches. Can't stand this cold myself...",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21378,
+"en": "Oh! Thank you so much!",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21379,
+"en": "You handed over <Color:8>500 yen<Color:Default>.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21380,
+"en": "You handed over <Color:8>400 yen<Color:Default>.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21381,
+"en": "You handed over <Color:8>300 yen<Color:Default>.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21382,
+"en": "You handed over <Color:8>200 yen<Color:Default>.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21383,
+"en": "You handed over <Color:8>100 yen<Color:Default>.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21384,
+"en": "Oh, hello!",
+"ctx": "diálogo uid000c0c3f + diálogo uid000c0dda …"
+},
+{
+"id": 21385,
+"en": "How's it goin'? Are those matches sellin'?",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21386,
+"en": "No, not at all... No one will buy my last five boxes.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21387,
+"en": "Really? Hm...",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21388,
+"en": "I'll help ya sell the matches. Just five boxes, right? Couldn't be all that hard.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21389,
+"en": "What? You'd really do that?",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21390,
+"en": "Yeah. You wait right here. If ya see someone who might buy, come join me. Sound good?",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21391,
+"en": "Help the little match girl peddle her matches. Talk to people on the street and sell off her last five boxes.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21392,
+"en": "Try not to work too hard, little lady. I'm sure ya got what it takes to get it done.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21393,
+"en": "I think so! Thank you!",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21394,
+"en": "So, you got enough for your ma's present now?",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21395,
+"en": "Yes! You were a big help. I'm going to go buy it right now!",
+"ctx": "diálogo uid000c0c3f + diálogo uid010c0c40"
+},
+{
+"id": 21396,
+"en": "Bet yer ma'll be real happy. What're ya gonna get her?",
+"ctx": "diálogo uid000c0c3f + diálogo uid010c0c40"
+},
+{
+"id": 21397,
+"en": "Um, some hand cream. Mama's hands are always dry and cracked. She says they hurt when it's cold.",
+"ctx": "diálogo uid000c0c3f + diálogo uid010c0c40"
+},
+{
+"id": 21398,
+"en": "Sounds like the perfect gift, then.",
+"ctx": "diálogo uid000c0c3f + diálogo uid010c0c40"
+},
+{
+"id": 21399,
+"en": "But, um... where do they sell it?",
+"ctx": "diálogo uid000c0c3f + diálogo uid010c0c40"
+},
+{
+"id": 21400,
+"en": "I know a store that would have it for sure. Want me to show ya?",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21401,
+"en": "Are ya all right?",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21402,
+"en": "I'm j-just... c-cold...",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21403,
+"en": "(Gotta get some food into her. I'll buy somethin' somewhere.)",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21404,
+"en": "Here, eat this. It'll perk ya up.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21405,
+"en": "Thank you...",
+"ctx": "diálogo uid000c0c3f + diálogo uid010c0816 …"
+},
+{
+"id": 21406,
+"en": "Mm, that was yummy. Thank you.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21407,
+"en": "Ya welcome. Uh, you're not gonna go right back to sellin' matches, are ya?",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21408,
+"en": "I have to. I need to sell five more boxes or I can't buy Mama's present.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21409,
+"en": "Five more boxes... That an easy number to sell?",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21410,
+"en": "Um... I don't know. Nobody's bought any since you bought a whole box that one time.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21411,
+"en": "Really? Darn. There's not much demand, I guess.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21412,
+"en": "(Five boxes would only be 500 yen. I could just give her that money, but... she wanted to earn it.)",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21413,
+"en": "Is something the matter?",
+"ctx": "diálogo uid000c0c3f + diálogo uid0016001f …"
+},
+{
+"id": 21414,
+"en": "Huh? Oh, nothin'. Just thinkin'...",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21415,
+"en": "Oh, hello. Would you like some matches? They're, um, very good for making fire.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21416,
+"en": "A hundred yen a box, right?",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21417,
+"en": "(A match seller in this day and age? This a joke?)",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21418,
+"en": "I'd be so grateful if you bought some, sir... Please?",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21419,
+"en": "How much?",
+"ctx": "diálogo uid000c0c3f + diálogo uid0046004a"
+},
+{
+"id": 21420,
+"en": "It's one hundred yen a box. But if you only want a few, that would be good, too...",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21421,
+"en": "Sorry. Some other time.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21422,
+"en": "Sure. I'll take a box.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21423,
+"en": "Darn. I can't. Don't got even a hundred yen to my name.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21424,
+"en": "Sorry, little lady. I'll come back when I got more cash.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21425,
+"en": "Must be tough doin' this in the cold. Ya tryin' to be the \"Little Match Girl,\" eh? Like in the story?",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21426,
+"en": "Yes! I thought maybe I could do it just like her, with the matches we have at home.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21427,
+"en": "Heh, that's cute. A nice way to play pretend.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21428,
+"en": "Oh, I'm not playing pretend. I need money so I can buy a Christmas present for Mama.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21429,
+"en": "Really? Where's yer ma now?",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21430,
+"en": "At work. She works during the day, and then at night, too. Because Papa's not with us anymore.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21431,
+"en": "Mm? Your pa's not around?",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21432,
+"en": "Papa got sick and died a long time ago. That's why I'm the only one who can buy a present for Mama.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21433,
+"en": "Yeah, I understand. You're a good soul, little lady. By all rights, a kid like you should just be lookin' forward to yer own gifts.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21434,
+"en": "Don't work yerself too hard. Look at ya. Yer shiverin'.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21435,
+"en": "I'm okay. Mama works a lot harder for me every day.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21436,
+"en": "Please buy more matches from me another time. I'll be here every day.",
+"ctx": "diálogo uid000c0c3f"
+},
+{
+"id": 21437,
+"en": "Hey, ya wanna buy some matches?",
+"ctx": "diálogo uid000c0c42 + diálogo uid000c0c4c"
+},
+{
+"id": 21438,
+"en": "What is this about? Please, I don't want any trouble.",
+"ctx": "diálogo uid000c0c42"
+},
+{
+"id": 21439,
+"en": "Hold on, I ain't tryin' to shake ya down. I just wanna sell you some matches.",
+"ctx": "diálogo uid000c0c42"
+},
+{
+"id": 21440,
+"en": "Please, sir. Buy some matches.",
+"ctx": "diálogo uid000c0c42"
+},
+{
+"id": 21441,
+"en": "Uh, uh, I'm sorry!",
+"ctx": "diálogo uid000c0c42"
+},
+{
+"id": 21442,
+"en": "There he goes. What'd he think was goin' on?",
+"ctx": "diálogo uid000c0c42"
+},
+{
+"id": 21443,
+"en": "Hey mister, it's cold, ain't it? Wanna buy some matches? Could build a nice fire at home with 'em.",
+"ctx": "diálogo uid000c0c43"
+},
+{
+"id": 21444,
+"en": "Matches? If you're gonna shake people down, couldn't you at least find someone better off than me?",
+"ctx": "diálogo uid000c0c43"
+},
+{
+"id": 21445,
+"en": "Not tryin' to shake anyone down. It's a reasonable price. Hundred yen for a box. How 'bout it?",
+"ctx": "diálogo uid000c0c43"
+},
+{
+"id": 21446,
+"en": "Please, sir...!",
+"ctx": "diálogo uid000c0c43"
+},
+{
+"id": 21447,
+"en": "A hundred yen? You'll let me go for just that?",
+"ctx": "diálogo uid000c0c43"
+},
+{
+"id": 21448,
+"en": "Nobody's keepin' ya. I just happen to be helpin' this little girl sell matches. Ain't it obvious yet that I mean ya no harm?",
+"ctx": "diálogo uid000c0c43"
+},
+{
+"id": 21449,
+"en": "No, it's really not obvious at all...",
+"ctx": "diálogo uid000c0c43"
+},
+{
+"id": 21450,
+"en": "Well I'm tellin' ya, ain't I?",
+"ctx": "diálogo uid000c0c43"
+},
+{
+"id": 21451,
+"en": "Sorry! I get it! I'd like to buy a box of matches, please!",
+"ctx": "diálogo uid000c0c43"
+},
+{
+"id": 21452,
+"en": "Yeah? 'Preciate it.",
+"ctx": "diálogo uid000c0c43"
+},
+{
+"id": 21453,
+"en": "You sold a box of matches.",
+"ctx": "diálogo uid000c0c43 + diálogo uid000c0c44 …"
+},
+{
+"id": 21454,
+"en": "Need some matches, lady? They're a hundred yen a box.",
+"ctx": "diálogo uid000c0c44"
+},
+{
+"id": 21455,
+"en": "How dare you! You should be ashamed, trying to extort decent people. I am not buying any of your \"matches.\"",
+"ctx": "diálogo uid000c0c44"
+},
+{
+"id": 21456,
+"en": "Any way I can change your mind?",
+"ctx": "diálogo uid000c0c44"
+},
+{
+"id": 21457,
+"en": "C'mon, little lady, you ask her, too.",
+"ctx": "diálogo uid000c0c44"
+},
+{
+"id": 21458,
+"en": "Um, excuse me, ma'am. Please, would you buy some?",
+"ctx": "diálogo uid000c0c44"
+},
+{
+"id": 21459,
+"en": "Are you even related to this girl? Or... Did you kidnap her!?",
+"ctx": "diálogo uid000c0c44"
+},
+{
+"id": 21460,
+"en": "No, no, I'm just helpin' her sell her wares.",
+"ctx": "diálogo uid000c0c44"
+},
+{
+"id": 21461,
+"en": "Listen, sweetie. Did this man take you from your family? You can tell me, it's okay.",
+"ctx": "diálogo uid000c0c44"
+},
+{
+"id": 21462,
+"en": "Ma'am, he's just a nice man helping me. It was really hard trying to sell matches by myself.",
+"ctx": "diálogo uid000c0c44"
+},
+{
+"id": 21463,
+"en": "Hm, guess I was hasty to judge. I'll make up for it by buying a box. Just one, though!",
+"ctx": "diálogo uid000c0c44"
+},
+{
+"id": 21464,
+"en": "Oh, you will? Thank you very much!",
+"ctx": "diálogo uid000c0c44"
+},
+{
+"id": 21465,
+"en": "Thanks lady, you're, um... the best. 'Preciate it.",
+"ctx": "diálogo uid000c0c44"
+},
+{
+"id": 21466,
+"en": "Hey lady, could I get ya to buy some matches at a hundred yen a box?",
+"ctx": "diálogo uid000c0c45"
+},
+{
+"id": 21467,
+"en": "What are you suggesting? Please, don't!",
+"ctx": "diálogo uid000c0c45"
+},
+{
+"id": 21468,
+"en": "Don't make a ruckus. I ain't suggestin' ya shake out yer purse or nothin'.",
+"ctx": "diálogo uid000c0c45"
+},
+{
+"id": 21469,
+"en": "Please buy some! Pretty please?",
+"ctx": "diálogo uid000c0c45"
+},
+{
+"id": 21470,
+"en": "Leave me alone! I'll scream for help!",
+"ctx": "diálogo uid000c0c45"
+},
+{
+"id": 21471,
+"en": "Hey, honey-pie, what's the commotion? This guy giving you a hard time?",
+"ctx": "diálogo uid000c0c45"
+},
+{
+"id": 21472,
+"en": "Yes! He's asking me to... well, to buy matches!",
+"ctx": "diálogo uid000c0c45"
+},
+{
+"id": 21473,
+"en": "Buy matches? What's that mean? Probably some fucked up shit or something.",
+"ctx": "diálogo uid000c0c45"
+},
+{
+"id": 21474,
+"en": "No, and watch yer language. It's just regular matches. On behalf of this li'l girl. You fellas wanna buy some?",
+"ctx": "diálogo uid000c0c45"
+},
+{
+"id": 21475,
+"en": "Haha! Get lost, you stupid shit! And take your bitch daughter with you!",
+"ctx": "diálogo uid000c0c45"
+},
+{
+"id": 21476,
+"en": "My bad! My bad! I'll buy some matches!",
+"ctx": "diálogo uid000c0c47"
+},
+{
+"id": 21477,
+"en": "Oh yeah? You're too kind.",
+"ctx": "diálogo uid000c0c47"
+},
+{
+"id": 21478,
+"en": "Don't know how I forgot how much I needed some!",
+"ctx": "diálogo uid000c0c47"
+},
+{
+"id": 21479,
+"en": "Ugh... Where the hell did you learn to fight like that!?",
+"ctx": "diálogo uid000c0c49"
+},
+{
+"id": 21480,
+"en": "I'm just a little match man, with a little match girl. Hundred yen a box. You want one, dontcha?",
+"ctx": "diálogo uid000c0c49"
+},
+{
+"id": 21481,
+"en": "Fine, if it'll get ya to fuck off!",
+"ctx": "diálogo uid000c0c49"
+},
+{
+"id": 21482,
+"en": "Heh. Much obliged.",
+"ctx": "diálogo uid000c0c49"
+},
+{
+"id": 21483,
+"en": "Um, thank you...?",
+"ctx": "diálogo uid000c0c49"
+},
+{
+"id": 21484,
+"en": "Hey, how 'bout some matches? Hundred yen a box.",
+"ctx": "diálogo uid000c0c49"
+},
+{
+"id": 21485,
+"en": "You oughta realize who you're talking to, old man! The yakuza don't have time for your bullshit!",
+"ctx": "diálogo uid000c0c49"
+},
+{
+"id": 21486,
+"en": "Eep!",
+"ctx": "diálogo uid000c0c49"
+},
+{
+"id": 21487,
+"en": "No need to go yellin' like that. You're scarin' her.",
+"ctx": "diálogo uid000c0c49"
+},
+{
+"id": 21488,
+"en": "Fuck you say!?",
+"ctx": "diálogo uid000c0c49"
+},
+{
+"id": 21489,
+"en": "Calm down. Do ya wanna buy some matches, or not?",
+"ctx": "diálogo uid000c0c49"
+},
+{
+"id": 21490,
+"en": "Do <Italic>you</Italic> wanna buy a death wish!? Huh!?",
+"ctx": "diálogo uid000c0c49"
+},
+{
+"id": 21491,
+"en": "Say, lady, ya need some matches? Hundred yen a box.",
+"ctx": "diálogo uid000c0c4a"
+},
+{
+"id": 21492,
+"en": "Pardon me?",
+"ctx": "diálogo uid000c0c4a + diálogo uid00490147"
+},
+{
+"id": 21493,
+"en": "Please buy a box...",
+"ctx": "diálogo uid000c0c4a"
+},
+{
+"id": 21494,
+"en": "Why did you ask me, out of all these people?",
+"ctx": "diálogo uid000c0c4a"
+},
+{
+"id": 21495,
+"en": "'Cause ya look like a nice person. That ain't a bad thing, right?",
+"ctx": "diálogo uid000c0c4a"
+},
+{
+"id": 21496,
+"en": "Really? That's how you saw me?",
+"ctx": "diálogo uid000c0c4a"
+},
+{
+"id": 21497,
+"en": "Is there somethin' wrong?",
+"ctx": "diálogo uid000c0c4a"
+},
+{
+"id": 21498,
+"en": "No, I'm just surprised. I just got dumped by my boyfriend, and... And he said it's because I'm so selfish. Here I am, right before Christmas... single again...",
+"ctx": "diálogo uid000c0c4a"
+},
+{
+"id": 21499,
+"en": "That's a shame. Tell ya somethin', though. Ya don't look selfish at all to me.",
+"ctx": "diálogo uid000c0c4a"
+},
+{
+"id": 21500,
+"en": "...Thanks. My confidence took such a beating, I need all the compliments I can get. Anyway, yes, I will take a box.",
+"ctx": "diálogo uid000c0c4a"
+},
+{
+"id": 21501,
+"en": "Yaaay! Thank you!",
+"ctx": "diálogo uid000c0c4a"
+},
+{
+"id": 21502,
+"en": "No, thank you. And good luck.",
+"ctx": "diálogo uid000c0c4a"
+},
+{
+"id": 21503,
+"en": "'Cause ya looked cold, and these things could warm ya up.",
+"ctx": "diálogo uid000c0c4a"
+},
+{
+"id": 21504,
+"en": "I look... cold, now? *sniffle*",
+"ctx": "diálogo uid000c0c4a"
+},
+{
+"id": 21505,
+"en": "Why're ya cryin'?",
+"ctx": "diálogo uid000c0c4a"
+},
+{
+"id": 21506,
+"en": "My boyfriend called me an ice queen and then dumped me! I guess everyone in the world thinks I'm c-c-cold! *sob*",
+"ctx": "diálogo uid000c0c4a"
+},
+{
+"id": 21507,
+"en": "Whoa! Come on now, don't go bawlin' like that. People are lookin' at us; they'll think I said somethin' to ya.",
+"ctx": "diálogo uid000c0c4a"
+},
+{
+"id": 21508,
+"en": "Geez, you men are all alike! You only care about yourselves!",
+"ctx": "diálogo uid000c0c4a"
+},
+{
+"id": 21509,
+"en": "Coulda been anyone, honestly...",
+"ctx": "diálogo uid000c0c4a"
+},
+{
+"id": 21510,
+"en": "Could have been anyone...? Hmph. That's what he said, too.",
+"ctx": "diálogo uid000c0c4a"
+},
+{
+"id": 21511,
+"en": "He?",
+"ctx": "diálogo uid000c0c4a"
+},
+{
+"id": 21512,
+"en": "My boyfriend... I mean, my ex-boyfriend! He only wanted me for my body!",
+"ctx": "diálogo uid000c0c4a"
+},
+{
+"id": 21513,
+"en": "Okay, calm down...",
+"ctx": "diálogo uid000c0c4a"
+},
+{
+"id": 21514,
+"en": "And after doing it in every position he wanted, but not any that I wanted! He said he's sick of my selfishness!? The nerve of that guy!",
+"ctx": "diálogo uid000c0c4a"
+},
+{
+"id": 21515,
+"en": "Men are the worst! What do they think I am, a slab of meat!?",
+"ctx": "diálogo uid000c0c4a"
+},
+{
+"id": 21516,
+"en": "Hey, there's a kid right here.",
+"ctx": "diálogo uid000c0c4a"
+},
+{
+"id": 21517,
+"en": "Don't talk to me! I hate dating! I hate everyone!",
+"ctx": "diálogo uid000c0c4a"
+},
+{
+"id": 21518,
+"en": "That didn't go well. Gotta watch what I say.",
+"ctx": "diálogo uid000c0c4a"
+},
+{
+"id": 21519,
+"en": "Hey, buddy. Wanna buy some matches?",
+"ctx": "diálogo uid000c0c4b"
+},
+{
+"id": 21520,
+"en": "Did you say matches? What a coincidence! I was just thinking I needed to stop and get some on my way home.",
+"ctx": "diálogo uid000c0c4b"
+},
+{
+"id": 21521,
+"en": "Really? Well, these are a hundred yen a box.",
+"ctx": "diálogo uid000c0c4b"
+},
+{
+"id": 21522,
+"en": "I most certainly will take one, then. So convenient!",
+"ctx": "diálogo uid000c0c4b"
+},
+{
+"id": 21523,
+"en": "Thanks for buyin'. Ya really needed 'em, eh?",
+"ctx": "diálogo uid000c0c4b"
+},
+{
+"id": 21524,
+"en": "For my pipe! Anyone who smokes pipes knows what a pain it is to light them with a lighter.",
+"ctx": "diálogo uid000c0c4b"
+},
+{
+"id": 21525,
+"en": "And I ran out of matches, but lo and behold! You showed up!",
+"ctx": "diálogo uid000c0c4b"
+},
+{
+"id": 21526,
+"en": "Glad we found ya.",
+"ctx": "diálogo uid000c0c4b"
+},
+{
+"id": 21527,
+"en": "Me too! Thank you kindly!",
+"ctx": "diálogo uid000c0c4b"
+},
+{
+"id": 21528,
+"en": "Matches? What's that? The latest thing on the street?",
+"ctx": "diálogo uid000c0c4c"
+},
+{
+"id": 21529,
+"en": "Huh? What're ya sayin'?",
+"ctx": "diálogo uid000c0c4c"
+},
+{
+"id": 21530,
+"en": "Matches, you said. Is it good shit? I've been looking to get real fucked up, man.",
+"ctx": "diálogo uid000c0c4c"
+},
+{
+"id": 21531,
+"en": "No, it's nothin' like that. I'm talkin' about real matches, the little sticks that catch fire when ya scrape 'em. Wanna buy a box for a hundred yen?",
+"ctx": "diálogo uid000c0c4c"
+},
+{
+"id": 21532,
+"en": "Okay... I get it. If you wanna know more about the goods, you gotta buy a sample, is that it?",
+"ctx": "diálogo uid000c0c4c"
+},
+{
+"id": 21533,
+"en": "Ain't got a clue what you're sayin'.",
+"ctx": "diálogo uid000c0c4c"
+},
+{
+"id": 21534,
+"en": "Yeah man, I gotcha. I'll give it a go. Gimme a box.",
+"ctx": "diálogo uid000c0c4c"
+},
+{
+"id": 21535,
+"en": "Yeah? 'Preciate your business.",
+"ctx": "diálogo uid000c0c4c"
+},
+{
+"id": 21536,
+"en": "Oh, thank you very much!",
+"ctx": "diálogo uid000c0c4c + diálogo uid00490218 …"
+},
+{
+"id": 21537,
+"en": "Suzuki-san, that was somethin' else! It was like watchin' the god of noodles at work!",
+"ctx": "diálogo uid000c0c5d"
+},
+{
+"id": 21538,
+"en": "Really can't thank ya enough for today. Here, this is your pay.",
+"ctx": "diálogo uid000c0c5d"
+},
+{
+"id": 21539,
+"en": "You got <Color:8>8,000 yen<Color:Default>.",
+"ctx": "diálogo uid000c0c5d + diálogo uid003309b1"
+},
+{
+"id": 21540,
+"en": "Come on by any time ya want, okay? I'd be happy to have ya work the counter again if ya ever feel like it, Suzuki-san.",
+"ctx": "diálogo uid000c0c5d"
+},
+{
+"id": 21541,
+"en": "Tell your boss I said hi, too. See ya!",
+"ctx": "diálogo uid000c0c5d"
+},
+{
+"id": 21542,
+"en": "That wasn't half bad, Suzuki-san!",
+"ctx": "diálogo uid000c0c5d"
+},
+{
+"id": 21543,
+"en": "Thanks for the help today. Here's your pay.",
+"ctx": "diálogo uid000c0c5d"
+},
+{
+"id": 21544,
+"en": "You got <Color:8>4,000 yen<Color:Default>.",
+"ctx": "diálogo uid000c0c5d + diálogo uid001302bd …"
+},
+{
+"id": 21545,
+"en": "Come by and help out again if ya got the time. I reckon you'll do even better!",
+"ctx": "diálogo uid000c0c5d"
+},
+{
+"id": 21546,
+"en": "Tell that boss of yours I said hi, too. See ya!",
+"ctx": "diálogo uid000c0c5d"
+},
+{
+"id": 21547,
+"en": "Suzuki-san... I was watchin' ya work, and I gotta say... You handled those noodles like a rookie.",
+"ctx": "diálogo uid000c0c5d"
+},
+{
+"id": 21548,
+"en": "Still, it's enough ya came by and offered to help. Here's your pay.",
+"ctx": "diálogo uid000c0c5d"
+},
+{
+"id": 21549,
+"en": "You got <Color:8>3,000 yen<Color:Default>.",
+"ctx": "diálogo uid000c0c5d + diálogo uid001302bd …"
+},
+{
+"id": 21550,
+"en": "You got <Color:8>2,000 yen<Color:Default>.",
+"ctx": "diálogo uid000c0c5d + diálogo uid001302bd"
+},
+{
+"id": 21551,
+"en": "Still, I'm glad you were here to work the counter, even if ya were fumblin' up a bit. Come by and help out again if ya got the time.",
+"ctx": "diálogo uid000c0c5d"
+},
+{
+"id": 21552,
+"en": "Give my regards to the chief, okay? See ya!",
+"ctx": "diálogo uid000c0c5d"
+},
+{
+"id": 21553,
+"en": "Are ya not feelin' well or something, Suzuki-san? Come help out when ya feel better.",
+"ctx": "diálogo uid000c0c5d"
+},
+{
+"id": 21554,
+"en": "Thank you. Now is your back okay?",
+"ctx": "diálogo uid000c0c5d"
+},
+{
+"id": 21555,
+"en": "Huh? My back? Oh... Oh, hey!",
+"ctx": "diálogo uid000c0c5d"
+},
+{
+"id": 21556,
+"en": "Watchin' you work your magic made me forget all about it. I feel fine now! Hahaha!",
+"ctx": "diálogo uid000c0c5d"
+},
+{
+"id": 21557,
+"en": "That's... good.",
+"ctx": "diálogo uid000c0c5d"
+},
+{
+"id": 21558,
+"en": "You were a huge help today. Here's your pay.",
+"ctx": "diálogo uid000c0c5d"
+},
+{
+"id": 21559,
+"en": "Oh, and say hi to the chief for me, will ya? Thanks again!",
+"ctx": "diálogo uid000c0c5d"
+},
+{
+"id": 21560,
+"en": "That wasn't half bad for your first time, Suzuki-san! Color me surprised!",
+"ctx": "diálogo uid000c0c5d"
+}
+]

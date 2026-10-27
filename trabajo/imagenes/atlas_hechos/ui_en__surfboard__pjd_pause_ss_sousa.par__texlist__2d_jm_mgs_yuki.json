@@ -1,0 +1,602 @@
+{
+ "textura": "ui_en/surfboard/pjd_pause_ss_sousa.par/texlist/2d_jm_mgs_yuki",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    962,
+    89,
+    1084,
+    115
+   ],
+   "en": "Controls",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 116,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 18,
+   "dejar": true
+  },
+  {
+   "caja": [
+    468,
+    128,
+    760,
+    155
+   ],
+   "en": "Command NPC",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "der",
+   "ancho_max": 286,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 18,
+   "dejar": true
+  },
+  {
+   "caja": [
+    650,
+    161,
+    760,
+    187
+   ],
+   "en": "Aim",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "der",
+   "ancho_max": 104,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 18,
+   "dejar": true
+  },
+  {
+   "caja": [
+    492,
+    233,
+    760,
+    260
+   ],
+   "en": "Throw Out Bear Bait",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "der",
+   "ancho_max": 262,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 18,
+   "dejar": true
+  },
+  {
+   "caja": [
+    644,
+    338,
+    760,
+    365
+   ],
+   "en": "Move",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "der",
+   "ancho_max": 110,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 18,
+   "dejar": true
+  },
+  {
+   "caja": [
+    576,
+    372,
+    760,
+    399
+   ],
+   "en": "Return to Title",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "der",
+   "ancho_max": 178,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 18,
+   "dejar": true
+  },
+  {
+   "caja": [
+    766,
+    129,
+    858,
+    151
+   ],
+   "en": "L2 Button",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 86,
+   "color": [
+    110,
+    215,
+    255
+   ],
+   "alto": 13,
+   "dejar": true
+  },
+  {
+   "caja": [
+    766,
+    164,
+    858,
+    186
+   ],
+   "en": "L1 Button",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 86,
+   "color": [
+    110,
+    215,
+    255
+   ],
+   "alto": 13,
+   "dejar": true
+  },
+  {
+   "caja": [
+    764,
+    234,
+    886,
+    257
+   ],
+   "en": "Up Button",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 116,
+   "color": [
+    110,
+    215,
+    255
+   ],
+   "alto": 15,
+   "dejar": true
+  },
+  {
+   "caja": [
+    766,
+    340,
+    877,
+    361
+   ],
+   "en": "Left Stick",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 105,
+   "color": [
+    110,
+    215,
+    255
+   ],
+   "alto": 13,
+   "dejar": true
+  },
+  {
+   "caja": [
+    766,
+    372,
+    1072,
+    396
+   ],
+   "en": "Touch Pad Button",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 300,
+   "color": [
+    110,
+    215,
+    255
+   ],
+   "alto": 13,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1136,
+    129,
+    1282,
+    151
+   ],
+   "en": "R2 Button",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "der",
+   "ancho_max": 140,
+   "color": [
+    110,
+    215,
+    255
+   ],
+   "alto": 13,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1136,
+    164,
+    1282,
+    185
+   ],
+   "en": "R1 Button",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "der",
+   "ancho_max": 140,
+   "color": [
+    110,
+    215,
+    255
+   ],
+   "alto": 13,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1194,
+    199,
+    1282,
+    220
+   ],
+   "en": "Button",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "der",
+   "ancho_max": 82,
+   "color": [
+    110,
+    215,
+    255
+   ],
+   "alto": 13,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1195,
+    235,
+    1282,
+    257
+   ],
+   "en": "Button",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "der",
+   "ancho_max": 81,
+   "color": [
+    110,
+    215,
+    255
+   ],
+   "alto": 13,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1196,
+    270,
+    1282,
+    292
+   ],
+   "en": "Button",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "der",
+   "ancho_max": 80,
+   "color": [
+    110,
+    215,
+    255
+   ],
+   "alto": 13,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1197,
+    304,
+    1282,
+    325
+   ],
+   "en": "Button",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "der",
+   "ancho_max": 79,
+   "color": [
+    110,
+    215,
+    255
+   ],
+   "alto": 13,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1112,
+    340,
+    1282,
+    363
+   ],
+   "en": "Right Stick",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "der",
+   "ancho_max": 164,
+   "color": [
+    110,
+    215,
+    255
+   ],
+   "alto": 15,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1115,
+    375,
+    1282,
+    396
+   ],
+   "en": "OPTIONS Button",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "der",
+   "ancho_max": 161,
+   "color": [
+    110,
+    215,
+    255
+   ],
+   "alto": 13,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1288,
+    128,
+    1402,
+    155
+   ],
+   "en": "Reload",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 108,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 18,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1288,
+    163,
+    1552,
+    190
+   ],
+   "en": "Strafe Move/Shoot",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 258,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 21,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1289,
+    197,
+    1460,
+    224
+   ],
+   "en": "Melee Attack",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 165,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 18,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1288,
+    232,
+    1419,
+    259
+   ],
+   "en": "Crouch",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 125,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 18,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1283,
+    268,
+    1395,
+    301
+   ],
+   "en": "Fire Gun",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 106,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 18,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1283,
+    302,
+    1422,
+    336
+   ],
+   "en": "Dodge",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 133,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 21,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1289,
+    338,
+    1469,
+    365
+   ],
+   "en": "Move Camera",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 174,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 18,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1283,
+    373,
+    1407,
+    406
+   ],
+   "en": "Controls",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 118,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 18,
+   "dejar": true
+  }
+ ]
+}

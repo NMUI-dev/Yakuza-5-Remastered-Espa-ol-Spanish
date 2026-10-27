@@ -1,0 +1,889 @@
+[
+{
+"id": 71800,
+"en": "OX",
+"ctx": "imagen de menú (2d_yk_ramen00); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 6
+},
+{
+"id": 71801,
+"en": "inarow",
+"ctx": "imagen de menú (2d_yk_ramen00); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 71802,
+"en": "Start!",
+"ctx": "imagen de menú (2d_yk_ramen01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 71803,
+"en": "LOSE WIN!",
+"ctx": "imagen de menú (2d_yk_mg_roulette01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 17
+},
+{
+"id": 71804,
+"en": "BETS",
+"ctx": "imagen de menú (2d_yk_mg_roulette01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 71805,
+"en": "MORE",
+"ctx": "imagen de menú (2d_yk_mg_roulette01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 71806,
+"en": "LASTBET",
+"ctx": "imagen de menú (2d_yk_mg_roulette01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 71807,
+"en": "Time",
+"ctx": "imagen de menú (2d_yk_mg_roulette01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 71808,
+"en": "Play Head-to-Head",
+"ctx": "imagen de menú (2d_yk_mg_roulette02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 28
+},
+{
+"id": 71809,
+"en": "Survival",
+"ctx": "imagen de menú (2d_yk_mg_roulette02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 71810,
+"en": "Dealer Mode",
+"ctx": "imagen de menú (2d_yk_mg_roulette02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 19
+},
+{
+"id": 71811,
+"en": "Piece Explanation",
+"ctx": "imagen de menú (2d_jm_shogi01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 28
+},
+{
+"id": 71812,
+"en": "Don'tUse",
+"ctx": "imagen de menú (2d_jm_shogi03); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 71813,
+"en": "Ranked",
+"ctx": "imagen de menú (2d_jm_shogi02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 71814,
+"en": "Match",
+"ctx": "imagen de menú (2d_jm_shogi02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 71815,
+"en": "Ranked Match",
+"ctx": "imagen de menú (2d_jm_shogi02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 21
+},
+{
+"id": 71816,
+"en": "Challenge Match",
+"ctx": "imagen de menú (2d_jm_shogi02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 71817,
+"en": "10 Seconds Left",
+"ctx": "imagen de menú (2d_jm_shogi02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 71818,
+"en": "CHECKMATE",
+"ctx": "imagen de menú (2d_mn_mg_shougi_ji); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 17
+},
+{
+"id": 71819,
+"en": "GIVE UP",
+"ctx": "imagen de menú (2d_mn_mg_shougi_ji); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 71820,
+"en": "SUPER TAKE",
+"ctx": "imagen de menú (2d_mn_mg_shougi_ji); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 71821,
+"en": "CLEAR",
+"ctx": "imagen de menú (taiko_common); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 71822,
+"en": "WjON",
+"ctx": "imagen de menú (taiko_common_02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 71823,
+"en": "Akiyama Shinada",
+"ctx": "imagen de menú (taiko_common_02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71824,
+"en": "al",
+"ctx": "imagen de menú (taiko_common_02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 6
+},
+{
+"id": 71825,
+"en": "1st",
+"ctx": "imagen de menú (taiko_common_02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 8
+},
+{
+"id": 71826,
+"en": "Shoji",
+"ctx": "imagen de menú (taiko_common_02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 71827,
+"en": "Sodachi Yosuke Ehama",
+"ctx": "imagen de menú (taiko_common_02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71828,
+"en": "Rachi-kun",
+"ctx": "imagen de menú (taiko_common_02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 17
+},
+{
+"id": 71829,
+"en": "3rd",
+"ctx": "imagen de menú (taiko_common_02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 8
+},
+{
+"id": 71830,
+"en": "Ryo-kun",
+"ctx": "imagen de menú (taiko_common_02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 71831,
+"en": "Auntie",
+"ctx": "imagen de menú (taiko_common_02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 71832,
+"en": "Don-chan Kat-chan",
+"ctx": "imagen de menú (taiko_common_02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71833,
+"en": "Park",
+"ctx": "imagen de menú (taiko_common_02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 71834,
+"en": "TP",
+"ctx": "imagen de menú (taiko_game_02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 6
+},
+{
+"id": 71835,
+"en": "Don-chan",
+"ctx": "imagen de menú (taiko_game_02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 71836,
+"en": "Normai",
+"ctx": "imagen de menú (taiko_music_select_02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 71837,
+"en": "1stSong",
+"ctx": "imagen de menú (taiko_music_select_02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 71838,
+"en": "2nd Song",
+"ctx": "imagen de menú (taiko_music_select_02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 71839,
+"en": "From the New World",
+"ctx": "imagen de menú (taiko_game_01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 30
+},
+{
+"id": 71840,
+"en": "Mappy Medley",
+"ctx": "imagen de menú (taiko_game_01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 21
+},
+{
+"id": 71841,
+"en": "Nijiiro Yumeiro Taikoiro",
+"ctx": "imagen de menú (taiko_game_01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 38
+},
+{
+"id": 71842,
+"en": "Drum Roll!",
+"ctx": "imagen de menú (taiko_game_03); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 71843,
+"en": "DRUM ROLL.",
+"ctx": "imagen de menú (taiko_game_03); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 71844,
+"en": "Drum",
+"ctx": "imagen de menú (taiko_game_03); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 71845,
+"en": "Roll!",
+"ctx": "imagen de menú (taiko_game_03); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 71846,
+"en": "pts.",
+"ctx": "imagen de menú (taiko_game_03); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 71847,
+"en": "Don",
+"ctx": "imagen de menú (taiko_game_03); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 8
+},
+{
+"id": 71848,
+"en": "Ka Ka KA",
+"ctx": "imagen de menú (taiko_game_03); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71849,
+"en": "Do Ko",
+"ctx": "imagen de menú (taiko_game_03); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71850,
+"en": "DON",
+"ctx": "imagen de menú (taiko_game_03); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 8
+},
+{
+"id": 71851,
+"en": "Not Cle",
+"ctx": "imagen de menú (taiko_game_08); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 71852,
+"en": "ared",
+"ctx": "imagen de menú (taiko_game_08); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 71853,
+"en": "STA GE",
+"ctx": "imagen de menú (taiko_game_09); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 71854,
+"en": "CLE AR",
+"ctx": "imagen de menú (taiko_game_09); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 71855,
+"en": "ED!",
+"ctx": "imagen de menú (taiko_game_09); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 8
+},
+{
+"id": 71856,
+"en": "CLEARED!",
+"ctx": "imagen de menú (taiko_game_09); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 71857,
+"en": "FULL",
+"ctx": "imagen de menú (taiko_game_09); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 71858,
+"en": "COMBO!",
+"ctx": "imagen de menú (taiko_game_09); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 71859,
+"en": "1st Song",
+"ctx": "imagen de menú (taiko_game_32); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 71860,
+"en": "Not Cleared",
+"ctx": "imagen de menú (taiko_game_40); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 19
+},
+{
+"id": 71861,
+"en": "That's all!",
+"ctx": "imagen de menú (taiko_game_over_02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 19
+},
+{
+"id": 71862,
+"en": "Thanks for playing!",
+"ctx": "imagen de menú (taiko_game_over_02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 31
+},
+{
+"id": 71863,
+"en": "Not",
+"ctx": "imagen de menú (taiko_result_01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 8
+},
+{
+"id": 71864,
+"en": "Cleared!",
+"ctx": "imagen de menú (taiko_result_01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 71865,
+"en": "cleared...",
+"ctx": "imagen de menú (taiko_result_01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 71866,
+"en": "Tryharder",
+"ctx": "imagen de menú (taiko_result_01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 17
+},
+{
+"id": 71867,
+"en": "nexttime!",
+"ctx": "imagen de menú (taiko_result_01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 17
+},
+{
+"id": 71868,
+"en": "performance!",
+"ctx": "imagen de menú (taiko_result_01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 21
+},
+{
+"id": 71869,
+"en": "Too bad...",
+"ctx": "imagen de menú (taiko_result_01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 71870,
+"en": "You were",
+"ctx": "imagen de menú (taiko_result_01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 71871,
+"en": "so close!",
+"ctx": "imagen de menú (taiko_result_01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 17
+},
+{
+"id": 71872,
+"en": "GOOD OK BAD",
+"ctx": "imagen de menú (taiko_result_01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71873,
+"en": "MAX Combo Drumroll",
+"ctx": "imagen de menú (taiko_result_01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71874,
+"en": "Nijiro Yumeiro Taikoiro",
+"ctx": "imagen de menú (taiko_result_02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 37
+},
+{
+"id": 71875,
+"en": "WEasy",
+"ctx": "imagen de menú (taiko_music_select_01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 71876,
+"en": "Normaij",
+"ctx": "imagen de menú (taiko_music_select_01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 71877,
+"en": "Select Song",
+"ctx": "imagen de menú (taiko_music_select_01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 19
+},
+{
+"id": 71878,
+"en": "SelectDiffculty",
+"ctx": "imagen de menú (taiko_music_select_01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 71879,
+"en": "Ｈａrd",
+"ctx": "imagen de menú (taiko_music_select_01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 71880,
+"en": "Easy Hard",
+"ctx": "imagen de menú (taiko_music_select_03); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71881,
+"en": "TaikoNo Tatsujin",
+"ctx": "imagen de menú (taiko_title); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 27
+},
+{
+"id": 71882,
+"en": "PRESS ANY BUTTON",
+"ctx": "imagen de menú (taiko_title); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 27
+},
+{
+"id": 71883,
+"en": "timing said",
+"ctx": "imagen de menú (2d_jm_mg_tsukkomi); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71884,
+"en": "Nice",
+"ctx": "imagen de menú (2d_jm_mg_tsukkomi); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 71885,
+"en": "Nicely",
+"ctx": "imagen de menú (2d_jm_mg_tsukkomi); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 71886,
+"en": "laughs",
+"ctx": "imagen de menú (2d_jm_mg_tsukkomi); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 71887,
+"en": "1 timing",
+"ctx": "imagen de menú (2d_jm_mg_tsukkomi); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 71888,
+"en": "Well",
+"ctx": "imagen de menú (2d_jm_mg_tsukkomi); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 71889,
+"en": "said",
+"ctx": "imagen de menú (2d_jm_mg_tsukkomi); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 71890,
+"en": "Poorly worded",
+"ctx": "imagen de menú (2d_jm_mg_tsukkomi); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 71891,
+"en": "RESULTS Laughter Gauge",
+"ctx": "imagen de menú (2d_jm_mg_tsukkomi02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71892,
+"en": "Bad timing",
+"ctx": "imagen de menú (2d_jm_mg_tsukkomi02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 71893,
+"en": "OOYEN",
+"ctx": "imagen de menú (2d_jm_mg_ufo); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 71894,
+"en": "PLAYS",
+"ctx": "imagen de menú (2d_jm_mg_ufo); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 71895,
+"en": "PLAY",
+"ctx": "imagen de menú (2d_jm_mg_ufo); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 71896,
+"en": "MoveCraneRight",
+"ctx": "imagen de menú (2d_jm_mg_ufo); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 24
+},
+{
+"id": 71897,
+"en": "CDNG DATL",
+"ctx": "imagen de menú (2d_jm_mg_ufo); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71898,
+"en": "MoveCraneLeft",
+"ctx": "imagen de menú (2d_jm_mg_ufo); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 71899,
+"en": "MoveCraneBack",
+"ctx": "imagen de menú (2d_jm_mg_ufo); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 71900,
+"en": "Play Don't Play",
+"ctx": "imagen de menú (2d_jm_mg_ufo); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71901,
+"en": "STRIKE",
+"ctx": "imagen de menú (2d_jm_mg_yukigassen); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 71902,
+"en": "SHOOT",
+"ctx": "imagen de menú (2d_jm_mg_yukigassen); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 71903,
+"en": "POINTX2",
+"ctx": "imagen de menú (2d_jm_mg_yukigassen); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 71904,
+"en": "4th",
+"ctx": "imagen de menú (2d_jm_mg_yukigassen); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 8
+},
+{
+"id": 71905,
+"en": "Remaining",
+"ctx": "imagen de menú (2d_jm_mg_yukigassen); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 17
+},
+{
+"id": 71906,
+"en": "snowballs",
+"ctx": "imagen de menú (2d_jm_mg_yukigassen); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 17
+},
+{
+"id": 71907,
+"en": "：2nd3th",
+"ctx": "imagen de menú (2d_jm_mg_yukigassen_num); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 17
+},
+{
+"id": 71908,
+"en": "4nobace",
+"ctx": "imagen de menú (2d_jm_mg_yukigassen_pt); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 71909,
+"en": "1Stoaco",
+"ctx": "imagen de menú (2d_jm_mg_yukigassen_pt); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 71910,
+"en": "2ndbace",
+"ctx": "imagen de menú (2d_jm_mg_yukigassen_pt); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 71911,
+"en": "ardaace",
+"ctx": "imagen de menú (2d_jm_mg_yukigassen_pt); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 71912,
+"en": "PLAYER1",
+"ctx": "imagen de menú (2d_jm_mg_yukigassen_pt); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 71913,
+"en": "PLAYER2",
+"ctx": "imagen de menú (2d_jm_mg_yukigassen_pt); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 71914,
+"en": "SHOOT!",
+"ctx": "imagen de menú (2d_jm_mg_yukigassen_pt); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 71915,
+"en": "PLAYER3",
+"ctx": "imagen de menú (2d_jm_mg_yukigassen_pt); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 71916,
+"en": "PLAYER4",
+"ctx": "imagen de menú (2d_jm_mg_yukigassen_pt); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 71917,
+"en": "toPLAYER1PLAYER2",
+"ctx": "imagen de menú (2d_jm_mg_yukigassen_pt); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 27
+},
+{
+"id": 71918,
+"en": "HIT!",
+"ctx": "imagen de menú (2d_jm_mg_yukigassen_pt); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 71919,
+"en": "iLOOHS",
+"ctx": "imagen de menú (2d_jm_mg_yukigassen_pt); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 71920,
+"en": "D.LV.",
+"ctx": "imagen de menú (2d_yk_z_common_kiryu); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 71921,
+"en": "SAWAMURA HARU",
+"ctx": "imagen de menú (2d_yk_onedari); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 71922,
+"en": "FAMURAH",
+"ctx": "imagen de menú (2d_yk_onedari); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 71923,
+"en": "Haruka's Mood",
+"ctx": "imagen de menú (2d_yk_onedari); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 71924,
+"en": "Request made...",
+"ctx": "imagen de menú (2d_yk_onedari_info); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 71925,
+"en": "TaxiDriver",
+"ctx": "imagen de menú (2d_yk_pause_another_01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 71926,
+"en": "HunterandKiller",
+"ctx": "imagen de menú (2d_yk_pause_another_02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 71927,
+"en": "Singing",
+"ctx": "imagen de menú (2d_yk_pause_another_03); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 71928,
+"en": "Basic Skill",
+"ctx": "imagen de menú (2d_yk_pause_another_03); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 19
+},
+{
+"id": 71929,
+"en": "TheRoadtoFame",
+"ctx": "imagen de menú (2d_yk_pause_another_03); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 71930,
+"en": "Performance",
+"ctx": "imagen de menú (2d_yk_pause_another_03); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 19
+},
+{
+"id": 71931,
+"en": "Appeal",
+"ctx": "imagen de menú (2d_yk_pause_another_03); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 71932,
+"en": "TheCostofaSwing",
+"ctx": "imagen de menú (2d_yk_pause_another_04); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 71933,
+"en": "POP>>DANCE>>FINAL Princess League",
+"ctx": "imagen de menú (princess_muchup); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 71934,
+"en": "LIVEBATTLE",
+"ctx": "imagen de menú (princess_muchup); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 71935,
+"en": "T-SET",
+"ctx": "imagen de menú (princess_muchup); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 71936,
+"en": "Much More!",
+"ctx": "imagen de menú (princess_musictitle_01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 71937,
+"en": "SoI",
+"ctx": "imagen de menú (princess_musictitle_01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 8
+},
+{
+"id": 71938,
+"en": "So I",
+"ctx": "imagen de menú (princess_musictitle_01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 71939,
+"en": "Lyrics by Ryosuke Horii",
+"ctx": "imagen de menú (princess_musictitle_01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 37
+},
+{
+"id": 71940,
+"en": "byZENTA",
+"ctx": "imagen de menú (princess_musictitle_01); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 71941,
+"en": "BecauseIHaveYou",
+"ctx": "imagen de menú (princess_musictitle_02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 71942,
+"en": "aseIHaveo",
+"ctx": "imagen de menú (princess_musictitle_02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 17
+},
+{
+"id": 71943,
+"en": "Music by Mitsuharu Fukuyama",
+"ctx": "imagen de menú (princess_musictitle_02); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 43
+},
+{
+"id": 71944,
+"en": "Loop",
+"ctx": "imagen de menú (princess_musictitle_03); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 71945,
+"en": "Loneliness",
+"ctx": "imagen de menú (princess_musictitle_03); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 71946,
+"en": "elir",
+"ctx": "imagen de menú (princess_musictitle_03); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 71947,
+"en": "le",
+"ctx": "imagen de menú (princess_musictitle_03); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 6
+},
+{
+"id": 71948,
+"en": "op",
+"ctx": "imagen de menú (princess_musictitle_03); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 6
+},
+{
+"id": 71949,
+"en": "Music by ZENTA",
+"ctx": "imagen de menú (princess_musictitle_03); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 24
+}
+]

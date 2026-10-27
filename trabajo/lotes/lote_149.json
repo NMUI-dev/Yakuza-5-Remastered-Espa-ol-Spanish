@@ -1,0 +1,717 @@
+[
+{
+"id": 33351,
+"en": "I'd love to try the special lunch menu at <Color:8>Pronto<Color:Default>, Uncle Kaz! I hear it's super good!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33352,
+"en": "I'm in the mood for barbecue at <Color:8>Kanrai<Color:Default>. C'mon, let's go, Uncle Kaz!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33353,
+"en": "I've had enough walking, Uncle Kaz. Let's grab a bite to eat at <Color:8>Smile Burger<Color:Default>!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33354,
+"en": "My feet are sore, Uncle Kaz. Let's go and get something at <Color:8>Café Alps<Color:Default>!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33355,
+"en": "I feel like going to an M Store and buying a <Color:8>Tuna Onigiri<Color:Default>, Uncle Kaz. Think you can make that happen? Please?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33356,
+"en": "Hey, Uncle Kaz! I'd like to see the <Color:8>TV tower<Color:Default> up closer!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33357,
+"en": "Hey, Uncle Kaz! I heard there's a <Color:8>Ferris wheel<Color:Default> in Kineicho! Let's go take a look!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33358,
+"en": "Let's take some <Color:8>PrintCircle<Color:Default> photos together to commemorate our trip to Kineicho, Uncle Kaz!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33359,
+"en": "I hear they have <Color:8>Taiko No Tatsujin<Color:Default>  at Club SEGA, Uncle Kaz! Let's go see if the rumors are true!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33360,
+"en": "I feel like going to <Color:8>Karaokekan<Color:Default>, Uncle Kaz! I'll give you your very own concert, hehe.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33361,
+"en": "They say <Color:8>First Shot<Color:Default> has a pool table, Uncle Kaz. I'd love to watch you play.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33362,
+"en": "We came all this way to Kineicho! We can't leave without stopping by <Color:8>Yamamotoya Honten<Color:Default>, Uncle Kaz!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33363,
+"en": "While we're in Kineicho, it'd be nice to go to <Color:8>Sekai no Yamachan<Color:Default>, Uncle Kaz!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33364,
+"en": "I need a break from walking, Uncle Kaz! Let's find a <Color:8>drugstore<Color:Default> and buy something to drink.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33365,
+"en": "I'm getting a little hungry, Uncle Kaz! We should go buy something at an <Color:8>M Store<Color:Default>.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33366,
+"en": "Let's go to <Color:8>Club SEGA<Color:Default> and play some games, Uncle Kaz!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33367,
+"en": "The view from <Color:8>Iwao Bridge<Color:Default> is fantastic, Uncle Kaz! We should go see for ourselves!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33368,
+"en": "Let's take some <Color:8>PrintCircle<Color:Default> photos together to commemorate you coming to Sotenbori, Uncle Kaz!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33369,
+"en": "Let's go to <Color:8>Yokobori Golf Center<Color:Default> to blow off some steam, Uncle Kaz!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33370,
+"en": "<Color:8>Sotenbori's Ganko Sushi <Color:Default>tastes amazing, Uncle Kaz! You have to try it. Let's go, c'mon!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33371,
+"en": "I heard that <Color:8>Kushikatsu Daruma<Color:Default> in Sotenbori is really good. We should go give it a try!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33372,
+"en": "Fugu cuisine at <Color:8>Zuboraya<Color:Default> is one of Sotenbori's most well-known dishes. We should go try it out!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33373,
+"en": "I'd really like to try <Color:8>Tsuruhashi Fugetsu<Color:Default>'s  okonomiyaki, Uncle Kaz!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33374,
+"en": "Have you had crab before, Uncle Kaz? I'd love to go to <Color:8>Kani Douraku<Color:Default> and try it again.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33375,
+"en": "I heard there are big snow sculptures in <Color:8>Main Street Park<Color:Default>, Uncle Kaz! I wish I could see them... Maybe you'll take me! Sound good?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33376,
+"en": "We should take some <Color:8>PrintCircle<Color:Default> photos as a souvenir of our trip to Tsukimino!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33377,
+"en": "I feel like doing some <Color:8>bowling<Color:Default>, Uncle Kaz! C'mon, let's go!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33378,
+"en": "I heard there's a pool table at a place called <Color:8>Ambitious<Color:Default>. Let's go and check it out!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33379,
+"en": "I'm getting hungry, Uncle Kaz! I'd love a bite to eat from <Color:8>Gyoza King<Color:Default>.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33380,
+"en": "<Color:8>Matsuo Lamb Barbeque<Color:Default> is really famous in Tsukimino, right? Let's go try it!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33381,
+"en": "Let's go to <Color:8>Sushi Zanmai<Color:Default>, Uncle Kaz! Their fish is always so fresh and tasty.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33382,
+"en": "I've never had curry at <Color:8>Miyoshino<Color:Default> before. I really want to try it!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33383,
+"en": "I've worked up a big appetite, Uncle Kaz. Let's get a snack at <Color:8>Seicomart<Color:Default>.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33384,
+"en": "All this walking is making me thirsty, Uncle Kaz. Let's get something to drink at <Color:8>Seicomart<Color:Default>.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33385,
+"en": "Hey, Uncle Kaz! Do you know that <Color:8>ramen stand<Color:Default> that opens in the evening? I wanna go see it!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33386,
+"en": "<Color:8>Ose Bridge<Color:Default> is famous, isn't it, Uncle Kaz?\nI'd like to go see it.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33387,
+"en": "We should take some <Color:8>PrintCircle<Color:Default> photos together to commemorate coming to Nagasugai!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33388,
+"en": "Let's go to <Color:8>Club SEGA<Color:Default>, Uncle Kaz!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33389,
+"en": "Hey, Uncle Kaz, can we stop by <Color:8>Bee<Color:Default>? I kinda want to see what it's like inside... That's okay, right?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33390,
+"en": "Hey, Uncle Kaz, did you know that <Color:8>Fukuya<Color:Default>'s mentaiko is one of Nagasugai's specialties? Let's go take a look!",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33391,
+"en": "Hey, Uncle Kaz, can we stop by <Color:8>Don Quijote<Color:Default>? I wanna see if the Nagasugai store is any different than the one back home.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33392,
+"en": "I've heard that the motsunabe at <Color:8>Motsunabe Kaede<Color:Default> is really good. I mean, it's in the name, after all. Can we go try some?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33393,
+"en": "Boy, all this walking making me hungry, Uncle Kaz. Can we grab a bite at <Color:8>Hanamidori<Color:Default>?",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33394,
+"en": "Are you hungry, Uncle Kaz? I kind of am. We should stop by the local <Color:8>M Store<Color:Default> and get a snack.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33395,
+"en": "Let's head back to New Serena.",
+"ctx": "diálogo uid00690224"
+},
+{
+"id": 33396,
+"en": "Why, if it isn't my little country bumpkin.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33397,
+"en": "I almost forgot. This is for you. It might help you in the Princess League.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33398,
+"en": "It's a quick-change costume. It's an old, special design of mine. I can't bear to see it go to waste, so you can have it.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33399,
+"en": "Quick-change is all about timing, my dear. When you think the time is just right, change into this and blow the audience away!",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33400,
+"en": "Yes, I will! Thank you so much!",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33401,
+"en": "Don't mention it. Good luck, my little bumpkin.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33402,
+"en": "What's wrong, bumpkin? Someone put a bee under your bonnet? I don't have anything else to teach you, so...",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33403,
+"en": "No, it's not that. Today I wanted to thank you for all you've done.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33404,
+"en": "Thank me? Don't be silly! I can tell how much you appreciate my help, and that's more than thanks enough.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33405,
+"en": "Sorry, but I won't be able to live with myself until I've done this. Besides, I think you're going to like this.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33406,
+"en": "Just give me a minute to get ready!",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33407,
+"en": "Why, bumpkin, that costume...",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33408,
+"en": "All I can offer you is a song, so today I'm going to sing just for you in this costume.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33409,
+"en": "I'm going to sing my heart out for your friend who never got a chance to wear this.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33410,
+"en": "Bumpkin...",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33411,
+"en": "I'm going to put everything I've learned from you into this performance, Yoko-san!",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33412,
+"en": "I already said there's nothing I want. I'd rather you use the time to polish your skills.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33413,
+"en": "(This isn't working. Maybe I'll ask Momiyama-san what Yoko-san likes. He should be in front of his place near the south end of Bishamon Bridge.)",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33414,
+"en": "Oh, hello, bumpkin. What can I do for you?",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33415,
+"en": "Nothing really. I was just passing by.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33416,
+"en": "I am not here to keep your boredom at bay. You have some nerve, little lady.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33417,
+"en": "I wanted to thank you for all you've done.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33418,
+"en": "A bumpkin like you wants to thank me? Are you kidding? You have a long way to go before you'll be worthy of such an honor.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33419,
+"en": "But, I wanted to do something for you, Yoko-san. Isn't there something you want?",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33420,
+"en": "Nope. Nothing. And I don't want you spending any more of your energy on this! I'd rather you use the time to polish your skills.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33421,
+"en": "(It doesn't look like she's going to tell me what she wants. I wonder what would make her happy.)",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33422,
+"en": "(I know! Maybe Yoko's friend Momiyama-san knows what she likes.)",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33423,
+"en": "(If I remember correctly, Momiyama-san should be in front of his shop over near the south end of Bishamon Bridge. It's worth a try.)",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33424,
+"en": "You're absolutely glowing. Nice work.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33425,
+"en": "I was really nervous at first, but I think it went really well.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33426,
+"en": "Did you learn anything by singing unannounced in front of people who didn't know who you are?",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33427,
+"en": "I realized that all I've gone through has been really important in making me who I am.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33428,
+"en": "But I also learned how hard it is to attract new fans.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33429,
+"en": "True. And yet you managed to do just that.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33430,
+"en": "Up till now, your performances have been staged to present you in the best light as a pop idol.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33431,
+"en": "But simply stepping onto a stage that's been prepared for you isn't enough.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33432,
+"en": "Wherever you are, that's your stage. Wherever you stand, I want you to place yourself in the limelight.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33433,
+"en": "I understand.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33434,
+"en": "You can now use <Color:7>Idol Heat<Color:Default> in concert battles more often.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33435,
+"en": "See Upgrades in the Pause Menu for more information.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33436,
+"en": "Well, that's it. I've taught you all the secrets of true beauty now.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33437,
+"en": "Huh? Is that everything?",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33438,
+"en": "That's right. I have nothing more to teach you. It's up to you to pursue your own unique form of beauty from now on.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33439,
+"en": "I will! Thank you so much!",
+"ctx": "diálogo uid00690235 + diálogo uid016901a6"
+},
+{
+"id": 33440,
+"en": "Don't mention it. Besides, I did this for me just as much as I did it for you.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33441,
+"en": "That's right. As I mentioned before, you remind me of someone I was unable to help, and that made me want to take you under my wing.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33442,
+"en": "By helping you, I felt like I was helping that child from so long ago. And that took just a little bit of weight off my shoulders.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33443,
+"en": "I'm sorry. I make it sound like I've been using you.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33444,
+"en": "No, it's okay. But I'd like to hear more about that person you mentioned.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33445,
+"en": "We were friends who shared the same dream. I was much younger back then. We were about the same age, in fact.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33446,
+"en": "We were both just getting started, and we promised each other we'd make it to the top together someday.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33447,
+"en": "It was tough going at first, but we sure had fun. But after I was hired to work with a big-name idol, everything changed.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33448,
+"en": "I couldn't pass up such a great chance. I started getting lots of work while my friend faded into obscurity.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33449,
+"en": "I really wish I could have used my newfound success to pull both of us up.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33450,
+"en": "But back then, I was too busy with my own career to worry about others. I ended up forgetting the promise that we made.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33451,
+"en": "I was so engrossed in my work, I didn't even notice when my friend quit the business.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33452,
+"en": "That's so sad...",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33453,
+"en": "I've regretted it ever since. How could I forget my friend like that? Why didn't I try to help?",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33454,
+"en": "It snowballed into full-blown neurosis until I started to hate being a stylist.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33455,
+"en": "In the end, I left my career and everything I had worked for behind.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33456,
+"en": "You know that costume I gave you, bumpkin? I originally made it for my friend.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33457,
+"en": "I could never bring myself to get rid of it, but I'm glad you were able to wear it. Now I can end my stylist career without a heavy heart.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33458,
+"en": "Yoko-san...",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33459,
+"en": "It's been a pleasure working with you, dear, but I believe my work is done here. Maybe it's time I moved on.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33460,
+"en": "Move on? Are you going somewhere, Yoko-san?",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33461,
+"en": "Why wouldn't I? It's not like I'm from here. Anyway, I should probably start packing up and whatnot.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33462,
+"en": "(Yoko-san's helped me so much. I really wish there was something I could do for her before she leaves.)",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33463,
+"en": "Your Climax Heat Gauge went up.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33464,
+"en": "Your Climax Heat Gauge rose to the maximum level.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33465,
+"en": "You can now use <Color:7>Climax Heat<Color:Default> in Princess League concert battles.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33466,
+"en": "Oh, did you forget what you're supposed to be doing? Okay, here's a reminder...",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33467,
+"en": "Go see if you've become any more appealing. Not as Haruka Sawamura the idol, but as plain old Haruka. To do that, you need to perform as yourself without all the extra gimmicks. The parking lot in West Shofukucho would be a great place to give it a try.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33468,
+"en": "Remember what you're supposed to do this time!",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33469,
+"en": "Why, bumpkin. Are you here to learn the secrets of true beauty?",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33470,
+"en": "Ooh, I like your enthusiasm. Let's get right to it, shall we?",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33471,
+"en": "Well? Has your way of looking at things changed after all you've been through?",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33472,
+"en": "I've learned about a lot of things I'd never really thought about before.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33473,
+"en": "And I think maybe I've become a little more appealing as a woman.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33474,
+"en": "Well, well. Confident, aren't we?",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33475,
+"en": "Shall we put that to the test? Then we'll see what you can really do.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33476,
+"en": "How do I do that?",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33477,
+"en": "I want you to go here and sing but dressed just as you are now. Then come tell me how you felt.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33478,
+"en": "No makeup either?",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33479,
+"en": "That's right. Otherwise, it's not really a test.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33480,
+"en": "Okay, I'll give it a try.",
+"ctx": "diálogo uid00690235 + diálogo uid00690560 …"
+},
+{
+"id": 33481,
+"en": "(Yoko-san wants me to perform at the parking lot in West Shofukucho? It's in front of Komian. Maybe I'll go have a look.)",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33482,
+"en": "Yoko-san, you never mentioned anything about buying shampoo and treatment!",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33483,
+"en": "Oh, so you did buy it. Thank you, bumpkin.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33484,
+"en": "Thank you for what?",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33485,
+"en": "Don't tell me you didn't notice. It's right on the label, see?",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33486,
+"en": "What's on the label...? Oh!",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33487,
+"en": "This is your own brand!?",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33488,
+"en": "Bingo. These are my own special shampoo and treatment I developed with my years of experience working with hair.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33489,
+"en": "It keeps your hair shiny and luxurious... and my wallet flush with cash. Everybody wins!",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33490,
+"en": "Oh, and how did you like that hairstylist I recommended? Rather studly, right?",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33491,
+"en": "(That guy with the suit and afro? Now that was a surprise!)",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33492,
+"en": "Er, I mean... Yeah, he was great. I could see how you two would get along just fine.",
+"ctx": "diálogo uid00690235"
+},
+{
+"id": 33493,
+"en": "I know, right? But hands off, bumpkin. He's all mine.",
+"ctx": "diálogo uid00690235"
+}
+]

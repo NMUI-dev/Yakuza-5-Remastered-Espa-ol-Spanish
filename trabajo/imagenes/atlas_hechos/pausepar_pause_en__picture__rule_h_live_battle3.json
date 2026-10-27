@@ -1,0 +1,179 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_h_live_battle3",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    434,
+    9,
+    590,
+    43
+   ],
+   "en": "Live Battle",
+   "ocr": "Live Battle",
+   "es": "Batalla en vivo",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 152,
+   "dejar": true
+  },
+  {
+   "caja": [
+    35,
+    70,
+    254,
+    108
+   ],
+   "en": "Live Battle (5)",
+   "ocr": "·Live Battle (5)",
+   "es": "Batalla en vivo (5)",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 215,
+   "dejar": true
+  },
+  {
+   "caja": [
+    665,
+    101,
+    802,
+    127
+   ],
+   "en": "Great Ratings",
+   "ocr": "GreatRatings",
+   "es": "Gran audiencia",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 133,
+   "dejar": true
+  },
+  {
+   "caja": [
+    58,
+    116,
+    531,
+    149
+   ],
+   "en": "For live shows and lessons in your job,",
+   "ocr": "For live shows and lessons in your job,",
+   "es": "Para spectacles en vivo y Lecciones sobre tu trabajo,",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 469,
+   "dejar": true
+  },
+  {
+   "caja": [
+    664,
+    126,
+    789,
+    155
+   ],
+   "en": "Max COMBO",
+   "ocr": "Max COMBO",
+   "es": "Máximo COMBO",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 121,
+   "dejar": true
+  },
+  {
+   "caja": [
+    57,
+    150,
+    504,
+    183
+   ],
+   "en": "there will be three set goals to clear.",
+   "ocr": "there will be three set goals to clear.",
+   "es": "Habrá Tres objetivos fijados; cada objetivo deberá quedar SUPERADO.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 443,
+   "dejar": true
+  },
+  {
+   "caja": [
+    663,
+    151,
+    732,
+    181
+   ],
+   "en": "Score",
+   "ocr": "Score",
+   "es": "Puntuación",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 65,
+   "dejar": true
+  },
+  {
+   "caja": [
+    59,
+    218,
+    818,
+    252
+   ],
+   "en": "These goals are shown in the upper right corner of the screen.",
+   "ocr": "These goals are shown in the upper right corner of the screen.",
+   "es": "Estos objetivos se muestran en la esquina superior derecha de la pantalla.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 755,
+   "dejar": true
+  },
+  {
+   "caja": [
+    57,
+    286,
+    717,
+    321
+   ],
+   "en": "You will get different rewards depending on how many",
+   "ocr": "You will get different rewards depending on how many",
+   "es": "Recibirás recompensas diferentes según cuántos de los Muchos objetivos hayas SUPERADO.",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 656,
+   "dejar": true
+  },
+  {
+   "caja": [
+    59,
+    321,
+    362,
+    354
+   ],
+   "en": "of those goals you clear.",
+   "ocr": "of those goalsyou clear.",
+   "es": "Esos son los objetivos que hayas SUPERADO.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 299,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: lo hace el PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

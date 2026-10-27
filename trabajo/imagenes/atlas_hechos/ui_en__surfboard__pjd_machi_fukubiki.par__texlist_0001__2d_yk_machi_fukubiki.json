@@ -1,0 +1,43 @@
+{
+ "textura": "ui_en/surfboard/pjd_machi_fukubiki.par/texlist_0001/2d_yk_machi_fukubiki",
+ "fuente": "verdana.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    60,
+    128,
+    90
+   ],
+   "en": "Spin",
+   "es": "Girar",
+   "fuente": "verdana.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 122,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     235,
+     235,
+     235
+    ],
+    "contorno": [
+     [
+      25,
+      25,
+      25
+     ],
+     1
+    ],
+    "brillo": null
+   }
+  }
+ ]
+}

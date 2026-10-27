@@ -1,0 +1,142 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_hanafuda01.par/texlist/2d_jm_mg_hanafuda01",
+ "fuente": "times.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    480,
+    24,
+    512,
+    70
+   ],
+   "en": "Bk",
+   "es": "",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 28,
+   "dejar": true
+  },
+  {
+   "caja": [
+    0,
+    384,
+    80,
+    416
+   ],
+   "en": "Novice",
+   "es": "Novato",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 76,
+   "alto": 14
+  },
+  {
+   "caja": [
+    80,
+    384,
+    160,
+    416
+   ],
+   "en": "Intermediate",
+   "es": "Intermedio",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 78,
+   "alto": 14
+  },
+  {
+   "caja": [
+    160,
+    384,
+    240,
+    416
+   ],
+   "en": "Advanced",
+   "es": "Avanzado",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 78,
+   "alto": 14
+  },
+  {
+   "caja": [
+    240,
+    384,
+    320,
+    416
+   ],
+   "en": "Expert",
+   "es": "Experto",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 76,
+   "alto": 16
+  },
+  {
+   "caja": [
+    176,
+    448,
+    224,
+    480
+   ],
+   "en": "Use",
+   "es": "Usar",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 44,
+   "alto": 14
+  },
+  {
+   "caja": [
+    240,
+    448,
+    320,
+    480
+   ],
+   "en": "Don't Use",
+   "es": "No usar",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 76,
+   "alto": 14
+  },
+  {
+   "caja": [
+    204,
+    480,
+    252,
+    512
+   ],
+   "en": "OK",
+   "es": "",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 44
+  },
+  {
+   "caja": [
+    416,
+    480,
+    480,
+    512
+   ],
+   "en": "Koi-koi",
+   "es": "",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 60,
+   "dejar": true
+  }
+ ]
+}

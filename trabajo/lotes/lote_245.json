@@ -1,0 +1,1027 @@
+[
+{
+"id": 51501,
+"en": "\nThese skills can be leveled up by playing the various courses at the batting center, and by progressing through Shinada's Side Story. View current skill levels by speaking to the clerk at the batting center.",
+"ctx": "diálogo uid01330c1e"
+},
+{
+"id": 51502,
+"en": "\nAs he progresses through the Side Story, Shinada will face old rivals as well as new challengers.\nFacing them will also hone Shinada's batting skills.",
+"ctx": "diálogo uid01330c1e"
+},
+{
+"id": 51503,
+"en": "Shinada-saaaan.",
+"ctx": "diálogo uid01330c50 + diálogo uid01330c55 …"
+},
+{
+"id": 51504,
+"en": "How's it going, man?",
+"ctx": "diálogo uid01330c50 + diálogo uid01330c55 …"
+},
+{
+"id": 51505,
+"en": "Yo.",
+"ctx": "diálogo uid01330c50 + diálogo uid01330c55 …"
+},
+{
+"id": 51506,
+"en": "How 'bout dropping by for some cleavage? For you, we'll keep\nit cheap. The rest of these saps? Fuck 'em!",
+"ctx": "diálogo uid01330c50 + diálogo uid01330c55 …"
+},
+{
+"id": 51507,
+"en": "Thanks but no thanks. I'm screwed on time and there's work to be done.",
+"ctx": "diálogo uid01330c50 + diálogo uid01330c55 …"
+},
+{
+"id": 51508,
+"en": "Heh, bet you were just sleeping in. A man's gotta put in a proper day's work, ya know. Like yours truly.",
+"ctx": "diálogo uid01330c50 + diálogo uid01330c55 …"
+},
+{
+"id": 51509,
+"en": "Yeah, yeah. See you around. And tell that manager of yours\nto ease up on the price gouging!",
+"ctx": "diálogo uid01330c50 + diálogo uid01330c55 …"
+},
+{
+"id": 51510,
+"en": "(What a day... I'm beat. Gonna go home and hit the sack.)",
+"ctx": "diálogo uid01330c74 + diálogo uid01330c75 …"
+},
+{
+"id": 51511,
+"en": "You cannot create Clear Data during a Premium Adventure.",
+"ctx": "diálogo uid01330c78"
+},
+{
+"id": 51512,
+"en": "Note that you cannot carry over data from a Premium Adventure game to start a New Game+.",
+"ctx": "diálogo uid01330c78"
+},
+{
+"id": 51513,
+"en": "(This is a booklet for 777 Town.)",
+"ctx": "diálogo uid01330c8b + diálogo uid01330c8c …"
+},
+{
+"id": 51514,
+"en": "Read the booklet?",
+"ctx": "diálogo uid01330c8b + diálogo uid01330c8c …"
+},
+{
+"id": 51515,
+"en": "(The booklet's titled 777 Town Walker. It says it has tips on playing pachinko and slots, and valuable information about 777 Town.)",
+"ctx": "diálogo uid01330c8b + diálogo uid01330c8c …"
+},
+{
+"id": 51516,
+"en": "(Here it talks about 777 Town. Apparently, it's an online pachinko hall that lets you play anywhere, anytime from your PC or cell phone.)",
+"ctx": "diálogo uid01330c8b + diálogo uid01330c8c …"
+},
+{
+"id": 51517,
+"en": "Hello. Welcome to Rose Hip.",
+"ctx": "diálogo uid01340002"
+},
+{
+"id": 51518,
+"en": "Our establishment has an 8,400 yen minimum, along with a 3,150 yen cover charge. Requesting a specific hostess incurs another 3,150 yen fee.",
+"ctx": "diálogo uid01340002"
+},
+{
+"id": 51519,
+"en": "Would you like to join us today?",
+"ctx": "diálogo uid01340002 + diálogo uid01340011 …"
+},
+{
+"id": 51520,
+"en": "I'll find you a hostess then. This way, sir.",
+"ctx": "diálogo uid01340002 + diálogo uid01340011 …"
+},
+{
+"id": 51521,
+"en": "You'd like to see Kaguya-san? This way, sir.",
+"ctx": "diálogo uid01340002"
+},
+{
+"id": 51522,
+"en": "I see. We hope you'll come by again, sir.",
+"ctx": "diálogo uid01340002 + diálogo uid01340011 …"
+},
+{
+"id": 51523,
+"en": "I'm terribly sorry, sir, but Kaguya isn't here at the moment, I'm afraid.",
+"ctx": "diálogo uid01340002"
+},
+{
+"id": 51524,
+"en": "Okay. I'll come back later.",
+"ctx": "diálogo uid01340002"
+},
+{
+"id": 51525,
+"en": "We look forward to your next visit, sir.",
+"ctx": "diálogo uid01340002 + diálogo uid01340011 …"
+},
+{
+"id": 51526,
+"en": "(Damn. Don't have enough money.)",
+"ctx": "diálogo uid01340002"
+},
+{
+"id": 51527,
+"en": "Actually...",
+"ctx": "diálogo uid01340002"
+},
+{
+"id": 51528,
+"en": "Sorry. I'll hafta come back later.",
+"ctx": "diálogo uid01340002"
+},
+{
+"id": 51529,
+"en": "(I'm gonna need at least 15,000 yen.)",
+"ctx": "diálogo uid01340002"
+},
+{
+"id": 51530,
+"en": "Your check, sir.",
+"ctx": "diálogo uid01340002 + diálogo uid01340011 …"
+},
+{
+"id": 51531,
+"en": "You're coming up on your time limit, sir. Would you care for an extension?",
+"ctx": "diálogo uid01340002 + diálogo uid01340011 …"
+},
+{
+"id": 51532,
+"en": "Kaguya-chan's already agreed to go out with you, so shouldn't you be heading out about now?",
+"ctx": "diálogo uid01340002"
+},
+{
+"id": 51533,
+"en": "No thanks. I gotta go.",
+"ctx": "diálogo uid01340002"
+},
+{
+"id": 51534,
+"en": "Very well, then. Enjoy the rest of your stay.",
+"ctx": "diálogo uid01340002 + diálogo uid01340011 …"
+},
+{
+"id": 51535,
+"en": "You can't bail now, Saejima-san! You need to ask her out on an after hours date!",
+"ctx": "diálogo uid01340002"
+},
+{
+"id": 51536,
+"en": "(Guess I gotta...)",
+"ctx": "diálogo uid01340002"
+},
+{
+"id": 51537,
+"en": "Gimme an extension.",
+"ctx": "diálogo uid01340002"
+},
+{
+"id": 51538,
+"en": "(Gah... Can't afford an extension.)",
+"ctx": "diálogo uid01340002"
+},
+{
+"id": 51539,
+"en": "Nah, I'm goin'.",
+"ctx": "diálogo uid01340002"
+},
+{
+"id": 51540,
+"en": "(Should I talk about somethin' else?)",
+"ctx": "diálogo uid01340002"
+},
+{
+"id": 51541,
+"en": "(Maybe I oughta ask a question.)",
+"ctx": "diálogo uid01340002"
+},
+{
+"id": 51542,
+"en": "(Maybe I oughta order somethin'.)",
+"ctx": "diálogo uid01340002"
+},
+{
+"id": 51543,
+"en": "(Should I give her a present?)",
+"ctx": "diálogo uid01340002 + diálogo uid01340011 …"
+},
+{
+"id": 51544,
+"en": "(Should I ask her out on a date?)",
+"ctx": "diálogo uid01340002 + diálogo uid01340011 …"
+},
+{
+"id": 51545,
+"en": "(What should I talk about?)",
+"ctx": "diálogo uid01340002 + diálogo uid01340011 …"
+},
+{
+"id": 51546,
+"en": "(What should I ask about?)",
+"ctx": "diálogo uid01340002 + diálogo uid01340011 …"
+},
+{
+"id": 51547,
+"en": "(She already said yes. I don't needa push it.)",
+"ctx": "diálogo uid01340002"
+},
+{
+"id": 51548,
+"en": "(She already turned me down once. I oughta back down for now and try some other time.)",
+"ctx": "diálogo uid01340002"
+},
+{
+"id": 51549,
+"en": "Oh yeah! We are loaded today, buddy! Let us see your most popular girl!",
+"ctx": "diálogo uid01340002"
+},
+{
+"id": 51550,
+"en": "That there was my fancy way of asking the club to bring us their girl, Kaguya-chan.",
+"ctx": "diálogo uid01340002"
+},
+{
+"id": 51551,
+"en": "Saejima-san, if you make the girl do all the talking, she's going to think you're boring.",
+"ctx": "diálogo uid01340002"
+},
+{
+"id": 51552,
+"en": "Sometimes you should be the one to bring up a topic to talk about. Or maybe you can try ordering something else.",
+"ctx": "diálogo uid01340002"
+},
+{
+"id": 51553,
+"en": "Maybe start by asking her on a date!",
+"ctx": "diálogo uid01340002"
+},
+{
+"id": 51554,
+"en": "Say what now? That's kind of a big thing to start with.",
+"ctx": "diálogo uid01340002"
+},
+{
+"id": 51555,
+"en": "What are you talking about? No guts, no glory!",
+"ctx": "diálogo uid01340002"
+},
+{
+"id": 51556,
+"en": "Ah, well. Guess I'll give it a shot.",
+"ctx": "diálogo uid01340002"
+},
+{
+"id": 51557,
+"en": "Now be sure and try lots of different things!",
+"ctx": "diálogo uid01340002"
+},
+{
+"id": 51558,
+"en": "You can't leave yet, man!",
+"ctx": "diálogo uid01340002"
+},
+{
+"id": 51559,
+"en": "(Okay, how to start...)",
+"ctx": "diálogo uid01340002"
+},
+{
+"id": 51560,
+"en": "Start by asking her on a date! I'm sure she'll go for it!",
+"ctx": "diálogo uid01340002"
+},
+{
+"id": 51561,
+"en": "Where did you come from, Saejima-san?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51562,
+"en": "Ah, what brings you to Tsukimino then? Work?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51563,
+"en": "Yeah, but it wound up finishin' in less time than I thought.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51564,
+"en": "Oh, so now you can relax and enjoy Tsukimino!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51565,
+"en": "Wish it was that simple...",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51566,
+"en": "Nah, this ain't for work. I came here 'cause I wanted to.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51567,
+"en": "Oh, well that's nice! I wish I could go and take a vacation on a whim like that.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51568,
+"en": "It ain't exactly a vacation, either.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51569,
+"en": "I went to Kamurocho for work before, you know.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51570,
+"en": "Oh? For a hostess gig?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51571,
+"en": "Yes. Just to make some money!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51572,
+"en": "Impressive. Ya hopped on a plane to Kamurocho just to work in a cabaret club?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51573,
+"en": "That's right. It was a lot busier than here, and the pay was better too.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51574,
+"en": "Make a lotta money, did ya?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51575,
+"en": "I did, but I spent it all.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51576,
+"en": "How come?",
+"ctx": "diálogo uid01340003 + diálogo uid0134000d"
+},
+{
+"id": 51577,
+"en": "I went shopping in Tokyo and hit up the clubs. Before I knew it, I spent all I earned.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51578,
+"en": "So yer a big spender. Ain't nothin' wrong with that.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51579,
+"en": "You think so? I feel like it would have been better if I'd been able to save at least some of that money.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51580,
+"en": "No use cryin' over spilt milk. Think of it as a lesson learned.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51581,
+"en": "But ya had fun, right? Then there ain't no problem.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51582,
+"en": "You think so too, Saejima-san? To tell the truth, I don't actually regret it much at all!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51583,
+"en": "Ya live by yer own rules, don't ya?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51584,
+"en": "Tch, careless. How's that supposed to let ya make money? Maybe you should try goin' back.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51585,
+"en": "Yeaaah, I can't really go. Now that I'm older, I'm kind of scared to cold-call clubs and go on interviews anymore.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51586,
+"en": "Whaddya talkin' about? You're still young.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51587,
+"en": "Not in this business! I'm practically an old maid!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51588,
+"en": "Huh. That so?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51589,
+"en": "Why'd ya come back? It must've been better than here.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51590,
+"en": "I'd planned from the beginning to come back home after around three months.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51591,
+"en": "That's not long. Where'd ya shack up?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51592,
+"en": "Oh, I stayed at a friend's house. I knew someone who'd gone down to Tokyo for work, and she was kind enough to let me stay.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51593,
+"en": "It's good to have friends.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51594,
+"en": "What do you think about that kind of lifestyle?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51595,
+"en": "Sounds fun. Livin' a life where ya get to move around from place to place might not be bad.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51596,
+"en": "I think it would rather suit you, Saejima-san! You strike me as the sort who can make friends in new places pretty easily.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51597,
+"en": "Yeah, that's true.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51598,
+"en": "Not my style. Guys are better off settlin' down in a home. Somewhere permanent, reliable.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51599,
+"en": "That's very prudent of you! You've got what they might call, real 20th century Showa values.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51600,
+"en": "Weren't you born in the Showa era too...?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51601,
+"en": "Wanna come to my place? There's plenty of work ya could do.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51602,
+"en": "Oh? Do you run a cabaret club, Saejima-san?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51603,
+"en": "Heh. It ain't anythin' like that.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51604,
+"en": "Then no can do. I'm not exactly big on working, you know.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51605,
+"en": "My job here is quite easy!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51606,
+"en": "Should you be sayin' that to a customer?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51607,
+"en": "You weren't born in Tokyo, were you, Saejima-san?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51608,
+"en": "Nah, I'm from Kansai.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51609,
+"en": "I knew it! You can tell if someone's from Kansai right away from the way they talk.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51610,
+"en": "Hmph. How 'bout you?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51611,
+"en": "I'm Hokkaido, born and raised.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51612,
+"en": "So yer a country girl, huh?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51613,
+"en": "Yep, that's me! Country through and through!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51614,
+"en": "Where in Hokkaido?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51615,
+"en": "Here in Sapporo.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51616,
+"en": "Really? You don't got an accent though. Is that 'cause ya spent time in Tokyo?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51617,
+"en": "No, I've just never had an accent, even when I was a child. People from Hokkaido don't have accents.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51618,
+"en": "Huh. Now that ya mention it, no one I've met here's had one.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51619,
+"en": "It's because we hear how they speak in Tokyo on TV. Maybe our grandparents might have accents, but our mothers and fathers certainly don't.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51620,
+"en": "Bull crap. There's gotta be a hint of one at least.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51621,
+"en": "Okay, maybe there are minor things someone from Tokyo might pick up on as an accent that I'm not even aware of. If there are, I'd be embarrassed!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51622,
+"en": "Heh, yer safe for now.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51623,
+"en": "That's good to know!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51624,
+"en": "Hokkaido's a pretty big place. Maybe Sapporo's the exception.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51625,
+"en": "Ya don't know yer own dialect, then?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51626,
+"en": "It's not that I don't know it. Like people say \"way\" instead of \"very.\" Not me, though.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51627,
+"en": "I see. Maybe it's just a sign of the times.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51628,
+"en": "Yeah. People from Aomori and other parts of Tohoku have a hella thick accent, though.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51629,
+"en": "I'll bet. I can tell if someone's from Tohoku right away. Their accent's somethin' else.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51630,
+"en": "But you have an accent yourself, Saejima-san. What's the big deal?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51631,
+"en": "Kansai's different. We used to be the heart of Japan. That means that the Kansai dialect is true Japanese.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51632,
+"en": "What!? What kind of logic is that?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51633,
+"en": "Hella? What's that?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51634,
+"en": "What? Do you not say \"hella\"?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51635,
+"en": "Nah, dunno that one.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51636,
+"en": "What!? You must! It's used all over the place!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51637,
+"en": "Clearly not everywhere.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51638,
+"en": "That's borin'. I came all the way to Hokkaido, and it's no different than drinkin' in Tokyo.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51639,
+"en": "Well, Tsukimino is a pretty urban area.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51640,
+"en": "Speaking of which, people from Kansai speak in Kansai dialect wherever they go, don't they?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51641,
+"en": "Cause folks understand it. Ain't no need to do otherwise.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51642,
+"en": "Oh, that's true. Since we hear it on TV a lot, most people do understand it. Enough that we can even imitate it.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51643,
+"en": "You try imitatin' it.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51644,
+"en": "What in the hey!?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51645,
+"en": "Heh, ya've got the tone down.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51646,
+"en": "How ya like me now?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51647,
+"en": "Don't imitate people. Hearin' a fake Kansai accent pisses me off.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51648,
+"en": "I guess you can tell off the bat, huh?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51649,
+"en": "Yeah. I got a buddy who uses a half-assed Kansai accent, but it's so random that I've gotten used to it and don't get pissed no more.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51650,
+"en": "It must really be something to make you give up, Saejima-san!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51651,
+"en": "That a problem?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51652,
+"en": "It's not that it's a problem, but I do wonder why.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51653,
+"en": "In Kansai, even TV's in Kansai dialect. It's the norm for us. It's folks who speak in Tokyo accents that feel outta place in Kansai.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51654,
+"en": "I guess Kansai really is a unique case.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51655,
+"en": "Do you believe in ghosts or spirits, Saejima-san?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51656,
+"en": "Yeah, I think they're real.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51657,
+"en": "Y'know, I really can't handle stuff like that!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51658,
+"en": "Heh, yer cute when ya get like that.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51659,
+"en": "You kiddin' me? Of course they're not real.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51660,
+"en": "But how can you know that for sure?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51661,
+"en": "How? Well, have ya ever seen one?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51662,
+"en": "Of course I haven't! The day I see something like that is the day I drop dead out of sheer fright!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51663,
+"en": "Ya really don't gotta be so afraid.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51664,
+"en": "I can see 'em, so I got no choice but to believe it. Hey! There's one behind ya right now!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51665,
+"en": "Nooo, stop it! Please, I'd really rather you not tease me about this!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51666,
+"en": "Hehe. What's got ya so scared?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51667,
+"en": "I've just hated ghost stories ever since I was a kid. Anytime I'd hear one, I'd be so scared that I had to have the lights on the entire night.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51668,
+"en": "Yesterday there happened to be a show about ghosts when I turned the TV on and so, thanks to that, I'm all sleep-deprived today.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51669,
+"en": "Why are ya so scared?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51670,
+"en": "A ghost I saw in a horror film as a child was terrifying. I think it wound up becoming some kind of childhood trauma.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51671,
+"en": "Ha! A movie? Ya know it wasn't real, right? It was probably just some costume with a guy inside it.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51672,
+"en": "It may have only been a movie, but wouldn't it be scary if it were real?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51673,
+"en": "Probably. Like traditional Japanese ghosts don't have feet, right? I'd sure hate for one of those things to come after me in the night.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51674,
+"en": "No, no, no, don't say that, please! You're going to make me imagine it!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51675,
+"en": "Yer the one who brought this up, y'know.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51676,
+"en": "There are no real ones. No sense in gettin' all spooked by 'em.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51677,
+"en": "But Saejima-san, you were just saying that they DO exist!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51678,
+"en": "Huh. Did I?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51679,
+"en": "Yes! Please stop joking around about this! I'm really, really scared!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51680,
+"en": "There are no real ones. I mean I've seen a kappa before, but that ain't the same thing.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51681,
+"en": "A kappa!? Seriously? That's amaaazing! Where did you see it?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51682,
+"en": "Ya can't handle ghosts, but kappa are okay? I don't get you.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51683,
+"en": "Yer worryin' too much. Ain't nothin' gonna harm ya, so it ain't no big deal.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51684,
+"en": "But it is! Sometimes I feel like there's someone in my room at night, or suddenly I'll feel a strange chill run down my spine!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51685,
+"en": "You sure ya didn't just catch a cold?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51686,
+"en": "I wish there were ghosts.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51687,
+"en": "What!? Why would you say that?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51688,
+"en": "If there were ghosts, it'd mean that we don't leave this world when we die, right? We'd get to stick around and enjoy it a bit more.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51689,
+"en": "Ahaha! That's funny to imagine! I don't know what I'd do if you came back as a ghost, Saejima-san!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51690,
+"en": "Heh, I'd be one vengeful spirit.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51691,
+"en": "The other day, my friends from college called me up and we had our first LBBQ in a while.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51692,
+"en": "Oh? Had some lamb barbecue, eh?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51693,
+"en": "What's an LBBQ?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51694,
+"en": "It's like barbecue, but with lamb. LBBQ!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51695,
+"en": "We had a cookout with around twenty students and alumni. I haven't been back to my university after graduation, so it brought back memories!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51696,
+"en": "Lamb barbecue's tasty! There's no point comin' to Tsukimino if ya don't eat some.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51697,
+"en": "You really think so? A lot of people can't handle it, so I'm glad you like it, Saejima-san!",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51698,
+"en": "I don't eat it much. Lamb's not one of the meats I wanna have all the time.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51699,
+"en": "Yeah, a lot of people can't seem to handle it. I hear the smell puts people off.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51700,
+"en": "That's exactly it. I just can't stand the smell of it cookin'.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51701,
+"en": "I should have figured. Why is that? It doesn't bother me at all.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51702,
+"en": "Because yer a local. Ya get the chance to eat it while it's fresh.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51703,
+"en": "When I was younger, I had some lamb in Tokyo that was way past bein' fresh. It stank so bad, I couldn't even eat it.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51704,
+"en": "Really? It's a shame you came to dislike it without getting to know the true taste of it.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 51705,
+"en": "Well, I hear it's better these days. But I still can't shake that first time.",
+"ctx": "diálogo uid01340003"
+}
+]

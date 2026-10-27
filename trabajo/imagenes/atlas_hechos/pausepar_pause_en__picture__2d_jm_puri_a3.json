@@ -1,0 +1,38 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_a3",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    121,
+    150,
+    372,
+    203
+   ],
+   "en": "Welcome to",
+   "ocr": "Welcometo",
+   "es": "Bienvenido a",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 247
+  },
+  {
+   "caja": [
+    121,
+    188,
+    393,
+    241
+   ],
+   "en": "Sky Finance",
+   "ocr": "Sky Finance",
+   "es": "Sky Finance",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 268
+  }
+ ]
+}

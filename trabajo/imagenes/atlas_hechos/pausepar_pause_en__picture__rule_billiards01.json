@@ -1,0 +1,156 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_billiards01",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    474,
+    7,
+    552,
+    46
+   ],
+   "en": "Pool",
+   "ocr": "Pool",
+   "es": "Billar",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 74,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 22
+  },
+  {
+   "caja": [
+    86,
+    62,
+    320,
+    98
+   ],
+   "en": "Controls (2)",
+   "es": "Controles (2)",
+   "fuente": "segoeui.ttf",
+   "alin": "izq",
+   "ancho_max": 228,
+   "efecto": "nada",
+   "color": [
+    45,
+    45,
+    45
+   ],
+   "fondo": "lama",
+   "alto": 22
+  },
+  {
+   "caja": [
+    88,
+    110,
+    940,
+    147
+   ],
+   "en": "If you pocket a ball (or balls) you can take another shot.",
+   "es": "Si embocas una bola (o varias), puedes volver a disparar.",
+   "fuente": "segoeui.ttf",
+   "alin": "izq",
+   "ancho_max": 846,
+   "efecto": "nada",
+   "color": [
+    45,
+    45,
+    45
+   ],
+   "fondo": "lama",
+   "alto": 25
+  },
+  {
+   "caja": [
+    88,
+    171,
+    940,
+    207
+   ],
+   "en": "It is considered a foul if you pocket the cue ball or if",
+   "es": "Se considera una falta si embocas la bola blanca o si",
+   "fuente": "segoeui.ttf",
+   "alin": "izq",
+   "ancho_max": 846,
+   "efecto": "nada",
+   "color": [
+    45,
+    45,
+    45
+   ],
+   "fondo": "lama",
+   "alto": 25
+  },
+  {
+   "caja": [
+    88,
+    208,
+    940,
+    242
+   ],
+   "en": "the cue ball fails to hit any balls.",
+   "es": "la bola blanca no golpea ninguna bola.",
+   "fuente": "segoeui.ttf",
+   "alin": "izq",
+   "ancho_max": 846,
+   "efecto": "nada",
+   "color": [
+    45,
+    45,
+    45
+   ],
+   "fondo": "lama",
+   "alto": 25
+  },
+  {
+   "caja": [
+    88,
+    267,
+    940,
+    303
+   ],
+   "en": "When there is a foul, the opposing player is free to take",
+   "es": "Cuando hay una falta, el rival puede tirar libremente",
+   "fuente": "segoeui.ttf",
+   "alin": "izq",
+   "ancho_max": 846,
+   "efecto": "nada",
+   "color": [
+    45,
+    45,
+    45
+   ],
+   "fondo": "lama",
+   "alto": 25
+  },
+  {
+   "caja": [
+    88,
+    304,
+    940,
+    339
+   ],
+   "en": "a shot after placing the cue ball anywhere on the table.",
+   "es": "tras colocar la bola blanca en cualquier parte de la mesa.",
+   "fuente": "segoeui.ttf",
+   "alin": "izq",
+   "ancho_max": 846,
+   "efecto": "nada",
+   "color": [
+    45,
+    45,
+    45
+   ],
+   "fondo": "lama",
+   "alto": 25
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "textura": "pausepar_pause_en/picture/caption/2d_jm_ac_l_oosakageinou",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    272,
+    23,
+    750,
+    149
+   ],
+   "en": "HEAD FOR",
+   "ocr": "HEAD FOR",
+   "es": "VE A",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 478
+  },
+  {
+   "caja": [
+    156,
+    88,
+    884,
+    241
+   ],
+   "en": "OSAKA TALENT",
+   "ocr": "OSAKA TALENT",
+   "es": "OSAKA TALENT",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 728
+  }
+ ]
+}

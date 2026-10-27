@@ -1,0 +1,1727 @@
+[
+{
+"id": 9473,
+"en": "Hinata seemed off on that call. Bet I could find her near the hotel...",
+"ctx": "tabla caba_profile|EXPLANATION"
+},
+{
+"id": 9474,
+"en": "I'll need some money if I'm going to keep Hinata safe. Better get 5 million yen ready for her.",
+"ctx": "tabla caba_profile|EXPLANATION"
+},
+{
+"id": 9475,
+"en": "Hinata managed to become number one at Elise. I should go check up on her.",
+"ctx": "tabla caba_profile|EXPLANATION"
+},
+{
+"id": 9476,
+"en": "I had an amazing time with Hinata, and can happily say we've grown close.",
+"ctx": "tabla caba_profile|EXPLANATION"
+},
+{
+"id": 9477,
+"en": "Can only be requested by Kiryu.",
+"ctx": "tabla caba_profile|CONTENTS_EXP + tabla caba_tsuku_profile|CONTENTS_EXP"
+},
+{
+"id": 9478,
+"en": "Can only be requested by Saejima.",
+"ctx": "tabla caba_profile|CONTENTS_EXP"
+},
+{
+"id": 9479,
+"en": "Can only be requested by Akiyama.",
+"ctx": "tabla caba_profile|CONTENTS_EXP"
+},
+{
+"id": 9480,
+"en": "Can only be requested by Shinada.",
+"ctx": "tabla caba_profile|CONTENTS_EXP"
+},
+{
+"id": 9481,
+"en": "<Name: Nanami Minemura>",
+"ctx": "tabla caba_tsuku_profile|NAME"
+},
+{
+"id": 9482,
+"en": "<Name: Riona Matsuoka>",
+"ctx": "tabla caba_tsuku_profile|NAME"
+},
+{
+"id": 9483,
+"en": "<Name: Kyoko Mochizuki>",
+"ctx": "tabla caba_tsuku_profile|NAME"
+},
+{
+"id": 9484,
+"en": "December 5",
+"ctx": "tabla caba_tsuku_profile|BIRTHDAY"
+},
+{
+"id": 9485,
+"en": "July 21",
+"ctx": "tabla caba_tsuku_profile|BIRTHDAY"
+},
+{
+"id": 9486,
+"en": "January 15",
+"ctx": "tabla caba_tsuku_profile|BIRTHDAY"
+},
+{
+"id": 9487,
+"en": "Sagittarius",
+"ctx": "tabla caba_tsuku_profile|CONSTELLATION"
+},
+{
+"id": 9488,
+"en": "Capricorn",
+"ctx": "tabla caba_tsuku_profile|CONSTELLATION"
+},
+{
+"id": 9489,
+"en": "Fruit",
+"ctx": "tabla caba_tsuku_profile|FAVORITE"
+},
+{
+"id": 9490,
+"en": "Yakiniku",
+"ctx": "tabla caba_tsuku_profile|FAVORITE"
+},
+{
+"id": 9491,
+"en": "Junk Food",
+"ctx": "tabla caba_tsuku_profile|FAVORITE"
+},
+{
+"id": 9492,
+"en": "Japanese Sweets",
+"ctx": "tabla caba_tsuku_profile|HATE"
+},
+{
+"id": 9493,
+"en": "Anything sweet",
+"ctx": "tabla caba_tsuku_profile|HATE"
+},
+{
+"id": 9494,
+"en": "Vegetables",
+"ctx": "tabla caba_tsuku_profile|HATE"
+},
+{
+"id": 9495,
+"en": "I got a business card from <Name:Nanami Minemura:Working Name> at Elise. Maybe I'll request her next time I go in.",
+"ctx": "tabla caba_tsuku_profile|EXPLANATION"
+},
+{
+"id": 9496,
+"en": "I had a great date with <Name: Nanami Minemura>.",
+"ctx": "tabla caba_tsuku_profile|EXPLANATION"
+},
+{
+"id": 9497,
+"en": "Apparently <Name: Nanami Minemura>'s brother isn't showing up to work. Sounds like me might be out playing pachinko instead...",
+"ctx": "tabla caba_tsuku_profile|EXPLANATION"
+},
+{
+"id": 9498,
+"en": "<Name: Nanami Minemura>'s brother is having problems with his ex-customers. He might need a helping hand from yours truly.",
+"ctx": "tabla caba_tsuku_profile|EXPLANATION"
+},
+{
+"id": 9499,
+"en": "I had an amazing time with <Name: Nanami Minemura>.",
+"ctx": "tabla caba_tsuku_profile|EXPLANATION"
+},
+{
+"id": 9500,
+"en": "I got a business card from <Name:Riona Matsuoka> at Elise.  Maybe I'll request her next time I go in.",
+"ctx": "tabla caba_tsuku_profile|EXPLANATION"
+},
+{
+"id": 9501,
+"en": "I had a great date with <Name: Riona Matsuoka>.",
+"ctx": "tabla caba_tsuku_profile|EXPLANATION"
+},
+{
+"id": 9502,
+"en": "Apparently <Name: Riona Matsuoka>'s father is visiting the club. I should see how she's handling that.",
+"ctx": "tabla caba_tsuku_profile|EXPLANATION"
+},
+{
+"id": 9503,
+"en": "I should take care of the loan shark that's harassing <Name: Riona Matsuoka>'s father.",
+"ctx": "tabla caba_tsuku_profile|EXPLANATION"
+},
+{
+"id": 9504,
+"en": "I had an amazing time with <Name: Riona Matsuoka>.",
+"ctx": "tabla caba_tsuku_profile|EXPLANATION"
+},
+{
+"id": 9505,
+"en": "I got a business card from <Name: Kyoko Mochizuki> at Elise. Maybe I'll request her next time I go in.",
+"ctx": "tabla caba_tsuku_profile|EXPLANATION"
+},
+{
+"id": 9506,
+"en": "I had a great date with <Name: Kyoko Mochizuki>.",
+"ctx": "tabla caba_tsuku_profile|EXPLANATION"
+},
+{
+"id": 9507,
+"en": "Someone stole <Name: Kyoko Mochizuki>'s guitar. If Bad Flag is behind the theft, they'll probably try to sell the guitar somewhere.",
+"ctx": "tabla caba_tsuku_profile|EXPLANATION"
+},
+{
+"id": 9508,
+"en": "I found Bad Flag. Better catch them and find out what happened to <Name: Kyoko Mochizuki>'s guitar.",
+"ctx": "tabla caba_tsuku_profile|EXPLANATION"
+},
+{
+"id": 9509,
+"en": "I had an amazing time with <Name: Kyoko Mochizuki>.",
+"ctx": "tabla caba_tsuku_profile|EXPLANATION"
+},
+{
+"id": 9510,
+"en": "Can only be requested by Tanimura.",
+"ctx": "tabla caba_tsuku_profile|CONTENTS_EXP"
+},
+{
+"id": 9511,
+"en": "Cee-lo",
+"ctx": "tabla complete_minigame|NAME"
+},
+{
+"id": 9512,
+"en": "Cho-han",
+"ctx": "tabla complete_minigame|NAME + tabla roulette_npc|FIRST_NAME"
+},
+{
+"id": 9513,
+"en": "Koi-koi",
+"ctx": "tabla complete_minigame|NAME"
+},
+{
+"id": 9514,
+"en": "Oicho-kabu",
+"ctx": "tabla complete_minigame|NAME"
+},
+{
+"id": 9515,
+"en": "Slots",
+"ctx": "tabla complete_minigame|NAME"
+},
+{
+"id": 9516,
+"en": "Kamuro Batting Center",
+"ctx": "tabla complete_minigame|NAME"
+},
+{
+"id": 9517,
+"en": "Nagoya Batting Center",
+"ctx": "tabla complete_minigame|NAME"
+},
+{
+"id": 9518,
+"en": "Driving Range",
+"ctx": "tabla complete_minigame|NAME"
+},
+{
+"id": 9519,
+"en": "River Fishing",
+"ctx": "tabla complete_minigame|NAME"
+},
+{
+"id": 9520,
+"en": "Sea Fishing",
+"ctx": "tabla complete_minigame|NAME"
+},
+{
+"id": 9521,
+"en": "Tatsu-ya Noodles",
+"ctx": "tabla complete_minigame|NAME"
+},
+{
+"id": 9522,
+"en": "Cochin Cup Classic",
+"ctx": "tabla complete_minigame|NAME"
+},
+{
+"id": 9523,
+"en": "Attained by winning on all difficulties.",
+"ctx": "tabla complete_minigame|EXP"
+},
+{
+"id": 9524,
+"en": "Attained by winning in all modes.",
+"ctx": "tabla complete_minigame|EXP"
+},
+{
+"id": 9525,
+"en": "Attained by finishing all Advanced difficulty games and Puzzle Pool stages.",
+"ctx": "tabla complete_minigame|EXP"
+},
+{
+"id": 9526,
+"en": "Attained by scoring at least 200 in 10 frames.",
+"ctx": "tabla complete_minigame|EXP"
+},
+{
+"id": 9527,
+"en": "Get the highest rank for every song.",
+"ctx": "tabla complete_minigame|EXP"
+},
+{
+"id": 9528,
+"en": "Attained by scoring a cumulative total of more than 20,000 points.",
+"ctx": "tabla complete_minigame|EXP"
+},
+{
+"id": 9529,
+"en": "Attained by scoring a cumulative total of more than 10,000 points.",
+"ctx": "tabla complete_minigame|EXP"
+},
+{
+"id": 9530,
+"en": "Attained by winning a cumulative total of more than 20,000 chips.",
+"ctx": "tabla complete_minigame|EXP"
+},
+{
+"id": 9531,
+"en": "Attained by winning all prizes.",
+"ctx": "tabla complete_minigame|EXP"
+},
+{
+"id": 9532,
+"en": "Attained after completing all stages.",
+"ctx": "tabla complete_minigame|EXP"
+},
+{
+"id": 9533,
+"en": "Attained after clearing all stages on single player mode.",
+"ctx": "tabla complete_minigame|EXP"
+},
+{
+"id": 9534,
+"en": "Attained by finishing a game with more than 7,777 balls in a single \nplay session on any pachinko machine.",
+"ctx": "tabla complete_minigame|EXP"
+},
+{
+"id": 9535,
+"en": "Attained by finishing a game with more than 777 tokens in a single \nplay session on any slot machine.",
+"ctx": "tabla complete_minigame|EXP"
+},
+{
+"id": 9536,
+"en": "Win 5 games.",
+"ctx": "tabla complete_minigame|EXP"
+},
+{
+"id": 9537,
+"en": "Attained by scoring at least 50,000 points in one game.",
+"ctx": "tabla complete_minigame|EXP"
+},
+{
+"id": 9538,
+"en": "Attained by obtaining all academic and extra gravure photos and \nby reaching rank S or the quota necessary.",
+"ctx": "tabla complete_minigame|EXP"
+},
+{
+"id": 9539,
+"en": "Attained by reaching the quota on all courses.",
+"ctx": "tabla complete_minigame|EXP"
+},
+{
+"id": 9540,
+"en": "Beat the specified score for each course.",
+"ctx": "tabla complete_minigame|EXP"
+},
+{
+"id": 9541,
+"en": "Catch every type of fish.",
+"ctx": "tabla complete_minigame|EXP"
+},
+{
+"id": 9542,
+"en": "Attained by completing all songs and difficulties.",
+"ctx": "tabla complete_minigame|EXP"
+},
+{
+"id": 9543,
+"en": "Attained after striking every pose.",
+"ctx": "tabla complete_minigame|EXP"
+},
+{
+"id": 9544,
+"en": "Attained after reaching the Ramen King rank.",
+"ctx": "tabla complete_minigame|EXP"
+},
+{
+"id": 9545,
+"en": "Attained by achieving the highest rating in all 6 winter combat courses.",
+"ctx": "tabla complete_minigame|EXP"
+},
+{
+"id": 9546,
+"en": "Attained after passing the final evaluation.",
+"ctx": "tabla complete_minigame|EXP"
+},
+{
+"id": 9547,
+"en": "Attained after conquering all ranks.",
+"ctx": "tabla complete_minigame|EXP"
+},
+{
+"id": 9548,
+"en": "Go easy on me.",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9549,
+"en": "Show me what you got.",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9550,
+"en": "I will show no mercy.",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9551,
+"en": "01 (Beginner)",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9552,
+"en": "01 (Intermediate)",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9553,
+"en": "01 (Advanced)",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9554,
+"en": "Standard Cricket (Beginner)",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9555,
+"en": "Standard Cricket (Intermediate)",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9556,
+"en": "Standard Cricket (Advanced)",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9557,
+"en": "Random Cricket (Beginner)",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9558,
+"en": "Random Cricket (Intermediate)",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9559,
+"en": "Random Cricket (Advanced)",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9560,
+"en": "Hidden Cricket (Beginner)",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9561,
+"en": "Hidden Cricket (Intermediate)",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9562,
+"en": "Hidden Cricket (Advanced)",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9563,
+"en": "Count-up (Beginner)",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9564,
+"en": "Count-up (Intermediate)",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9565,
+"en": "Count-up (Advanced)",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9566,
+"en": "Nine-ball (Advanced)",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9567,
+"en": "Rotation (Advanced)",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9568,
+"en": "Eight-ball (Advanced)",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9569,
+"en": "Four-ball (Advanced) ",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9570,
+"en": "Puzzle Pool Stage 1",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9571,
+"en": "Puzzle Pool Stage 2",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9572,
+"en": "Puzzle Pool Stage 3",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9573,
+"en": "Puzzle Pool Stage 4",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9574,
+"en": "Puzzle Pool Stage 5",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9575,
+"en": "Puzzle Pool Stage 6",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9576,
+"en": "Puzzle Pool Stage 7",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9577,
+"en": "Puzzle Pool Stage 8",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9578,
+"en": "Points obtained in 10 frames.",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9579,
+"en": "Baka Mitai",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9580,
+"en": "Total Points",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9581,
+"en": "Total Chips",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9582,
+"en": "Prizes Won",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9583,
+"en": "Stage 1",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9584,
+"en": "Stage 2",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9585,
+"en": "Stage 3",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9586,
+"en": "Stage 4",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9587,
+"en": "Stage 5",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9588,
+"en": "Round 2",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9589,
+"en": "Round 3",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9590,
+"en": "Round 4",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9591,
+"en": "Round 5",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9592,
+"en": "Round 6",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9593,
+"en": "Round 7",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9594,
+"en": "Round 8",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9595,
+"en": "Round 9",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9596,
+"en": "Round 10",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9597,
+"en": "Maximum Pachinko Balls Won",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9598,
+"en": "Maximum Slot Tokens Won",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9599,
+"en": "Total Wins",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9600,
+"en": "Highest score obtained",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9601,
+"en": "Easy Game",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9602,
+"en": "Normal Game",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9603,
+"en": "Academic Course (Gravure Photo 1)",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9604,
+"en": "Academic Course (Gravure Photo 2)",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9605,
+"en": "Academic Course (Gravure Photo 3)",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9606,
+"en": "Academic Course (Gravure Photo 4)",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9607,
+"en": "Academic Course (Gravure Photo 5)",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9608,
+"en": "Academic Course (Gravure Photo 6)",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9609,
+"en": "Extra Course (Gravure Photo 7)",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9610,
+"en": "Extra Course (Gravure Photo 8)",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9611,
+"en": "Extra Course (Gravure Photo 9)",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9612,
+"en": "Professional Course",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9613,
+"en": "Heat Eye Only Course",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9614,
+"en": "Beginner Course",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9615,
+"en": "Fish Caught",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9616,
+"en": "Mappy Medley Easy",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9617,
+"en": "Mappy Medley Normal",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9618,
+"en": "Nijiiro Yumeiro Taikoiro Easy",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9619,
+"en": "Nijiiro Yumeiro Taikoiro Normal",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9620,
+"en": "From the New World Normal",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9621,
+"en": "From the New World Hard",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9622,
+"en": "Kiryu <Action:Button_Circle@Print_Circle> successful",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9623,
+"en": "Kiryu <Action:Button_Cross@Print_Circle> successful",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9624,
+"en": "Kiryu <Action:Button_Square@Print_Circle> successful",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9625,
+"en": "Kiryu <Action:Button_Triangle@Print_Circle> successful",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9626,
+"en": "Saejima <Action:Button_Circle@Print_Circle> successful",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9627,
+"en": "Saejima <Action:Button_Cross@Print_Circle> successful",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9628,
+"en": "Saejima <Action:Button_Square@Print_Circle> successful",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9629,
+"en": "Saejima <Action:Button_Triangle@Print_Circle> successful",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9630,
+"en": "Haruka <Action:Button_Circle@Print_Circle> successful",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9631,
+"en": "Haruka <Action:Button_Cross@Print_Circle> successful",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9632,
+"en": "Haruka <Action:Button_Square@Print_Circle> successful",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9633,
+"en": "Haruka <Action:Button_Triangle@Print_Circle> successful",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9634,
+"en": "Akiyama <Action:Button_Circle@Print_Circle> successful",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9635,
+"en": "Akiyama <Action:Button_Cross@Print_Circle> successful",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9636,
+"en": "Akiyama <Action:Button_Square@Print_Circle> successful",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9637,
+"en": "Akiyama <Action:Button_Triangle@Print_Circle> successful",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9638,
+"en": "Shinada <Action:Button_Circle@Print_Circle> successful",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9639,
+"en": "Shinada <Action:Button_Cross@Print_Circle> successful",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9640,
+"en": "Shinada <Action:Button_Square@Print_Circle> successful",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9641,
+"en": "Shinada <Action:Button_Triangle@Print_Circle> successful",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9642,
+"en": "Deathmatch Beginner",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9643,
+"en": "Deathmatch Expert",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9644,
+"en": "Battle Royale Beginner",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9645,
+"en": "Battle Royale Intermediate",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9646,
+"en": "Battle Royale Advanced",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9647,
+"en": "Battle Royale Expert",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9648,
+"en": "Evaluation rounds passed",
+"ctx": "tabla complete_minigame|STRING"
+},
+{
+"id": 9649,
+"en": "Friends",
+"ctx": "tabla complete_select|NAME"
+},
+{
+"id": 9650,
+"en": "Revelation",
+"ctx": "tabla complete_select|NAME"
+},
+{
+"id": 9651,
+"en": "Minigame",
+"ctx": "tabla complete_select|NAME + menú/texto scenario_state"
+},
+{
+"id": 9652,
+"en": "Hostess Club",
+"ctx": "tabla complete_select|NAME"
+},
+{
+"id": 9653,
+"en": "Hostess Maker",
+"ctx": "tabla complete_select|NAME"
+},
+{
+"id": 9654,
+"en": "No. 1 Hostess Maker",
+"ctx": "tabla complete_select|NAME"
+},
+{
+"id": 9655,
+"en": "Saigo's Training",
+"ctx": "tabla complete_select|NAME"
+},
+{
+"id": 9656,
+"en": "Master's Helper",
+"ctx": "tabla complete_select|NAME"
+},
+{
+"id": 9657,
+"en": "Nair's Kumite",
+"ctx": "tabla complete_select|NAME"
+},
+{
+"id": 9658,
+"en": "Fighter Maker",
+"ctx": "tabla complete_select|NAME"
+},
+{
+"id": 9659,
+"en": "Police Scanner",
+"ctx": "tabla complete_select|NAME"
+},
+{
+"id": 9660,
+"en": "Gang Encounters",
+"ctx": "tabla complete_select|NAME"
+},
+{
+"id": 9661,
+"en": "Complete Lockers challenge. Unlock all one hundred lockers, under and above ground.",
+"ctx": "tabla complete_select|EXPLANATION"
+},
+{
+"id": 9662,
+"en": "Complete Dining challenge. Order everything on the menu at every restaurant.",
+"ctx": "tabla complete_select|EXPLANATION"
+},
+{
+"id": 9663,
+"en": "Complete Modding challenge. Make all weapons and gear for both Works Kamiyama shops.",
+"ctx": "tabla complete_select|EXPLANATION"
+},
+{
+"id": 9664,
+"en": "Complete Friends challenge. Become friends with specific people around the city.",
+"ctx": "tabla complete_select|EXPLANATION"
+},
+{
+"id": 9665,
+"en": "Complete Revelations challenge. See all Revelations.",
+"ctx": "tabla complete_select|EXPLANATION"
+},
+{
+"id": 9666,
+"en": "Complete Minigames challenge. Each minigame's completion status can be viewed with <Action:Button_Circle@UI>.",
+"ctx": "tabla complete_select|EXPLANATION"
+},
+{
+"id": 9667,
+"en": "Complete Hostesses challenge. Complete all hostess substories.",
+"ctx": "tabla complete_select|EXPLANATION"
+},
+{
+"id": 9668,
+"en": "Complete Hostess Maker challenge. Complete all hostess substories for Hostess Maker.",
+"ctx": "tabla complete_select|EXPLANATION"
+},
+{
+"id": 9669,
+"en": "Complete Hostess Maker. Train all hostesses to reach the number one spot.",
+"ctx": "tabla complete_select|EXPLANATION"
+},
+{
+"id": 9670,
+"en": "Complete Saigo's Training challenge. Clear all of his training courses.",
+"ctx": "tabla complete_select|EXPLANATION"
+},
+{
+"id": 9671,
+"en": "Complete Master's Helper challenge. Complete all of Master's tasks.",
+"ctx": "tabla complete_select|EXPLANATION"
+},
+{
+"id": 9672,
+"en": "Complete Nair's Kumite challenge. Help Nair reach her objective.",
+"ctx": "tabla complete_select|EXPLANATION"
+},
+{
+"id": 9673,
+"en": "Complete Coliseum challenge. Win all tournaments.",
+"ctx": "tabla complete_select|EXPLANATION"
+},
+{
+"id": 9674,
+"en": "Complete Fighter Maker challenge. All your apprentices must win the Rookie Tournament.",
+"ctx": "tabla complete_select|EXPLANATION"
+},
+{
+"id": 9675,
+"en": "Complete the Police Scanner challenge. Resolve specific cases received on the scanner to complete the challenge.",
+"ctx": "tabla complete_select|EXPLANATION"
+},
+{
+"id": 9676,
+"en": "Complete the Gang Encounters challenge. Defeat all gangs.",
+"ctx": "tabla complete_select|EXPLANATION"
+},
+{
+"id": 9677,
+"en": "Complete the IF7-R challenge. Defeat all enemies.",
+"ctx": "tabla complete_select|EXPLANATION"
+},
+{
+"id": 9678,
+"en": "Complete all Heat Action challenge. Use all Heat Actions.",
+"ctx": "tabla complete_select|EXPLANATION"
+},
+{
+"id": 9679,
+"en": "プロント BAR TIME",
+"ctx": "menú/texto complete_shopeat"
+},
+{
+"id": 9680,
+"en": "プロント CAFFE TIME",
+"ctx": "menú/texto complete_shopeat"
+},
+{
+"id": 9681,
+"en": "Victory Road: Challenge 1",
+"ctx": "tabla complete_tougijyo|NAME"
+},
+{
+"id": 9682,
+"en": "Victory Road: Challenge 2",
+"ctx": "tabla complete_tougijyo|NAME"
+},
+{
+"id": 9683,
+"en": "Victory Road: Challenge 3",
+"ctx": "tabla complete_tougijyo|NAME"
+},
+{
+"id": 9684,
+"en": "Victory Road: Challenge 4",
+"ctx": "tabla complete_tougijyo|NAME"
+},
+{
+"id": 9685,
+"en": "Kiryu made it into the Victory Road preliminaries.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9686,
+"en": "Defeated Ren Higashino in the Victory Road preliminaries.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9687,
+"en": "Defeated Valery Garrett in the Victory Road preliminaries.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9688,
+"en": "Defeated Raiden in the Victory Road preliminaries finals.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9689,
+"en": "You won the Ranked Arena Grand Prix as Kiryu.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9690,
+"en": "You won the Maximum Grand Prix as Kiryu.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9691,
+"en": "You won the Twin Dragon Grand Prix as Kiryu.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9692,
+"en": "You won the Weapon Master Grand Prix as Kiryu.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9693,
+"en": "You won the Street Fight Grand Prix as Kiryu.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9694,
+"en": "You won Heat Bomber Grand Prix as Kiryu.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9695,
+"en": "You won Limited Berserk as Kiryu.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9696,
+"en": "You won King of Kings as Kiryu.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9697,
+"en": "You won Deathmatch 100 as Kiryu.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9698,
+"en": "You won Breakout Grand Prix as Kiryu.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9699,
+"en": "Saejima made it into the Victory Road preliminaries.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9700,
+"en": "Defeated Kanta Shirosaka in the Victory Road preliminaries.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9701,
+"en": "Defeated Makoto Tokita in the Victory Road preliminaries.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9702,
+"en": "You won the Ranked Arena Grand Prix as Saejima.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9703,
+"en": "You won the Maximum Grand Prix as Saejima.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9704,
+"en": "You won the Twin Dragon Grand Prix as Saejima.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9705,
+"en": "You won the Weapon Master Grand Prix as Saejima.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9706,
+"en": "You won Street Fight Grand Prix as Saejima.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9707,
+"en": "You won Heat Bomber Grand Prix as Saejima.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9708,
+"en": "You won Limited Berserk as Saejima.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9709,
+"en": "You won King of Kings as Saejima.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9710,
+"en": "You won Deathmatch 100 as Saejima.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9711,
+"en": "You won Breakout Grand Prix as Saejima.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9712,
+"en": "Akiyama made it into the Victory Road preliminaries.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9713,
+"en": "Defeated Ryoichi Banba in the Victory Road preliminaries.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9714,
+"en": "Defeated Hannya Kurokawa in the Victory Road preliminaries.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9715,
+"en": "Defeated Homura Kongo in the Victory Road preliminaries.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9716,
+"en": "You won the Ranked Arena Grand Prix as Akiyama.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9717,
+"en": "You won the Maximum Grand Prix as Akiyama.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9718,
+"en": "You won the Twin Dragon Grand Prix as Akiyama.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9719,
+"en": "You won the Weapon Master Grand Prix as Akiyama.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9720,
+"en": "You won the Street Fight Grand Prix as Akiyama.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9721,
+"en": "You won Heat Bomber Grand Prix as Akiyama.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9722,
+"en": "You won Heat Limited Berserk as Akiyama.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9723,
+"en": "You won King of Kings as Akiyama.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9724,
+"en": "You won Deathmatch 100 as Akiyama.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9725,
+"en": "You won Breakout Grand Prix as Akiyama.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9726,
+"en": "Shinada made it into the Victory Road preliminaries.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9727,
+"en": "Defeated Kenichi Washino in the Victory Road preliminaries.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9728,
+"en": "Defeated Shoji Yonashiro in the Victory Road preliminaries.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9729,
+"en": "Defeated Inzen Hozoin in the Victory Road preliminaries.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9730,
+"en": "You won the Ranked Arena Grand Prix as Shinada.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9731,
+"en": "You won the Maximum Grand Prix as Shinada.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9732,
+"en": "You won the Twin Dragon Grand Prix as Shinada.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9733,
+"en": "You won the Weapon Master Grand Prix as Shinada.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9734,
+"en": "You won the Street Fight Grand Prix as Shinada.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9735,
+"en": "You won the Heat Bomber Grand Prix as Shinada.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9736,
+"en": "You won Limited Berserk as Shinada.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9737,
+"en": "You won King of Kings as Shinada.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9738,
+"en": "You won Deathmatch 100 as Shinada.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9739,
+"en": "You won Breakout Grand Prix as Shinada.",
+"ctx": "tabla complete_tougijyo|EXPLANATION"
+},
+{
+"id": 9740,
+"en": "The Tojo and Ueno Seiwa Clan War",
+"ctx": "tabla correlation_group|GROUP"
+},
+{
+"id": 9741,
+"en": "Kamurocho Serial Murders",
+"ctx": "tabla correlation_group|GROUP"
+},
+{
+"id": 9742,
+"en": "Yoshiharu Ueno Assassination",
+"ctx": "tabla correlation_group|GROUP"
+},
+{
+"id": 9743,
+"en": "The Tojo Clan's Missing Ten Billion",
+"ctx": "tabla correlation_group|GROUP"
+},
+{
+"id": 9744,
+"en": "People living in Kamurocho as of March 2010.",
+"ctx": "tabla correlation_group|EXPLANATION"
+},
+{
+"id": 9745,
+"en": "People related to the events taking place in Kamurocho as of March 2010.",
+"ctx": "tabla correlation_group|EXPLANATION"
+},
+{
+"id": 9746,
+"en": "People who live in Kamurocho and the people related to them.",
+"ctx": "tabla correlation_group|EXPLANATION"
+},
+{
+"id": 9747,
+"en": "People involved in the Tojo and Ueno Seiwa Clan\nwar, which started when Arai of Kanemura\nEnterprises fatally shot Ihara of the Ueno Seiwa Clan.",
+"ctx": "tabla correlation_group|EXPLANATION"
+},
+{
+"id": 9748,
+"en": "People involved in a recent string of mysterious\nmurders that took place in Kamurocho.",
+"ctx": "tabla correlation_group|EXPLANATION"
+},
+{
+"id": 9749,
+"en": "People involved in the incident 25 years ago when\nSaejima of the Sasai Family gunned down 18 Ueno\nSeiwa Clan members, including chairman Ueno.",
+"ctx": "tabla correlation_group|EXPLANATION"
+},
+{
+"id": 9750,
+"en": "People involved in the incident five years ago when\nten billion yen went missing from the Tojo Clan⑬\nleading to the explosion at the Millennium Tower.",
+"ctx": "tabla correlation_group|EXPLANATION"
+},
+{
+"id": 9751,
+"en": "Chapter 1",
+"ctx": "tabla correlation_person|CATEGORY_SHOU"
+},
+{
+"id": 9752,
+"en": "Protagonists",
+"ctx": "tabla correlation_person|BELONG"
+},
+{
+"id": 9753,
+"en": "Citizens of Nagasugai",
+"ctx": "tabla correlation_person|BELONG"
+},
+{
+"id": 9754,
+"en": "Omi Alliance",
+"ctx": "tabla correlation_person|BELONG"
+},
+{
+"id": 9755,
+"en": "Osaka Prefectural Police",
+"ctx": "tabla correlation_person|BELONG"
+},
+{
+"id": 9756,
+"en": "Citizens of Kamurocho",
+"ctx": "tabla correlation_person|BELONG"
+},
+{
+"id": 9757,
+"en": "Prisoners and Prison Staff",
+"ctx": "tabla correlation_person|BELONG"
+},
+{
+"id": 9758,
+"en": "Village Hunters",
+"ctx": "tabla correlation_person|BELONG"
+},
+{
+"id": 9759,
+"en": "Dyna Chair Productions",
+"ctx": "tabla correlation_person|BELONG"
+},
+{
+"id": 9760,
+"en": "Osaka Talent",
+"ctx": "tabla correlation_person|BELONG"
+},
+{
+"id": 9761,
+"en": "Citizens of Kineicho",
+"ctx": "tabla correlation_person|BELONG"
+},
+{
+"id": 9762,
+"en": "Baseball Players",
+"ctx": "tabla correlation_person|BELONG"
+},
+{
+"id": 9763,
+"en": "Yotaro Nakajima",
+"ctx": "tabla correlation_person|NAME"
+},
+{
+"id": 9764,
+"en": "Mayumi",
+"ctx": "tabla correlation_person|NAME"
+},
+{
+"id": 9765,
+"en": "Minoru Aoyama",
+"ctx": "tabla correlation_person|NAME"
+},
+{
+"id": 9766,
+"en": "Yu Morinaga",
+"ctx": "tabla correlation_person|NAME"
+},
+{
+"id": 9767,
+"en": "Masaru Watase",
+"ctx": "tabla correlation_person|NAME"
+},
+{
+"id": 9768,
+"en": "Tadashi Madarame",
+"ctx": "tabla correlation_person|NAME"
+},
+{
+"id": 9769,
+"en": "Yahata",
+"ctx": "tabla correlation_person|NAME"
+},
+{
+"id": 9770,
+"en": "Osaka Detective",
+"ctx": "tabla correlation_person|NAME"
+},
+{
+"id": 9771,
+"en": "Mama of New Serena",
+"ctx": "tabla correlation_person|NAME"
+},
+{
+"id": 9772,
+"en": "Himura",
+"ctx": "tabla correlation_person|NAME"
+},
+{
+"id": 9773,
+"en": "Heihachiro Oshima",
+"ctx": "tabla correlation_person|NAME"
+},
+{
+"id": 9774,
+"en": "Seiji Kosaka",
+"ctx": "tabla correlation_person|NAME"
+},
+{
+"id": 9775,
+"en": "Okudera",
+"ctx": "tabla correlation_person|NAME + frase de acompañante/calle STID_ST_S_MOUNTAIN"
+},
+{
+"id": 9776,
+"en": "Taizo Kitakata",
+"ctx": "tabla correlation_person|NAME"
+},
+{
+"id": 9777,
+"en": "Mirei Park",
+"ctx": "tabla correlation_person|NAME"
+},
+{
+"id": 9778,
+"en": "Hiroshi Horie",
+"ctx": "tabla correlation_person|NAME"
+},
+{
+"id": 9779,
+"en": "Misa Yamaura",
+"ctx": "tabla correlation_person|NAME"
+},
+{
+"id": 9780,
+"en": "Christina",
+"ctx": "tabla correlation_person|NAME"
+},
+{
+"id": 9781,
+"en": "Nakai",
+"ctx": "tabla correlation_person|NAME"
+},
+{
+"id": 9782,
+"en": "Mai Sanada",
+"ctx": "tabla correlation_person|NAME"
+},
+{
+"id": 9783,
+"en": "Azusa Osawa",
+"ctx": "tabla correlation_person|NAME"
+},
+{
+"id": 9784,
+"en": "Naoki Katsuya",
+"ctx": "tabla correlation_person|NAME"
+},
+{
+"id": 9785,
+"en": "Kamon Kanai",
+"ctx": "tabla correlation_person|NAME"
+},
+{
+"id": 9786,
+"en": "Hana",
+"ctx": "tabla correlation_person|NAME"
+},
+{
+"id": 9787,
+"en": "Koichi Takasugi",
+"ctx": "tabla correlation_person|NAME"
+},
+{
+"id": 9788,
+"en": "Uno",
+"ctx": "tabla correlation_person|NAME"
+},
+{
+"id": 9789,
+"en": "Milky",
+"ctx": "tabla correlation_person|NAME"
+},
+{
+"id": 9790,
+"en": "Fumiya Ushijima",
+"ctx": "tabla correlation_person|NAME"
+},
+{
+"id": 9791,
+"en": "Fujita",
+"ctx": "tabla correlation_person|NAME"
+},
+{
+"id": 9792,
+"en": "Yuki Sawada",
+"ctx": "tabla correlation_person|NAME"
+},
+{
+"id": 9793,
+"en": "Tsubasa Kurosawa",
+"ctx": "tabla correlation_person|NAME"
+},
+{
+"id": 9794,
+"en": "The Florist of Sai",
+"ctx": "tabla correlation_person|NAME"
+},
+{
+"id": 9795,
+"en": "Tojo Clan Fourth Chairman",
+"ctx": "tabla correlation_person|TITLE"
+},
+{
+"id": 9796,
+"en": "Nagasu Taxi Owner",
+"ctx": "tabla correlation_person|TITLE"
+},
+{
+"id": 9797,
+"en": "Top Hostess at Olivier",
+"ctx": "tabla correlation_person|TITLE"
+},
+{
+"id": 9798,
+"en": "Tojo Clan Sixth Chairman",
+"ctx": "tabla correlation_person|TITLE"
+},
+{
+"id": 9799,
+"en": "Tojo Clan Chief of Headquarters",
+"ctx": "tabla correlation_person|TITLE"
+},
+{
+"id": 9800,
+"en": "Tojo Clan Member",
+"ctx": "tabla correlation_person|TITLE"
+},
+{
+"id": 9801,
+"en": "Omi Alliance Captain",
+"ctx": "tabla correlation_person|TITLE"
+},
+{
+"id": 9802,
+"en": "Yamagasa Family Patriarch",
+"ctx": "tabla correlation_person|TITLE"
+},
+{
+"id": 9803,
+"en": "Yamagasa Family Captain",
+"ctx": "tabla correlation_person|TITLE"
+},
+{
+"id": 9804,
+"en": "Osaka Police Detective",
+"ctx": "tabla correlation_person|TITLE"
+},
+{
+"id": 9805,
+"en": "Saejima Family Patriarch",
+"ctx": "tabla correlation_person|TITLE"
+},
+{
+"id": 9806,
+"en": "Tojo Clan Lieutenant Advisor",
+"ctx": "tabla correlation_person|TITLE"
+},
+{
+"id": 9807,
+"en": "Metropolitan Police Detective",
+"ctx": "tabla correlation_person|TITLE"
+},
+{
+"id": 9808,
+"en": "Abashiri Penitentiary Inmate",
+"ctx": "tabla correlation_person|TITLE"
+},
+{
+"id": 9809,
+"en": "Deputy Warden at Abashiri",
+"ctx": "tabla correlation_person|TITLE"
+},
+{
+"id": 9810,
+"en": "Kitakata Family Patriarch",
+"ctx": "tabla correlation_person|TITLE"
+},
+{
+"id": 9811,
+"en": "Signed to Dyna Chair",
+"ctx": "tabla correlation_person|TITLE"
+},
+{
+"id": 9812,
+"en": "Owner of Sky Finance",
+"ctx": "tabla correlation_person|TITLE"
+},
+{
+"id": 9813,
+"en": "Owner of Dyna Chair",
+"ctx": "tabla correlation_person|TITLE"
+},
+{
+"id": 9814,
+"en": "Employee of Dyna Chair",
+"ctx": "tabla correlation_person|TITLE"
+},
+{
+"id": 9815,
+"en": "Employee of Osaka Talent",
+"ctx": "tabla correlation_person|TITLE"
+},
+{
+"id": 9816,
+"en": "Signed to Osaka Talent",
+"ctx": "tabla correlation_person|TITLE"
+},
+{
+"id": 9817,
+"en": "President of Osaka Talent",
+"ctx": "tabla correlation_person|TITLE"
+}
+]

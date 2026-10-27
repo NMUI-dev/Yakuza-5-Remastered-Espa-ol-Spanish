@@ -1,0 +1,927 @@
+[
+{
+"id": 20391,
+"en": "I'll guarantee ya a sweet time, like you'll never forget. See ya around.",
+"ctx": "diálogo uid00091f61"
+},
+{
+"id": 20392,
+"en": "Hey! I know that face. You're that taxi driver. Suzuki, right? I hear you've been pickin' fights with us Devil Killers.",
+"ctx": "diálogo uid0009205a"
+},
+{
+"id": 20393,
+"en": "Man, if I had the time I'd kick yer ass in a race right now! But I don't. Guess I'll jus' have t'kick yer ass the old-fashioned way!",
+"ctx": "diálogo uid0009205a"
+},
+{
+"id": 20394,
+"en": "Gah! You just won't go down. But I'll get ya, you'll see!",
+"ctx": "diálogo uid0009205a"
+},
+{
+"id": 20395,
+"en": "Hey, gramps, hand over your money! I'm with the Devil Killers, so don't go gettin' any big ideas about fightin' back.",
+"ctx": "diálogo uid0009205b"
+},
+{
+"id": 20396,
+"en": "You listenin'!? Fork over the money, ya old fuck!",
+"ctx": "diálogo uid0009205b"
+},
+{
+"id": 20397,
+"en": "Seriously!? Fuck this.",
+"ctx": "diálogo uid0009205b"
+},
+{
+"id": 20398,
+"en": "Found ya, Suzuki-san! You're that taxi driver who thinks he can take on the Devil Killers, ain'tcha?",
+"ctx": "diálogo uid00092061"
+},
+{
+"id": 20399,
+"en": "Hehehe. We eat chumps like you for breakfast! Ya better stop stickin' yer neck out, or it's gonna get chopped off!",
+"ctx": "diálogo uid00092061"
+},
+{
+"id": 20400,
+"en": "Ack! Alright, I've had enough. I won't be hasslin' you again!",
+"ctx": "diálogo uid00092061"
+},
+{
+"id": 20401,
+"en": "You're the taxi driver who's been challenging the Devil Killers, aren't ya?",
+"ctx": "diálogo uid00092062"
+},
+{
+"id": 20402,
+"en": "You gone and pissed off the wrong guys, pal. Time t'die!",
+"ctx": "diálogo uid00092062"
+},
+{
+"id": 20403,
+"en": "Okay, you win. Just stop, please. Ya got me, alright?",
+"ctx": "diálogo uid00092062"
+},
+{
+"id": 20404,
+"en": "You that Suzuki guy? The taxi driver tryin' to take on the Devil Killers? Ya cheeky fuck...",
+"ctx": "diálogo uid00092063"
+},
+{
+"id": 20405,
+"en": "It's 'bout time you learned to fear the Killers!",
+"ctx": "diálogo uid00092063"
+},
+{
+"id": 20406,
+"en": "No way... You're tougher than nails!",
+"ctx": "diálogo uid00092063"
+},
+{
+"id": 20407,
+"en": "You handed over a <Color:8>Beef Rice Lunch Set (L)<Color:Default>.",
+"ctx": "diálogo uid000c0104"
+},
+{
+"id": 20408,
+"en": "You got <Color:8>1,000 yen<Color:Default>.",
+"ctx": "diálogo uid000c0104 + diálogo uid000c0ed5 …"
+},
+{
+"id": 20409,
+"en": "Oh wow, I've never been to a store like this before!",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20410,
+"en": "Really? I thought lots of young people had brand-name bags like these.",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20411,
+"en": "Yeah, but I'm not into brands all that much. I only care if I like the design or not.",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20412,
+"en": "But I'm sure there's a design you'd like among the branded merchandise.",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20413,
+"en": "I guess, but wouldn't that be a little expensive?",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20414,
+"en": "And carrying around a bag just because it's got a logo on it seems a bit braggy. I'd be embarrassed to carry that sort of thing around.",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20415,
+"en": "It's a little expensive, sure. Even though they're high quality, the price makes you think twice about buying it.",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20416,
+"en": "Right. And it really doesn't cost that much to make it, so don't you think it's a total rip-off?",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20417,
+"en": "Advertising and labor do cost money, after all. But they probably make it more expensive to create its value.",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20418,
+"en": "What do you mean by that?",
+"ctx": "diálogo uid000c015b + diálogo uid010c0927"
+},
+{
+"id": 20419,
+"en": "Well, by making the price higher they're limiting the number of people who can buy it, right?",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20420,
+"en": "If they set the price lower then anyone could buy it. It would lose its exclusivity.",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20421,
+"en": "Makes sense. If it were cheaper, I'd probably buy it too. And then it wouldn't really be bragging.",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20422,
+"en": "Right. Brand merchandise isn't just about design, but also whether or not there's any sort of status that comes with it.",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20423,
+"en": "It's important to be noticed. You can't let yourself be satisfied with something just because you happen to like it.",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20424,
+"en": "But isn't it tacky to buy a particular brand just to get people to notice you?",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20425,
+"en": "Is it?",
+"ctx": "diálogo uid000c015b + diálogo uid01340022 …"
+},
+{
+"id": 20426,
+"en": "Yes! Liking something is all well and fine, but buying something to make other people jealous is really tacky.",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20427,
+"en": "You have a point. Obsessing over products without understanding their real value could be a bad trait in Japanese culture.",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20428,
+"en": "At any rate, I think people who are into that stuff aren't really my type.",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20429,
+"en": "Still, it might be worth owning at least one designer label item. You might develop an appreciation for it.",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20430,
+"en": "It's not just about design. A famous brand represents both artisans and their craftsmanship.",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20431,
+"en": "There's a lot of attention paid to even the smallest of details. You'll see that the product is far superior to comparable items.",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20432,
+"en": "But ordinary people won't even be able to tell, right? Either people won't pay attention to it or the difference would be too subtle to notice.",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20433,
+"en": "After all, if you need a salesperson to explain the details of a product that you wouldn't otherwise notice, then your average person won't have a clue.",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20434,
+"en": "That could be true. But it also gives you something to talk about. Some people may appreciate a person who's knowledgeable about fashion.",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20435,
+"en": "That's still kinda lame. What's the point in buying designer label products if you have to educate others about them?",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20436,
+"en": "Good point. I guess that's why they slap those big logos on them. To impress people and promote their brand.",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20437,
+"en": "That <Color:8>Italian Women's Suit<Color:Default> looks really nice!",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20438,
+"en": "(Looks like Hinata has her eye on that <Color:8>Italian Women's Suit<Color:Default>.)",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20439,
+"en": "Thank you very much. We hope you'll come again.",
+"ctx": "diálogo uid000c015b + diálogo uid00330529 …"
+},
+{
+"id": 20440,
+"en": "Thank you for stopping by. Please come again.",
+"ctx": "diálogo uid000c015b + diálogo uid0033052f"
+},
+{
+"id": 20441,
+"en": "Sir, just between you and me, are you aware of the famous brand outlet located out in the suburbs?",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20442,
+"en": "An outlet store? I don't want to go that far just to buy outdated merchandise.",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20443,
+"en": "Ah, but this outlet gets new items in as well, including the latest in couture from Paris. And right after they're announced, too!",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20444,
+"en": "If you time it right, you can get hot items at that store for only a fraction of the price.",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20445,
+"en": "Oh? I wasn't aware of that little trick.",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20446,
+"en": "Well, of course you can't get the <Italic>very</Italic> latest items at the outlet. For those fashions, look no further than our store.",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20447,
+"en": "(A famous brand outlet store? Maybe I could talk about that at the cabaret club.)",
+"ctx": "diálogo uid000c015b"
+},
+{
+"id": 20448,
+"en": "Uncle Kaz, I'd like a <Color:8>Strawberry Parfait<Color:Default>.",
+"ctx": "diálogo uid000c015c"
+},
+{
+"id": 20449,
+"en": "(Haruka wants to have a <Color:8>Strawberry Parfait<Color:Default>.)",
+"ctx": "diálogo uid000c015c"
+},
+{
+"id": 20450,
+"en": "But I wanted a <Color:8>Strawberry Parfait<Color:Default>.",
+"ctx": "diálogo uid000c015c"
+},
+{
+"id": 20451,
+"en": "Thanks, Uncle Kaz!",
+"ctx": "diálogo uid000c015c + diálogo uid000c015f …"
+},
+{
+"id": 20452,
+"en": "Welcome. May I take your order?",
+"ctx": "diálogo uid000c015c + diálogo uid0133049c …"
+},
+{
+"id": 20453,
+"en": "Sir, are you familiar with the concept of edible tea? It's all the rage at tea salons these days.",
+"ctx": "diálogo uid000c015c"
+},
+{
+"id": 20454,
+"en": "Edible tea?",
+"ctx": "diálogo uid000c015c"
+},
+{
+"id": 20455,
+"en": "Yes. While snacks with black tea mixed in are fairly common, meals prepared with tea are a new trend that is quite popular amongst black tea aficionados.",
+"ctx": "diálogo uid000c015c"
+},
+{
+"id": 20456,
+"en": "Oh? What kind of dishes are there?",
+"ctx": "diálogo uid000c015c"
+},
+{
+"id": 20457,
+"en": "For example, they boil tea to make tea syrup and steak sauce, which is then served along with the food itself.",
+"ctx": "diálogo uid000c015c"
+},
+{
+"id": 20458,
+"en": "This allows you to better appreciate the flavor of black tea incorporated in the dish, rather than simply pairing tea with food.",
+"ctx": "diálogo uid000c015c"
+},
+{
+"id": 20459,
+"en": "(Edible tea, huh? Maybe I could talk about it at the cabaret club.)",
+"ctx": "diálogo uid000c015c"
+},
+{
+"id": 20460,
+"en": "Uncle Kaz! I want some <Color:8>Sea Urchin Cream Sauce Spaghetti<Color:Default>! It's a delicacy, you know!",
+"ctx": "diálogo uid000c015d + diálogo uid01200344"
+},
+{
+"id": 20461,
+"en": "(Hmm. Looks like Haruka wants some <Color:8>Sea Urchin Cream Sauce Spaghetti<Color:Default>.)",
+"ctx": "diálogo uid000c015d + diálogo uid01200344"
+},
+{
+"id": 20462,
+"en": "Aw. I wanted a bite of the <Color:8>Sea Urchin Cream Sauce Spaghetti<Color:Default>.",
+"ctx": "diálogo uid000c015d"
+},
+{
+"id": 20463,
+"en": "Thank you, Uncle Kaz!",
+"ctx": "diálogo uid000c015d + diálogo uid00330025 …"
+},
+{
+"id": 20464,
+"en": "Welcome. May I take your order? Anything to drink?",
+"ctx": "diálogo uid000c015d"
+},
+{
+"id": 20465,
+"en": "Here's the food menu.",
+"ctx": "diálogo uid000c015d + diálogo uid01330589 …"
+},
+{
+"id": 20466,
+"en": "(I don't need to eat now.)",
+"ctx": "diálogo uid000c015d + diálogo uid003305a0 …"
+},
+{
+"id": 20467,
+"en": "(Don't need food now.)",
+"ctx": "diálogo uid000c015d + diálogo uid00330593 …"
+},
+{
+"id": 20468,
+"en": "(Not hungry yet.)",
+"ctx": "diálogo uid000c015d + diálogo uid00330593 …"
+},
+{
+"id": 20469,
+"en": "Sorry. Something came up.",
+"ctx": "diálogo uid000c015d + diálogo uid0033059b …"
+},
+{
+"id": 20470,
+"en": "Excuse me. I've got an urgent errand.",
+"ctx": "diálogo uid000c015d + diálogo uid00330593 …"
+},
+{
+"id": 20471,
+"en": "Sorry. Gotta run.",
+"ctx": "diálogo uid000c015d + diálogo uid00330593 …"
+},
+{
+"id": 20472,
+"en": "Sorry, I forgot I had to do something.",
+"ctx": "diálogo uid000c015d + diálogo uid00330593 …"
+},
+{
+"id": 20473,
+"en": "I'm so sorry. I have to go.",
+"ctx": "diálogo uid000c015d + diálogo uid00330593 …"
+},
+{
+"id": 20474,
+"en": "That's fine. Come again.",
+"ctx": "diálogo uid000c015d"
+},
+{
+"id": 20475,
+"en": "(I'm drinking too much.)",
+"ctx": "diálogo uid000c015d"
+},
+{
+"id": 20476,
+"en": "(Not hungry, either.)",
+"ctx": "diálogo uid000c015d"
+},
+{
+"id": 20477,
+"en": "Let's see the food menu.",
+"ctx": "diálogo uid000c015d"
+},
+{
+"id": 20478,
+"en": "Can I see the food menu?",
+"ctx": "diálogo uid000c015d"
+},
+{
+"id": 20479,
+"en": "Lemme see the food menu.",
+"ctx": "diálogo uid000c015d"
+},
+{
+"id": 20480,
+"en": "Can you show me the food menu?",
+"ctx": "diálogo uid000c015d"
+},
+{
+"id": 20481,
+"en": "May I see the food menu please?",
+"ctx": "diálogo uid000c015d"
+},
+{
+"id": 20482,
+"en": "(I can't have any alcohol.)",
+"ctx": "diálogo uid000c015d"
+},
+{
+"id": 20483,
+"en": "Thank you very much. Your total comes to %s.",
+"ctx": "diálogo uid000c015d + diálogo uid01330589 …"
+},
+{
+"id": 20484,
+"en": "(I'm full now.)",
+"ctx": "diálogo uid000c015d + diálogo uid00330593 …"
+},
+{
+"id": 20485,
+"en": "Very well. We look forward to your next visit.",
+"ctx": "diálogo uid000c015d"
+},
+{
+"id": 20486,
+"en": "This is our food menu.",
+"ctx": "diálogo uid000c015d"
+},
+{
+"id": 20487,
+"en": "Hi, welcome! What'll you have today?",
+"ctx": "diálogo uid000c015e"
+},
+{
+"id": 20488,
+"en": "Thank you!",
+"ctx": "diálogo uid000c015e + diálogo uid000c0c3f …"
+},
+{
+"id": 20489,
+"en": "Welcome. If you'll please follow me.",
+"ctx": "diálogo uid000c015f + diálogo uid000c0163 …"
+},
+{
+"id": 20490,
+"en": "Are you ready to order?",
+"ctx": "diálogo uid000c015f + diálogo uid00330599 …"
+},
+{
+"id": 20491,
+"en": "Oh, I'd really like the <Color:8>Horumon-yaki<Color:Default>. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20492,
+"en": "(Hinata seems to be hungry for some <Color:8>Horumon-yaki<Color:Default>.)",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20493,
+"en": "Ooh, this looks yummy!",
+"ctx": "diálogo uid000c015f + diálogo uid000c0163 …"
+},
+{
+"id": 20494,
+"en": "Hey, don't just eat the meat. Have some vegetables, too.",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20495,
+"en": "Oh, I don't need vegetables. You can have them all if you like, Kiryu-san.",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20496,
+"en": "Wait, what?",
+"ctx": "diálogo uid000c015f + diálogo uid0069024f …"
+},
+{
+"id": 20497,
+"en": "Whenever I'm on a date, the guy always makes me eat whatever I leave on my plate, and I wind up putting on weight.",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20498,
+"en": "Don't change the subject. It's bad for your health if you don't eat vegetables.",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20499,
+"en": "Nah, I'll be fine. I drink vegetable juice.",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20500,
+"en": "You're already eating now, though. If you just eat the vegetables, you won't need to drink the juice later.",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20501,
+"en": "Yeah, but I hate vegetables.",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20502,
+"en": "Because they taste awful.",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20503,
+"en": "You sound like a child. I thought most adults got over their fear of vegetables.",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20504,
+"en": "Hey, that's got nothing to do with it! Maybe your taste buds are just off.",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20505,
+"en": "You know, I read in the paper that kids these days dislike eggplant more than they do carrots or peppers. Must be a sign of the times.",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20506,
+"en": "What? No way! Eggplant is delicious!",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20507,
+"en": "Wait, so you'll eat eggplant?",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20508,
+"en": "Sure! Stuff like mapo eggplant is the bomb! I love it! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20509,
+"en": "Sounds like it's a matter of seasoning, then. If you add sauce or dressing to the vegetables, you could probably eat all kinds, right?",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20510,
+"en": "Don't be wasteful. Being a picky eater is bad manners.",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20511,
+"en": "Come on, you must've had foods you didn't like when you were a kid, Kiryu-san. Can't you cut me some slack?",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20512,
+"en": "It's got nothing to do with being a kid or not. I didn't have the luxury of complaining about that sort of thing growing up.",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20513,
+"en": "I knew how hard people worked to put food on the table for me, so I was just grateful to have anything to eat at all.",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20514,
+"en": "Well, geez, when you put it like that.",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20515,
+"en": "I feel kinda bad now. I guess I should eat my vegetables once in a while, huh?",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20516,
+"en": "Yeah, you probably should.",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20517,
+"en": "Then I'm not going to treat you. If you want me to pick up the tab, finish off the plate.",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20518,
+"en": "Fine, then I'll pay for it myself. Hey, maybe I can treat you instead, Kiryu-san.",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20519,
+"en": "You really don't want to eat it, do you?",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20520,
+"en": "I shouldn't have to eat what I don't like. And I get my nutrition from drinking vegetable juice anyways.",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20521,
+"en": "Well, I guess that's true.",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20522,
+"en": "Right? I don't eat as much as you do, so I don't want to fill myself up with things I don't enjoy.",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20523,
+"en": "I don't know about just depending on juice though.",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20524,
+"en": "Thanks for the treat!",
+"ctx": "diálogo uid000c015f + diálogo uid000c0163 …"
+},
+{
+"id": 20525,
+"en": "Here's your check. Thank you very much.",
+"ctx": "diálogo uid000c015f + diálogo uid003305a7 …"
+},
+{
+"id": 20526,
+"en": "Sorry, something came up all of a sudden. I have to go.",
+"ctx": "diálogo uid000c015f + diálogo uid003305a7 …"
+},
+{
+"id": 20527,
+"en": "I see. Well, please come again.",
+"ctx": "diálogo uid000c015f + diálogo uid000c09f7 …"
+},
+{
+"id": 20528,
+"en": "(I'm broke.)",
+"ctx": "diálogo uid000c015f + diálogo uid000c0163 …"
+},
+{
+"id": 20529,
+"en": "Sorry. There's something I need to take care of.",
+"ctx": "diálogo uid000c015f + diálogo uid000c0163 …"
+},
+{
+"id": 20530,
+"en": "Ah, I see. Please do come again.",
+"ctx": "diálogo uid000c015f + diálogo uid000c0163 …"
+},
+{
+"id": 20531,
+"en": "Uncle Kaz, I'd really like some <Color:8>Stone-roasted Bibimbap<Color:Default>.",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20532,
+"en": "(Haruka wants to have some <Color:8>Stone-roasted Bibimbap<Color:Default>.)",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20533,
+"en": "Sorry. I had something come up all of a sudden.",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20534,
+"en": "But I wanted some <Color:8>Stone-roasted Bibimbap<Color:Default>.",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20535,
+"en": "(I don't need to eat right now.)",
+"ctx": "diálogo uid000c015f + diálogo uid000c0163 …"
+},
+{
+"id": 20536,
+"en": "(I'm not hungry right now.)",
+"ctx": "diálogo uid000c015f + diálogo uid000c0163 …"
+},
+{
+"id": 20537,
+"en": "(I'm still full.)",
+"ctx": "diálogo uid000c015f + diálogo uid000c0163 …"
+},
+{
+"id": 20538,
+"en": "(Unfortunately, I'm kinda full.)",
+"ctx": "diálogo uid000c015f + diálogo uid000c0163 …"
+},
+{
+"id": 20539,
+"en": "(I'm stuffed.)",
+"ctx": "diálogo uid000c015f + diálogo uid000c0163 …"
+},
+{
+"id": 20540,
+"en": "Sorry. I have some urgent business.",
+"ctx": "diálogo uid000c015f + diálogo uid000c0163 …"
+},
+{
+"id": 20541,
+"en": "Sorry, but I gotta jet.",
+"ctx": "diálogo uid000c015f + diálogo uid000c0163 …"
+},
+{
+"id": 20542,
+"en": "Oh, I'm sorry. I've got this thing...",
+"ctx": "diálogo uid000c015f + diálogo uid000c0163 …"
+},
+{
+"id": 20543,
+"en": "I'm really sorry. Something just came up.",
+"ctx": "diálogo uid000c015f + diálogo uid000c0163 …"
+},
+{
+"id": 20544,
+"en": "(<Color:8>Grilled Garlic<Color:Default>. I could use a boost.)",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20545,
+"en": "(<Color:8>Grilled Garlic<Color:Default>. That'd pick me up.)",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20546,
+"en": "(<Color:8>Grilled Garlic<Color:Default>. That's what I need.)",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20547,
+"en": "(Some <Color:8>Grilled Garlic<Color:Default> would hit the spot.)",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20548,
+"en": "(<Color:8>Grilled Garlic<Color:Default> might perk me up.)",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20549,
+"en": "Thank you very much. Please come again!",
+"ctx": "diálogo uid000c015f"
+},
+{
+"id": 20550,
+"en": "This way, sir.",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20551,
+"en": "Welcome, welcome! What'll it be?",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20552,
+"en": "Oh, I'd really like the <Color:8>Akagai<Color:Default>. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20553,
+"en": "(Hinata seems to be hungry for some <Color:8>Akagai<Color:Default>.)",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20554,
+"en": "I haven't had dinner at this hour in a really long time.",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20555,
+"en": "Oh? But isn't this the usual time for eating dinner?",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20556,
+"en": "Well, I only eat one meal a day, is the thing.",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20557,
+"en": "Really? And you don't get hungry?",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20558,
+"en": "Oh, I get hungry, but I stick it out. It doesn't bother me after a while.",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20559,
+"en": "I can't do that. Even if it's a little late, I have to eat three meals a day. And I'll eat until I'm full each time.",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20560,
+"en": "You're going to get fat, you know. Even though you're breaking up your eating into meals, you ruin that by eating too much at each sitting.",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20561,
+"en": "Is that so?",
+"ctx": "diálogo uid000c0163 + diálogo uid00330450 …"
+},
+{
+"id": 20562,
+"en": "Well, yeah. Whatever you eat gets turned into energy, so you can easily wind up eating three days worth of food.",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20563,
+"en": "That makes sense. Come to think of it, even when I eat until I'm full, I always get hungry around the same time each day.",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20564,
+"en": "Everyone has different metabolisms, after all. It's not like you'll die if you don't eat three meals a day.",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20565,
+"en": "You really know a lot about this stuff. I'm a little surprised.",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20566,
+"en": "So did I give you something to think about? Hey, us girls know a lot about how diets work.",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20567,
+"en": "I think you might be a little too thin, actually.",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20568,
+"en": "It's worse to eat just one meal. Otherwise, you aren't getting enough nourishment.",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20569,
+"en": "Well, I'm eating twice today, so I'll be fine.",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20570,
+"en": "Maybe so, but still...",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20571,
+"en": "Besides, it doesn't matter if you only eat once or twice a day. It's worse if you change how much you eat.",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20572,
+"en": "If you don't have a regular schedule of meals, you're sure to get fat in no time.",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20573,
+"en": "In that case, should we not eat here?",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20574,
+"en": "Of course not! You ordered it for me, so I'm going to appreciate it fully.",
+"ctx": "diálogo uid000c0163"
+},
+{
+"id": 20575,
+"en": "Heh. It's good to forget about the details and just enjoy your meal.",
+"ctx": "diálogo uid000c0163"
+}
+]

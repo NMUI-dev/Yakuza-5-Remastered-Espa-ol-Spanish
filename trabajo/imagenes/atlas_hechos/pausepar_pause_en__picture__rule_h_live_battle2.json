@@ -1,0 +1,213 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_h_live_battle2",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    434,
+    9,
+    590,
+    43
+   ],
+   "en": "Live Battle",
+   "ocr": "Live Battle",
+   "es": "Batalla en vivo",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 152,
+   "dejar": true
+  },
+  {
+   "caja": [
+    33,
+    70,
+    254,
+    108
+   ],
+   "en": "Live Battle (4)",
+   "ocr": "· Live Battle (4)",
+   "es": "Batalla en vivo (4)",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 217,
+   "dejar": true
+  },
+  {
+   "caja": [
+    57,
+    116,
+    208,
+    152
+   ],
+   "en": "If you press",
+   "ocr": "If you press",
+   "es": "Si presionas el botón de Prensa",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 147,
+   "dejar": true
+  },
+  {
+   "caja": [
+    291,
+    117,
+    505,
+    149
+   ],
+   "en": "during the Battle,",
+   "ocr": "during the Battle,",
+   "es": "durante la batalla,",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 210,
+   "dejar": true
+  },
+  {
+   "caja": [
+    710,
+    135,
+    820,
+    160
+   ],
+   "en": "IDOL HEAT",
+   "ocr": "IDOLHEAT",
+   "es": "IDOL HEAT",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 106,
+   "dejar": true
+  },
+  {
+   "caja": [
+    56,
+    150,
+    448,
+    185
+   ],
+   "en": "you can unleash your Idol Heat.",
+   "ocr": "you can unleash your Idol Heat.",
+   "es": "puedes Desatar tu IDOL HEAT.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 388,
+   "dejar": true
+  },
+  {
+   "caja": [
+    58,
+    218,
+    620,
+    251
+   ],
+   "en": "Idol Heat only lasts for a fixed amount of time,",
+   "ocr": "Idol Heat only lasts for a fixed amount of time,",
+   "es": "El IDOL HEAT solo dura un TIEMPO Fijo,",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 558,
+   "dejar": true
+  },
+  {
+   "caja": [
+    58,
+    251,
+    648,
+    286
+   ],
+   "en": "but while active, you can fill your Gauge quicker,",
+   "ocr": "but while active, you can fill your Gauge quicker,",
+   "es": "Sin embargo, mientras esté activo, puedes llenar tu Barra de Heat más rápido.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 586,
+   "dejar": true
+  },
+  {
+   "caja": [
+    57,
+    286,
+    671,
+    321
+   ],
+   "en": "or you can gain more points per successful match.",
+   "ocr": "or you can gain more points per successful match.",
+   "es": "Otra opción es conseguir una Ganancia de MÁS Puntos por cada DUELO exitoso.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 610,
+   "dejar": true
+  },
+  {
+   "caja": [
+    59,
+    355,
+    635,
+    386
+   ],
+   "en": "You can only use Idol Heat the number of times",
+   "ocr": "You can only use Idol Heat the number of times",
+   "es": "Solo puedes usar IDOL HEAT tantas veces como indique el Número.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 572,
+   "dejar": true
+  },
+  {
+   "caja": [
+    59,
+    389,
+    827,
+    421
+   ],
+   "en": "shown by the heart icons in the upper left corner of the screen.",
+   "ocr": "shown by the heart icons in the upper left corner of the screen.",
+   "es": "Se muestra mediante los íconos de corazón en la esquina superior izquierda de la pantalla.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 764,
+   "dejar": true
+  },
+  {
+   "caja": [
+    58,
+    422,
+    402,
+    457
+   ],
+   "en": "Make sure you use it wisely.",
+   "ocr": "Make sure you use it wisely.",
+   "es": "Asegúrate de usarlo sabiamente.",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 340,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: lo hace el PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

@@ -1,0 +1,25 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_taxi_course.par/texlist_0001/2d_jm_taxi_vs",
+ "fuente": "segoeuiz.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    64,
+    448,
+    96
+   ],
+   "en": "KAZUMA KIRYU",
+   "ocr": " KAZUMA KIRYU",
+   "es": "",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 444,
+   "dejar": true,
+   "nota": "nombre propio (el OCR leyó VACUUM); VS es igual en español"
+  }
+ ]
+}

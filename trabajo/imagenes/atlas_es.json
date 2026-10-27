@@ -1,0 +1,11374 @@
+{
+ "ui_en/surfboard/pjd_titlemenu.par/Texlist_0001/2d_jm_titlemenu": {
+  "fuente": "times.ttf",
+  "alin": "izq",
+  "margen": 0,
+  "ceñido": true,
+  "mediana": false,
+  "items": [
+   {
+    "caja": [
+     0,
+     0,
+     128,
+     22
+    ],
+    "en": "OPTIONS",
+    "es": "OPCIONES",
+    "efecto": "nada",
+    "ancho_max": 120,
+    "sangria": 1
+   },
+   {
+    "caja": [
+     127,
+     0,
+     353,
+     22
+    ],
+    "en": "EXTRA",
+    "es": "EXTRAS",
+    "efecto": "nada",
+    "ancho_max": 218,
+    "sangria": 1
+   },
+   {
+    "caja": [
+     353,
+     0,
+     507,
+     22
+    ],
+    "en": "MEMORIES",
+    "es": "RECUERDOS",
+    "efecto": "nada",
+    "ancho_max": 146,
+    "sangria": 1
+   },
+   {
+    "caja": [
+     0,
+     22,
+     290,
+     44
+    ],
+    "en": "SPECIAL CONTENTS",
+    "es": "CONTENIDO ESPECIAL",
+    "efecto": "nada",
+    "ancho_max": 282,
+    "sangria": 1
+   },
+   {
+    "caja": [
+     290,
+     22,
+     472,
+     44
+    ],
+    "en": "ADVENTURE",
+    "es": "PREMIUM",
+    "efecto": "nada",
+    "ancho_max": 174,
+    "sangria": 1
+   },
+   {
+    "caja": [
+     0,
+     44,
+     300,
+     66
+    ],
+    "en": "ULTIMATE MATCH",
+    "es": "COMBATE DEFINITIVO",
+    "efecto": "nada",
+    "ancho_max": 292,
+    "sangria": 1
+   },
+   {
+    "caja": [
+     300,
+     44,
+     437,
+     66
+    ],
+    "en": "PREMIUM",
+    "es": "AVENTURA",
+    "efecto": "nada",
+    "ancho_max": 129,
+    "sangria": 1
+   },
+   {
+    "caja": [
+     0,
+     66,
+     175,
+     88
+    ],
+    "en": "LOAD GAME",
+    "es": "CARGAR PARTIDA",
+    "efecto": "nada",
+    "ancho_max": 167,
+    "sangria": 1
+   },
+   {
+    "caja": [
+     175,
+     66,
+     337,
+     88
+    ],
+    "en": "NEW GAME",
+    "es": "NUEVA PARTIDA",
+    "efecto": "nada",
+    "ancho_max": 154,
+    "sangria": 1
+   },
+   {
+    "caja": [
+     0,
+     88,
+     226,
+     126
+    ],
+    "en": "EXTRA",
+    "es": "EXTRAS",
+    "efecto": "borroso",
+    "ancho_max": 210,
+    "alto": 19,
+    "fuente": "timesbd.ttf",
+    "radio": 3.2,
+    "sangria": 8
+   },
+   {
+    "caja": [
+     258,
+     88,
+     410,
+     126
+    ],
+    "en": "PREMIUM",
+    "es": "AVENTURA",
+    "efecto": "borroso",
+    "ancho_max": 136,
+    "alto": 19,
+    "fuente": "timesbd.ttf",
+    "radio": 3.2,
+    "sangria": 8
+   },
+   {
+    "caja": [
+     0,
+     126,
+     305,
+     164
+    ],
+    "en": "SPECIAL CONTENTS",
+    "es": "CONTENIDO ESPECIAL",
+    "efecto": "borroso",
+    "ancho_max": 289,
+    "alto": 19,
+    "fuente": "timesbd.ttf",
+    "radio": 3.2,
+    "sangria": 8
+   },
+   {
+    "caja": [
+     305,
+     126,
+     474,
+     164
+    ],
+    "en": "MEMORIES",
+    "es": "RECUERDOS",
+    "efecto": "borroso",
+    "ancho_max": 153,
+    "alto": 19,
+    "fuente": "timesbd.ttf",
+    "radio": 3.2,
+    "sangria": 8
+   },
+   {
+    "caja": [
+     0,
+     164,
+     316,
+     202
+    ],
+    "en": "ULTIMATE MATCH",
+    "es": "COMBATE DEFINITIVO",
+    "efecto": "borroso",
+    "ancho_max": 300,
+    "alto": 19,
+    "fuente": "timesbd.ttf",
+    "radio": 3.2,
+    "sangria": 8
+   },
+   {
+    "caja": [
+     316,
+     164,
+     490,
+     202
+    ],
+    "en": "NEW GAME",
+    "es": "NUEVA PARTIDA",
+    "efecto": "borroso",
+    "ancho_max": 158,
+    "alto": 19,
+    "fuente": "timesbd.ttf",
+    "radio": 3.2,
+    "sangria": 8
+   },
+   {
+    "caja": [
+     0,
+     202,
+     198,
+     240
+    ],
+    "en": "ADVENTURE",
+    "es": "PREMIUM",
+    "efecto": "borroso",
+    "ancho_max": 182,
+    "alto": 19,
+    "fuente": "timesbd.ttf",
+    "radio": 3.2,
+    "sangria": 8
+   },
+   {
+    "caja": [
+     198,
+     202,
+     384,
+     240
+    ],
+    "en": "LOAD GAME",
+    "es": "CARGAR PARTIDA",
+    "efecto": "borroso",
+    "ancho_max": 170,
+    "alto": 19,
+    "fuente": "timesbd.ttf",
+    "radio": 3.2,
+    "sangria": 8
+   },
+   {
+    "caja": [
+     384,
+     202,
+     512,
+     240
+    ],
+    "en": "OPTIONS",
+    "es": "OPCIONES",
+    "efecto": "borroso",
+    "ancho_max": 112,
+    "alto": 19,
+    "fuente": "timesbd.ttf",
+    "radio": 3.2,
+    "sangria": 8
+   },
+   {
+    "caja": [
+     7,
+     272,
+     173,
+     294
+    ],
+    "en": "EXIT GAME",
+    "es": "SALIR",
+    "efecto": "nada",
+    "ancho_max": 158,
+    "sangria": 1
+   },
+   {
+    "caja": [
+     0,
+     297,
+     183,
+     335
+    ],
+    "en": "EXIT GAME",
+    "es": "SALIR",
+    "efecto": "borroso",
+    "ancho_max": 167,
+    "alto": 19,
+    "fuente": "timesbd.ttf",
+    "radio": 3.2,
+    "sangria": 8
+   }
+  ]
+ },
+ "2dpar_ui_en/tex_common/common/2d_yk_z_common_akiyama": {
+  "fuente": "timesi.ttf",
+  "margen": 0,
+  "mediana": false,
+  "items": [
+   {
+    "caja": [
+     0,
+     550,
+     256,
+     564
+    ],
+    "en": "To Next Level",
+    "es": "Al siguiente nivel",
+    "fuente": "timesi.ttf",
+    "alin": "der",
+    "ancho_max": 150,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     564,
+     256,
+     586
+    ],
+    "en": "Weapons/Snow Gear",
+    "es": "Armas/Equipo de nieve",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     586,
+     256,
+     608
+    ],
+    "en": "Weapons",
+    "es": "Armas",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     608,
+     256,
+     630
+    ],
+    "en": "Total",
+    "es": "Total",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     724,
+     256,
+     746
+    ],
+    "en": "Items",
+    "es": "Objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     746,
+     256,
+     776
+    ],
+    "en": "Side Stories",
+    "es": "Historias secundarias",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     776,
+     256,
+     798
+    ],
+    "en": "Item Box",
+    "es": "Caja de objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     798,
+     256,
+     820
+    ],
+    "en": "Achievements",
+    "es": "Logros",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     820,
+     256,
+     842
+    ],
+    "en": "Skills",
+    "es": "Habilidades",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     842,
+     256,
+     864
+    ],
+    "en": "Snow Gear",
+    "es": "Equipo de nieve",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     864,
+     256,
+     886
+    ],
+    "en": "Inventory",
+    "es": "Inventario",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     886,
+     256,
+     908
+    ],
+    "en": "Equipment",
+    "es": "Equipo",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     908,
+     256,
+     930
+    ],
+    "en": "Accessories",
+    "es": "Accesorios",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     930,
+     256,
+     952
+    ],
+    "en": "Valuables",
+    "es": "Objetos valiosos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     952,
+     256,
+     982
+    ],
+    "en": "Status",
+    "es": "Estado",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     982,
+     256,
+     1012
+    ],
+    "en": "Select Character",
+    "es": "Seleccionar personaje",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1019,
+     112,
+     1049
+    ],
+    "en": "Graphics",
+    "es": "Gráficos",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 106,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1098,
+     78,
+     1125
+    ],
+    "en": "Audio",
+    "es": "Audio",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     534,
+     512,
+     564
+    ],
+    "en": "Ranking",
+    "es": "Clasificación",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     564,
+     512,
+     594
+    ],
+    "en": "Mission List",
+    "es": "Lista de misiones",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     594,
+     512,
+     624
+    ],
+    "en": "Abandon Expedition",
+    "es": "Abandonar expedición",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     624,
+     512,
+     654
+    ],
+    "en": "Map",
+    "es": "Mapa",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     654,
+     512,
+     684
+    ],
+    "en": "Items",
+    "es": "Objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     684,
+     512,
+     714
+    ],
+    "en": "Abilities",
+    "es": "Habilidades",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     714,
+     512,
+     744
+    ],
+    "en": "Cell Phone",
+    "es": "Celular",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     744,
+     512,
+     774
+    ],
+    "en": "Options",
+    "es": "Opciones",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     774,
+     512,
+     804
+    ],
+    "en": "Character Profiles",
+    "es": "Perfiles de personajes",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     804,
+     512,
+     834
+    ],
+    "en": "Substories",
+    "es": "Subhistorias",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     834,
+     512,
+     864
+    ],
+    "en": "Completion List",
+    "es": "Lista de logros",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     864,
+     512,
+     894
+    ],
+    "en": "Memos",
+    "es": "Memos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     894,
+     512,
+     924
+    ],
+    "en": "Change Outfit",
+    "es": "Cambiar atuendo",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     924,
+     512,
+     954
+    ],
+    "en": "Save",
+    "es": "Guardar",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     954,
+     512,
+     984
+    ],
+    "en": "Move Items",
+    "es": "Mover objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     984,
+     512,
+     1014
+    ],
+    "en": "Stats",
+    "es": "Estadísticas",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     1019,
+     363,
+     1045
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 101,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     1098,
+     405,
+     1124
+    ],
+    "en": "CONTROLS",
+    "es": "CONTROLES",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 143,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     512,
+     768,
+     534
+    ],
+    "en": "Affection",
+    "es": "Afinidad",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     534,
+     768,
+     564
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     564,
+     768,
+     584
+    ],
+    "en": "Attack",
+    "es": "Ataque",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     584,
+     768,
+     604
+    ],
+    "en": "Effectiveness",
+    "es": "Efectividad",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     604,
+     768,
+     624
+    ],
+    "en": "Durability",
+    "es": "Durabilidad",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     624,
+     768,
+     644
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     644,
+     768,
+     664
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     684,
+     768,
+     704
+    ],
+    "en": "bullet",
+    "es": "bala",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     704,
+     768,
+     764
+    ],
+    "en": "SOUL",
+    "es": "ALMA",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     764,
+     768,
+     824
+    ],
+    "en": "TECH",
+    "es": "TÉCNICA",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     824,
+     768,
+     884
+    ],
+    "en": "BODY",
+    "es": "CUERPO",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1051,
+     112,
+     1093
+    ],
+    "en": "Graphics",
+    "es": "Gráficos",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 106,
+    "efecto": "borroso",
+    "alto": 22,
+    "radio": 3
+   },
+   {
+    "caja": [
+     0,
+     1133,
+     78,
+     1171
+    ],
+    "en": "Audio",
+    "es": "Audio",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     256,
+     1053,
+     363,
+     1091
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 101,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     256,
+     1132,
+     405,
+     1170
+    ],
+    "en": "CONTROLS",
+    "es": "CONTROLES",
+    "fuente": "timesbd.ttf",
+    "alin": "izq",
+    "ancho_max": 143,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     512,
+     664,
+     615,
+     684
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 97,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     615,
+     664,
+     692,
+     684
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 71,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     692,
+     664,
+     768,
+     684
+    ],
+    "en": "Gun",
+    "es": "Pistola",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 70,
+    "efecto": "nada"
+   }
+  ]
+ },
+ "2dpar_ui_en/tex_common/common/2d_yk_z_common_haruka": {
+  "fuente": "timesi.ttf",
+  "margen": 0,
+  "mediana": false,
+  "items": [
+   {
+    "caja": [
+     0,
+     550,
+     256,
+     564
+    ],
+    "en": "To Next Level",
+    "es": "Al siguiente nivel",
+    "fuente": "timesi.ttf",
+    "alin": "der",
+    "ancho_max": 150,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     564,
+     256,
+     586
+    ],
+    "en": "Weapons/Snow Gear",
+    "es": "Armas/Equipo de nieve",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     586,
+     256,
+     608
+    ],
+    "en": "Weapons",
+    "es": "Armas",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     608,
+     256,
+     630
+    ],
+    "en": "Total",
+    "es": "Total",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     724,
+     256,
+     746
+    ],
+    "en": "Items",
+    "es": "Objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     746,
+     256,
+     776
+    ],
+    "en": "Side Stories",
+    "es": "Historias secundarias",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     776,
+     256,
+     798
+    ],
+    "en": "Item Box",
+    "es": "Caja de objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     798,
+     256,
+     820
+    ],
+    "en": "Achievements",
+    "es": "Logros",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     820,
+     256,
+     842
+    ],
+    "en": "Skills",
+    "es": "Habilidades",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     842,
+     256,
+     864
+    ],
+    "en": "Snow Gear",
+    "es": "Equipo de nieve",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     864,
+     256,
+     886
+    ],
+    "en": "Inventory",
+    "es": "Inventario",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     886,
+     256,
+     908
+    ],
+    "en": "Equipment",
+    "es": "Equipo",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     908,
+     256,
+     930
+    ],
+    "en": "Accessories",
+    "es": "Accesorios",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     930,
+     256,
+     952
+    ],
+    "en": "Valuables",
+    "es": "Objetos valiosos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     952,
+     256,
+     982
+    ],
+    "en": "Status",
+    "es": "Estado",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     982,
+     256,
+     1012
+    ],
+    "en": "Select Character",
+    "es": "Seleccionar personaje",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1019,
+     112,
+     1049
+    ],
+    "en": "Graphics",
+    "es": "Gráficos",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 106,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1098,
+     78,
+     1125
+    ],
+    "en": "Audio",
+    "es": "Audio",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     534,
+     512,
+     564
+    ],
+    "en": "Ranking",
+    "es": "Clasificación",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     564,
+     512,
+     594
+    ],
+    "en": "Mission List",
+    "es": "Lista de misiones",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     594,
+     512,
+     624
+    ],
+    "en": "Abandon Expedition",
+    "es": "Abandonar expedición",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     624,
+     512,
+     654
+    ],
+    "en": "Map",
+    "es": "Mapa",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     654,
+     512,
+     684
+    ],
+    "en": "Items",
+    "es": "Objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     684,
+     512,
+     714
+    ],
+    "en": "Abilities",
+    "es": "Habilidades",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     714,
+     512,
+     744
+    ],
+    "en": "Cell Phone",
+    "es": "Celular",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     744,
+     512,
+     774
+    ],
+    "en": "Options",
+    "es": "Opciones",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     774,
+     512,
+     804
+    ],
+    "en": "Character Profiles",
+    "es": "Perfiles de personajes",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     804,
+     512,
+     834
+    ],
+    "en": "Substories",
+    "es": "Subhistorias",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     834,
+     512,
+     864
+    ],
+    "en": "Completion List",
+    "es": "Lista de logros",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     864,
+     512,
+     894
+    ],
+    "en": "Memos",
+    "es": "Memos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     894,
+     512,
+     924
+    ],
+    "en": "Change Outfit",
+    "es": "Cambiar atuendo",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     924,
+     512,
+     954
+    ],
+    "en": "Save",
+    "es": "Guardar",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     954,
+     512,
+     984
+    ],
+    "en": "Move Items",
+    "es": "Mover objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     984,
+     512,
+     1014
+    ],
+    "en": "Stats",
+    "es": "Estadísticas",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     1019,
+     363,
+     1045
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 101,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     1098,
+     405,
+     1124
+    ],
+    "en": "CONTROLS",
+    "es": "CONTROLES",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 143,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     512,
+     768,
+     534
+    ],
+    "en": "Affection",
+    "es": "Afinidad",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     534,
+     768,
+     564
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     564,
+     768,
+     584
+    ],
+    "en": "Attack",
+    "es": "Ataque",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     584,
+     768,
+     604
+    ],
+    "en": "Effectiveness",
+    "es": "Efectividad",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     604,
+     768,
+     624
+    ],
+    "en": "Durability",
+    "es": "Durabilidad",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     624,
+     768,
+     644
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     644,
+     768,
+     664
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     684,
+     768,
+     704
+    ],
+    "en": "bullet",
+    "es": "bala",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     704,
+     768,
+     764
+    ],
+    "en": "SOUL",
+    "es": "ALMA",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     764,
+     768,
+     824
+    ],
+    "en": "TECH",
+    "es": "TÉCNICA",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     824,
+     768,
+     884
+    ],
+    "en": "BODY",
+    "es": "CUERPO",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1051,
+     112,
+     1093
+    ],
+    "en": "Graphics",
+    "es": "Gráficos",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 106,
+    "efecto": "borroso",
+    "alto": 22,
+    "radio": 3
+   },
+   {
+    "caja": [
+     0,
+     1133,
+     78,
+     1171
+    ],
+    "en": "Audio",
+    "es": "Audio",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     256,
+     1053,
+     363,
+     1091
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 101,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     256,
+     1132,
+     405,
+     1170
+    ],
+    "en": "CONTROLS",
+    "es": "CONTROLES",
+    "fuente": "timesbd.ttf",
+    "alin": "izq",
+    "ancho_max": 143,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     512,
+     664,
+     615,
+     684
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 97,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     615,
+     664,
+     692,
+     684
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 71,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     692,
+     664,
+     768,
+     684
+    ],
+    "en": "Gun",
+    "es": "Pistola",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 70,
+    "efecto": "nada"
+   }
+  ]
+ },
+ "2dpar_ui_en/tex_common/common/2d_yk_z_common_kiryu": {
+  "fuente": "timesi.ttf",
+  "margen": 0,
+  "mediana": false,
+  "items": [
+   {
+    "caja": [
+     0,
+     550,
+     256,
+     564
+    ],
+    "en": "To Next Level",
+    "es": "Al siguiente nivel",
+    "fuente": "timesi.ttf",
+    "alin": "der",
+    "ancho_max": 150,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     564,
+     256,
+     586
+    ],
+    "en": "Weapons/Snow Gear",
+    "es": "Armas/Equipo de nieve",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     586,
+     256,
+     608
+    ],
+    "en": "Weapons",
+    "es": "Armas",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     608,
+     256,
+     630
+    ],
+    "en": "Total",
+    "es": "Total",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     724,
+     256,
+     746
+    ],
+    "en": "Items",
+    "es": "Objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     746,
+     256,
+     776
+    ],
+    "en": "Side Stories",
+    "es": "Historias secundarias",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     776,
+     256,
+     798
+    ],
+    "en": "Item Box",
+    "es": "Caja de objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     798,
+     256,
+     820
+    ],
+    "en": "Achievements",
+    "es": "Logros",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     820,
+     256,
+     842
+    ],
+    "en": "Skills",
+    "es": "Habilidades",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     842,
+     256,
+     864
+    ],
+    "en": "Snow Gear",
+    "es": "Equipo de nieve",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     864,
+     256,
+     886
+    ],
+    "en": "Inventory",
+    "es": "Inventario",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     886,
+     256,
+     908
+    ],
+    "en": "Equipment",
+    "es": "Equipo",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     908,
+     256,
+     930
+    ],
+    "en": "Accessories",
+    "es": "Accesorios",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     930,
+     256,
+     952
+    ],
+    "en": "Valuables",
+    "es": "Objetos valiosos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     952,
+     256,
+     982
+    ],
+    "en": "Status",
+    "es": "Estado",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     982,
+     256,
+     1012
+    ],
+    "en": "Select Character",
+    "es": "Seleccionar personaje",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1019,
+     112,
+     1049
+    ],
+    "en": "Graphics",
+    "es": "Gráficos",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 106,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1098,
+     78,
+     1125
+    ],
+    "en": "Audio",
+    "es": "Audio",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     534,
+     512,
+     564
+    ],
+    "en": "Ranking",
+    "es": "Clasificación",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     564,
+     512,
+     594
+    ],
+    "en": "Mission List",
+    "es": "Lista de misiones",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     594,
+     512,
+     624
+    ],
+    "en": "Abandon Expedition",
+    "es": "Abandonar expedición",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     624,
+     512,
+     654
+    ],
+    "en": "Map",
+    "es": "Mapa",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     654,
+     512,
+     684
+    ],
+    "en": "Items",
+    "es": "Objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     684,
+     512,
+     714
+    ],
+    "en": "Abilities",
+    "es": "Habilidades",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     714,
+     512,
+     744
+    ],
+    "en": "Cell Phone",
+    "es": "Celular",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     744,
+     512,
+     774
+    ],
+    "en": "Options",
+    "es": "Opciones",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     774,
+     512,
+     804
+    ],
+    "en": "Character Profiles",
+    "es": "Perfiles de personajes",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     804,
+     512,
+     834
+    ],
+    "en": "Substories",
+    "es": "Subhistorias",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     834,
+     512,
+     864
+    ],
+    "en": "Completion List",
+    "es": "Lista de logros",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     864,
+     512,
+     894
+    ],
+    "en": "Memos",
+    "es": "Memos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     894,
+     512,
+     924
+    ],
+    "en": "Change Outfit",
+    "es": "Cambiar atuendo",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     924,
+     512,
+     954
+    ],
+    "en": "Save",
+    "es": "Guardar",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     954,
+     512,
+     984
+    ],
+    "en": "Move Items",
+    "es": "Mover objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     984,
+     512,
+     1014
+    ],
+    "en": "Stats",
+    "es": "Estadísticas",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     1019,
+     363,
+     1045
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 101,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     1098,
+     405,
+     1124
+    ],
+    "en": "CONTROLS",
+    "es": "CONTROLES",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 143,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     512,
+     768,
+     534
+    ],
+    "en": "Affection",
+    "es": "Afinidad",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     534,
+     768,
+     564
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     564,
+     768,
+     584
+    ],
+    "en": "Attack",
+    "es": "Ataque",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     584,
+     768,
+     604
+    ],
+    "en": "Effectiveness",
+    "es": "Efectividad",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     604,
+     768,
+     624
+    ],
+    "en": "Durability",
+    "es": "Durabilidad",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     624,
+     768,
+     644
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     644,
+     768,
+     664
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     684,
+     768,
+     704
+    ],
+    "en": "bullet",
+    "es": "bala",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     704,
+     768,
+     764
+    ],
+    "en": "SOUL",
+    "es": "ALMA",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     764,
+     768,
+     824
+    ],
+    "en": "TECH",
+    "es": "TÉCNICA",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     824,
+     768,
+     884
+    ],
+    "en": "BODY",
+    "es": "CUERPO",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1051,
+     112,
+     1093
+    ],
+    "en": "Graphics",
+    "es": "Gráficos",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 106,
+    "efecto": "borroso",
+    "alto": 22,
+    "radio": 3
+   },
+   {
+    "caja": [
+     0,
+     1133,
+     78,
+     1171
+    ],
+    "en": "Audio",
+    "es": "Audio",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     256,
+     1053,
+     363,
+     1091
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 101,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     256,
+     1132,
+     405,
+     1170
+    ],
+    "en": "CONTROLS",
+    "es": "CONTROLES",
+    "fuente": "timesbd.ttf",
+    "alin": "izq",
+    "ancho_max": 143,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     512,
+     664,
+     615,
+     684
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 97,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     615,
+     664,
+     692,
+     684
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 71,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     692,
+     664,
+     768,
+     684
+    ],
+    "en": "Gun",
+    "es": "Pistola",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 70,
+    "efecto": "nada"
+   }
+  ]
+ },
+ "2dpar_ui_en/tex_common/common/2d_yk_z_common_saejima": {
+  "fuente": "timesi.ttf",
+  "margen": 0,
+  "mediana": false,
+  "items": [
+   {
+    "caja": [
+     0,
+     550,
+     256,
+     564
+    ],
+    "en": "To Next Level",
+    "es": "Al siguiente nivel",
+    "fuente": "timesi.ttf",
+    "alin": "der",
+    "ancho_max": 150,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     564,
+     256,
+     586
+    ],
+    "en": "Weapons/Snow Gear",
+    "es": "Armas/Equipo de nieve",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     586,
+     256,
+     608
+    ],
+    "en": "Weapons",
+    "es": "Armas",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     608,
+     256,
+     630
+    ],
+    "en": "Total",
+    "es": "Total",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     724,
+     256,
+     746
+    ],
+    "en": "Items",
+    "es": "Objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     746,
+     256,
+     776
+    ],
+    "en": "Side Stories",
+    "es": "Historias secundarias",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     776,
+     256,
+     798
+    ],
+    "en": "Item Box",
+    "es": "Caja de objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     798,
+     256,
+     820
+    ],
+    "en": "Achievements",
+    "es": "Logros",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     820,
+     256,
+     842
+    ],
+    "en": "Skills",
+    "es": "Habilidades",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     842,
+     256,
+     864
+    ],
+    "en": "Snow Gear",
+    "es": "Equipo de nieve",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     864,
+     256,
+     886
+    ],
+    "en": "Inventory",
+    "es": "Inventario",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     886,
+     256,
+     908
+    ],
+    "en": "Equipment",
+    "es": "Equipo",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     908,
+     256,
+     930
+    ],
+    "en": "Accessories",
+    "es": "Accesorios",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     930,
+     256,
+     952
+    ],
+    "en": "Valuables",
+    "es": "Objetos valiosos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     952,
+     256,
+     982
+    ],
+    "en": "Status",
+    "es": "Estado",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     982,
+     256,
+     1012
+    ],
+    "en": "Select Character",
+    "es": "Seleccionar personaje",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1019,
+     112,
+     1049
+    ],
+    "en": "Graphics",
+    "es": "Gráficos",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 106,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1098,
+     78,
+     1125
+    ],
+    "en": "Audio",
+    "es": "Audio",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     534,
+     512,
+     564
+    ],
+    "en": "Ranking",
+    "es": "Clasificación",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     564,
+     512,
+     594
+    ],
+    "en": "Mission List",
+    "es": "Lista de misiones",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     594,
+     512,
+     624
+    ],
+    "en": "Abandon Expedition",
+    "es": "Abandonar expedición",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     624,
+     512,
+     654
+    ],
+    "en": "Map",
+    "es": "Mapa",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     654,
+     512,
+     684
+    ],
+    "en": "Items",
+    "es": "Objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     684,
+     512,
+     714
+    ],
+    "en": "Abilities",
+    "es": "Habilidades",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     714,
+     512,
+     744
+    ],
+    "en": "Cell Phone",
+    "es": "Celular",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     744,
+     512,
+     774
+    ],
+    "en": "Options",
+    "es": "Opciones",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     774,
+     512,
+     804
+    ],
+    "en": "Character Profiles",
+    "es": "Perfiles de personajes",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     804,
+     512,
+     834
+    ],
+    "en": "Substories",
+    "es": "Subhistorias",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     834,
+     512,
+     864
+    ],
+    "en": "Completion List",
+    "es": "Lista de logros",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     864,
+     512,
+     894
+    ],
+    "en": "Memos",
+    "es": "Memos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     894,
+     512,
+     924
+    ],
+    "en": "Change Outfit",
+    "es": "Cambiar atuendo",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     924,
+     512,
+     954
+    ],
+    "en": "Save",
+    "es": "Guardar",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     954,
+     512,
+     984
+    ],
+    "en": "Move Items",
+    "es": "Mover objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     984,
+     512,
+     1014
+    ],
+    "en": "Stats",
+    "es": "Estadísticas",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     1019,
+     363,
+     1045
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 101,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     1098,
+     405,
+     1124
+    ],
+    "en": "CONTROLS",
+    "es": "CONTROLES",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 143,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     512,
+     768,
+     534
+    ],
+    "en": "Affection",
+    "es": "Afinidad",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     534,
+     768,
+     564
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     564,
+     768,
+     584
+    ],
+    "en": "Attack",
+    "es": "Ataque",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     584,
+     768,
+     604
+    ],
+    "en": "Effectiveness",
+    "es": "Efectividad",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     604,
+     768,
+     624
+    ],
+    "en": "Durability",
+    "es": "Durabilidad",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     624,
+     768,
+     644
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     644,
+     768,
+     664
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     684,
+     768,
+     704
+    ],
+    "en": "bullet",
+    "es": "bala",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     704,
+     768,
+     764
+    ],
+    "en": "SOUL",
+    "es": "ALMA",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     764,
+     768,
+     824
+    ],
+    "en": "TECH",
+    "es": "TÉCNICA",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     824,
+     768,
+     884
+    ],
+    "en": "BODY",
+    "es": "CUERPO",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1051,
+     112,
+     1093
+    ],
+    "en": "Graphics",
+    "es": "Gráficos",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 106,
+    "efecto": "borroso",
+    "alto": 22,
+    "radio": 3
+   },
+   {
+    "caja": [
+     0,
+     1133,
+     78,
+     1171
+    ],
+    "en": "Audio",
+    "es": "Audio",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     256,
+     1053,
+     363,
+     1091
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 101,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     256,
+     1132,
+     405,
+     1170
+    ],
+    "en": "CONTROLS",
+    "es": "CONTROLES",
+    "fuente": "timesbd.ttf",
+    "alin": "izq",
+    "ancho_max": 143,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     512,
+     664,
+     615,
+     684
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 97,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     615,
+     664,
+     692,
+     684
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 71,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     692,
+     664,
+     768,
+     684
+    ],
+    "en": "Gun",
+    "es": "Pistola",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 70,
+    "efecto": "nada"
+   }
+  ]
+ },
+ "2dpar_ui_en/tex_common/common/2d_yk_z_common_shinada": {
+  "fuente": "timesi.ttf",
+  "margen": 0,
+  "mediana": false,
+  "items": [
+   {
+    "caja": [
+     0,
+     550,
+     256,
+     564
+    ],
+    "en": "To Next Level",
+    "es": "Al siguiente nivel",
+    "fuente": "timesi.ttf",
+    "alin": "der",
+    "ancho_max": 150,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     564,
+     256,
+     586
+    ],
+    "en": "Weapons/Snow Gear",
+    "es": "Armas/Equipo de nieve",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     586,
+     256,
+     608
+    ],
+    "en": "Weapons",
+    "es": "Armas",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     608,
+     256,
+     630
+    ],
+    "en": "Total",
+    "es": "Total",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     724,
+     256,
+     746
+    ],
+    "en": "Items",
+    "es": "Objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     746,
+     256,
+     776
+    ],
+    "en": "Side Stories",
+    "es": "Historias secundarias",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     776,
+     256,
+     798
+    ],
+    "en": "Item Box",
+    "es": "Caja de objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     798,
+     256,
+     820
+    ],
+    "en": "Achievements",
+    "es": "Logros",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     820,
+     256,
+     842
+    ],
+    "en": "Skills",
+    "es": "Habilidades",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     842,
+     256,
+     864
+    ],
+    "en": "Snow Gear",
+    "es": "Equipo de nieve",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     864,
+     256,
+     886
+    ],
+    "en": "Inventory",
+    "es": "Inventario",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     886,
+     256,
+     908
+    ],
+    "en": "Equipment",
+    "es": "Equipo",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     908,
+     256,
+     930
+    ],
+    "en": "Accessories",
+    "es": "Accesorios",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     930,
+     256,
+     952
+    ],
+    "en": "Valuables",
+    "es": "Objetos valiosos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     952,
+     256,
+     982
+    ],
+    "en": "Status",
+    "es": "Estado",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     982,
+     256,
+     1012
+    ],
+    "en": "Select Character",
+    "es": "Seleccionar personaje",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1019,
+     112,
+     1049
+    ],
+    "en": "Graphics",
+    "es": "Gráficos",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 106,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1098,
+     78,
+     1125
+    ],
+    "en": "Audio",
+    "es": "Audio",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     534,
+     512,
+     564
+    ],
+    "en": "Ranking",
+    "es": "Clasificación",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     564,
+     512,
+     594
+    ],
+    "en": "Mission List",
+    "es": "Lista de misiones",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     594,
+     512,
+     624
+    ],
+    "en": "Abandon Expedition",
+    "es": "Abandonar expedición",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     624,
+     512,
+     654
+    ],
+    "en": "Map",
+    "es": "Mapa",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     654,
+     512,
+     684
+    ],
+    "en": "Items",
+    "es": "Objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     684,
+     512,
+     714
+    ],
+    "en": "Abilities",
+    "es": "Habilidades",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     714,
+     512,
+     744
+    ],
+    "en": "Cell Phone",
+    "es": "Celular",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     744,
+     512,
+     774
+    ],
+    "en": "Options",
+    "es": "Opciones",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     774,
+     512,
+     804
+    ],
+    "en": "Character Profiles",
+    "es": "Perfiles de personajes",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     804,
+     512,
+     834
+    ],
+    "en": "Substories",
+    "es": "Subhistorias",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     834,
+     512,
+     864
+    ],
+    "en": "Completion List",
+    "es": "Lista de logros",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     864,
+     512,
+     894
+    ],
+    "en": "Memos",
+    "es": "Memos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     894,
+     512,
+     924
+    ],
+    "en": "Change Outfit",
+    "es": "Cambiar atuendo",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     924,
+     512,
+     954
+    ],
+    "en": "Save",
+    "es": "Guardar",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     954,
+     512,
+     984
+    ],
+    "en": "Move Items",
+    "es": "Mover objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     984,
+     512,
+     1014
+    ],
+    "en": "Stats",
+    "es": "Estadísticas",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     1019,
+     363,
+     1045
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 101,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     1098,
+     405,
+     1124
+    ],
+    "en": "CONTROLS",
+    "es": "CONTROLES",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 143,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     512,
+     768,
+     534
+    ],
+    "en": "Affection",
+    "es": "Afinidad",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     534,
+     768,
+     564
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     564,
+     768,
+     584
+    ],
+    "en": "Attack",
+    "es": "Ataque",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     584,
+     768,
+     604
+    ],
+    "en": "Effectiveness",
+    "es": "Efectividad",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     604,
+     768,
+     624
+    ],
+    "en": "Durability",
+    "es": "Durabilidad",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     624,
+     768,
+     644
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     644,
+     768,
+     664
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     684,
+     768,
+     704
+    ],
+    "en": "bullet",
+    "es": "bala",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     704,
+     768,
+     764
+    ],
+    "en": "SOUL",
+    "es": "ALMA",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     764,
+     768,
+     824
+    ],
+    "en": "TECH",
+    "es": "TÉCNICA",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     824,
+     768,
+     884
+    ],
+    "en": "BODY",
+    "es": "CUERPO",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1051,
+     112,
+     1093
+    ],
+    "en": "Graphics",
+    "es": "Gráficos",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 106,
+    "efecto": "borroso",
+    "alto": 22,
+    "radio": 3
+   },
+   {
+    "caja": [
+     0,
+     1133,
+     78,
+     1171
+    ],
+    "en": "Audio",
+    "es": "Audio",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     256,
+     1053,
+     363,
+     1091
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 101,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     256,
+     1132,
+     405,
+     1170
+    ],
+    "en": "CONTROLS",
+    "es": "CONTROLES",
+    "fuente": "timesbd.ttf",
+    "alin": "izq",
+    "ancho_max": 143,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     512,
+     664,
+     615,
+     684
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 97,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     615,
+     664,
+     692,
+     684
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 71,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     692,
+     664,
+     768,
+     684
+    ],
+    "en": "Gun",
+    "es": "Pistola",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 70,
+    "efecto": "nada"
+   }
+  ]
+ },
+ "2dpar_ui_en/tex_common/common/2d_yk_z_common_yukiyama": {
+  "fuente": "timesi.ttf",
+  "margen": 0,
+  "mediana": false,
+  "items": [
+   {
+    "caja": [
+     0,
+     550,
+     256,
+     564
+    ],
+    "en": "To Next Level",
+    "es": "Al siguiente nivel",
+    "fuente": "timesi.ttf",
+    "alin": "der",
+    "ancho_max": 150,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     564,
+     256,
+     586
+    ],
+    "en": "Weapons/Snow Gear",
+    "es": "Armas/Equipo de nieve",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     586,
+     256,
+     608
+    ],
+    "en": "Weapons",
+    "es": "Armas",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     608,
+     256,
+     630
+    ],
+    "en": "Total",
+    "es": "Total",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     724,
+     256,
+     746
+    ],
+    "en": "Items",
+    "es": "Objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     746,
+     256,
+     776
+    ],
+    "en": "Side Stories",
+    "es": "Historias secundarias",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     776,
+     256,
+     798
+    ],
+    "en": "Item Box",
+    "es": "Caja de objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     798,
+     256,
+     820
+    ],
+    "en": "Achievements",
+    "es": "Logros",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     820,
+     256,
+     842
+    ],
+    "en": "Skills",
+    "es": "Habilidades",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     842,
+     256,
+     864
+    ],
+    "en": "Snow Gear",
+    "es": "Equipo de nieve",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     864,
+     256,
+     886
+    ],
+    "en": "Inventory",
+    "es": "Inventario",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     886,
+     256,
+     908
+    ],
+    "en": "Equipment",
+    "es": "Equipo",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     908,
+     256,
+     930
+    ],
+    "en": "Accessories",
+    "es": "Accesorios",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     930,
+     256,
+     952
+    ],
+    "en": "Valuables",
+    "es": "Objetos valiosos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     952,
+     256,
+     982
+    ],
+    "en": "Status",
+    "es": "Estado",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     982,
+     256,
+     1012
+    ],
+    "en": "Select Character",
+    "es": "Seleccionar personaje",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1019,
+     112,
+     1049
+    ],
+    "en": "Graphics",
+    "es": "Gráficos",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 106,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1098,
+     78,
+     1125
+    ],
+    "en": "Audio",
+    "es": "Audio",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     534,
+     512,
+     564
+    ],
+    "en": "Ranking",
+    "es": "Clasificación",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     564,
+     512,
+     594
+    ],
+    "en": "Mission List",
+    "es": "Lista de misiones",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     594,
+     512,
+     624
+    ],
+    "en": "Abandon Expedition",
+    "es": "Abandonar expedición",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     624,
+     512,
+     654
+    ],
+    "en": "Map",
+    "es": "Mapa",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     654,
+     512,
+     684
+    ],
+    "en": "Items",
+    "es": "Objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     684,
+     512,
+     714
+    ],
+    "en": "Abilities",
+    "es": "Habilidades",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     714,
+     512,
+     744
+    ],
+    "en": "Cell Phone",
+    "es": "Celular",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     744,
+     512,
+     774
+    ],
+    "en": "Options",
+    "es": "Opciones",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     774,
+     512,
+     804
+    ],
+    "en": "Character Profiles",
+    "es": "Perfiles de personajes",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     804,
+     512,
+     834
+    ],
+    "en": "Substories",
+    "es": "Subhistorias",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     834,
+     512,
+     864
+    ],
+    "en": "Completion List",
+    "es": "Lista de logros",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     864,
+     512,
+     894
+    ],
+    "en": "Memos",
+    "es": "Memos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     894,
+     512,
+     924
+    ],
+    "en": "Change Outfit",
+    "es": "Cambiar atuendo",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     924,
+     512,
+     954
+    ],
+    "en": "Save",
+    "es": "Guardar",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     954,
+     512,
+     984
+    ],
+    "en": "Move Items",
+    "es": "Mover objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     984,
+     512,
+     1014
+    ],
+    "en": "Stats",
+    "es": "Estadísticas",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     1019,
+     363,
+     1045
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 101,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     1098,
+     405,
+     1124
+    ],
+    "en": "CONTROLS",
+    "es": "CONTROLES",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 143,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     512,
+     768,
+     534
+    ],
+    "en": "Affection",
+    "es": "Afinidad",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     534,
+     768,
+     564
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     564,
+     768,
+     584
+    ],
+    "en": "Attack",
+    "es": "Ataque",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     584,
+     768,
+     604
+    ],
+    "en": "Effectiveness",
+    "es": "Efectividad",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     604,
+     768,
+     624
+    ],
+    "en": "Durability",
+    "es": "Durabilidad",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     624,
+     768,
+     644
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     644,
+     768,
+     664
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     684,
+     768,
+     704
+    ],
+    "en": "bullet",
+    "es": "bala",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     704,
+     768,
+     764
+    ],
+    "en": "SOUL",
+    "es": "ALMA",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     764,
+     768,
+     824
+    ],
+    "en": "TECH",
+    "es": "TÉCNICA",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     824,
+     768,
+     884
+    ],
+    "en": "BODY",
+    "es": "CUERPO",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1051,
+     112,
+     1093
+    ],
+    "en": "Graphics",
+    "es": "Gráficos",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 106,
+    "efecto": "borroso",
+    "alto": 22,
+    "radio": 3
+   },
+   {
+    "caja": [
+     0,
+     1133,
+     78,
+     1171
+    ],
+    "en": "Audio",
+    "es": "Audio",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     256,
+     1053,
+     363,
+     1091
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 101,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     256,
+     1132,
+     405,
+     1170
+    ],
+    "en": "CONTROLS",
+    "es": "CONTROLES",
+    "fuente": "timesbd.ttf",
+    "alin": "izq",
+    "ancho_max": 143,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     512,
+     664,
+     615,
+     684
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 97,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     615,
+     664,
+     692,
+     684
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 71,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     692,
+     664,
+     768,
+     684
+    ],
+    "en": "Gun",
+    "es": "Pistola",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 70,
+    "efecto": "nada"
+   }
+  ]
+ },
+ "ui_en/tex_common/common/2d_yk_z_common_akiyama": {
+  "fuente": "timesi.ttf",
+  "margen": 0,
+  "mediana": false,
+  "items": [
+   {
+    "caja": [
+     0,
+     550,
+     256,
+     564
+    ],
+    "en": "To Next Level",
+    "es": "Al siguiente nivel",
+    "fuente": "timesi.ttf",
+    "alin": "der",
+    "ancho_max": 150,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     564,
+     256,
+     586
+    ],
+    "en": "Weapons/Snow Gear",
+    "es": "Armas/Equipo de nieve",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     586,
+     256,
+     608
+    ],
+    "en": "Weapons",
+    "es": "Armas",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     608,
+     256,
+     630
+    ],
+    "en": "Total",
+    "es": "Total",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     724,
+     256,
+     746
+    ],
+    "en": "Items",
+    "es": "Objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     746,
+     256,
+     776
+    ],
+    "en": "Side Stories",
+    "es": "Historias secundarias",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     776,
+     256,
+     798
+    ],
+    "en": "Item Box",
+    "es": "Caja de objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     798,
+     256,
+     820
+    ],
+    "en": "Achievements",
+    "es": "Logros",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     820,
+     256,
+     842
+    ],
+    "en": "Skills",
+    "es": "Habilidades",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     842,
+     256,
+     864
+    ],
+    "en": "Snow Gear",
+    "es": "Equipo de nieve",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     864,
+     256,
+     886
+    ],
+    "en": "Inventory",
+    "es": "Inventario",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     886,
+     256,
+     908
+    ],
+    "en": "Equipment",
+    "es": "Equipo",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     908,
+     256,
+     930
+    ],
+    "en": "Accessories",
+    "es": "Accesorios",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     930,
+     256,
+     952
+    ],
+    "en": "Valuables",
+    "es": "Objetos valiosos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     952,
+     256,
+     982
+    ],
+    "en": "Status",
+    "es": "Estado",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     982,
+     256,
+     1012
+    ],
+    "en": "Select Character",
+    "es": "Seleccionar personaje",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1019,
+     112,
+     1049
+    ],
+    "en": "Graphics",
+    "es": "Gráficos",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 106,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1098,
+     78,
+     1125
+    ],
+    "en": "Audio",
+    "es": "Audio",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     534,
+     512,
+     564
+    ],
+    "en": "Ranking",
+    "es": "Clasificación",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     564,
+     512,
+     594
+    ],
+    "en": "Mission List",
+    "es": "Lista de misiones",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     594,
+     512,
+     624
+    ],
+    "en": "Abandon Expedition",
+    "es": "Abandonar expedición",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     624,
+     512,
+     654
+    ],
+    "en": "Map",
+    "es": "Mapa",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     654,
+     512,
+     684
+    ],
+    "en": "Items",
+    "es": "Objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     684,
+     512,
+     714
+    ],
+    "en": "Abilities",
+    "es": "Habilidades",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     714,
+     512,
+     744
+    ],
+    "en": "Cell Phone",
+    "es": "Celular",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     744,
+     512,
+     774
+    ],
+    "en": "Options",
+    "es": "Opciones",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     774,
+     512,
+     804
+    ],
+    "en": "Character Profiles",
+    "es": "Perfiles de personajes",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     804,
+     512,
+     834
+    ],
+    "en": "Substories",
+    "es": "Subhistorias",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     834,
+     512,
+     864
+    ],
+    "en": "Completion List",
+    "es": "Lista de logros",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     864,
+     512,
+     894
+    ],
+    "en": "Memos",
+    "es": "Memos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     894,
+     512,
+     924
+    ],
+    "en": "Change Outfit",
+    "es": "Cambiar atuendo",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     924,
+     512,
+     954
+    ],
+    "en": "Save",
+    "es": "Guardar",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     954,
+     512,
+     984
+    ],
+    "en": "Move Items",
+    "es": "Mover objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     984,
+     512,
+     1014
+    ],
+    "en": "Stats",
+    "es": "Estadísticas",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     1019,
+     363,
+     1045
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 101,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     1098,
+     405,
+     1124
+    ],
+    "en": "CONTROLS",
+    "es": "CONTROLES",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 143,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     512,
+     768,
+     534
+    ],
+    "en": "Affection",
+    "es": "Afinidad",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     534,
+     768,
+     564
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     564,
+     768,
+     584
+    ],
+    "en": "Attack",
+    "es": "Ataque",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     584,
+     768,
+     604
+    ],
+    "en": "Effectiveness",
+    "es": "Efectividad",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     604,
+     768,
+     624
+    ],
+    "en": "Durability",
+    "es": "Durabilidad",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     624,
+     768,
+     644
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     644,
+     768,
+     664
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     684,
+     768,
+     704
+    ],
+    "en": "bullet",
+    "es": "bala",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     704,
+     768,
+     764
+    ],
+    "en": "SOUL",
+    "es": "ALMA",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     764,
+     768,
+     824
+    ],
+    "en": "TECH",
+    "es": "TÉCNICA",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     824,
+     768,
+     884
+    ],
+    "en": "BODY",
+    "es": "CUERPO",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1051,
+     112,
+     1093
+    ],
+    "en": "Graphics",
+    "es": "Gráficos",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 106,
+    "efecto": "borroso",
+    "alto": 22,
+    "radio": 3
+   },
+   {
+    "caja": [
+     0,
+     1133,
+     78,
+     1171
+    ],
+    "en": "Audio",
+    "es": "Audio",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     256,
+     1053,
+     363,
+     1091
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 101,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     256,
+     1132,
+     405,
+     1170
+    ],
+    "en": "CONTROLS",
+    "es": "CONTROLES",
+    "fuente": "timesbd.ttf",
+    "alin": "izq",
+    "ancho_max": 143,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     512,
+     664,
+     615,
+     684
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 97,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     615,
+     664,
+     692,
+     684
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 71,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     692,
+     664,
+     768,
+     684
+    ],
+    "en": "Gun",
+    "es": "Pistola",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 70,
+    "efecto": "nada"
+   }
+  ]
+ },
+ "ui_en/tex_common/common/2d_yk_z_common_haruka": {
+  "fuente": "timesi.ttf",
+  "margen": 0,
+  "mediana": false,
+  "items": [
+   {
+    "caja": [
+     0,
+     550,
+     256,
+     564
+    ],
+    "en": "To Next Level",
+    "es": "Al siguiente nivel",
+    "fuente": "timesi.ttf",
+    "alin": "der",
+    "ancho_max": 150,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     564,
+     256,
+     586
+    ],
+    "en": "Weapons/Snow Gear",
+    "es": "Armas/Equipo de nieve",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     586,
+     256,
+     608
+    ],
+    "en": "Weapons",
+    "es": "Armas",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     608,
+     256,
+     630
+    ],
+    "en": "Total",
+    "es": "Total",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     724,
+     256,
+     746
+    ],
+    "en": "Items",
+    "es": "Objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     746,
+     256,
+     776
+    ],
+    "en": "Side Stories",
+    "es": "Historias secundarias",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     776,
+     256,
+     798
+    ],
+    "en": "Item Box",
+    "es": "Caja de objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     798,
+     256,
+     820
+    ],
+    "en": "Achievements",
+    "es": "Logros",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     820,
+     256,
+     842
+    ],
+    "en": "Skills",
+    "es": "Habilidades",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     842,
+     256,
+     864
+    ],
+    "en": "Snow Gear",
+    "es": "Equipo de nieve",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     864,
+     256,
+     886
+    ],
+    "en": "Inventory",
+    "es": "Inventario",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     886,
+     256,
+     908
+    ],
+    "en": "Equipment",
+    "es": "Equipo",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     908,
+     256,
+     930
+    ],
+    "en": "Accessories",
+    "es": "Accesorios",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     930,
+     256,
+     952
+    ],
+    "en": "Valuables",
+    "es": "Objetos valiosos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     952,
+     256,
+     982
+    ],
+    "en": "Status",
+    "es": "Estado",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     982,
+     256,
+     1012
+    ],
+    "en": "Select Character",
+    "es": "Seleccionar personaje",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1019,
+     112,
+     1049
+    ],
+    "en": "Graphics",
+    "es": "Gráficos",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 106,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1098,
+     78,
+     1125
+    ],
+    "en": "Audio",
+    "es": "Audio",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     534,
+     512,
+     564
+    ],
+    "en": "Ranking",
+    "es": "Clasificación",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     564,
+     512,
+     594
+    ],
+    "en": "Mission List",
+    "es": "Lista de misiones",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     594,
+     512,
+     624
+    ],
+    "en": "Abandon Expedition",
+    "es": "Abandonar expedición",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     624,
+     512,
+     654
+    ],
+    "en": "Map",
+    "es": "Mapa",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     654,
+     512,
+     684
+    ],
+    "en": "Items",
+    "es": "Objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     684,
+     512,
+     714
+    ],
+    "en": "Abilities",
+    "es": "Habilidades",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     714,
+     512,
+     744
+    ],
+    "en": "Cell Phone",
+    "es": "Celular",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     744,
+     512,
+     774
+    ],
+    "en": "Options",
+    "es": "Opciones",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     774,
+     512,
+     804
+    ],
+    "en": "Character Profiles",
+    "es": "Perfiles de personajes",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     804,
+     512,
+     834
+    ],
+    "en": "Substories",
+    "es": "Subhistorias",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     834,
+     512,
+     864
+    ],
+    "en": "Completion List",
+    "es": "Lista de logros",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     864,
+     512,
+     894
+    ],
+    "en": "Memos",
+    "es": "Memos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     894,
+     512,
+     924
+    ],
+    "en": "Change Outfit",
+    "es": "Cambiar atuendo",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     924,
+     512,
+     954
+    ],
+    "en": "Save",
+    "es": "Guardar",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     954,
+     512,
+     984
+    ],
+    "en": "Move Items",
+    "es": "Mover objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     984,
+     512,
+     1014
+    ],
+    "en": "Stats",
+    "es": "Estadísticas",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     1019,
+     363,
+     1045
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 101,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     1098,
+     405,
+     1124
+    ],
+    "en": "CONTROLS",
+    "es": "CONTROLES",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 143,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     512,
+     768,
+     534
+    ],
+    "en": "Affection",
+    "es": "Afinidad",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     534,
+     768,
+     564
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     564,
+     768,
+     584
+    ],
+    "en": "Attack",
+    "es": "Ataque",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     584,
+     768,
+     604
+    ],
+    "en": "Effectiveness",
+    "es": "Efectividad",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     604,
+     768,
+     624
+    ],
+    "en": "Durability",
+    "es": "Durabilidad",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     624,
+     768,
+     644
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     644,
+     768,
+     664
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     684,
+     768,
+     704
+    ],
+    "en": "bullet",
+    "es": "bala",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     704,
+     768,
+     764
+    ],
+    "en": "SOUL",
+    "es": "ALMA",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     764,
+     768,
+     824
+    ],
+    "en": "TECH",
+    "es": "TÉCNICA",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     824,
+     768,
+     884
+    ],
+    "en": "BODY",
+    "es": "CUERPO",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1051,
+     112,
+     1093
+    ],
+    "en": "Graphics",
+    "es": "Gráficos",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 106,
+    "efecto": "borroso",
+    "alto": 22,
+    "radio": 3
+   },
+   {
+    "caja": [
+     0,
+     1133,
+     78,
+     1171
+    ],
+    "en": "Audio",
+    "es": "Audio",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     256,
+     1053,
+     363,
+     1091
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 101,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     256,
+     1132,
+     405,
+     1170
+    ],
+    "en": "CONTROLS",
+    "es": "CONTROLES",
+    "fuente": "timesbd.ttf",
+    "alin": "izq",
+    "ancho_max": 143,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     512,
+     664,
+     615,
+     684
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 97,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     615,
+     664,
+     692,
+     684
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 71,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     692,
+     664,
+     768,
+     684
+    ],
+    "en": "Gun",
+    "es": "Pistola",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 70,
+    "efecto": "nada"
+   }
+  ]
+ },
+ "ui_en/tex_common/common/2d_yk_z_common_kiryu": {
+  "fuente": "timesi.ttf",
+  "margen": 0,
+  "mediana": false,
+  "items": [
+   {
+    "caja": [
+     0,
+     550,
+     256,
+     564
+    ],
+    "en": "To Next Level",
+    "es": "Al siguiente nivel",
+    "fuente": "timesi.ttf",
+    "alin": "der",
+    "ancho_max": 150,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     564,
+     256,
+     586
+    ],
+    "en": "Weapons/Snow Gear",
+    "es": "Armas/Equipo de nieve",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     586,
+     256,
+     608
+    ],
+    "en": "Weapons",
+    "es": "Armas",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     608,
+     256,
+     630
+    ],
+    "en": "Total",
+    "es": "Total",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     724,
+     256,
+     746
+    ],
+    "en": "Items",
+    "es": "Objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     746,
+     256,
+     776
+    ],
+    "en": "Side Stories",
+    "es": "Historias secundarias",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     776,
+     256,
+     798
+    ],
+    "en": "Item Box",
+    "es": "Caja de objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     798,
+     256,
+     820
+    ],
+    "en": "Achievements",
+    "es": "Logros",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     820,
+     256,
+     842
+    ],
+    "en": "Skills",
+    "es": "Habilidades",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     842,
+     256,
+     864
+    ],
+    "en": "Snow Gear",
+    "es": "Equipo de nieve",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     864,
+     256,
+     886
+    ],
+    "en": "Inventory",
+    "es": "Inventario",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     886,
+     256,
+     908
+    ],
+    "en": "Equipment",
+    "es": "Equipo",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     908,
+     256,
+     930
+    ],
+    "en": "Accessories",
+    "es": "Accesorios",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     930,
+     256,
+     952
+    ],
+    "en": "Valuables",
+    "es": "Objetos valiosos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     952,
+     256,
+     982
+    ],
+    "en": "Status",
+    "es": "Estado",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     982,
+     256,
+     1012
+    ],
+    "en": "Select Character",
+    "es": "Seleccionar personaje",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1019,
+     112,
+     1049
+    ],
+    "en": "Graphics",
+    "es": "Gráficos",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 106,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1098,
+     78,
+     1125
+    ],
+    "en": "Audio",
+    "es": "Audio",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     534,
+     512,
+     564
+    ],
+    "en": "Ranking",
+    "es": "Clasificación",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     564,
+     512,
+     594
+    ],
+    "en": "Mission List",
+    "es": "Lista de misiones",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     594,
+     512,
+     624
+    ],
+    "en": "Abandon Expedition",
+    "es": "Abandonar expedición",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     624,
+     512,
+     654
+    ],
+    "en": "Map",
+    "es": "Mapa",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     654,
+     512,
+     684
+    ],
+    "en": "Items",
+    "es": "Objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     684,
+     512,
+     714
+    ],
+    "en": "Abilities",
+    "es": "Habilidades",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     714,
+     512,
+     744
+    ],
+    "en": "Cell Phone",
+    "es": "Celular",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     744,
+     512,
+     774
+    ],
+    "en": "Options",
+    "es": "Opciones",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     774,
+     512,
+     804
+    ],
+    "en": "Character Profiles",
+    "es": "Perfiles de personajes",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     804,
+     512,
+     834
+    ],
+    "en": "Substories",
+    "es": "Subhistorias",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     834,
+     512,
+     864
+    ],
+    "en": "Completion List",
+    "es": "Lista de logros",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     864,
+     512,
+     894
+    ],
+    "en": "Memos",
+    "es": "Memos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     894,
+     512,
+     924
+    ],
+    "en": "Change Outfit",
+    "es": "Cambiar atuendo",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     924,
+     512,
+     954
+    ],
+    "en": "Save",
+    "es": "Guardar",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     954,
+     512,
+     984
+    ],
+    "en": "Move Items",
+    "es": "Mover objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     984,
+     512,
+     1014
+    ],
+    "en": "Stats",
+    "es": "Estadísticas",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     1019,
+     363,
+     1045
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 101,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     1098,
+     405,
+     1124
+    ],
+    "en": "CONTROLS",
+    "es": "CONTROLES",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 143,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     512,
+     768,
+     534
+    ],
+    "en": "Affection",
+    "es": "Afinidad",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     534,
+     768,
+     564
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     564,
+     768,
+     584
+    ],
+    "en": "Attack",
+    "es": "Ataque",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     584,
+     768,
+     604
+    ],
+    "en": "Effectiveness",
+    "es": "Efectividad",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     604,
+     768,
+     624
+    ],
+    "en": "Durability",
+    "es": "Durabilidad",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     624,
+     768,
+     644
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     644,
+     768,
+     664
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     684,
+     768,
+     704
+    ],
+    "en": "bullet",
+    "es": "bala",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     704,
+     768,
+     764
+    ],
+    "en": "SOUL",
+    "es": "ALMA",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     764,
+     768,
+     824
+    ],
+    "en": "TECH",
+    "es": "TÉCNICA",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     824,
+     768,
+     884
+    ],
+    "en": "BODY",
+    "es": "CUERPO",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1051,
+     112,
+     1093
+    ],
+    "en": "Graphics",
+    "es": "Gráficos",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 106,
+    "efecto": "borroso",
+    "alto": 22,
+    "radio": 3
+   },
+   {
+    "caja": [
+     0,
+     1133,
+     78,
+     1171
+    ],
+    "en": "Audio",
+    "es": "Audio",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     256,
+     1053,
+     363,
+     1091
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 101,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     256,
+     1132,
+     405,
+     1170
+    ],
+    "en": "CONTROLS",
+    "es": "CONTROLES",
+    "fuente": "timesbd.ttf",
+    "alin": "izq",
+    "ancho_max": 143,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     512,
+     664,
+     615,
+     684
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 97,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     615,
+     664,
+     692,
+     684
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 71,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     692,
+     664,
+     768,
+     684
+    ],
+    "en": "Gun",
+    "es": "Pistola",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 70,
+    "efecto": "nada"
+   }
+  ]
+ },
+ "ui_en/tex_common/common/2d_yk_z_common_saejima": {
+  "fuente": "timesi.ttf",
+  "margen": 0,
+  "mediana": false,
+  "items": [
+   {
+    "caja": [
+     0,
+     550,
+     256,
+     564
+    ],
+    "en": "To Next Level",
+    "es": "Al siguiente nivel",
+    "fuente": "timesi.ttf",
+    "alin": "der",
+    "ancho_max": 150,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     564,
+     256,
+     586
+    ],
+    "en": "Weapons/Snow Gear",
+    "es": "Armas/Equipo de nieve",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     586,
+     256,
+     608
+    ],
+    "en": "Weapons",
+    "es": "Armas",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     608,
+     256,
+     630
+    ],
+    "en": "Total",
+    "es": "Total",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     724,
+     256,
+     746
+    ],
+    "en": "Items",
+    "es": "Objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     746,
+     256,
+     776
+    ],
+    "en": "Side Stories",
+    "es": "Historias secundarias",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     776,
+     256,
+     798
+    ],
+    "en": "Item Box",
+    "es": "Caja de objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     798,
+     256,
+     820
+    ],
+    "en": "Achievements",
+    "es": "Logros",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     820,
+     256,
+     842
+    ],
+    "en": "Skills",
+    "es": "Habilidades",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     842,
+     256,
+     864
+    ],
+    "en": "Snow Gear",
+    "es": "Equipo de nieve",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     864,
+     256,
+     886
+    ],
+    "en": "Inventory",
+    "es": "Inventario",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     886,
+     256,
+     908
+    ],
+    "en": "Equipment",
+    "es": "Equipo",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     908,
+     256,
+     930
+    ],
+    "en": "Accessories",
+    "es": "Accesorios",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     930,
+     256,
+     952
+    ],
+    "en": "Valuables",
+    "es": "Objetos valiosos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     952,
+     256,
+     982
+    ],
+    "en": "Status",
+    "es": "Estado",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     982,
+     256,
+     1012
+    ],
+    "en": "Select Character",
+    "es": "Seleccionar personaje",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1019,
+     112,
+     1049
+    ],
+    "en": "Graphics",
+    "es": "Gráficos",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 106,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1098,
+     78,
+     1125
+    ],
+    "en": "Audio",
+    "es": "Audio",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     534,
+     512,
+     564
+    ],
+    "en": "Ranking",
+    "es": "Clasificación",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     564,
+     512,
+     594
+    ],
+    "en": "Mission List",
+    "es": "Lista de misiones",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     594,
+     512,
+     624
+    ],
+    "en": "Abandon Expedition",
+    "es": "Abandonar expedición",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     624,
+     512,
+     654
+    ],
+    "en": "Map",
+    "es": "Mapa",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     654,
+     512,
+     684
+    ],
+    "en": "Items",
+    "es": "Objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     684,
+     512,
+     714
+    ],
+    "en": "Abilities",
+    "es": "Habilidades",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     714,
+     512,
+     744
+    ],
+    "en": "Cell Phone",
+    "es": "Celular",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     744,
+     512,
+     774
+    ],
+    "en": "Options",
+    "es": "Opciones",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     774,
+     512,
+     804
+    ],
+    "en": "Character Profiles",
+    "es": "Perfiles de personajes",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     804,
+     512,
+     834
+    ],
+    "en": "Substories",
+    "es": "Subhistorias",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     834,
+     512,
+     864
+    ],
+    "en": "Completion List",
+    "es": "Lista de logros",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     864,
+     512,
+     894
+    ],
+    "en": "Memos",
+    "es": "Memos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     894,
+     512,
+     924
+    ],
+    "en": "Change Outfit",
+    "es": "Cambiar atuendo",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     924,
+     512,
+     954
+    ],
+    "en": "Save",
+    "es": "Guardar",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     954,
+     512,
+     984
+    ],
+    "en": "Move Items",
+    "es": "Mover objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     984,
+     512,
+     1014
+    ],
+    "en": "Stats",
+    "es": "Estadísticas",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     1019,
+     363,
+     1045
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 101,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     1098,
+     405,
+     1124
+    ],
+    "en": "CONTROLS",
+    "es": "CONTROLES",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 143,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     512,
+     768,
+     534
+    ],
+    "en": "Affection",
+    "es": "Afinidad",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     534,
+     768,
+     564
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     564,
+     768,
+     584
+    ],
+    "en": "Attack",
+    "es": "Ataque",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     584,
+     768,
+     604
+    ],
+    "en": "Effectiveness",
+    "es": "Efectividad",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     604,
+     768,
+     624
+    ],
+    "en": "Durability",
+    "es": "Durabilidad",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     624,
+     768,
+     644
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     644,
+     768,
+     664
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     684,
+     768,
+     704
+    ],
+    "en": "bullet",
+    "es": "bala",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     704,
+     768,
+     764
+    ],
+    "en": "SOUL",
+    "es": "ALMA",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     764,
+     768,
+     824
+    ],
+    "en": "TECH",
+    "es": "TÉCNICA",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     824,
+     768,
+     884
+    ],
+    "en": "BODY",
+    "es": "CUERPO",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1051,
+     112,
+     1093
+    ],
+    "en": "Graphics",
+    "es": "Gráficos",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 106,
+    "efecto": "borroso",
+    "alto": 22,
+    "radio": 3
+   },
+   {
+    "caja": [
+     0,
+     1133,
+     78,
+     1171
+    ],
+    "en": "Audio",
+    "es": "Audio",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     256,
+     1053,
+     363,
+     1091
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 101,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     256,
+     1132,
+     405,
+     1170
+    ],
+    "en": "CONTROLS",
+    "es": "CONTROLES",
+    "fuente": "timesbd.ttf",
+    "alin": "izq",
+    "ancho_max": 143,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     512,
+     664,
+     615,
+     684
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 97,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     615,
+     664,
+     692,
+     684
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 71,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     692,
+     664,
+     768,
+     684
+    ],
+    "en": "Gun",
+    "es": "Pistola",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 70,
+    "efecto": "nada"
+   }
+  ]
+ },
+ "ui_en/tex_common/common/2d_yk_z_common_shinada": {
+  "fuente": "timesi.ttf",
+  "margen": 0,
+  "mediana": false,
+  "items": [
+   {
+    "caja": [
+     0,
+     550,
+     256,
+     564
+    ],
+    "en": "To Next Level",
+    "es": "Al siguiente nivel",
+    "fuente": "timesi.ttf",
+    "alin": "der",
+    "ancho_max": 150,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     564,
+     256,
+     586
+    ],
+    "en": "Weapons/Snow Gear",
+    "es": "Armas/Equipo de nieve",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     586,
+     256,
+     608
+    ],
+    "en": "Weapons",
+    "es": "Armas",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     608,
+     256,
+     630
+    ],
+    "en": "Total",
+    "es": "Total",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     724,
+     256,
+     746
+    ],
+    "en": "Items",
+    "es": "Objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     746,
+     256,
+     776
+    ],
+    "en": "Side Stories",
+    "es": "Historias secundarias",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     776,
+     256,
+     798
+    ],
+    "en": "Item Box",
+    "es": "Caja de objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     798,
+     256,
+     820
+    ],
+    "en": "Achievements",
+    "es": "Logros",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     820,
+     256,
+     842
+    ],
+    "en": "Skills",
+    "es": "Habilidades",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     842,
+     256,
+     864
+    ],
+    "en": "Snow Gear",
+    "es": "Equipo de nieve",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     864,
+     256,
+     886
+    ],
+    "en": "Inventory",
+    "es": "Inventario",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     886,
+     256,
+     908
+    ],
+    "en": "Equipment",
+    "es": "Equipo",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     908,
+     256,
+     930
+    ],
+    "en": "Accessories",
+    "es": "Accesorios",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     930,
+     256,
+     952
+    ],
+    "en": "Valuables",
+    "es": "Objetos valiosos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     952,
+     256,
+     982
+    ],
+    "en": "Status",
+    "es": "Estado",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     982,
+     256,
+     1012
+    ],
+    "en": "Select Character",
+    "es": "Seleccionar personaje",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1019,
+     112,
+     1049
+    ],
+    "en": "Graphics",
+    "es": "Gráficos",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 106,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1098,
+     78,
+     1125
+    ],
+    "en": "Audio",
+    "es": "Audio",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     534,
+     512,
+     564
+    ],
+    "en": "Ranking",
+    "es": "Clasificación",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     564,
+     512,
+     594
+    ],
+    "en": "Mission List",
+    "es": "Lista de misiones",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     594,
+     512,
+     624
+    ],
+    "en": "Abandon Expedition",
+    "es": "Abandonar expedición",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     624,
+     512,
+     654
+    ],
+    "en": "Map",
+    "es": "Mapa",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     654,
+     512,
+     684
+    ],
+    "en": "Items",
+    "es": "Objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     684,
+     512,
+     714
+    ],
+    "en": "Abilities",
+    "es": "Habilidades",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     714,
+     512,
+     744
+    ],
+    "en": "Cell Phone",
+    "es": "Celular",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     744,
+     512,
+     774
+    ],
+    "en": "Options",
+    "es": "Opciones",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     774,
+     512,
+     804
+    ],
+    "en": "Character Profiles",
+    "es": "Perfiles de personajes",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     804,
+     512,
+     834
+    ],
+    "en": "Substories",
+    "es": "Subhistorias",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     834,
+     512,
+     864
+    ],
+    "en": "Completion List",
+    "es": "Lista de logros",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     864,
+     512,
+     894
+    ],
+    "en": "Memos",
+    "es": "Memos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     894,
+     512,
+     924
+    ],
+    "en": "Change Outfit",
+    "es": "Cambiar atuendo",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     924,
+     512,
+     954
+    ],
+    "en": "Save",
+    "es": "Guardar",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     954,
+     512,
+     984
+    ],
+    "en": "Move Items",
+    "es": "Mover objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     984,
+     512,
+     1014
+    ],
+    "en": "Stats",
+    "es": "Estadísticas",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     1019,
+     363,
+     1045
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 101,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     1098,
+     405,
+     1124
+    ],
+    "en": "CONTROLS",
+    "es": "CONTROLES",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 143,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     512,
+     768,
+     534
+    ],
+    "en": "Affection",
+    "es": "Afinidad",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     534,
+     768,
+     564
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     564,
+     768,
+     584
+    ],
+    "en": "Attack",
+    "es": "Ataque",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     584,
+     768,
+     604
+    ],
+    "en": "Effectiveness",
+    "es": "Efectividad",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     604,
+     768,
+     624
+    ],
+    "en": "Durability",
+    "es": "Durabilidad",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     624,
+     768,
+     644
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     644,
+     768,
+     664
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     684,
+     768,
+     704
+    ],
+    "en": "bullet",
+    "es": "bala",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     704,
+     768,
+     764
+    ],
+    "en": "SOUL",
+    "es": "ALMA",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     764,
+     768,
+     824
+    ],
+    "en": "TECH",
+    "es": "TÉCNICA",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     824,
+     768,
+     884
+    ],
+    "en": "BODY",
+    "es": "CUERPO",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1051,
+     112,
+     1093
+    ],
+    "en": "Graphics",
+    "es": "Gráficos",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 106,
+    "efecto": "borroso",
+    "alto": 22,
+    "radio": 3
+   },
+   {
+    "caja": [
+     0,
+     1133,
+     78,
+     1171
+    ],
+    "en": "Audio",
+    "es": "Audio",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     256,
+     1053,
+     363,
+     1091
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 101,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     256,
+     1132,
+     405,
+     1170
+    ],
+    "en": "CONTROLS",
+    "es": "CONTROLES",
+    "fuente": "timesbd.ttf",
+    "alin": "izq",
+    "ancho_max": 143,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     512,
+     664,
+     615,
+     684
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 97,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     615,
+     664,
+     692,
+     684
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 71,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     692,
+     664,
+     768,
+     684
+    ],
+    "en": "Gun",
+    "es": "Pistola",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 70,
+    "efecto": "nada"
+   }
+  ]
+ },
+ "ui_en/tex_common/common/2d_yk_z_common_yukiyama": {
+  "fuente": "timesi.ttf",
+  "margen": 0,
+  "mediana": false,
+  "items": [
+   {
+    "caja": [
+     0,
+     550,
+     256,
+     564
+    ],
+    "en": "To Next Level",
+    "es": "Al siguiente nivel",
+    "fuente": "timesi.ttf",
+    "alin": "der",
+    "ancho_max": 150,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     564,
+     256,
+     586
+    ],
+    "en": "Weapons/Snow Gear",
+    "es": "Armas/Equipo de nieve",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     586,
+     256,
+     608
+    ],
+    "en": "Weapons",
+    "es": "Armas",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     608,
+     256,
+     630
+    ],
+    "en": "Total",
+    "es": "Total",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     724,
+     256,
+     746
+    ],
+    "en": "Items",
+    "es": "Objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     746,
+     256,
+     776
+    ],
+    "en": "Side Stories",
+    "es": "Historias secundarias",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     776,
+     256,
+     798
+    ],
+    "en": "Item Box",
+    "es": "Caja de objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     798,
+     256,
+     820
+    ],
+    "en": "Achievements",
+    "es": "Logros",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     820,
+     256,
+     842
+    ],
+    "en": "Skills",
+    "es": "Habilidades",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     842,
+     256,
+     864
+    ],
+    "en": "Snow Gear",
+    "es": "Equipo de nieve",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     864,
+     256,
+     886
+    ],
+    "en": "Inventory",
+    "es": "Inventario",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     886,
+     256,
+     908
+    ],
+    "en": "Equipment",
+    "es": "Equipo",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     908,
+     256,
+     930
+    ],
+    "en": "Accessories",
+    "es": "Accesorios",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     930,
+     256,
+     952
+    ],
+    "en": "Valuables",
+    "es": "Objetos valiosos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     952,
+     256,
+     982
+    ],
+    "en": "Status",
+    "es": "Estado",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     982,
+     256,
+     1012
+    ],
+    "en": "Select Character",
+    "es": "Seleccionar personaje",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1019,
+     112,
+     1049
+    ],
+    "en": "Graphics",
+    "es": "Gráficos",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 106,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1098,
+     78,
+     1125
+    ],
+    "en": "Audio",
+    "es": "Audio",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     534,
+     512,
+     564
+    ],
+    "en": "Ranking",
+    "es": "Clasificación",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     564,
+     512,
+     594
+    ],
+    "en": "Mission List",
+    "es": "Lista de misiones",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     594,
+     512,
+     624
+    ],
+    "en": "Abandon Expedition",
+    "es": "Abandonar expedición",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     624,
+     512,
+     654
+    ],
+    "en": "Map",
+    "es": "Mapa",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     654,
+     512,
+     684
+    ],
+    "en": "Items",
+    "es": "Objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     684,
+     512,
+     714
+    ],
+    "en": "Abilities",
+    "es": "Habilidades",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     714,
+     512,
+     744
+    ],
+    "en": "Cell Phone",
+    "es": "Celular",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     744,
+     512,
+     774
+    ],
+    "en": "Options",
+    "es": "Opciones",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     774,
+     512,
+     804
+    ],
+    "en": "Character Profiles",
+    "es": "Perfiles de personajes",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     804,
+     512,
+     834
+    ],
+    "en": "Substories",
+    "es": "Subhistorias",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     834,
+     512,
+     864
+    ],
+    "en": "Completion List",
+    "es": "Lista de logros",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     864,
+     512,
+     894
+    ],
+    "en": "Memos",
+    "es": "Memos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     894,
+     512,
+     924
+    ],
+    "en": "Change Outfit",
+    "es": "Cambiar atuendo",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     924,
+     512,
+     954
+    ],
+    "en": "Save",
+    "es": "Guardar",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     954,
+     512,
+     984
+    ],
+    "en": "Move Items",
+    "es": "Mover objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     984,
+     512,
+     1014
+    ],
+    "en": "Stats",
+    "es": "Estadísticas",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     1019,
+     363,
+     1045
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 101,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     1098,
+     405,
+     1124
+    ],
+    "en": "CONTROLS",
+    "es": "CONTROLES",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 143,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     512,
+     768,
+     534
+    ],
+    "en": "Affection",
+    "es": "Afinidad",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     534,
+     768,
+     564
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     564,
+     768,
+     584
+    ],
+    "en": "Attack",
+    "es": "Ataque",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     584,
+     768,
+     604
+    ],
+    "en": "Effectiveness",
+    "es": "Efectividad",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     604,
+     768,
+     624
+    ],
+    "en": "Durability",
+    "es": "Durabilidad",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     624,
+     768,
+     644
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     644,
+     768,
+     664
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     684,
+     768,
+     704
+    ],
+    "en": "bullet",
+    "es": "bala",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     704,
+     768,
+     764
+    ],
+    "en": "SOUL",
+    "es": "ALMA",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     764,
+     768,
+     824
+    ],
+    "en": "TECH",
+    "es": "TÉCNICA",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     824,
+     768,
+     884
+    ],
+    "en": "BODY",
+    "es": "CUERPO",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1051,
+     112,
+     1093
+    ],
+    "en": "Graphics",
+    "es": "Gráficos",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 106,
+    "efecto": "borroso",
+    "alto": 22,
+    "radio": 3
+   },
+   {
+    "caja": [
+     0,
+     1133,
+     78,
+     1171
+    ],
+    "en": "Audio",
+    "es": "Audio",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     256,
+     1053,
+     363,
+     1091
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 101,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     256,
+     1132,
+     405,
+     1170
+    ],
+    "en": "CONTROLS",
+    "es": "CONTROLES",
+    "fuente": "timesbd.ttf",
+    "alin": "izq",
+    "ancho_max": 143,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     512,
+     664,
+     615,
+     684
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 97,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     615,
+     664,
+     692,
+     684
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 71,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     692,
+     664,
+     768,
+     684
+    ],
+    "en": "Gun",
+    "es": "Pistola",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 70,
+    "efecto": "nada"
+   }
+  ]
+ },
+ "ui_en/surfboard/pjd_omiyage.par/texlist/2d_yk_z_common_kiryu": {
+  "fuente": "timesi.ttf",
+  "margen": 0,
+  "mediana": false,
+  "items": [
+   {
+    "caja": [
+     0,
+     550,
+     256,
+     564
+    ],
+    "en": "To Next Level",
+    "es": "Al siguiente nivel",
+    "fuente": "timesi.ttf",
+    "alin": "der",
+    "ancho_max": 150,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     564,
+     256,
+     586
+    ],
+    "en": "Weapons/Snow Gear",
+    "es": "Armas/Equipo de nieve",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     586,
+     256,
+     608
+    ],
+    "en": "Weapons",
+    "es": "Armas",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     608,
+     256,
+     630
+    ],
+    "en": "Total",
+    "es": "Total",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     724,
+     256,
+     746
+    ],
+    "en": "Items",
+    "es": "Objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     746,
+     256,
+     776
+    ],
+    "en": "Side Stories",
+    "es": "Historias secundarias",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     776,
+     256,
+     798
+    ],
+    "en": "Item Box",
+    "es": "Caja de objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     798,
+     256,
+     820
+    ],
+    "en": "Achievements",
+    "es": "Logros",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     820,
+     256,
+     842
+    ],
+    "en": "Skills",
+    "es": "Habilidades",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     842,
+     256,
+     864
+    ],
+    "en": "Snow Gear",
+    "es": "Equipo de nieve",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     864,
+     256,
+     886
+    ],
+    "en": "Inventory",
+    "es": "Inventario",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     886,
+     256,
+     908
+    ],
+    "en": "Equipment",
+    "es": "Equipo",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     908,
+     256,
+     930
+    ],
+    "en": "Accessories",
+    "es": "Accesorios",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     930,
+     256,
+     952
+    ],
+    "en": "Valuables",
+    "es": "Objetos valiosos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     952,
+     256,
+     982
+    ],
+    "en": "Status",
+    "es": "Estado",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     982,
+     256,
+     1012
+    ],
+    "en": "Select Character",
+    "es": "Seleccionar personaje",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1019,
+     112,
+     1049
+    ],
+    "en": "Graphics",
+    "es": "Gráficos",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 106,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1098,
+     78,
+     1125
+    ],
+    "en": "Audio",
+    "es": "Audio",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     534,
+     512,
+     564
+    ],
+    "en": "Ranking",
+    "es": "Clasificación",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     564,
+     512,
+     594
+    ],
+    "en": "Mission List",
+    "es": "Lista de misiones",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     594,
+     512,
+     624
+    ],
+    "en": "Abandon Expedition",
+    "es": "Abandonar expedición",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     624,
+     512,
+     654
+    ],
+    "en": "Map",
+    "es": "Mapa",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     654,
+     512,
+     684
+    ],
+    "en": "Items",
+    "es": "Objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     684,
+     512,
+     714
+    ],
+    "en": "Abilities",
+    "es": "Habilidades",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     714,
+     512,
+     744
+    ],
+    "en": "Cell Phone",
+    "es": "Celular",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     744,
+     512,
+     774
+    ],
+    "en": "Options",
+    "es": "Opciones",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     774,
+     512,
+     804
+    ],
+    "en": "Character Profiles",
+    "es": "Perfiles de personajes",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     804,
+     512,
+     834
+    ],
+    "en": "Substories",
+    "es": "Subhistorias",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     834,
+     512,
+     864
+    ],
+    "en": "Completion List",
+    "es": "Lista de logros",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     864,
+     512,
+     894
+    ],
+    "en": "Memos",
+    "es": "Memos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     894,
+     512,
+     924
+    ],
+    "en": "Change Outfit",
+    "es": "Cambiar atuendo",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     924,
+     512,
+     954
+    ],
+    "en": "Save",
+    "es": "Guardar",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     954,
+     512,
+     984
+    ],
+    "en": "Move Items",
+    "es": "Mover objetos",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     984,
+     512,
+     1014
+    ],
+    "en": "Stats",
+    "es": "Estadísticas",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     1019,
+     363,
+     1045
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 101,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     256,
+     1098,
+     405,
+     1124
+    ],
+    "en": "CONTROLS",
+    "es": "CONTROLES",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 143,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     512,
+     768,
+     534
+    ],
+    "en": "Affection",
+    "es": "Afinidad",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     534,
+     768,
+     564
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "timesi.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     564,
+     768,
+     584
+    ],
+    "en": "Attack",
+    "es": "Ataque",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     584,
+     768,
+     604
+    ],
+    "en": "Effectiveness",
+    "es": "Efectividad",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     604,
+     768,
+     624
+    ],
+    "en": "Durability",
+    "es": "Durabilidad",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     624,
+     768,
+     644
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     644,
+     768,
+     664
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     684,
+     768,
+     704
+    ],
+    "en": "bullet",
+    "es": "bala",
+    "fuente": "times.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     704,
+     768,
+     764
+    ],
+    "en": "SOUL",
+    "es": "ALMA",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     764,
+     768,
+     824
+    ],
+    "en": "TECH",
+    "es": "TÉCNICA",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     512,
+     824,
+     768,
+     884
+    ],
+    "en": "BODY",
+    "es": "CUERPO",
+    "fuente": "Knewave-Regular.ttf",
+    "alin": "izq",
+    "ancho_max": 250,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     1051,
+     112,
+     1093
+    ],
+    "en": "Graphics",
+    "es": "Gráficos",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 106,
+    "efecto": "borroso",
+    "alto": 22,
+    "radio": 3
+   },
+   {
+    "caja": [
+     0,
+     1133,
+     78,
+     1171
+    ],
+    "en": "Audio",
+    "es": "Audio",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     256,
+     1053,
+     363,
+     1091
+    ],
+    "en": "Controls",
+    "es": "Controles",
+    "fuente": "timesbd.ttf",
+    "alin": "centro",
+    "ancho_max": 101,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     256,
+     1132,
+     405,
+     1170
+    ],
+    "en": "CONTROLS",
+    "es": "CONTROLES",
+    "fuente": "timesbd.ttf",
+    "alin": "izq",
+    "ancho_max": 143,
+    "efecto": "borroso",
+    "alto": 19,
+    "radio": 3
+   },
+   {
+    "caja": [
+     512,
+     664,
+     615,
+     684
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 97,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     615,
+     664,
+     692,
+     684
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 71,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     692,
+     664,
+     768,
+     684
+    ],
+    "en": "Gun",
+    "es": "Pistola",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 70,
+    "efecto": "nada"
+   }
+  ]
+ },
+ "2dpar_ui_en/tex_common/keitai_pict/2d_yk_keitai_akiyama": {
+  "fuente": "times.ttf",
+  "margen": 0,
+  "mediana": false,
+  "items": [
+   {
+    "caja": [
+     2,
+     95,
+     32,
+     107
+    ],
+    "en": "Mail",
+    "es": "Tienda",
+    "fuente": "arialbd.ttf",
+    "alin": "centro",
+    "ancho_max": 30,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     36,
+     95,
+     98,
+     107
+    ],
+    "en": "Shopping",
+    "es": "por correo",
+    "fuente": "arialbd.ttf",
+    "alin": "izq",
+    "ancho_max": 60,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     187,
+     100,
+     208
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 94,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     100,
+     187,
+     180,
+     208
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 80,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     180,
+     187,
+     256,
+     208
+    ],
+    "en": "Gun",
+    "es": "Pistola",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     102,
+     212,
+     159,
+     233
+    ],
+    "en": "Attack",
+    "es": "Ataque",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 56,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     236,
+     80,
+     256
+    ],
+    "en": "Owned",
+    "es": "Adquirido",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 76,
+    "efecto": "nada"
+   }
+  ]
+ },
+ "2dpar_ui_en/tex_common/keitai_pict/2d_yk_keitai_haruka": {
+  "fuente": "times.ttf",
+  "margen": 0,
+  "mediana": false,
+  "items": [
+   {
+    "caja": [
+     2,
+     95,
+     32,
+     107
+    ],
+    "en": "Mail",
+    "es": "Tienda",
+    "fuente": "arialbd.ttf",
+    "alin": "centro",
+    "ancho_max": 30,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     36,
+     95,
+     98,
+     107
+    ],
+    "en": "Shopping",
+    "es": "por correo",
+    "fuente": "arialbd.ttf",
+    "alin": "izq",
+    "ancho_max": 60,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     187,
+     100,
+     208
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 94,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     100,
+     187,
+     180,
+     208
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 80,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     180,
+     187,
+     256,
+     208
+    ],
+    "en": "Gun",
+    "es": "Pistola",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     102,
+     212,
+     159,
+     233
+    ],
+    "en": "Attack",
+    "es": "Ataque",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 56,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     236,
+     80,
+     256
+    ],
+    "en": "Owned",
+    "es": "Adquirido",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 76,
+    "efecto": "nada"
+   }
+  ]
+ },
+ "2dpar_ui_en/tex_common/keitai_pict/2d_yk_keitai_kiryu": {
+  "fuente": "times.ttf",
+  "margen": 0,
+  "mediana": false,
+  "items": [
+   {
+    "caja": [
+     2,
+     95,
+     32,
+     107
+    ],
+    "en": "Mail",
+    "es": "Tienda",
+    "fuente": "arialbd.ttf",
+    "alin": "centro",
+    "ancho_max": 30,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     36,
+     95,
+     98,
+     107
+    ],
+    "en": "Shopping",
+    "es": "por correo",
+    "fuente": "arialbd.ttf",
+    "alin": "izq",
+    "ancho_max": 60,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     187,
+     100,
+     208
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 94,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     100,
+     187,
+     180,
+     208
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 80,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     180,
+     187,
+     256,
+     208
+    ],
+    "en": "Gun",
+    "es": "Pistola",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     102,
+     212,
+     159,
+     233
+    ],
+    "en": "Attack",
+    "es": "Ataque",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 56,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     236,
+     80,
+     256
+    ],
+    "en": "Owned",
+    "es": "Adquirido",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 76,
+    "efecto": "nada"
+   }
+  ]
+ },
+ "2dpar_ui_en/tex_common/keitai_pict/2d_yk_keitai_saejima": {
+  "fuente": "times.ttf",
+  "margen": 0,
+  "mediana": false,
+  "items": [
+   {
+    "caja": [
+     2,
+     95,
+     32,
+     107
+    ],
+    "en": "Mail",
+    "es": "Tienda",
+    "fuente": "arialbd.ttf",
+    "alin": "centro",
+    "ancho_max": 30,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     36,
+     95,
+     98,
+     107
+    ],
+    "en": "Shopping",
+    "es": "por correo",
+    "fuente": "arialbd.ttf",
+    "alin": "izq",
+    "ancho_max": 60,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     187,
+     100,
+     208
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 94,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     100,
+     187,
+     180,
+     208
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 80,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     180,
+     187,
+     256,
+     208
+    ],
+    "en": "Gun",
+    "es": "Pistola",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     102,
+     212,
+     159,
+     233
+    ],
+    "en": "Attack",
+    "es": "Ataque",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 56,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     236,
+     80,
+     256
+    ],
+    "en": "Owned",
+    "es": "Adquirido",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 76,
+    "efecto": "nada"
+   }
+  ]
+ },
+ "2dpar_ui_en/tex_common/keitai_pict/2d_yk_keitai_shinada": {
+  "fuente": "times.ttf",
+  "margen": 0,
+  "mediana": false,
+  "items": [
+   {
+    "caja": [
+     2,
+     95,
+     32,
+     107
+    ],
+    "en": "Mail",
+    "es": "Tienda",
+    "fuente": "arialbd.ttf",
+    "alin": "centro",
+    "ancho_max": 30,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     36,
+     95,
+     98,
+     107
+    ],
+    "en": "Shopping",
+    "es": "por correo",
+    "fuente": "arialbd.ttf",
+    "alin": "izq",
+    "ancho_max": 60,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     187,
+     100,
+     208
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 94,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     100,
+     187,
+     180,
+     208
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 80,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     180,
+     187,
+     256,
+     208
+    ],
+    "en": "Gun",
+    "es": "Pistola",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     102,
+     212,
+     159,
+     233
+    ],
+    "en": "Attack",
+    "es": "Ataque",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 56,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     236,
+     80,
+     256
+    ],
+    "en": "Owned",
+    "es": "Adquirido",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 76,
+    "efecto": "nada"
+   }
+  ]
+ },
+ "ui_en/tex_common/keitai_pict/2d_yk_keitai_akiyama": {
+  "fuente": "times.ttf",
+  "margen": 0,
+  "mediana": false,
+  "items": [
+   {
+    "caja": [
+     2,
+     95,
+     32,
+     107
+    ],
+    "en": "Mail",
+    "es": "Tienda",
+    "fuente": "arialbd.ttf",
+    "alin": "centro",
+    "ancho_max": 30,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     36,
+     95,
+     98,
+     107
+    ],
+    "en": "Shopping",
+    "es": "por correo",
+    "fuente": "arialbd.ttf",
+    "alin": "izq",
+    "ancho_max": 60,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     187,
+     100,
+     208
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 94,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     100,
+     187,
+     180,
+     208
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 80,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     180,
+     187,
+     256,
+     208
+    ],
+    "en": "Gun",
+    "es": "Pistola",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     102,
+     212,
+     159,
+     233
+    ],
+    "en": "Attack",
+    "es": "Ataque",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 56,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     236,
+     80,
+     256
+    ],
+    "en": "Owned",
+    "es": "Adquirido",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 76,
+    "efecto": "nada"
+   }
+  ]
+ },
+ "ui_en/tex_common/keitai_pict/2d_yk_keitai_haruka": {
+  "fuente": "times.ttf",
+  "margen": 0,
+  "mediana": false,
+  "items": [
+   {
+    "caja": [
+     2,
+     95,
+     32,
+     107
+    ],
+    "en": "Mail",
+    "es": "Tienda",
+    "fuente": "arialbd.ttf",
+    "alin": "centro",
+    "ancho_max": 30,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     36,
+     95,
+     98,
+     107
+    ],
+    "en": "Shopping",
+    "es": "por correo",
+    "fuente": "arialbd.ttf",
+    "alin": "izq",
+    "ancho_max": 60,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     187,
+     100,
+     208
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 94,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     100,
+     187,
+     180,
+     208
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 80,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     180,
+     187,
+     256,
+     208
+    ],
+    "en": "Gun",
+    "es": "Pistola",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     102,
+     212,
+     159,
+     233
+    ],
+    "en": "Attack",
+    "es": "Ataque",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 56,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     236,
+     80,
+     256
+    ],
+    "en": "Owned",
+    "es": "Adquirido",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 76,
+    "efecto": "nada"
+   }
+  ]
+ },
+ "ui_en/tex_common/keitai_pict/2d_yk_keitai_kiryu": {
+  "fuente": "times.ttf",
+  "margen": 0,
+  "mediana": false,
+  "items": [
+   {
+    "caja": [
+     2,
+     95,
+     32,
+     107
+    ],
+    "en": "Mail",
+    "es": "Tienda",
+    "fuente": "arialbd.ttf",
+    "alin": "centro",
+    "ancho_max": 30,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     36,
+     95,
+     98,
+     107
+    ],
+    "en": "Shopping",
+    "es": "por correo",
+    "fuente": "arialbd.ttf",
+    "alin": "izq",
+    "ancho_max": 60,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     187,
+     100,
+     208
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 94,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     100,
+     187,
+     180,
+     208
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 80,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     180,
+     187,
+     256,
+     208
+    ],
+    "en": "Gun",
+    "es": "Pistola",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     102,
+     212,
+     159,
+     233
+    ],
+    "en": "Attack",
+    "es": "Ataque",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 56,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     236,
+     80,
+     256
+    ],
+    "en": "Owned",
+    "es": "Adquirido",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 76,
+    "efecto": "nada"
+   }
+  ]
+ },
+ "ui_en/tex_common/keitai_pict/2d_yk_keitai_saejima": {
+  "fuente": "times.ttf",
+  "margen": 0,
+  "mediana": false,
+  "items": [
+   {
+    "caja": [
+     2,
+     95,
+     32,
+     107
+    ],
+    "en": "Mail",
+    "es": "Tienda",
+    "fuente": "arialbd.ttf",
+    "alin": "centro",
+    "ancho_max": 30,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     36,
+     95,
+     98,
+     107
+    ],
+    "en": "Shopping",
+    "es": "por correo",
+    "fuente": "arialbd.ttf",
+    "alin": "izq",
+    "ancho_max": 60,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     187,
+     100,
+     208
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 94,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     100,
+     187,
+     180,
+     208
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 80,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     180,
+     187,
+     256,
+     208
+    ],
+    "en": "Gun",
+    "es": "Pistola",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     102,
+     212,
+     159,
+     233
+    ],
+    "en": "Attack",
+    "es": "Ataque",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 56,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     236,
+     80,
+     256
+    ],
+    "en": "Owned",
+    "es": "Adquirido",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 76,
+    "efecto": "nada"
+   }
+  ]
+ },
+ "ui_en/tex_common/keitai_pict/2d_yk_keitai_shinada": {
+  "fuente": "times.ttf",
+  "margen": 0,
+  "mediana": false,
+  "items": [
+   {
+    "caja": [
+     2,
+     95,
+     32,
+     107
+    ],
+    "en": "Mail",
+    "es": "Tienda",
+    "fuente": "arialbd.ttf",
+    "alin": "centro",
+    "ancho_max": 30,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     36,
+     95,
+     98,
+     107
+    ],
+    "en": "Shopping",
+    "es": "por correo",
+    "fuente": "arialbd.ttf",
+    "alin": "izq",
+    "ancho_max": 60,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     187,
+     100,
+     208
+    ],
+    "en": "Defense",
+    "es": "Defensa",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 94,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     100,
+     187,
+     180,
+     208
+    ],
+    "en": "Blade",
+    "es": "Hoja",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 80,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     180,
+     187,
+     256,
+     208
+    ],
+    "en": "Gun",
+    "es": "Pistola",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 72,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     102,
+     212,
+     159,
+     233
+    ],
+    "en": "Attack",
+    "es": "Ataque",
+    "fuente": "times.ttf",
+    "alin": "centro",
+    "ancho_max": 56,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     0,
+     236,
+     80,
+     256
+    ],
+    "en": "Owned",
+    "es": "Adquirido",
+    "fuente": "timesbi.ttf",
+    "alin": "izq",
+    "ancho_max": 76,
+    "efecto": "nada"
+   }
+  ]
+ }
+}

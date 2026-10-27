@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_sa1",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    14,
+    155,
+    507,
+    248
+   ],
+   "en": "Who's gonna like this?",
+   "ocr": "Who'sgonnalikethis?",
+   "es": "¿A quién le va a gustar esto?",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 489
+  }
+ ]
+}

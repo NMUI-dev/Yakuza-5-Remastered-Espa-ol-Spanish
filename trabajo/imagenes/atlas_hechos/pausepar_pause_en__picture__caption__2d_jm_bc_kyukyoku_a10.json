@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_pause_en/picture/caption/2d_jm_bc_kyukyoku_a10",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    153,
+    66,
+    891,
+    188
+   ],
+   "en": "MELEE MATCH 10",
+   "ocr": "MELEE MATCH 10",
+   "es": "COMBATE CUERPO A CUERPO 10",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 734
+  }
+ ]
+}

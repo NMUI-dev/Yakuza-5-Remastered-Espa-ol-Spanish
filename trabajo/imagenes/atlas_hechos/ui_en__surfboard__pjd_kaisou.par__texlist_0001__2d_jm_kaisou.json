@@ -1,0 +1,405 @@
+{
+ "textura": "ui_en/surfboard/pjd_kaisou.par/texlist_0001/2d_jm_kaisou",
+ "fuente": "CaveatBrush-Regular.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    272,
+    40,
+    432,
+    80
+   ],
+   "en": "MEMORIES",
+   "es": "RECUERDOS",
+   "fuente": "times.ttf",
+   "efecto": "brillo",
+   "alin": "centro",
+   "ancho_max": 156,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    40,
+    256,
+    64,
+    320
+   ],
+   "en": "RTI",
+   "es": "",
+   "dejar": true,
+   "nota": "tira del .sbb sobre PART 1/2 oscuro, no es rótulo"
+  },
+  {
+   "caja": [
+    40,
+    432,
+    80,
+    509
+   ],
+   "en": "KUZA",
+   "es": "",
+   "dejar": true,
+   "nota": "tira del .sbb sobre FINALE oscuro y logo Yakuza 5, no es rótulo"
+  },
+  {
+   "caja": [
+    0,
+    256,
+    120,
+    296
+   ],
+   "en": "PART 1",
+   "es": "PARTE 1",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 116
+  },
+  {
+   "caja": [
+    120,
+    256,
+    240,
+    296
+   ],
+   "en": "PART 1",
+   "es": "PARTE 1",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 116
+  },
+  {
+   "caja": [
+    240,
+    256,
+    360,
+    296
+   ],
+   "en": "CHAPTER 1",
+   "es": "CAPÍTULO 1",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 116
+  },
+  {
+   "caja": [
+    360,
+    256,
+    480,
+    296
+   ],
+   "en": "CHAPTER 1",
+   "es": "CAPÍTULO 1",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 116
+  },
+  {
+   "caja": [
+    0,
+    296,
+    120,
+    336
+   ],
+   "en": "PART 2",
+   "es": "PARTE 2",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 116
+  },
+  {
+   "caja": [
+    120,
+    296,
+    240,
+    336
+   ],
+   "en": "PART 2",
+   "es": "PARTE 2",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 116
+  },
+  {
+   "caja": [
+    240,
+    296,
+    360,
+    336
+   ],
+   "en": "CHAPTER 2",
+   "es": "CAPÍTULO 2",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 116
+  },
+  {
+   "caja": [
+    360,
+    296,
+    480,
+    336
+   ],
+   "en": "CHAPTER 2",
+   "es": "CAPÍTULO 2",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 116
+  },
+  {
+   "caja": [
+    0,
+    336,
+    120,
+    376
+   ],
+   "en": "PART 3",
+   "es": "PARTE 3",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 116
+  },
+  {
+   "caja": [
+    120,
+    336,
+    240,
+    376
+   ],
+   "en": "PART 3",
+   "es": "PARTE 3",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 116
+  },
+  {
+   "caja": [
+    240,
+    336,
+    360,
+    376
+   ],
+   "en": "CHAPTER 3",
+   "es": "CAPÍTULO 3",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 116
+  },
+  {
+   "caja": [
+    360,
+    336,
+    480,
+    376
+   ],
+   "en": "CHAPTER 3",
+   "es": "CAPÍTULO 3",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 116
+  },
+  {
+   "caja": [
+    0,
+    376,
+    120,
+    416
+   ],
+   "en": "PART 4",
+   "es": "PARTE 4",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 116
+  },
+  {
+   "caja": [
+    120,
+    376,
+    240,
+    416
+   ],
+   "en": "PART 4",
+   "es": "PARTE 4",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 116
+  },
+  {
+   "caja": [
+    240,
+    376,
+    360,
+    416
+   ],
+   "en": "CHAPTER 4",
+   "es": "CAPÍTULO 4",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 116
+  },
+  {
+   "caja": [
+    360,
+    376,
+    480,
+    416
+   ],
+   "en": "CHAPTER 4",
+   "es": "CAPÍTULO 4",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 116
+  },
+  {
+   "caja": [
+    0,
+    416,
+    120,
+    456
+   ],
+   "en": "FINALE",
+   "es": "FINAL",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 116,
+   "estilo": {
+    "arriba": [
+     0,
+     0,
+     0
+    ],
+    "abajo": [
+     0,
+     0,
+     0
+    ],
+    "contorno": [
+     [
+      123,
+      125,
+      123
+     ],
+     1
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    120,
+    416,
+    240,
+    456
+   ],
+   "en": "FINALE",
+   "es": "FINAL",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 116
+  },
+  {
+   "caja": [
+    240,
+    416,
+    360,
+    436
+   ],
+   "en": "FINAL",
+   "es": "CAPÍTULO",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 116,
+   "alto": 17
+  },
+  {
+   "caja": [
+    240,
+    436,
+    360,
+    456
+   ],
+   "en": "CHAPTER",
+   "es": "FINAL",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 116,
+   "alto": 17
+  },
+  {
+   "caja": [
+    360,
+    416,
+    480,
+    436
+   ],
+   "en": "FINAL",
+   "es": "CAPÍTULO",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 116,
+   "alto": 17
+  },
+  {
+   "caja": [
+    360,
+    436,
+    480,
+    456
+   ],
+   "en": "CHAPTER",
+   "es": "FINAL",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 116,
+   "alto": 17
+  },
+  {
+   "caja": [
+    389,
+    4,
+    434,
+    27
+   ],
+   "en": "NEW",
+   "es": "",
+   "fuente": "FjallaOne-Regular.ttf",
+   "efecto": "brillo",
+   "alin": "centro",
+   "ancho_max": 41,
+   "color": [
+    255,
+    0,
+    0
+   ],
+   "dejar": true,
+   "nota": "NUEVO no cabe legible en 41 px"
+  }
+ ]
+}

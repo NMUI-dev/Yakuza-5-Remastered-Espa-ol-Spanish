@@ -1,0 +1,85 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_karaoke_window.par/texlist/2d_jm_mg_karaoke02",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    40,
+    128,
+    250,
+    195
+   ],
+   "en": "Sing",
+   "es": "Cantar",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 190,
+   "fondo": "lama",
+   "alto": 44,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    18,
+    352,
+    282,
+    414
+   ],
+   "en": "High Score",
+   "es": "Récord",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 236,
+   "fondo": "lama",
+   "alto": 46
+  },
+  {
+   "caja": [
+    305,
+    298,
+    378,
+    324
+   ],
+   "en": "User",
+   "es": "Usuario",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 70,
+   "fondo": "lama",
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    360,
+    445,
+    460,
+    480
+   ],
+   "en": "Back",
+   "es": "Atrás",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 96,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 22
+  }
+ ]
+}

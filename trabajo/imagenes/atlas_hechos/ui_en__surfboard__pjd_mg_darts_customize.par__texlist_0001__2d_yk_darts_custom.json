@@ -1,0 +1,72 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_darts_customize.par/texlist_0001/2d_yk_darts_custom",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    515,
+    64,
+    610,
+    84
+   ],
+   "en": "Accuracy",
+   "ocr": "Accuracy",
+   "es": "Precisión",
+   "fuente": "seguisb.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 95,
+   "alto": 19
+  },
+  {
+   "caja": [
+    515,
+    86,
+    610,
+    106
+   ],
+   "en": "Design",
+   "ocr": "Design",
+   "es": "Diseño",
+   "fuente": "seguisb.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 95,
+   "alto": 19
+  },
+  {
+   "caja": [
+    515,
+    108,
+    610,
+    128
+   ],
+   "en": "Power",
+   "ocr": "Power",
+   "es": "Potencia",
+   "fuente": "seguisb.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 95,
+   "alto": 15
+  },
+  {
+   "caja": [
+    515,
+    130,
+    625,
+    150
+   ],
+   "en": "Stability",
+   "ocr": "Stability",
+   "es": "Estabilidad",
+   "fuente": "seguisb.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 108,
+   "alto": 17
+  }
+ ]
+}

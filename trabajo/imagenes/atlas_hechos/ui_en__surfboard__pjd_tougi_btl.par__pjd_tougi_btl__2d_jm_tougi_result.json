@@ -1,0 +1,358 @@
+{
+ "textura": "ui_en/surfboard/pjd_tougi_btl.par/pjd_tougi_btl/2d_jm_tougi_result",
+ "fuente": "times.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    134,
+    4,
+    208,
+    29
+   ],
+   "en": "Round 1",
+   "es": "Ronda 1",
+   "fuente": "times.ttf",
+   "alin": "centro",
+   "ancho_max": 70,
+   "efecto": "nada",
+   "alto": 15,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    211,
+    4,
+    286,
+    29
+   ],
+   "en": "Round 2",
+   "es": "Ronda 2",
+   "fuente": "times.ttf",
+   "alin": "centro",
+   "ancho_max": 71,
+   "efecto": "nada",
+   "alto": 15,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    288,
+    4,
+    372,
+    29
+   ],
+   "en": "Final Round",
+   "es": "Ronda final",
+   "fuente": "times.ttf",
+   "alin": "centro",
+   "ancho_max": 80,
+   "efecto": "nada",
+   "alto": 15,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    376,
+    4,
+    426,
+    30
+   ],
+   "en": "Fame",
+   "es": "Fama",
+   "fuente": "times.ttf",
+   "alin": "centro",
+   "ancho_max": 46,
+   "efecto": "nada",
+   "alto": 15,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    427,
+    4,
+    497,
+    21
+   ],
+   "en": "TOTAL",
+   "es": "TOTAL",
+   "fuente": "segoeuib.ttf",
+   "alin": "izq",
+   "ancho_max": 66,
+   "efecto": "nada",
+   "alto": 11,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    427,
+    21,
+    497,
+    40
+   ],
+   "en": "RESULT",
+   "es": "RESULTADO",
+   "fuente": "segoeuib.ttf",
+   "alin": "izq",
+   "ancho_max": 66,
+   "efecto": "nada",
+   "alto": 11,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    51,
+    36,
+    96,
+    59
+   ],
+   "en": "NEXT",
+   "es": "SIG.",
+   "fuente": "segoeui.ttf",
+   "alin": "centro",
+   "ancho_max": 41,
+   "efecto": "nada",
+   "alto": 11,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    130,
+    43,
+    203,
+    69
+   ],
+   "en": "Results",
+   "es": "Resultados",
+   "fuente": "times.ttf",
+   "alin": "centro",
+   "ancho_max": 69,
+   "efecto": "nada",
+   "alto": 16,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    173,
+    79,
+    222,
+    103
+   ],
+   "en": "TIME",
+   "es": "TIEMPO",
+   "fuente": "segoeuib.ttf",
+   "alin": "centro",
+   "ancho_max": 45,
+   "efecto": "nada",
+   "alto": 12,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    229,
+    44,
+    292,
+    70
+   ],
+   "en": "Rating",
+   "es": "Nota",
+   "fuente": "times.ttf",
+   "alin": "centro",
+   "ancho_max": 58,
+   "efecto": "nada",
+   "alto": 18,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    240,
+    116,
+    328,
+    140
+   ],
+   "en": "Excitement",
+   "es": "Emoción",
+   "fuente": "times.ttf",
+   "alin": "izq",
+   "ancho_max": 84,
+   "efecto": "nada",
+   "alto": 14,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    240,
+    136,
+    288,
+    160
+   ],
+   "en": "Level",
+   "es": "Nivel",
+   "fuente": "times.ttf",
+   "alin": "izq",
+   "ancho_max": 44,
+   "efecto": "nada",
+   "alto": 14,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    130,
+    176,
+    258,
+    224
+   ],
+   "en": "LEVEL (halo)",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    144,
+    212,
+    230,
+    237
+   ],
+   "en": "LEVEL",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    236,
+    212,
+    290,
+    237
+   ],
+   "en": "UP",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    467,
+    189,
+    512,
+    222
+   ],
+   "en": "KO",
+   "es": "K.O.",
+   "fuente": "segoeuib.ttf",
+   "alin": "centro",
+   "ancho_max": 41,
+   "efecto": "estilo",
+   "alto": 20,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     2
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    336,
+    218,
+    410,
+    244
+   ],
+   "en": "Results",
+   "es": "",
+   "fuente": "times.ttf",
+   "alin": "centro",
+   "ancho_max": 70,
+   "efecto": "nada",
+   "alto": 16,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "dejar": true
+  },
+  {
+   "caja": [
+    422,
+    229,
+    512,
+    252
+   ],
+   "en": "Semifinals",
+   "es": "Semifinales",
+   "fuente": "times.ttf",
+   "alin": "centro",
+   "ancho_max": 86,
+   "efecto": "nada",
+   "alto": 14,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  }
+ ]
+}

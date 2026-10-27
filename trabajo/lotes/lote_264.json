@@ -1,0 +1,807 @@
+[
+{
+"id": 54998,
+"en": "<Color:255,200,200,255>Hmm, so not everythin' goes accordin' to some master plan of yers, huh, Akiyama-san?<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 54999,
+"en": "Of course not. If I could do that, then I'd be like the Buddha keeping the Monkey King trapped in the palm of his hand.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55000,
+"en": "<Color:255,200,200,255>It's amazin' you can make a reference like that off the top a' yer head!<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55001,
+"en": "That's going too far. Even I can't make other people do what I want them to.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55002,
+"en": "<Color:255,200,200,255>For real? What if you're sayin' that just to throw me off guard?<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55003,
+"en": "Well, actually... Haha, you got me.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55004,
+"en": "<Color:255,200,200,255>Hey, that's a nasty thing to joke about! Now I feel like whatever I say, I'm playin' right into yer hand.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55005,
+"en": "<Color:255,200,200,255>All righty, I'm gonna do whatever I can to not get pulled off course by you! I won't listen to anythin' ya gotta say!<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55006,
+"en": "Well, that puts a bit of a damper on things.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55007,
+"en": "You're reading into it too much. I swear I have no such intentions.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55008,
+"en": "<Color:255,200,200,255>Really? Then I'm just overthinkin' things? That kinda feels like a shame.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55009,
+"en": "Why? You said you didn't like other people getting their way with you. You should be happy.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55010,
+"en": "<Color:255,200,200,255>Well, I...<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55011,
+"en": "Wait, are you saying you might want me to have even more of a sway over you?",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55012,
+"en": "<Color:255,200,200,255>No, I don't! You're a jerk, Akiyama-san!<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55013,
+"en": "Yikes, I guess you're in denial...",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55014,
+"en": "You like it, don't you?",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55015,
+"en": "<Color:255,200,200,255>Maybe! How could ya tell?<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55016,
+"en": "People who usually have self-confidence get bothered when things don't go their way.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55017,
+"en": "If they can acknowledge that the other person has the upper hand, it can lead to respect. They might even learn to like them.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55018,
+"en": "<Color:255,200,200,255>Wow, I see! I guess if I got played to that degree, I might not be that mad!<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55019,
+"en": "<Color:255,200,200,255>Akiyama-san, can I ask ya somethin' real quick?<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55020,
+"en": "<Color:255,200,200,255>Do ya frequent any other clubs?<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55021,
+"en": "Yeah. I'm not exactly from here, so when I'm in Tokyo, I go drinking at clubs out there too.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55022,
+"en": "<Color:255,200,200,255>That makes sense...<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55023,
+"en": "No. Lately I've only been coming here.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55024,
+"en": "<Color:255,200,200,255>That's good to hear!<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55025,
+"en": "<Color:255,200,200,255>Okay, mind if I ask ya one other thing?<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55026,
+"en": "Whatever you want to know.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55027,
+"en": "Okay, but just one more.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55028,
+"en": "<Color:255,200,200,255>So, uh, Akiyama-san... Do you, uh, have a girlfriend?<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55029,
+"en": "<Color:255,200,200,255>Ah, okay. I kinda figured. You're a pretty attractive guy, Akiyama-san.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55030,
+"en": "But it shouldn't matter that I do, right? That doesn't change anything between us.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55031,
+"en": "<Color:255,200,200,255>But I don't want things to stay the same...<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55032,
+"en": "<Color:255,200,200,255>Uh, I mean, who me!? I didn't say nothin'!<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55033,
+"en": "I heard you. Pretty clearly actually. About things not staying the same?",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55034,
+"en": "<Color:255,200,200,255>God, you're such a meanie, Akiyama-san! I said I didn't say nothin'!<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55035,
+"en": "I didn't hear anything. Did you say something?",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55036,
+"en": "<Color:255,200,200,255>Liar! That's what ya'd say if ya <Italic>did</Italic> hear!<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55037,
+"en": "I mean it. Why don't you try saying it again?",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55038,
+"en": "<Color:255,200,200,255>No, ya dummy! I'm not sayin' a thing! Yer bein' such a meanie!<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55039,
+"en": "I don't. And at my age, admitting I'm single isn't something I say proudly.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55040,
+"en": "<Color:255,200,200,255>Oh, okay! So, then whaddya think of me?<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55041,
+"en": "What!? Do I have to answer?",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55042,
+"en": "<Color:255,200,200,255>Yeah!<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55043,
+"en": "Oh, geez...",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55044,
+"en": "I said just one more question.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55045,
+"en": "<Color:255,200,200,255>What? C'mon, this one only!<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55046,
+"en": "Nope. Sorry. You should have asked that first.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55047,
+"en": "<Color:255,200,200,255>You're terrible, Akiyama-san! It took a lotta guts for me to ask ya that!<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55048,
+"en": "That's a secret. And guys who have secrets are more attractive.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55049,
+"en": "<Color:255,200,200,255>What're ya talkin' about? You just said ya'd tell me whatever I wanted to know!<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55050,
+"en": "<Color:255,200,200,255>So, c'mon! Out with it!<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55051,
+"en": "<Color:255,200,200,255>What're ya talkin' about? C'mon, whaddya think of me?<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55052,
+"en": "Nope, I said just one more question.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55053,
+"en": "<Color:255,200,200,255>I... But ya haven't answered anythin'! Ya can't pull that!<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55054,
+"en": "I never promised I'd answer anything.",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55055,
+"en": "<Color:255,200,200,255>You're a jerk, Akiyama-san! And after I got my courage up to ask ya in the first place.<Color:Default>",
+"ctx": "diálogo uid01340021"
+},
+{
+"id": 55056,
+"en": "Hey, is it just me, or are there a lot of foreigners here in Osaka?",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55057,
+"en": "It's not just you. Apparently, Osaka has the most foreigners anywhere in Japan.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55058,
+"en": "Well, I'll be. I never had that impression before coming here, so I'm pretty surprised.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55059,
+"en": "I've never really thought about it myself, but now that ya mention it, I do get a lotta foreign customers. Some of the girls on staff are from abroad too.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55060,
+"en": "Really? It can't be the most in all Japan. I figured there'd be more in Roppongi or something.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55061,
+"en": "How am I s'posed to know? I'm just sayin' that's what I heard.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55062,
+"en": "Well, either way, there are clearly enough that would make the rumor appear true.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55063,
+"en": "Osakans are outgoin' folks who'll make friends with anyone, so maybe it's easy for foreigners to settle down here?",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55064,
+"en": "I see. That's pretty different. People in Tokyo don't care that much for strangers and make outsiders feel unwelcome.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55065,
+"en": "People from Tokyo may as well be foreigners, as far as I'm concerned.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55066,
+"en": "For starters, I usually don't understand what they're sayin' anyways.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55067,
+"en": "Well, then. Does that mean you don't really understand what I'm saying?",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55068,
+"en": "Hmm. I get maybe like half of it?",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55069,
+"en": "We Osakans listen just enough to latch onto the interestin' bits of what you're sayin'! Forget the rest.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55070,
+"en": "But I'm the kind of guy who goes out of his way to explain things, so I'm a bit shocked.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55071,
+"en": "Sure you do! They still speak Japanese.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55072,
+"en": "Nuh-uh. They get caught up on the meanin' of words and get all argumentative. I don't like listenin' to that sorta thing.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55073,
+"en": "How should they speak, then?",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55074,
+"en": "They oughta speak in more plain terms, and just keep the words comin', like this.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55075,
+"en": "Well, at least the nuance comes across.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55076,
+"en": "That's hard on Japanese people. We don't all speak good English, so how are we supposed to communicate?",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55077,
+"en": "You don't gotta worry about that. Ya just gotta say, \"How ya doin'?\" and then leave the rest to hand signals and body language.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55078,
+"en": "You just call out to people like that? That takes no small amount of courage.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55079,
+"en": "It's just the way it is. When Tokyo folk see foreigners in trouble, they pretend not to see 'em, right? Here in Osaka, we try to be more helpful.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55080,
+"en": "I see. I could probably stand to learn from that spirit of openness.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55081,
+"en": "Can they understand you?",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55082,
+"en": "They understand well enough.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55083,
+"en": "Well enough, huh? Right.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55084,
+"en": "Whatever you're sayin', they can mostly get the meanin' from yer attitude. Just smile after you're done.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55085,
+"en": "Either way, when I'm talkin' to someone like that, I look at their face and try to guess where they're from.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55086,
+"en": "That's pretty slow on the uptake! Most people would realize right away!",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55087,
+"en": "How can ya really know? If someone looks Indian to me and they say they like curry, I'll ask 'em if they're Indian and they'll say, \"No, I'm Brazilian.\"",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55088,
+"en": "And all the while I thought the person was Japanese. Brazilian, and likes curry! What're the chances?",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55089,
+"en": "Haha! That's a double surprise.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55090,
+"en": "I really like the cityscape of Sotenbori. There's something nice about having a river run right through the middle of the city.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55091,
+"en": "Really now? It's just a dirty ol' river.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55092,
+"en": "Is it? Heck, take one look at it! Ya must have a habit of livin' in real dirty places, Akiyama-san.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55093,
+"en": "I can't really deny that.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55094,
+"en": "That's not my point. It makes the city feel alive. Places that have pristine water are in the mountain wilderness, with no urban life to speak of.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55095,
+"en": "Well, I s'pose so.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55096,
+"en": "The river looks just the way it should for the greatest pleasure district in Kansai.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55097,
+"en": "I want to dive into it. It seems poetically fitting, given that we're coming up on the end of the year, don't you think?",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55098,
+"en": "Eww, no! You might find that fun, but other folks would think you're an idiot. You could hit yer head and die, ya know.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55099,
+"en": "Is it that terrible an idea?",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55100,
+"en": "This may just be me, but I'd find things more convenient without the river. Havin' to only cross at the bridges is kind of a big pain.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55101,
+"en": "How can you say that? That's one of the big symbols of the city.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55102,
+"en": "If ya want symbols, we've got plenty of big, gaudy, glowin' signs.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55103,
+"en": "They do stand out. That strength of self-assertiveness is part of the Osaka vibe.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55104,
+"en": "Yep! Nobody knows how to catch yer attention like the shops of Osaka!",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55105,
+"en": "I could learn from them. How about a cabaret club you can spot from one hundred meters away? That would be the talk of the town.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55106,
+"en": "Good idea! And you could have a sign to show who the number one girl a' the month was, too! Like, check out this girl right here!",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55107,
+"en": "Oh, that's a great idea! I'm going to use that.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55108,
+"en": "Just make sure ya pay me royalties!",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55109,
+"en": "Hah! You drive a hard bargain.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55110,
+"en": "That isn't all. The signs are just flashy in order to get customers in, right? What's more important is the service you get when you're there.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55111,
+"en": "Ya got it backwards. Of course the service is gonna be good, so ya gotta find other ways to distinguish yourself.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55112,
+"en": "But there's always going to be a trade-off, depending on which you go with. If you focus on how things look outside, you'll neglect what's inside.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55113,
+"en": "Hmph. You're a stubborn fella. I guess that's why the streets in Tokyo are so drab.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55114,
+"en": "Diversity is what makes our country great after all.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55115,
+"en": "It's like a theme park, like those ones with old Edo or German themes.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55116,
+"en": "Oh, I like that! I'm a huge fan of theme parks. I wish we could make Sotenbori into one!",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55117,
+"en": "And you could shoot off flashy fireworks every night.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55118,
+"en": " If we did that, I'd never be in the club. I'd go outside to watch the fireworks all the time!",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55119,
+"en": "Hey, now. We can't let the staff get distracted.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55120,
+"en": "They aren't really that unusual.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55121,
+"en": "Really? Ya think so?",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55122,
+"en": "I mean, they're very Osakan, sure. But they fit in with the city, so they don't really stand out that much.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55123,
+"en": "If you want to talk weird and unusual, I think someplace like Akihabara is far more shocking.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55124,
+"en": "I feel like ya wounded my hometown pride a little...",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55125,
+"en": "They're not just gaudy, they're strange. They're something unique, even in Japan.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55126,
+"en": "I kinda like that! We're the only one and we're number one!",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55127,
+"en": "You can't really be number one if there's no one else competing...",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55128,
+"en": "All of this was normal for me growin' up, so it's hard for me to tell what shops there are when I'm goin' around Tokyo.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55129,
+"en": "There are lots of places here where I can't tell that either.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55130,
+"en": "There are a lot of strong-willed girls here in Osaka, aren't there?",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55131,
+"en": "What? That ain't true.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55132,
+"en": "Sure it is.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55133,
+"en": "Nah, you're talkin' about girls from soap operas and manga books. I don't like hearin' ya stereotype us as bein' headstrong.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55134,
+"en": "Sorry. Did I offend you?",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55135,
+"en": "It's okay. We Osakan girls are big-hearted after all, so I can't be all that mad.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55136,
+"en": "It's not just a stereotype. I've actually met girls who are like that.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55137,
+"en": "I mean, I guess some girls are like that. But I wouldn't say that we're all that strong-willed.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55138,
+"en": "It's not just some girls. I feel like all the girls I've met here have been like that.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55139,
+"en": "Maybe that's just a coincidence. There are a lotta girls here in Osaka, y'know.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55140,
+"en": "You're just in denial.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55141,
+"en": "What's wrong with me tellin' ya you're wrong?",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55142,
+"en": "I bet the girls you're talkin' about are all older ladies, huh?",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55143,
+"en": "Yeah, the older women here sure seem tough.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55144,
+"en": "Well, girls and older women ain't the same thing, so don't lump 'em together.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55145,
+"en": "That's true. My mistake.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55146,
+"en": "I'm glad ya finally understand!",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55147,
+"en": "Older ladies here in Osaka can be pretty darn scary. A younger gal like me could never hold her own against one of 'em.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55148,
+"en": "Scary in what sense?",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55149,
+"en": "They wear this garish leopard print, and talk real loud. They can't stand bein' shown up and they never wanna admit they're wrong.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55150,
+"en": "That is scary. Even I have to muster up the courage to strike up a conversation with them.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55151,
+"en": "Aren't ya happier gettin' to talk to a cute and ladylike girl instead?",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55152,
+"en": "Should you be saying that about yourself?",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55153,
+"en": "Like you?",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55154,
+"en": "No, not like me! Were ya even listenin'? I'm not anythin' like an older woman!",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55155,
+"en": "No, I think you hit the nail right on the head.",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55156,
+"en": "I don't wear leopard print! Have ya seen what I normally wear?",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55157,
+"en": "What does wearing leopard print have to do with being strong-willed?",
+"ctx": "diálogo uid01340022"
+},
+{
+"id": 55158,
+"en": "Hey, don't change the subject! We're talkin' about whether I'm an old lady or not!",
+"ctx": "diálogo uid01340022"
+}
+]

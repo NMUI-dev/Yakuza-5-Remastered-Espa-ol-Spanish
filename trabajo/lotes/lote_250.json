@@ -1,0 +1,1072 @@
+[
+{
+"id": 52402,
+"en": "<Color:255,200,200,255>Hmm. Okay then.<Color:Default>",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52403,
+"en": "I try not to overthink it. I don't like the idea of pigeonholin' people. Yer you, and that's that.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52404,
+"en": "<Color:255,200,200,255>Hehe, that answer is so fitting of you.<Color:Default>",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52405,
+"en": "I don't understand the question.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52406,
+"en": "<Color:255,200,200,255>Like... Do you like me?<Color:Default>",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52407,
+"en": "How about you? Whaddya think of me?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52408,
+"en": "<Color:255,200,200,255>I... Well, of course I like you.<Color:Default>",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52409,
+"en": "<Color:255,200,200,255>But if you're dodging the question like that, you probably don't like me.<Color:Default>",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52410,
+"en": "<Color:255,200,200,255>Even if I like someone, I don't ever feel like devoting myself to them.<Color:Default>",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52411,
+"en": "<Color:255,200,200,255>So even if I do wind up really liking someone, I have to assume they won't like me back.<Color:Default>",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52412,
+"en": "Yer an odd duck.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52413,
+"en": "<Color:255,200,200,255>I am well aware of that fact.<Color:Default>",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52414,
+"en": "But that don't mean ya gotta do whatever the other person wants. I like a woman who sticks to her guns.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52415,
+"en": "<Color:255,200,200,255>I'm relieved to hear that!<Color:Default>",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52416,
+"en": "Ya don't gotta do nothing. Guys feel good just knowin' they've got a woman at home waitin' for 'em.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52417,
+"en": "<Color:255,200,200,255>Really?<Color:Default>",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52418,
+"en": "Yeah. Havin' someone waitin' for you to come home every day gives ya strength to fight on.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52419,
+"en": "<Color:255,200,200,255>Hmm. I am pretty good at waiting around!<Color:Default>",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52420,
+"en": "Tell ya what. If ya promise to wait for me, I promise I'll come back to you.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52421,
+"en": "<Color:255,200,200,255>All right!<Color:Default>",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52422,
+"en": "<Color:255,200,200,255>But you still haven't actually answered my original question, Saejima-san.<Color:Default>",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52423,
+"en": "Oh, I haven't?",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52424,
+"en": "<Color:255,200,200,255>So what is it?<Color:Default>",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52425,
+"en": "I like ya. I especially like how yer a sharper cookie than ya let on.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52426,
+"en": "<Color:255,200,200,255>Wait, what's that supposed to mean?<Color:Default>",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52427,
+"en": "Ya asked your question, that's my answer.",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52428,
+"en": "<Color:255,200,200,255>Hey, no fair! You're not leaving until I get an answer out of you!<Color:Default>",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52429,
+"en": "<Color:255,200,200,255>That's all you have to say, after all that?<Color:Default>",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52430,
+"en": "<Color:255,200,200,255>But that is so you, Saejima-san.<Color:Default>",
+"ctx": "diálogo uid01340003"
+},
+{
+"id": 52431,
+"en": "Hello there.",
+"ctx": "diálogo uid01340004 + diálogo uid01340024"
+},
+{
+"id": 52432,
+"en": "Well? Isn't she hot? Kaguya-chan here is 26 years old, a Scorpio, and her blood type is A. She has a younger sister, and she watches martial arts!",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52433,
+"en": "So, I came here to enjoy a sweet evening with Kaguya-chan.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52434,
+"en": "Saejima-san, welcome! Thank you for requesting me!",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52435,
+"en": "You came to see me? Oh, let me guess. Am I growing on you?",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52436,
+"en": "Saejima-san, I've been waiting for you! I'm looking forward to today!",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52437,
+"en": "Nice to meet you. I'm Kaguya.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52438,
+"en": "Here, this is my business card.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52439,
+"en": "<Color:8>\n<Color:Default>",
+"ctx": "diálogo uid01340004 + diálogo uid01340015 …"
+},
+{
+"id": 52440,
+"en": "You got a business card.",
+"ctx": "diálogo uid01340004 + diálogo uid01340030 …"
+},
+{
+"id": 52441,
+"en": "(This girl is just like Himura said. Guess he's not completely fulla bull.)",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52442,
+"en": "May I ask your name?",
+"ctx": "diálogo uid01340004 + diálogo uid01340035"
+},
+{
+"id": 52443,
+"en": "Saejima-san, it's a pleasure!",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52444,
+"en": "Same.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52445,
+"en": "Thank you coming to see me all the time!",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52446,
+"en": "Just for you, Saejima-san!",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52447,
+"en": "You smell good! That's so sexy, Saejima-san! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52448,
+"en": "Ooh, fancy! You're pulling off that outfit better than I would have expected, Saejima-san! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52449,
+"en": "Your outfit today looks good on you. I really like it! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52450,
+"en": "Wearing the usual, I see.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52451,
+"en": "Your fashion sense is very, uh, original.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52452,
+"en": "Whoa, what's the deal with that outfit? If you didn't have anything to wear, maybe it would be better for you to stay at home, you know?",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52453,
+"en": "This is an error.",
+"ctx": "diálogo uid01340004 + diálogo uid01340015 …"
+},
+{
+"id": 52454,
+"en": "What would you like to order?",
+"ctx": "diálogo uid01340004 + diálogo uid01340035"
+},
+{
+"id": 52455,
+"en": "I'll have this.",
+"ctx": "diálogo uid01340004 + diálogo uid01340015 …"
+},
+{
+"id": 52456,
+"en": "Oh, are you sure?",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52457,
+"en": "Oh, wow! You're so generous, Saejima-san!",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52458,
+"en": "Gold champagne, please!",
+"ctx": "diálogo uid01340004 + diálogo uid01340024"
+},
+{
+"id": 52459,
+"en": "Oh, feel like trying your luck?",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52460,
+"en": "All right. We'll keep a bottle for you, Saejima-san.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52461,
+"en": "One bottle for storage, please!",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52462,
+"en": "Sure thing. A house bottle it is.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52463,
+"en": "Could ya fetch me my bottle?",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52464,
+"en": "Do you mind if I have some, too?",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52465,
+"en": "Yay! Cheers!",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52466,
+"en": "Oh. Okay...",
+"ctx": "diálogo uid01340004 + diálogo uid01340021"
+},
+{
+"id": 52467,
+"en": "Your glass is empty. Would you like something?",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52468,
+"en": "Do you mind if I have another glass?",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52469,
+"en": "(Damn, I don't got the cash.)",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52470,
+"en": "No can do.",
+"ctx": "diálogo uid01340004 + frase de acompañante/calle STID_ST_OSAKA"
+},
+{
+"id": 52471,
+"en": "Can I have another drink?",
+"ctx": "diálogo uid01340004 + diálogo uid01340035"
+},
+{
+"id": 52472,
+"en": "I'm kinda hungry.",
+"ctx": "diálogo uid01340004 + diálogo uid01340024"
+},
+{
+"id": 52473,
+"en": "What would you like?",
+"ctx": "diálogo uid01340004 + diálogo uid01340030"
+},
+{
+"id": 52474,
+"en": "Oh hey, you like that too? <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52475,
+"en": "You actually like that? I guess our tastes are pretty different.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52476,
+"en": "Okay, maybe some other time.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52477,
+"en": "Hey, want to play the chocolate stick game?",
+"ctx": "diálogo uid01340004 + diálogo uid01340035"
+},
+{
+"id": 52478,
+"en": "Here, let me feed it to you. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52479,
+"en": "Say what now!?",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52480,
+"en": "Over here, please!",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52481,
+"en": "I'll fix your drink.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52482,
+"en": "Here you are!",
+"ctx": "diálogo uid01340004 + diálogo uid01340024 …"
+},
+{
+"id": 52483,
+"en": "You're quite a big drinker!",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52484,
+"en": "Let me refill your glass for you.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52485,
+"en": "Thank you for coming! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid01340004 + diálogo uid01340030"
+},
+{
+"id": 52486,
+"en": "I gotta get goin'.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52487,
+"en": "Why don't you go and kill time somewhere? I'll be in touch with you later.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52488,
+"en": "All right, I'll get you your check.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52489,
+"en": "Check, please!",
+"ctx": "diálogo uid01340004 + diálogo uid01340015 …"
+},
+{
+"id": 52490,
+"en": "Oh, you're leaving already?",
+"ctx": "diálogo uid01340004 + diálogo uid01340030"
+},
+{
+"id": 52491,
+"en": "(Oops, I don't got the cash on me.)",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52492,
+"en": "No, I gotta get goin'.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52493,
+"en": "(Guess I've run outta stuff to talk about. I oughta be on my way.)",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52494,
+"en": "Wanna go on a date after this?",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52495,
+"en": "I already told you, no. Geez, you're a nag.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52496,
+"en": "Ask all you want, but the answer's still no!",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52497,
+"en": "Guess ya really mean it.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52498,
+"en": "After my shift, you mean?",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52499,
+"en": "Sorry, Saejima-san, I already have plans today. But please ask me again sometime.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52500,
+"en": "No problem. I understand.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52501,
+"en": "Yeah, I don't know. I'm not really in the mood today.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52502,
+"en": "Okay. Maybe next time.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52503,
+"en": "I'm sorry, but I feel like we should get to know each other better first.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52504,
+"en": "Hmm. Okay, but just for a little bit.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52505,
+"en": "Heh. Glad I asked.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52506,
+"en": "You want to go out with me that badly? Okay, just for a little bit.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52507,
+"en": "Sure, I've been wanting to spend more time with you too, Saejima-san.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52508,
+"en": "Of course I do! I'd never say no to you, Saejima-san!",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52509,
+"en": "Yeah, okay. Sometimes it's nice to get out and walk around a bit.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52510,
+"en": "I love it! You know me so well, Saejima-san!",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52511,
+"en": "Wow, really!? I've been wanting one of these! Thank you!",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52512,
+"en": "Are you sure? I'll take good care of it!",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52513,
+"en": "Oh, thanks.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52514,
+"en": "What the heck is this? I'm not sure what I'd even need this for.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52515,
+"en": "Huh? This again?",
+"ctx": "diálogo uid01340004 + diálogo uid01340024"
+},
+{
+"id": 52516,
+"en": "I don't really need more than one of these.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52517,
+"en": "Maybe you'd like to come see me again, Saejima-san?",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52518,
+"en": "Sure, I'll ask for ya next time I come in.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52519,
+"en": "You really mean it!? I'll be waiting!",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52520,
+"en": "Thanks for coming today! See you later!",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52521,
+"en": "Yeah, see ya.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52522,
+"en": "Hehe! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid01340004 + diálogo uid01340024 …"
+},
+{
+"id": 52523,
+"en": "I had so much fun today!",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52524,
+"en": "See you later! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52525,
+"en": "You bet.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52526,
+"en": "I wonder what you'll get!",
+"ctx": "diálogo uid01340004 + diálogo uid01340030 …"
+},
+{
+"id": 52527,
+"en": "Fingers crossed...",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52528,
+"en": "You won <Color:8>Toughness Infinity<Color:Default>!",
+"ctx": "diálogo uid01340004 + diálogo uid01340015 …"
+},
+{
+"id": 52529,
+"en": "Oh, one of those. We see them a lot.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52530,
+"en": "That's no good. Maybe I oughta try again.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52531,
+"en": "You won <Color:8>French Cologne<Color:Default>!",
+"ctx": "diálogo uid01340004 + diálogo uid01340015 …"
+},
+{
+"id": 52532,
+"en": "You won <Color:8>Staminan Spark<Color:Default>!",
+"ctx": "diálogo uid01340004 + diálogo uid01340015 …"
+},
+{
+"id": 52533,
+"en": "Oh, that one's not so bad.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52534,
+"en": "There's all kindsa things in here, huh?",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52535,
+"en": "You won <Color:8>Goddess of Children Amulet<Color:Default>!",
+"ctx": "diálogo uid01340004 + diálogo uid01340015 …"
+},
+{
+"id": 52536,
+"en": "You won <Color:8>Monogrammed Bag<Color:Default>!",
+"ctx": "diálogo uid01340004 + diálogo uid01340015 …"
+},
+{
+"id": 52537,
+"en": "Oh wow, that's pretty rare!",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52538,
+"en": "Heh, that's great.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52539,
+"en": "You won <Color:8>Italian Women's Watch<Color:Default>!",
+"ctx": "diálogo uid01340004 + diálogo uid01340015 …"
+},
+{
+"id": 52540,
+"en": "You won <Color:8>Mystery Stone<Color:Default>!",
+"ctx": "diálogo uid01340004 + diálogo uid01340015 …"
+},
+{
+"id": 52541,
+"en": "You won <Color:8>Swiss Watch<Color:Default>!",
+"ctx": "diálogo uid01340004 + diálogo uid01340015 …"
+},
+{
+"id": 52542,
+"en": "Whoa! You hit the jackpot! Way to go, Saejima-san! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52543,
+"en": "Heh, guess it was worth it.",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52544,
+"en": "You won <Color:8>Platinum Membership Card<Color:Default>!",
+"ctx": "diálogo uid01340004 + diálogo uid01340015 …"
+},
+{
+"id": 52545,
+"en": "Chocolate stick game time!",
+"ctx": "diálogo uid01340004"
+},
+{
+"id": 52546,
+"en": "Champagne time!",
+"ctx": "diálogo uid01340004 + diálogo uid01340024 …"
+},
+{
+"id": 52547,
+"en": "Champagne tower, please!",
+"ctx": "diálogo uid01340004 + diálogo uid01340015 …"
+},
+{
+"id": 52548,
+"en": "The snow festival sure is somethin', ain't it? I had no idea this many tourists came to see it.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52549,
+"en": "It's quite impressive, yes! I'm impressed by the people who make those things, and those who come out to look at them in this freezing cold.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52550,
+"en": "I hear that. I carve wooden dolls myself, but carvin' ice like that looks like no easy task.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52551,
+"en": "Really? I don't know much about that sort of thing. You're much more knowledgeable than me!",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52552,
+"en": "The cold gives it more meanin'. Folks put up with the cold to see a piece a' art that disappears when it gets warmer.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52553,
+"en": "Wow, you really like this sort of thing, don't you? I wouldn't have ever guessed!",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52554,
+"en": "Have ya ever made anything yerself?",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52555,
+"en": "Never. I mean, I've built snowmen when I was little, but...",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52556,
+"en": "Yeah, ya don't strike me as a kid who'd go outside to play.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52557,
+"en": "That has nothing to do with it. Sure, people from Tokyo get excited when it snows because it doesn't happen often there.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52558,
+"en": "But for people from Hokkaido, it's not really a fun time for us when it snows. It's a huge pain to have to go shovel it all the time.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52559,
+"en": "I get ya. I hear sometimes the snow piles up as high as a two-story house. I suppose that ain't somethin' to be happy about.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52560,
+"en": "Yes. It would be nicer to visit as a tourist.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52561,
+"en": "Ya gotta have a sense of fun. If ya don't look forward to somethin' like the festival, winter would suck every year.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52562,
+"en": "But it does suck! We're not talking about nice, fluttery snow, either! We're talking blizzards here!",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52563,
+"en": "Yer exaggeratin'. It ain't like you're up in the mountains.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52564,
+"en": "Don't underestimate the snow in Hokkaido! It gets pretty intense. If you lived here, you'd understand real quick.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52565,
+"en": "So whaddya do when it snows? Stay inside curled up on yer futon?",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52566,
+"en": "No, the heating in my house is turned up so high it's actually hot inside!",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52567,
+"en": "Really now? When I think of Hokkaido, I think of folks bein' bundled up in warm clothes.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52568,
+"en": "Not at all! I'm fine wearing a T-shirt. I don't even wear any clothes at home.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52569,
+"en": "I... Wow.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52570,
+"en": "Ya oughta save electricity. It's wasteful.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52571,
+"en": "What? But if I don't keep the heater on, I'm gonna freeze!",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52572,
+"en": "Then just turn it down a degree or two. Energy conservation is important.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52573,
+"en": "But it's not like I'm being wasteful. We honestly wouldn't be able to live here without the heat being that high.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52574,
+"en": "Guess I should start callin' ya sweetie-pie, since ya practically live in an oven.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52575,
+"en": "That's a good one! If I had your sense of humor, winter would be much more bearable.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52576,
+"en": "Heh. Maybe.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52577,
+"en": "Hokkaido sure is big. There's so much to see outside of Tsukimino. I don't think I'll be able to see it all.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52578,
+"en": "I know. Even I haven't been to that many places.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52579,
+"en": "I mean, I go to Otaru once in a while. Oh, and I went to Hakodate once on a school field trip.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52580,
+"en": "That's all? I suppose folks from here would rather go to Tokyo or Okinawa or somethin'.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52581,
+"en": "Yeah, we don't vacation within Hokkaido much.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52582,
+"en": "Ya oughta get out more. You should know 'bout the place yer from.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52583,
+"en": "But it's so big I don't think of the whole place as my home. Even in Tokyo, anything outside the 23 wards might as well be another prefecture.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52584,
+"en": "I guess so. I dunno western Tokyo all that well.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52585,
+"en": "How about Abashiri?",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52586,
+"en": "Abashiri? Where that prison is?",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52587,
+"en": "Yeah. Ever been there?",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52588,
+"en": "I haven't, no. Is there anything there other than the prison?",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52589,
+"en": "Lemme think... They've got Nipopo dolls.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52590,
+"en": "Oh? What are those?",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52591,
+"en": "Nipopo dolls. They're a local Abashiri craft.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52592,
+"en": "Wow, really? I didn't know about those. You sure know a lot about Abashiri, Saejima-san!",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52593,
+"en": "Anyway, there's really no reason to go to another city if you're in Sapporo. And outside of Tsukimino, there's not much else in the rest of Sapporo either.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52594,
+"en": "I see. Guess Tsukimino's the only place to go for fun. Where do folks in the suburbs go to drink?",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52595,
+"en": "Oh, we have plenty of customers who take the train to come all the way here to Tsukimino!",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52596,
+"en": "Interestin'. It's almost like a mini-vacation.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52597,
+"en": "Yeah, all they have are regular bars out there, so if they want the company of a girl while they're drinking, they have no choice but to come here.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52598,
+"en": "Hm. So Tsukimino is like a hub for the people of Hokkaido.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52599,
+"en": "Yer kiddin'. There's gotta be places to drink without comin' all the way to Tsukimino.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52600,
+"en": "There really aren't though.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52601,
+"en": "There was a medical conference in Sapporo a while back. Hundreds of doctors came from across the country, and they all came to Tsukimino.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52602,
+"en": "Yep. All the clubs were packed. The streets were overflowing with people who couldn't get in anywhere.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52603,
+"en": "Wow. Guess there really isn't anywhere else to drink...",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52604,
+"en": "That means there's plenty of nature. Not only is there no greenery in Tokyo, there's so many buildings that sometimes ya can't even see the sky.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52605,
+"en": "That's just another way of saying there's nothing here.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52606,
+"en": "Well, what's wrong with that? Livin' in Kamurocho, ya'd think the air was nothin' but car exhaust. The air in Tsukimino's much cleaner.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52607,
+"en": "We're not out in the sticks, you know! Do you think we're in some mountain village?",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52608,
+"en": "Ya know, I get the feelin' that the women around here got kinda huge breasts.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52609,
+"en": "What? Really?",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52610,
+"en": "For sure. The women I see 'round town tend to have pretty big ones, I tell ya.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52611,
+"en": "I see you're into checking out things like that, Saejima-san!",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52612,
+"en": "Am I wrong? Maybe it's just me.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52613,
+"en": "I've never heard anyone say so before. I think it may be wishful thinking.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52614,
+"en": "Maybe I'm imaginin' things. Or maybe the women here just give off that kind of vibe.",
+"ctx": "diálogo uid0134000c"
+},
+{
+"id": 52615,
+"en": "I do hear that we have very white skin sometimes. I guess there is a lot of fair-skinned girls around here.",
+"ctx": "diálogo uid0134000c"
+}
+]

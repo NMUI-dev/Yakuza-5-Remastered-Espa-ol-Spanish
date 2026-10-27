@@ -1,0 +1,218 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_fishing.par/texlist/2d_yk_mg_fishing",
+ "fuente": "segoeuiz.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    870,
+    0,
+    974,
+    30
+   ],
+   "en": "PRESS",
+   "es": "PRESIONA",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 102,
+   "alto": 19
+  },
+  {
+   "caja": [
+    8,
+    138,
+    186,
+    184
+   ],
+   "en": "HIT!",
+   "es": "¡PICA!",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 176,
+   "alto": 44
+  },
+  {
+   "caja": [
+    190,
+    138,
+    388,
+    184
+   ],
+   "en": "MISS!",
+   "es": "¡FALLO!",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 194,
+   "alto": 44
+  },
+  {
+   "caja": [
+    394,
+    138,
+    692,
+    184
+   ],
+   "en": "HOOKED!",
+   "es": "¡ENGANCHADO!",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 294,
+   "alto": 44
+  },
+  {
+   "caja": [
+    16,
+    185,
+    688,
+    232
+   ],
+   "en": "CONGRATULATIONS!",
+   "es": "¡FELICIDADES!",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 668,
+   "alto": 42
+  },
+  {
+   "caja": [
+    21,
+    254,
+    681,
+    297
+   ],
+   "en": "CONGRATULATIONS!",
+   "es": "¡FELICIDADES!",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 656,
+   "alto": 42
+  },
+  {
+   "caja": [
+    0,
+    312,
+    262,
+    343
+   ],
+   "en": "Release reel (normal speed)",
+   "es": "Soltar carrete (vel. normal)",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 256,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 24
+  },
+  {
+   "caja": [
+    262,
+    312,
+    482,
+    343
+   ],
+   "en": "Reel in (normal speed)",
+   "es": "Recoger carrete (vel. normal)",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 216,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 24
+  },
+  {
+   "caja": [
+    0,
+    344,
+    262,
+    373
+   ],
+   "en": "Release reel (double-speed)",
+   "es": "Soltar carrete (vel. doble)",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 256,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 24
+  },
+  {
+   "caja": [
+    262,
+    344,
+    482,
+    373
+   ],
+   "en": "Reel in (double-speed)",
+   "es": "Recoger carrete (vel. doble)",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 216,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 24
+  },
+  {
+   "caja": [
+    0,
+    375,
+    262,
+    404
+   ],
+   "en": "Release reel (normal speed)",
+   "es": "Soltar carrete (vel. normal)",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 256,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 24
+  },
+  {
+   "caja": [
+    262,
+    375,
+    482,
+    404
+   ],
+   "en": "Reel in (normal speed)",
+   "es": "Recoger carrete (vel. normal)",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 216,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 24
+  }
+ ]
+}

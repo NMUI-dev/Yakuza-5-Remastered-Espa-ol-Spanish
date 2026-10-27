@@ -1,0 +1,827 @@
+[
+{
+"id": 21561,
+"en": "Thank you. But is your back okay?",
+"ctx": "diálogo uid000c0c5d"
+},
+{
+"id": 21562,
+"en": "Watchin' you hard at work made me forget all about it. I feel right as rain now. Ahaha!",
+"ctx": "diálogo uid000c0c5d"
+},
+{
+"id": 21563,
+"en": "That's good, I guess.",
+"ctx": "diálogo uid000c0c5d"
+},
+{
+"id": 21564,
+"en": "Sure...",
+"ctx": "diálogo uid000c0c5d + diálogo uid013302da …"
+},
+{
+"id": 21565,
+"en": "Give my regards to the chief, too, eh? See ya!",
+"ctx": "diálogo uid000c0c5d"
+},
+{
+"id": 21566,
+"en": "Sorry about that. I hope I at least gave your back some more time to recover.",
+"ctx": "diálogo uid000c0c5d"
+},
+{
+"id": 21567,
+"en": "I guess I was so hyped up watchin' ya work that I forgot about it. I'm all better now! Ahaha!",
+"ctx": "diálogo uid000c0c5d"
+},
+{
+"id": 21568,
+"en": "Good for you.",
+"ctx": "diálogo uid000c0c5d"
+},
+{
+"id": 21569,
+"en": "Give the chief a holler for me too, okay? See ya!",
+"ctx": "diálogo uid000c0c5d"
+},
+{
+"id": 21570,
+"en": "You can now play the ramen minigame anytime by entering the ramen stall.",
+"ctx": "diálogo uid000c0c5d"
+},
+{
+"id": 21571,
+"en": "We live at the Café Portugal building over on Nagasu Boulevard. Mom and dad should be working there right now.",
+"ctx": "diálogo uid000c0c63"
+},
+{
+"id": 21572,
+"en": "Portugal, huh? All right. I'll bring your dad over right away.",
+"ctx": "diálogo uid000c0c63"
+},
+{
+"id": 21573,
+"en": "Excuse me. This is Café Portugal, right? Are you Haruka's father?",
+"ctx": "diálogo uid000c0c64"
+},
+{
+"id": 21574,
+"en": "You've seen my daughter!? She ran off and hasn't come home!",
+"ctx": "diálogo uid000c0c64"
+},
+{
+"id": 21575,
+"en": "I know. I actually saw her not too long ago. I can take you\nto where she is, if you'd like.",
+"ctx": "diálogo uid000c0c64"
+},
+{
+"id": 21576,
+"en": "Of course! Lead the way!",
+"ctx": "diálogo uid000c0c64"
+},
+{
+"id": 21577,
+"en": "Ugh, how am I supposed to practice these questions without the answer book? I'm screwed!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21578,
+"en": "If only someone could help me solve them...!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21579,
+"en": "Excuse me, sir? Yes, you! You haven't seen my answer book, have you? It's one of those study guides with questions and answers from past exams. I think I dropped it somewhere!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21580,
+"en": "You did what?",
+"ctx": "diálogo uid000c0c6b + diálogo uid010c0b62"
+},
+{
+"id": 21581,
+"en": "Oh, I'm in deep doo-doo now! Without those answers I'm as good as dead! Why does this sort of thing always happen to me!?",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21582,
+"en": "You're not making any sense. Calm down and explain yourself.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21583,
+"en": "Okay, well, you see, I have a practice exam today. To help me prepare for actual entrance exams.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21584,
+"en": "So I wanted to study up on some questions for the college I want to get into... But I lost the freaking answer book!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21585,
+"en": "And if I don't know the answers, there's no point in looking at these old questions! It'd be a complete waste of time!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21586,
+"en": "But you've been studying hard up until now, right? What difference will a little more right before the exam make?",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21587,
+"en": "It makes all the difference to me! If I don't cram before an exam, I'll panic and draw a complete blank!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21588,
+"en": "I thought taking a practice test would help boost my confidence... But at this rate, the actual one will be a disaster!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21589,
+"en": "I can't afford to take another year off to study if I don't pass. All my hard work would go down the drain!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21590,
+"en": "Gah, what a mess! I even got up early to go buy a good luck charm to boost my literary luck... But the only thing that got boosted was my propensity for failure!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21591,
+"en": "No, wait... I think I get it now!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21592,
+"en": "I was carrying the answer book in my hands when I went to the shrine. I must have dropped it when I bought that charm!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21593,
+"en": "That's it! I bet I'm getting punished for putting off my visit to the shrine too long!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21594,
+"en": "Don't be ridiculous. It wasn't the shrine that did this to you, it was your own carelessness.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21595,
+"en": "Hey, I don't need any more guilt on my shoulders right now! Are you trying to give me a mental block? I'll start forgetting all the stuff I learned!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21596,
+"en": "Sounds like you've got some deeper issues to worry about than this one test, then.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21597,
+"en": "What? Are you saying there's something wrong with <Italic>me</Italic>!? Well, this is just who I am!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21598,
+"en": "Argh, but what am I supposed to do!? I don't have time to go back to the shrine... If only someone could help me solve these questions!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21599,
+"en": "Not me. You still have some time before your test, though. I'm sure you can think of something.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21600,
+"en": "You mean, use my brain? Aw crap, it's all over!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21601,
+"en": "What if I helped you?",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21602,
+"en": "Huh? And how do you intend to do that?",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21603,
+"en": "Isn't it obvious? Show me the questions, and I'll tell you the answers. Then you won't need that book.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21604,
+"en": "That's your plan!? You think a guy like you can just waltz in and start answering college entrance exam questions!?",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21605,
+"en": "Hey, don't assume things before you give me a chance. Come on, show me those questions.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21606,
+"en": "Fine. I really doubt you can help, but it's not like I have any other options.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21607,
+"en": "(Let's see... First up is English vocabulary.)",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21608,
+"en": "Question:\nThe spider uses a unique method of locomotion.\nWhat does <Color:220,255,255,255>\"locomotion\"<Color:Default> mean in this sentence?",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21609,
+"en": "The answer is attack.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21610,
+"en": "Really? Are you sure about that? How do you even break down the word locomotion anyway?",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21611,
+"en": "It's simple. Loco means crazy, and motion means movement. Put them together and you get \"crazy moves,\" like a spider suddenly lunging at its prey.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21612,
+"en": "The answer is movement.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21613,
+"en": "Locomotion means movement, or the ability to move from one place to another. There's nothing else it could be.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21614,
+"en": "Hey, I think you're right! It's all starting to come back to me... Yeah, that's gotta be it!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21615,
+"en": "These entrance exams seem pretty easy to me.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21616,
+"en": "Wow, you're actually pretty smart! Do you think you could help me with a few more of these?",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21617,
+"en": "Sure. Ask away.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21618,
+"en": "Okay, next up, there's a math problem!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21619,
+"en": "The answer is dance.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21620,
+"en": "What's important is there was a song about it. It was pretty big back in the day... Maybe you're too young to know.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21621,
+"en": "The answer is train riding.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21622,
+"en": "Really? Are you sure about that?",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21623,
+"en": "I'm positive. It's fallen out of use these days, but that's what everyone used to call trains.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21624,
+"en": "The answer is spinning.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21625,
+"en": "Those spiders have some crazy organ in their abdomen that gives them the power to spin webs. Trust me, that has to be it.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21626,
+"en": "Hmm... I don't know, that sounds wrong to me.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21627,
+"en": "Well, I gave you my answer, and I'm sticking with it.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21628,
+"en": "Wow, you seem pretty confident. Maybe you're right after all!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21629,
+"en": "See, I've got the answers up here. All you need to do is ask.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21630,
+"en": "Okay, next up there's a math problem!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21631,
+"en": "(Of course there would be a math question. Hope I can figure it out.)",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21632,
+"en": "Question:\nWhat is the probability of getting a total of 7 when rolling 2 dice?",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21633,
+"en": "The answer is 1 in 6.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21634,
+"en": "Really? Are you sure? Let me see... To get 7 with 2 dice, that means a 1 and a 6, or a 2 and 5... Like that, right?",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21635,
+"en": "So there's 1 plus 6, 2 plus 5, 3 plus 4, 4 plus 3, 5 plus 2, and 6 plus 1. That's 6 possible combinations.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21636,
+"en": "And for 2 dice, there are a total of 6 times 6, or 36 combinations. So a 6 in 36 chance makes it... 1 in 6!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21637,
+"en": "You had it right! The correct answer <Italic>is</Italic> 1 in 6!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21638,
+"en": "Just as I thought.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21639,
+"en": "Wow, you seriously know your stuff! This is great! Who needs the answer book when I've got you? Okay, next up is a history question!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21640,
+"en": "The answer is 7 in 36.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21641,
+"en": "The answer is 1 in 2.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21642,
+"en": "The answer is 1 in 3.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21643,
+"en": "The answer is 5 in 12.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21644,
+"en": "Really? Are you sure? Hmm... That doesn't quite seem to fit.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21645,
+"en": "Hey, there are five possible answers, right? So I've got a 1 in 5 chance of being correct.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21646,
+"en": "Well yeah, but what's that gotta do with it?",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21647,
+"en": "I've been up against worse odds than that before. Life or death situations, no less.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21648,
+"en": "And yet I'm still here in one piece, aren't I? Don't you trust me to give you the right answer?",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21649,
+"en": "Hmm... That does make sense in a way. Your answer is probably right, then!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21650,
+"en": "Then let's move on to the next question. Your exam is coming up soon.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21651,
+"en": "Right! Okay, next up is Japanese history!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21652,
+"en": "(Maybe in a past life I'd have known more about our history. Oh well, let's give this a shot.)",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21653,
+"en": "Question: Which United States Naval officer commanded ships in the War of 1812, and was instrumental in the \"opening of Japan\" to the West in the 1850s?",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21654,
+"en": "The answer is Commodore Perry.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21655,
+"en": "Oh, you know what? That actually jogged my memory just now. I think you might be right!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21656,
+"en": "Yeah. Before Commodore Perry came along, Japan was almost completely shut off to the rest of the world. It's hard to think that was only a century and a half ago...",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21657,
+"en": "You got that right. But enough thinking about the past! Next up, we've got physics!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21658,
+"en": "The answer is Commodore Tokugawa.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21659,
+"en": "The answer is Commodore Amigo.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21660,
+"en": "The answer is Commodore Smith.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21661,
+"en": "The answer is Commodore Johnson.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21662,
+"en": "Hmm, I'm not sure you're right. I could have sworn it was Commodore Perry...",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21663,
+"en": "Hard to say for sure. It's not like either one of us was there to see it with our own eyes.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21664,
+"en": "We all have to come up with our own answers for what happened back before we were born. And there's no room for doubt.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21665,
+"en": "I'm not sure what that means, but it sounded pretty cool! Okay, I won't doubt you again!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21666,
+"en": "We have to live in the moment and keep moving forward. So let's move on to the next question.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21667,
+"en": "Okay, then! Next up is a physics question.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21668,
+"en": "(Physics? This could be tricky.)",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21669,
+"en": "Question: What do you call the energy that an object possesses based on its mass and its height above the Earth's surface?",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21670,
+"en": "The answer is gravitational potential energy.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21671,
+"en": "All right! That's what I was gonna guess!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21672,
+"en": "Yeah, it seems to be the only one that makes sense. After all, science is a field of study that centers around discerning the facts from the lies.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21673,
+"en": "Well said! You're certainly no liar yourself!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21674,
+"en": "Okay, what's the next problem?",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21675,
+"en": "So this is the last one, and⑬wouldn't you know it⑬we're back at English!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21676,
+"en": "The answer is electrical energy.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21677,
+"en": "The answer is thermal energy.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21678,
+"en": "The answer is kinetic energy.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21679,
+"en": "The answer is magnetic energy.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21680,
+"en": "Hmm. I don't understand how you reached that conclusion. How is this not gravitational potential energy?",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21681,
+"en": "Listen, I'm not one to go back on any answer I give. I'm sure the early pioneers in physics felt exactly the same.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21682,
+"en": "They never let common sense hold them back. Instead they constantly questioned things, even if it caused them to end up as outcasts.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21683,
+"en": "You may be right there. They do always say those famous physicists were way ahead of their time. But they always stuck to their guns!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21684,
+"en": "Right. It all comes down to what you believe in. And studying is one of many ways to increase your capacity for learning, which in turn helps you choose what to believe.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21685,
+"en": "Mm, I get you... In fact, I believe you! Man, I have a lot to learn.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21686,
+"en": "Now, it's time for the last question. Ready for English round two?",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21687,
+"en": "(English again? Hopefully I'll get it right.)",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21688,
+"en": "Question: English often borrows phrases from Latin, a language from which it was heavily influenced. What does the Latin phrase <Italic>carpe diem</Italic> mean?",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21689,
+"en": "The answer is \"seize the day.\"",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21690,
+"en": "Seize the day? ...Oh, yeah! I've heard that one before!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21691,
+"en": "It's all coming back to me! That's the answer, all right!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21692,
+"en": "The answer is \"good idea.\"",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21693,
+"en": "The answer is \"fish today.\"",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21694,
+"en": "The answer is \"cheap carpet.\"",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21695,
+"en": "The answer is \"underground parking.\"",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21696,
+"en": "I've got to admit, I have no idea what the answer is. They all look right to me.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21697,
+"en": "\"Carpe diem... carpe diem...\"",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21698,
+"en": "The words may be unfamiliar, but by speaking them out loud, you get a sense of the meaning.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21699,
+"en": "So... you just went with your gut?",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21700,
+"en": "Absolutely. That's why I have faith in my answer.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21701,
+"en": "Wow... I've learned a lot from you today. I guess you really do need to be confident in your decisions.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21702,
+"en": "I've never really been that mentally strong. That's why I always mess up in exams.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21703,
+"en": "The more I think about a question, the less sure I get about the answer, so I just move on to the next one. That basically sums up my life.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21704,
+"en": "Well, the right answer will always become clear eventually. When you're in the moment, you just have to believe in yourself and what you're doing.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21705,
+"en": "You know what, you're totally right! Everything is much clearer now. I think I've got a chance at passing the practice exam today!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21706,
+"en": "I think you're good to go. You look like a completely different person from before.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21707,
+"en": "You think so? Thank you!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21708,
+"en": "Sure. Are you good on time? The exam will be starting soon, won't it?",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21709,
+"en": "Oh, yeah! I'll let you know how it went after I take it. Can't thank you enough, sir!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21710,
+"en": "Hey, guess what?",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21711,
+"en": "(Oh, it's that prep student from before. Looks like the exam is over.)",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21712,
+"en": "I finished the practice exam!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21713,
+"en": "Uh-huh. And how do you feel about it?",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21714,
+"en": "It's strange... The exact same questions we were practicing came up again!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21715,
+"en": "They did? Huh... What are the odds.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21716,
+"en": "Yeah, so I aced the whole thing! I don't know how to thank you. I feel like I'm ready to take on the actual test now!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21717,
+"en": "Really... Does that mean all the answers I gave you were right?",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21718,
+"en": "It sure does! Man, if it wasn't for you, I wouldn't have stood a chance.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21719,
+"en": "But that's not all. I feel like today, you taught me something more important than what the right answers were. You taught me how to answer in general.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21720,
+"en": "I did?",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21721,
+"en": "Yeah, it's like you said. \"The right answer will always become clear eventually.\" That advice helped me stay calm and get through the rest of the test.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21722,
+"en": "I get the feeling I'm a lot stronger mentally now. I think I'll do fine on the real exam... and in life!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21723,
+"en": "That's good to hear. I'm glad I was able to help.",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21724,
+"en": "Um... This isn't much, but I'd like you to have it as a token of my thanks!",
+"ctx": "diálogo uid000c0c6b"
+},
+{
+"id": 21725,
+"en": "You got an <Color:8>Alertness Hood<Color:Default>.",
+"ctx": "diálogo uid000c0c6b"
+}
+]

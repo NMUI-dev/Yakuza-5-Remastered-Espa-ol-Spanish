@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_a9",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    115,
+    161,
+    418,
+    256
+   ],
+   "en": "Aki-nyan's going all out!",
+   "ocr": "Aki-nyans goingallout!",
+   "es": "¡Aki-nyan va con todo!",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 303
+  }
+ ]
+}

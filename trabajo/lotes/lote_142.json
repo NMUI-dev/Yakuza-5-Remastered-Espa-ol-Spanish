@@ -1,0 +1,852 @@
+[
+{
+"id": 32055,
+"en": "Actually, I know so, because I'm the same way. I have a hard\ntime finding something to talk about with other people, but\nnot with you.",
+"ctx": "diálogo uid004901dd"
+},
+{
+"id": 32056,
+"en": "Aw, Yui-chan!",
+"ctx": "diálogo uid004901dd"
+},
+{
+"id": 32057,
+"en": "You shouldn't have to work so hard to keep up with others,\nright? All you should have to do is be yourself.",
+"ctx": "diálogo uid004901dd"
+},
+{
+"id": 32058,
+"en": "I like you just the way you are. That's the Haruka-chan I\nwant to be friends with.",
+"ctx": "diálogo uid004901dd"
+},
+{
+"id": 32059,
+"en": "You really like me just the way I am?",
+"ctx": "diálogo uid004901dd"
+},
+{
+"id": 32060,
+"en": "Just the way you are!",
+"ctx": "diálogo uid004901dd"
+},
+{
+"id": 32061,
+"en": "Hehe. I'm so glad I ran into you, Yui-chan! If I hadn't,\nI would've been feeling pretty down right about now.",
+"ctx": "diálogo uid004901dd"
+},
+{
+"id": 32062,
+"en": "By the way, you are a regular high school girl, you know.\nThat's how I think of you anyway. You're not just some\nfamous idol. You're you!",
+"ctx": "diálogo uid004901dd"
+},
+{
+"id": 32063,
+"en": "Thank you, Yui-chan. You really cheered me up!",
+"ctx": "diálogo uid004901dd"
+},
+{
+"id": 32064,
+"en": "Well, I guess you're probably all full now, but, next time,\nlet's go get some okonomiyaki together, you and me!",
+"ctx": "diálogo uid004901dd"
+},
+{
+"id": 32065,
+"en": "Hehe. Yeah, that sounds great!",
+"ctx": "diálogo uid004901dd"
+},
+{
+"id": 32066,
+"en": "You got 2,900 experience points.",
+"ctx": "diálogo uid004901dd"
+},
+{
+"id": 32067,
+"en": "Hey there, friend! Come on over and have a look at our shop!\nGot appliances by the truck load goin' for shockingly cheap\nprices!",
+"ctx": "diálogo uid004901e1"
+},
+{
+"id": 32068,
+"en": "Appliances, you say? What've you got?",
+"ctx": "diálogo uid004901e1"
+},
+{
+"id": 32069,
+"en": "What've we got, he asks. Why, we have everything except\nwhat we don't!",
+"ctx": "diálogo uid004901e1"
+},
+{
+"id": 32070,
+"en": "Haha, got me there. Sure, I'll take a look around.",
+"ctx": "diálogo uid004901e1"
+},
+{
+"id": 32071,
+"en": "How about a flat screen TV? The picture's amazin'⑬you can\nsee the pores on the actresses' faces! This latest model's\ngoin' for just 200,000 yen!",
+"ctx": "diálogo uid004901e1"
+},
+{
+"id": 32072,
+"en": "200,000 yen, huh? I guess the office could use a TV.",
+"ctx": "diálogo uid004901e1"
+},
+{
+"id": 32073,
+"en": "For just 10,000 yen more, I'll throw in a three-year\nextended warranty. Make it 20,000 more, and I'll stretch the warranty to a full ten years.",
+"ctx": "diálogo uid004901e1"
+},
+{
+"id": 32074,
+"en": "Do you deliver?",
+"ctx": "diálogo uid004901e1"
+},
+{
+"id": 32075,
+"en": "We most certainly do! For just 30,000 yen more, I'll drive\nit there myself right now. Now, will that be cash, credit,\nor payment plan?",
+"ctx": "diálogo uid004901e1"
+},
+{
+"id": 32076,
+"en": "Whaddya want, lady? Keep your nose outta our business!",
+"ctx": "diálogo uid004901e1"
+},
+{
+"id": 32077,
+"en": "Mister, you're from Tokyo, ain't ya? Don't go shoppin' at a\nplace like this with your wallet hangin' open. You almost\ngot robbed blind.",
+"ctx": "diálogo uid004901e1"
+},
+{
+"id": 32078,
+"en": "Oh, now what the hell, lady? Stop spoutin' nonsense. You're\nkillin' my sales!",
+"ctx": "diálogo uid004901e1"
+},
+{
+"id": 32079,
+"en": "Pfft, a TV these days won't set ya back 200,000. There's\nplenty to be had for a lot less.",
+"ctx": "diálogo uid004901e1"
+},
+{
+"id": 32080,
+"en": "I can't bear to watch someone get fleeced like this. C'mon!\nWe're goin'!",
+"ctx": "diálogo uid004901e1"
+},
+{
+"id": 32081,
+"en": "Uh, okay...",
+"ctx": "diálogo uid004901e1 + diálogo uid016901f9"
+},
+{
+"id": 32082,
+"en": "What's the matter with you? You failed miserably!",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32083,
+"en": "I shoulda just gone shoppin' myself.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32084,
+"en": "I'm sorry. I guess it was tougher than I thought.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32085,
+"en": "That's okay, dear. It was a tall order for a Tokyo boy. I'll\ngive ya this for makin' the effort, at least.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32086,
+"en": "You got a candy.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32087,
+"en": "Never forget to hone your hagglin' skills! Farewell!",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32088,
+"en": "Ya done well, dear! To be honest, I didn't think ya had it\nin you!",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32089,
+"en": "I had a good teacher. It was a real education to say the\nleast.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32090,
+"en": "Oh, and thanks for doin' my shopping. Truth be told, none of\nthe shops around here deal with me anymore. I've haggled 'em\ndown too much.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32091,
+"en": "So thanks to you, I got my shoppin' done with a nice, deep\ndiscount. Thank you, dear!",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32092,
+"en": "Wait, so you're saying you used me to get a discount?",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32093,
+"en": "Come now, why the long face? Here, maybe this'll cheer you\nup.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32094,
+"en": "You got <Color:8>Fitness Gear<Color:Default>.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32095,
+"en": "Hey, how are ya? Mister, you happened by at the right time.\nWe got our goin' outta business sale goin' on right now.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32096,
+"en": "How about a pair of red high heels?",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32097,
+"en": "Ah, let me see... Yes, yes, we got some. This a gift for a\nlady friend or somethin'?",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32098,
+"en": "Well, actually, it feels more like an errand for my mom...",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32099,
+"en": "Okay, well, they're retail priced at 15,000 yen, but I'll\nlet 'em go for 4,200.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32100,
+"en": "Wow. From 15,000 all the way down to 4,200? That's quite the\nprice cut.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32101,
+"en": "Forget about quality, we're all about the lowest price.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32102,
+"en": "Admirable of you. Your honesty's impressive.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32103,
+"en": "(4,200 yen. Take thirty percent off and I end up with 2,940 yen as my target. Still, it's going to be tough to bargain him down when it's this cheap to begin with.)",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32104,
+"en": "Can you go a little lower on the price?",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32105,
+"en": "Not satisfied, huh? You won't find any one in town with a\nbetter price.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32106,
+"en": "I'd have to agree with you.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32107,
+"en": "Only purebred Osaka women try bargainin' with me. Show a\nlittle heart and lay off this old man, all right?",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32108,
+"en": "(Doesn't seem to be much room for negotiation.)",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32109,
+"en": "Has this shop been here a long time?",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32110,
+"en": "We started right after the war, so well over half a century\nnow. But I'm leanin' towards shuttin' it down for good.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32111,
+"en": "Oh, yeah. You said you're holding a going out of business\nsale, isn't that right?",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32112,
+"en": "Well, the closin' sale's been goin' for the last ten years,\nbut that's more to show our customers we're serious about\nservin' 'em.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32113,
+"en": "We're not worried about bein' a healthy, money-makin'\nbusiness anymore. Our prices are pretty much cost.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32114,
+"en": "Definitely seems that way.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32115,
+"en": "How can you afford such low prices? I mean, how does your\nbusiness manage to stay afloat?",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32116,
+"en": "Oh, I have my tricks. One gets friends and such that'll\nget ya through the years.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32117,
+"en": "Interesting. I imagine you've got a whole collection of\ntricks up your sleeve when you master a business like this.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32118,
+"en": "Well, ya might say that. But there's no need to stand around\nand listen to an old man reminisce. You young folk have\npeople to see, things to do, and whatnot.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32119,
+"en": "Oh, no, as a businessman myself, hearing your story's\nactually quite educational.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32120,
+"en": "That so? Warms my heart hearin' that. Seems these days, no\none has time for this old man.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32121,
+"en": "Tell ya what, I'll give you a break on the price. How's\n2,000 yen sound to ya?",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32122,
+"en": "(He'll go down that far in one jump!? He's already gone way\npast thirty percent off. What should I do?)",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32123,
+"en": "All right. I'll take them.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32124,
+"en": "That'll be 2,000 yen. Appreciate your business.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32125,
+"en": "You got a pair of red high heels.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32126,
+"en": "(Whoa, he gave me a bigger deal than I hoped for. I bought\neverything I needed for under 10,000 yen, too.)",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32127,
+"en": "Hm? Short on funds, are you? Can't help you there. I am\nrunnin' a business here, you know.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32128,
+"en": "Rats...",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32129,
+"en": "That'll be 4,200 yen. Appreciate your business.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32130,
+"en": "(I managed to get everything for under 10,000 yen, so this\nworked out great.)",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32131,
+"en": "Can you take it down to 4,000 yen at least?",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32132,
+"en": "4,000 yen? Hmm... All right. I can do that.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32133,
+"en": "You got guts, friend. I can live with 4,000 yen.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32134,
+"en": "That'll be 4,000 yen. Appreciate your business.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32135,
+"en": "I've got to hand it to you⑬you're an exemplary merchant.\nI'll bet I could learn a lot from you.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32136,
+"en": "You don't say? Well, there's no need to stand around and\nlisten to an old man reminisce. You young folk have\npeople to see, things to do, and whatnot.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32137,
+"en": "Hm? You know, these shoes are looking a bit scuffed. Think\nyou can give me a little more of a break for that?",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32138,
+"en": "Scuffed? Really?",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32139,
+"en": "Lemme see... Oh, would you look at that? The last zero on\nthe price tag was faded.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32140,
+"en": "That was close⑬these ain't 4,200 yen, they're 42,000. The\nmanufacturer's retail price was 150,000 yen, you see.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32141,
+"en": "Argue with me all ya want, but I can't go down from there.\nSo what'll it be? Ya either buy or ya don't, one or the\nother.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32142,
+"en": "It's really too bad. That's way out of my budget.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32143,
+"en": "That is too bad. But what can ya do?",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32144,
+"en": "How about taking it right down to an even 1,000 yen?",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32145,
+"en": "Well, I'd like to do that for ya, I really would. But these\nheels ain't so shoddy that I'd sell 'em for that cheap.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32146,
+"en": "Take a look here, ya can't get this kinda quality for that\nkinda price. And now that I think about it...",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32147,
+"en": "2,000 yen's too low. I can't let ya have these for any less\nthan 4,000.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32148,
+"en": "You're kidding!",
+"ctx": "diálogo uid004901e3 + diálogo uid010c0889"
+},
+{
+"id": 32149,
+"en": "You can argue all you want, but I can't go any lower. That's\nall the negotiatin' I'm willin' to put up with. It's your\ncall now.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32150,
+"en": "All right. I'll take them...",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32151,
+"en": "Hello, hello, welcome. Anything I can help you find?",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32152,
+"en": "A leopard-print skirt, actually.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32153,
+"en": "Ah, you have good taste. I have just the thing in your size.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32154,
+"en": "Oh, no, it's not for me...",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32155,
+"en": "Oho, I'm only jokin'! Just a little poke in the ribs, you\nsilly man.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32156,
+"en": "A leopard-print skirt? I do have one. It's 3,000 yen. Will that be all right?",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32157,
+"en": "(3,000 yen. Take thirty percent off that and I end up with 2,100 yen as my target price.)",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32158,
+"en": "Think you can go a little lower? Though I imagine you\nalready took some off.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32159,
+"en": "Oh, looking to haggle, is he? For such a handsome man,\nyou're surprisingly sly.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32160,
+"en": "Okay, you put in the effort, so I'll give ya a break.\nHow's 2,800?",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32161,
+"en": "2,800 yen? A guy swallows his pride and asks for a deal, but\n200's the most you're willing to take off?",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32162,
+"en": "Oh my, not above a little self-pity, are you? Well, will\n2,700 yen puff up that bruised pride of yours?",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32163,
+"en": "3,000 yen's a little tough on my budget, if I'm being honest.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32164,
+"en": "What's your budget, dear?",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32165,
+"en": "Well, uh... The most I can afford is 2,000 yen.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32166,
+"en": "2,000!? Now that's an insult. I don't sell anythin' near\nthat cheap or shoddy.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32167,
+"en": "I... I suppose not.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32168,
+"en": "Honestly, the best I can do is 2,700 yen. You may have a\ntight budget, but ya gotta negotiate within reason.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32169,
+"en": "Um, pardon me for asking, but were you ever an actress?",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32170,
+"en": "Huh? What kinda question is that? You think layin' on the\nsweet talk'll get you a better price?",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32171,
+"en": "Not at all. It's just you're so timelessly beautiful, I\nnearly forgot I was out shopping.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32172,
+"en": "Oh, you! I bet you're sayin' that everywhere ya go and\nbreakin' all the girls' hearts, you lady-killer, you!",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32173,
+"en": "Oh, you're a good one, all right. Okay, then. I'll drop the\nprice down to 2,700.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32174,
+"en": "2,700 yen...?",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32175,
+"en": "Ooh, stop it! Don't look at me that way! Oh, you naughty\nboy! 2,500, then!",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32176,
+"en": "(The target's 2,100 yen. Can she take another nudge?)",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32177,
+"en": "All right. I'll take it.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32178,
+"en": "Okay, that's 2,700 yen. Come again!",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32179,
+"en": "You got a leopard-print skirt.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32180,
+"en": "(2,700 yen means I only got a 10%% discount. I compromised\ntoo much. Oh well, I'll just have to make it happen with the\nred high heels.)",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32181,
+"en": "But other shops were cheaper. I heard that this place would\nbe willing to deal on price a little more.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32182,
+"en": "Is that so? You got any proof?",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32183,
+"en": "I'm sorry, proof?",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32184,
+"en": "Every so often, we get customers comin' in spoutin' nonsense\nabout another place bein' cheaper.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32185,
+"en": "Of course, I ain't sayin' you're one of them.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32186,
+"en": "(Urk... She's calling me out on it.)",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32187,
+"en": "You know, I'd be happy to take that off your hands right\nnow, but I was actually hoping to stay and chat with you a\nlittle more, provided you don't mind, that is.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32188,
+"en": "Oh, you, spoutin' sweet talk like that. I bet you say that\neverywhere ya go.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32189,
+"en": "Oh, no, I don't have that kind of time. Besides, it's not\noften I find a shop run by someone so beautiful.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32190,
+"en": "Oh, you wicked man. You certainly know your way to a girl's\nheart. How about 2,500 yen?",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32191,
+"en": "One more nudge! Let me hear that pretty voice of yours.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32192,
+"en": "Hmm... 2,300, then! That includes tax and my heart!",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32193,
+"en": "(This is it...)",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32194,
+"en": "All right. I'll take it, then.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32195,
+"en": "Okay, that's 2,300 yen. Come again!",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32196,
+"en": "(The target was 2,100 yen, so I fell a little short. But not\nbad, all things considered. On to the last test: the red high heels.)",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32197,
+"en": "Okay, that's 2,500 yen. Come again!",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32198,
+"en": "(The target was 2,100 yen, so it's not exactly a win. I'll\nhave to make up for it with the red high heels.)",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32199,
+"en": "Oh, sure. They must be sellin' third-rate knock-offs. Much\nworse quality.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32200,
+"en": "You don't say...",
+"ctx": "diálogo uid004901e3 + diálogo uid013303b2"
+},
+{
+"id": 32201,
+"en": "If it's cheap you're wantin', I can't be of much help to ya.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32202,
+"en": "(Urk... This isn't looking good. I can't push her any\nfurther.)",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32203,
+"en": "You know, this leopard-print skirt is one thing, but really\nyour whole selection here's brilliant. Definitely a cut\nabove the rest.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32204,
+"en": "Hm? You can tell? That's quite an eye for quality you have.\nMakes me happy and proud to hear that.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32205,
+"en": "For such a discernin' eye, I guess I can give ya a break.\nHow's 2,200 sound?",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32206,
+"en": "Heh, sounds like a half-baked number that's just begging to\nbe bargained with. What say we lower it to a nice, round\n2,000?",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32207,
+"en": "Done! That'll be 2,000 yen, then. I'll even throw in some\ncandy for ya.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32208,
+"en": "You've got yourself a deal!",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32209,
+"en": "You got a leopard-print skirt and a candy.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32210,
+"en": "(Okay! Got the price under the 2,100 yen target. This gives\nme a great shot at clearing the last test: the red high\nheels.)",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32211,
+"en": "Can you meet me at 2,100 yen? It would really help me out.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32212,
+"en": "No, I couldn't possibly. Would 2,600 do it for you?",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32213,
+"en": "How about 2,500?",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32214,
+"en": "2,500 yen? Ahaha, you know, for a Tokyo boy, I think you did\nquite well for yourself.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32215,
+"en": "All right. I'd like to buy it, please.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32216,
+"en": "Nope. Never. And no one's ever said such nonsense to me,\neither.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32217,
+"en": "(No good. She's turned cold. This is it.)",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32218,
+"en": "(2,700 yen means I only got a 10% discount. I compromised\ntoo much. Oh well, I'll just have to make up for it with the\nred high heels.)",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32219,
+"en": "(I've got three things to buy⑬an electric toothbrush, a\nleopard-print skirt, and a pair of red high heels.)",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32220,
+"en": "We'll start with the toothbrush.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32221,
+"en": "Hey! It's my friend from before. And... Augh! Not that old battleaxe, too!",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32222,
+"en": "Oh,  you won't hafta worry about me.",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32223,
+"en": "As if! But okay, whatever. You're back for your flat-screen,\nare ya? Very well, take a look!",
+"ctx": "diálogo uid004901e3"
+},
+{
+"id": 32224,
+"en": "Let's put the TV aside for now. Do you have any electric\ntoothbrushes?",
+"ctx": "diálogo uid004901e3"
+}
+]

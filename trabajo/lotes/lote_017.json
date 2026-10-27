@@ -1,0 +1,782 @@
+[
+{
+"id": 4379,
+"en": "This supposedly magic weapon features an adorable penguin on the end that is said to come alive each night.",
+"ctx": "tabla item|EXPLANATION + menú/texto ex_shop0000"
+},
+{
+"id": 4380,
+"en": "These popular brawling weapons can increase damage dealt when wearing them on both fists.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4381,
+"en": "Steel knuckles that can guard against blades. Strong and easy to use.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4382,
+"en": "The thorns on the fists of these knuckles slice into their unlucky foes.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4383,
+"en": "Unique gauntlets that shield the entire fist. Perhaps this is what kompeito candy is modeled after.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4384,
+"en": "A legendary gauntlet imbued with a dragon's grudge that protects the wearer from blades and bullets.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4385,
+"en": "This modified version of the Dragon Grudge Gloves bashes enemies apart with their overwhelming attack power and durability.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4386,
+"en": "Gloves that are capable of draining health from opponents, as if the wearer were a hungry wolf.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4387,
+"en": "Your average can of pepper spray, designed for self-defense.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0090"
+},
+{
+"id": 4388,
+"en": "Spray some on the floor to make enemies slip.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4389,
+"en": "Works like a handy little flamethrower.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4390,
+"en": "A stun gun and a modified lighter fused into one hell of a weapon.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0082"
+},
+{
+"id": 4391,
+"en": "This lighter never runs out of fluid.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4392,
+"en": "This ordinary saltshaker is full of salt.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4393,
+"en": "This ordinary peppershaker full of ordinary pepper would be perfect to blind someone temporarily.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4394,
+"en": "If this stuff got in your eyes, it would probably leave you sprawled on the ground in agony.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4395,
+"en": "This instant-bonding glue just might be able to stop an opponent dead in his tracks.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4396,
+"en": "This firework includes a warning about not firing it at people. Once you take it out, you can't put it away again.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0082"
+},
+{
+"id": 4397,
+"en": "This is made of pipe iron, making it fairly lightweight.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4398,
+"en": "This steel tonfa is really tough.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4399,
+"en": "A cutting-edge tonfa for weapon enthusiasts.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4400,
+"en": "A handy item that can be used as a normal ruler as well as a tonfa.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4401,
+"en": "A platinum ruler with its length sharpened into a blade, making it easier to use. Very sturdy.",
+"ctx": "tabla item|EXPLANATION + menú/texto ex_shop0000 …"
+},
+{
+"id": 4402,
+"en": "A legendary fighter once trained with this horn-shaped weapon. Provides extra experience points.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4403,
+"en": "Made by modifying the Dragon Horn, this ultimate weapon bashes enemies apart with overwhelming attack power and durability.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4404,
+"en": "Your typical nunchaku made of wood.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4405,
+"en": "Two sturdy hangers make nice nunchaku.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4406,
+"en": "Strong as hell, but a little heavy.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4407,
+"en": "The strongest nunchaku out there. They get even more powerful as their durability drops.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4408,
+"en": "This modified version of the Dragon Nunchaku bashes enemies apart with their overwhelming attack power and durability.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4409,
+"en": "Generates super high voltage with its improved batteries. Blows opponents away.",
+"ctx": "tabla item|EXPLANATION + menú/texto ex_shop0000"
+},
+{
+"id": 4410,
+"en": "This banana has been frozen so hard that anyone struck by it will take some serious damage.",
+"ctx": "tabla item|EXPLANATION + menú/texto ex_shop0000"
+},
+{
+"id": 4411,
+"en": "These can be used as Kali sticks. Not actually weapons, but can still bust heads nicely.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4412,
+"en": "These sticks are a great way to get into authentic Kali stick fighting.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4413,
+"en": "These taiko sticks are spiked with nails for more damage.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0082"
+},
+{
+"id": 4414,
+"en": "Mysterious sticks used in the popular anime \"Cutie Girl.\" Heat increases at a faster rate.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4415,
+"en": "The ultimate kali sticks with a mysterious aura. They don't wear down when used defensively.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4416,
+"en": "This modified version of the Twin Dragon Sticks bashes enemies apart with their overwhelming attack power and durability.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4417,
+"en": "The power of Venus transforms you into a warrior of love! Increases enthusiasm a hundredfold!",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4418,
+"en": "These strange leeks emit a light that can only be described as divine.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4419,
+"en": "Stings the eyes and stinks up whomever it strikes. But unfortunately, you can't eat them if you're hungry.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0082"
+},
+{
+"id": 4420,
+"en": "A classic umbrella, like the ones they used to make.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0005 …"
+},
+{
+"id": 4421,
+"en": "This sleek umbrella would go nicely with a suit.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0012 …"
+},
+{
+"id": 4422,
+"en": "I'd hate to get whacked with this thing.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4423,
+"en": "This is a blunt weapon designed for self-defense. Might not work well in a fight.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0019 …"
+},
+{
+"id": 4424,
+"en": "Made from an extremely strong alloy, this pipe was intended for a construction project until it was sold on the black market.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0082"
+},
+{
+"id": 4425,
+"en": "Kamiyama says this doesn't do much damage, but it can send a guy flying.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4426,
+"en": "This is a blackjack that looks just like cod roe, rather than cod roe that looks like a blackjack.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4427,
+"en": "This police baton is compact and guaranteed to deliver some serious pain.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4428,
+"en": "This baton was modified by Kamiyama for stun capabilities.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4429,
+"en": "The strange, sturdy parasol lights up when waved around. It's so bright, opponents won't be able to look at it directly.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4430,
+"en": "This Master Ball isn't great for fights, but you can equip it to bowl.",
+"ctx": "tabla item|EXPLANATION + menú/texto ex_shop0000"
+},
+{
+"id": 4431,
+"en": "This beer bottle is for gags. It makes a loud noise when hitting someone, but that's about it.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4432,
+"en": "An ordinary iron pipe. Its light weight makes it an attractive weapon.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0018 …"
+},
+{
+"id": 4433,
+"en": "This metal roof ornament of a shachihoko, a legendary creature with a tiger's head and carp's body, can do some serious damage.",
+"ctx": "tabla item|EXPLANATION + menú/texto ex_shop0000"
+},
+{
+"id": 4434,
+"en": "This golf club is so old and worn out that it's ready to break.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4435,
+"en": "This golf club is a little too old for the golf course.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4436,
+"en": "This driver was made by a master woodworker.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0018 …"
+},
+{
+"id": 4437,
+"en": "This metal bat is a little banged up, but it's still meant for taking a swing at pitches, not heads.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4438,
+"en": "Better not swing this thing around too much.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0019"
+},
+{
+"id": 4439,
+"en": "A titanium driver that is stronger than those made of wood. Useful in combat.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4440,
+"en": "This bat spiked with nails is cracked, and doesn't look like it will stay intact too much longer.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4441,
+"en": "A bat spiked with nails. Makes a nice club.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4442,
+"en": "A driver made on a famous patriarch's orders. Flimsy but extremely powerful.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4443,
+"en": "A bat made on a famous patriarch's orders. Flimsy but extremely powerful.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4444,
+"en": "A bat bearing the name of a legendary batter. Lets loose with an incredible swing.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4445,
+"en": "This modified version of the Golden Dragon Bat bashes enemies apart with its overwhelming attack power and durability.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4446,
+"en": "A club that is great when used as a weapon, but useless for playing golf.",
+"ctx": "tabla item|EXPLANATION + menú/texto ex_shop0000"
+},
+{
+"id": 4447,
+"en": "No gangster should leave home without one.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4448,
+"en": "This revolver's a nice piece of work.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4449,
+"en": "A fancy name for a tranquilizer gun.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4450,
+"en": "The bullets have different effects. The downside is you don't know what they are until you fire them.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4451,
+"en": "This unusual pistol never runs out of bullets.",
+"ctx": "tabla item|EXPLANATION + menú/texto ex_shop0000"
+},
+{
+"id": 4452,
+"en": "This is the handgun received from Saigo for use during practice.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4453,
+"en": "This is a toy gun, but it has been modified to send enemies flying.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4454,
+"en": "Your standard shotgun.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4455,
+"en": "Fires bullets packed with a slimy liquid.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4456,
+"en": "This shotgun can strike targets over a wide area, spraying them with strange pellets that deliver a jolt of electricity.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4457,
+"en": "This used to fire smoke cartridges, but some sort of modification now allows it to fire rounds that cause small explosions.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4458,
+"en": "This shotgun can hold a remarkable number of rounds.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4459,
+"en": "This iron pipe was found on the roadside. Won't break no matter how you use it.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4460,
+"en": "This sturdy iron pipe has been made even sturdier, and its attack power has been improved.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4461,
+"en": "Mostly used to put out fires.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4462,
+"en": "This strange blade is said to turn those who are tainted or unclean into dust.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4463,
+"en": "A hunting rifle borrowed from Okudera.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4464,
+"en": "An enhanced hunting rifle borrowed from Okudera.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4465,
+"en": "The ultimate hunting rifle, borrowed from Okudera.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4466,
+"en": "This hunting rifle fires special rounds.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4467,
+"en": "This premium hunting rifle glitters with gold.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4468,
+"en": "This golf club may be cheap, but it's great for bashing in skulls.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4469,
+"en": "This completely ordinary binding protects against minor attacks.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4470,
+"en": "Helps get that adrenaline pumping before a fight.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4471,
+"en": "This binding is for those who understand what it means to be a family man.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4472,
+"en": "This binding brings out the fiery spirit of competition in its user.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4473,
+"en": "This binding is said to be partially woven from dragon whiskers. Maybe that's why it helps its wearer preserve Heat during fights.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4474,
+"en": "This bloody binding gives off an ominous feeling. I'll need to be extra cautious when using it.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4475,
+"en": "If I win a fight with this binding on, something lucky's supposed to happen.",
+"ctx": "tabla item|EXPLANATION + menú/texto ex_shop0000"
+},
+{
+"id": 4476,
+"en": "Enemies are more likely to attack you when you wear it. Try wearing it together with the Nishikigoi Amulet and see what happens.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4477,
+"en": "This makes it easier to slip out of an enemy's grip.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0082"
+},
+{
+"id": 4478,
+"en": "Very lightweight, unlike its Western counterpart. Effective against bladed weapons.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4479,
+"en": "This used to be worn by gamblers for protection. More durable than chain mail.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4480,
+"en": "This steel mail is a type of chain mail stronger than its iron cousin.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4481,
+"en": "This finely crafted antique still provides solid protection against bladed weapons.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4482,
+"en": "This mail is said to provide the protection of the Dragon God and keep bullets from hitting you.",
+"ctx": "tabla item|EXPLANATION + menú/texto ex_shop0000"
+},
+{
+"id": 4483,
+"en": "This shirt provides resistance to fire.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0018 …"
+},
+{
+"id": 4484,
+"en": "This shirt provides resistance to electrical shock.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0018 …"
+},
+{
+"id": 4485,
+"en": "This military shirt was made from a special insulating material that provides resistance to fire and electrical shock.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4486,
+"en": "Who knows what it's made of, but it provides resistance to blinding and knockouts.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0082"
+},
+{
+"id": 4487,
+"en": "This dragon-emblazoned shirt provides resistance to fire, electrical shock, blinding, and knockouts.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4488,
+"en": "Softens collisions into walls or the ground.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4489,
+"en": "This training gear may not be the best defense against attacks, but it's good for gaining experience.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4490,
+"en": "This belly warmer has Haruka's warmth knit right in. It's said to have a special effect when equipped with a Gion Bell.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4491,
+"en": "A bracelet that lets you use more Heat than usual.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4492,
+"en": "Wear this cute scrunchie to win over the audience even more with your dance moves.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4493,
+"en": "This new cologne from Dramatic Parfums smells like a black velvet rose, evoking the image of a slick, masculine man.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0014 …"
+},
+{
+"id": 4494,
+"en": "This new cologne from Dramatic Parfums has a woody amber scent. It expresses a strength that will put the very night at your mercy.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0014 …"
+},
+{
+"id": 4495,
+"en": "This new cologne from Dramatic Parfums has an energetic and dynamic scent that portrays stalwart masculinity.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0014 …"
+},
+{
+"id": 4496,
+"en": "This mail is said to have a powerful blessing upon it that keeps bullets from hitting you.",
+"ctx": "tabla item|EXPLANATION + menú/texto ex_shop0000"
+},
+{
+"id": 4497,
+"en": "This device beeps when a locker key is nearby. Once belonged to a heavyset man.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4498,
+"en": "These mysterious socks somehow earn you money while you walk in them.",
+"ctx": "tabla item|EXPLANATION + menú/texto ex_shop0000"
+},
+{
+"id": 4499,
+"en": "Walking with this bell makes your bank account grow ever so slightly.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4500,
+"en": "You'll probably end up having more unwanted confrontations when people hear you coming in these annoying-sounding shoes.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4501,
+"en": "These shoes help you avoid unwanted confrontations around town.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0082"
+},
+{
+"id": 4502,
+"en": "These beads will reduce the number of unwanted confrontations around town.",
+"ctx": "tabla item|EXPLANATION + menú/texto ex_shop0000"
+},
+{
+"id": 4503,
+"en": "When people see this, they'll probably want it so badly they'll be willing to pick a fight with you.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0082"
+},
+{
+"id": 4504,
+"en": "These gloves are said to increase your Heat by draining your opponent's when you grab him.",
+"ctx": "tabla item|EXPLANATION + menú/texto ex_shop0000"
+},
+{
+"id": 4505,
+"en": "This talisman maintains the Heat Gauge at maximum at all times.",
+"ctx": "tabla item|EXPLANATION + menú/texto ex_shop0000"
+},
+{
+"id": 4506,
+"en": "Wear this towel to remain calm at all times.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0082"
+},
+{
+"id": 4507,
+"en": "Said to make Heat increase at a faster rate when you're in a jam.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4508,
+"en": "This necklace from Haruka seems to make you stronger.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4509,
+"en": "This amulet from Haruka gives you a heartwarming sensation.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4510,
+"en": "This bracelet heals your wounds when all is calm.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0082"
+},
+{
+"id": 4511,
+"en": "This bracelet holds a mysterious power that strengthens left-handed attacks.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4512,
+"en": "Hallmark of the Amon Clan. Greatly increases the power of all weapons.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4513,
+"en": "Legends say the soul of its late judo master resides within this belt, helping you throw enemies more powerfully.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4514,
+"en": "This unusual ring will make your attacks stronger as your health is depleted.",
+"ctx": "tabla item|EXPLANATION + menú/texto ex_shop0000"
+},
+{
+"id": 4515,
+"en": "Wear these to raise the destructive power of objects you throw.",
+"ctx": "tabla item|EXPLANATION + menú/texto shop0082"
+},
+{
+"id": 4516,
+"en": "Wear these to further raise the destructive power of objects you throw. They're also sturdy enough to block bladed weapons.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4517,
+"en": "In addition to keeping you upright when your legs are attacked, these shin guards help you kick things further.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4518,
+"en": "This scarf is so shabby-looking, enemies will take pity on you, making them less likely to crowd around you.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4519,
+"en": "An amulet that may give you a little peace of mind.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4520,
+"en": "This amulet should prove somewhat useful against bullets.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4521,
+"en": "The divine blessing upon this amulet is said to slightly reduce the ferocity of enemy attacks.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4522,
+"en": "The ultimate symbol of strength. Enemies will flock to you to challenge your bold claim.",
+"ctx": "tabla item|EXPLANATION + menú/texto ex_shop0000 …"
+},
+{
+"id": 4523,
+"en": "These gauntlets protect against bladed weapons when equipped.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4524,
+"en": "These protect you against getting knocked down by attacks aimed at your feet or legs.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4525,
+"en": "This special scarf leaves you wondering what those little scamps are up to these days.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4526,
+"en": "This amulet of good fortune is said to have once prevented a fatal bullet wound.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4527,
+"en": "Enemies are more likely to attack you when you wear it. Try wearing it together with the Yellow Dragon's Binding and see what happens.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4528,
+"en": "Gain the strength of the hero of legends with these gloves. Enemies will find it more difficult to escape your grip.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4529,
+"en": "This belt helps you lift heavy enemies as if they weigh nothing at all.",
+"ctx": "tabla item|EXPLANATION + menú/texto ex_shop0000"
+},
+{
+"id": 4530,
+"en": "Improves balance. Keeps you from stumbling when you run into someone at full speed.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4531,
+"en": "An amulet that adds great power to running throws.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4532,
+"en": "This stone will save you from the brink of death, but only once.",
+"ctx": "tabla item|EXPLANATION + menú/texto ex_shop0000"
+},
+{
+"id": 4533,
+"en": "These shoes feel great on your feet, but you don't notice anything else particularly distinctive about them.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4534,
+"en": "Wearing these isn't guaranteed to help you find things more easily.",
+"ctx": "tabla item|EXPLANATION"
+}
+]

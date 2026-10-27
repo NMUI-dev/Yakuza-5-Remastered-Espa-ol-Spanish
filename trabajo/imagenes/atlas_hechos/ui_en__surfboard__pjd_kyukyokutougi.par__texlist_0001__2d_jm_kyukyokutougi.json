@@ -1,0 +1,109 @@
+{
+ "textura": "ui_en/surfboard/pjd_kyukyokutougi.par/texlist_0001/2d_jm_kyukyokutougi",
+ "fuente": "segoeuib.ttf",
+ "margen": 1,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    162,
+    1,
+    218,
+    33
+   ],
+   "en": "NEW",
+   "ocr": "NEW",
+   "es": "NUEVO",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 52,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     190,
+     220,
+     190
+    ]
+   }
+  },
+  {
+   "caja": [
+    78,
+    92,
+    256,
+    128
+   ],
+   "en": "Congratulations!",
+   "ocr": "Congratulations!",
+   "es": "¡Felicidades!",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 174,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     190,
+     220,
+     190
+    ]
+   }
+  },
+  {
+   "caja": [
+    0,
+    134,
+    256,
+    180
+   ],
+   "en": "All Missions Completed",
+   "ocr": "All Missions Completed",
+   "es": "Misiones completadas",
+   "fuente": "times.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 240,
+   "estilo": {
+    "arriba": [
+     255,
+     215,
+     0
+    ],
+    "abajo": [
+     255,
+     205,
+     0
+    ],
+    "contorno": null,
+    "brillo": [
+     185,
+     165,
+     30
+    ]
+   },
+   "nota": "la del juego (Todas las misiones completadas) no cabe en 256 px: acortada"
+  }
+ ],
+ "ceñido": true
+}

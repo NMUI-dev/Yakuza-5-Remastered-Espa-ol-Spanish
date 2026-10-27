@@ -1,0 +1,942 @@
+[
+{
+"id": 21154,
+"en": "(Haruka wants to score <Color:8>at least 900 points on \"Because I Have You.\"<Color:Default>)",
+"ctx": "diálogo uid000c09f9"
+},
+{
+"id": 21155,
+"en": "Okay. Maybe next time then...",
+"ctx": "diálogo uid000c09f9"
+},
+{
+"id": 21156,
+"en": "(I don't have enough money...)",
+"ctx": "diálogo uid000c09f9"
+},
+{
+"id": 21157,
+"en": "(I should give Haruka-chan a call.)",
+"ctx": "diálogo uid000c09f9 + diálogo uid0033008f"
+},
+{
+"id": 21158,
+"en": "Ya called me up from Kamurocho, knowin' I'm a busy student lookin' for a job, just to sing karaoke? Is this some kinda joke?",
+"ctx": "diálogo uid000c09f9"
+},
+{
+"id": 21159,
+"en": "My deepest apologies.",
+"ctx": "diálogo uid000c09f9 + diálogo uid0069021f …"
+},
+{
+"id": 21160,
+"en": "(I should call Akiyama-san.)",
+"ctx": "diálogo uid000c09f9"
+},
+{
+"id": 21161,
+"en": "Sorry for the delay, Haruka-chan!",
+"ctx": "diálogo uid000c09f9"
+},
+{
+"id": 21162,
+"en": "Kiryu-san! I'm begging you! Could you please be my stand-in?",
+"ctx": "diálogo uid000c0a87"
+},
+{
+"id": 21163,
+"en": "Whoa, I don't believe it! Is that you, Kiryu-san!?",
+"ctx": "diálogo uid000c0a87"
+},
+{
+"id": 21164,
+"en": "You know me?",
+"ctx": "diálogo uid000c0a87"
+},
+{
+"id": 21165,
+"en": "Of course I do! It's me, Noboru Kudarizaka! You remember, right? I asked you to stand in for me when I was shooting that period piece. Long time no see!",
+"ctx": "diálogo uid000c0a87"
+},
+{
+"id": 21166,
+"en": "That does sound somewhat familiar...",
+"ctx": "diálogo uid000c0a87"
+},
+{
+"id": 21167,
+"en": "But man, I didn't expect to run into you here! I guess the stars aligned for me! There must be a god after all!",
+"ctx": "diálogo uid000c0a87"
+},
+{
+"id": 21168,
+"en": "Why do you say that?",
+"ctx": "diálogo uid000c0a87 + diálogo uid01020caf …"
+},
+{
+"id": 21169,
+"en": "I'm working on a new project, but I hurt myself just as shooting was about to start. Again.",
+"ctx": "diálogo uid000c0a87"
+},
+{
+"id": 21170,
+"en": "The thought of bringing this up to the director has had me biting my nails this entire time! I'll have to get another two-hour manicure...",
+"ctx": "diálogo uid000c0a87"
+},
+{
+"id": 21171,
+"en": "Anyway. You've already done this before, so I really need your help! Can you stand in for me again?",
+"ctx": "diálogo uid000c0a87"
+},
+{
+"id": 21172,
+"en": "So I'm gonna be in yet another movie, huh...",
+"ctx": "diálogo uid000c0a87"
+},
+{
+"id": 21173,
+"en": "Sorry. You'll have to find someone else.",
+"ctx": "diálogo uid000c0a87"
+},
+{
+"id": 21174,
+"en": "What!? But you're my only hope! Please, at least give it some thought!",
+"ctx": "diálogo uid000c0a87"
+},
+{
+"id": 21175,
+"en": "Okay, I'll do it.",
+"ctx": "diálogo uid000c0a87"
+},
+{
+"id": 21176,
+"en": "Great! Thanks a bunch!",
+"ctx": "diálogo uid000c0a87"
+},
+{
+"id": 21177,
+"en": "So what's the role this time?",
+"ctx": "diálogo uid000c0a87"
+},
+{
+"id": 21178,
+"en": "Oh, it's the perfect role for you, Kiryu-san! It's a yakuza action movie! All you have to do is rough some people up! And I use the term \"people\" loosely.",
+"ctx": "diálogo uid000c0a87"
+},
+{
+"id": 21179,
+"en": "Well, I guess I could pull off an action role.",
+"ctx": "diálogo uid000c0a87"
+},
+{
+"id": 21180,
+"en": "Awesome! Then I'll take you to the set right away!",
+"ctx": "diálogo uid000c0a87"
+},
+{
+"id": 21181,
+"en": "Oh, that sale puts you over the million yen mark!",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21182,
+"en": "I sold ya that much already?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21183,
+"en": "You've been an incredible help. I'll be able to meet this year's quota now! Here, take a little something for yourself.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21184,
+"en": "You got <Color:8>Staminan Royale<Color:Default>.",
+"ctx": "diálogo uid000c0a90 + diálogo uid00330366 …"
+},
+{
+"id": 21185,
+"en": "You got <Color:8>Bloody Binding<Color:Default>.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21186,
+"en": "Ya sure? Thanks.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21187,
+"en": "There's no such thing as too much inventory. As long as you keep bringing me wild game, I'm a happy man.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21188,
+"en": "I hope we'll continue to do business together!",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21189,
+"en": "Saejima-san, are those...?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21190,
+"en": "Yup, took down a bear this time. Have at 'em.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21191,
+"en": "You handed over <Color:8>Bear Bile<Color:Default>.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21192,
+"en": "You got <Color:8>102,000 yen<Color:Default>.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21193,
+"en": "You just might be the greatest business partner in history! I think I'm all set now.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21194,
+"en": "Sure hope so.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21195,
+"en": "Why does that yakuza even want this stuff? Is he just makin' oddball demands to punish ya or somethin'?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21196,
+"en": "No, it's not like that. He's... uh... Well, you can keep a secret, right?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21197,
+"en": "These dumb requests came from a family boss⑬a guy whose ego is somehow twice the size of his fat ass.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21198,
+"en": "Yeah. This fool apparently told another yakuza that he was some big-shot hunter.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21199,
+"en": "And of course, he'd never even hunted before. So this was his solution when the other guy asked to see his trophies.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21200,
+"en": "Ya tellin' me I did all this huntin' just to cover for his pride?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21201,
+"en": "Yeah, but hey, there's still some good news⑬he knows he can't keep this up, so he already told everyone that this is his last hunt, because he finally bagged a bear.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21202,
+"en": "But hey, I'm sorry for dragging you into this mess. At least I'll be free of the bastards now! Thank you for that.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21203,
+"en": "Here's something for all your trouble.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21204,
+"en": "You got <Color:8>Fearless Binding<Color:Default>.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21205,
+"en": "Thanks. I'm thinkin' we should just try to stay outta stuff like this from now on, both 'a us.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21206,
+"en": "I couldn't agree more.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21207,
+"en": "Hey Saejima! You know I'm counting on you to deliver that bear for me!",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21208,
+"en": "So, anything I can help you with right now?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21209,
+"en": "Can I help you with anything else?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21210,
+"en": "Thank you. Your business is always appreciated.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21211,
+"en": "Hi, Saejima-san. Thank you for bringing me that entire deer! That was a huge help.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21212,
+"en": "Not to worry⑬we're tradin' favors with each other, after all.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21213,
+"en": "I've got great news. I think if I finish this one last job, I'll be free of the yakuza for good.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21214,
+"en": "Ya sure 'bout that? Just one more job?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21215,
+"en": "It should be. I mean, we signed an official contract and everything... stating this last transaction would settle all debts.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21216,
+"en": "Alright, what's their last order, then?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21217,
+"en": "Nothin' much shocks me anymore. Say it.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21218,
+"en": "Argh... I hate to ask for this, but I need... an entire bear.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21219,
+"en": "The whole thing? Ya mean the meat, fur, fat, and bile?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21220,
+"en": "All of it. But then we'll be done, I promise! Please help me out one last time.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21221,
+"en": "\"Sell a Whole Bear\" was added to the list of missions.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21222,
+"en": "All 'a this oughta do it!",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21223,
+"en": "Sure hope so, after all this effort.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21224,
+"en": "It took a while, but here ya go.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21225,
+"en": "You handed over <Color:8>Deer Meat<Color:Default>.",
+"ctx": "diálogo uid000c0a90 + diálogo uid00690011"
+},
+{
+"id": 21226,
+"en": "You handed over <Color:8>Deer Hide<Color:Default>.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21227,
+"en": "You got <Color:8>26,000 yen<Color:Default>.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21228,
+"en": "Fantastic! If this doesn't get them off my back, I don't know what will!",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21229,
+"en": "Hope ya know what yer talkin' about.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21230,
+"en": "Hey Saejima-san, I've got an order here for one whole deer. That should make for a handsome reward if you bring one to me.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21231,
+"en": "Saejima-san! Hey listen, you think you can help me out again?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21232,
+"en": "In what way?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21233,
+"en": "It's that customer from Tokyo, again⑬the one that kept placing all those ridiculous orders you already helped me with.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21234,
+"en": "It turns out... he's a yakuza! Can you believe that!?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21235,
+"en": "...It happens.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21236,
+"en": "And this time, the request was so outrageous, I just rejected it outright! But then they <Italic>threatened</Italic> me.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21237,
+"en": "What's the request?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21238,
+"en": "One whole deer. The meat, the hide, at least one antler.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21239,
+"en": "Fine, I'll take care of it. But tell 'em this is the last time, alright?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21240,
+"en": "Yes, of course. I'm so sorry for imposing on you again.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21241,
+"en": "\"Sell a Whole Deer\" was added to the list of missions.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21242,
+"en": "Here ya go.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21243,
+"en": "Hello, Saejima. Ooh, what've you got there?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21244,
+"en": "Yup, fresh deer. Take it.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21245,
+"en": "Excellent! This is a big help!",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21246,
+"en": "You got <Color:8>6,000 yen<Color:Default>.",
+"ctx": "diálogo uid000c0a90 + diálogo uid000c0c5d"
+},
+{
+"id": 21247,
+"en": "Thank you so much. Surely once I give him this, I won't be hearing from him ever again!",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21248,
+"en": "Hey Saejima, I'm still waiting on that deer meat, you know!",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21249,
+"en": "Um... um, hey, Saejima-san...?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21250,
+"en": "Lemme guess⑬is it that troublesome customer of yours again?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21251,
+"en": "I'm so sorry for imposing again! It's just... well, they're asking for deer meat now. Just one slab, though.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21252,
+"en": "I'll pay you a premium for it! The customer has promised me that this is his last request.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21253,
+"en": "I definitely ain't cut out for yer job⑬I'd be screamin' at this guy till his ears bled. But I'll get ya that deer meat.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21254,
+"en": "Thank you. I really do appreciate it, so much.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21255,
+"en": "\"Sell Deer Meat\" was added to the list of missions.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21256,
+"en": "I got some deer meat on me. Here, give this to yer customer.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21257,
+"en": "Oh, great! You're a lifesaver.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21258,
+"en": "Thank you so much. Honestly, I think this will be it from that customer.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21259,
+"en": "It prob'ly ain't.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21260,
+"en": "Fox skin. Go 'head, take it.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21261,
+"en": "Thank you! This is a huge boon for my business!",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21262,
+"en": "You handed over <Color:8>Fox Skin<Color:Default>.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21263,
+"en": "I really appreciate you helping me out. The customer is sure to be happy, now!",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21264,
+"en": "Gotta keep yer customers happy.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21265,
+"en": "Hi, Saejima-san. Thank you for handling that one fox skin order.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21266,
+"en": "Oh, Saejima-san! Hello! ...Um, hey, I was wondering if I could ask for another favor.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21267,
+"en": "What is it? That Tokyo customer again?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21268,
+"en": "Yes. He was hoping to buy a fox skin. Do you think that would be possible?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21269,
+"en": "Of course, I can offer you higher pay for such a thing.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21270,
+"en": "Yeah, I'll give it a go. That customer of yours sure ain't easy to please.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21271,
+"en": "I'm so sorry to ask you for this, but it would really help.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21272,
+"en": "\"Sell a Fox Skin\" was added to the list of missions.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21273,
+"en": "Got a nice fox skin here. Go ahead and give it to yer customer.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21274,
+"en": "Wow... it's beautiful! Thank you, Saejima-san!",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21275,
+"en": "If he ain't, there's no helpin' him.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21276,
+"en": "Hello, Saejima. Ooh, is that luxurious-looking item what I think it is?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21277,
+"en": "Yup, it's yer marten pelt.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21278,
+"en": "You got <Color:8>12,000 yen<Color:Default>.",
+"ctx": "diálogo uid000c0a90 + diálogo uid000c0c5d"
+},
+{
+"id": 21279,
+"en": "You saved me from losing a customer. Thank you.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21280,
+"en": "Hi there, Saejima-san. I'm still holding out hope you'll get that marten pelt for me.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21281,
+"en": "Oh, Saejima-san. I was wondering if you could help me.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21282,
+"en": "Whaddya need?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21283,
+"en": "Uh, could I possibly buy a marten pelt off you? I'll offer double what I usually pay.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21284,
+"en": "In a bind?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21285,
+"en": "Kind of. One of my regular customers in Tokyo just sent me an urgent order for a marten pelt.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21286,
+"en": "If I can't fill it quickly, they're going to stop doing business with me. It's totally unreasonable, but at the same time... It's one of my best customers, so I don't want to lose 'im.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21287,
+"en": "Well, since I need yer business myself, I'll see what I can do.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21288,
+"en": "Oh, that would be such a big help...",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21289,
+"en": "Naturally, since it's for such an important customer, I'll have to inspect it carefully before buying.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21290,
+"en": "Not that I don't trust you! But just to be safe, please deliver it personally to me. Okay?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21291,
+"en": "The trader will pay double his usual price for items special-ordered by the VIP customer. They must be handed over in person, so place them in your <Color:7>Inventory<Color:Default> first.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21292,
+"en": "\"Sell a Marten Pelt\" was added to the list of missions.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21293,
+"en": "I've got a marten pelt here. If this'll do, it's yours.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21294,
+"en": "Oh, wow! You're the best, Saejima-san!",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21295,
+"en": "Oh, hi there. Say, have you heard the story about the Jizo statues?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21296,
+"en": "What's this, now?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21297,
+"en": "Well, there are these twelve Jizo statues on the mountain.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21298,
+"en": "What is this, some kinda ghost story?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21299,
+"en": "Oh no, no, not at all! In fact, I'm talking about <Italic>beneficial</Italic> spirits. You see, in the old days, hunters would pray to a Jizo statue if they happened to come across one.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21300,
+"en": "It makes sense that the hunters were superstitious. I mean, the mountain is such a dangerous place...",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21301,
+"en": "But what if it worked? Some people have sworn that the Jizo statues kept them from getting lost in the wild.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21302,
+"en": "It ain't hard to understand why folks turn to superstition.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21303,
+"en": "Well, if you ask me, it can't hurt. If I came across a Jizo statue up there, I'd pray to it. Why not?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21304,
+"en": "Uh-huh...",
+"ctx": "diálogo uid000c0a90 + diálogo uid000c0c5d …"
+},
+{
+"id": 21305,
+"en": "\"Pray to Jizo Statues\" was added to the list of missions.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21306,
+"en": "So, would you like anything today?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21307,
+"en": "Oh hello, Saejima. Can I help you with something?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21308,
+"en": "Ah, just the man I wanted to see!",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21309,
+"en": "I heard about how you sent Yama-oroshi running.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21310,
+"en": "Pretty impressive. With those kind of hunting skills, I was wondering if I could ask a favor of you.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21311,
+"en": "Well, because of the Yama-oroshi trouble, all the hunters around here are reluctant to hunt on the mountain.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21312,
+"en": "Can't blame 'em, with that beast roamin' around.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21313,
+"en": "Of course, of course. I can certainly understand. But it's made it very difficult for me to source any merchandise.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21314,
+"en": "But maybe you, if you go to the mountain, would be willing to sell me any game you bag?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21315,
+"en": "It could be meat, hides, or even vegetation. What do you think?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21316,
+"en": "Don't get yer hopes up. I don't plan on goin' on any huntin' sprees.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21317,
+"en": "Oh, I understand. I wasn't asking for reckless slaughter or anything! I have to maintain a good relationship with this village too, you know.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21318,
+"en": "Alright. I'll do what I can. How much game do ya need?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21319,
+"en": "Not much... About a million yen worth.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21320,
+"en": "A million yen! I can't imagine what it'd take to equal that!",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21321,
+"en": "Not as much as you'd think. Don't worry⑬you'll see what the prices are really like once you bring me a few things. I'm counting on you!",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21322,
+"en": "\"Supply the Trader\" was added to the list of missions.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21323,
+"en": "So, can I help you with anything today?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21324,
+"en": "Got a minute?",
+"ctx": "diálogo uid000c0a90 + diálogo uid0049017c …"
+},
+{
+"id": 21325,
+"en": "Yes, of course. How can I help you?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21326,
+"en": "Ya do business here, dontcha? Thought I'd introduce myself, since I've just started huntin', which means I'll be needin' yer services soon 'nuff.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21327,
+"en": "Oh, I see. Pleased to make your acquaintance⑬I was wondering who the muscly new guy was!",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21328,
+"en": "It's been quite a while since any newcomers were around.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21329,
+"en": "Makes sense, in a place like this.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21330,
+"en": "\"In a place like this\"? You know, this mountain is actually pretty famous, because of the outstanding quality of its animal meats and skins.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21331,
+"en": "Oh, yes. The meat is prized at the most high-end restaurants in Tokyo, and the skins trade at high prices inside the most luxurious fur stores.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21332,
+"en": "I mean, I assumed that's why you were hunting here in the first place.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21333,
+"en": "Uh, ya might say that. I knew there was choice game, but I didn't know it was that good.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21334,
+"en": "It's some of the best around! Heck, ten years ago, hunters would come up here all the way from Honshu.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21335,
+"en": "It's not quite like that anymore, though.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21336,
+"en": "(Ten years ago? That's when Okudera-han started livin' in the village, right after he was rescued.)",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21337,
+"en": "Still, the primo quality of wild game on this mountain remains unmatched. That's why I still come here to trade.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21338,
+"en": "Well, lookin' forward to doin' business with ya.",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21339,
+"en": "You ready to go, Saejima?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21340,
+"en": "Hi, Saejima. I'm happy to do business with you. Can I help you with anything today?",
+"ctx": "diálogo uid000c0a90"
+},
+{
+"id": 21341,
+"en": "Urrggh... A bunch of guys showed up at the dojo... Master Sodachi's in trouble...",
+"ctx": "diálogo uid000c0be7 + diálogo uid010c0be1"
+}
+]

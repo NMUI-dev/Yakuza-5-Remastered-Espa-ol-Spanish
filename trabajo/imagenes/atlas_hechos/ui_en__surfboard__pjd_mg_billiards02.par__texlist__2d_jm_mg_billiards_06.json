@@ -1,0 +1,463 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_billiards02.par/texlist/2d_jm_mg_billiards_06",
+ "fuente": "timesbd.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    626,
+    4,
+    746,
+    30
+   ],
+   "en": "Opponent",
+   "es": "Oponente",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 116,
+   "alto": 25
+  },
+  {
+   "caja": [
+    808,
+    4,
+    890,
+    30
+   ],
+   "en": "Expert",
+   "es": "Experto",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 78,
+   "alto": 23
+  },
+  {
+   "caja": [
+    634,
+    36,
+    744,
+    60
+   ],
+   "en": "RULES",
+   "es": "REGLAS",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 100,
+   "alto": 18
+  },
+  {
+   "caja": [
+    786,
+    36,
+    908,
+    62
+   ],
+   "en": "Play Solo",
+   "es": "Jugar solo",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 114,
+   "alto": 23
+  },
+  {
+   "caja": [
+    630,
+    68,
+    744,
+    94
+   ],
+   "en": "Beginner",
+   "es": "Novato",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 110,
+   "alto": 23
+  },
+  {
+   "caja": [
+    790,
+    68,
+    908,
+    94
+   ],
+   "en": "Nine-Ball",
+   "es": "",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 114,
+   "dejar": true,
+   "nota": "nombre de modalidad, el juego lo deja"
+  },
+  {
+   "caja": [
+    608,
+    100,
+    766,
+    126
+   ],
+   "en": "Intermediate",
+   "es": "Intermedio",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 154,
+   "alto": 17
+  },
+  {
+   "caja": [
+    788,
+    100,
+    910,
+    126
+   ],
+   "en": "Eight-Ball",
+   "es": "",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 118,
+   "dejar": true,
+   "nota": "nombre de modalidad"
+  },
+  {
+   "caja": [
+    624,
+    132,
+    746,
+    158
+   ],
+   "en": "Advanced",
+   "es": "Avanzado",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 114,
+   "alto": 17
+  },
+  {
+   "caja": [
+    796,
+    132,
+    902,
+    158
+   ],
+   "en": "Rotation",
+   "es": "",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 102,
+   "dejar": true,
+   "nota": "nombre de modalidad"
+  },
+  {
+   "caja": [
+    628,
+    164,
+    746,
+    190
+   ],
+   "en": "Four-Ball",
+   "es": "",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 114,
+   "dejar": true,
+   "nota": "nombre de modalidad"
+  },
+  {
+   "caja": [
+    778,
+    164,
+    920,
+    194
+   ],
+   "en": "Puzzle Pool",
+   "es": "Acertijos",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 136,
+   "nota": "'Billar de acertijos' no cabe en 134 px",
+   "alto": 17
+  },
+  {
+   "caja": [
+    632,
+    194,
+    782,
+    226
+   ],
+   "en": "Games Left",
+   "es": "Te quedan",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "der",
+   "ancho_max": 134,
+   "nota": "[Games Left] N [More Time(s)] -> Te quedan N partida(s)",
+   "alto": 18
+  },
+  {
+   "caja": [
+    858,
+    194,
+    1020,
+    222
+   ],
+   "en": "More Time(s)",
+   "es": "partida(s)",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 158,
+   "alto": 22
+  },
+  {
+   "caja": [
+    362,
+    258,
+    724,
+    293
+   ],
+   "en": "Select a Game",
+   "es": "Elige una partida",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 358,
+   "alto": 18
+  },
+  {
+   "caja": [
+    354,
+    293,
+    732,
+    321
+   ],
+   "en": "Please select the stage you wish to play.",
+   "es": "Selecciona la etapa que quieras jugar.",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 366,
+   "alto": 17
+  },
+  {
+   "caja": [
+    742,
+    262,
+    910,
+    312
+   ],
+   "en": "STAGE",
+   "es": "ETAPA",
+   "fuente": "verdana.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 164,
+   "alto": 40
+  },
+  {
+   "caja": [
+    756,
+    388,
+    841,
+    413
+   ],
+   "en": "STAGE",
+   "es": "ETAPA",
+   "fuente": "verdana.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 78,
+   "alto": 19
+  },
+  {
+   "caja": [
+    868,
+    388,
+    953,
+    413
+   ],
+   "en": "STAGE",
+   "es": "ETAPA",
+   "fuente": "verdana.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 78,
+   "alto": 19
+  },
+  {
+   "caja": [
+    756,
+    420,
+    841,
+    445
+   ],
+   "en": "STAGE",
+   "es": "ETAPA",
+   "fuente": "verdana.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 78,
+   "alto": 19
+  },
+  {
+   "caja": [
+    868,
+    420,
+    953,
+    445
+   ],
+   "en": "STAGE",
+   "es": "ETAPA",
+   "fuente": "verdana.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 78,
+   "alto": 19
+  },
+  {
+   "caja": [
+    756,
+    452,
+    841,
+    477
+   ],
+   "en": "STAGE",
+   "es": "ETAPA",
+   "fuente": "verdana.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 78,
+   "alto": 19
+  },
+  {
+   "caja": [
+    868,
+    452,
+    953,
+    477
+   ],
+   "en": "STAGE",
+   "es": "ETAPA",
+   "fuente": "verdana.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 78,
+   "alto": 19
+  },
+  {
+   "caja": [
+    756,
+    484,
+    841,
+    509
+   ],
+   "en": "STAGE",
+   "es": "ETAPA",
+   "fuente": "verdana.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 78,
+   "alto": 19
+  },
+  {
+   "caja": [
+    868,
+    484,
+    953,
+    509
+   ],
+   "en": "STAGE",
+   "es": "ETAPA",
+   "fuente": "verdana.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 78,
+   "alto": 19
+  },
+  {
+   "caja": [
+    374,
+    393,
+    498,
+    422
+   ],
+   "en": "Confirm",
+   "es": "Confirmar",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 88,
+   "fondo": "lama",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 15
+  },
+  {
+   "caja": [
+    526,
+    393,
+    640,
+    422
+   ],
+   "en": "Rules",
+   "es": "Reglas",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 80,
+   "fondo": "lama",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 15
+  },
+  {
+   "caja": [
+    488,
+    72,
+    536,
+    118
+   ],
+   "en": "win",
+   "es": "",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 44,
+   "dejar": true,
+   "nota": "moneda con 'win' en contorno; muy chica"
+  },
+  {
+   "caja": [
+    983,
+    388,
+    1017,
+    426
+   ],
+   "en": "clear",
+   "es": "",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 30,
+   "dejar": true,
+   "nota": "moneda con 'clear' girado"
+  }
+ ]
+}

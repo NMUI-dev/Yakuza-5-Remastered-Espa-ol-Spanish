@@ -1,0 +1,817 @@
+[
+{
+"id": 61159,
+"en": "Really? That's nice to hear. So you've seen me do my palm\nreadings on celebrities, huh?",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61160,
+"en": "Yes, and I've always wondered what you would say about me.",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61161,
+"en": "Oh, yeah? Well, now's your chance to find out! Let's have a\nlook.",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61162,
+"en": "Really!? You wouldn't mind?",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61163,
+"en": "Of course not. Hold out your hand.",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61164,
+"en": "Let's see.",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61165,
+"en": "Oh, look at that. You have a cross on your heart line,\nwhat's called an embroilment mark. That's pretty rare.",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61166,
+"en": "What? An embroilment mark? What's that?",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61167,
+"en": "It means that you often get caught up in the trouble of\nthose around you, even though you yourself haven't done\nanything wrong. Sound familiar?",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61168,
+"en": "Yes, incredibly. That's amazing. Your readings really are as\naccurate as they say! What else does my palm tell you?",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61169,
+"en": "Let's see. What else? Oh! Would you look at these! This is\nunusual, too.",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61170,
+"en": "Grief lines. They show just how much pain and sadness you've\nbeen through. Does that seem accurate?",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61171,
+"en": "Yes, I'm afraid it does, more than I'd care to admit.",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61172,
+"en": "Yeah? Well, it's pretty uncommon for someone of your young\nage to have been through so much already.",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61173,
+"en": "People with these lines have had some difficult experiences,\nbut on the other hand, they're often big-hearted and kind.\nIs that you?",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61174,
+"en": "Oh, I don't know. I guess it isn't really for me to say.",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61175,
+"en": "Haha, I guess you've got me there. Wait a minute! Look at\nthis!",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61176,
+"en": "It's just about time to go, Shimada-san!",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61177,
+"en": "Oh, okay! Thanks.",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61178,
+"en": "Oh, I'm sorry! I didn't mean to take up your time.",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61179,
+"en": "No, that's all right. Hey, good luck on the Princess League.",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61180,
+"en": "I've been on a few shows with your opponent, T-Set. They\ntake a lot of pride in their work, don't they? You may have\na tough time beating them.",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61181,
+"en": "Yes, I'm afraid you might be right.",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61182,
+"en": "To tell the truth, they're the most professional of all the\nidols I've worked with. They had the show's format and all\ntheir lines down pat.",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61183,
+"en": "They make it look easy, but I can tell they really put in a\nlot of time and effort behind the scenes.",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61184,
+"en": "Yes, I agree. Who knows if I even have a shot against them.",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61185,
+"en": "Aw, don't give up now. You may have been through a lot, but\nthose experiences have made you stronger.",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61186,
+"en": "To tell the truth, my career as a comedian didn't take off\nfor quite a while. Until then, my life was pretty rough, to\nsay the least.",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61187,
+"en": "But I believe those experiences made me who I am today. So\nkeep at it, Haruka-chan! Don't give up!",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61188,
+"en": "All right. I won't!",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61189,
+"en": "Well, see you!",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61190,
+"en": "Thank you, Shimada-san!",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61191,
+"en": "(Shimada-san is just as nice in person as he seems on TV.)",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61192,
+"en": "(So T-Set is very serious and professional, huh? I bet\nthey've put in incredible amounts of effort.)",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61193,
+"en": "(If I want any shot at all of beating them, I'll have to put\nin even more hard work than they do!)",
+"ctx": "diálogo uid0169030a"
+},
+{
+"id": 61194,
+"en": "All right. See you soon for recording.",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61195,
+"en": "(Phew. I'm all done.)",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61196,
+"en": "Oh, Haruka-chan. How have you been?",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61197,
+"en": "Hello, Shimada-san. I've been fine. Thank you for last time!",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61198,
+"en": "You're very welcome. Hey, have you found the confidence you\nneed to take down T-Set?",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61199,
+"en": "Well, to be honest, I still don't know if I can beat them,\nbut I'm doing everything I can to get ready.",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61200,
+"en": "You have a new, determined air about you, too! Here, hold\nout your palm.",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61201,
+"en": "Huh? But you've already read my palm...",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61202,
+"en": "But your lines are always changing. Your palm is like a\nmirror that shows who you are at the moment. If you change,\nyour lines change with you.",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61203,
+"en": "What do you see?",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61204,
+"en": "Incredible...!",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61205,
+"en": "What? What is it?",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61206,
+"en": "Amazing! You have a star sign!",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61207,
+"en": "A star sign?",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61208,
+"en": "Yes, it's a mark that comes up suddenly and temporarily.\nIt's extremely rare.",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61209,
+"en": "While you have the star sign, you're practically invincible,\nand everything's almost sure to play out in your favor.",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61210,
+"en": "That star wasn't there last time. All your hard work and\neffort must've changed your frame of mind and made it\nappear.",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61211,
+"en": "Wow. My effort made this appear?",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61212,
+"en": "That's right. You couldn't have gotten a better reading just\nnow! It means you have a great chance at the Princess League final round!",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61213,
+"en": "Wow. That makes me really happy to hear.",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61214,
+"en": "And now, because of the star mark, the embroilment mark and\ngrief lines I saw last time can be interpreted in a positive\nway.",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61215,
+"en": "I see the suffering you've endured in the past as bolstering\nyour star's brilliance.",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61216,
+"en": "Wow. It'd be amazing if all the bad things that have happened over the course of my life were actually helping me right now.",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61217,
+"en": "Wouldn't it? Well, I'd better be going. Good luck in the\nfinal round!",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61218,
+"en": "Oh, by the way, there was one more thing I forgot to tell\nyou.",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61219,
+"en": "Really? What's that?",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61220,
+"en": "I saw something else of significance in your palm.",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61221,
+"en": "Something else? What did you see?",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61222,
+"en": "Hmm. Maybe it's best if you don't know...",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61223,
+"en": "Please tell me! I won't get upset, no matter what it is!",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61224,
+"en": "Well, all right. If you insist. I saw that your Mount of\nVenus is prominent. That can indicate romance or\nsensuality.",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61225,
+"en": "Mount of Venus?",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61226,
+"en": "Romance or sensuality!? Me? No way!",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61227,
+"en": "Hahaha! What a wonderful thing youth is! Anyway, I'll be\nseeing you!",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61228,
+"en": "Shimada-san! Hmph...",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61229,
+"en": "(But, wow. All in all, I got a really great reading!)",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61230,
+"en": "(So if a person changes, the lines on their palm change,\ntoo! Maybe I really have changed.)",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61231,
+"en": "(I don't exactly feel different, but I hope I've grown in\nsome way. Ooh, I just have to do well in that final round!)",
+"ctx": "diálogo uid0169030b"
+},
+{
+"id": 61232,
+"en": "So you understand the procedure for filming? All right.\nWe're through here, then. Thank you!",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61233,
+"en": "Thank you very much for everything.",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61234,
+"en": "(Phew. The meeting's all done. I guess I'd better head back\nto the agency.)",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61235,
+"en": "Oh! Haruka-chan...?",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61236,
+"en": "Um, that's me.",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61237,
+"en": "It's me, Mitsuyo Fukai, from Cloudy Production. We were on a\na location shoot together the other day, remember?",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61238,
+"en": "(Uh-oh. I don't really remember her.)",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61239,
+"en": "Busy as usual, I see! You're working here again today?",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61240,
+"en": "Yes, I just finished a meeting about my next location shoot.\nI was just about to leave.",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61241,
+"en": "Oh, well, I was about to head to the studio to record for a\nvariety show, but I'll basically just be sitting in the\npeanut gallery.",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61242,
+"en": "That sounds fun, though.",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61243,
+"en": "Oh, how I wish I tried to get on the Princess League! I\ndoubt I could've won, but I might've been able to hang in\nthere for at least a few rounds.",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61244,
+"en": "At least that way, I could've had a little more TV exposure\nlike you!",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61245,
+"en": "Ooh! And if by some miracle I actually won, I could've gone\non to be a huge success! Haha! Is that your dream, too?",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61246,
+"en": "Uh... Mhm.",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61247,
+"en": "Huh? For real? You mean you're actually serious about trying\nto win the whole thing?",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61248,
+"en": "Well, of course. That's why I've been working so hard.",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61249,
+"en": "You're really serious!? I don't know about that. After all, you're\nup against T-Set! Those girls are in a league of their own.",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61250,
+"en": "They've got the looks, and their singing and dancing is\noutstanding. They have first-rate coaches, too.",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61251,
+"en": "Natural ability, hard work, and money. Those girls really\nhave it all! If you ask me, there isn't much hope of beating them.",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61252,
+"en": "Yes, T-Set is amazing. I agree.",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61253,
+"en": "Right? T-Set is the reason I avoided going to the Princess\nLeague this year.",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61254,
+"en": "My manager said it'd be a waste of time to even try. I was\npretty disappointed, but I have to admit she was probably right.",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61255,
+"en": "I don't think you should let yourself get your hopes too\nhigh, either, you know?",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61256,
+"en": "Excuse me, but I have to go now.",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61257,
+"en": "Oh, hold on. I've got something good to tell you!",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61258,
+"en": "Don't tell anyone I told you this, but I hear those T-Set\ngirls are doing the ol' pillow dance with the Princess\nLeague producer.",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61259,
+"en": "Pillow what?",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61260,
+"en": "You know! Sleeping their way to the top! That's why\nvictory's already guaranteed for them.",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61261,
+"en": "I bet the producer manipulates the points on the show's\nconcert battles, too.",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61262,
+"en": "Still, I've got to hand it to those girls. I mean, they'd do\nabsolutely anything to get ahead, you know? That's an act I\ncould never hope to follow.",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61263,
+"en": "You know, I don't believe any of that's true.",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61264,
+"en": "Huh? What are you talking about?",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61265,
+"en": "The T-Set girls would never do anything like that to get\nahead. Who told you that?",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61266,
+"en": "Well, um, I mean, everybody just assumes it! After all, that\nproducer is always playing favorites with them!",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61267,
+"en": "You can't go around spreading horrible rumors like that\nbased solely on an assumption! They actually hate that kind\nof thing. One of them even saved me from it.",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61268,
+"en": "Geez. You don't have to get all bent out of shape. And\nkeep your voice down. I'm just telling you what I heard.",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61269,
+"en": "Just forget it. I'm not wasting any more of my time on you.\nI have to get to the studio!",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61270,
+"en": "You just go right on sucking up to T-Set and trying to share\ntheir spotlight. Good luck with that!",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61271,
+"en": "(I can't believe such an awful rumor about T-Set is going\naround! It's horrible.)",
+"ctx": "diálogo uid0169030c"
+},
+{
+"id": 61272,
+"en": "Well, that's it for rehearsal. Do you have any questions?",
+"ctx": "diálogo uid0169030d"
+},
+{
+"id": 61273,
+"en": "No, no questions. I'm looking forward to the show.",
+"ctx": "diálogo uid0169030d"
+},
+{
+"id": 61274,
+"en": "Yes, me, too! I must say, Haruka-chan, I'm very impressed.\nIt's amazing how far up you've come in such a short time.",
+"ctx": "diálogo uid0169030d"
+},
+{
+"id": 61275,
+"en": "I've been the Princess League host for a long time, but not many\nhave had the momentum you've had. You must be practicing\ntwice as hard as everyone else.",
+"ctx": "diálogo uid0169030d"
+},
+{
+"id": 61276,
+"en": "Oh, I don't know about that. I can't compare myself to\nothers. All I know is that I'm doing the best I can.",
+"ctx": "diálogo uid0169030d"
+},
+{
+"id": 61277,
+"en": "Heheh, good for you! I love your attitude. Girls like you\nare what make the show great and make it shine.",
+"ctx": "diálogo uid0169030d"
+},
+{
+"id": 61278,
+"en": "If you want to know why I've hosted the show for so long and\nit's continued to be so popular, it's that right there.\nWe're all captivated by people like you.",
+"ctx": "diálogo uid0169030d"
+},
+{
+"id": 61279,
+"en": "Captivated?",
+"ctx": "diálogo uid0169030d"
+},
+{
+"id": 61280,
+"en": "Yes, captivated by the fascinating spectacle of you\nbeautiful young ladies giving your absolute all to make your\ndreams come true.",
+"ctx": "diálogo uid0169030d"
+},
+{
+"id": 61281,
+"en": "It's mesmerizing to watch you hone your skills and vie\nagainst one another, sometimes winning, sometimes losing.\nSimply put, the performances are always entrancing.",
+"ctx": "diálogo uid0169030d"
+},
+{
+"id": 61282,
+"en": "Younger girls who watch you on TV are drawn to it, too, and\nin turn they go on to become the next generation of idols.",
+"ctx": "diálogo uid0169030d"
+},
+{
+"id": 61283,
+"en": "It's absolutely fascinating, don't you think?",
+"ctx": "diálogo uid0169030d"
+},
+{
+"id": 61284,
+"en": "Gee, you're very serious about all of this, aren't you? I'm\na little surprised, to tell the truth.",
+"ctx": "diálogo uid0169030d"
+},
+{
+"id": 61285,
+"en": "Haha. Sorry about the speech. I guess I'm sort of different\nfrom how I appear on TV, huh?",
+"ctx": "diálogo uid0169030d"
+},
+{
+"id": 61286,
+"en": "Hehe, a little, yes.",
+"ctx": "diálogo uid0169030d"
+},
+{
+"id": 61287,
+"en": "By the way, do you know how long the Princess League has\nbeen on the air?",
+"ctx": "diálogo uid0169030d"
+},
+{
+"id": 61288,
+"en": "No, I'm sorry. I'm afraid I don't.",
+"ctx": "diálogo uid0169030d"
+},
+{
+"id": 61289,
+"en": "Oh, no need to apologize! After all, it's been on since\nbefore you were even born.",
+"ctx": "diálogo uid0169030d"
+},
+{
+"id": 61290,
+"en": "The Princess League first aired about twenty years ago. I'm\nthe third host the show has had.",
+"ctx": "diálogo uid0169030d"
+},
+{
+"id": 61291,
+"en": "Wow, it's been on that long?",
+"ctx": "diálogo uid0169030d"
+},
+{
+"id": 61292,
+"en": "Pretty surprising, huh? But throughout the years, a lot of\nbig-name idols have gotten their start on this program.",
+"ctx": "diálogo uid0169030d"
+},
+{
+"id": 61293,
+"en": "That's what kind of legacy and influence the Princess League\nhas. So your being on the show now is really a huge\nopportunity for you!",
+"ctx": "diálogo uid0169030d"
+},
+{
+"id": 61294,
+"en": "When the previous host handed the show over to me, he told\nme, \"The Princess League stage is the hallowed ground of\ndreams.\"",
+"ctx": "diálogo uid0169030d"
+},
+{
+"id": 61295,
+"en": "He told me it was our duty to provide this important site\nfor girls to pursue their aspirations to become idols.",
+"ctx": "diálogo uid0169030d"
+},
+{
+"id": 61296,
+"en": "As a complete greenhorn to TV, his words made me realize\nwhat a big responsibility I had, and made me value my new\nwork all the more.",
+"ctx": "diálogo uid0169030d"
+},
+{
+"id": 61297,
+"en": "Dolce-san...",
+"ctx": "diálogo uid0169030d"
+},
+{
+"id": 61298,
+"en": "But you participants in the Princess League have a duty to\nuphold, as well.",
+"ctx": "diálogo uid0169030d"
+},
+{
+"id": 61299,
+"en": "We do?",
+"ctx": "diálogo uid0169030d"
+},
+{
+"id": 61300,
+"en": "It's up to you to give the next generation of girls hope\nthat they, too, can follow their dreams as they watch you up\non that stage.",
+"ctx": "diálogo uid0169030d"
+},
+{
+"id": 61301,
+"en": "You see, a dream isn't something you use and toss aside.\nIt's more like a baton in a relay race. You have to pass it\non. That's what I believe, anyway.",
+"ctx": "diálogo uid0169030d"
+},
+{
+"id": 61302,
+"en": "And so, I wish you the very best of luck, Haruka-chan.",
+"ctx": "diálogo uid0169030d"
+},
+{
+"id": 61303,
+"en": "Thank you, Dolce-san! I'll do my best to pass on my dream!",
+"ctx": "diálogo uid0169030d"
+},
+{
+"id": 61304,
+"en": "Heheh, pardon the lecture. I'm done now. I'll see you at the\nshow!",
+"ctx": "diálogo uid0169030d"
+},
+{
+"id": 61305,
+"en": "(Wow. Dolce-san is so much more serious than I ever would\nhave guessed. I'll have to make sure I'm just as serious and\nresponsible as he is!)",
+"ctx": "diálogo uid0169030d"
+},
+{
+"id": 61306,
+"en": "And that's the general outline of how the show will go. Are\nyou all set now?",
+"ctx": "diálogo uid0169030e"
+},
+{
+"id": 61307,
+"en": "Now to meet with Nomu-san...",
+"ctx": "diálogo uid0169030e"
+},
+{
+"id": 61308,
+"en": "Oh, hey, Nomu-san!",
+"ctx": "diálogo uid0169030e"
+},
+{
+"id": 61309,
+"en": "Hello, Nomu-san. How are you?",
+"ctx": "diálogo uid0169030e"
+},
+{
+"id": 61310,
+"en": "Oh, hello. I always \"love to see you smile,\" Haruka-chan.",
+"ctx": "diálogo uid0169030e"
+},
+{
+"id": 61311,
+"en": "Come to think of it, you're from Dyna Chair, aren't ya?",
+"ctx": "diálogo uid0169030e"
+},
+{
+"id": 61312,
+"en": "Yes, that's right. Why do you ask?",
+"ctx": "diálogo uid0169030e"
+},
+{
+"id": 61313,
+"en": "It's just that you remind me of her.",
+"ctx": "diálogo uid0169030e"
+},
+{
+"id": 61314,
+"en": "I remind you of someone?",
+"ctx": "diálogo uid0169030e"
+},
+{
+"id": 61315,
+"en": "Yes, there's somethin' about ya that makes me think of your\npresident when she was young.",
+"ctx": "diálogo uid0169030e"
+},
+{
+"id": 61316,
+"en": "Really? Park-san?",
+"ctx": "diálogo uid0169030e"
+},
+{
+"id": 61317,
+"en": "That's right. I've been host of this show for a long time,\nbut back when I first started out, Park-chan appeared as a\nguest a few times.",
+"ctx": "diálogo uid0169030e"
+},
+{
+"id": 61318,
+"en": "We were both really new to the business, so we couldn't\nquite find our rhythm together. Haha. It's kind of\nembarrassing, really.",
+"ctx": "diálogo uid0169030e"
+},
+{
+"id": 61319,
+"en": "But over the course of a long career, I guess you're bound to have a few flubs here and there.",
+"ctx": "diálogo uid0169030e"
+},
+{
+"id": 61320,
+"en": "Wow. Park-san was on your show, too.",
+"ctx": "diálogo uid0169030e"
+},
+{
+"id": 61321,
+"en": "Ya know, I really thought she was gonna take off more. She\nhad such promise.",
+"ctx": "diálogo uid0169030e"
+}
+]

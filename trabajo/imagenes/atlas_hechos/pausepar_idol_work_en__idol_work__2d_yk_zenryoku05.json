@@ -1,0 +1,58 @@
+{
+ "textura": "pausepar_idol_work_en/idol_work/2d_yk_zenryoku05",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    55,
+    89,
+    153,
+    117
+   ],
+   "en": "Running",
+   "ocr": "Running",
+   "es": "Carrera",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 94,
+   "dejar": true
+  },
+  {
+   "caja": [
+    155,
+    91,
+    203,
+    114
+   ],
+   "en": "Girl",
+   "ocr": "Giri",
+   "es": "Chica",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 44,
+   "dejar": true
+  },
+  {
+   "caja": [
+    88,
+    120,
+    167,
+    152
+   ],
+   "en": "Vol.5",
+   "ocr": "Vol.5",
+   "es": "Vol.5",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 75
+  }
+ ]
+}

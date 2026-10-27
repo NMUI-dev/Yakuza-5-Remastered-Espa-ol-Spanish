@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_taxi_en/taxi/2d_jm_taxi_kajiwara",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    4,
+    5,
+    620,
+    125
+   ],
+   "en": "CRASH KAJIWARA",
+   "ocr": " CRASH KAJIWARA",
+   "es": "CRASH KAJIWARA",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 612
+  }
+ ]
+}

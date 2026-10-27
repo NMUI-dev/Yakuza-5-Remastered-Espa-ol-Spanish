@@ -1,0 +1,832 @@
+[
+{
+"id": 29240,
+"en": "Oh, <Color:8>Miso Stewed Udon with Nagoya Cochin Chicken<Color:Default>! That looks delicious!",
+"ctx": "diálogo uid003305a7"
+},
+{
+"id": 29241,
+"en": "(Shion-chan's got her eye on that <Color:8>Miso Stewed Udon with Nagoya Cochin Chicken<Color:Default>.)",
+"ctx": "diálogo uid003305a7"
+},
+{
+"id": 29242,
+"en": "Do you come here often, Shinada-san?",
+"ctx": "diálogo uid003305a7"
+},
+{
+"id": 29243,
+"en": "Not really. Why do you ask?",
+"ctx": "diálogo uid003305a7"
+},
+{
+"id": 29244,
+"en": "I've wanted to come here for some time, but I didn't know anyone who could introduce me, so I wasn't afforded the opportunity.",
+"ctx": "diálogo uid003305a7"
+},
+{
+"id": 29245,
+"en": "What's wrong with coming here by yourself? That's what I've always done.",
+"ctx": "diálogo uid003305a7"
+},
+{
+"id": 29246,
+"en": "And you didn't have a letter of introduction?",
+"ctx": "diálogo uid003305a7"
+},
+{
+"id": 29247,
+"en": "A what? I don't think there are any places around here that'd need something like that.",
+"ctx": "diálogo uid003305a7"
+},
+{
+"id": 29248,
+"en": "Oh, really? I always get introduced to new establishments by my friends, and so I'd assumed this place was like that as well.",
+"ctx": "diálogo uid003305a7"
+},
+{
+"id": 29249,
+"en": "Bring your friends next time. Then you can be the one to introduce them.",
+"ctx": "diálogo uid003305a7"
+},
+{
+"id": 29250,
+"en": "Good idea! And I'll have to tell my friends all about you, Shinada-san, won't I?",
+"ctx": "diálogo uid003305a7"
+},
+{
+"id": 29251,
+"en": "About me? Uh, no, you don't have to do that.",
+"ctx": "diálogo uid003305a7"
+},
+{
+"id": 29252,
+"en": "No, I simply must! It would reflect poorly on me to not pay proper respects to the person who introduced me to this place.",
+"ctx": "diálogo uid003305a7"
+},
+{
+"id": 29253,
+"en": "It's really not that big a thing...",
+"ctx": "diálogo uid003305a7"
+},
+{
+"id": 29254,
+"en": "Making your name a topic of conversation can spread the word about you. Talking only of oneself is much too tedious and gauche.",
+"ctx": "diálogo uid003305a7"
+},
+{
+"id": 29255,
+"en": "Gau... che? Aw geez, this is another one of your fancy high society rules, isn't it?",
+"ctx": "diálogo uid003305a7"
+},
+{
+"id": 29256,
+"en": "That's a bit silly. Not many places are that picky about who comes in.",
+"ctx": "diálogo uid003305a7"
+},
+{
+"id": 29257,
+"en": "But haven't you ever been invited to a new place by the owner when it's first opened?",
+"ctx": "diálogo uid003305a7"
+},
+{
+"id": 29258,
+"en": "Oh, yeah, I guess I have! Like a new parlor will open up and they'll be all, \"Hey, come on by, it's on the house!\"",
+"ctx": "diálogo uid003305a7"
+},
+{
+"id": 29259,
+"en": "I guess they want to make a good impression, so I'll give them a glowing write-up and bring in more customers for them.",
+"ctx": "diálogo uid003305a7"
+},
+{
+"id": 29260,
+"en": "Precisely! By starting with people whom they trust as guests, an establishment can build a much better reputation.",
+"ctx": "diálogo uid003305a7"
+},
+{
+"id": 29261,
+"en": "I've heard stories of places that have opened to the general public first, only to have rivals send people in to cause embarrassing incidents.",
+"ctx": "diálogo uid003305a7"
+},
+{
+"id": 29262,
+"en": "Oh, wow! I know lots of places that failed pretty quickly. I didn't realize competition was so intense!",
+"ctx": "diálogo uid003305a7"
+},
+{
+"id": 29263,
+"en": "You should introduce me! I'd love to go to a place like that! Then once you've introduced me, I can go by myself, right?",
+"ctx": "diálogo uid003305a7"
+},
+{
+"id": 29264,
+"en": "I don't mind introducing you, Shinada-san, but if you go back after that, then you need to introduce another friend of your own.",
+"ctx": "diálogo uid003305a7"
+},
+{
+"id": 29265,
+"en": "What? Why?",
+"ctx": "diálogo uid003305a7 + diálogo uid010c081d …"
+},
+{
+"id": 29266,
+"en": "These places earn their business through their clientele introducing new customers. If you keep coming alone, they don't make any money.",
+"ctx": "diálogo uid003305a7"
+},
+{
+"id": 29267,
+"en": "That's why it would be rude of me to introduce someone who would not continue the pattern of bringing someone new on their next visit.",
+"ctx": "diálogo uid003305a7"
+},
+{
+"id": 29268,
+"en": "Oh, I get it. Since it's so exclusive, they need people to help them grow.",
+"ctx": "diálogo uid003305a7"
+},
+{
+"id": 29269,
+"en": "If you ask me, seems like less trouble to just let everyone in to begin with.",
+"ctx": "diálogo uid003305a7"
+},
+{
+"id": 29270,
+"en": "Uncle Kaz, I'd really like some <Color:8>Miso Stewed Udon with Choice Kurobuta<Color:Default>.",
+"ctx": "diálogo uid003305a7"
+},
+{
+"id": 29271,
+"en": "(Haruka wants to have some <Color:8>Miso Stewed Udon with Choice Kurobuta<Color:Default>.)",
+"ctx": "diálogo uid003305a7"
+},
+{
+"id": 29272,
+"en": "But I wanted some <Color:8>Miso Stewed Udon with Choice Kurobuta<Color:Default>.",
+"ctx": "diálogo uid003305a7"
+},
+{
+"id": 29273,
+"en": "Thank you very much. I hope that was to your liking.",
+"ctx": "diálogo uid003305a7 + diálogo uid01330995"
+},
+{
+"id": 29274,
+"en": "Hello, welcome! How may I help you?",
+"ctx": "diálogo uid003305a8"
+},
+{
+"id": 29275,
+"en": "Excuse me! Do you like shogi, by any chance? Are you good at it? How good?",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29276,
+"en": "Whoa, slow down... What is this all about?",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29277,
+"en": "Oh, I beg your pardon. I got a little carried away. My name is Kongoin.",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29278,
+"en": "I have ambitions of becoming a shogi master, but I've hit a wall. My progress has stalled.",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29279,
+"en": "A shogi master? You're that good? Your name sounds right for the part, at least. Though I don't see how I can help you.",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29280,
+"en": "Kongoin is my real name, so I didn't pick it to sound strong or anything. I've never played against a person, only computers.",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29281,
+"en": "Why don't you go to a shogi club or association? I don't see why you need me.",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29282,
+"en": "No, I couldn't... I could never do that!",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29283,
+"en": "If you'd never played soccer before, you wouldn't just go try out for a professional soccer team, right? It's like that.",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29284,
+"en": "So, I figured if I played shogi by myself, someone would come along, and I could play them. And hello, here you are. Perfect, right?",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29285,
+"en": "I mean, who else but a shogi fan would bother talking to a guy with a shogi board out? Sound logic, yes?",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29286,
+"en": "Please, just one match! All I need to build up my confidence is to play against a real, live human being! Just once, please?",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29287,
+"en": "Sure. Let's see how good you are.",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29288,
+"en": "Oh, thank you! I really appreciate it. Let's do this!",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29289,
+"en": "I'm afraid I don't have the time.",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29290,
+"en": "Oh, that's a shame. Still, I'll be here. Let me know if you change your mind!",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29291,
+"en": "Oh, uh, you from before! Can I get you to play shogi with me?",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29292,
+"en": "Wow, you're very good. Playing against a human is really different from playing against a computer.",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29293,
+"en": "Oh, yes. You don't play anything like the AI in Shogi for Kids!",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29294,
+"en": "...Glad to hear it. See you.",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29295,
+"en": "No, don't run off yet. Can you play me again?",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29296,
+"en": "What? We just played a match not thirty seconds ago.",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29297,
+"en": "I'm not necessarily saying right now, just sometime soon! Anytime you've got some time.",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29298,
+"en": "I learned so much more than ever before just by playing a real, live human. I think if I play you multiple times, I'll get real good at this game, fast!",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29299,
+"en": "I'll buy a new PC shogi game so I can get ready for our rematch.",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29300,
+"en": "So please, if you get the time, I hope you'll think of me and my shogi board.",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29301,
+"en": "Wait, what? I won? Thanks for letting me win. I am grateful for that, but this doesn't really help me.",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29302,
+"en": "I wasn't trying to let you win...",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29303,
+"en": "Please, I'd love to have a rematch with you, to help me achieve true mastery!",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29304,
+"en": "Ah, you're back! You're, uh...",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29305,
+"en": "Right, right, Suzuki-san. I remember! I've gotten much better since our last game.",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29306,
+"en": "Am I right in assuming you came back to play me again?",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29307,
+"en": "Yeah, that's right.",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29308,
+"en": "Very well. Let's get on with our match. I can't wait!",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29309,
+"en": "Oh my, schooled yet again. I'm sure I've improved, but playing a living opponent face to face is very different.",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29310,
+"en": "Still, you gave me the confidence to go to a real shogi club. But may I ask you to play one last match with me?",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29311,
+"en": "What? We're not done yet?",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29312,
+"en": "I need one last nudge of confidence. I think I told you before, but I'm hoping to become a shogi master.",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29313,
+"en": "Yeah, I remember that vaguely.",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29314,
+"en": "To succeed as a shogi player, I need my talent to emerge from its cocoon, transformed into a thing of beauty and renown!",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29315,
+"en": "Uh-huh... And you think playing me again will help with your... cocoon?",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29316,
+"en": "Absolutely! If I can play one more match against you, I'm sure my talent will come crawling out of its chrysalis as a fully-formed shogi butterfly!",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29317,
+"en": "...Right.",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29318,
+"en": "Like before, I will be waiting here for a rematch. Please come back when you get a chance!",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29319,
+"en": "Please, I'd love to have a rematch with you, to help my butterfly of talent emerge!",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29320,
+"en": "Ah, Suzuki-san! I've been waiting for you!",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29321,
+"en": "I actually went to a real shogi club after I saw you. They made me take a test, and they said I  was already playing at a professional level!",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29322,
+"en": "Is that right? Then you don't need me to play you anymore, now, do you?",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29323,
+"en": "Not so! Like I said before, I need to play you one last time to really find success in the world of professional shogi.",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29324,
+"en": "Please, I'm begging you. Just one last match to help me become a shogi master.",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29325,
+"en": "All right. This is it.",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29326,
+"en": "Excellent! Let us begin!",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29327,
+"en": "Wow, as masterful as ever! I thought I'd gotten a lot better, but playing a person just isn't the same.",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29328,
+"en": "You have gotten better, I can tell.",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29329,
+"en": "I'm sure I can succeed as a pro shogi player now. Watch for me in the news!",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29330,
+"en": "Oh, silly me, I wanted to give you this. Please accept it.",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29331,
+"en": "I'll see you around!",
+"ctx": "diálogo uid003305ac"
+},
+{
+"id": 29332,
+"en": "Do you happen to know why white chocolate is white, sir?",
+"ctx": "diálogo uid003306be"
+},
+{
+"id": 29333,
+"en": "I'm guessin' because it's made with milk?",
+"ctx": "diálogo uid003306be"
+},
+{
+"id": 29334,
+"en": "That would be milk chocolate.",
+"ctx": "diálogo uid003306be"
+},
+{
+"id": 29335,
+"en": "All chocolate is made by fermenting the main ingredient, cocoa beans. The chocolate color comes from the cocoa mass.",
+"ctx": "diálogo uid003306be"
+},
+{
+"id": 29336,
+"en": "This cocoa mass can be further broken down into cocoa butter and cocoa powder.",
+"ctx": "diálogo uid003306be"
+},
+{
+"id": 29337,
+"en": "White chocolate is prepared from cocoa butter mixed with sugar and milk, but without cocoa mass. That's why it's colored white.",
+"ctx": "diálogo uid003306be"
+},
+{
+"id": 29338,
+"en": "So it's all made from the same stuff.",
+"ctx": "diálogo uid003306be"
+},
+{
+"id": 29339,
+"en": "Indeed. However, in addition to lacking the bitter cocoa mass, the addition of sugar and milk makes it far sweeter than normal chocolate.",
+"ctx": "diálogo uid003306be"
+},
+{
+"id": 29340,
+"en": "(So that's why white chocolate is white. I could bring that up at the cabaret club.)",
+"ctx": "diálogo uid003306be"
+},
+{
+"id": 29341,
+"en": "Thank you for coming in.",
+"ctx": "diálogo uid003306bf + diálogo uid0169030c"
+},
+{
+"id": 29342,
+"en": "Ooh, aren't you a little sweetheart? Sweet as you are, I can't serve anyone under age. You're welcome to come back in a few years though, darling!",
+"ctx": "diálogo uid0033072f"
+},
+{
+"id": 29343,
+"en": "Oh, hello. Are you ready to order?",
+"ctx": "diálogo uid0033072f"
+},
+{
+"id": 29344,
+"en": "Sorry, but you've had too many already. That's enough, all right?",
+"ctx": "diálogo uid0033072f"
+},
+{
+"id": 29345,
+"en": "Can I interest you in another?",
+"ctx": "diálogo uid0033072f"
+},
+{
+"id": 29346,
+"en": "Oh. Is that so? Come again.",
+"ctx": "diálogo uid0033072f"
+},
+{
+"id": 29347,
+"en": "Uh-oh, you're not of age, are you? I'm sorry, but we can't serve you here. We'd love to have you back when you're legal.",
+"ctx": "diálogo uid00330764"
+},
+{
+"id": 29348,
+"en": "Welcome. Have you decided what you want?",
+"ctx": "diálogo uid00330764"
+},
+{
+"id": 29349,
+"en": "(I don't need a taxi right now. Besides, I shouldn't waste money.)",
+"ctx": "diálogo uid0033076c"
+},
+{
+"id": 29350,
+"en": "Would you like to go to Tsukimino? That'll be 650 yen.",
+"ctx": "diálogo uid003307c1"
+},
+{
+"id": 29351,
+"en": "Would you like to go back to Kineicho?",
+"ctx": "diálogo uid003307c4"
+},
+{
+"id": 29352,
+"en": "Hello. I can exchange your pachinko balls and slots tokens for prizes. Which would you like to exchange?",
+"ctx": "diálogo uid00330928"
+},
+{
+"id": 29353,
+"en": "Hi. I'll exchange your slot machine tokens for prizes.",
+"ctx": "diálogo uid00330929"
+},
+{
+"id": 29354,
+"en": "You can trade in your tags for prizes here. Anything catch your eye?",
+"ctx": "diálogo uid0033092a"
+},
+{
+"id": 29355,
+"en": "Sure. Drop by when you rake in some tags.",
+"ctx": "diálogo uid0033092a"
+},
+{
+"id": 29356,
+"en": "We'll need you to buy wooden tags if you want to play here. How many would you like? One tag is 100 yen.",
+"ctx": "diálogo uid0033092b"
+},
+{
+"id": 29357,
+"en": "I'll take 50 tags.",
+"ctx": "diálogo uid0033092b"
+},
+{
+"id": 29358,
+"en": "All right! Have yourself a good time.",
+"ctx": "diálogo uid0033092b"
+},
+{
+"id": 29359,
+"en": "I'll take 100 tags.",
+"ctx": "diálogo uid0033092b"
+},
+{
+"id": 29360,
+"en": "I'll take 1,000 tags.",
+"ctx": "diálogo uid0033092b"
+},
+{
+"id": 29361,
+"en": "No thanks. Not now.",
+"ctx": "diálogo uid0033092b"
+},
+{
+"id": 29362,
+"en": "Oh yeah? Well, maybe pick some up next time.",
+"ctx": "diálogo uid0033092b"
+},
+{
+"id": 29363,
+"en": "Hey, you don't have enough to pay for that! Come back when you got money.",
+"ctx": "diálogo uid0033092b"
+},
+{
+"id": 29364,
+"en": "Thanks for comin', Haruka-chan! Let's get back to auditioning for the show!",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29365,
+"en": "Thanks for comin', Haruka-chan! Let's go audition again. We gotta clear the second round!",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29366,
+"en": "We got some free time for now. Let's meet back here again later.",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29367,
+"en": "Like I told ya, next up is the final round. We've come this far, so I really wanna see it through till the end with ya, Haruka-chan.",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29368,
+"en": "It'd be awesome if you could help me out one last time. Sorry to keep askin' so much of ya, Haruka-chan.",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29369,
+"en": "Oh, don't worry about it. It's been a great experience.",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29370,
+"en": "I really appreciate ya sayin' that. There's still time to spare before the final round, so lemme know when you're ready.",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29371,
+"en": "I just need your help for one last round!",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29372,
+"en": "Thanks for comin', Haruka-chan! It's time for the final round! Let's go do this!",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29373,
+"en": "I'm ready! Let's give it our all!",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29374,
+"en": "Thanks for comin', Haruka-chan! Let's take another crack at the audition! We gotta see if we can pass the final round this time!",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29375,
+"en": "Okay! Let's do our best!",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29376,
+"en": "I been thinking, Haruka-chan. What would ya say to carryin' on as my partner?",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29377,
+"en": "We got real chemistry as a team, and passin' this audition's bound to get us gigs on other TV shows, too.",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29378,
+"en": "Haruo! There ya are!",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29379,
+"en": "Akihiko! What's up? I thought ya found yourself a job.",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29380,
+"en": "Yeah, but I changed my mind.",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29381,
+"en": "I went to the job interview, but I pulled out at the last minute.",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29382,
+"en": "They asked me what my goal was. I had a good, hard think about that one. What is it I really want outta life?",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29383,
+"en": "After 'bout three minutes of the ol' gears turnin', I told 'em all I wanna do is conquer the comedy world, then I up and left.",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29384,
+"en": "Man...",
+"ctx": "diálogo uid0033092e + diálogo uid010c076e …"
+},
+{
+"id": 29385,
+"en": "Sorry for what I did to ya, Haruo. I realized I really do wanna do comedy with ya. Will ya team up with me again?",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29386,
+"en": "Come on! We'll crush it together!",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29387,
+"en": "Congratulations on getting the team back together!",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29388,
+"en": "Huh? Who's this cutie?",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29389,
+"en": "My name is Haruka-chan. Nice to meet you. I'm one of Haruo's fans.",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29390,
+"en": "For real!? That's awesome!",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29391,
+"en": "I'll be rooting for you, Haruo. I know one day you're going to rock the comedy world.",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29392,
+"en": "Yeah... Yeah!",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29393,
+"en": "I guess comedians and pop idols live in two different worlds. We gotta walk our own paths.",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29394,
+"en": "What're ya talkin' about? Idols?",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29395,
+"en": "Nah, never mind.",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29396,
+"en": "Anyway, whatever! We're a team again. Let's make this happen!",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29397,
+"en": "Thanks, Haruo!",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29398,
+"en": "I guess this is goodbye, Haruka-chan. Maybe we'll run into each other on a TV show someday.",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29399,
+"en": "This's your share of the audition prize money.\nTake it, Haruka-chan.",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29400,
+"en": "You got <Color:8>50,000 yen<Color:Default>.",
+"ctx": "diálogo uid0033092e + diálogo uid0049013c …"
+},
+{
+"id": 29401,
+"en": "Thank you. This was a great experience for me. Comedy is pretty interesting. I'd love to give it another shot sometime.",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29402,
+"en": "Glad to hear it! Oh, yeah. If ya ever feel like doin' some comedy again, just let me know.",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29403,
+"en": "You'll usually find me 'round these parts. No more auditions for us, but that don't mean we can't practice our comedy routine together.",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29404,
+"en": "All right, Akihiko. Let's set course for the stars! We can talk over some joke ideas in the park over there!",
+"ctx": "diálogo uid0033092e"
+},
+{
+"id": 29405,
+"en": "Yeah! Let's ready up for the next audition!",
+"ctx": "diálogo uid0033092e"
+}
+]

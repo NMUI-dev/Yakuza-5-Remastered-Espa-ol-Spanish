@@ -1,0 +1,179 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_mjrule1",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    445,
+    7,
+    579,
+    46
+   ],
+   "en": "Mahjong",
+   "ocr": "Mahjong",
+   "es": "Mahjong",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 130,
+   "dejar": true
+  },
+  {
+   "caja": [
+    51,
+    83,
+    293,
+    116
+   ],
+   "en": "Game Components",
+   "ocr": "GameComponents",
+   "es": "Componentes de la Partida",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 238,
+   "dejar": true
+  },
+  {
+   "caja": [
+    69,
+    149,
+    953,
+    180
+   ],
+   "en": "A game of mahjong consists of 136 tiles. There are exactly 4 copies of each",
+   "ocr": "A game of mahjong consists of 136 tiles. There are exactly 4 copies of each",
+   "es": "Una Partida de Mahjong consta de 136 fichas. Hay exactamente 4 copias de cada una.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 880,
+   "dejar": true
+  },
+  {
+   "caja": [
+    70,
+    182,
+    441,
+    211
+   ],
+   "en": "tile, resulting in 34 unique tiles.",
+   "ocr": "tile, resulting in 34 unique tiles.",
+   "es": "ficha, lo que da como resultado 34 fichas únicas.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 367,
+   "dejar": true
+  },
+  {
+   "caja": [
+    114,
+    242,
+    188,
+    277
+   ],
+   "en": "Tiles:",
+   "ocr": "Tiles:",
+   "es": "Fichas:",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 70,
+   "dejar": true
+  },
+  {
+   "caja": [
+    117,
+    275,
+    865,
+    308
+   ],
+   "en": "Numbers 1-9 of 3 different suits: Circles, Bamboo, & Characters",
+   "ocr": "Numbers 1-9 of 3 different suits: Circles, Bamboo,& Characters",
+   "es": "Números del 1 al 9 de 3 palos distintos: Círculos, Bambú y Caracteres",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 744,
+   "dejar": true
+  },
+  {
+   "caja": [
+    118,
+    309,
+    569,
+    339
+   ],
+   "en": "4 Wind tiles (East, South, West, North)",
+   "ocr": "4 Wind tiles (East, South,West,North)",
+   "es": "4 fichas Wind (Este, Sur, Oeste, Norte)",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 447,
+   "dejar": true
+  },
+  {
+   "caja": [
+    119,
+    341,
+    523,
+    372
+   ],
+   "en": "3 Dragon tiles (White, Green, Red)",
+   "ocr": "3 Dragon tiles (White, Green, Red)",
+   "es": "3 fichas de dragón (Blanco, Verde, Rojo)",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 400,
+   "dejar": true
+  },
+  {
+   "caja": [
+    117,
+    403,
+    908,
+    436
+   ],
+   "en": "The Wind and Dragon tiles are collectively referred to as honor tiles.",
+   "ocr": "The Wind and Dragon tiles are collectively referred to as honor tiles.",
+   "es": "Las fichas Wind y Dragón se denominan conjuntamente fichas de honor.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 787,
+   "dejar": true
+  },
+  {
+   "caja": [
+    118,
+    437,
+    786,
+    466
+   ],
+   "en": "Tiles 1 and 9 of each suit are referred to as terminal tiles.",
+   "ocr": "Tiles 1 and 9 of each suit are referred to as terminal tiles.",
+   "es": "Las fichas 1 y 9 de cada palo se denominan fichas terminales.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 664,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: lo hace el PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

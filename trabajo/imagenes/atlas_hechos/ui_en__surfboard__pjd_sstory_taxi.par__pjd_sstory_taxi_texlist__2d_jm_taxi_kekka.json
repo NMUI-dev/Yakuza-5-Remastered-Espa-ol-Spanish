@@ -1,0 +1,172 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_taxi.par/pjd_sstory_taxi_texlist/2d_jm_taxi_kekka",
+ "fuente": "Knewave-Regular.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    0,
+    512,
+    88
+   ],
+   "en": "YOU WIN",
+   "es": "GANASTE",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     254,
+     14,
+     13
+    ]
+   },
+   "alin": "centro",
+   "ancho_max": 500,
+   "alto": 66
+  },
+  {
+   "caja": [
+    0,
+    88,
+    512,
+    176
+   ],
+   "en": "YOU LOSE",
+   "es": "PERDISTE",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     130,
+     21,
+     255
+    ]
+   },
+   "alin": "centro",
+   "ancho_max": 500
+  },
+  {
+   "caja": [
+    0,
+    176,
+    512,
+    264
+   ],
+   "en": "COMPLETED!",
+   "es": "¡COMPLETADA!",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      255,
+      229,
+      9
+     ],
+     3
+    ],
+    "brillo": null
+   },
+   "alin": "centro",
+   "ancho_max": 500
+  },
+  {
+   "caja": [
+    0,
+    264,
+    512,
+    352
+   ],
+   "en": "FAILED",
+   "es": "FALLIDA",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     130,
+     21,
+     255
+    ]
+   },
+   "alin": "centro",
+   "ancho_max": 500
+  },
+  {
+   "caja": [
+    268,
+    458,
+    430,
+    506
+   ],
+   "en": "Reversing",
+   "es": "Reversa",
+   "fuente": "verdana.ttf",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     254,
+     105,
+     105
+    ]
+   },
+   "alin": "centro",
+   "ancho_max": 150
+  }
+ ]
+}

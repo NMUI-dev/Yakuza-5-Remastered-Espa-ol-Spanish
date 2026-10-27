@@ -1,0 +1,39 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_taiko_result.par/texlist_0001/taiko_result_03",
+ "fuente": "segoeuib.ttf",
+ "margen": 0,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    320,
+    620,
+    528,
+    670
+   ],
+   "en": "1st Song",
+   "ocr": "1st Song",
+   "es": "Canción 1",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 204,
+   "alto": 38
+  },
+  {
+   "caja": [
+    320,
+    703,
+    528,
+    783
+   ],
+   "en": "2nd Song",
+   "ocr": "2nd Song",
+   "es": "Canción 2",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 204
+  }
+ ]
+}

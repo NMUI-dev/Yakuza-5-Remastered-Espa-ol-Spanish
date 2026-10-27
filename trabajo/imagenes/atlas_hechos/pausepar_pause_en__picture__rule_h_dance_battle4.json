@@ -1,0 +1,162 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_h_dance_battle4",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    419,
+    9,
+    605,
+    43
+   ],
+   "en": "Dance Battle",
+   "ocr": "Dance Battle",
+   "es": "B. de baile",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 182,
+   "dejar": true
+  },
+  {
+   "caja": [
+    35,
+    70,
+    288,
+    109
+   ],
+   "en": "Dance Battle (5)",
+   "ocr": "· Dance Battle (5)",
+   "es": "B. de baile (5)",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 249,
+   "dejar": true
+  },
+  {
+   "caja": [
+    60,
+    115,
+    985,
+    150
+   ],
+   "en": "When your Heat Gauge fills, the Dance Heat icon will appear in the top right.",
+   "ocr": "When your Heat Gauge fills, the Dance Heat icon will appear in the top right.",
+   "es": "Cuando tu Barra de Heat se llena, el ícono del Baile de furia aparecerá en la parte superior derecha.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 921,
+   "dejar": true
+  },
+  {
+   "caja": [
+    58,
+    149,
+    203,
+    185
+   ],
+   "en": "If you push",
+   "ocr": "If you push",
+   "es": "Si empujas el control",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 141,
+   "dejar": true
+  },
+  {
+   "caja": [
+    290,
+    149,
+    570,
+    185
+   ],
+   "en": "while this is displayed,",
+   "ocr": "while this is displayed,",
+   "es": "mientras se muestre esto,",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 276,
+   "dejar": true
+  },
+  {
+   "caja": [
+    57,
+    182,
+    422,
+    219
+   ],
+   "en": "you can unleash Dance Heat.",
+   "ocr": "you can unleash Dance Heat.",
+   "es": "puedes Desatar Baile de furia.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 361,
+   "dejar": true
+  },
+  {
+   "caja": [
+    59,
+    251,
+    751,
+    286
+   ],
+   "en": "The icon next to your health bar indicates the spirit level.",
+   "ocr": "The icon next to your health bar indicates the spirit level.",
+   "es": "El ícono junto a tu barra de salud indica el Nivel de Espíritu.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 688,
+   "dejar": true
+  },
+  {
+   "caja": [
+    59,
+    286,
+    454,
+    322
+   ],
+   "en": "The higher your spirit increases,",
+   "ocr": "The higher your spirit increases,",
+   "es": "Cuanto más alto sea tu Espíritu, mayor...",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 391,
+   "dejar": true
+  },
+  {
+   "caja": [
+    59,
+    320,
+    496,
+    354
+   ],
+   "en": "the more efficiently you gain points.",
+   "ocr": "the more efficiently you gainpoints.",
+   "es": "Cuanto MÁS eficientemente ganes Puntos, mayor será tu Ganancia.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 433,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: lo hace el PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

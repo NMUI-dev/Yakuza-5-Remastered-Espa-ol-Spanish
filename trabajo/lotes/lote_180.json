@@ -1,0 +1,1627 @@
+[
+{
+"id": 39529,
+"en": "You cannot go beyond this point in the demo.",
+"ctx": "diálogo uid0102187d + diálogo uid0102187e …"
+},
+{
+"id": 39530,
+"en": "(I probably shouldn't go beyond here.)",
+"ctx": "diálogo uid0102189e + diálogo uid010218a1 …"
+},
+{
+"id": 39531,
+"en": "(I shouldn't go too far.)",
+"ctx": "diálogo uid0102189e + diálogo uid010218a1 …"
+},
+{
+"id": 39532,
+"en": "(I should stay around this area.)",
+"ctx": "diálogo uid0102189e + diálogo uid010218a1 …"
+},
+{
+"id": 39533,
+"en": "(I shouldn't go very far.)",
+"ctx": "diálogo uid0102189e + diálogo uid010218a1 …"
+},
+{
+"id": 39534,
+"en": "(I think I shouldn't go too far.)",
+"ctx": "diálogo uid0102189e + diálogo uid010218a1 …"
+},
+{
+"id": 39535,
+"en": "Rest until night?",
+"ctx": "diálogo uid010219f2 + diálogo uid010219f3 …"
+},
+{
+"id": 39536,
+"en": "Rest until noon?",
+"ctx": "diálogo uid010219f2 + diálogo uid010219f3 …"
+},
+{
+"id": 39537,
+"en": "Rest until evening?",
+"ctx": "diálogo uid010219f2 + diálogo uid010219f3 …"
+},
+{
+"id": 39538,
+"en": "You can now use the hideout in Kage's residence.",
+"ctx": "diálogo uid01021a28"
+},
+{
+"id": 39539,
+"en": "You can save the game.",
+"ctx": "diálogo uid01021a28"
+},
+{
+"id": 39540,
+"en": "You recover health while in your hideout.",
+"ctx": "diálogo uid01021a28"
+},
+{
+"id": 39541,
+"en": "You can view Results.",
+"ctx": "diálogo uid01021a28"
+},
+{
+"id": 39542,
+"en": "You can use the Item Box.",
+"ctx": "diálogo uid01021a28"
+},
+{
+"id": 39543,
+"en": "You can now use the Florist's residence as a hideout.",
+"ctx": "diálogo uid01021a29"
+},
+{
+"id": 39544,
+"en": "Yamaura-san and Christina-san aren't here...",
+"ctx": "diálogo uid01021a6e"
+},
+{
+"id": 39545,
+"en": "Oh, well. Let's go to Park-san's office, then.",
+"ctx": "diálogo uid01021a6e"
+},
+{
+"id": 39546,
+"en": "(There's a cop this way. Better steer clear.)",
+"ctx": "diálogo uid01021a8d + diálogo uid01021a8e"
+},
+{
+"id": 39547,
+"en": "Dang it! Lost him...",
+"ctx": "diálogo uid01032f72"
+},
+{
+"id": 39548,
+"en": "Oof... *pant* I'm pooped.",
+"ctx": "diálogo uid01032f72"
+},
+{
+"id": 39549,
+"en": "Damn it. I lost him.",
+"ctx": "diálogo uid01033019"
+},
+{
+"id": 39550,
+"en": "*pant* *pant* I can't run any further.",
+"ctx": "diálogo uid01033019"
+},
+{
+"id": 39551,
+"en": "*pant* Can't... *pant* move...",
+"ctx": "diálogo uid010330f7"
+},
+{
+"id": 39552,
+"en": "Damn it. He got away.",
+"ctx": "diálogo uid0103345d"
+},
+{
+"id": 39553,
+"en": "*pant* *pant* I can't go on...",
+"ctx": "diálogo uid0103345d + diálogo uid010345a7 …"
+},
+{
+"id": 39554,
+"en": "Damn. Lost 'em.",
+"ctx": "diálogo uid010334fc"
+},
+{
+"id": 39555,
+"en": "*huff* Damn it, I'm outta breath.",
+"ctx": "diálogo uid010334fc + diálogo uid01033d14"
+},
+{
+"id": 39556,
+"en": "Later, loser! Looks like I'm in the clear.",
+"ctx": "diálogo uid01033859 + diálogo uid01034367 …"
+},
+{
+"id": 39557,
+"en": "Dang... He got away.",
+"ctx": "diálogo uid01033ba5"
+},
+{
+"id": 39558,
+"en": "Oof... Argh... I'm all out of steam.",
+"ctx": "diálogo uid01033ba5"
+},
+{
+"id": 39559,
+"en": "(Hm, this snowman's huge. How many hours did some poor yap spend rollin' those snowballs?)",
+"ctx": "diálogo uid01033c3e + diálogo uid0103459b …"
+},
+{
+"id": 39560,
+"en": "(Heck, rollin' a giant snowball is somethin'. Maybe that's an idea for the street performer.)",
+"ctx": "diálogo uid01033c3e + diálogo uid0103459b …"
+},
+{
+"id": 39561,
+"en": "(Wonder if that street performer ever found a local angle for his act?)",
+"ctx": "diálogo uid01033c3f + diálogo uid010345aa …"
+},
+{
+"id": 39562,
+"en": "(Somethin' about the snow statues would be a safe bet, but they'd be tough to work into a performance.)",
+"ctx": "diálogo uid01033c3f + diálogo uid010345aa …"
+},
+{
+"id": 39563,
+"en": "You learned <Color:9>Essence of Snowman<Color:Default>!",
+"ctx": "diálogo uid01033cfb + diálogo uid010344a0"
+},
+{
+"id": 39564,
+"en": "You weren't inspired.",
+"ctx": "diálogo uid01033cfb + diálogo uid010344a0 …"
+},
+{
+"id": 39565,
+"en": "Looks like I gave them the slip.",
+"ctx": "diálogo uid01033d2a"
+},
+{
+"id": 39566,
+"en": "Damn. I lost him.",
+"ctx": "diálogo uid01033d2b + diálogo uid0103485e …"
+},
+{
+"id": 39567,
+"en": "It's no use. I can't run any further.",
+"ctx": "diálogo uid01033d2b"
+},
+{
+"id": 39568,
+"en": "Gah, he's too fast...",
+"ctx": "diálogo uid01033d31"
+},
+{
+"id": 39569,
+"en": "*pant* I'm all out of gas... *wheeze*",
+"ctx": "diálogo uid01033d31"
+},
+{
+"id": 39570,
+"en": "Damn it. They got away.",
+"ctx": "diálogo uid01033dc4"
+},
+{
+"id": 39571,
+"en": "*pant* *pant* I'm exhausted...",
+"ctx": "diálogo uid01033dc4"
+},
+{
+"id": 39572,
+"en": "Damn, he's gone...",
+"ctx": "diálogo uid01033dc8"
+},
+{
+"id": 39573,
+"en": "*pant* *pant* I need to quit smoking.",
+"ctx": "diálogo uid01033dc8"
+},
+{
+"id": 39574,
+"en": "Damn. Lost him.",
+"ctx": "diálogo uid01033ebb"
+},
+{
+"id": 39575,
+"en": "*pant* *pant* I'm beat.",
+"ctx": "diálogo uid01033ebb"
+},
+{
+"id": 39576,
+"en": "*gasp* I can't go on...",
+"ctx": "diálogo uid0103438e"
+},
+{
+"id": 39577,
+"en": "Nuts! Lost him...",
+"ctx": "diálogo uid010343ae"
+},
+{
+"id": 39578,
+"en": "*pant* Gah... *pant* No more...",
+"ctx": "diálogo uid010343ae + diálogo uid010343ca"
+},
+{
+"id": 39579,
+"en": "Crap... Guess this one flew over the cuckoo's nest.",
+"ctx": "diálogo uid010343ca"
+},
+{
+"id": 39580,
+"en": "Gotcha!",
+"ctx": "diálogo uid010343ca"
+},
+{
+"id": 39581,
+"en": "Gah, lost him...",
+"ctx": "diálogo uid0103447a"
+},
+{
+"id": 39582,
+"en": "*pant* *pant* Okay... I'm done...",
+"ctx": "diálogo uid0103447a + diálogo uid0103449d"
+},
+{
+"id": 39583,
+"en": "Damn it. I fell too far behind.",
+"ctx": "diálogo uid0103449d"
+},
+{
+"id": 39584,
+"en": "You learned <Color:9>Essence of Door Slamming<Color:Default>!",
+"ctx": "diálogo uid01034548"
+},
+{
+"id": 39585,
+"en": "<Color:9>虹色プリズムスター<Color:Default>　を覚えた！",
+"ctx": "diálogo uid01034591"
+},
+{
+"id": 39586,
+"en": "You learned <Color:9>Rainbow Prism Star<Color:Default>!",
+"ctx": "diálogo uid01034594"
+},
+{
+"id": 39587,
+"en": "You learned <Color:9>Essence of Furious Thrusts<Color:Default>!",
+"ctx": "diálogo uid0103459e"
+},
+{
+"id": 39588,
+"en": "You learned <Color:9>Double Juggle<Color:Default>!",
+"ctx": "diálogo uid01034beb"
+},
+{
+"id": 39589,
+"en": "Dammit... I can't go on.",
+"ctx": "diálogo uid01034e32"
+},
+{
+"id": 39590,
+"en": "Oh, hello?",
+"ctx": "diálogo uid01035075"
+},
+{
+"id": 39591,
+"en": "It's me, Tatsuya. Is that you, Suzuki-san?",
+"ctx": "diálogo uid01035075"
+},
+{
+"id": 39592,
+"en": "Oh, yes. What's up? Can I help you with something?",
+"ctx": "diálogo uid01035075"
+},
+{
+"id": 39593,
+"en": "Have you forgotten already? You asked me to save that café by coming up with something new for their menu.",
+"ctx": "diálogo uid01035075"
+},
+{
+"id": 39594,
+"en": "Oh, right. The Café Alps thing.",
+"ctx": "diálogo uid01035075"
+},
+{
+"id": 39595,
+"en": "I called to tell you I've wrapped up shooting my TV show, and I'm heading back to Kamurocho now!",
+"ctx": "diálogo uid01035075"
+},
+{
+"id": 39596,
+"en": "(He'll be at Theater Square. I should go and talk to him.)",
+"ctx": "diálogo uid01035075"
+},
+{
+"id": 39597,
+"en": "Select the number of input devices to use.",
+"ctx": "diálogo uid01040274 + diálogo uid01040276 …"
+},
+{
+"id": 39598,
+"en": "Select the game you want to play.",
+"ctx": "diálogo uid01040274 + diálogo uid0169043d …"
+},
+{
+"id": 39599,
+"en": "Would you like to play again?",
+"ctx": "diálogo uid01040274 + diálogo uid01040276 …"
+},
+{
+"id": 39600,
+"en": "Another game will cost you 800 yen.",
+"ctx": "diálogo uid01040274 + diálogo uid0169043d …"
+},
+{
+"id": 39601,
+"en": "This mode requires two input devices to play.",
+"ctx": "diálogo uid01040274 + diálogo uid01040276 …"
+},
+{
+"id": 39602,
+"en": "Would you like to view the tutorial?",
+"ctx": "diálogo uid01040274 + diálogo uid0169043d …"
+},
+{
+"id": 39603,
+"en": "Another game will cost you 1,600 yen.",
+"ctx": "diálogo uid01040274 + diálogo uid0169043d …"
+},
+{
+"id": 39604,
+"en": "Select your opponent.",
+"ctx": "diálogo uid01040274 + diálogo uid0169043d …"
+},
+{
+"id": 39605,
+"en": "Show the cue ball's predicted path?\n(Displaying the trajectory enables easier play.)",
+"ctx": "diálogo uid01040274 + diálogo uid01070989 …"
+},
+{
+"id": 39606,
+"en": "Adjust the spin by pressing the <Action:Button_DPad_Left@Bowling><Action:Button_DPad_Right@Bowling> buttons before releasing the ball.",
+"ctx": "diálogo uid01040275 + diálogo uid0107096d"
+},
+{
+"id": 39607,
+"en": "Press <Action:Button_Cross@Bowling> to adjust throwing power.",
+"ctx": "diálogo uid01040275 + diálogo uid0107096d"
+},
+{
+"id": 39608,
+"en": "Press <Action:Button_Cross@Bowling> to determine the direction.",
+"ctx": "diálogo uid01040275 + diálogo uid0107096d"
+},
+{
+"id": 39609,
+"en": "When selecting a ball, use <Action:Button_DPad_Left@Bowling><Action:Button_DPad_Right@Bowling> to choose where to stand, then confirm with <Action:Button_Cross@Bowling>.",
+"ctx": "diálogo uid01040275 + diálogo uid0107096d"
+},
+{
+"id": 39610,
+"en": "Select a ball by using <Action:Button_DPad_Up@Bowling><Action:Button_DPad_Down@Bowling> buttons.",
+"ctx": "diálogo uid01040275 + diálogo uid0107096d"
+},
+{
+"id": 39611,
+"en": "Attention all bowlers! It's time for Midnight Madness! You only get one chance! Bowl a strike and you'll get a prize!",
+"ctx": "diálogo uid01040275 + diálogo uid0107096d"
+},
+{
+"id": 39612,
+"en": "Select the number of frames to play.",
+"ctx": "diálogo uid01040276"
+},
+{
+"id": 39613,
+"en": "Play the tutorial?",
+"ctx": "diálogo uid01040276"
+},
+{
+"id": 39614,
+"en": "First, we pick the banker.",
+"ctx": "diálogo uid0107095b + diálogo uid0107095c …"
+},
+{
+"id": 39615,
+"en": "I'm the banker!",
+"ctx": "diálogo uid0107095b"
+},
+{
+"id": 39616,
+"en": "How much you wanna risk?",
+"ctx": "diálogo uid0107095b"
+},
+{
+"id": 39617,
+"en": "All right, here goes!",
+"ctx": "diálogo uid0107095b"
+},
+{
+"id": 39618,
+"en": "Here we go, my turn!",
+"ctx": "diálogo uid0107095b"
+},
+{
+"id": 39619,
+"en": "(This line should not appear.)",
+"ctx": "diálogo uid0107095b + diálogo uid0107095c …"
+},
+{
+"id": 39620,
+"en": "Time to settle our bets!",
+"ctx": "diálogo uid0107095b"
+},
+{
+"id": 39621,
+"en": "You're the banker.",
+"ctx": "diálogo uid0107095b + diálogo uid0107095d …"
+},
+{
+"id": 39622,
+"en": "Now we change the banker.",
+"ctx": "diálogo uid0107095b + diálogo uid01070967"
+},
+{
+"id": 39623,
+"en": "One more game?",
+"ctx": "diálogo uid0107095b"
+},
+{
+"id": 39624,
+"en": "Damn, I'm flat-out broke! Sorry, I've had it for today.",
+"ctx": "diálogo uid0107095b"
+},
+{
+"id": 39625,
+"en": "What's wrong, maxed out? Better luck next time, buddy!",
+"ctx": "diálogo uid0107095b"
+},
+{
+"id": 39626,
+"en": "Banker's Bet-Settling Messages",
+"ctx": "diálogo uid0107095b + diálogo uid0107095c …"
+},
+{
+"id": 39627,
+"en": "A banker's roll of 1-3-5... That's a 3!",
+"ctx": "diálogo uid0107095b"
+},
+{
+"id": 39628,
+"en": "A 1-3-5 roll by the first player... That's a 3!",
+"ctx": "diálogo uid0107095b"
+},
+{
+"id": 39629,
+"en": "A 1-3-5 roll gets the preceding player's roll!",
+"ctx": "diálogo uid0107095b"
+},
+{
+"id": 39630,
+"en": "A banker's roll of 2-4-6... That's a 4!",
+"ctx": "diálogo uid0107095b"
+},
+{
+"id": 39631,
+"en": "A 2-4-6 roll gets the next player's roll!",
+"ctx": "diálogo uid0107095b + diálogo uid0107095c"
+},
+{
+"id": 39632,
+"en": "A 2-4-6 roll by the last player... That's a 4!",
+"ctx": "diálogo uid0107095b"
+},
+{
+"id": 39633,
+"en": "A 2-4-6 roll gets the last player's roll!",
+"ctx": "diálogo uid0107095b + diálogo uid0107095c …"
+},
+{
+"id": 39634,
+"en": "A 1-3-5 was rolled after a 2-4-6.",
+"ctx": "diálogo uid0107095b + diálogo uid0107095c …"
+},
+{
+"id": 39635,
+"en": "Oh, yeah! A 6-3-4!",
+"ctx": "diálogo uid0107095b + diálogo uid01070967"
+},
+{
+"id": 39636,
+"en": "Guess I'm the banker.",
+"ctx": "diálogo uid0107095c"
+},
+{
+"id": 39637,
+"en": "Place your bets!",
+"ctx": "diálogo uid0107095c"
+},
+{
+"id": 39638,
+"en": "Get ready, here she goes!",
+"ctx": "diálogo uid0107095c"
+},
+{
+"id": 39639,
+"en": "My turn.",
+"ctx": "diálogo uid0107095c + diálogo uid0107095d …"
+},
+{
+"id": 39640,
+"en": "Let's settle our bets.",
+"ctx": "diálogo uid0107095c + diálogo uid0107095d …"
+},
+{
+"id": 39641,
+"en": "You're the banker, pal.",
+"ctx": "diálogo uid0107095c"
+},
+{
+"id": 39642,
+"en": "Time to switch it up.",
+"ctx": "diálogo uid0107095c"
+},
+{
+"id": 39643,
+"en": "Go one more?",
+"ctx": "diálogo uid0107095c"
+},
+{
+"id": 39644,
+"en": "Aw man, that's all I can take. Be seein' ya.",
+"ctx": "diálogo uid0107095c"
+},
+{
+"id": 39645,
+"en": "Heh! You got cleaned out! Better save up for next time.",
+"ctx": "diálogo uid0107095c"
+},
+{
+"id": 39646,
+"en": "A banker's roll of 1-3-5? That's a 3.",
+"ctx": "diálogo uid0107095c"
+},
+{
+"id": 39647,
+"en": "A 1-3-5 roll by the first player? That's a 3.",
+"ctx": "diálogo uid0107095c"
+},
+{
+"id": 39648,
+"en": "A 1-3-5 roll gets the preceding player's roll.",
+"ctx": "diálogo uid0107095c + diálogo uid0107095d …"
+},
+{
+"id": 39649,
+"en": "A banker's roll of 2-4-6? That's a 4.",
+"ctx": "diálogo uid0107095c"
+},
+{
+"id": 39650,
+"en": "A 2-4-6 roll by the last player? That's a 4.",
+"ctx": "diálogo uid0107095c"
+},
+{
+"id": 39651,
+"en": "Yeah, baby! A 6-3-4!",
+"ctx": "diálogo uid0107095c"
+},
+{
+"id": 39652,
+"en": "I'm the banker.",
+"ctx": "diálogo uid0107095d + diálogo uid0107095e …"
+},
+{
+"id": 39653,
+"en": "How much will you bet?",
+"ctx": "diálogo uid0107095d + diálogo uid01070960"
+},
+{
+"id": 39654,
+"en": "Time to change the banker.",
+"ctx": "diálogo uid0107095d + diálogo uid0107095e …"
+},
+{
+"id": 39655,
+"en": "Want to play again?",
+"ctx": "diálogo uid0107095d"
+},
+{
+"id": 39656,
+"en": "I'm tapped out. Good time to head on home.",
+"ctx": "diálogo uid0107095d"
+},
+{
+"id": 39657,
+"en": "That it for you? Better luck next time.",
+"ctx": "diálogo uid0107095d"
+},
+{
+"id": 39658,
+"en": "A banker's roll of 1-3-5 becomes a 3.",
+"ctx": "diálogo uid0107095d"
+},
+{
+"id": 39659,
+"en": "A 1-3-5 roll by the first player becomes a 3.",
+"ctx": "diálogo uid0107095d"
+},
+{
+"id": 39660,
+"en": "A banker's roll of 2-4-6 becomes a 4.",
+"ctx": "diálogo uid0107095d"
+},
+{
+"id": 39661,
+"en": "A 2-4-6 roll becomes the next player's roll.",
+"ctx": "diálogo uid0107095d"
+},
+{
+"id": 39662,
+"en": "A 2-4-6 roll by the last player becomes a 4.",
+"ctx": "diálogo uid0107095d"
+},
+{
+"id": 39663,
+"en": "A 6-3-4! Sweet...",
+"ctx": "diálogo uid0107095d"
+},
+{
+"id": 39664,
+"en": "How much do you want to wager?",
+"ctx": "diálogo uid0107095e"
+},
+{
+"id": 39665,
+"en": "Let's get started!",
+"ctx": "diálogo uid0107095e"
+},
+{
+"id": 39666,
+"en": "Now it's my turn.",
+"ctx": "diálogo uid0107095e"
+},
+{
+"id": 39667,
+"en": "Let's settle up.",
+"ctx": "diálogo uid0107095e + diálogo uid01070962 …"
+},
+{
+"id": 39668,
+"en": "Your turn to be banker.",
+"ctx": "diálogo uid0107095e"
+},
+{
+"id": 39669,
+"en": "Care to try your luck again?",
+"ctx": "diálogo uid0107095e"
+},
+{
+"id": 39670,
+"en": "Tsk! I'm tapped out. See you again sometime!",
+"ctx": "diálogo uid0107095e"
+},
+{
+"id": 39671,
+"en": "Hehe, looks like that's it for you. Come back again after you've had some practice.",
+"ctx": "diálogo uid0107095e"
+},
+{
+"id": 39672,
+"en": "A banker rolling 1-3-5 gets a 3.",
+"ctx": "diálogo uid0107095e"
+},
+{
+"id": 39673,
+"en": "A 1-3-5 by the first player gets a 3.",
+"ctx": "diálogo uid0107095e + diálogo uid01070961 …"
+},
+{
+"id": 39674,
+"en": "A 1-3-5 gets what the preceding player rolled.",
+"ctx": "diálogo uid0107095e"
+},
+{
+"id": 39675,
+"en": "A banker rolling 2-4-6 gets a 4.",
+"ctx": "diálogo uid0107095e"
+},
+{
+"id": 39676,
+"en": "A 2-4-6 roll gets what the next player rolls.",
+"ctx": "diálogo uid0107095e"
+},
+{
+"id": 39677,
+"en": "A 2-4-6 by the last player gets a 4.",
+"ctx": "diálogo uid0107095e + diálogo uid01070961 …"
+},
+{
+"id": 39678,
+"en": "A 2-4-6 gets what the last player rolls.",
+"ctx": "diálogo uid0107095e"
+},
+{
+"id": 39679,
+"en": "Yes! A 6-3-4!",
+"ctx": "diálogo uid0107095e"
+},
+{
+"id": 39680,
+"en": "I'll do the honors.",
+"ctx": "diálogo uid0107095f"
+},
+{
+"id": 39681,
+"en": "How much are you going to wager?",
+"ctx": "diálogo uid0107095f"
+},
+{
+"id": 39682,
+"en": "Looks like I'm up.",
+"ctx": "diálogo uid0107095f"
+},
+{
+"id": 39683,
+"en": "Let's settle the bets, eh?",
+"ctx": "diálogo uid0107095f"
+},
+{
+"id": 39684,
+"en": "You're the banker, kid.",
+"ctx": "diálogo uid0107095f"
+},
+{
+"id": 39685,
+"en": "Time to change bankers.",
+"ctx": "diálogo uid0107095f + diálogo uid01070962"
+},
+{
+"id": 39686,
+"en": "Care to play one more?",
+"ctx": "diálogo uid0107095f"
+},
+{
+"id": 39687,
+"en": "Hmph. So this is it? Guess you can't teach an old dog new tricks.",
+"ctx": "diálogo uid0107095f"
+},
+{
+"id": 39688,
+"en": "Seems your luck has run out, kid. Come back once you've learned a thing or two.",
+"ctx": "diálogo uid0107095f"
+},
+{
+"id": 39689,
+"en": "A banker roll of 1-3-5 is a 3.",
+"ctx": "diálogo uid0107095f"
+},
+{
+"id": 39690,
+"en": "A roll of 1-3-5 by the first player is a 3.",
+"ctx": "diálogo uid0107095f"
+},
+{
+"id": 39691,
+"en": "A 1-3-5 is whatever the preceding player rolled.",
+"ctx": "diálogo uid0107095f"
+},
+{
+"id": 39692,
+"en": "A banker roll of 2-4-6 is a 4.",
+"ctx": "diálogo uid0107095f"
+},
+{
+"id": 39693,
+"en": "A 2-4-6 roll is whatever the next player rolls.",
+"ctx": "diálogo uid0107095f"
+},
+{
+"id": 39694,
+"en": "A roll of 2-4-6 by the last player is a 4.",
+"ctx": "diálogo uid0107095f"
+},
+{
+"id": 39695,
+"en": "There's no beating a 6-3-4!",
+"ctx": "diálogo uid0107095f"
+},
+{
+"id": 39696,
+"en": "So I'm the banker, right?",
+"ctx": "diálogo uid01070960"
+},
+{
+"id": 39697,
+"en": "It's my turn, right?",
+"ctx": "diálogo uid01070960"
+},
+{
+"id": 39698,
+"en": "Can we settle the bets now?",
+"ctx": "diálogo uid01070960"
+},
+{
+"id": 39699,
+"en": "Now we change the banker, right?",
+"ctx": "diálogo uid01070960"
+},
+{
+"id": 39700,
+"en": "Oh, no, I'm broke... You mind if I head home?",
+"ctx": "diálogo uid01070960"
+},
+{
+"id": 39701,
+"en": "You're out of money, right? Can you come back when you get some more?",
+"ctx": "diálogo uid01070960"
+},
+{
+"id": 39702,
+"en": "A banker rolling 1-3-5 receives a 3.",
+"ctx": "diálogo uid01070960"
+},
+{
+"id": 39703,
+"en": "A 1-3-5 by the first player receives a 3.",
+"ctx": "diálogo uid01070960"
+},
+{
+"id": 39704,
+"en": "A 1-3-5 becomes whatever the preceding player rolled.",
+"ctx": "diálogo uid01070960"
+},
+{
+"id": 39705,
+"en": "A banker rolling 2-4-6 receives a 4.",
+"ctx": "diálogo uid01070960"
+},
+{
+"id": 39706,
+"en": "A 2-4-6 roll becomes whatever the next player rolls.",
+"ctx": "diálogo uid01070960"
+},
+{
+"id": 39707,
+"en": "A 2-4-6 by the last player receives a 4.",
+"ctx": "diálogo uid01070960"
+},
+{
+"id": 39708,
+"en": "Wow, a 6-3-4...",
+"ctx": "diálogo uid01070960"
+},
+{
+"id": 39709,
+"en": "How much you gonna wager?",
+"ctx": "diálogo uid01070961"
+},
+{
+"id": 39710,
+"en": "Now we're gonna switch bankers.",
+"ctx": "diálogo uid01070961"
+},
+{
+"id": 39711,
+"en": "Wanna play again?",
+"ctx": "diálogo uid01070961"
+},
+{
+"id": 39712,
+"en": "That's it for me. I'm outta here...",
+"ctx": "diálogo uid01070961"
+},
+{
+"id": 39713,
+"en": "Ya couldn't bet more even if ya wanted to. Come back when you got some more dough.",
+"ctx": "diálogo uid01070961"
+},
+{
+"id": 39714,
+"en": "A banker rollin' 1-3-5 gets a 3.",
+"ctx": "diálogo uid01070961 + diálogo uid01070966"
+},
+{
+"id": 39715,
+"en": "A 1-3-5 gets what the previous player rolled.",
+"ctx": "diálogo uid01070961 + diálogo uid01070966"
+},
+{
+"id": 39716,
+"en": "A banker rollin' 2-4-6 gets a 4.",
+"ctx": "diálogo uid01070961 + diálogo uid01070966"
+},
+{
+"id": 39717,
+"en": "A 2-4-6 changes to what the next player rolls.",
+"ctx": "diálogo uid01070961 + diálogo uid01070966"
+},
+{
+"id": 39718,
+"en": "A 6-3-4! Well, how d'ya like that?",
+"ctx": "diálogo uid01070961"
+},
+{
+"id": 39719,
+"en": "Cool, I'm the banker!",
+"ctx": "diálogo uid01070962"
+},
+{
+"id": 39720,
+"en": "So how much are you gonna bet?",
+"ctx": "diálogo uid01070962"
+},
+{
+"id": 39721,
+"en": "Let's get down to business!",
+"ctx": "diálogo uid01070962"
+},
+{
+"id": 39722,
+"en": "My turn!",
+"ctx": "diálogo uid01070962"
+},
+{
+"id": 39723,
+"en": "You're banker, bro.",
+"ctx": "diálogo uid01070962"
+},
+{
+"id": 39724,
+"en": "Wanna try that again?",
+"ctx": "diálogo uid01070962"
+},
+{
+"id": 39725,
+"en": "Shit! I'm broke! I'm outta here!",
+"ctx": "diálogo uid01070962"
+},
+{
+"id": 39726,
+"en": "Looks like you're broke. Better luck next time!",
+"ctx": "diálogo uid01070962"
+},
+{
+"id": 39727,
+"en": "A banker roll of 1-3-5 is a 3!",
+"ctx": "diálogo uid01070962"
+},
+{
+"id": 39728,
+"en": "A 1-3-5 roll by the first player is a 3!",
+"ctx": "diálogo uid01070962"
+},
+{
+"id": 39729,
+"en": "A 1-3-5 is whatever the previous player's roll is!",
+"ctx": "diálogo uid01070962"
+},
+{
+"id": 39730,
+"en": "A banker roll of 2-4-6 is a 4!",
+"ctx": "diálogo uid01070962"
+},
+{
+"id": 39731,
+"en": "A 2-4-6 is whatever the next player's roll is!",
+"ctx": "diálogo uid01070962"
+},
+{
+"id": 39732,
+"en": "A 2-4-6 roll by the last player is a 4!",
+"ctx": "diálogo uid01070962"
+},
+{
+"id": 39733,
+"en": "A 2-4-6 roll is whatever the last player's roll is!",
+"ctx": "diálogo uid01070962"
+},
+{
+"id": 39734,
+"en": "Awesome! A 6-3-4!",
+"ctx": "diálogo uid01070962"
+},
+{
+"id": 39735,
+"en": "I'll be the banker.",
+"ctx": "diálogo uid01070963 + diálogo uid01070965"
+},
+{
+"id": 39736,
+"en": "How much are you gonna bet?",
+"ctx": "diálogo uid01070963"
+},
+{
+"id": 39737,
+"en": "Let's start the game.",
+"ctx": "diálogo uid01070963 + diálogo uid01070965"
+},
+{
+"id": 39738,
+"en": "You'll be the banker.",
+"ctx": "diálogo uid01070963"
+},
+{
+"id": 39739,
+"en": "Let's change bankers.",
+"ctx": "diálogo uid01070963"
+},
+{
+"id": 39740,
+"en": "Wanna try again?",
+"ctx": "diálogo uid01070963"
+},
+{
+"id": 39741,
+"en": "I'm cleaned out... I'd better call it quits.",
+"ctx": "diálogo uid01070963"
+},
+{
+"id": 39742,
+"en": "Well well, looks like you're cleaned out. See you next time.",
+"ctx": "diálogo uid01070963"
+},
+{
+"id": 39743,
+"en": "A banker rolling 1-3-5 earns a 3.",
+"ctx": "diálogo uid01070963"
+},
+{
+"id": 39744,
+"en": "A 1-3-5 by the first player earns a 3.",
+"ctx": "diálogo uid01070963"
+},
+{
+"id": 39745,
+"en": "A 1-3-5 changes to the previous player's roll.",
+"ctx": "diálogo uid01070963"
+},
+{
+"id": 39746,
+"en": "A banker rolling 2-4-6 earns a 4.",
+"ctx": "diálogo uid01070963"
+},
+{
+"id": 39747,
+"en": "A 2-4-6 changes to the next player's roll.",
+"ctx": "diálogo uid01070963"
+},
+{
+"id": 39748,
+"en": "A 2-4-6 by the last player earns a 4.",
+"ctx": "diálogo uid01070963"
+},
+{
+"id": 39749,
+"en": "A 2-4-6 changes to the last player's roll.",
+"ctx": "diálogo uid01070963"
+},
+{
+"id": 39750,
+"en": "(How much should I bet?)",
+"ctx": "diálogo uid01070964 + diálogo uid01070965 …"
+},
+{
+"id": 39751,
+"en": "I'll roll again.",
+"ctx": "diálogo uid01070964 + diálogo uid01070965"
+},
+{
+"id": 39752,
+"en": "Time to settle up.",
+"ctx": "diálogo uid01070964 + diálogo uid01070965 …"
+},
+{
+"id": 39753,
+"en": "(You're the banker.)",
+"ctx": "diálogo uid01070964 + diálogo uid01070965 …"
+},
+{
+"id": 39754,
+"en": "(Play again?)",
+"ctx": "diálogo uid01070964 + diálogo uid01070965 …"
+},
+{
+"id": 39755,
+"en": "(Try again next time.)",
+"ctx": "diálogo uid01070964 + diálogo uid01070965 …"
+},
+{
+"id": 39756,
+"en": "So, the banker's roll of 1-3-5 gets a 3?",
+"ctx": "diálogo uid01070964"
+},
+{
+"id": 39757,
+"en": "So, a 1-3-5 roll by the first player gets a 3?",
+"ctx": "diálogo uid01070964"
+},
+{
+"id": 39758,
+"en": "So, the banker's roll of 2-4-6 gets a 4?",
+"ctx": "diálogo uid01070964"
+},
+{
+"id": 39759,
+"en": "A 2-4-6 roll changes to the next player's roll.",
+"ctx": "diálogo uid01070964"
+},
+{
+"id": 39760,
+"en": "So, a 2-4-6 roll by the last player gets a 4?",
+"ctx": "diálogo uid01070964"
+},
+{
+"id": 39761,
+"en": "Talk about luck.",
+"ctx": "diálogo uid01070964"
+},
+{
+"id": 39762,
+"en": "Ah, my turn.",
+"ctx": "diálogo uid01070965"
+},
+{
+"id": 39763,
+"en": "Let's change the banker.",
+"ctx": "diálogo uid01070965"
+},
+{
+"id": 39764,
+"en": "A banker's roll of 1-3-5 is a 3, isn't it?",
+"ctx": "diálogo uid01070965"
+},
+{
+"id": 39765,
+"en": "A 1-3-5 by the first player is a 3, isn't it?",
+"ctx": "diálogo uid01070965"
+},
+{
+"id": 39766,
+"en": "A 1-3-5 gets the previous player's roll, right?",
+"ctx": "diálogo uid01070965"
+},
+{
+"id": 39767,
+"en": "A banker's roll of 2-4-6 is a 4, isn't it?",
+"ctx": "diálogo uid01070965"
+},
+{
+"id": 39768,
+"en": "A 2-4-6 becomes the next player's roll, right?",
+"ctx": "diálogo uid01070965"
+},
+{
+"id": 39769,
+"en": "A 2-4-6 by the last player is a 4, isn't it?",
+"ctx": "diálogo uid01070965"
+},
+{
+"id": 39770,
+"en": "A 6-3-4! Now that's lucky!",
+"ctx": "diálogo uid01070965"
+},
+{
+"id": 39771,
+"en": "First, we gotta pick the banker.",
+"ctx": "diálogo uid01070966"
+},
+{
+"id": 39772,
+"en": "I'm banker.",
+"ctx": "diálogo uid01070966"
+},
+{
+"id": 39773,
+"en": "I'm rollin' again.",
+"ctx": "diálogo uid01070966"
+},
+{
+"id": 39774,
+"en": "We're changin' the banker.",
+"ctx": "diálogo uid01070966"
+},
+{
+"id": 39775,
+"en": "A 2-4-6 changes to what the last player rolls.",
+"ctx": "diálogo uid01070966"
+},
+{
+"id": 39776,
+"en": "Let's decide who's banker.",
+"ctx": "diálogo uid01070967"
+},
+{
+"id": 39777,
+"en": "Looks like I'm the banker.",
+"ctx": "diálogo uid01070967"
+},
+{
+"id": 39778,
+"en": "Okay, here goes...",
+"ctx": "diálogo uid01070967"
+},
+{
+"id": 39779,
+"en": "I'll roll once more.",
+"ctx": "diálogo uid01070967"
+},
+{
+"id": 39780,
+"en": "Was a banker roll of 1-3-5 a 3?",
+"ctx": "diálogo uid01070967"
+},
+{
+"id": 39781,
+"en": "Was a 1-3-5 by the first player a 3?",
+"ctx": "diálogo uid01070967"
+},
+{
+"id": 39782,
+"en": "Does 1-3-5 become the previous player's roll?",
+"ctx": "diálogo uid01070967"
+},
+{
+"id": 39783,
+"en": "Was a banker roll of 2-4-6 a 4?",
+"ctx": "diálogo uid01070967"
+},
+{
+"id": 39784,
+"en": "Does 2-4-6 become the next player's roll?",
+"ctx": "diálogo uid01070967"
+},
+{
+"id": 39785,
+"en": "Was 2-4-6 by the last player a 4?",
+"ctx": "diálogo uid01070967"
+},
+{
+"id": 39786,
+"en": "A 2-4-6 becomes the last player's roll, right?",
+"ctx": "diálogo uid01070967"
+},
+{
+"id": 39787,
+"en": "Welcome to the baccarat table.",
+"ctx": "diálogo uid01070968"
+},
+{
+"id": 39788,
+"en": "All right, let's begin. Good luck.",
+"ctx": "diálogo uid01070968 + diálogo uid01070969"
+},
+{
+"id": 39789,
+"en": "We look forward to seeing you again.",
+"ctx": "diálogo uid01070968 + diálogo uid01070969 …"
+},
+{
+"id": 39790,
+"en": "You seem to be short on chips. Please visit us again soon.",
+"ctx": "diálogo uid01070968 + diálogo uid01070969 …"
+},
+{
+"id": 39791,
+"en": "Select whether you think the player or the banker will win, or if they will tie.",
+"ctx": "diálogo uid01070968"
+},
+{
+"id": 39792,
+"en": "Select whether you think the player or the banker will win, or if they will tie. You can also select Pair or Super 6.",
+"ctx": "diálogo uid01070968"
+},
+{
+"id": 39793,
+"en": "Select a wager between the minimum and maximum betting limit.",
+"ctx": "diálogo uid01070968"
+},
+{
+"id": 39794,
+"en": "I will now deal the cards.",
+"ctx": "diálogo uid01070968 + diálogo uid01070969"
+},
+{
+"id": 39795,
+"en": "Let's open the player's first card.",
+"ctx": "diálogo uid01070968"
+},
+{
+"id": 39796,
+"en": "Let's open the player's second card.",
+"ctx": "diálogo uid01070968"
+},
+{
+"id": 39797,
+"en": "The player stands on 6.",
+"ctx": "diálogo uid01070968"
+},
+{
+"id": 39798,
+"en": "The player stands on 7.",
+"ctx": "diálogo uid01070968"
+},
+{
+"id": 39799,
+"en": "The player has a natural 8.",
+"ctx": "diálogo uid01070968"
+},
+{
+"id": 39800,
+"en": "The player has a natural 9.",
+"ctx": "diálogo uid01070968"
+},
+{
+"id": 39801,
+"en": "If the banker doesn't have 8 or 9, a third card will be dealt.",
+"ctx": "diálogo uid01070968"
+},
+{
+"id": 39802,
+"en": "Let's open the banker's first card.",
+"ctx": "diálogo uid01070968"
+},
+{
+"id": 39803,
+"en": "Let's open the banker's second card.",
+"ctx": "diálogo uid01070968"
+},
+{
+"id": 39804,
+"en": "The banker stands on 6.",
+"ctx": "diálogo uid01070968"
+},
+{
+"id": 39805,
+"en": "The banker stands on 6. The player will now be dealt a third card.",
+"ctx": "diálogo uid01070968"
+},
+{
+"id": 39806,
+"en": "The banker stands on 7.",
+"ctx": "diálogo uid01070968"
+},
+{
+"id": 39807,
+"en": "The banker stands on 7. The player will now be dealt a third card.",
+"ctx": "diálogo uid01070968"
+},
+{
+"id": 39808,
+"en": "The banker has a natural 8.",
+"ctx": "diálogo uid01070968"
+},
+{
+"id": 39809,
+"en": "The banker has a natural 9.",
+"ctx": "diálogo uid01070968"
+},
+{
+"id": 39810,
+"en": "The player's third card will determine whether the banker draws a third card.",
+"ctx": "diálogo uid01070968"
+},
+{
+"id": 39811,
+"en": "The player is standing. The banker will be dealt a third card.",
+"ctx": "diálogo uid01070968"
+},
+{
+"id": 39812,
+"en": "Let's open the player's third card.",
+"ctx": "diálogo uid01070968"
+},
+{
+"id": 39813,
+"en": "The banker will not be dealt a third card in accordance with the game's rules.",
+"ctx": "diálogo uid01070968"
+},
+{
+"id": 39814,
+"en": "The banker will be dealt a third card in accordance with the game's rules.",
+"ctx": "diálogo uid01070968"
+},
+{
+"id": 39815,
+"en": "Let's open the banker's third card.",
+"ctx": "diálogo uid01070968"
+},
+{
+"id": 39816,
+"en": "The player won.",
+"ctx": "diálogo uid01070968"
+},
+{
+"id": 39817,
+"en": "The banker won.",
+"ctx": "diálogo uid01070968"
+},
+{
+"id": 39818,
+"en": "The game ended in a tie.",
+"ctx": "diálogo uid01070968"
+},
+{
+"id": 39819,
+"en": "Congratulations.",
+"ctx": "diálogo uid01070968 + diálogo uid010c068b"
+},
+{
+"id": 39820,
+"en": "Better luck next time.",
+"ctx": "diálogo uid01070968 + diálogo uid01100305"
+},
+{
+"id": 39821,
+"en": "If you please.",
+"ctx": "diálogo uid01070968"
+},
+{
+"id": 39822,
+"en": "The deck's running low. Time to shuffle.",
+"ctx": "diálogo uid01070968"
+},
+{
+"id": 39823,
+"en": "The player has a pair.",
+"ctx": "diálogo uid01070968"
+},
+{
+"id": 39824,
+"en": "The banker has a pair.",
+"ctx": "diálogo uid01070968"
+},
+{
+"id": 39825,
+"en": "Super 6.",
+"ctx": "diálogo uid01070968"
+},
+{
+"id": 39826,
+"en": "You're on a roll.",
+"ctx": "diálogo uid01070968 + diálogo uid01070969"
+},
+{
+"id": 39827,
+"en": "You're doing great.",
+"ctx": "diálogo uid01070968 + diálogo uid01070969"
+},
+{
+"id": 39828,
+"en": "(The item doesn't seem to work anymore.)",
+"ctx": "diálogo uid01070968 + diálogo uid01070969 …"
+},
+{
+"id": 39829,
+"en": "A third card will be dealt to both the player and banker.",
+"ctx": "diálogo uid01070968"
+},
+{
+"id": 39830,
+"en": "Welcome to the blackjack table.",
+"ctx": "diálogo uid01070969"
+},
+{
+"id": 39831,
+"en": "Welcome to the blackjack table. Would you like to play against the house, one-on-one?",
+"ctx": "diálogo uid01070969"
+},
+{
+"id": 39832,
+"en": "Okay, let's begin.",
+"ctx": "diálogo uid01070969"
+},
+{
+"id": 39833,
+"en": "Select \"Bet\" or \"Re-bet\" to place a wager.",
+"ctx": "diálogo uid01070969"
+},
+{
+"id": 39834,
+"en": "The dealer pulled a green card. The deck will now be re-shuffled.",
+"ctx": "diálogo uid01070969"
+},
+{
+"id": 39835,
+"en": "It's your turn, sir. What would you like to do?",
+"ctx": "diálogo uid01070969"
+},
+{
+"id": 39836,
+"en": "You bust. How unfortunate.",
+"ctx": "diálogo uid01070969"
+},
+{
+"id": 39837,
+"en": "It's the dealer's turn. I'll reveal my cards.",
+"ctx": "diálogo uid01070969"
+},
+{
+"id": 39838,
+"en": "The dealer's total is below 17. Drawing another card.",
+"ctx": "diálogo uid01070969"
+},
+{
+"id": 39839,
+"en": "The dealer has 17.",
+"ctx": "diálogo uid01070969"
+},
+{
+"id": 39840,
+"en": "The dealer has 18.",
+"ctx": "diálogo uid01070969"
+},
+{
+"id": 39841,
+"en": "The dealer has 19.",
+"ctx": "diálogo uid01070969"
+},
+{
+"id": 39842,
+"en": "The dealer has 20.",
+"ctx": "diálogo uid01070969"
+},
+{
+"id": 39843,
+"en": "The dealer has 21.",
+"ctx": "diálogo uid01070969"
+},
+{
+"id": 39844,
+"en": "The dealer has blackjack.",
+"ctx": "diálogo uid01070969"
+},
+{
+"id": 39845,
+"en": "The dealer busts.",
+"ctx": "diálogo uid01070969"
+},
+{
+"id": 39846,
+"en": "The dealer's open card is an ace. They could have blackjack.",
+"ctx": "diálogo uid01070969"
+},
+{
+"id": 39847,
+"en": "The dealer does not have blackjack. The game continues.",
+"ctx": "diálogo uid01070969"
+},
+{
+"id": 39848,
+"en": "You have a blackjack! Congratulations, sir.",
+"ctx": "diálogo uid01070969"
+},
+{
+"id": 39849,
+"en": "Unfortunately, the dealer has a blackjack as well. Better luck next time.",
+"ctx": "diálogo uid01070969"
+},
+{
+"id": 39850,
+"en": "You seem to be short on chips. Please come visit us again soon.",
+"ctx": "diálogo uid01070969"
+},
+{
+"id": 39851,
+"en": "You've won one game. The maximum bet has increased to 300.",
+"ctx": "diálogo uid01070969"
+},
+{
+"id": 39852,
+"en": "You've won two games in a row. The maximum bet has risen to 500.",
+"ctx": "diálogo uid01070969"
+},
+{
+"id": 39853,
+"en": "You've won three games in a row. The maximum bet has risen to 1,000.",
+"ctx": "diálogo uid01070969"
+}
+]

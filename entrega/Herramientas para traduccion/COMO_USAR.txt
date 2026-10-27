@@ -1,0 +1,38 @@
+﻿HERRAMIENTAS PARA TRADUCCIÓN - YAKUZA 5 REMASTERED
+==================================================
+
+>>> ANTES DE NADA: instala ParTool (2 minutos). Guía y enlace: «1 - LEEME PRIMERO - Instalar ParTool.txt»
+
+Con esto puedes ver TODOS los textos del juego (inglés original y español al lado), corregir los que quieras y volver a
+meterlos en el juego. Qué se hizo y cómo funciona por dentro: PASO_A_PASO.txt.
+
+NECESITAS
+- Python 3 (gratis): https://www.python.org -> al instalar marca «Add python.exe to PATH».
+- Excel, LibreOffice Calc o cualquier programa de hojas de cálculo (o un editor de texto).
+- El juego en inglés original: el programa lo saca de «respaldo_original» (lo crea el instalador al instalar) o, si
+  la traducción no está puesta, del juego de Steam.
+
+PASOS
+1. Doble clic en «EXTRAER textos.bat». Tarda unos minutos.
+   Crea trabajo\textos.csv con una fila por cada texto distinto:
+     id        número de fila
+     donde     de dónde sale (archivo | celda / columna / offset): sirve de contexto
+     veces     en cuántos sitios aparece (se cambia en todos a la vez)
+     ingles    el original (NO lo cambies: es la clave para encontrar el texto)
+     espanol   la traducción actual: cámbiala aquí. Si la dejas vacía, ese texto queda en inglés.
+2. Abre trabajo\textos.csv, corrige la columna «espanol» y guárdalo con el MISMO nombre en formato CSV UTF-8.
+   - Respeta las marcas como <Color...>, <Action...>, <Sign...> o {player_name} y los saltos de línea dentro de la celda.
+   - Las palabras que se ven en el juego como dibujo (imágenes) no están aquí: se copian tal cual.
+3. Doble clic en «APLICAR textos.bat». Tarda (los .par se rearman escena por escena).
+   Deja el resultado en «salida» y lo copia encima de la carpeta «archivos» del instalador.
+4. Cierra el juego y ejecuta «INSTALAR o QUITAR.bat» (opción 1) de la carpeta de arriba.
+
+Los mensajes del sistema (data\db.devil\en\msg.bin: guardar partida, regalos, errores) también salen en el CSV y
+se aplican solos.
+
+Para empezar de cero (otra versión del juego, otro idioma de base): borra la carpeta «trabajo».
+
+PROGRAMAS INCLUIDOS (gratuitos, de sus autores)
+- ParTool, del proyecto ParManager (Kaplas80): abre y rearma los .par de SEGA.
+- reARMP (de Ret-HZ, licencia GPL-2, ver programas\reARMP\LICENSE): disponible si hiciera falta para tablas ARMP.
+Desde la consola también vale: python herramienta_traduccion.py extraer | aplicar [--ingles "<carpeta data>"]

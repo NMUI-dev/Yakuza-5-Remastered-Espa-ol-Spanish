@@ -1,0 +1,53 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_taiko_select.par/texlist_0001/taiko_music_select_03",
+ "fuente": "segoeuib.ttf",
+ "margen": 0,
+ "mediana": true,
+ "items": [
+  {
+   "caja": [
+    820,
+    803,
+    1012,
+    861
+   ],
+   "en": "Easy",
+   "ocr": "Easy",
+   "es": "Fácil",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 188
+  },
+  {
+   "caja": [
+    820,
+    867,
+    1012,
+    925
+   ],
+   "en": "Hard",
+   "ocr": "Hard",
+   "es": "Difícil",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 188
+  },
+  {
+   "caja": [
+    816,
+    738,
+    1012,
+    795
+   ],
+   "en": "Normal",
+   "ocr": "Normal",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 192
+  }
+ ]
+}

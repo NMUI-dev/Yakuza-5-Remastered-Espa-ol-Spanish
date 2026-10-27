@@ -1,0 +1,858 @@
+[
+{
+"id": 70300,
+"en": "my",
+"ctx": "imagen de menú (2d_jm_puri_si7); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 6
+},
+{
+"id": 70301,
+"en": "Club Futo Momo",
+"ctx": "imagen de menú (2d_jm_puri_si8); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 24
+},
+{
+"id": 70302,
+"en": "Zlife!",
+"ctx": "imagen de menú (2d_jm_puri_si8); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 70303,
+"en": "Im Shina-nyan",
+"ctx": "imagen de menú (2d_jm_puri_si9); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 70304,
+"en": "Shian",
+"ctx": "imagen de menú (2d_jm_puri_si_k); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 70305,
+"en": "Inlovel?",
+"ctx": "imagen de menú (2d_jm_puri_si_kyaba); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 70306,
+"en": "Bad",
+"ctx": "imagen de menú (2d_jm_taxi_t_hyouka); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 8
+},
+{
+"id": 70307,
+"en": "Sudden",
+"ctx": "imagen de menú (2d_jm_taxi_t_minus); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 70308,
+"en": "Stop",
+"ctx": "imagen de menú (2d_jm_taxi_t_minus); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 70309,
+"en": "ResultTableControls",
+"ctx": "imagen: guía de controles de minijuego (2d_mn_mgs_baccarat); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 31
+},
+{
+"id": 70310,
+"en": "DisplayItemScreen",
+"ctx": "imagen: guía de controles de minijuego (2d_mn_mgs_baccarat); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 28
+},
+{
+"id": 70311,
+"en": "Help",
+"ctx": "imagen: guía de controles de minijuego (2d_mn_mgs_baccarat); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 70312,
+"en": "Squeeze",
+"ctx": "imagen: guía de controles de minijuego (2d_mn_mgs_baccarat); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 70313,
+"en": "MoveCamera Exit Minigame",
+"ctx": "imagen: guía de controles de minijuego (2d_mn_mgs_baccarat_bb); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70314,
+"en": "MoveCamera",
+"ctx": "imagen: guía de controles de minijuego (2d_mn_mgs_blackjack); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 70315,
+"en": "ChangeBet",
+"ctx": "imagen: guía de controles de minijuego (2d_mn_mgs_blackjack); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 17
+},
+{
+"id": 70316,
+"en": "Change Bet",
+"ctx": "imagen: guía de controles de minijuego (2d_mn_mgs_blackjack); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 70317,
+"en": "Select Action",
+"ctx": "imagen: guía de controles de minijuego (2d_mn_mgs_poker); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 70318,
+"en": "Confirm/ChooseDiscard",
+"ctx": "imagen: guía de controles de minijuego (2d_mn_mgs_poker); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 34
+},
+{
+"id": 70319,
+"en": "Display ItemScreen",
+"ctx": "imagen: guía de controles de minijuego (2d_mn_mgs_poker_bb); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 30
+},
+{
+"id": 70320,
+"en": "SelectAction",
+"ctx": "imagen: guía de controles de minijuego (2d_mn_mgs_poker_bb); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 21
+},
+{
+"id": 70321,
+"en": "MoveResultSheet",
+"ctx": "imagen: guía de controles de minijuego (2d_mn_mgs_roulette); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 70322,
+"en": "Bet:",
+"ctx": "imagen: guía de controles de minijuego (2d_mn_mgs_roulette); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 70323,
+"en": "Retrieve thechipsyoubet",
+"ctx": "imagen: guía de controles de minijuego (2d_mn_mgs_roulette); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 37
+},
+{
+"id": 70324,
+"en": "Player/HistoryInfo",
+"ctx": "imagen: guía de controles de minijuego (2d_mn_mgs_roulette); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 30
+},
+{
+"id": 70325,
+"en": "No bet:",
+"ctx": "imagen: guía de controles de minijuego (2d_mn_mgs_roulette); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 70326,
+"en": "Betthesame amountas",
+"ctx": "imagen: guía de controles de minijuego (2d_mn_mgs_roulette); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 31
+},
+{
+"id": 70327,
+"en": "thepreviousbet",
+"ctx": "imagen: guía de controles de minijuego (2d_mn_mgs_roulette); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 24
+},
+{
+"id": 70328,
+"en": "Confirm Help",
+"ctx": "imagen: guía de controles de minijuego (2d_mn_mgs_roulette); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70329,
+"en": "EndBet/Cancel",
+"ctx": "imagen: guía de controles de minijuego (2d_mn_mgs_roulette); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 70330,
+"en": "Confirm/Throw",
+"ctx": "imagen: guía de controles de minijuego (2d_mn_mgs_roulette02); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 70331,
+"en": "Skip GuestBet/",
+"ctx": "imagen: guía de controles de minijuego (2d_mn_mgs_roulette02); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 24
+},
+{
+"id": 70332,
+"en": "Skip Guest Bet/",
+"ctx": "imagen: guía de controles de minijuego (2d_mn_mgs_roulette02_bb); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 70333,
+"en": "ChangeView",
+"ctx": "imagen: guía de controles de minijuego (2d_mn_mgs_roulette03); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 70334,
+"en": "FastForward",
+"ctx": "imagen: guía de controles de minijuego (2d_mn_mgs_roulette03); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 19
+},
+{
+"id": 70335,
+"en": "Super Take Back",
+"ctx": "imagen: guía de controles de minijuego (2d_mn_mgs_shougi); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 70336,
+"en": "DisplayItemScreen Confirm",
+"ctx": "imagen: guía de controles de minijuego (2d_mn_mgs_shougi); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70337,
+"en": "Move Pointer",
+"ctx": "imagen: guía de controles de minijuego (2d_mn_mgs_shougi); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 21
+},
+{
+"id": 70338,
+"en": "MovePointer",
+"ctx": "imagen: guía de controles de minijuego (2d_mn_mgs_shougi); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 19
+},
+{
+"id": 70339,
+"en": "Snowy",
+"ctx": "imagen de menú (2d_yk_map_yukiyama); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 70340,
+"en": "Mountain",
+"ctx": "imagen de menú (2d_yk_map_yukiyama); etiqueta corta. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 70341,
+"en": "ReverseLeftStickControls",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_batting); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 38
+},
+{
+"id": 70342,
+"en": "Swing",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_batting); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 70343,
+"en": "Display/Hide Info",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_billiards01); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 28
+},
+{
+"id": 70344,
+"en": "DisplayBall Number",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_billiards01); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 30
+},
+{
+"id": 70345,
+"en": "Display Rules",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_billiards01); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 70346,
+"en": "EnterShotMode",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_billiards01); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 70347,
+"en": "Adjust Hitting Angle/ Position Cue Ball",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_billiards01); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70348,
+"en": "DisplayBallNumber",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_billiards02); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 28
+},
+{
+"id": 70349,
+"en": "Display/HideInfo",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_billiards02); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 27
+},
+{
+"id": 70350,
+"en": "ReturntoViewMode",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_billiards02); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 27
+},
+{
+"id": 70351,
+"en": "Adjust Impact Point",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_billiards02); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 31
+},
+{
+"id": 70352,
+"en": "Shoot",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_billiards02); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 70353,
+"en": "Standing Position/ AdjustSpin/",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_bowling); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70354,
+"en": "ConfirmDirectionandPower",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_bowling); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 38
+},
+{
+"id": 70355,
+"en": "SelectBall",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_bowling); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 70356,
+"en": "StandingPosition/",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_bowling); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 28
+},
+{
+"id": 70357,
+"en": "AdjustSpin/",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_bowling); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 19
+},
+{
+"id": 70358,
+"en": "SelectBall Exit Minigame",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_bowling); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70359,
+"en": "Display10Frames",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_bowlingb); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 70360,
+"en": "（+with Left Stick)",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_chase); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 33
+},
+{
+"id": 70361,
+"en": "Side-step Left",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_chase); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 24
+},
+{
+"id": 70362,
+"en": "Side-step Right",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_chase); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 70363,
+"en": "Attack Jump",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_chase); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70364,
+"en": "Roll Forward",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_chase2); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 21
+},
+{
+"id": 70365,
+"en": "One-roll Triple",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_chinchiro); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 70366,
+"en": "ConfirmBet/RollDice",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_chinchiro); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 31
+},
+{
+"id": 70367,
+"en": "Display Item Screen",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_chinchiro_bb); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 31
+},
+{
+"id": 70368,
+"en": "ViewRules",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_chinchiro_bb); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 17
+},
+{
+"id": 70369,
+"en": "Confirm Bet/Roll Dice",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_chinchiro_bb); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 34
+},
+{
+"id": 70370,
+"en": "DisplayRoll History",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_chouhan); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 31
+},
+{
+"id": 70371,
+"en": "Cancel/CloseDisplayScreen",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_chouhan); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 40
+},
+{
+"id": 70372,
+"en": "MoveCursor",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_chouhan); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 70373,
+"en": "Change Darts",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_darts); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 21
+},
+{
+"id": 70374,
+"en": "OK/Send Message Display Scores",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_darts); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70375,
+"en": "Adjust ThrowStrength",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_darts); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 33
+},
+{
+"id": 70376,
+"en": "Change Position",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_darts); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 70377,
+"en": "OK/Send Message",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_darts02); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 70378,
+"en": "Change Darts L1 Button",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_darts02_bb); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 35
+},
+{
+"id": 70379,
+"en": "DisplayRules",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_darts02_bb); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 21
+},
+{
+"id": 70380,
+"en": "AdjustThrowStrength",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_darts02_bb); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 31
+},
+{
+"id": 70381,
+"en": "RightStick",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_darts02_bb); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 70382,
+"en": "Back Display Scores OK/Send Message",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_darts_bb); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70383,
+"en": "L1+L2ReleaseReel(doublespeed)",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_fishing); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 46
+},
+{
+"id": 70384,
+"en": "R1+R2Wind Reel(double speed)",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_fishing); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 44
+},
+{
+"id": 70385,
+"en": "Reel In",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_fishing); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 70386,
+"en": "Release Reel",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_fishing); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 21
+},
+{
+"id": 70387,
+"en": "PullRod/Confirm",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_fishing); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 70388,
+"en": "MoveCursor/ManipulateRod",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_fishing); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 38
+},
+{
+"id": 70389,
+"en": "Change Direction",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_golf); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 27
+},
+{
+"id": 70390,
+"en": "Shoot/Confirm",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_golf); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 70391,
+"en": "Help Confirm",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_hanafuda); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70392,
+"en": "DisplayListofHands",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_hanafuda); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 30
+},
+{
+"id": 70393,
+"en": "Display ListofHands Confirm",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_kabu); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70394,
+"en": "Shout/lnterject",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_karaoke); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 70395,
+"en": "Wave Hands",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_karaoke); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 70396,
+"en": "Tambourine/Confirm",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_karaoke); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 30
+},
+{
+"id": 70397,
+"en": "Maracas",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_karaoke); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 70398,
+"en": "Clap/Cancel",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_karaoke); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 19
+},
+{
+"id": 70399,
+"en": "Controls/Stop",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_karaoke); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 70400,
+"en": "Tambourine/Cancel",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_karaoke_bb); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 28
+},
+{
+"id": 70401,
+"en": "Clap/Confirm",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_karaoke_bb); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 21
+},
+{
+"id": 70402,
+"en": "Change/Skip OverTopic",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_kyaba); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 34
+},
+{
+"id": 70403,
+"en": "Choose Free Action",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_kyaba); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 30
+},
+{
+"id": 70404,
+"en": "GiveAffirmative/Confirm",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_kyaba); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 37
+},
+{
+"id": 70405,
+"en": "GiveNegative",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_kyaba); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 21
+},
+{
+"id": 70406,
+"en": "Close Menu",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_kyaba); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 70407,
+"en": "Move Camera(First-person only)",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_kyaba); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 47
+},
+{
+"id": 70408,
+"en": "Change/SkipOverTopic",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_kyaba_bb); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 33
+},
+{
+"id": 70409,
+"en": "GiveAffirmative/CloseMenu",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_kyaba_bb); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 40
+},
+{
+"id": 70410,
+"en": "Confirm Discard Tiles",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_mahjong); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 34
+},
+{
+"id": 70411,
+"en": "Display/ HideAction Commands",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_mahjong); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70412,
+"en": "Select Tile",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_mahjong); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 19
+},
+{
+"id": 70413,
+"en": "Shoot Beam",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_shooting); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 70414,
+"en": "ShootBeam",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_shooting); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 17
+},
+{
+"id": 70415,
+"en": "MoveAutomatically",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_shooting); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 28
+},
+{
+"id": 70416,
+"en": "MoveCrane/Confirm",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_ufo); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 28
+},
+{
+"id": 70417,
+"en": "Insert Coin(s)",
+"ctx": "imagen: guía de controles de minijuego (2d_yk_mgs_ufo); etiqueta corta junto a un botón. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 24
+},
+{
+"id": 70418,
+"en": "Or shall we simply disrobe? No, at this price,Irequire a slower,more savory stimulation.Alas,nirvana awaits.",
+"ctx": "imagen de menú (2d_yk_sstory_e09_memo01a). Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70419,
+"en": "My heart racing in anticipation of our time together,Iparryhersultryapproaches. Oldhandsknowtosavorthisdelicateprocess.",
+"ctx": "imagen de menú (2d_yk_sstory_e09_memo01a). Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70420,
+"en": "Upon entering the room,we engage inlight banter.Shedoesn'tknowI'mareporter, and is eager to please despite thehour.",
+"ctx": "imagen de menú (2d_yk_sstory_e09_memo01a). Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70421,
+"en": "I arrive at the parlor just before closing. Inspiteof it,shewarmlywelcomesmyarrival.",
+"ctx": "imagen de menú (2d_yk_sstory_e09_memo01a). Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70422,
+"en": "I arrive at the parlor just before closing.",
+"ctx": "imagen de menú (2d_yk_sstory_e09_memo01q). Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70423,
+"en": "Or shall we simply disrobe?No,at this price,Irequire a slower,more savory stimulation.Alas,nirvana awaits.",
+"ctx": "imagen de menú (2d_yk_sstory_e09_memo01q). Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70424,
+"en": "Inspite of it,shewarmlywelcomes my arrival.",
+"ctx": "imagen de menú (2d_yk_sstory_e09_memo01q). Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70425,
+"en": "Upon entering the room, we engage in light banter.She doesn'tknow I'm a reporter, and is eager toplease despite thehour.",
+"ctx": "imagen de menú (2d_yk_sstory_e09_memo01q). Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70426,
+"en": "Myheartracing in anticipationof our time together,I parryher sultry approaches. Oldhandsknowto savor this delicateprocess.",
+"ctx": "imagen de menú (2d_yk_sstory_e09_memo01q). Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70427,
+"en": "Butitdidn't matternow.Brushing asideher misgivings,shegreedilysnatched the chicken wing's remains from Toru's hand.",
+"ctx": "imagen de menú (2d_yk_sstory_e09_memo02a). Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70428,
+"en": "\"It's so salty, Toru.\" The words tumbled softly fromher lips.A dark thoughtcrossed her mind--what if her husband were to see this?",
+"ctx": "imagen de menú (2d_yk_sstory_e09_memo02a). Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70429,
+"en": "\"Now, tell me. It tastes good, doesn't it?\" Toru'svoicecarried asteelyedge. It was a command that brooked no dissent.",
+"ctx": "imagen de menú (2d_yk_sstory_e09_memo02a). Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70430,
+"en": "Kaori hesitated a moment. What she had just swallowed onlyintensified her cravingto gobble down more of Toru's meaty offering.",
+"ctx": "imagen de menú (2d_yk_sstory_e09_memo02a). Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70431,
+"en": "\"Now, tell me. It tastes good, doesn't it?\"",
+"ctx": "imagen de menú (2d_yk_sstory_e09_memo02q). Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70432,
+"en": "Butit didn't matternow.Brushing asideher misgivings,shegreedilysnatched the chicken wing's remains from Toru's hand.",
+"ctx": "imagen de menú (2d_yk_sstory_e09_memo02q). Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70433,
+"en": "Toru's voice carried a steely edge.",
+"ctx": "imagen de menú (2d_yk_sstory_e09_memo02q). Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70434,
+"en": "It was a command thatbrooked no dissent.",
+"ctx": "imagen de menú (2d_yk_sstory_e09_memo02q). Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70435,
+"en": "Kaori hesitated a moment.What shehad just swallowed onlyintensifiedhercraving to gobble downmore of Toru's meatyoffering.",
+"ctx": "imagen de menú (2d_yk_sstory_e09_memo02q). Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70436,
+"en": "\"It's so salty,Toru.\"The words tumbled softly fromher lips.A dark thought crossed her mind--what if herhusband weretosee this?",
+"ctx": "imagen de menú (2d_yk_sstory_e09_memo02q). Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70437,
+"en": "RUN AWAY!",
+"ctx": "imagen: rótulo de pincel en MAYÚSCULAS (objetivo de misión o presentación de personaje); « / » separa las líneas: deja el mismo número de líneas; los nombres propios no se traducen. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70438,
+"en": "CHASE THEM!",
+"ctx": "imagen: rótulo de pincel en MAYÚSCULAS (objetivo de misión o presentación de personaje); « / » separa las líneas: deja el mismo número de líneas; los nombres propios no se traducen. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70439,
+"en": "HEAD FOR / NAGASU TAXI",
+"ctx": "imagen: rótulo de pincel en MAYÚSCULAS (objetivo de misión o presentación de personaje); « / » separa las líneas: deja el mismo número de líneas; los nombres propios no se traducen. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70440,
+"en": "HANDLE YOUR / TAXI DUTIES",
+"ctx": "imagen: rótulo de pincel en MAYÚSCULAS (objetivo de misión o presentación de personaje); « / » separa las líneas: deja el mismo número de líneas; los nombres propios no se traducen. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70441,
+"en": "HEAD FOR / OLIVIER",
+"ctx": "imagen: rótulo de pincel en MAYÚSCULAS (objetivo de misión o presentación de personaje); « / » separa las líneas: deja el mismo número de líneas; los nombres propios no se traducen. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70442,
+"en": "HEAD TO / THe TOP fLOOR!",
+"ctx": "imagen: rótulo de pincel en MAYÚSCULAS (objetivo de misión o presentación de personaje); « / » separa las líneas: deja el mismo número de líneas; los nombres propios no se traducen. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70443,
+"en": "GET OUT!",
+"ctx": "imagen: rótulo de pincel en MAYÚSCULAS (objetivo de misión o presentación de personaje); « / » separa las líneas: deja el mismo número de líneas; los nombres propios no se traducen. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70444,
+"en": "LOOK FOR / YAHATA",
+"ctx": "imagen: rótulo de pincel en MAYÚSCULAS (objetivo de misión o presentación de personaje); « / » separa las líneas: deja el mismo número de líneas; los nombres propios no se traducen. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70445,
+"en": "HEAD FOR / OUSAKA ENTERPRISES",
+"ctx": "imagen: rótulo de pincel en MAYÚSCULAS (objetivo de misión o presentación de personaje); « / » separa las líneas: deja el mismo número de líneas; los nombres propios no se traducen. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70446,
+"en": "VERIFY / BABASALIBI",
+"ctx": "imagen: rótulo de pincel en MAYÚSCULAS (objetivo de misión o presentación de personaje); « / » separa las líneas: deja el mismo número de líneas; los nombres propios no se traducen. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70447,
+"en": "HEADFOR THE / BATTING CENTER",
+"ctx": "imagen: rótulo de pincel en MAYÚSCULAS (objetivo de misión o presentación de personaje); « / » separa las líneas: deja el mismo número de líneas; los nombres propios no se traducen. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70448,
+"en": "FIND CHRISTINA",
+"ctx": "imagen: rótulo de pincel en MAYÚSCULAS (objetivo de misión o presentación de personaje); « / » separa las líneas: deja el mismo número de líneas; los nombres propios no se traducen. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 70449,
+"en": "HEAD FOR / DYNA CHAIR",
+"ctx": "imagen: rótulo de pincel en MAYÚSCULAS (objetivo de misión o presentación de personaje); « / » separa las líneas: deja el mismo número de líneas; los nombres propios no se traducen. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+}
+]

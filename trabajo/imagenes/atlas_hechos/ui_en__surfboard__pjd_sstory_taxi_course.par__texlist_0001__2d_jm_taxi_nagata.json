@@ -1,0 +1,42 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_taxi_course.par/texlist_0001/2d_jm_taxi_nagata",
+ "fuente": "segoeuiz.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    32,
+    448,
+    64
+   ],
+   "en": "DEVIL KILLED ED",
+   "ocr": "DEVIL",
+   "es": "",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 444,
+   "dejar": true,
+   "nota": "apodo propio (Devil Killer Nagata) partido en dos tiras horizontales de 32 px (animación): no se puede rehacer con el kit"
+  },
+  {
+   "caja": [
+    0,
+    64,
+    448,
+    96
+   ],
+   "en": "DEVIL KILLER",
+   "ocr": "L KILLER NAGATA",
+   "es": "",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 444,
+   "dejar": true,
+   "nota": "apodo propio (Devil Killer Nagata) partido en dos tiras horizontales de 32 px (animación): no se puede rehacer con el kit"
+  }
+ ]
+}

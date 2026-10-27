@@ -1,0 +1,159 @@
+{
+ "textura": "ui_en/surfboard/pjd_titlemenu.par/texlist_0001/2d_jm_title_sp",
+ "fuente": "times.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    2,
+    6,
+    124,
+    32
+   ],
+   "en": "Video Mode",
+   "es": "Modo video",
+   "fuente": "times.ttf",
+   "alin": "izq",
+   "ancho_max": 118,
+   "efecto": "estilo",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 16,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     120,
+     120,
+     120
+    ]
+   }
+  },
+  {
+   "caja": [
+    2,
+    41,
+    249,
+    67
+   ],
+   "en": "Two-player Versus Mode",
+   "es": "Versus para 2 jugadores",
+   "fuente": "times.ttf",
+   "alin": "izq",
+   "ancho_max": 243,
+   "efecto": "estilo",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 18,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": null,
+    "brillo": [
+     120,
+     120,
+     120
+    ]
+   }
+  },
+  {
+   "caja": [
+    22,
+    72,
+    176,
+    92
+   ],
+   "en": "music video list",
+   "es": "videos musicales",
+   "fuente": "segoeui.ttf",
+   "alin": "izq",
+   "ancho_max": 150,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 13
+  },
+  {
+   "caja": [
+    158,
+    82,
+    245,
+    101
+   ],
+   "en": "NEW",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    0,
+    160,
+    256,
+    184
+   ],
+   "en": "So Much More",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    0,
+    184,
+    256,
+    208
+   ],
+   "en": "Loneliness Loop",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    0,
+    208,
+    256,
+    232
+   ],
+   "en": "Because I Have You",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    0,
+    232,
+    256,
+    256
+   ],
+   "en": "DREAM",
+   "es": "",
+   "dejar": true
+  }
+ ]
+}

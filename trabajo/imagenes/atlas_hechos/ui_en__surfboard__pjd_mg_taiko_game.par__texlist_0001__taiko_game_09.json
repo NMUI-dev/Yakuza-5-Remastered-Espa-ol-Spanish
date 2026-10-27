@@ -1,0 +1,420 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_taiko_game.par/texlist_0001/taiko_game_09",
+ "fuente": "LilitaOne-Regular.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    36,
+    122,
+    334,
+    200
+   ],
+   "en": "STAGE",
+   "es": "¡NIVEL",
+   "fuente": "LilitaOne-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 292,
+   "estilo": {
+    "arriba": [
+     255,
+     215,
+     60
+    ],
+    "abajo": [
+     240,
+     85,
+     30
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     3
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    4,
+    184,
+    382,
+    268
+   ],
+   "en": "CLEARED!",
+   "es": "SUPERADO!",
+   "fuente": "LilitaOne-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 372,
+   "estilo": {
+    "arriba": [
+     255,
+     215,
+     60
+    ],
+    "abajo": [
+     240,
+     85,
+     30
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     3
+    ],
+    "brillo": null
+   },
+   "alto": 60
+  },
+  {
+   "caja": [
+    56,
+    262,
+    334,
+    314
+   ],
+   "en": "FULL",
+   "es": "¡COMBO",
+   "fuente": "LilitaOne-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 272,
+   "estilo": {
+    "arriba": [
+     255,
+     240,
+     140
+    ],
+    "abajo": [
+     225,
+     150,
+     20
+    ],
+    "contorno": [
+     [
+      70,
+      35,
+      0
+     ],
+     3
+    ],
+    "brillo": null
+   },
+   "alto": 50
+  },
+  {
+   "caja": [
+    56,
+    308,
+    404,
+    392
+   ],
+   "en": "COMBO!",
+   "es": "TOTAL!",
+   "fuente": "LilitaOne-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 342,
+   "estilo": {
+    "arriba": [
+     255,
+     240,
+     140
+    ],
+    "abajo": [
+     225,
+     150,
+     20
+    ],
+    "contorno": [
+     [
+      70,
+      35,
+      0
+     ],
+     3
+    ],
+    "brillo": null
+   },
+   "alto": 60
+  },
+  {
+   "caja": [
+    36,
+    0,
+    334,
+    58
+   ],
+   "en": "STAGE",
+   "es": "¡NIVEL",
+   "fuente": "LilitaOne-Regular.ttf",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 292,
+   "radio": 2,
+   "alto": 48,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    2,
+    48,
+    386,
+    126
+   ],
+   "en": "CLEARED!",
+   "es": "SUPERADO!",
+   "fuente": "LilitaOne-Regular.ttf",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 378,
+   "radio": 2,
+   "alto": 54,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    50,
+    390,
+    340,
+    463
+   ],
+   "en": "FULL",
+   "es": "¡COMBO",
+   "fuente": "LilitaOne-Regular.ttf",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 284,
+   "radio": 8,
+   "alto": 50,
+   "color": [
+    150,
+    80,
+    10
+   ]
+  },
+  {
+   "caja": [
+    50,
+    463,
+    422,
+    560
+   ],
+   "en": "COMBO!",
+   "es": "TOTAL!",
+   "fuente": "LilitaOne-Regular.ttf",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 354,
+   "radio": 8,
+   "alto": 60,
+   "color": [
+    150,
+    80,
+    10
+   ]
+  },
+  {
+   "caja": [
+    398,
+    8,
+    548,
+    72
+   ],
+   "en": "STA",
+   "es": "NI",
+   "fuente": "LilitaOne-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 144,
+   "estilo": {
+    "arriba": [
+     255,
+     215,
+     60
+    ],
+    "abajo": [
+     240,
+     85,
+     30
+    ],
+    "contorno": [
+     [
+      90,
+      25,
+      0
+     ],
+     3
+    ],
+    "brillo": null
+   },
+   "alto": 44,
+   "margen": 8
+  },
+  {
+   "caja": [
+    565,
+    8,
+    670,
+    72
+   ],
+   "en": "GE",
+   "es": "VEL",
+   "fuente": "LilitaOne-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 99,
+   "estilo": {
+    "arriba": [
+     255,
+     215,
+     60
+    ],
+    "abajo": [
+     240,
+     85,
+     30
+    ],
+    "contorno": [
+     [
+      90,
+      25,
+      0
+     ],
+     3
+    ],
+    "brillo": null
+   },
+   "alto": 44,
+   "margen": 8
+  },
+  {
+   "caja": [
+    710,
+    8,
+    855,
+    72
+   ],
+   "en": "CLE",
+   "es": "SUPE",
+   "fuente": "LilitaOne-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 139,
+   "estilo": {
+    "arriba": [
+     255,
+     215,
+     60
+    ],
+    "abajo": [
+     240,
+     85,
+     30
+    ],
+    "contorno": [
+     [
+      90,
+      25,
+      0
+     ],
+     3
+    ],
+    "brillo": null
+   },
+   "alto": 44,
+   "margen": 8
+  },
+  {
+   "caja": [
+    865,
+    8,
+    975,
+    72
+   ],
+   "en": "AR",
+   "es": "RA",
+   "fuente": "LilitaOne-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 104,
+   "estilo": {
+    "arriba": [
+     255,
+     215,
+     60
+    ],
+    "abajo": [
+     240,
+     85,
+     30
+    ],
+    "contorno": [
+     [
+      90,
+      25,
+      0
+     ],
+     3
+    ],
+    "brillo": null
+   },
+   "alto": 44,
+   "margen": 8
+  },
+  {
+   "caja": [
+    408,
+    94,
+    540,
+    166
+   ],
+   "en": "ED!",
+   "es": "DO!",
+   "fuente": "LilitaOne-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 126,
+   "estilo": {
+    "arriba": [
+     255,
+     215,
+     60
+    ],
+    "abajo": [
+     240,
+     85,
+     30
+    ],
+    "contorno": [
+     [
+      90,
+      25,
+      0
+     ],
+     3
+    ],
+    "brillo": null
+   },
+   "alto": 44,
+   "margen": 8
+  }
+ ]
+}

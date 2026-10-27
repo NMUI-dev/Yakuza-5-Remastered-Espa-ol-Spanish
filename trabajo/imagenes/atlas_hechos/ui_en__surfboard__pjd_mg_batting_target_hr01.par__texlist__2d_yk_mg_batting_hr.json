@@ -1,0 +1,94 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_batting_target_hr01.par/texlist/2d_yk_mg_batting_hr",
+ "fuente": "verdanab.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    0,
+    810,
+    128
+   ],
+   "en": "HOME RUN",
+   "es": "JONRÓN",
+   "fuente": "verdanab.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "alto": 72,
+   "ancho_max": 800,
+   "estilo": {
+    "arriba": [
+     250,
+     250,
+     250
+    ],
+    "abajo": [
+     172,
+     173,
+     172
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     3
+    ],
+    "brillo": null
+   },
+   "dejar": true
+  },
+  {
+   "caja": [
+    0,
+    128,
+    810,
+    256
+   ],
+   "en": "HOME RUN",
+   "es": "JONRÓN",
+   "fuente": "verdanab.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "alto": 82,
+   "ancho_max": 800,
+   "estilo": {
+    "arriba": [
+     120,
+     230,
+     215
+    ],
+    "abajo": [
+     40,
+     165,
+     85
+    ],
+    "contorno": [
+     [
+      60,
+      230,
+      150
+     ],
+     3
+    ],
+    "brillo": null
+   },
+   "dejar": true
+  },
+  {
+   "caja": [
+    843,
+    12,
+    1012,
+    99
+   ],
+   "en": "HOMERUN",
+   "es": "",
+   "dejar": true,
+   "nota": "versión con desenfoque de movimiento horizontal (estela): el kit no tiene ese efecto; ilegible de por sí"
+  }
+ ]
+}

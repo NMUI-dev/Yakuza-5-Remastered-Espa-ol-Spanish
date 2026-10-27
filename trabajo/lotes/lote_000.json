@@ -1,0 +1,2107 @@
+[
+{
+"id": 0,
+"en": "Huh?",
+"ctx": "subtítulo de escena A1080 + subtítulo de escena B2300 …"
+},
+{
+"id": 1,
+"en": "Exactly.",
+"ctx": "subtítulo de escena A1135 + menú/texto ai_popup …"
+},
+{
+"id": 2,
+"en": "Not at all.",
+"ctx": "subtítulo de escena A1210 + subtítulo de escena B2300 …"
+},
+{
+"id": 3,
+"en": "Uh-huh.",
+"ctx": "subtítulo de escena A1225 + tabla tsukkomi|TSUKKOMI …"
+},
+{
+"id": 4,
+"en": "Farewell.",
+"ctx": "subtítulo de escena A1270 + tabla response_roulette|POPUP"
+},
+{
+"id": 5,
+"en": "You bastard!",
+"ctx": "subtítulo de escena A1270 + menú/texto ai_popup"
+},
+{
+"id": 6,
+"en": "What?",
+"ctx": "subtítulo de escena A1270 + subtítulo de escena B2140 …"
+},
+{
+"id": 7,
+"en": "Yeah!",
+"ctx": "subtítulo de escena A1270 + subtítulo de escena B2210 …"
+},
+{
+"id": 8,
+"en": "Okay!",
+"ctx": "subtítulo de escena A1270 + subtítulo de escena C3150 …"
+},
+{
+"id": 9,
+"en": "What's this?",
+"ctx": "subtítulo de escena A1315 + subtítulo de escena D4180 …"
+},
+{
+"id": 10,
+"en": "Kiryu-san!",
+"ctx": "subtítulo de escena A1320 + menú/texto string_tbl …"
+},
+{
+"id": 11,
+"en": "Kiryu-san...",
+"ctx": "subtítulo de escena A1320 + menú/texto string_tbl …"
+},
+{
+"id": 12,
+"en": "Goodbye.",
+"ctx": "subtítulo de escena A1320 + subtítulo de escena D4410 …"
+},
+{
+"id": 13,
+"en": "Oh yeah?",
+"ctx": "subtítulo de escena A1335 + subtítulo de escena B2115 …"
+},
+{
+"id": 14,
+"en": "Yes.",
+"ctx": "subtítulo de escena A1350 + subtítulo de escena D4410 …"
+},
+{
+"id": 15,
+"en": "Sorry...",
+"ctx": "subtítulo de escena A1370 + menú/texto ai_popup …"
+},
+{
+"id": 16,
+"en": "Later.",
+"ctx": "subtítulo de escena A1395 + menú/texto mail …"
+},
+{
+"id": 17,
+"en": "Sorry.",
+"ctx": "subtítulo de escena B2080 + subtítulo de escena D4340 …"
+},
+{
+"id": 18,
+"en": "Saejima-san!",
+"ctx": "subtítulo de escena B2150 + menú/texto string_tbl …"
+},
+{
+"id": 19,
+"en": "Thank you.",
+"ctx": "subtítulo de escena B2150 + subtítulo de escena C3150 …"
+},
+{
+"id": 20,
+"en": "That's great.",
+"ctx": "subtítulo de escena B2375 + menú/texto ai_popup …"
+},
+{
+"id": 21,
+"en": "Hey, you!",
+"ctx": "subtítulo de escena C3090 + menú/texto ai_popup …"
+},
+{
+"id": 22,
+"en": "Stop it.",
+"ctx": "subtítulo de escena C3150 + subtítulo de escena C3600 …"
+},
+{
+"id": 23,
+"en": "Haruka.",
+"ctx": "subtítulo de escena C3150 + subtítulo de escena C3600 …"
+},
+{
+"id": 24,
+"en": "What happened?",
+"ctx": "subtítulo de escena C3185 + menú/texto string_tbl …"
+},
+{
+"id": 25,
+"en": "I'm so sorry.",
+"ctx": "subtítulo de escena C3185 + menú/texto ai_popup …"
+},
+{
+"id": 26,
+"en": "Akiyama-san!",
+"ctx": "subtítulo de escena C3270 + subtítulo de escena C3280 …"
+},
+{
+"id": 27,
+"en": "Shit...",
+"ctx": "subtítulo de escena C3380 + menú/texto ai_popup …"
+},
+{
+"id": 28,
+"en": "I had no idea.",
+"ctx": "subtítulo de escena C3430 + tabla tsukkomi|TSUKKOMI …"
+},
+{
+"id": 29,
+"en": "Thank you very much!",
+"ctx": "subtítulo de escena C3535 + menú/texto string_tbl …"
+},
+{
+"id": 30,
+"en": "Huh!?",
+"ctx": "subtítulo de escena D4080 + subtítulo de escena D4335 …"
+},
+{
+"id": 31,
+"en": "Are you sure about that?",
+"ctx": "subtítulo de escena D4140 + menú/texto string_tbl …"
+},
+{
+"id": 32,
+"en": "That's right.",
+"ctx": "subtítulo de escena D4410 + tabla tsukkomi|TSUKKOMI …"
+},
+{
+"id": 33,
+"en": "See you.",
+"ctx": "subtítulo de escena D4430 + menú/texto string_tbl …"
+},
+{
+"id": 34,
+"en": "Seriously!?",
+"ctx": "subtítulo de escena D4450 + menú/texto string_tbl …"
+},
+{
+"id": 35,
+"en": "Hey!",
+"ctx": "subtítulo de escena D4450 + menú/texto ai_popup …"
+},
+{
+"id": 36,
+"en": "Shinada?",
+"ctx": "subtítulo de escena D4485 + menú/texto mail"
+},
+{
+"id": 37,
+"en": "No way.",
+"ctx": "subtítulo de escena E5070 + menú/texto ai_popup …"
+},
+{
+"id": 38,
+"en": "Saejima-san...",
+"ctx": "subtítulo de escena E5075 + subtítulo de escena E5080 …"
+},
+{
+"id": 39,
+"en": "Okay.",
+"ctx": "subtítulo de escena E5075 + menú/texto ai_popup …"
+},
+{
+"id": 40,
+"en": "What do you want?",
+"ctx": "subtítulo de escena E5120 + menú/texto ai_popup …"
+},
+{
+"id": 41,
+"en": "No way...",
+"ctx": "subtítulo de escena E5190 + menú/texto string_tbl …"
+},
+{
+"id": 42,
+"en": "Yay!",
+"ctx": "subtítulo de escena E5228 + menú/texto string_tbl …"
+},
+{
+"id": 43,
+"en": "Hey...",
+"ctx": "subtítulo de escena E5250 + menú/texto ai_popup …"
+},
+{
+"id": 44,
+"en": "See ya.",
+"ctx": "subtítulo de escena E5260 + tabla response_roulette|POPUP …"
+},
+{
+"id": 45,
+"en": "Run!",
+"ctx": "subtítulo de escena E5330 + tabla caption|SUBTITLE …"
+},
+{
+"id": 46,
+"en": "I don't get it...",
+"ctx": "subtítulo de escena E5330 + menú/texto mail"
+},
+{
+"id": 47,
+"en": "Got it.",
+"ctx": "subtítulo de escena E5330 + tabla bakuto_en|MSG01 …"
+},
+{
+"id": 48,
+"en": "This silly dream, this ray of hope",
+"ctx": "subtítulo de escena E5340 + menú/texto string_tbl …"
+},
+{
+"id": 49,
+"en": "There we go.",
+"ctx": "subtítulo de escena E5350 + menú/texto ai_popup"
+},
+{
+"id": 50,
+"en": "Hey.",
+"ctx": "subtítulo de escena E5350 + menú/texto ai_popup …"
+},
+{
+"id": 51,
+"en": "What the hell?",
+"ctx": "subtítulo de escena E5350 + subtítulo de escena E5370 …"
+},
+{
+"id": 52,
+"en": "Damn it!",
+"ctx": "subtítulo de escena E5360 + subtítulo de escena E5390 …"
+},
+{
+"id": 53,
+"en": "What!?",
+"ctx": "subtítulo de escena E5360 + tabla restaurant_menu|MSG_P0 …"
+},
+{
+"id": 54,
+"en": "Till the end, you'll be by my side",
+"ctx": "subtítulo de escena E5370 + menú/texto string_tbl"
+},
+{
+"id": 55,
+"en": "I remember it so well",
+"ctx": "subtítulo de escena E5370 + tabla Kimiiru|LIVE_WORD_STR"
+},
+{
+"id": 56,
+"en": "What's going on?",
+"ctx": "subtítulo de escena E5380 + menú/texto ai_popup …"
+},
+{
+"id": 57,
+"en": "I'm beat!",
+"ctx": "subtítulo de escena E5400 + menú/texto ai_popup"
+},
+{
+"id": 58,
+"en": "How do you figure?",
+"ctx": "subtítulo de escena E5440 + tabla tsukkomi|TSUKKOMI …"
+},
+{
+"id": 59,
+"en": "Basic Controls",
+"ctx": "tabla ability|CATEGORY"
+},
+{
+"id": 60,
+"en": "Basic Attacks",
+"ctx": "tabla ability|CATEGORY + menú/texto string_tbl"
+},
+{
+"id": 61,
+"en": "Heat Actions",
+"ctx": "tabla ability|CATEGORY + menú/texto string_tbl …"
+},
+{
+"id": 62,
+"en": "Soul Abilities",
+"ctx": "tabla ability|CATEGORY + menú/texto string_tbl"
+},
+{
+"id": 63,
+"en": "Technique Abilities",
+"ctx": "tabla ability|CATEGORY + menú/texto string_tbl"
+},
+{
+"id": 64,
+"en": "Boost Health",
+"ctx": "tabla ability|CATEGORY"
+},
+{
+"id": 65,
+"en": "Heat Abilities",
+"ctx": "tabla ability|CATEGORY + menú/texto string_tbl"
+},
+{
+"id": 66,
+"en": "Training/Revelations",
+"ctx": "tabla ability|CATEGORY"
+},
+{
+"id": 67,
+"en": "Dance Heat",
+"ctx": "tabla ability|CATEGORY"
+},
+{
+"id": 68,
+"en": "Walk/Run",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 69,
+"en": "Fighting Stance",
+"ctx": "tabla ability|SKILL + menú/texto string_tbl …"
+},
+{
+"id": 70,
+"en": "Grab Enemy",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 71,
+"en": "Foot Grab",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 72,
+"en": "Pick Up Weapon",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 73,
+"en": "Guard (Barehanded)",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 74,
+"en": "Guard (Weapon)",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 75,
+"en": "Quickstep",
+"ctx": "tabla ability|SKILL + tabla tips_tutorial|TIPS_NAME"
+},
+{
+"id": 76,
+"en": "Taunt",
+"ctx": "tabla ability|SKILL + tabla tips_tutorial|TIPS_NAME"
+},
+{
+"id": 77,
+"en": "Camera Controls",
+"ctx": "tabla ability|SKILL + menú/texto string_tbl …"
+},
+{
+"id": 78,
+"en": "Reset Camera",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 79,
+"en": "Smoke Break",
+"ctx": "tabla ability|SKILL + tabla tips_tutorial|TIPS_NAME"
+},
+{
+"id": 80,
+"en": "Rush Combo",
+"ctx": "tabla ability|SKILL + tabla tips_tutorial|TIPS_NAME"
+},
+{
+"id": 81,
+"en": "Finishing Blow",
+"ctx": "tabla ability|SKILL + tabla tips_tutorial|TIPS_NAME"
+},
+{
+"id": 82,
+"en": "Directional Attack",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 83,
+"en": "Heavy Attack",
+"ctx": "tabla ability|SKILL + tabla tips_tutorial|TIPS_NAME"
+},
+{
+"id": 84,
+"en": "Hold & Pummel",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 85,
+"en": "Throw Enemy",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 86,
+"en": "Take Out Weapon",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 87,
+"en": "Throw Weapon",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 88,
+"en": "Essence of Merciless Throwing",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 89,
+"en": "Essence of Throwing",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 90,
+"en": "Wall Crush",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 91,
+"en": "Back Crush",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 92,
+"en": "Essence of Fence Bashing",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 93,
+"en": "Essence of Fence Smashing",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 94,
+"en": "Head Crush",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 95,
+"en": "Komaki Bowl Crusher",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 96,
+"en": "Essence of Pole Crush",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 97,
+"en": "Essence of Butt Breaking",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 98,
+"en": "Essence of Back Breaking",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 99,
+"en": "Essence of Mounting",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 100,
+"en": "Essence of Finishing Knuckle",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 101,
+"en": "Essence of Slamming",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 102,
+"en": "Essence of Finishing Stomp",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 103,
+"en": "Essence of Finishing Kick",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 104,
+"en": "Essence of Finishing Hammer",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 105,
+"en": "Essence of Weapon Finish",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 106,
+"en": "Essence of Pressure Finish",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 107,
+"en": "Essence of Brick Breaking",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 108,
+"en": "Essence of Crushing",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 109,
+"en": "Essence of Signage",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 110,
+"en": "Essence of Beatdown",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 111,
+"en": "Essence of Momentum",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 112,
+"en": "Essence of Lotus Staff",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 113,
+"en": "Essence of Kali Sticks",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 114,
+"en": "Blade Finisher: Heavens Converge",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 115,
+"en": "Hidden Blade: Raging Bull",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 116,
+"en": "Heavy Maul: Fly Swatter",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 117,
+"en": "Essence of Hammer",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 118,
+"en": "Dual Short Sword: Sly Wolf",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 119,
+"en": "Essence of Stabbing",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 120,
+"en": "Essence of Dagger",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 121,
+"en": "Essence of Nunchaku",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 122,
+"en": "Essence of Batting",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 123,
+"en": "Essence of Tonfas",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 124,
+"en": "Essence of Guzzling",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 125,
+"en": "Essence of Swordplay",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 126,
+"en": "Essence of Stun Gun",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 127,
+"en": "Essence of Bowling",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 128,
+"en": "Essence of Salting",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 129,
+"en": "Essence of Syringe",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 130,
+"en": "Essence of Golfing",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 131,
+"en": "Essence of Grilling",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 132,
+"en": "Essence of Pliers",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 133,
+"en": "Essence of Umbrella",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 134,
+"en": "Cyclops Roll",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 135,
+"en": "Hellish Swing",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 136,
+"en": "Heavenly Swing",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 137,
+"en": "Essence of Swinging",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 138,
+"en": "Essence of Might",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 139,
+"en": "Essence of Reversal",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 140,
+"en": "Essence of Smoking",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 141,
+"en": "Essence of Terror",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 142,
+"en": "Essence of Team Ascent",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 143,
+"en": "Essence of Combo Stomp",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 144,
+"en": "Essence of Head Press",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 145,
+"en": "Essence of Bike Riding",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 146,
+"en": "Essence of Superglue",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 147,
+"en": "Essence of Fireworks",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 148,
+"en": "Essence of the Dragon",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 149,
+"en": "Essence of Backup Busting",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 150,
+"en": "Essence of the Dragon King",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 151,
+"en": "White Tiger Spirit",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 152,
+"en": "Tortoise Spirit",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 153,
+"en": "War God's Blessing",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 154,
+"en": "Stability",
+"ctx": "tabla ability|SKILL + menú/texto string_tbl"
+},
+{
+"id": 155,
+"en": "Phoenix Spirit",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 156,
+"en": "Azure Dragon Spirit",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 157,
+"en": "Dragon God Defense",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 158,
+"en": "Asura Spirit",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 159,
+"en": "Waking the Dragon",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 160,
+"en": "Secret of Guard Breaking",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 161,
+"en": "Double Finishing Blow",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 162,
+"en": "Drop Kick",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 163,
+"en": "Re-Guard",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 164,
+"en": "Guard Break",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 165,
+"en": "Rising Kick",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 166,
+"en": "Pull Up (fallen enemy)",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 167,
+"en": "Knockdown Reversal",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 168,
+"en": "Bounding Throw",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 169,
+"en": "Reversal",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 170,
+"en": "Quickstep Cancel",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 171,
+"en": "Increase Health Gauge",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 172,
+"en": "Enhanced Hold Escape",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 173,
+"en": "Quick Stand",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 174,
+"en": "Enhance Grab",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 175,
+"en": "Enhance Throws",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 176,
+"en": "Komaki Daruma Tumbler",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 177,
+"en": "Enhance Evasion",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 178,
+"en": "Komaki Cat-Like Reflexes",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 179,
+"en": "Secret of Defense",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 180,
+"en": "Essence of Finishing",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 181,
+"en": "Boost Heat Gauge",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 182,
+"en": "Essence of Hurling",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 183,
+"en": "Essence of Face Grating",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 184,
+"en": "Essence of Seizing",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 185,
+"en": "Essence of Self-Destruction",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 186,
+"en": "Komaki Fist Reversal",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 187,
+"en": "Komaki Firearm Flip",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 188,
+"en": "Komaki Swordless Rebirth",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 189,
+"en": "Boost Heat Increase",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 190,
+"en": "Dragon Spirit",
+"ctx": "tabla ability|SKILL + tabla tips_tutorial|TIPS_NAME"
+},
+{
+"id": 191,
+"en": "Komaki Knock Back",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 192,
+"en": "Komaki Evade & Strike",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 193,
+"en": "Komaki Parry",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 194,
+"en": "Komaki Tiger Drop",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 195,
+"en": "Max Komaki Tiger Drop",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 196,
+"en": "Essence of Drunken Thrust",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 197,
+"en": "Ultimate Essence",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 198,
+"en": "Essence of Door Slamming",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME …"
+},
+{
+"id": 199,
+"en": "Enhanced Garbage Can Attack",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 200,
+"en": "Enhanced Stove Attack",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 201,
+"en": "Enhanced Pliers Attack",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 202,
+"en": "Gourmet in Training",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 203,
+"en": "Master Gourmet",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 204,
+"en": "King of Gourmets",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 205,
+"en": "Grab Legs / Foot Grab",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 206,
+"en": "Guard (bare hands)",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 207,
+"en": "Guard (weapon)",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 208,
+"en": "Charging Finish",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 209,
+"en": "Essence of Brass Knuckles",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 210,
+"en": "Essence of Ruthlessness",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 211,
+"en": "Essence of Sweeping",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 212,
+"en": "Tiger Essence of Shockwave",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 213,
+"en": "Golden Dragon Spirit",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 214,
+"en": "Demon's Blessing",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 215,
+"en": "Max Yellow Dragon Spirit",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 216,
+"en": "Super Double Combo ",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 217,
+"en": "Tiger Charge",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 218,
+"en": "Tiger Cyclone",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 219,
+"en": "Super Knee Hammer",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 220,
+"en": "Super Triple Combo",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 221,
+"en": "Tiger Jaws",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 222,
+"en": "Super Uppercut",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 223,
+"en": "Tiger Fangs",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 224,
+"en": "Mega Wind-up Top",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 225,
+"en": "Mega Puppet Toss",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 226,
+"en": "Power Grab",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 227,
+"en": "Max Enhance Throws",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 228,
+"en": "Secret of Critical Damage",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 229,
+"en": "Essence of Clotheslining",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 230,
+"en": "Essence of Heavy Weapons",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 231,
+"en": "Essence of Wall Throwing",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 232,
+"en": "Essence of Puppetry",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 233,
+"en": "Essence of Iron Hammer",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 234,
+"en": "Essence of Bell Ringing",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 235,
+"en": "Essence of Smashing",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 236,
+"en": "Tiger Puppetry",
+"ctx": "tabla ability|SKILL + tabla tips_tutorial|TIPS_NAME"
+},
+{
+"id": 237,
+"en": "Tiger Iron Hammer",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 238,
+"en": "Tiger Roar",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 239,
+"en": "Tiger Essence of Braining",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 240,
+"en": "Herculean Spirit",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 241,
+"en": "Tiger Dragon Drop",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 242,
+"en": "Tiger Essence of Blitzing",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 243,
+"en": "Essence of Snowman",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME …"
+},
+{
+"id": 244,
+"en": "Enhanced Plant Attack",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 245,
+"en": "Enhanced Tire Attack",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 246,
+"en": "Guard Rail Crush",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 247,
+"en": "Pole Crush",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 248,
+"en": "Wall Smash",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 249,
+"en": "Kali Abuser",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 250,
+"en": "Essence of Pole Vaulting",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 251,
+"en": "Essence of Falling Knee",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 252,
+"en": "Killer Kick Combo",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 253,
+"en": "Squat Taunt",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 254,
+"en": "Scolding Glare",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 255,
+"en": "Downed Taunt",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 256,
+"en": "Goddess's Blessing",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 257,
+"en": "Boozer's Lore",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 258,
+"en": "Taunt Mastery",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 259,
+"en": "Secret of Strife",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 260,
+"en": "Double Finishing Kick",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 261,
+"en": "Triple Finishing Kick",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 262,
+"en": "Combo Speed Boost",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 263,
+"en": "Double Quickstep",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 264,
+"en": "Evasive Quickstep Plus",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 265,
+"en": "Power Launch Strike",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 266,
+"en": "Knockdown Evasion",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 267,
+"en": "Astral Quickstep",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 268,
+"en": "Essence of Finishing Knee",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 269,
+"en": "Essence of Triangle Jump",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 270,
+"en": "Essence of Comebacks",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 271,
+"en": "Alpha Drive",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 272,
+"en": "Essence of Loin Reaving",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 273,
+"en": "Beta Drive",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 274,
+"en": "Gamma Drive",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 275,
+"en": "Launch Strike",
+"ctx": "tabla ability|SKILL + tabla tips_tutorial|TIPS_NAME"
+},
+{
+"id": 276,
+"en": "Slash Kick Plus",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 277,
+"en": "Quickstep Attack",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 278,
+"en": "Meteor Strike",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 279,
+"en": "Launch Strike Plus",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 280,
+"en": "Counter Kick",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 281,
+"en": "Final Drive",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 282,
+"en": "Double Juggle",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME …"
+},
+{
+"id": 283,
+"en": "Enhanced Bike Attack",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 284,
+"en": "Enhanced Beer Crate Attack",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 285,
+"en": "Enhanced Bowling Attack",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 286,
+"en": "Heal Me Mix",
+"ctx": "tabla ability|SKILL + tabla dance_battle_skill|NAME"
+},
+{
+"id": 287,
+"en": "Groove Booster",
+"ctx": "tabla ability|SKILL + tabla dance_battle_skill|NAME"
+},
+{
+"id": 288,
+"en": "Heal Me Club Mix",
+"ctx": "tabla ability|SKILL + tabla dance_battle_skill|NAME"
+},
+{
+"id": 289,
+"en": "Groove Downer",
+"ctx": "tabla ability|SKILL + tabla dance_battle_skill|NAME"
+},
+{
+"id": 290,
+"en": "Heal Me Mega Mix",
+"ctx": "tabla ability|SKILL + tabla dance_battle_skill|NAME"
+},
+{
+"id": 291,
+"en": "Groove Blaster",
+"ctx": "tabla ability|SKILL + tabla dance_battle_skill|NAME"
+},
+{
+"id": 292,
+"en": "Groove Buster",
+"ctx": "tabla ability|SKILL + tabla dance_battle_skill|NAME"
+},
+{
+"id": 293,
+"en": "Charming Cuteness",
+"ctx": "tabla ability|SKILL + tabla dance_battle_skill|NAME"
+},
+{
+"id": 294,
+"en": "Hard Worker",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 295,
+"en": "Adorable Allure",
+"ctx": "tabla ability|SKILL + tabla dance_battle_skill|NAME"
+},
+{
+"id": 296,
+"en": "Mover and Shaker",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 297,
+"en": "Darling Dazzle",
+"ctx": "tabla ability|SKILL + tabla dance_battle_skill|NAME"
+},
+{
+"id": 298,
+"en": "Dynamo",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 299,
+"en": "Heartbeat",
+"ctx": "tabla ability|SKILL + tabla dance_battle_skill|NAME"
+},
+{
+"id": 300,
+"en": "Good Lesson",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 301,
+"en": "Heart Strike",
+"ctx": "tabla ability|SKILL + tabla dance_battle_skill|NAME"
+},
+{
+"id": 302,
+"en": "Perfect Lesson",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 303,
+"en": "Heart Smash",
+"ctx": "tabla ability|SKILL + tabla dance_battle_skill|NAME"
+},
+{
+"id": 304,
+"en": "Master Lesson",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 305,
+"en": "Rainbow Shooting Star",
+"ctx": "tabla ability|SKILL + tabla dance_battle_skill|NAME"
+},
+{
+"id": 306,
+"en": "Rainbow Shining Star",
+"ctx": "tabla ability|SKILL + tabla dance_battle_skill|NAME"
+},
+{
+"id": 307,
+"en": "Rainbow Prism Star",
+"ctx": "tabla ability|SKILL + tabla dance_battle_skill|NAME …"
+},
+{
+"id": 308,
+"en": "Idol Heat Boost",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 309,
+"en": "Fantastic Dream",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 310,
+"en": "Essence of Weapon Draw",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 311,
+"en": "Essence of Umbrella Spin",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 312,
+"en": "Essence of Iron Grip",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 313,
+"en": "Essence of Wall Plastering",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 314,
+"en": "Essence of Wall Pummel",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 315,
+"en": "Essence of Circle Throw",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 316,
+"en": "Essence of Knee Slam",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 317,
+"en": "Essence of Furious Frenzy",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 318,
+"en": "Essence of Crazy Slashing",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 319,
+"en": "My Dragging Essence",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 320,
+"en": "Sword Mastery",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 321,
+"en": "Champion's Blessing",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 322,
+"en": "My Explosive Finish",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 323,
+"en": "My Forcible Ascension",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 324,
+"en": "My Double Evasion",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 325,
+"en": "My Ground Cleaving Slide",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 326,
+"en": "My Meteor Finish",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 327,
+"en": "My Lightspeed Catch",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 328,
+"en": "My Reversal",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 329,
+"en": "My Flowing Counter",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 330,
+"en": "My Supernova Attack",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 331,
+"en": "My Indomitability",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 332,
+"en": "My Meteorfest",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 333,
+"en": "Essence of the Shachihoko",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 334,
+"en": "Essence of Heaving",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 335,
+"en": "Essence of Cyclone Slash",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 336,
+"en": "Essence of Tonfa Beating",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 337,
+"en": "Essence of Bo Coiling",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 338,
+"en": "Essence of Armbarring",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 339,
+"en": "Essence of Spear Throwing",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 340,
+"en": "My Meteor Tackle",
+"ctx": "tabla ability|SKILL + tabla tips_tutorial|TIPS_NAME"
+},
+{
+"id": 341,
+"en": "Thrift Mastery",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 342,
+"en": "My Whirlwind Essence",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 343,
+"en": "My Snapping Turtle",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 344,
+"en": "Essence of Thrift Mastery",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 345,
+"en": "My Afterimage",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 346,
+"en": "My Bashing Combo Essence",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME"
+},
+{
+"id": 347,
+"en": "Essence of Furious Thrusts",
+"ctx": "tabla ability|SKILL + tabla complete_heat|NAME …"
+},
+{
+"id": 348,
+"en": "Enhanced Dolly Attack",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 349,
+"en": "Enhanced Desk Attack",
+"ctx": "tabla ability|SKILL"
+},
+{
+"id": 350,
+"en": "Use <Action:Move_Forward@Combat><Action:Move_Back@Combat><Action:Move_Left@Combat><Action:Move_Right@Combat> to walk and run.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 351,
+"en": "Lock on the enemy in front of you. <Color:255,255,150,255>When you are holding items such as spray cans or lighters, it will allow you to use them as weapons. <Color:Default>",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 352,
+"en": "Grab enemy in front of you to prevent movement.\nSome enemies can immediately escape your grasp. Press <Action:Battle_Guard@Combat> to grab from the other side.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 353,
+"en": "Grab the legs of a fallen enemy. A variety of other moves can be performed from that point.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 354,
+"en": "Pick up weapons showing the <Sign:23> icon. Press <Action:Battle_Drop_Weapon@Combat> in order to throw it.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 355,
+"en": "Guard against attacks from the front. Does not work against knives or guns.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 356,
+"en": "Guard against attacks from the front. Can also be used to guard weapon attacks. Some weapons can block bullets.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 357,
+"en": "Evade attacks with agile footwork. You can step forward, backwards, left, or right.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 358,
+"en": "Taunt your enemy. Certain ability upgrades improve your taunts.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 359,
+"en": "Move the camera up, down, left, or right. Change the controls in Settings from the Pause Menu.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 360,
+"en": "Set the camera behind the character.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 361,
+"en": "Smoke in front of enemies to show them who's boss.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 362,
+"en": "Perform a combo that can lead to a variety of other attacks.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 363,
+"en": "This powerful finisher after a Rush Combo sends your enemy flying. ",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 364,
+"en": "Attack without entering Fighting Stance to hit enemies at your sides and rear.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 365,
+"en": "Attack with a front kick. This attack may change alongside walls and on stairs.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 366,
+"en": "Punch your enemy after grabbing them. You can unleash a combo or send your enemy flying.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 367,
+"en": "Throw an enemy after grabbing them. Use this attack to hurl an enemy into his comrades.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 368,
+"en": "Take out an equipped weapon. Change weapons by selecting Items from the Pause Menu.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 369,
+"en": "Pick up and throw weapons at enemies. The impact differs based on the weapon.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 370,
+"en": "Pull a fallen enemy up off the ground and mercilessly slam him back down. Time is money. <Color:255,255,150,255>Available after you acquire Pull Up Enemy.<Color:Default>",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 371,
+"en": "Callously hurl your enemy from dangerous heights. Can also be performed near rivers and similar locations.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 372,
+"en": "Smash an opponent against a wall. Grows more deadly the more you use it.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 373,
+"en": "Crush an opponent from behind. Takes a bit of finesse to pull off.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 374,
+"en": "Fling your opponent into a chain-link fence, and then fling yourself into your opponent.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 375,
+"en": "Smash an opponent against a fence and grate their head with it. Take a little off the top.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 376,
+"en": "Slam your enemy's head into a raised surface, then deliver a vicious blow.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 377,
+"en": "Perform a shoulder throw while grabbing the back of your enemy's neck, then smash his head against a low surface.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 378,
+"en": "Elegantly grab a pole and use that momentum to crash down on an enemy.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 379,
+"en": "Use a guard rail or fence to deliver a vicious blow to your enemy's backside.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 380,
+"en": "Drop an opponent on a protruding object. It's a real brain buster.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 381,
+"en": "Repeatedly pummel the enemy while he's on his back.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 382,
+"en": "Deliver a vicious punch to the face of a fallen enemy.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 383,
+"en": "Take out two birds with one stone by dropping one enemy onto another who's lying on the ground.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 384,
+"en": "Viciously stomp on a fallen enemy. <Color:255,255,150,255>Only possible with weapons without a unique finishing move.<Color:Default>",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 385,
+"en": "Viciously kick a fallen enemy. <Color:255,255,150,255>Only possible with weapons without a unique finishing move.<Color:Default>",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 386,
+"en": "Bring the hammer down on your foe. Literally.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 387,
+"en": "A simple and popular attack. Throw an object onto a downed enemy, putting the force of your body and soul behind it.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 388,
+"en": "A devastating attack. Just when the enemy thinks you're finished, come down upon them with all your might.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 389,
+"en": "Force something on an opponent's head and spin it. Then break them with a knifehand strike as though they were a pile of bricks.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 390,
+"en": "Rattle an enemy's brains with a blow to the head, then finish him with a final blow.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 391,
+"en": "Slam the enemy with a signboard, then come down on it with all your weight.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 392,
+"en": "Pummel an enemy with a one-handed weapon, then deliver one mighty blow.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 393,
+"en": "Drop something heavy on an enemy's head. Sometimes simple is best.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 394,
+"en": "A basic attack passed down through the Lotus School. Trips the opponent, and then deals additional attacks.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 395,
+"en": "Use your Kali Sticks to rain blow after blow upon your opponent, rendering them helpless.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 396,
+"en": "An ancient sword technique. Epitomizes the ferocity of a unique double-bladed style.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 397,
+"en": "An ancient sword technique. Charge forward like a powerful bull.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 398,
+"en": "Combine an ancient sword technique with the weight of a hammer. Swat down your foes as though they were but flies.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 399,
+"en": "Use the weight of the hammer to pound enemies into the ground with a series of powerful blows.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 400,
+"en": "This ancient sword technique is reminiscent of a wolf's swift and accurate strike.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 401,
+"en": "Pin your opponent's hand to the wall with a dagger.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 402,
+"en": "Charge an enemy with a short-bladed weapon and use your momentum to deliver a punishing strike.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 403,
+"en": "A graceful, majestic strike that uses nunchaku to their utmost potential.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 404,
+"en": "Take a mighty swing that sends your enemy flying.  ",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 405,
+"en": "An attack utilizing basic tonfa techniques.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 406,
+"en": "Force a mystery liquid down an enemy's throat. Does more psychological damage than physical... Probably.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 407,
+"en": "Shove the enemy away, then deliver three sword slashes.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 408,
+"en": "Charge your stun gun with electrified passion, powering it up beyond its physical limits. Transcends modern understanding of physics.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 409,
+"en": "Get a strike on your opponent's shins and bowl them into the gutter. Spare no mercy.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 410,
+"en": "Rub salt into an enemy's eyes. Show your enemies what it truly means to be salty. Even works on those wearing glasses!",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 411,
+"en": "Inject a mysterious syringe into an opponent's posterior. Hopefully it isn't too dangerous.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 412,
+"en": "Send an opponent flying down range. Not a fair way to play, but a nice shot nonetheless.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 413,
+"en": "Grill an enemy's face with a gas burner. As simple as throwing a pie, and more painful than you can imagine.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 414,
+"en": "Give your opponent a free tooth extraction or manicure, street style.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 415,
+"en": "Use an umbrella's hooked handle to reel an enemy in and then cast them out.",
+"ctx": "tabla ability|EXPLANATION + tabla complete_heat|EXPLANATION"
+},
+{
+"id": 416,
+"en": "Grab your opponent by the feet and ruthlessly plow them into a surface.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 417,
+"en": "Show your devilish side by picking up an enemy and swinging them into a wall.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 418,
+"en": "Pick up a foe and swing them into a pole. Maybe catching a glimpse of heaven will help them realize the error of their ways.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 419,
+"en": "Swing a foe around and use them as a weapon. Those involved catch a glimpse into hell.",
+"ctx": "tabla ability|EXPLANATION"
+},
+{
+"id": 420,
+"en": "Grab an opponent and smash them into the ground. Put all your strength, spirit, and weight into a single devastating blow!",
+"ctx": "tabla ability|EXPLANATION"
+}
+]

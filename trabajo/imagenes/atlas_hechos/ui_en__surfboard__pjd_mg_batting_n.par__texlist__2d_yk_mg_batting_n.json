@@ -1,0 +1,481 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_batting_n.par/texlist/2d_yk_mg_batting_n",
+ "fuente": "seguisb.ttf",
+ "margen": 1,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    1,
+    14,
+    133,
+    32
+   ],
+   "en": "Destruction Rate",
+   "es": "Destrucción",
+   "fuente": "seguisb.ttf",
+   "alin": "izq",
+   "sangria": 1,
+   "efecto": "nada",
+   "ancho_max": 130,
+   "nota": "Tasa de destrucción (juego) no cabe: 166 px en 132"
+  },
+  {
+   "caja": [
+    0,
+    33,
+    128,
+    52
+   ],
+   "en": "Total Distance",
+   "es": "Distancia total",
+   "fuente": "seguisb.ttf",
+   "alin": "izq",
+   "sangria": 1,
+   "efecto": "nada",
+   "ancho_max": 126
+  },
+  {
+   "caja": [
+    1,
+    53,
+    31,
+    69
+   ],
+   "en": "HR",
+   "es": "",
+   "dejar": true,
+   "nota": "término de béisbol, el juego lo mantiene"
+  },
+  {
+   "caja": [
+    35,
+    53,
+    68,
+    69
+   ],
+   "en": "HIT",
+   "es": "",
+   "dejar": true,
+   "nota": "término de béisbol (el lote lo mantiene en HR/HIT/FOUL/STRIKE)"
+  },
+  {
+   "caja": [
+    73,
+    53,
+    126,
+    69
+   ],
+   "en": "FOUL",
+   "es": "",
+   "dejar": true,
+   "nota": "término de béisbol"
+  },
+  {
+   "caja": [
+    3,
+    70,
+    71,
+    84
+   ],
+   "en": "STRIKE",
+   "es": "",
+   "dejar": true,
+   "nota": "término de béisbol; IMPACTO del lote es de otro contexto"
+  },
+  {
+   "caja": [
+    3,
+    84,
+    50,
+    98
+   ],
+   "en": "BALL",
+   "es": "BOLA",
+   "fuente": "segoeuiz.ttf",
+   "alin": "izq",
+   "sangria": 1,
+   "efecto": "nada",
+   "ancho_max": 46
+  },
+  {
+   "caja": [
+    1,
+    99,
+    79,
+    113
+   ],
+   "en": "STRIKE",
+   "es": "",
+   "dejar": true,
+   "nota": "copia desenfocada"
+  },
+  {
+   "caja": [
+    1,
+    113,
+    58,
+    127
+   ],
+   "en": "BALL",
+   "es": "",
+   "dejar": true,
+   "nota": "copia desenfocada horizontal: el kit no la reproduce"
+  },
+  {
+   "caja": [
+    160,
+    64,
+    219,
+    87
+   ],
+   "en": "Close",
+   "es": "Cerrar",
+   "fuente": "seguisb.ttf",
+   "alin": "centro",
+   "efecto": "nada",
+   "color": [
+    181,
+    178,
+    181
+   ],
+   "ancho_max": 55
+  },
+  {
+   "caja": [
+    160,
+    87,
+    219,
+    110
+   ],
+   "en": "Close",
+   "es": "Cerrar",
+   "fuente": "seguisb.ttf",
+   "alin": "centro",
+   "efecto": "nada",
+   "color": [
+    181,
+    178,
+    181
+   ],
+   "ancho_max": 55
+  },
+  {
+   "caja": [
+    8,
+    133,
+    115,
+    153
+   ],
+   "en": "RESULT",
+   "es": "RESULTADO",
+   "fuente": "segoeuiz.ttf",
+   "alin": "izq",
+   "sangria": 1,
+   "efecto": "nada",
+   "ancho_max": 105
+  },
+  {
+   "caja": [
+    198,
+    180,
+    276,
+    200
+   ],
+   "en": "Left",
+   "es": "restantes",
+   "fuente": "seguisb.ttf",
+   "alin": "izq",
+   "sangria": 0,
+   "efecto": "nada",
+   "ancho_max": 77,
+   "nota": "<n> Left -> <n> restantes"
+  },
+  {
+   "caja": [
+    286,
+    180,
+    372,
+    200
+   ],
+   "en": "Mission",
+   "es": "Misión",
+   "fuente": "seguisb.ttf",
+   "alin": "izq",
+   "sangria": 1,
+   "efecto": "nada",
+   "ancho_max": 84
+  },
+  {
+   "caja": [
+    241,
+    159,
+    348,
+    175
+   ],
+   "en": "NEW RECORD",
+   "es": "",
+   "dejar": true,
+   "nota": "letras en casillas individuales de 16 px (animación por letra): NUEVO RÉCORD no cabe en 10 huecos"
+  },
+  {
+   "caja": [
+    408,
+    210,
+    512,
+    230
+   ],
+   "en": "Miracle Pitch",
+   "es": "",
+   "dejar": true,
+   "nota": "nombre propio, el lote lo mantiene"
+  },
+  {
+   "caja": [
+    409,
+    231,
+    449,
+    247
+   ],
+   "en": "km/h",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    172,
+    8,
+    271,
+    47
+   ],
+   "en": "Heat Eye",
+   "es": "Ojo Heat",
+   "fuente": "timesbd.ttf",
+   "alin": "centro",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     150,
+     232,
+     228
+    ],
+    "abajo": [
+     128,
+     222,
+     220
+    ],
+    "contorno": [
+     [
+      245,
+      250,
+      255
+     ],
+     1
+    ],
+    "brillo": [
+     40,
+     170,
+     170
+    ]
+   },
+   "margen": 0,
+   "ancho_max": 92,
+   "nota": "Ojo de Heat (juego) no cabe sin estrechar: Ojo Heat mide igual que Heat Eye",
+   "alto": 18
+  },
+  {
+   "caja": [
+    300,
+    8,
+    372,
+    47
+   ],
+   "en": "Avoid",
+   "es": "Evitar",
+   "fuente": "timesbd.ttf",
+   "alin": "centro",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     150,
+     232,
+     228
+    ],
+    "abajo": [
+     128,
+     222,
+     220
+    ],
+    "contorno": [
+     [
+      245,
+      250,
+      255
+     ],
+     1
+    ],
+    "brillo": [
+     40,
+     170,
+     170
+    ]
+   },
+   "margen": 0,
+   "ancho_max": 62,
+   "alto": 13
+  },
+  {
+   "caja": [
+    292,
+    68,
+    372,
+    101
+   ],
+   "en": "Swing",
+   "es": "Batear",
+   "fuente": "timesbd.ttf",
+   "alin": "centro",
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     150,
+     232,
+     228
+    ],
+    "abajo": [
+     128,
+     222,
+     220
+    ],
+    "contorno": [
+     [
+      245,
+      250,
+      255
+     ],
+     1
+    ],
+    "brillo": [
+     40,
+     170,
+     170
+    ]
+   },
+   "margen": 0,
+   "ancho_max": 56,
+   "alto": 18
+  },
+  {
+   "caja": [
+    411,
+    69,
+    511,
+    88
+   ],
+   "en": "Fastball",
+   "es": "Bola rápida",
+   "fuente": "seguisb.ttf",
+   "alin": "izq",
+   "sangria": 1,
+   "efecto": "nada",
+   "ancho_max": 98
+  },
+  {
+   "caja": [
+    411,
+    89,
+    511,
+    108
+   ],
+   "en": "Curveball",
+   "es": "Bola curva",
+   "fuente": "seguisb.ttf",
+   "alin": "izq",
+   "sangria": 1,
+   "efecto": "nada",
+   "ancho_max": 98
+  },
+  {
+   "caja": [
+    411,
+    109,
+    511,
+    128
+   ],
+   "en": "Sinker",
+   "es": "Bola hundida",
+   "fuente": "seguisb.ttf",
+   "alin": "izq",
+   "sangria": 1,
+   "efecto": "nada",
+   "ancho_max": 98
+  },
+  {
+   "caja": [
+    411,
+    129,
+    511,
+    148
+   ],
+   "en": "Screwball",
+   "es": "",
+   "fuente": "seguisb.ttf",
+   "alin": "izq",
+   "sangria": 1,
+   "efecto": "nada",
+   "ancho_max": 98,
+   "dejar": true,
+   "nota": "el juego lo mantiene en inglés"
+  },
+  {
+   "caja": [
+    411,
+    149,
+    511,
+    168
+   ],
+   "en": "Slider",
+   "es": "",
+   "fuente": "seguisb.ttf",
+   "alin": "izq",
+   "sangria": 1,
+   "efecto": "nada",
+   "ancho_max": 98,
+   "dejar": true,
+   "nota": "el juego lo mantiene en inglés"
+  },
+  {
+   "caja": [
+    411,
+    169,
+    511,
+    188
+   ],
+   "en": "Forkball",
+   "es": "Bola horquilla",
+   "fuente": "seguisb.ttf",
+   "alin": "izq",
+   "sangria": 1,
+   "efecto": "nada",
+   "ancho_max": 98
+  },
+  {
+   "caja": [
+    411,
+    189,
+    511,
+    208
+   ],
+   "en": "Knuckleball",
+   "es": "",
+   "fuente": "seguisb.ttf",
+   "alin": "izq",
+   "sangria": 1,
+   "efecto": "nada",
+   "ancho_max": 98,
+   "dejar": true,
+   "nota": "el juego lo mantiene en inglés"
+  }
+ ],
+ "ceñido": true
+}

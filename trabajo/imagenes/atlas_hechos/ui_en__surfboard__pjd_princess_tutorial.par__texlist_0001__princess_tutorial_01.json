@@ -1,0 +1,182 @@
+{
+ "textura": "ui_en/surfboard/pjd_princess_tutorial.par/texlist_0001/princess_tutorial_01",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    648,
+    43,
+    882,
+    118
+   ],
+   "en": "STAGE",
+   "es": "ESCENARIO",
+   "fuente": "segoeuil.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 226,
+   "alto": 46,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     240,
+     240,
+     240
+    ],
+    "contorno": null,
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    672,
+    205,
+    882,
+    275
+   ],
+   "en": "RULE",
+   "es": "REGLAS",
+   "fuente": "segoeuil.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 184,
+   "alto": 45,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     240,
+     240,
+     240
+    ],
+    "contorno": null,
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    660,
+    368,
+    872,
+    412
+   ],
+   "en": "MATCH",
+   "es": "TIPO DE",
+   "fuente": "segoeuil.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 200,
+   "alto": 36,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     240,
+     240,
+     240
+    ],
+    "contorno": null,
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    660,
+    413,
+    872,
+    482
+   ],
+   "en": "STYLE",
+   "es": "PARTIDA",
+   "fuente": "segoeuil.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 205,
+   "alto": 36,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     240,
+     240,
+     240
+    ],
+    "contorno": null,
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    646,
+    540,
+    882,
+    581
+   ],
+   "en": "CHAMPIONSHIP",
+   "es": "CAMPEONATO",
+   "fuente": "segoeuil.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 225,
+   "alto": 30,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     240,
+     240,
+     240
+    ],
+    "contorno": null,
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    660,
+    582,
+    882,
+    645
+   ],
+   "en": "PRIZE",
+   "es": "PREMIO",
+   "fuente": "segoeuil.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 196,
+   "alto": 46,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     240,
+     240,
+     240
+    ],
+    "contorno": null,
+    "brillo": null
+   }
+  }
+ ]
+}

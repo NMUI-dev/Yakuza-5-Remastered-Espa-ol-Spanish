@@ -1,0 +1,887 @@
+[
+{
+"id": 39352,
+"en": "So long, Saejima-san. I hope to see you at the club again.",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39353,
+"en": "Uh-huh, see ya.",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39354,
+"en": "After seeing Kaguya-chan off, I began my pursuit of the mob.",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39355,
+"en": "Oh by the way, feel free to wander around. This is your imagination, after all!",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39356,
+"en": "Karaokekan is close by. You remember that place from your last date, right?",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39357,
+"en": "Oh yeah.",
+"ctx": "diálogo uid01021198 + diálogo uid01340002"
+},
+{
+"id": 39358,
+"en": "The mobsters were heading to Ramen Village on East Nakatsuki Street. If you want to chase them, go that way.",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39359,
+"en": "Saejima-san, what a busy man you are. You're late!",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39360,
+"en": "Hey, I thought we were workin' one of your cases?",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39361,
+"en": "Well, you see, on this particular night I had an after-hours date with my beloved Kaguya-chan. Together we walked to Ambitious, a local bar.",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39362,
+"en": "At least it ain't hard to imagine, this bein' the second time.",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39363,
+"en": "Yeah, looking real good.",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39364,
+"en": "So what's your tall tale today?",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39365,
+"en": "Well, now that you know I'm a former detective, let me tell you about a big case that I broke wide open.",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39366,
+"en": "Ya want me to pretend to be a cop while I'm behind bars? Odd notion, but I guess it's a change of scenery... Better change my look again, though.",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39367,
+"en": "It ain't the right garb for a cop, but...",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39368,
+"en": "It doesn't matter; just let me start the story! All right, it begins in this bar on Lavender Street. Let's go there⑬the place is called Ambitious.",
+"ctx": "diálogo uid01021198"
+},
+{
+"id": 39369,
+"en": "Saejima-san, you're rather good at this game. I'm impressed!",
+"ctx": "diálogo uid010211b2"
+},
+{
+"id": 39370,
+"en": "Hah, why do you sound so surprised?",
+"ctx": "diálogo uid010211b2"
+},
+{
+"id": 39371,
+"en": "I win! Saejima-san, I must say, you need to try harder...",
+"ctx": "diálogo uid010211b2"
+},
+{
+"id": 39372,
+"en": "Yeah... you're just too good.",
+"ctx": "diálogo uid010211b2"
+},
+{
+"id": 39373,
+"en": "And so, Saejima⑬I mean, I⑬enjoyed a pleasant rendezvous with the lovely Kaguya-chan.",
+"ctx": "diálogo uid010211b2"
+},
+{
+"id": 39374,
+"en": "Don't pop up like that. Ya startled me.",
+"ctx": "diálogo uid010211b2"
+},
+{
+"id": 39375,
+"en": "But I have to reveal the true purpose behind my visit to this place!",
+"ctx": "diálogo uid010211b2"
+},
+{
+"id": 39376,
+"en": "Eh? What's that?",
+"ctx": "diálogo uid010211b2"
+},
+{
+"id": 39377,
+"en": "Go ahead and sneak a quick peek at that counter, my friend.",
+"ctx": "diálogo uid010211b2"
+},
+{
+"id": 39378,
+"en": "Who're they?",
+"ctx": "diálogo uid010211b2"
+},
+{
+"id": 39379,
+"en": "The Chinese mafia. My prefecture was keeping tabs on them.",
+"ctx": "diálogo uid010211b2"
+},
+{
+"id": 39380,
+"en": "An informant had just tipped us off about a weapons deal going down.",
+"ctx": "diálogo uid010211b2"
+},
+{
+"id": 39381,
+"en": "Look at them, the audacity of these guys! This bar was under Kitakata protection, and yet here they are talking business in it!",
+"ctx": "diálogo uid010211b2"
+},
+{
+"id": 39382,
+"en": "So you see, my date was just a cover. It allowed me to observe them up close.",
+"ctx": "diálogo uid010211b2"
+},
+{
+"id": 39383,
+"en": "Why not just partner with a lady cop? Be easier.",
+"ctx": "diálogo uid010211b2"
+},
+{
+"id": 39384,
+"en": "It needed to look real⑬those guys aren't <Italic>that</Italic> dumb.",
+"ctx": "diálogo uid010211b2"
+},
+{
+"id": 39385,
+"en": "Anyways, after a bit, they left. So I bravely went after them!",
+"ctx": "diálogo uid010211b2"
+},
+{
+"id": 39386,
+"en": "Is something wrong, Saejima-san?",
+"ctx": "diálogo uid010211b2"
+},
+{
+"id": 39387,
+"en": "Huh? No, it's nuthin'. Just gettin' late, is all. Let's call it a night.",
+"ctx": "diálogo uid010211b2"
+},
+{
+"id": 39388,
+"en": "Ooh, they have darts! And a pool table!",
+"ctx": "diálogo uid010211b2"
+},
+{
+"id": 39389,
+"en": "If you care to play, I think I'd prove quite the challenge for you... I'm pretty good at these games!",
+"ctx": "diálogo uid010211b2"
+},
+{
+"id": 39390,
+"en": "Let's play darts. But I'll tell ya right now, I won't be takin' it easy on ya!",
+"ctx": "diálogo uid010211b2"
+},
+{
+"id": 39391,
+"en": "Hehe, and neither will I take it easy on you!",
+"ctx": "diálogo uid010211b2"
+},
+{
+"id": 39392,
+"en": "Let's shoot some pool. But I'll tell ya right now, I won't be takin' it easy on ya!",
+"ctx": "diálogo uid010211b2"
+},
+{
+"id": 39393,
+"en": "What a great game! Now then, time for the Prize Roulette!",
+"ctx": "diálogo uid010211d3"
+},
+{
+"id": 39394,
+"en": "Akiyama and Shinada can use taxis to go to Sotenbori and Kineicho, respectively.\n\n\nYou cannot change your character in those cities.",
+"ctx": "diálogo uid010211d6"
+},
+{
+"id": 39395,
+"en": "You can now use New Serena as a hideout.",
+"ctx": "diálogo uid010211d7"
+},
+{
+"id": 39396,
+"en": "So, Haruka-san, have you ever done one of these handshake events before?",
+"ctx": "diálogo uid01021361"
+},
+{
+"id": 39397,
+"en": "No, this is my first time.",
+"ctx": "diálogo uid01021361"
+},
+{
+"id": 39398,
+"en": "I see. That's all right. Well, let me give you a little\nrundown of how it's going to go.",
+"ctx": "diálogo uid01021361"
+},
+{
+"id": 39399,
+"en": "To raise fan satisfaction level, shake hands with as many fans as you can before time runs out. At the same time, make sure to keep an eye on the staff member who keeps the line of fans moving along. Lastly, be on the lookout for super fans wearing happi coats. They can raise the satisfaction level more than regular fans, but if disappointed, they can also lower it dramatically.\n \n \n\n \n ",
+"ctx": "diálogo uid01021361 + diálogo uid010c0cc2 …"
+},
+{
+"id": 39400,
+"en": "While it's important to shake hands with each fan for as long as possible, the line must also be kept moving. This is the job of a staff member named Taro Hagashi, known as \"The Remover.\" He discourages fans from lingering too long and removes them if necessary.\n \n \n\n \n \n\n \n ",
+"ctx": "diálogo uid01021361 + diálogo uid010c0cc2 …"
+},
+{
+"id": 39401,
+"en": "A fan who is removed leaves in fear, and the fan satisfaction level drops. Luckily, \"The Remover\" is also a big fan of yours. Use <Action:Button_L1@Handshake> to flash him a smile and he'll turn to mush and forget to do his job. You can use this to your advantage by smiling at the right time.\n \n\n \n \n \n\n \n ",
+"ctx": "diálogo uid01021361 + diálogo uid010c0cc2 …"
+},
+{
+"id": 39402,
+"en": "\nWhen the command to shake hands appears on the screen, hold down <Action:Button_Square@Handshake>. You will continue to shake hands with the fan until you release <Action:Button_Square@Handshake>. During this time, the fan will speak to you. Use <Action:Button_DPad_Left@Handshake><Action:Button_DPad_Right@Handshake><Action:Button_DPad_Up@Handshake><Action:Button_DPad_Down@Handshake> to choose your response. To raise the fan satisfaction level, choose the reply that matches the color of the fan's comment.\n \n \n \n\n \n ",
+"ctx": "diálogo uid01021361 + diálogo uid010c0cc2 …"
+},
+{
+"id": 39403,
+"en": "And that's about it... So, in a nutshell, we'd like you to\nmeet as many guests as possible in the time that we have,\nand do your best to make them all happy.",
+"ctx": "diálogo uid01021361"
+},
+{
+"id": 39404,
+"en": "The best way to make 'em happy is by shaking hands with each\none of them for as long as you can and carefully responding\nto what they say.",
+"ctx": "diálogo uid01021361"
+},
+{
+"id": 39405,
+"en": "I think you mentioned something about \"removing,\" but could\nyou explain what that means?",
+"ctx": "diálogo uid01021361"
+},
+{
+"id": 39406,
+"en": "Oh, that. Well, if a handshake goes on a little too long,\none of our staff will help move that fan along. In this\nbusiness, we call that \"removing.\"",
+"ctx": "diálogo uid01021361"
+},
+{
+"id": 39407,
+"en": "It's an unfortunate necessity due to the nature of the\nevent. What's more, fans who get \"removed,\" of course, feel\ndisappointed and overall satisfaction drops.",
+"ctx": "diálogo uid01021361"
+},
+{
+"id": 39408,
+"en": "You'll want to shake their hands for as long as possible,\nbut make sure you stop before they need to be \"removed.\"",
+"ctx": "diálogo uid01021361"
+},
+{
+"id": 39409,
+"en": "I see. Phew, there's a lot more to these events than I\nthought...",
+"ctx": "diálogo uid01021361"
+},
+{
+"id": 39410,
+"en": "By the way, that guy over there is the one in charge of\nmonitoring the guests. He's \"The Remover.\"",
+"ctx": "diálogo uid01021361"
+},
+{
+"id": 39411,
+"en": "Don't you worry! I'll defend your safety with my very life\nif need be! Say the word, and they're outta here!",
+"ctx": "diálogo uid01021361"
+},
+{
+"id": 39412,
+"en": "Huh? Uh, thank you... As long as you don't get too carried\naway...",
+"ctx": "diálogo uid01021361"
+},
+{
+"id": 39413,
+"en": "And that just about covers it. Would you like for me to go\nthrough it again?",
+"ctx": "diálogo uid01021361"
+},
+{
+"id": 39414,
+"en": "Yes, please, if you wouldn't mind.",
+"ctx": "diálogo uid01021361"
+},
+{
+"id": 39415,
+"en": "Not at all! All right. Here we go, from the top.",
+"ctx": "diálogo uid01021361"
+},
+{
+"id": 39416,
+"en": "No, thank you. I think I understand.",
+"ctx": "diálogo uid01021361"
+},
+{
+"id": 39417,
+"en": "It's just about time. Thank you for doing this, and good luck!",
+"ctx": "diálogo uid01021361"
+},
+{
+"id": 39418,
+"en": "Ah, Park-sama! Always a pleasure to see you.",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39419,
+"en": "How are you this evening?",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39420,
+"en": "(Wow! They know her name at an expensive place like this...?\nShe must be a regular.)",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39421,
+"en": "Today, I'm looking for an outfit for this young lady.",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39422,
+"en": "Very good, ma'am. In that case, what do you think of these?",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39423,
+"en": "Hmm... Haruka, I'd like you to choose.",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39424,
+"en": "Me!? You want me to pick!?",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39425,
+"en": "That's right. You can't just wear what someone else tells\nyou to wear. You have to develop your own sense of style.",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39426,
+"en": "So it's another step on the road to becoming an idol? All\nright. I'll give it a try.",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39427,
+"en": "Shall we do your top first?",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39428,
+"en": "You know, blouses, sweaters, things of that nature...",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39429,
+"en": "Oh, my top. Yes, all right.",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39430,
+"en": "Very good. Do any of these catch your eye?",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39431,
+"en": "(I have to choose something...)",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39432,
+"en": "Um... I like this.",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39433,
+"en": "That's a nice choice.",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39434,
+"en": "Do you really think so? That makes me happy!",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39435,
+"en": "Well, everything in this boutique is high-end, so you really\ncan't go wrong in any case.",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39436,
+"en": "Now, shall we move on to your bottoms?",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39437,
+"en": "You mean pants and skirts and stuff, right?",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39438,
+"en": "You catch on quick. Go ahead and choose one of these.",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39439,
+"en": "(I have to choose something... I guess it should go with\nwhat I already chose.)",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39440,
+"en": "I think this would go well with that top.",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39441,
+"en": "You're already thinking about mixing and matching, I see.\nVery nice.",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39442,
+"en": "We'd also like a good pair of shoes.",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39443,
+"en": "Certainly. We have a lovely selection. What would you say to\nsomething like these?",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39444,
+"en": "These are pretty...",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39445,
+"en": "Excellent choices. Everything will coordinate very well.",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39446,
+"en": "I can't say I exactly agree with all your choices, but\nthat's all right. We'll work on your sense of style over\ntime.",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39447,
+"en": "We'll take this as well.",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39448,
+"en": "Oh, it's beautiful...",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39449,
+"en": "And now, we're all set. We'll take all of this.",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39450,
+"en": "Thank you very much, Park-sama. One moment, please.",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39451,
+"en": "Oh! But I didn't even look at the price tags!",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39452,
+"en": "What did I tell you? Tonight is all about getting rid of\nstress. You don't need to worry about a thing. It's on me.",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39453,
+"en": "Thank you very much, Park-san.",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39454,
+"en": "Here you are. My apologies for the wait.",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39455,
+"en": "Thank you. All right, Haruka. Shall we?",
+"ctx": "diálogo uid0102139f"
+},
+{
+"id": 39456,
+"en": "Woohoo⑬ Oops... I'm sorry, that was rude.",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39457,
+"en": "Phew... It certainly takes a bit of strength, doesn't it?\nYour dance lessons must have built up your stamina. Your\nsense of rhythm isn't bad, either.",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39458,
+"en": "But enough about work. That was really fun. Let's play again\nsometime. You'd better be ready for me!",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39459,
+"en": "Oh, I lost!",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39460,
+"en": "Hehe, I can tell by your expression that you weren't holding\nback. Give everything your all, and, win or lose, you'll\nalways gain something.",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39461,
+"en": "But enough life lessons. That was really fun. Let's play\nagain sometime. You'd better practice!",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39462,
+"en": "It's a tie!",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39463,
+"en": "Hehe, that was a good game. Even though it ended in a tie,\nit felt good to give it our all, didn't it?",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39464,
+"en": "That was really fun. Let's play again sometime! You'd\nbetter be ready for me!",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39465,
+"en": "What else do they have here, I wonder?",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39466,
+"en": "Oh, look. A PrintCircle machine. Let's try this, Haruka.\nI've actually never done one of these before.",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39467,
+"en": "You and me, together?",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39468,
+"en": "What, you don't want to?",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39469,
+"en": "No, it's not that. I'm just... happy. I never imagined\nspending a day like this with you.",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39470,
+"en": "...Who would ever imagine the president of Dyna Chair taking PrintCircle photos?",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39471,
+"en": "So how do we do this?",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39472,
+"en": "Let's see. Uhh, first we...",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39473,
+"en": "We choose some frames... There. How about these? Okay,\nready? Here we go!",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39474,
+"en": "Wait a minute. Where are we supposed to look?",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39475,
+"en": "Look, we're already on the screen. See? It's about to take\nthe⑬",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39476,
+"en": "What!? Why didn't you warn me!?",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39477,
+"en": "Ahaha! I did!",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39478,
+"en": "Well, that won't do at all! I demand a do-over!",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39479,
+"en": "Really? But they're nice pictures!",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39480,
+"en": "No way! Absolutely, positively not! A do-over!",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39481,
+"en": "Okay, okay. Ready? Here goes!",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39482,
+"en": "There. Much better.",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39483,
+"en": "Okay, and now we can add doodles to this picture. Like this...",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39484,
+"en": "These came out very well, I'd say. The machine even erased\nthe wrinkles on my face. I should hire this thing to replace\nHorie.",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39485,
+"en": "Oh, that's terrible! Hehehe.",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39486,
+"en": "Hahaha! Ah, that was fun. Well, should we get going?",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39487,
+"en": "Yes, I suppose we should.",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39488,
+"en": "I haven't been to an arcade in years. What kind of games\nare popular nowadays?",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39489,
+"en": "Well, some kids in my class were talking about Taiko No Tatsujin.\nOh, here it is!",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39490,
+"en": "Oh, look. It says two can play. Are you up for a little\nfriendly competition, Haruka?",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39491,
+"en": "Do you know how to play?",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39492,
+"en": "Well, I imagine you just hit the drum with the sticks, so\nhow hard could it be? Okay, yeah, let's try it!",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39493,
+"en": "But what about your hand?",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39494,
+"en": "Don't you worry about me. Besides, you're going to need all\nthe help you can get.",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39495,
+"en": "But you have to promise to do your best, or it won't be any fun. If you hold back on me because I'm the president, I'll dock your pay!",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39496,
+"en": "I won't! I promise!",
+"ctx": "diálogo uid010213a2"
+},
+{
+"id": 39497,
+"en": "We need liquor. As much as this will buy.",
+"ctx": "diálogo uid010213c9 + diálogo uid010219c4 …"
+},
+{
+"id": 39498,
+"en": "Uh, looks like I'm a little light. Could you fork over some cash as well?",
+"ctx": "diálogo uid010213c9 + diálogo uid010219c4 …"
+},
+{
+"id": 39499,
+"en": "Sure. I'm a little strapped myself, though.",
+"ctx": "diálogo uid010213c9 + diálogo uid010219c4 …"
+},
+{
+"id": 39500,
+"en": "You bought all the liquor you could.",
+"ctx": "diálogo uid010213c9 + diálogo uid010219c4 …"
+},
+{
+"id": 39501,
+"en": "You bought 10,000 yen worth of liquor.",
+"ctx": "diálogo uid010213c9 + diálogo uid010219c4 …"
+},
+{
+"id": 39502,
+"en": "Thank you, gentlemen.",
+"ctx": "diálogo uid010213c9 + diálogo uid010219c4 …"
+},
+{
+"id": 39503,
+"en": "What, are we trying to get a rhino drunk?",
+"ctx": "diálogo uid010213c9 + diálogo uid010219c4 …"
+},
+{
+"id": 39504,
+"en": "My pals will go through it faster than you think. Let's go find them!",
+"ctx": "diálogo uid010213c9 + diálogo uid010219c4 …"
+},
+{
+"id": 39505,
+"en": "Now that Kamurocho Hills is finished, they might be hanging in the Hotel District.",
+"ctx": "diálogo uid010213c9 + diálogo uid010219c4 …"
+},
+{
+"id": 39506,
+"en": "(Horie-san said he'd be back from the station in the\nevening. Maybe I should try to sleep.)",
+"ctx": "diálogo uid0102142f"
+},
+{
+"id": 39507,
+"en": "(No, I'd rather be doing something.)",
+"ctx": "diálogo uid0102142f"
+},
+{
+"id": 39508,
+"en": "(I think I'll try to get some sleep.)",
+"ctx": "diálogo uid0102142f"
+},
+{
+"id": 39509,
+"en": "(No, no. I need to get to the emergency stairs.)",
+"ctx": "diálogo uid01021432"
+},
+{
+"id": 39510,
+"en": "(I should follow Baba and head to the hideout he got for me.)\n　 ",
+"ctx": "diálogo uid0102143f + diálogo uid01021440 …"
+},
+{
+"id": 39511,
+"en": "(I don't have time to take any detours. I should send the money at that convenience store.)\n　 ",
+"ctx": "diálogo uid01021519 + diálogo uid0102151a …"
+},
+{
+"id": 39512,
+"en": "(Let's see. Horie-chan said the new girl should be in the\nstudio upstairs, didn't he?)",
+"ctx": "diálogo uid010215e3"
+},
+{
+"id": 39513,
+"en": "(Guess I better go talk to Kiryu.)",
+"ctx": "diálogo uid01021745"
+},
+{
+"id": 39514,
+"en": "(They're worried about me... Maybe it's time I got back to\nNew Serena?)",
+"ctx": "diálogo uid01021745"
+},
+{
+"id": 39515,
+"en": "(I think I'll enjoy the night a little more.)",
+"ctx": "diálogo uid01021745"
+},
+{
+"id": 39516,
+"en": "(Friends, huh?)",
+"ctx": "diálogo uid01021745"
+},
+{
+"id": 39517,
+"en": "(I have to go to Le Marche with Park-san now.)",
+"ctx": "diálogo uid01021846 + diálogo uid01021847 …"
+},
+{
+"id": 39518,
+"en": "(Well, since I'm here, I might as well take a stroll through Nagasugai.)",
+"ctx": "diálogo uid0102186c"
+},
+{
+"id": 39519,
+"en": "(This is a good time to walk around Sotenbori and explore a little.)",
+"ctx": "diálogo uid0102186d"
+},
+{
+"id": 39520,
+"en": "(Well, I got some time. I suppose I could take a stroll around Kamurocho.)",
+"ctx": "diálogo uid0102186e"
+},
+{
+"id": 39521,
+"en": "(Well, I might as well take a stroll around Kineicho.)",
+"ctx": "diálogo uid0102186f"
+},
+{
+"id": 39522,
+"en": "(Might as well walk around Tsukimino and check the place out.)",
+"ctx": "diálogo uid01021870"
+},
+{
+"id": 39523,
+"en": "Up ahead, you'll find <Color:7>Ose Bridge<Color:Default>.",
+"ctx": "diálogo uid01021871"
+},
+{
+"id": 39524,
+"en": "I'll be waiting there. Can you come see me?",
+"ctx": "diálogo uid01021871"
+},
+{
+"id": 39525,
+"en": "Please. There's a matter that I must discuss with you.",
+"ctx": "diálogo uid01021871"
+},
+{
+"id": 39526,
+"en": "All right. I'll see you there.",
+"ctx": "diálogo uid01021871"
+},
+{
+"id": 39527,
+"en": "I'll be waiting.",
+"ctx": "diálogo uid01021871"
+},
+{
+"id": 39528,
+"en": "(The rendezvous point, <Color:7>Ose Bridge<Color:Default> isn't in this direction.)\n　 ",
+"ctx": "diálogo uid0102187d + diálogo uid0102187e …"
+}
+]

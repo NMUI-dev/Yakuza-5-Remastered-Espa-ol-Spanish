@@ -1,0 +1,36 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_sa7",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    61,
+    160,
+    430,
+    212
+   ],
+   "en": "Don't mess with",
+   "ocr": "Dontmess",
+   "es": "No te metas con",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro"
+  },
+  {
+   "caja": [
+    61,
+    212,
+    430,
+    256
+   ],
+   "en": "the mountain",
+   "ocr": "Dontmess",
+   "es": "la montaña",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro"
+  }
+ ]
+}

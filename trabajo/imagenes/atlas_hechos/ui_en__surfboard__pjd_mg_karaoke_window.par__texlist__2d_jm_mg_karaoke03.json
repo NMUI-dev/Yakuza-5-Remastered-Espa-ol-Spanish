@@ -1,0 +1,111 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_karaoke_window.par/texlist/2d_jm_mg_karaoke03",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    13,
+    149,
+    393,
+    190
+   ],
+   "en": "1st Place Winner!!",
+   "es": "¡¡Primer lugar!!",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 376,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 36
+  },
+  {
+   "caja": [
+    13,
+    200,
+    393,
+    245
+   ],
+   "en": "1st Place Winner!!",
+   "es": "¡¡Primer lugar!!",
+   "fuente": "segoeuib.ttf",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 376,
+   "alto": 34,
+   "radio": 1,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    400,
+    148,
+    477,
+    178
+   ],
+   "en": "times",
+   "es": "veces",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 73,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    407,
+    180,
+    452,
+    210
+   ],
+   "en": "Pts.",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 41
+  },
+  {
+   "caja": [
+    408,
+    213,
+    448,
+    247
+   ],
+   "en": "Pts.",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 36
+  },
+  {
+   "caja": [
+    190,
+    484,
+    232,
+    504
+   ],
+   "en": "Guest",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 40,
+   "dejar": true
+  }
+ ]
+}

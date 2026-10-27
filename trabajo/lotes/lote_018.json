@@ -1,0 +1,1302 @@
+[
+{
+"id": 4535,
+"en": "Helps you find people in need around town.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4536,
+"en": "Helps you find people who are looking for a fight.",
+"ctx": "tabla item|EXPLANATION + menú/texto ex_shop0000"
+},
+{
+"id": 4537,
+"en": "Helps you find the biggest tourist spots around town.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4538,
+"en": "Once worn by a soldier who starved to death, this strange belt makes you grow hungry while you're fighting.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4539,
+"en": "Provides a little bit of protection.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4540,
+"en": "This hood helps break down alcohol in your body, allowing you to sober up quickly.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4541,
+"en": "This cursed ring intensifies enemy attacks against its wearer.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4542,
+"en": "This belt has a special device built in that will take surrounding enemies with you when you're knocked down.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4543,
+"en": "Protects against getting staggered by an attack.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4544,
+"en": "Wearing this intriguing scent makes you more likely to encounter enemies with valuable items.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4545,
+"en": "With this card, you'll get 30¾ off the cover charge at hostess clubs. It's like a dream come true for hostess fans.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4546,
+"en": "This hook was once used by a legendary angler. Wearing it is supposed to increase your odds of catching fish.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4547,
+"en": "Smoking these cigarettes has a calming effect, allowing you to recover health by taking a drag while standing still.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4548,
+"en": "This music player is a must-have item for music lovers, but it's only available in Premium Adventure.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4549,
+"en": "Equipping this letter from an avid fan allows your Idol Heat to last even longer.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4550,
+"en": "Equipping this poster filled with messages from fans allows your Idol Heat to last even longer.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4551,
+"en": "These earrings are full of passionate energy that will make your fighting spirit less likely to fall while you're dancing.",
+"ctx": "tabla item|EXPLANATION + menú/texto ex_shop0000"
+},
+{
+"id": 4552,
+"en": "Wear this pin to keep you from tiring out while you're dancing.",
+"ctx": "tabla item|EXPLANATION + menú/texto ex_shop0000"
+},
+{
+"id": 4553,
+"en": "Wear this ring and watch your wealth accumulate when you dance. ",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4554,
+"en": "Sake received from the lady who runs Miyuki House.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4555,
+"en": "This meat is from a deer you hunted and killed.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4556,
+"en": "Kiryu's cell phone.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4557,
+"en": "Saejima's cell phone.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4558,
+"en": "This is the prepaid cell phone Saejima got from Baba.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4559,
+"en": "Haruka's cell phone.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4560,
+"en": "Akiyama's cell phone.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4561,
+"en": "Shinada's cell phone.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4562,
+"en": "The coin you found in Tsukimino. You need it to enter the Underground Casino.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4563,
+"en": "Wooden tags for gambling. Right now, you have %stags.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4564,
+"en": "Sticks used for mahjong points. Right now, you have %ssticks.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4565,
+"en": "Chips for the casino. Right now, you have %s chips.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4566,
+"en": "Balls from a pachinko parlor. Right now, you have %sballs.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4567,
+"en": "Tokens earned by playing slots. Right now, you have %s tokens.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4568,
+"en": "Points earned by playing shogi. Right now, you have %s points.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4569,
+"en": "These prize tickets were handed out in Kineicho. Use them at the booth in Mid Square. You have %s tickets.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4570,
+"en": "This Pachinko Master trophy was earned by exchanging pachinko balls at Volcano.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4571,
+"en": "This app lets you know the market price of souvenirs, but the details are still murky.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4572,
+"en": "Tells you how lucky you are at the moment. Your current luck: %d",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4573,
+"en": "This key is for a locker in Kamurocho. It says \"Taihei Blvd. Lockers\" on it.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4574,
+"en": "This key is for a locker in Sotenbori. It says \"Sotenbori Lockers\" on it.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4575,
+"en": "This pouch is for holding snowballs for snowball fights.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4576,
+"en": "This CD contains the song \"Machine Gun Kiss.\" It can provide background music in a taxi.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4577,
+"en": "This CD contains the song \"Get to the Top!\" It can provide background music in a taxi.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4578,
+"en": "This CD contains the song \"Let's Go Away.\" It can provide background music in a taxi.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4579,
+"en": "This CD contains the song \"Remember R-001.\" It can provide background music in a taxi.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4580,
+"en": "This CD contains the song \"Magical Sound Shower.\" It can provide background music in a taxi.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4581,
+"en": "This membership card for DARTSLIVE lets you save your play history on it.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4582,
+"en": "House darts, used by default.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4583,
+"en": "Consists of a point and a standard barrel made of brass.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4584,
+"en": "Consists of a point and a straight barrel made of brass.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4585,
+"en": "Consists of a point and a torpedo barrel made of brass.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4586,
+"en": "Consists of a point and a standard barrel made of tungsten.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4587,
+"en": "Consists of a point and a straight barrel made of tungsten.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4588,
+"en": "Consists of a point and a torpedo barrel made of tungsten.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4589,
+"en": "Consists of a point and a standard barrel made of tungsten. Limited edition color.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4590,
+"en": "Consists of a point and a torpedo barrel made of tungsten. Limited edition color.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4591,
+"en": "Consists of a shaft and a mini-standard flight.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4592,
+"en": "Consists of a shaft and a kite flight.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4593,
+"en": "Consists of a shaft and a slim flight.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4594,
+"en": "Consists of a shaft and a Bristol X flight.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4595,
+"en": "Consists of a shaft and a teardrop flight.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4596,
+"en": "Consists of a shaft and a standard flight.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4597,
+"en": "Consists of a shaft and a flight with a cute Hito-Nyan design on it.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4598,
+"en": "Consists of a shaft and a flight shaped like a ferocious brown bear.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4599,
+"en": "Consists of a shaft and a flight shaped like a gorgeous butterfly.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4600,
+"en": "Consists of a shaft and a simple, handmade flight shaped like a sumo wrestler.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4601,
+"en": "Consists of a shaft and a rocket-shaped flight that is the stuff of every boy's dreams.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4602,
+"en": "Consists of a shaft and a flight decorated with yummy sweets popular with young women.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4603,
+"en": "This key opens the door to Ousaka Enterprises' office at the industrial waste treatment plant.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4604,
+"en": "This business card is from Riku, a hostess at La Seine.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4605,
+"en": "This fancy business card is from Riku, a hostess at La Seine.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4606,
+"en": "This business card is from Kaguya, a hostess at Rose Hip.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4607,
+"en": "This fancy business card is from Kaguya, a hostess at Rose Hip.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4608,
+"en": "This business card is from Honoka, a hostess at Prime.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4609,
+"en": "This fancy business card is from Honoka, a hostess at Prime.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4610,
+"en": "This business card is from Shion, a hostess at Club Eden.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4611,
+"en": "This fancy business card is from Shion, a hostess at Club Eden.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4612,
+"en": "This business card is from Hinata Osaki, a hostess at Elise.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4613,
+"en": "This fancy business card is from Hinata Osaki, a hostess at Elise.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4614,
+"en": "Drink 00",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4615,
+"en": "Drink 01",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4616,
+"en": "Drink 02",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4617,
+"en": "Drink 03",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4618,
+"en": "Drink 04",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4619,
+"en": "Drink 05",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4620,
+"en": "Drink 06",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4621,
+"en": "Drink 07",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4622,
+"en": "Drink 08",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4623,
+"en": "Drink 09",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4624,
+"en": "Drink 10",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4625,
+"en": "Food 00",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4626,
+"en": "Food 01",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4627,
+"en": "Food 02",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4628,
+"en": "Food 03",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4629,
+"en": "Food 04",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4630,
+"en": "Food 05",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4631,
+"en": "Food 06",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4632,
+"en": "Food 07",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4633,
+"en": "Food 08",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4634,
+"en": "Food 09",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4635,
+"en": "Food 10",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4636,
+"en": "Food 11",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4637,
+"en": "You got this money from an enemy, but this description shouldn't be seen.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4638,
+"en": "This time capsule was buried by the father of the man from Tsukimino.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4639,
+"en": "Unless you can find more, this scrap of an old map doesn't look like it will be of much use.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4640,
+"en": "You've collected all the scraps that make up the old map. You should be able to figure out what it shows now.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4641,
+"en": "Unless you can find more, this scrap of a questionable map doesn't look like it will be of much use.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4642,
+"en": "You've collected all the scraps that make up the questionable map. You should be able to figure out what it shows now.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4643,
+"en": "Unless you can find more, this scrap of a profound map doesn't look like it will be of much use.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4644,
+"en": "You've collected all the scraps that make up the profound map. You should be able to figure out what it shows now.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4645,
+"en": "Unless you can find more, this scrap of a suspicious map doesn't look like it will be of much use.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4646,
+"en": "You've collected all the scraps that make up the suspicious map. You should be able to figure out what it shows now.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4647,
+"en": "Unless you can find more, this scrap of an impressive map doesn't look like it will be of much use.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4648,
+"en": "You've collected all the scraps that make up the impressive map. You should be able to figure out what it shows now.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4649,
+"en": "You won this prize at the batting center.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4650,
+"en": "You won this prize for the batting center's Shinada course.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4651,
+"en": "This booklet contains all the PrintCircle photos you've ever taken.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4652,
+"en": "Madarame wrote this statement declaring the Yamagasa Family's dissolution.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4653,
+"en": "An inmate gave you this, but you don't know what it is.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4654,
+"en": "You don't know what's inside this envelope.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4655,
+"en": "Kosaka gave you this key to the southwest gate.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4656,
+"en": "Kiyotaka gave you this photo of a phone booth and told you to go find it.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4657,
+"en": "This looks like an ordinary lottery ticket, but it's actually a pass required to enter the hidden casino at Ambitious.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4658,
+"en": "This letter from Majima is addressed to Park.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4659,
+"en": "A large quantity of liquor you bought for the homeless folks of Kamurocho.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4660,
+"en": "Park gave you this fountain pen.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4661,
+"en": "You got this chicken as a thank-you gift.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4662,
+"en": "This racing bird has great legs.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4663,
+"en": "This racing bird has intense-looking eyes.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4664,
+"en": "A keepsake from Sunshine Orphanage. No one is likely to recognize you when you're wearing this.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4665,
+"en": "A photo of Michiru Yamazaki, a Japanese celebrity. It might help you find him.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4666,
+"en": "You can use this bat in Shinada's batting showdowns, but don't expect it to be of much help.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4667,
+"en": "This bat made of expensive materials can be used in Shinada's batting showdowns.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4668,
+"en": "This bat made of rare ash wood can be used in Shinada's batting showdowns.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4669,
+"en": "This bat made of wood from a sacred tree can be used in Shinada's batting showdowns. It was once used by a famous baseball player.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4670,
+"en": "This bat can be used in Shinada's batting showdowns. It was once used by a famous baseball player.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4671,
+"en": "A Fried Shrimp Bat that looks almost good enough to eat. Can be used in Shinada's batting showdowns.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4672,
+"en": "You can use these batting gloves in Shinada's batting showdowns, but don't expect them to be of much help.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4673,
+"en": "These gloves made of high-grade leather can be used in Shinada's batting showdowns.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4674,
+"en": "These high-tech gloves can be used in Shinada's batting showdowns.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4675,
+"en": "These gloves can be used in Shinada's batting showdowns. Once belonged to a famous baseball player.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4676,
+"en": "These gloves improve physical performance in Shinada's batting showdowns.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4677,
+"en": "These cleats made of obviously cheap materials can be used in Shinada's batting showdowns.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4678,
+"en": "These cleats made of expensive materials can be used in Shinada's batting showdowns.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4679,
+"en": "These cleats made of new, high-tech materials can be used in Shinada's batting showdowns.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4680,
+"en": "These cleats, made with space-age technology, provide amazing stability. They can be used in Shinada's batting showdowns.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4681,
+"en": "These cleats can be used in Shinada's batting showdowns. Once belonged to a famous baseball player.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4682,
+"en": "You received this ordinary laundry detergent for subscribing to a newspaper.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4683,
+"en": "This letter is addressed to Masao, who left his village. His mother has asked you to deliver it to him.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4684,
+"en": "This is a photo of a so-called \"ghost pine.\"",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4685,
+"en": "You borrowed this camera from a staffer at the tourism board to help with photographing tourist spots.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4686,
+"en": "A PrintCircle photo taken with Akari and Yui.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4687,
+"en": "An advertisement for the Dance Battle Summit.",
+"ctx": "tabla item|EXPLANATION"
+},
+{
+"id": 4688,
+"en": "AUN―-YZ",
+"ctx": "tabla item|PRESENT"
+},
+{
+"id": 4689,
+"en": "//UFO　　　景品",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4690,
+"en": "//前作セーブデータ（OTE）のご褒美",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4691,
+"en": "//モバイルご褒美　高級回復アイテムパック pack",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4692,
+"en": "//モバイルご褒美　高級回復アイテムパック in item",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4693,
+"en": "//モバイルご褒美　希少素材パック０１ pack",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4694,
+"en": "//モバイルご褒美　希少素材パック０１ in item",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4695,
+"en": "//モバイルご褒美　希少素材パック０２ pack",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4696,
+"en": "//モバイルご褒美　希少素材パック０２ in item",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4697,
+"en": "//モバイルご褒美　希少素材パック０３ pack",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4698,
+"en": "//モバイルご褒美　希少素材パック０３ in item",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4699,
+"en": "//モバイルご褒美　希少素材パック０４ pack",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4700,
+"en": "//モバイルご褒美　希少素材パック０４ in item",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4701,
+"en": "//モバイルご褒美　希少素材パック０５ pack",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4702,
+"en": "//モバイルご褒美　希少素材パック０５ in item",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4703,
+"en": "//モバイルご褒美　希少素材パック０６ pack",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4704,
+"en": "//モバイルご褒美　希少素材パック０６ in item",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4705,
+"en": "//モバイルご褒美　実用素材パック０１ pack",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4706,
+"en": "//モバイルご褒美　実用素材パック０１ in item",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4707,
+"en": "//モバイルご褒美　実用素材パック０２ pack",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4708,
+"en": "//モバイルご褒美　実用素材パック０２ in item",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4709,
+"en": "//モバイルご褒美　実用素材パック０３ pack",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4710,
+"en": "//モバイルご褒美　実用素材パック０３ in item",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4711,
+"en": "//モバイルご褒美　実用素材パック０４ pack",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4712,
+"en": "//モバイルご褒美　実用素材パック０４ in item",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4713,
+"en": "(前野)CD「MachineGun Kiss」",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4714,
+"en": "(前野)CD「GET To THE TOP!」",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4715,
+"en": "(前野)CD「Let's go away」",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4716,
+"en": "(前野)CD「Remember R-001」",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4717,
+"en": "(前野)CD「magical sound shower」",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4718,
+"en": "//ActionItemGetWIndow受け渡し用",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4719,
+"en": "sarashi キャバの装備判定アイテム",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4720,
+"en": "french_handbag キャバのプレゼント判定アイテム",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4721,
+"en": "//■グレートカジキ　　体力が少ないほど攻撃力UP",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4722,
+"en": "//■ドラゴンヌンチャク　回数が少ないほど攻撃力UP",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4723,
+"en": "//■Dragon-Drive99　　　ヒートアクションで回数が減らない",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4724,
+"en": "//■Mr.Random　　　　炎・ピヨリ・目潰しがランダム",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4725,
+"en": "//■銀玉鉄砲　　　　　威力が殆どないがノックバックが大きい　OGREZクリア引き継ぎのご褒美",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4726,
+"en": "//■黄龍のサラシ　　　龍が如くHD版の２クリア引き継ぎご褒美。　エンカウント率UPだが、「鯉の御守り」と同時に装備すると、代わりにエンカウント率UP",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4727,
+"en": "//■錦鯉の御守り　　　龍が如くHD版の１クリア引き継ぎご褒美。　エンカウント率UPだが、「黄龍のサラシ」と同時に装備すると、代わりにエンカウント率UP",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4728,
+"en": "//↓↓↓↓↓↓↓↓↓↓これが絶対最初。クリア後ニューゲームに引き継ぎたいものはここに挟むべし。この間に関係ないALIASは挟まないでね。",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4729,
+"en": "//↑↑↑↑↑↑↑↑↑↑↑↑これが絶対最後。クリア後ニューゲームに引き継ぎたいものはここに挟むべし。この間に関係ないALIASは挟まないでね。",
+"ctx": "tabla item_alias|NAME"
+},
+{
+"id": 4730,
+"en": "　　用規約については http://ryu-ga-gotoku.com/ の該当箇所",
+"ctx": "tabla kiyaku|KIYAKU_TITLE"
+},
+{
+"id": 4731,
+"en": "Look",
+"ctx": "tabla restaurant_menu|DECIDE"
+},
+{
+"id": 4732,
+"en": "Listen",
+"ctx": "tabla restaurant_menu|DECIDE"
+},
+{
+"id": 4733,
+"en": "Customer close by",
+"ctx": "tabla restaurant_menu|NAME"
+},
+{
+"id": 4734,
+"en": "Main Menu",
+"ctx": "tabla restaurant_menu|MSG_P0 + tabla restaurant_menu|MSG_P1 …"
+},
+{
+"id": 4735,
+"en": "Let's add on an extra plate... That one... <color:7>Sichuan Salad<color:1>!",
+"ctx": "tabla restaurant_menu|MSG_P0 + tabla restaurant_menu|MSG_P1 …"
+},
+{
+"id": 4736,
+"en": "Oh?",
+"ctx": "tabla restaurant_menu|MSG_P0 + tabla restaurant_menu|MSG_P1 …"
+},
+{
+"id": 4737,
+"en": "No",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4738,
+"en": "Confirm",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4739,
+"en": "Next",
+"ctx": "menú/texto string_tbl + tabla drive_tutorial|BUTTON"
+},
+{
+"id": 4740,
+"en": "Back",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4741,
+"en": "Chips",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4742,
+"en": "Your Points",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4743,
+"en": "Your Tags",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4744,
+"en": "Your Sticks",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4745,
+"en": "Coliseum Pts",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4746,
+"en": "Funds",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4747,
+"en": "Dojo Funds",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4748,
+"en": "Pts in possession",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4749,
+"en": "Tokens",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4750,
+"en": "Balls in possession",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4751,
+"en": "Pts acquired",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4752,
+"en": "Taxis Pts",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4753,
+"en": "%2d items",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4754,
+"en": "Rank",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4755,
+"en": "Nagasugai",
+"ctx": "menú/texto string_tbl + tabla substory|PLACE …"
+},
+{
+"id": 4756,
+"en": "Tsukimino",
+"ctx": "menú/texto string_tbl + tabla substory|PLACE …"
+},
+{
+"id": 4757,
+"en": "Sotenbori",
+"ctx": "menú/texto string_tbl + tabla substory|PLACE …"
+},
+{
+"id": 4758,
+"en": "Kineicho",
+"ctx": "menú/texto string_tbl + tabla substory|PLACE …"
+},
+{
+"id": 4759,
+"en": "Kamurocho",
+"ctx": "menú/texto string_tbl + tabla substory|PLACE …"
+},
+{
+"id": 4760,
+"en": "One-handed",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4761,
+"en": "Two-handed",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4762,
+"en": "Knife",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4763,
+"en": "Katana",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4764,
+"en": "Pole",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4765,
+"en": "Hammer",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4766,
+"en": "Kali Sticks",
+"ctx": "menú/texto string_tbl + tabla tougijyo_participant|STYLE"
+},
+{
+"id": 4767,
+"en": "Tonfa",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4768,
+"en": "Nunchaku",
+"ctx": "menú/texto string_tbl + tabla tougijyo_participant|STYLE"
+},
+{
+"id": 4769,
+"en": "Knuckles",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4770,
+"en": "Firearm",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4771,
+"en": "Mail",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4772,
+"en": "Shirt",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4773,
+"en": "Accessory",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4774,
+"en": "Description",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4775,
+"en": "Yes",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4776,
+"en": "Cancel",
+"ctx": "menú/texto string_tbl + menú/texto judge"
+},
+{
+"id": 4777,
+"en": "Do you really want to exit game?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4778,
+"en": "Sound device has changed. Click OK to continue.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4779,
+"en": "A change sound sample rate has been detected.\nClick OK to continue without sounds.\nTo get sounds back, quit and restart the game...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4780,
+"en": "Skip cinematic?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4781,
+"en": "Save will be overwritten.\nDo you want to proceed?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4782,
+"en": "Save will be deleted permanently.\nDo you want to proceed?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4783,
+"en": "No saves available.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4784,
+"en": "No more save slots available.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4785,
+"en": "Restore default settings?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4786,
+"en": "Use these settings?\nPrevious settings will be restored in %i seconds.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4787,
+"en": "Use these settings?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4788,
+"en": "Reset current game mode control bindings?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4789,
+"en": "Reset all control bindings?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4790,
+"en": "Game Paused",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4791,
+"en": "Do you really want to quit to Windows?\nYour progress will not be saved.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4792,
+"en": "Do you really want to quit to title screen?\nYour progress will not be saved.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4793,
+"en": "Please enter your name:\n\n\n",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 4794,
+"en": "There are changes that weren't applied.\nDo you really want to revert changes and leave?",
+"ctx": "menú/texto string_tbl"
+}
+]

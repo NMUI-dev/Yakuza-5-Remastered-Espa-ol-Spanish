@@ -1,0 +1,41 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_blackjack.par/texlist/2d_yk_mg_bj_result",
+ "fuente": "times.ttf",
+ "margen": 1,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    4,
+    4,
+    210,
+    28
+   ],
+   "en": "BLACK JACK",
+   "es": "B L A C K J A C K",
+   "fuente": "times.ttf",
+   "alin": "izq",
+   "sangria": 3,
+   "efecto": "nada",
+   "ancho_max": 203,
+   "nota": "espacios de pelo U+200A para imitar el espaciado; el juego mantiene Blackjack"
+  },
+  {
+   "caja": [
+    4,
+    33,
+    152,
+    57
+   ],
+   "en": "RESULTS",
+   "es": "RESULTADOS",
+   "fuente": "times.ttf",
+   "alin": "izq",
+   "sangria": 3,
+   "efecto": "nada",
+   "ancho_max": 145,
+   "nota": "sin espaciado: con espacios finos no cabe en 148 px"
+  }
+ ],
+ "ceñido": true
+}

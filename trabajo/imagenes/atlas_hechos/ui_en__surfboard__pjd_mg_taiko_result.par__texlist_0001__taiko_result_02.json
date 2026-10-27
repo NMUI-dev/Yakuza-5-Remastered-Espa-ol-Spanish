@@ -1,0 +1,56 @@
+{
+ "textura": "ui_en/surfboard/pjd_mg_taiko_result.par/texlist_0001/taiko_result_02",
+ "fuente": "segoeuib.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    592,
+    128,
+    1013,
+    192
+   ],
+   "en": "Nijiiro Yumeiro Taikoiro",
+   "ocr": "Nijiro Yumeiro Taikoiro",
+   "es": "",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 417,
+   "dejar": true
+  },
+  {
+   "caja": [
+    599,
+    12,
+    964,
+    57
+   ],
+   "en": "From the New World",
+   "ocr": "From the New World",
+   "es": "",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 361,
+   "dejar": true
+  },
+  {
+   "caja": [
+    600,
+    73,
+    852,
+    119
+   ],
+   "en": "Mappy Medley",
+   "ocr": "Mappy Medley",
+   "es": "",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 248,
+   "dejar": true
+  }
+ ]
+}

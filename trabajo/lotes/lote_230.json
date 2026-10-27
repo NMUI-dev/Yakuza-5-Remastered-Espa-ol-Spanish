@@ -1,0 +1,922 @@
+[
+{
+"id": 48943,
+"en": "Haha, my real name's fine. Only little boys who can't tell the gas from the brakes get stuck with the Meteor treatment.",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48944,
+"en": "Tell me, why did you want to race me?",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48945,
+"en": "There's only one reason I ever make a challenge. To see who's fastest.",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48946,
+"en": "And, I guess that's you. A guy. Thanks for demolishing my perfect record.",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48947,
+"en": "You really hate losing to men, huh?",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48948,
+"en": "That's right. I told you the nightlife industry's dominated by men, didn't I? Same with the racing community.",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48949,
+"en": "It's always a man behind the wheel. The girl just sits in the passenger's seat like an ornament. That's what everyone thinks.",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48950,
+"en": "I, for one, can't stand being put in a box. So I took it upon myself to show up anyone who tries, whether their target is me or anyone else.",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48951,
+"en": "Anyway. I've always been into cars. So I came up with this idea for a group where women can thrive, and it turned into the Vixen Zeroes.",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48952,
+"en": "I see. And you've kept up the struggle to gain women some recognition ever since?",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48953,
+"en": "Uh-huh. I just wish I didn't have to bust my ass so hard only for some taxi-driving <Italic>dude</Italic> to leave me in the dust.",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48954,
+"en": "Everyone'll probably go dunking on us all over again... After all, we're just girls.",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48955,
+"en": "Look... I know you're disappointed, but that doesn't mean you have to start from square one. You've already built up quite a name for yourselves.",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48956,
+"en": "And it certainly doesn't matter what any frustrated male critic says. That only shows their ignorance of what it truly means to be a man.",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48957,
+"en": "What matters is you⑬a woman who can drive like the wind. A street racer with integrity. Win or lose, I think you at least deserve credit for that. So give yourself some.",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48958,
+"en": "Yeah... I guess there is that. Sometimes I get so caught up with fighting the good fight, I forget how far I've come. Happens when you're a girl with a goal.",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48959,
+"en": "...Haha, now I'm glad we met, and got to put our racing to the test. Oh, and this is to make up for that drink. Don't feel bad about taking it.",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48960,
+"en": "Congrats, Suzuki-san. That's the first time I ever said that to a man and meant it. So yay for you.",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48961,
+"en": "If every guy were as understanding as you, the world would\nbe much better off. Be nice if they were as handsome, too.",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48962,
+"en": "Heh, you don't have to say all that.",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48963,
+"en": "...In any case, I gotta get going.",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48964,
+"en": "It really was a pleasure to race you. Thanks for accepting the challenge.",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48965,
+"en": "So... Do you plan on doing more racing from here on out?",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48966,
+"en": "Not sure yet. For some reason, our race helped me get a lot out of my system. I'll probably take a break for a while before I get back to it.",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48967,
+"en": "Oh, but if I ever do start yearning for some high-octane action, I can just catch a ride in your taxi, right? Hope you won't mind! Hahaha.",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48968,
+"en": "(Rena Nanami, the Spangled Meteor... Now that's a badass lady.)",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48969,
+"en": "(Damn... I lost.)",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48970,
+"en": "Suzuki-san. I've brought word from the Spangled Meteor.",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48971,
+"en": "She doesn't believe you were trying your hardest today. She wants another bout with you, and says next time you'd better give it your all.",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48972,
+"en": "If you slack off just because you're racing a girl, you'll only get crushed again. So give her the rematch she deserves.",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48973,
+"en": "When you feel like taking on the Spangled Meteor, just come and see me. I'll be waiting, Suzuki-san.",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48974,
+"en": "(That's the Spangled Meteor!)",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48975,
+"en": "(The only way to actually see one of the Vixen Zeroes is to beat them in a race.)",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48976,
+"en": "(I've got to win this time!)",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48977,
+"en": "(I guess I'll have to give this a shot!)",
+"ctx": "diálogo uid0120019e"
+},
+{
+"id": 48978,
+"en": "Hey, you're going to blow our cover if you get any closer! Put some distance between us, quick!",
+"ctx": "diálogo uid012001db"
+},
+{
+"id": 48979,
+"en": "You're way too close! Ease off some more!",
+"ctx": "diálogo uid012001db"
+},
+{
+"id": 48980,
+"en": "Fall back a little more.",
+"ctx": "diálogo uid012001db"
+},
+{
+"id": 48981,
+"en": "Heheh. She'll never spot me back here.",
+"ctx": "diálogo uid012001db"
+},
+{
+"id": 48982,
+"en": "Hey, we'll lose sight of Ryoko-chan if you don't get closer!",
+"ctx": "diálogo uid012001db"
+},
+{
+"id": 48983,
+"en": "If you fall back any further we'll lose them! Hurry up and close the gap!",
+"ctx": "diálogo uid012001db"
+},
+{
+"id": 48984,
+"en": "All right. Nice work! Now I'll know where Ryoko lives. Hehehe.",
+"ctx": "diálogo uid012001db"
+},
+{
+"id": 48985,
+"en": "Aww, I can't see Ryoko-chan any more.",
+"ctx": "diálogo uid012001db"
+},
+{
+"id": 48986,
+"en": "Come on, you're supposed to be tailing her!",
+"ctx": "diálogo uid012001db"
+},
+{
+"id": 48987,
+"en": "Hehehe. I'll see you soon, sweet little Ryoko-chan!",
+"ctx": "diálogo uid012001db"
+},
+{
+"id": 48988,
+"en": "Please, come quick before he's killed!",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 48989,
+"en": "Over here! Please, before it's too late!",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 48990,
+"en": "No more. I'm begging you!",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 48991,
+"en": "No, you should still have some fight left. You're still breathing, aren't you?",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 48992,
+"en": "But my arm's broken! You win!",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 48993,
+"en": "You're not getting out of this that easy.",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 48994,
+"en": "Hey, lay off him.",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 48995,
+"en": "You're Raiden, right?",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 48996,
+"en": "Heh. Well if it isn't Kazuma Kiryu.",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 48997,
+"en": "He's had enough, Raiden. Or do you plan on killing him?",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 48998,
+"en": "He's a Victory Road competitor, and it's a no-holds-barred tournament. Anything goes.",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 48999,
+"en": "So yes, I plan on killing him.",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49000,
+"en": "No, don't! Please!",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49001,
+"en": "That's enough! You've already won this battle!",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49002,
+"en": "No, it's not over yet.",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49003,
+"en": "Aaaaaah!!!",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49004,
+"en": "That cracking sounded like a spinal injury. He'll be wheelchair-bound for the rest of his life. See? <Italic>Now</Italic> this fight is over.",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49005,
+"en": "You monster...",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49006,
+"en": "Is life really that precious? Is that what they teach you Japanese people in school?",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49007,
+"en": "The truth is, there're places where human life is worth less than garbage⑬including the country where I was born.",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49008,
+"en": "It's a place of endless civil war where children are abducted from their villages and forced to join the rebel army.",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49009,
+"en": "Their parents are slaughtered, and if the kids don't cooperate, they too are murdered. But a sure death also awaits on the battlefield.",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49010,
+"en": "It's kill or be killed on the battlefield, and there's no escape. Try to flee, and you'll just die tired. Being from the wrong tribe is also a death sentence.",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49011,
+"en": "But the battlefield is where I was raised. I survived by killing. I lived through hell to get stronger.",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49012,
+"en": "Find some other shoulder to cry on. I have no sympathy for someone like you.",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49013,
+"en": "Cry? Hell, I'm ready to celebrate. Rich bastards are paying good money to watch me rip out some unlucky asshole's guts. What's not to like?",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49014,
+"en": "And here in Japan, even the most worthless of lives fetch a nice bounty. Hehe. I'm laughing all the way to the bank.",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49015,
+"en": "Well, Kazuma Kiryu? Care to be my next victim?",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49016,
+"en": "I'll take you on, if that's what you mean.",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49017,
+"en": "Please wait.",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49018,
+"en": "Very impressive, Raiden-san. Your win here has advanced you through the qualifying round.",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49019,
+"en": "You've made it to the Victory Road finals.",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49020,
+"en": "Raiden was right. It is perfectly acceptable to kill your opponent in this competition.",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49021,
+"en": "However, we can't have tournament finalists fighting outside the ring. We have to save that for the paying customers.",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49022,
+"en": "Bah, looks like we'll have to settle this in the ring.",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49023,
+"en": "Don't you go running away now, Kazuma Kiryu. I've set my sights on you.",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49024,
+"en": "Have you heard about Raiden's performance so far?",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49025,
+"en": "His qualifying round opponents will never fight again. They'll be lucky if they can even lead a normal life.",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49026,
+"en": "Raiden has mastered many martial arts and proven himself in underground fighting scenes around the world. And he's a merciless killer.",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49027,
+"en": "We've been holding Victory Road qualifiers across Japan trying to find fighters like him.",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49028,
+"en": "And thanks to him, we've been able to weed out the less impressive entrants who could not possibly satisfy our clientele.",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49029,
+"en": "I suppose so.",
+"ctx": "diálogo uid01200234 + diálogo uid01340003 …"
+},
+{
+"id": 49030,
+"en": "You should call an ambulance for this guy.",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49031,
+"en": "Oh, I assure you, it has already been arranged.",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49032,
+"en": "Now then, with Raiden's advancement, the Victory Road finals, the first new Coliseum championship tournament, will be held shortly.",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49033,
+"en": "We have all the contenders we need now. Sixteen of the best fighters throughout Japan.",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49034,
+"en": "The Victory Road tournament has sought out the best of the best. Only the absolute strongest have made it this far.",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49035,
+"en": "We request your presence at the Underground Coliseum down in Purgatory. Please do not delay. Our clientele thirsts for blood.",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49036,
+"en": "(The Victory Road finals... It's time to stop that maniac Raiden.)",
+"ctx": "diálogo uid01200234"
+},
+{
+"id": 49037,
+"en": "Shoulda known you'd be competing, too.",
+"ctx": "diálogo uid0120026e"
+},
+{
+"id": 49038,
+"en": "This is really shaping up to be an epic battle.",
+"ctx": "diálogo uid0120026e"
+},
+{
+"id": 49039,
+"en": "Man, how in the world did I get mixed up in this?",
+"ctx": "diálogo uid0120026e"
+},
+{
+"id": 49040,
+"en": "Anyone seen Raiden?",
+"ctx": "diálogo uid0120026e"
+},
+{
+"id": 49041,
+"en": "Raiden? What's that?",
+"ctx": "diálogo uid0120026e"
+},
+{
+"id": 49042,
+"en": "Some foreigner. Word is he beats the shit outta his opponents even when he don't have to. Their fightin' days are over after him.",
+"ctx": "diálogo uid0120026e"
+},
+{
+"id": 49043,
+"en": "Kiryu-san, is there any particular reason you ask about him?",
+"ctx": "diálogo uid0120026e"
+},
+{
+"id": 49044,
+"en": "Raiden's mine. Don't take this personally, but I'm not going to hold back against anyone, not even you, till I finish him off.",
+"ctx": "diálogo uid0120026e"
+},
+{
+"id": 49045,
+"en": "Hehe. You mean you don't want any of your friends getting killed.",
+"ctx": "diálogo uid0120026e"
+},
+{
+"id": 49046,
+"en": "Raiden.",
+"ctx": "diálogo uid0120026e"
+},
+{
+"id": 49047,
+"en": "Speak of the devil.",
+"ctx": "diálogo uid0120026e"
+},
+{
+"id": 49048,
+"en": "The real fun's about to begin, Kazuma Kiryu. But the only one laughing at the end is going to be me.",
+"ctx": "diálogo uid0120026e"
+},
+{
+"id": 49049,
+"en": "Now that everyone's here...",
+"ctx": "diálogo uid0120026e"
+},
+{
+"id": 49050,
+"en": "Let's see who'll be the last man standing. There's only one way to find out.",
+"ctx": "diálogo uid0120026e"
+},
+{
+"id": 49051,
+"en": "It's a little too hot in here.",
+"ctx": "diálogo uid012002bb + diálogo uid030c068f"
+},
+{
+"id": 49052,
+"en": "Yeah, I'll go ahead and do that.",
+"ctx": "diálogo uid012002bb"
+},
+{
+"id": 49053,
+"en": "What? Don't you think that's a little harsh?",
+"ctx": "diálogo uid012002bb"
+},
+{
+"id": 49054,
+"en": "That'd be good. Thanks.",
+"ctx": "diálogo uid012002bb"
+},
+{
+"id": 49055,
+"en": "Fine. Ignore me, then.",
+"ctx": "diálogo uid012002bb + diálogo uid012002bc …"
+},
+{
+"id": 49056,
+"en": "People often walk out in front of you on roads like this. It always makes me nervous.",
+"ctx": "diálogo uid012002bc + diálogo uid012002c0 …"
+},
+{
+"id": 49057,
+"en": "But what if you hit someone!?",
+"ctx": "diálogo uid012002bc + diálogo uid012002c0 …"
+},
+{
+"id": 49058,
+"en": "Good. That sets my mind at ease.",
+"ctx": "diálogo uid012002bc + diálogo uid012002c0 …"
+},
+{
+"id": 49059,
+"en": "Mistakes? Does that mean what I think it means?",
+"ctx": "diálogo uid012002bc + diálogo uid012002c0 …"
+},
+{
+"id": 49060,
+"en": "There are lots of people around here today. Don't you worry you might hit someone?",
+"ctx": "diálogo uid012002bd + diálogo uid012002c2 …"
+},
+{
+"id": 49061,
+"en": "I'm glad you're confident.",
+"ctx": "diálogo uid012002bd + diálogo uid012002c2 …"
+},
+{
+"id": 49062,
+"en": "Um... You sure you should be driving?",
+"ctx": "diálogo uid012002bd + diálogo uid012002c2 …"
+},
+{
+"id": 49063,
+"en": "Yet?",
+"ctx": "diálogo uid012002bd + diálogo uid012002c2 …"
+},
+{
+"id": 49064,
+"en": "What do you focus on while working?",
+"ctx": "diálogo uid012002be + diálogo uid012002c1 …"
+},
+{
+"id": 49065,
+"en": "What!? You're scaring me.",
+"ctx": "diálogo uid012002be + diálogo uid012002c1 …"
+},
+{
+"id": 49066,
+"en": "(What's with this email? Some kinda mistake?)",
+"ctx": "diálogo uid012002dc"
+},
+{
+"id": 49067,
+"en": "(Guess I'll check it out when I get time.)",
+"ctx": "diálogo uid012002dc"
+},
+{
+"id": 49068,
+"en": "(What could this email be about? Was it sent to me by mistake?)",
+"ctx": "diálogo uid012002dd"
+},
+{
+"id": 49069,
+"en": "(It does sound interesting, though. Maybe I'll take a look if I find time.)",
+"ctx": "diálogo uid012002dd"
+},
+{
+"id": 49070,
+"en": "(Who's this email from? I think they sent it to the wrong guy.)",
+"ctx": "diálogo uid012002de"
+},
+{
+"id": 49071,
+"en": "(Well, I'll look into it when I get a chance.)",
+"ctx": "diálogo uid012002de"
+},
+{
+"id": 49072,
+"en": "(Huh... What's this email about? Did they send it to the wrong person?)",
+"ctx": "diálogo uid012002df"
+},
+{
+"id": 49073,
+"en": "(I guess I'll look into it when I have time.)",
+"ctx": "diálogo uid012002df"
+},
+{
+"id": 49074,
+"en": "First, there's a knack to using the accelerator.",
+"ctx": "diálogo uid01200336"
+},
+{
+"id": 49075,
+"en": "Could be a red light. Careful with the brakes.",
+"ctx": "diálogo uid01200337 + diálogo uid012006ad"
+},
+{
+"id": 49076,
+"en": "You all settled in at work now?",
+"ctx": "diálogo uid01200338 + diálogo uid012006af …"
+},
+{
+"id": 49077,
+"en": "Yes. I've pretty much learned the ropes.",
+"ctx": "diálogo uid01200338 + diálogo uid012006af …"
+},
+{
+"id": 49078,
+"en": "I'm still trying to get the hang of things.",
+"ctx": "diálogo uid01200338 + diálogo uid012006af …"
+},
+{
+"id": 49079,
+"en": "Don't worry, you'll get there.",
+"ctx": "diálogo uid01200338 + diálogo uid012006af …"
+},
+{
+"id": 49080,
+"en": "I have no idea what I'm doing.",
+"ctx": "diálogo uid01200338 + diálogo uid012006af …"
+},
+{
+"id": 49081,
+"en": "Hm. Well, I hope you find your feet soon.",
+"ctx": "diálogo uid01200338 + diálogo uid012006af …"
+},
+{
+"id": 49082,
+"en": "Hey, don't ignore the question!",
+"ctx": "diálogo uid01200338 + diálogo uid012006af …"
+},
+{
+"id": 49083,
+"en": "Watch for the stop sign up ahead.",
+"ctx": "diálogo uid01200339 + diálogo uid012006ae"
+},
+{
+"id": 49084,
+"en": "Looks like we're almost there.",
+"ctx": "diálogo uid0120033a"
+},
+{
+"id": 49085,
+"en": "Thank you, Uncle Kaz! The parfait was yummy!",
+"ctx": "diálogo uid0120033d"
+},
+{
+"id": 49086,
+"en": "Aw. I wanted to eat that.",
+"ctx": "diálogo uid0120033d"
+},
+{
+"id": 49087,
+"en": "Uncle Kaz! Can you get me a <Color:8>Strawberry Parfait<Color:Default>, please?",
+"ctx": "diálogo uid0120033d"
+},
+{
+"id": 49088,
+"en": "(Looks like Haruka wants a <Color:8>Strawberry Parfait<Color:Default>.)",
+"ctx": "diálogo uid0120033d"
+},
+{
+"id": 49089,
+"en": "Thanks, Uncle Kaz! That hamburger was super delicious!",
+"ctx": "diálogo uid01200340"
+},
+{
+"id": 49090,
+"en": "Aw, but I wanted that.",
+"ctx": "diálogo uid01200340 + frase de acompañante/calle STID_ST_F_CONV_01 …"
+},
+{
+"id": 49091,
+"en": "Thank you, Uncle Kaz! That was yummy!",
+"ctx": "diálogo uid01200344 + diálogo uid012003db …"
+},
+{
+"id": 49092,
+"en": "Aw. I wanted to eat that! But I'm not a little kid anymore. I guess I can survive.",
+"ctx": "diálogo uid01200344 + diálogo uid01200349"
+},
+{
+"id": 49093,
+"en": "Thank you, Uncle Kaz! That was super yummy!",
+"ctx": "diálogo uid01200349"
+},
+{
+"id": 49094,
+"en": "Uncle Kaz! Buy me a <Color:8>Grilled Chicken Bowl<Color:Default>!",
+"ctx": "diálogo uid01200349"
+},
+{
+"id": 49095,
+"en": "(Hmm. Looks like Haruka wants a <Color:8>Grilled Chicken Bowl<Color:Default>.)",
+"ctx": "diálogo uid01200349"
+},
+{
+"id": 49096,
+"en": "Thanks so much, Uncle Kaz! That was delicious!",
+"ctx": "diálogo uid01200351"
+},
+{
+"id": 49097,
+"en": "Aw,  but I wanted that.",
+"ctx": "diálogo uid01200351"
+},
+{
+"id": 49098,
+"en": "Uncle Kaz! Buy me a <Color:8>Bean Paste Bun<Color:Default>!",
+"ctx": "diálogo uid01200351"
+},
+{
+"id": 49099,
+"en": "(Hmm. Looks like Haruka wants a <Color:8>Bean Paste Bun<Color:Default>.)",
+"ctx": "diálogo uid01200351"
+},
+{
+"id": 49100,
+"en": "Aww, I really wanted that...",
+"ctx": "diálogo uid01200354 + frase de acompañante/calle STID_ST_F_DONKI"
+},
+{
+"id": 49101,
+"en": "That <Color:8>Black Umbrella<Color:Default> is pretty cool, isn't it? Don't you think it'd suit me?",
+"ctx": "diálogo uid01200354"
+},
+{
+"id": 49102,
+"en": "(Hmm. I think Haruka wants me to buy her a <Color:8>Black Umbrella<Color:Default>.)",
+"ctx": "diálogo uid01200354"
+},
+{
+"id": 49103,
+"en": "I wish I could have some <Color:8>Gyoza Curry<Color:Default>!",
+"ctx": "diálogo uid01200366"
+},
+{
+"id": 49104,
+"en": "You did it, Uncle Kaz! You're so cool!",
+"ctx": "diálogo uid0120036f + diálogo uid01200372"
+},
+{
+"id": 49105,
+"en": "But I really wanted to see what you could do, Uncle Kaz...",
+"ctx": "diálogo uid0120036f"
+},
+{
+"id": 49106,
+"en": "Uncle Kaz! Try to <Color:8>clear single-player 901 within fifteen rounds<Color:Default>!",
+"ctx": "diálogo uid0120036f"
+},
+{
+"id": 49107,
+"en": "(Hmm. Looks like Haruka wants me to play <Color:8>darts<Color:Default>.)",
+"ctx": "diálogo uid0120036f"
+},
+{
+"id": 49108,
+"en": "Aw, I wanted to see you get a perfect score.",
+"ctx": "diálogo uid01200372"
+},
+{
+"id": 49109,
+"en": "Uncle Kaz, do you think you're smart enough to <Color:8>get all the answers right in the academic mode<Color:Default>?",
+"ctx": "diálogo uid01200372"
+},
+{
+"id": 49110,
+"en": "(Haruka wants me to <Color:8>get all the answers right in the academic mode<Color:Default>, huh? Shouldn't be too hard.)",
+"ctx": "diálogo uid01200372"
+},
+{
+"id": 49111,
+"en": "Aww, that's too bad. Those were some hard questions, huh?",
+"ctx": "diálogo uid01200373"
+},
+{
+"id": 49112,
+"en": "You did it, Uncle Kaz! You're such a genius!",
+"ctx": "diálogo uid01200373"
+},
+{
+"id": 49113,
+"en": "You did it, Uncle Kaz!",
+"ctx": "diálogo uid01200376 + frase de acompañante/calle STID_ST_F_BEE …"
+},
+{
+"id": 49114,
+"en": "Now how about treating me to all kinds of scrumptious food? Hehe!",
+"ctx": "diálogo uid01200376"
+},
+{
+"id": 49115,
+"en": "Darn. What a shame, huh, Uncle Kaz?",
+"ctx": "diálogo uid01200376 + diálogo uid0120037a"
+},
+{
+"id": 49116,
+"en": "Hey, Uncle Kaz! Over here! Try to <Color:8>get 1,000 or more chips with roulette<Color:Default>!",
+"ctx": "diálogo uid01200376"
+},
+{
+"id": 49117,
+"en": "Aw. Too bad. I wanted to see you win.",
+"ctx": "diálogo uid01200378"
+},
+{
+"id": 49118,
+"en": "(I'm sorry, Haruka. I'll try not to disappoint you next time.)",
+"ctx": "diálogo uid01200378"
+},
+{
+"id": 49119,
+"en": "You're incredible, Uncle Kaz! You really hit it big!",
+"ctx": "diálogo uid0120037a"
+},
+{
+"id": 49120,
+"en": "Uncle Kaz! How's your poker face? Can you <Color:8>get 2,000 or more chips playing poker<Color:Default>?",
+"ctx": "diálogo uid0120037a"
+},
+{
+"id": 49121,
+"en": "(Haruka wants me to <Color:8>get 2,000 or more chips in poker<Color:Default>.)",
+"ctx": "diálogo uid0120037a"
+},
+{
+"id": 49122,
+"en": "Aww, I wanted to see how much you could win...",
+"ctx": "diálogo uid0120037b"
+},
+{
+"id": 49123,
+"en": "You're incredible, Uncle Kaz! That was a huge win!",
+"ctx": "diálogo uid01200380"
+},
+{
+"id": 49124,
+"en": "Darn. That's too bad, huh, Uncle Kaz?",
+"ctx": "diálogo uid01200380"
+},
+{
+"id": 49125,
+"en": "Look, Uncle Kaz! It's blackjack! Try to <Color:8>get 1,000 or more chips with this game<Color:Default>!",
+"ctx": "diálogo uid01200380"
+},
+{
+"id": 49126,
+"en": "(Looks like Haruka wants me to <Color:8>get 1,000 or more chips with blackjack<Color:Default>.)",
+"ctx": "diálogo uid01200380"
+}
+]

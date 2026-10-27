@@ -1,0 +1,23 @@
+{
+ "textura": "pausepar_pause_en/picture/2d_jm_puri_kh06",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    246,
+    179,
+    464,
+    238
+   ],
+   "en": "never stops",
+   "ocr": "stops",
+   "es": "nunca se detiene",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 218
+  }
+ ]
+}

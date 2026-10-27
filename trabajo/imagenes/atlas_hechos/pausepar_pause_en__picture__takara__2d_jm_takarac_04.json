@@ -1,0 +1,90 @@
+{
+ "textura": "pausepar_pause_en/picture/takara/2d_jm_takarac_04",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    208,
+    7,
+    264,
+    21
+   ],
+   "en": "cross a street",
+   "ocr": "rossastrt",
+   "es": "cruzar una calle",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 56,
+   "dejar": true
+  },
+  {
+   "caja": [
+    210,
+    17,
+    320,
+    33
+   ],
+   "en": "the decision for me an",
+   "ocr": "thedecision for me an",
+   "es": "tomó la decisión por mí y",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 110,
+   "dejar": true
+  },
+  {
+   "caja": [
+    186,
+    53,
+    318,
+    69
+   ],
+   "en": "to walk with the traffic flow",
+   "ocr": "owalk with the trafliclow",
+   "es": "para caminar con el flujo del tráfico",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 132,
+   "dejar": true
+  },
+  {
+   "caja": [
+    163,
+    65,
+    314,
+    81
+   ],
+   "en": "as the street extended, I saw him",
+   "ocr": "the strcet extended.Isaw him",
+   "es": "mientras la calle se extendía, lo vi",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 151,
+   "dejar": true
+  },
+  {
+   "caja": [
+    127,
+    89,
+    366,
+    105
+   ],
+   "en": "he said. I knew then that I had reached the end of",
+   "ocr": "hesaid.1knewthen thatIhad reach",
+   "es": "él lo había dicho. Entonces supe que había llegado al final de",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 239,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: lo hace el PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

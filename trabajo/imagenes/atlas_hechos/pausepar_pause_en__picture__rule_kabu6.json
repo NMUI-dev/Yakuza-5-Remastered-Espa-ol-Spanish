@@ -1,0 +1,230 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_kabu6",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    426,
+    7,
+    598,
+    45
+   ],
+   "en": "Oicho-kabu",
+   "ocr": "Oicho-kabu",
+   "es": "Oicho-kabu",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 168,
+   "dejar": true
+  },
+  {
+   "caja": [
+    105,
+    67,
+    653,
+    99
+   ],
+   "en": "How to Play: Normal and Special Hands",
+   "ocr": "How to Play:Normal and Special Hands",
+   "es": "Cómo jugar: manos normales y especiales",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 544,
+   "dejar": true
+  },
+  {
+   "caja": [
+    142,
+    130,
+    795,
+    164
+   ],
+   "en": "In addition to normal hands, some cards can form",
+   "ocr": "In addition to normal hands, some cards can form",
+   "es": "Además de las Manos Normales, algunas cartas pueden formar combinaciones especiales.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 649,
+   "dejar": true
+  },
+  {
+   "caja": [
+    142,
+    162,
+    337,
+    196
+   ],
+   "en": "special hands.",
+   "ocr": "special hands.",
+   "es": "Manos Especiales.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 191,
+   "dejar": true
+  },
+  {
+   "caja": [
+    158,
+    225,
+    916,
+    260
+   ],
+   "en": "Four-One: When the first two cards dealt have the value",
+   "ocr": "Four-One:  When the first two cards dealt have the value",
+   "es": "Cuatro-uno: Cuando las dos primeras cartas repartidas tengan valor",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 758,
+   "dejar": true
+  },
+  {
+   "caja": [
+    322,
+    259,
+    827,
+    291
+   ],
+   "en": "of 4 and 1. Valid only for non-dealers.",
+   "ocr": "of 4 and 1. Valid only for non-dealers.",
+   "es": "de 4 y 1. Válido solo para quienes no son Crupier.",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 505,
+   "dejar": true
+  },
+  {
+   "caja": [
+    320,
+    292,
+    915,
+    322
+   ],
+   "en": "Nine-One: When the first two cards dealt have the value",
+   "ocr": "When the first two cards dealt have the value",
+   "es": "Nueve-uno: Cuando las dos primeras cartas repartidas tengan valor",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 595,
+   "dejar": true
+  },
+  {
+   "caja": [
+    322,
+    323,
+    802,
+    355
+   ],
+   "en": "of 9 and 1. Valid only for the dealer.",
+   "ocr": "of 9 and 1. Valid only for the dealer.",
+   "es": "de 9 y 1. Válido solo para el Crupier.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 480,
+   "dejar": true
+  },
+  {
+   "caja": [
+    321,
+    355,
+    877,
+    388
+   ],
+   "en": "Storm: When three cards all have the same value.",
+   "ocr": "When three cards all have the same value.",
+   "es": "Tormenta: Cuando las tres cartas tengan el mismo valor.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 556,
+   "dejar": true
+  },
+  {
+   "caja": [
+    323,
+    387,
+    838,
+    420
+   ],
+   "en": "Can be used by dealer or players. Pays",
+   "ocr": "Can be used by dealer or players. Pays",
+   "es": "Puede usarla el Crupier o los Jugadores. Paga",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 515,
+   "dejar": true
+  },
+  {
+   "caja": [
+    320,
+    420,
+    547,
+    453
+   ],
+   "en": "triple your stake.",
+   "ocr": "triple your stake.",
+   "es": "el Triple de tu apuesta.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 227,
+   "dejar": true
+  },
+  {
+   "caja": [
+    160,
+    290,
+    305,
+    324
+   ],
+   "en": "Nine-One:",
+   "ocr": "Nine-One:",
+   "es": "Nueve-uno:",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 141,
+   "dejar": true
+  },
+  {
+   "caja": [
+    157,
+    353,
+    254,
+    391
+   ],
+   "en": "Storm:",
+   "ocr": "Storm:",
+   "es": "Tormenta:",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 93,
+   "dejar": true
+  }
+ ],
+ "nota": "claude1 21-10: lo hace el PROGRAMA de claude2 (es/); el kit no pinta nada"
+}

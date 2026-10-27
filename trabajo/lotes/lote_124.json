@@ -1,0 +1,857 @@
+[
+{
+"id": 28732,
+"en": "But now that I'm here there's this other thing, and another thing, and a new thing that I want, and now I can't decide on what to get!",
+"ctx": "diálogo uid00330533"
+},
+{
+"id": 28733,
+"en": "I know the feeling. Worse than not being able to decide is the ever-increasing number of things you want to buy.",
+"ctx": "diálogo uid00330533"
+},
+{
+"id": 28734,
+"en": "But tryin' to buy all of the different things I want would be crazy talk.",
+"ctx": "diálogo uid00330533"
+},
+{
+"id": 28735,
+"en": "I've gotta save up more money.",
+"ctx": "diálogo uid00330533"
+},
+{
+"id": 28736,
+"en": "You don't need to buy everything. It's better to buy only what you can afford.",
+"ctx": "diálogo uid00330533"
+},
+{
+"id": 28737,
+"en": "I could buy any one of these things, no problem. Not bein' able to afford all of 'em is why I can't decide what to buy.",
+"ctx": "diálogo uid00330533"
+},
+{
+"id": 28738,
+"en": "Which is the most important thing for you to have?",
+"ctx": "diálogo uid00330533"
+},
+{
+"id": 28739,
+"en": "Hm. I can't really rank 'em in order of importance.",
+"ctx": "diálogo uid00330533"
+},
+{
+"id": 28740,
+"en": "Why not? If there's something you need right now, or something available only for a limited time, you should get one of those.",
+"ctx": "diálogo uid00330533"
+},
+{
+"id": 28741,
+"en": "Huh? But I want all of 'em now.",
+"ctx": "diálogo uid00330533"
+},
+{
+"id": 28742,
+"en": "I'm not talking about what you want. I'm talking about what you need.",
+"ctx": "diálogo uid00330533"
+},
+{
+"id": 28743,
+"en": "I mean none of it's particularly essential.",
+"ctx": "diálogo uid00330533"
+},
+{
+"id": 28744,
+"en": "Oh, I see. Why don't you do whatever you feel like, then?",
+"ctx": "diálogo uid00330533"
+},
+{
+"id": 28745,
+"en": "Don't say that. I'm in a bind 'cause I can't decide what I feel like...",
+"ctx": "diálogo uid00330533"
+},
+{
+"id": 28746,
+"en": "Good grief.",
+"ctx": "diálogo uid00330533 + diálogo uid01340021"
+},
+{
+"id": 28747,
+"en": "Wait for things to get cheaper. If it's something new, put off buying it right away.",
+"ctx": "diálogo uid00330533"
+},
+{
+"id": 28748,
+"en": "True. But by the time it's cheap, it'll be out of style, won't it? If I'm gonna buy it, I should do it now.",
+"ctx": "diálogo uid00330533"
+},
+{
+"id": 28749,
+"en": "I guess that's true. So why not buy the thing that's most popular?",
+"ctx": "diálogo uid00330533"
+},
+{
+"id": 28750,
+"en": "'Cause if I wait a bit longer, maybe somethin' better will come out. So in that case, I shouldn't buy anythin' right away.",
+"ctx": "diálogo uid00330533"
+},
+{
+"id": 28751,
+"en": "Well, yes. But with that attitude, you'll never be able to buy anything. Why not decide based on whether you want it right now or not?",
+"ctx": "diálogo uid00330533"
+},
+{
+"id": 28752,
+"en": "Huh? How am I s'posed to do that?",
+"ctx": "diálogo uid00330533"
+},
+{
+"id": 28753,
+"en": "How am I supposed to know? Geez, could you be any more wishy-washy?",
+"ctx": "diálogo uid00330533"
+},
+{
+"id": 28754,
+"en": "I could buy something for you.",
+"ctx": "diálogo uid00330533"
+},
+{
+"id": 28755,
+"en": "Wow, really? That's so generous of ya, Akiyama-san!",
+"ctx": "diálogo uid00330533"
+},
+{
+"id": 28756,
+"en": "Just one thing now, mind you. I can't afford to get you everything you've got your eye on.",
+"ctx": "diálogo uid00330533"
+},
+{
+"id": 28757,
+"en": "Now, what should I have ya get for me? I guess the most expensive thing!",
+"ctx": "diálogo uid00330533"
+},
+{
+"id": 28758,
+"en": "Oh, but if we're gonna do that, maybe we should go to a different store.",
+"ctx": "diálogo uid00330533"
+},
+{
+"id": 28759,
+"en": "That's fine by me. But why?",
+"ctx": "diálogo uid00330533"
+},
+{
+"id": 28760,
+"en": "'Cause the stuff here's all at bargain basement prices. If yer buyin' me somethin', we should hit up someplace more expensive!",
+"ctx": "diálogo uid00330533"
+},
+{
+"id": 28761,
+"en": "Whatever you like, miss.",
+"ctx": "diálogo uid00330533"
+},
+{
+"id": 28762,
+"en": "Ooh, I want some <Color:8>JANJAN Yakisoba Koku Sauce<Color:Default>. It's super tasty!",
+"ctx": "diálogo uid00330533"
+},
+{
+"id": 28763,
+"en": "(Honoka-chan wants to have some <Color:8>JANJAN Yakisoba Koku Sauce<Color:Default>.)",
+"ctx": "diálogo uid00330533"
+},
+{
+"id": 28764,
+"en": "Hmm... Not too sharp today, Uncle Kaz.",
+"ctx": "diálogo uid00330534"
+},
+{
+"id": 28765,
+"en": "(I'm sorry, Haruka. I'll try to do better next time.)",
+"ctx": "diálogo uid00330534 + diálogo uid01200373 …"
+},
+{
+"id": 28766,
+"en": "Yes! You're awesome, Uncle Kaz. You really can do anything.",
+"ctx": "diálogo uid00330534"
+},
+{
+"id": 28767,
+"en": "(We should be going.)",
+"ctx": "diálogo uid00330534"
+},
+{
+"id": 28768,
+"en": "Thank you for playing. Would you like to play again?",
+"ctx": "diálogo uid00330534"
+},
+{
+"id": 28769,
+"en": "Welcome. Which course would you like to play?",
+"ctx": "diálogo uid00330534"
+},
+{
+"id": 28770,
+"en": "On the Beginner Course, aim for targets and score points to win a prize. You get ten balls. The six targets are relatively easy to hit.",
+"ctx": "diálogo uid00330534"
+},
+{
+"id": 28771,
+"en": "Will you play the Beginner Course? It's 500 yen.",
+"ctx": "diálogo uid00330534"
+},
+{
+"id": 28772,
+"en": "The Intermediate Course is like the Beginner Course. Aim for fixed targets and score points. You get ten balls, and the targets are harder to hit.",
+"ctx": "diálogo uid00330534"
+},
+{
+"id": 28773,
+"en": "Will you play the Intermediate Course? It's 500 yen.",
+"ctx": "diálogo uid00330534"
+},
+{
+"id": 28774,
+"en": "The Advanced Course has targets that flip over when hit, so you can't score off the same target twice. Hit them all to flip them back. You get twelve balls.",
+"ctx": "diálogo uid00330534"
+},
+{
+"id": 28775,
+"en": "Will you play the Advanced Course? It's 500 yen.",
+"ctx": "diálogo uid00330534"
+},
+{
+"id": 28776,
+"en": "The Pro Course also has targets that flip over when hit, so you can't score off the same target twice. Hit them all to flip them back. You get fifteen balls.",
+"ctx": "diálogo uid00330534"
+},
+{
+"id": 28777,
+"en": "Will you play the Pro Course? It's 500 yen.",
+"ctx": "diálogo uid00330534"
+},
+{
+"id": 28778,
+"en": "Will you play the Ranking Course? It's 500 yen.",
+"ctx": "diálogo uid00330534"
+},
+{
+"id": 28779,
+"en": "Look, I don't run a charity here. Nobody gets to play for free.",
+"ctx": "diálogo uid00330534"
+},
+{
+"id": 28780,
+"en": "Uncle Kaz! I want to see you <Color:8>get at least 650 points on Intermediate<Color:Default>!",
+"ctx": "diálogo uid00330534"
+},
+{
+"id": 28781,
+"en": "(Haruka wants me to <Color:8>score at least 650 points on Intermediate<Color:Default>.)",
+"ctx": "diálogo uid00330534"
+},
+{
+"id": 28782,
+"en": "Thank ya kindly. Enjoy yourself.",
+"ctx": "diálogo uid00330534"
+},
+{
+"id": 28783,
+"en": "Oh? You're not playing? Please come again.",
+"ctx": "diálogo uid00330534"
+},
+{
+"id": 28784,
+"en": "No, no. No one plays for free.",
+"ctx": "diálogo uid00330534"
+},
+{
+"id": 28785,
+"en": "Which course would you like to play?",
+"ctx": "diálogo uid00330534"
+},
+{
+"id": 28786,
+"en": "Oh hey, so by the way, I've been thinkin' about gettin' myself some new perfume.",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28787,
+"en": "Perfume? What sort do you usually wear?",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28788,
+"en": "Most o' mine got a citrus scent to 'em. I like it when the scent doesn't linger so long.",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28789,
+"en": "Hmm. So then you tend to wear perfume that you enjoy.",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28790,
+"en": "Well yeah, of course. Nobody's gonna wear a scent they don't like.",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28791,
+"en": "That's not true. You could always wear something that you think a man would like. That's a possible deciding factor, right?",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28792,
+"en": "Aw, yeah, I s'pose you're right. I never thought of it like that.",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28793,
+"en": "Why not buy something like that? Something that'll turn the head of any guy that walks by.",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28794,
+"en": "Nah, see, 'cause then other girls are gonna start talkin', sayin' I'm a tramp and stuff.",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28795,
+"en": "No, no. You're overthinking it. I mean, I'm sure you've never thought that about your friends.",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28796,
+"en": "Sure I have. All the time.",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28797,
+"en": "Strong perfumes are just like tryin' to attract guys. You don't wanna overdo it, or ya come off all trashy.",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28798,
+"en": "Aha. Women are complicated creatures.",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28799,
+"en": "What do you need perfume for?",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28800,
+"en": "I mean I guess just 'cause I wanna feel nice 'bout myself. I don't really care what guys might think of it.",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28801,
+"en": "Hmm. That's rather unusual.",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28802,
+"en": "Nah, I don't think so. Makeup's the same way, ain't it? It's not about turnin' heads. It's about lettin' yourself feel pretty.",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28803,
+"en": "I suppose that when it comes to how you dress, it's more important to feel good about yourself than it is to show off.",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28804,
+"en": "Yeah, see? So that's why I wear perfume I personally like.",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28805,
+"en": "I don't care much about how I smell. I probably smell like cigarettes.",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28806,
+"en": "That's so like you. Doing what you want because you like it, and not because of what other people are going to think.",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28807,
+"en": "Ain't nothin' wrong with that. I wear perfume that's got a scent I like. Don't ya ever feel that same sorta thing, Akiyama-san?",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28808,
+"en": "Me? Let's see...",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28809,
+"en": "For me, if I smell like perfume, I have to try my hardest to smell like cigarettes instead, to hide the fact that I've been to a cabaret club.",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28810,
+"en": "That ol' trick! That's the same reason my mom always thought my pop was cheatin' on her!",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28811,
+"en": "Well, since it takes a long time at places like a pachinko parlor to hide the smell of perfume, you still get yelled at for coming home late.",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28812,
+"en": "Hahaha! Akiyama-san, yer kinda pathetic! You should be way more confident. <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28813,
+"en": "Oh, trust me, you don't know what you're saying. She's a mean one when she's angry.",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28814,
+"en": "I really want the <Color:8>Italian Perfume<Color:Default>. It smells so nice!",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28815,
+"en": "(Honoka-chan wants the <Color:8>Italian Perfume<Color:Default>.)",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28816,
+"en": "Good to see you again. Are you back to make sure you haven't missed any of the latest designs?",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28817,
+"en": "Oh no, nothing like that. I'm still wearing duds I bought a year ago.",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28818,
+"en": "This winter, the designs from last year are still popular, in addition to the new lineup.",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28819,
+"en": "Oh, really now?",
+"ctx": "diálogo uid00330535 + diálogo uid01340013"
+},
+{
+"id": 28820,
+"en": "Yes, sir. The British style from last fall and winter are still in style, as are longtime favorite fashion trends, such as classic styles from the sixties.",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28821,
+"en": "Now that you mention it, I guess I do see a lot of people wearing that sort of thing.",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28822,
+"en": "After a trend calms down a bit, you can tell if someone is fashion savvy by their ability to make last year's fashions work.",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28823,
+"en": "There's more to fashion than simply throwing oneself head first into the latest trends.",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28824,
+"en": "(So that's the state of this year's fashion. I could talk about that at the cabaret club.)",
+"ctx": "diálogo uid00330535"
+},
+{
+"id": 28825,
+"en": "(This was fun. Maybe I'll do somethin' else now.)",
+"ctx": "diálogo uid00330536"
+},
+{
+"id": 28826,
+"en": "Congratulations. You bowled a strike during Midnight Madness!",
+"ctx": "diálogo uid00330536"
+},
+{
+"id": 28827,
+"en": "You got <Color:8>Master Ball<Color:Default>.",
+"ctx": "diálogo uid00330536"
+},
+{
+"id": 28828,
+"en": "Here is your prize. We hope to see you again.",
+"ctx": "diálogo uid00330536"
+},
+{
+"id": 28829,
+"en": "Welcome. Just the two of you today?",
+"ctx": "diálogo uid00330536"
+},
+{
+"id": 28830,
+"en": "That'll be 1,000 yen for you two.",
+"ctx": "diálogo uid00330536"
+},
+{
+"id": 28831,
+"en": "Uncle Kaz! Let's <Color:8>bowl together<Color:Default>!",
+"ctx": "diálogo uid00330536"
+},
+{
+"id": 28832,
+"en": "(Haruka wants to <Color:8>bowl with me<Color:Default>.)",
+"ctx": "diálogo uid00330536"
+},
+{
+"id": 28833,
+"en": "You're not beating me, Uncle Kaz!",
+"ctx": "diálogo uid00330536"
+},
+{
+"id": 28834,
+"en": "Oh, okay. We can <Color:8>bowl<Color:Default> some other time.",
+"ctx": "diálogo uid00330536"
+},
+{
+"id": 28835,
+"en": "Let's bowl together!",
+"ctx": "diálogo uid00330536"
+},
+{
+"id": 28836,
+"en": "(Guess Kaguya wants to bowl with me.)",
+"ctx": "diálogo uid00330536"
+},
+{
+"id": 28837,
+"en": "Sure, okay.",
+"ctx": "diálogo uid00330536 + diálogo uid01340004"
+},
+{
+"id": 28838,
+"en": "Now then, shall we begin?",
+"ctx": "diálogo uid00330536"
+},
+{
+"id": 28839,
+"en": "(I don't got the money.)",
+"ctx": "diálogo uid00330536"
+},
+{
+"id": 28840,
+"en": "Later!",
+"ctx": "diálogo uid00330536"
+},
+{
+"id": 28841,
+"en": "See ya later.",
+"ctx": "diálogo uid00330536"
+},
+{
+"id": 28842,
+"en": "That was so much fun! Please give me a call again anytime! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid00330536 + diálogo uid00690220"
+},
+{
+"id": 28843,
+"en": "This was so much fun! <Color:255,200,200,255>⑮<Color:Default> I wish I could head straight home now! But I have to make sure nobody from Rose Hip sees me.",
+"ctx": "diálogo uid00330536 + diálogo uid00690302 …"
+},
+{
+"id": 28844,
+"en": "I'll see you later.",
+"ctx": "diálogo uid00330536"
+},
+{
+"id": 28845,
+"en": "Your technique's amazing, Aniki! You gotta call me again sometime! <Color:255,200,200,255>⑮<Color:Default>",
+"ctx": "diálogo uid00330536"
+},
+{
+"id": 28846,
+"en": "Welcome! What kind of game would you like to play today?",
+"ctx": "diálogo uid00330536"
+},
+{
+"id": 28847,
+"en": "May I play against you?",
+"ctx": "diálogo uid00330536"
+},
+{
+"id": 28848,
+"en": "I don't take prisoners!",
+"ctx": "diálogo uid00330536"
+},
+{
+"id": 28849,
+"en": "Can I play a split game?",
+"ctx": "diálogo uid00330536"
+},
+{
+"id": 28850,
+"en": "If you wanted to go bowling, we could have done it in Kamurocho. Why did you call me all the way back here to Tsukimino!?",
+"ctx": "diálogo uid00330536"
+},
+{
+"id": 28851,
+"en": "(Guess I'll call up Gachita.)",
+"ctx": "diálogo uid00330536"
+},
+{
+"id": 28852,
+"en": "Sorry for the wait! Come on, let's you and me get our bowl on!",
+"ctx": "diálogo uid00330536"
+},
+{
+"id": 28853,
+"en": "Wow, this is so much cheaper than shopping online! Maybe I should start buying things here.",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28854,
+"en": "Do ya do most of your shoppin' online?",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28855,
+"en": "I do. Things like electronics tend to be much cheaper. I usually only go to a store if I want to check out the actual item for myself.",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28856,
+"en": "You buy stuff online without seein' it first? Yer just askin' to get scammed.",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28857,
+"en": "It's fine so long as you do your research first. Usually it's just a matter of checking to see if a retailer is legitimate or not.",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28858,
+"en": "Okay, but how can ya tell if the info you find is true or not?",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28859,
+"en": "I guess from experience? You wind up developing an instinct for something that might be suspicious.",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28860,
+"en": "And is your \"instinct\" any good?",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28861,
+"en": "I haven't been wrong yet, at any rate. All of my online purchases have gone through without any issues.",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28862,
+"en": "Ain't it just the stores yer buyin' from rather than you pickin' the good ones?",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28863,
+"en": "Well, perhaps.",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28864,
+"en": "Honestly, Saejima-san, I think you're a bit paranoid. I think you'll find online shopping is very safe, if you just give it a chance.",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28865,
+"en": "Maybe so. Still, it ain't just about trustin' the other party. I gotta make sure I can trust myself.",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28866,
+"en": "Oh? What do you mean by that?",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28867,
+"en": "I'm not good with all that internet stuff. I'd probably wind up buyin' the wrong thing, or gettin' too much of somethin'.",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28868,
+"en": "Haha! I suppose that's a legitimate concern. Maybe you should just give it a try sometime. It could be a learning experience for you.",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28869,
+"en": "I don't see what's so funny...",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28870,
+"en": "Seems pretty random. I mean, yer leavin' it to instincts. How're ya gonna be sure of anything?",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28871,
+"en": "I can't reach a decision any other way, so what's wrong with trusting your gut? Saejima-san, don't you act on your instincts?",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28872,
+"en": "'Course not! Like I'm gonna make life decisions off some funny feelin'?",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28873,
+"en": "There've been times I had to make a reckless choice, but only when I had to, and only for things I really believed in.",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28874,
+"en": "But other than that, I'd never put my life on the line without a good reason.",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28875,
+"en": "I feel like this conversation has taken a dark turn...",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28876,
+"en": "Still, if I went in with both eyes open, I probably wouldn't get angry even if I was duped. Geez, you're such an old man, Saejima-san.",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28877,
+"en": "Hmph. I think yer just too careless.",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28878,
+"en": "I couldn't do that. I'm no good at that sorta thing. I'd rather go to a store.",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28879,
+"en": "I like to see what I'm buyin' and ask lots of questions, so I don't get ripped off.",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28880,
+"en": "Wait, really? But Saejima-san, don't you think you're more likely to get duped that way?",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28881,
+"en": "Because whenever you're unsure about things, it really shows on your face.",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28882,
+"en": "Even if they had no intention of cheating you, they might think you're a sucker and wind up charging you a higher price anyways.",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28883,
+"en": "Hmm. I guess ya got a point...",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28884,
+"en": "That's why you should shop at reputable stores like this one, or shop anonymously online where you won't have to show your face.",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28885,
+"en": "Maybe I'll give it a shot sometime.",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28886,
+"en": "I may have had too much to drink. That <Color:8>Legendary Drinker of Ryukyu<Color:Default> might help.",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28887,
+"en": "(Guess Kaguya wants some <Color:8>Legendary Drinker of Ryukyu<Color:Default>.)",
+"ctx": "diálogo uid00330537"
+},
+{
+"id": 28888,
+"en": "Welcome! Oh, wait a second. Are you under age? Sorry, I'm not allowed to serve you any drinks.",
+"ctx": "diálogo uid00330538"
+},
+{
+"id": 28889,
+"en": "Or would you like to see our act?",
+"ctx": "diálogo uid00330538"
+},
+{
+"id": 28890,
+"en": "No, thank you. I'm a little pressed for time.",
+"ctx": "diálogo uid00330538"
+},
+{
+"id": 28891,
+"en": "Oh, too bad. Come by again and catch our act sometime, yeah?",
+"ctx": "diálogo uid00330538"
+},
+{
+"id": 28892,
+"en": "Yes, please! I would love to see it.",
+"ctx": "diálogo uid00330538"
+},
+{
+"id": 28893,
+"en": "Why, of course you may! Here we go!",
+"ctx": "diálogo uid00330538"
+},
+{
+"id": 28894,
+"en": "How was it? Hope you come by again!",
+"ctx": "diálogo uid00330538"
+},
+{
+"id": 28895,
+"en": "Welcome! Have you decided on your order?",
+"ctx": "diálogo uid00330538"
+},
+{
+"id": 28896,
+"en": "Can I get you another?",
+"ctx": "diálogo uid00330538"
+},
+{
+"id": 28897,
+"en": "Oh, too bad, so sad. Please do come again.",
+"ctx": "diálogo uid00330538"
+},
+{
+"id": 28898,
+"en": "Been a long time, Shinada.",
+"ctx": "diálogo uid0033053e"
+},
+{
+"id": 28899,
+"en": "Huh? Who are you, old fella?",
+"ctx": "diálogo uid0033053e"
+},
+{
+"id": 28900,
+"en": "Who're you calling \"old fella\"? Looks like you haven't matured much since junior high.",
+"ctx": "diálogo uid0033053e"
+},
+{
+"id": 28901,
+"en": "Junior high? Wait, are you...?",
+"ctx": "diálogo uid0033053e"
+},
+{
+"id": 28902,
+"en": "You were a real hoot as a student. Wasn't it summer camp in your second year when you pulled that stunt in the boys' restroom⑬",
+"ctx": "diálogo uid0033053e"
+}
+]

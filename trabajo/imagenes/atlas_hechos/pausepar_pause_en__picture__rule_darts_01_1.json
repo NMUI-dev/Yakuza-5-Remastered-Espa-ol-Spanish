@@ -1,0 +1,147 @@
+{
+ "textura": "pausepar_pause_en/picture/rule_darts_01_1",
+ "fuente": "verdana.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    372,
+    16,
+    640,
+    50
+   ],
+   "en": "01 GAME RULE",
+   "es": "REGLAS DEL JUEGO 01",
+   "fuente": "verdana.ttf",
+   "alin": "centro",
+   "ancho_max": 262,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "margen": 0
+  },
+  {
+   "caja": [
+    424,
+    266,
+    692,
+    294
+   ],
+   "en": "You win at zero points.",
+   "es": "",
+   "fuente": "verdana.ttf",
+   "alin": "centro",
+   "ancho_max": 262,
+   "efecto": "nada",
+   "color": [
+    40,
+    40,
+    40
+   ],
+   "margen": 0,
+   "dejar": true
+  },
+  {
+   "caja": [
+    434,
+    366,
+    592,
+    398
+   ],
+   "en": "How to Win",
+   "es": "Cómo ganar",
+   "fuente": "verdana.ttf",
+   "alin": "centro",
+   "ancho_max": 154,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "margen": 0
+  },
+  {
+   "caja": [
+    160,
+    408,
+    860,
+    442
+   ],
+   "en": "Be the first to reduce your score to exactly zero.",
+   "es": "Sé el primero en reducir tu puntuación exactamente a cero.",
+   "fuente": "verdana.ttf",
+   "alin": "centro",
+   "ancho_max": 694,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "fondo": "lama",
+   "margen": 0
+  },
+  {
+   "caja": [
+    163,
+    117,
+    276,
+    174
+   ],
+   "en": "DARTS (logo)",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    301,
+    284,
+    335,
+    306
+   ],
+   "en": "Player",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    375,
+    310,
+    442,
+    331
+   ],
+   "en": "SINGLE 1",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    471,
+    311,
+    507,
+    329
+   ],
+   "en": "BULL",
+   "es": "",
+   "dejar": true
+  },
+  {
+   "caja": [
+    311,
+    158,
+    361,
+    178
+   ],
+   "en": "ROUND SCORE",
+   "es": "",
+   "dejar": true
+  }
+ ]
+}

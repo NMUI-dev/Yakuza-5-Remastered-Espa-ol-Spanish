@@ -1,0 +1,982 @@
+[
+{
+"id": 49308,
+"en": "See, I'm the opposite. I go to cabaret clubs when I'm not in the mood for drinking alone.",
+"ctx": "diálogo uid0133007b"
+},
+{
+"id": 49309,
+"en": "I've got some friends who say they don't wanna eat by themselves.",
+"ctx": "diálogo uid0133007b"
+},
+{
+"id": 49310,
+"en": "Like, they'll call up anyone and everyone on the phone just to find a dining companion.",
+"ctx": "diálogo uid0133007b"
+},
+{
+"id": 49311,
+"en": "I suppose for some people, mealtime isn't just about eating, but also about getting together and having good conversation.",
+"ctx": "diálogo uid0133007b"
+},
+{
+"id": 49312,
+"en": "I always ate with my family.",
+"ctx": "diálogo uid0133007b"
+},
+{
+"id": 49313,
+"en": "Family? Aren't ya single, Kiryu-san?",
+"ctx": "diálogo uid0133007b"
+},
+{
+"id": 49314,
+"en": "Back in Okinawa, I ran an orphanage and looked after some children. They were my family.",
+"ctx": "diálogo uid0133007b"
+},
+{
+"id": 49315,
+"en": "Wow, I had no idea! So then did y'take the kids out with you to family restaurants?",
+"ctx": "diálogo uid0133007b"
+},
+{
+"id": 49316,
+"en": "We didn't usually have the money for that, so most days I cooked for everyone. But it was fun to splurge sometimes and eat out.",
+"ctx": "diálogo uid0133007b"
+},
+{
+"id": 49317,
+"en": "That reminds me of my dad. I didn't have a mom growin' up, and so on days off, he'd take me out someplace nice.",
+"ctx": "diálogo uid0133007b"
+},
+{
+"id": 49318,
+"en": "That's nice. In the end, the best thing is for a family to come together for a meal.",
+"ctx": "diálogo uid0133007b"
+},
+{
+"id": 49319,
+"en": "Whew, I'm stuffed!",
+"ctx": "diálogo uid0133007b + diálogo uid0133058f …"
+},
+{
+"id": 49320,
+"en": "(I should probably be on my way.)",
+"ctx": "diálogo uid0133007b + diálogo uid01330596"
+},
+{
+"id": 49321,
+"en": "Hey, Uncle Kaz? I'm hungry for some <Color:8>Miso Motsunabe<Color:Default>.",
+"ctx": "diálogo uid0133007b"
+},
+{
+"id": 49322,
+"en": "(Haruka wants to have some <Color:8>Miso Motsunabe<Color:Default>.)",
+"ctx": "diálogo uid0133007b"
+},
+{
+"id": 49323,
+"en": "I guess we'll have to get <Color:8>Miso Motsunabe<Color:Default> some other time, then.",
+"ctx": "diálogo uid0133007b"
+},
+{
+"id": 49324,
+"en": "(What should I look at?)",
+"ctx": "diálogo uid0133007b"
+},
+{
+"id": 49325,
+"en": "(<Color:8>Pickled Motsu<Color:Default>, huh? I'd like to try that.)",
+"ctx": "diálogo uid0133007b"
+},
+{
+"id": 49326,
+"en": "(The <Color:8>Motsuyaki<Color:Default> looks pretty good.)",
+"ctx": "diálogo uid0133007b"
+},
+{
+"id": 49327,
+"en": "(I've already been in here. I should pick another place.)",
+"ctx": "diálogo uid01330095"
+},
+{
+"id": 49328,
+"en": "(La Seine? Looks like this is a cabaret club. I think Uncle Kaz might frequent this place.)",
+"ctx": "diálogo uid013302cc"
+},
+{
+"id": 49329,
+"en": "(This is La Seine, a cabaret club. But I'm not really in the mood for this sort of thing tonight. Maybe some other time.)",
+"ctx": "diálogo uid013302cc"
+},
+{
+"id": 49330,
+"en": "(Riku's in Kamurocho right now. Maybe she'll be back once Elise makes its comeback. Until then, I don't have any reason to be here.)",
+"ctx": "diálogo uid013302cc"
+},
+{
+"id": 49331,
+"en": "(I convinced Riku to go back to Tokyo with me. Once we get back to Kamurocho, we should go to Elise.)",
+"ctx": "diálogo uid013302cc"
+},
+{
+"id": 49332,
+"en": "(Oh, that's right. Akiyama wanted new girls for his club lineup. Maybe I should talk to Riku.)",
+"ctx": "diálogo uid013302cc"
+},
+{
+"id": 49333,
+"en": "(So, this is La Seine. I can't just barge in, though. I should hit up an adult entertainment info booth first.)",
+"ctx": "diálogo uid013302cc"
+},
+{
+"id": 49334,
+"en": "(La Seine, a cabaret club. As fun as it might be, this isn't the time.)",
+"ctx": "diálogo uid013302cc"
+},
+{
+"id": 49335,
+"en": "(La Seine? Hm, a cabaret club. It'd be a waste of time for me to go to a bunch of different clubs. Gotta focus on just one place.)",
+"ctx": "diálogo uid013302cc"
+},
+{
+"id": 49336,
+"en": "(A cabaret club, La Seine. Man, I'd love to check it out, but I'd better not.)",
+"ctx": "diálogo uid013302cc"
+},
+{
+"id": 49337,
+"en": "(La Seine? Looks like this is a cabaret club. I think Uncle Kaz might have been here.)",
+"ctx": "diálogo uid013302cc"
+},
+{
+"id": 49338,
+"en": "(Takasugi-san's still around. I can't go home.)",
+"ctx": "diálogo uid013302d3"
+},
+{
+"id": 49339,
+"en": "(Takasugi-san might still be around. Wouldn't want to run into him.)",
+"ctx": "diálogo uid013302d3"
+},
+{
+"id": 49340,
+"en": "(Crap. Of course I'd oversleep on the day of the interview.\nBetter get my ass over to Futo Momo, stat.)",
+"ctx": "diálogo uid013302d9"
+},
+{
+"id": 49341,
+"en": "(Let's see, that club's on Icho Street... Yikes, that's\nactually pretty far. I really do need to haul ass.)",
+"ctx": "diálogo uid013302d9"
+},
+{
+"id": 49342,
+"en": "I'm gonna get your ass for this! Count on it!",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49343,
+"en": "(Man, what a rotten day. Know what? I'm just gonna go home.)",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49344,
+"en": "Well, if it ain't the sultan of smut himself.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49345,
+"en": "You're... the security company guy? Ono-san, was it?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49346,
+"en": "Yeah, and thanks to your bullshit, I got a fuckin' hole through my cheek!",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49347,
+"en": "Hope you're happy, jackass!",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49348,
+"en": "Oogh, sounds awful. Does juice leak out when you drink it?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49349,
+"en": "Fuck you!",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49350,
+"en": "You have no idea what kinda stress your antics caused me!",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49351,
+"en": "Maybe not, but may I suggest you visit the batting center?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49352,
+"en": "It'd be the perfect place to blow off all that steam.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49353,
+"en": "Are you fuckin' with me!?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49354,
+"en": "I wouldn't want to.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49355,
+"en": "You <Italic>are</Italic> fuckin' with me!",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49356,
+"en": "Look, do you really have the right to blame me?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49357,
+"en": "Excuse me!?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49358,
+"en": "You knew right from the start that bat was a fake, didn't you?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49359,
+"en": "I don't know what you're talkin' about!",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49360,
+"en": "Wow, can you be more obvious?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49361,
+"en": "You swapped the real thing with a fake that was cracked to begin with, then made Toriyama-san carry it, didn't you?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49362,
+"en": "If you don't quit spouting that bullshit, I'm gonna shut you up permanently!",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49363,
+"en": "Let me ask you something. How many hundreds of broken bats do you think I've seen?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49364,
+"en": "I know for a fact not one of them would crack just by dropping it.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49365,
+"en": "Were you not just trying to get Toriyama-san to pay for the\ndamages while keeping the real thing hidden for yourself?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49366,
+"en": "If ya figured out that much... I'll just have to make ya disappear!",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49367,
+"en": "Oh? You're not gonna rally your Nagoya Family friends?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49368,
+"en": "This shit's personal, dickhead!",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49369,
+"en": "The only thing that can soothe my aching cheek... is to hear you scream in pain!",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49370,
+"en": "Hey. Heard you just got paid.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49371,
+"en": "Ushijima-san...",
+"ctx": "diálogo uid013302da + diálogo uid013303fe"
+},
+{
+"id": 49372,
+"en": "Drop by for a drink and settle your tab.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49373,
+"en": "The thing is...",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49374,
+"en": "Don't tell me you blew it already? Well screw me sideways.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49375,
+"en": "In any case, I made that miso stew you like today. Just come on over.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49376,
+"en": "Bless you, Ushijima-san!",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49377,
+"en": "I'll save you a seat. Don't dawdle now.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49378,
+"en": "(Now that's a true friend! Better mosey on over to Ushijima-san's place before the stew gets cold. He's on Kumano Boulevard.)",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49379,
+"en": "It hurts... all over...",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49380,
+"en": "Hey, can I go now? I was going pretty easy on you, so you shouldn't be <Italic>that</Italic> messed up.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49381,
+"en": "Urk... Damn you!",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49382,
+"en": "(Hm. Nope. Everything's still functioning. But man, now I'm\neven more hungry...)",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49383,
+"en": "(Let's just forget that little distraction and get over to the batting center.)",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49384,
+"en": "Hey, are you Shinada? That sleazy journalist guy?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49385,
+"en": "Yup, that would be me.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49386,
+"en": "So you're the one who wrote up a thing about Koko⑬I mean, Melon?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49387,
+"en": "Oh, you must be referring to \"Magical Mystery Melons\" from Nightlife Magazine. Yeah, that was what, two issues ago? One of my finest exposés, if I do say so myself!",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49388,
+"en": "Gotta hand it to the girl for picking such a ripe name. It says in one word what you're about to put your hands on.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49389,
+"en": "They're soft, they're succulent, they jiggle to the touch. Freshest of the season by far.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49390,
+"en": "You shut your filthy mouth!",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49391,
+"en": "That gonzo article of yours was on <Italic>my</Italic> girl! You wanna explain why you're messin' with another man's woman!?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49392,
+"en": "Did Melon-chan maybe not tell you... she's a working girl?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49393,
+"en": "Ooh, and she still okayed my intrusion into her quarters⑬<Italic>now</Italic> I see why you're mad. You've got a naughty little Melon on your hands!",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49394,
+"en": "Real talk, though, this is between you and her. So can you not go dragging me into this?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49395,
+"en": "Don't pretend you're the victim! I'll make you bleed for this!",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49396,
+"en": "(Hm? It's from the editorial office.)",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49397,
+"en": "Hey, it's Shinada. What's the dealio?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49398,
+"en": "It's about that manuscript you turned in. Your handwriting's atrocious!",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49399,
+"en": "Even some of the key points are completely illegible.\nSo I thought I'd go over them with you, if that's okay.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49400,
+"en": "Oh, sure. And sorry, I was kind of in a rush today. Anyway.\nWhere should we start?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49401,
+"en": "Uh... Let's see. How about the name of the club you visited?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49402,
+"en": "That's Club Futo Momo.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49403,
+"en": "Oh, this says Futo Momo? The letters are all jumbled up.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49404,
+"en": "That's Club Futa Mata.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49405,
+"en": "Huh? Really? This is a \"t\" and not an \"m\"?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49406,
+"en": "Well, you're the reporter, Shinada-san. I'm taking your word for it.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49407,
+"en": "That's Club Furi Sode.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49408,
+"en": "Huh? Furisode? As in the kimono? What, are they some kind of fetish club?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49409,
+"en": "Okay, there's one more. What's the name of the girl you reviewed?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49410,
+"en": "Oh come on now, you should know that one. It's Milky-chan.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49411,
+"en": "Hey, we're short-staffed as it is! If someone weren't so\nlate all the time, or didn't have such shoddy handwriting⑬",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49412,
+"en": "Oops, you're right. I deserved that. Hahaha. No really, my bad.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49413,
+"en": "It's Michiru-chan. We ran features on her before⑬you should remember her.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49414,
+"en": "Huh? You're sure that's right? The name does look familiar, but...",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49415,
+"en": "Well, you're the one who covered her all those times.\nI suppose you wouldn't get it wrong. Okay, roger that.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49416,
+"en": "It's Mikly-chan. She's my golden girl, my star child, my eternal sunshine! Get it right, dude.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49417,
+"en": "Huh? You mean it's Mikly and not Milky? Oh, so I guess you got these letters reversed.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49418,
+"en": "I was thinking this has to be Milky, but you're saying it's Mikly. Roger that.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49419,
+"en": "That about does it. Sorry to take your time.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49420,
+"en": "No, no, my bad. Don't work too hard.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49421,
+"en": "(Sleeping in today was a big no-no. Well, off to the batting center.)",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49422,
+"en": "(Down to 217 yen... The batting center's my only hope now. Let's scoot up Tsumugi Street.)",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49423,
+"en": "When'd you start borrowing from that loan shark?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49424,
+"en": "Loan shark? You mean Takasugi-san?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49425,
+"en": "Uh, it would've been around when he first got to Kineicho. So around a year ago?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49426,
+"en": "You do know the crazy rumor about him, don't you?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49427,
+"en": "You mean like how he's connected to the Nagoya Family?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49428,
+"en": "That would be it.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49429,
+"en": "Are they really that dangerous?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49430,
+"en": "Well yeah. They're yakuza, dummy.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49431,
+"en": "Have you ever seen any of these Nagoya Family people?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49432,
+"en": "Not me personally.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49433,
+"en": "Same. It's been fifteen years since I came to Kineicho, where\nthis family supposedly operates...",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49434,
+"en": "But no one here looks remotely yakuza-like.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49435,
+"en": "Keep your voice down! They gotta be out there somewhere.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49436,
+"en": "They say a soba delivery man stumbled into their office by\nmistake. Next thing he knows, the poor guy's missing an eye.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49437,
+"en": "Basically, people say they're the real law around these parts.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49438,
+"en": "Borrow money from a guy connected to them, and you might seriously wind up dead.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49439,
+"en": "Oh? Uno-san, is that concern in your voice I hear?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49440,
+"en": "What do you expect? If you kick the bucket, there goes my 30,000 yen!",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49441,
+"en": "Hey, I'll pay it back someday!",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49442,
+"en": "Not someday, today!",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49443,
+"en": "Listen up, a new girl joined my favorite parlor today.\nAnd I wanna be the first to savor her flavor!",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49444,
+"en": "Is that maybe... Julia-chan at Shachihoko Musume?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49445,
+"en": "Aha, leave it to the sleuth of the sex industry!",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49446,
+"en": "You sure like your amateurs, don't you?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49447,
+"en": "But you know, she used to be Nanako-chan at Madd Maxx.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49448,
+"en": "Huh!? <Italic>That</Italic> old hag?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49449,
+"en": "All she did was change venues and her professional name.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49450,
+"en": "Get outta here!",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49451,
+"en": "Hey, not what I meant!",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49452,
+"en": "Oh, crap. Forgot about you.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49453,
+"en": "Where's my thirty grand!?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49454,
+"en": "Can't it wait? If I don't submit this story, I won't get a\nsingle yen of what I eventually plan on paying you!",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49455,
+"en": "I'd say you don't mean to pay me back at all!",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49456,
+"en": "That's not true. I was gonna make a beeline for you as soon as I got my article fee.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49457,
+"en": "Bet you told that to the loan shark too.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49458,
+"en": "Ergh.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49459,
+"en": "Bingo. Now I'm gonna walk you to work so you can't slip away.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49460,
+"en": "...For real?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49461,
+"en": "(Ahh... I just love me an <Italic>in-depth interview</Italic>! This article's gonna be a banger for sure!)",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49462,
+"en": "(No time to gloat, though. The publisher's waiting! Going down Kume Boulevard should be the quickest way.)",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49463,
+"en": "(Okay, the interview's finally about to happen. Back to\nClub Futo Momo, posthaste!)",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49464,
+"en": "Hey, sis? Yup, Shinada-san bailed me out. Uh-huh. Thanks!",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49465,
+"en": "My sister says she'll be on her way to the market.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49466,
+"en": "Market? Oh, right, her job.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49467,
+"en": "Whew... Now I can do the interview.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49468,
+"en": "Shinada-san, you're her manager, right?",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49469,
+"en": "She won't tell me which supermarket she works at,\nso can you tell me? I'd like to swing by and give you\nproper thanks.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49470,
+"en": "Aw, no, you don't gotta do that! We're good, man.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49471,
+"en": "Are you sure? Then, thank you very much.",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49472,
+"en": "She's the best sister in the world. So please keep looking after Mieko!",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49473,
+"en": "(Kubota Security. This is it.)",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49474,
+"en": "(This is Icho Street, so Kubota Security must be...\nThat way? Man, what a day this turned out to be.\nShould've just stayed in bed!)",
+"ctx": "diálogo uid013302da"
+},
+{
+"id": 49475,
+"en": "Gwargh!",
+"ctx": "diálogo uid013302dd"
+},
+{
+"id": 49476,
+"en": "Okay, now will you please bring Toriyama-san?",
+"ctx": "diálogo uid013302dd"
+},
+{
+"id": 49477,
+"en": "You're Toriyama-san? Milky⑬uh, your sister⑬told me you were in trouble.",
+"ctx": "diálogo uid013302dd"
+},
+{
+"id": 49478,
+"en": "My sister!?",
+"ctx": "diálogo uid013302dd"
+},
+{
+"id": 49479,
+"en": "You came to fix the mess this guy made? What a stand-up guy you are.",
+"ctx": "diálogo uid013302dd"
+},
+{
+"id": 49480,
+"en": "So I heard Toriyama-san broke something while on duty,\nand now there's a liability issue?",
+"ctx": "diálogo uid013302dd"
+},
+{
+"id": 49481,
+"en": "Correct. And I assume you're here to cover all the damages?",
+"ctx": "diálogo uid013302dd"
+},
+{
+"id": 49482,
+"en": "About that. It shouldn't be the employee's responsibility.\nIsn't that what company insurance is for?",
+"ctx": "diálogo uid013302dd"
+},
+{
+"id": 49483,
+"en": "Maybe if it was just once.",
+"ctx": "diálogo uid013302dd"
+},
+{
+"id": 49484,
+"en": "This numbnut screwed up so many times, I could fertilize\na farm with all the shit the boss gives me.",
+"ctx": "diálogo uid013302dd"
+},
+{
+"id": 49485,
+"en": "And this is the thanks I get. He's really gone and done it now.",
+"ctx": "diálogo uid013302dd"
+},
+{
+"id": 49486,
+"en": "His ass ain't the kind insurance just can wipe.",
+"ctx": "diálogo uid013302dd"
+},
+{
+"id": 49487,
+"en": "And if he can't pay compensation, he'll just have to borrow from a loan shark.",
+"ctx": "diálogo uid013302dd"
+},
+{
+"id": 49488,
+"en": "So what's this thing he broke?",
+"ctx": "diálogo uid013302dd"
+},
+{
+"id": 49489,
+"en": "Huh? What is this?",
+"ctx": "diálogo uid013302dd"
+},
+{
+"id": 49490,
+"en": "The bat that Koji Kakegawa, the Japanese home run king, used to set the world record.",
+"ctx": "diálogo uid013302dd"
+},
+{
+"id": 49491,
+"en": "It was on its way to the Baseball Hall of Fame... until I dropped it.",
+"ctx": "diálogo uid013302dd"
+},
+{
+"id": 49492,
+"en": "So what's it gonna be? Ya payin' for the damages or what?",
+"ctx": "diálogo uid013302dd"
+},
+{
+"id": 49493,
+"en": "This ain't some kinda toy you can find in the kiddie aisle\nof some mom and pop shop.",
+"ctx": "diálogo uid013302dd"
+},
+{
+"id": 49494,
+"en": "Well, I can't pay, but...",
+"ctx": "diálogo uid013302dd"
+},
+{
+"id": 49495,
+"en": "Hey, hey! What the fuck do you think⑬",
+"ctx": "diálogo uid013302dd"
+},
+{
+"id": 49496,
+"en": "Toriyama-san, this is no big deal.",
+"ctx": "diálogo uid013302dd"
+},
+{
+"id": 49497,
+"en": "Oh, can you fix it somehow?",
+"ctx": "diálogo uid013302dd"
+},
+{
+"id": 49498,
+"en": "Don't have to. It's fake.",
+"ctx": "diálogo uid013302dd"
+},
+{
+"id": 49499,
+"en": "Oh, and how the fuck would you know, huh?",
+"ctx": "diálogo uid013302dd"
+},
+{
+"id": 49500,
+"en": "Because Kakegawa-san played with compressed bats.",
+"ctx": "diálogo uid013302dd"
+},
+{
+"id": 49501,
+"en": "What's a compressed bat?",
+"ctx": "diálogo uid013302dd"
+},
+{
+"id": 49502,
+"en": "They were banned in 1981, so you'll never see a pro go\nbusting one out...",
+"ctx": "diálogo uid013302dd"
+},
+{
+"id": 49503,
+"en": "But in his day, this would've been compressed.",
+"ctx": "diálogo uid013302dd"
+}
+]

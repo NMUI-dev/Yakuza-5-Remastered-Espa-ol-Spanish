@@ -1,0 +1,2602 @@
+[
+{
+"id": 5787,
+"en": "This title is for birds that consistently snatch defeat from the jaws of victory. Perhaps they can put these experiences to good use.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5788,
+"en": "This title of shame is for birds who never win no matter how many races they run. What fate awaits these birds?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5789,
+"en": "This title is reserved for birds that have earned their first win in the Champion class.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5790,
+"en": "This title is reserved for birds that have earned their first win in the Contender class.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5791,
+"en": "This title is reserved for birds that have earned their first win in the Challenger class.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5792,
+"en": "This title is for birds that have just entered the world of Cochin racing. They have just taken their first step toward glory.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5793,
+"en": "%s Gen %d.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5794,
+"en": "And they're off!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5795,
+"en": "The race is on!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5796,
+"en": "The big race has begun!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5797,
+"en": "%s wins! Amazing!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5798,
+"en": "%s came in first!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5799,
+"en": "It's Shinada's %s in first!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5800,
+"en": "It's %s in first!\n%s has lost the race!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5801,
+"en": "This race is over! The winner is %s!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5802,
+"en": "The winner is %s! %s has been defeated!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5803,
+"en": "%s used the Intimidate skill!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5804,
+"en": "%s is intimidating the other birds!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5805,
+"en": "%s has intimidated the other birds!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5806,
+"en": "%s used the Threaten skill!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5807,
+"en": "%s is threatening the other birds!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5808,
+"en": "%s has threatened the other birds!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5809,
+"en": "%s used the Instinct skill! Look at that little devil go!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5810,
+"en": "%s used the Instinct skill in response to the chickens in the adjacent lanes!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5811,
+"en": "%s is instinctively reacting to the adjacent lanes! Now that's true grit!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5812,
+"en": "%s seems to have lost the will to fight.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5813,
+"en": "Oh no, %s has chickened out after seeing the racers in the adjacent lanes.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5814,
+"en": "What's this? %s appears to have been overwhelmed by the other chickens.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5815,
+"en": "%s has executed a perfect starting dash!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5816,
+"en": "And there it is! %s's amazing starting dash!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5817,
+"en": "Oh my! %s just unleashed its famous starting dash!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5818,
+"en": "%s has just used the Second Wind skill for a burst of speed!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5819,
+"en": "%s just got a second wind! Will the little clucker claim victory!?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5820,
+"en": "%s is speeding up! Wow! Talk about a second wind!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5821,
+"en": "%s still has the lead.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5822,
+"en": "%s is in first.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5823,
+"en": "%s remains in the lead.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5824,
+"en": "%s has taken the lead!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5825,
+"en": "We have a new leader. It's %s!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5826,
+"en": "%s is now in the lead!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5827,
+"en": "%s is trying to pull away with a new burst of speed!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5828,
+"en": "%s is accelerating even more! The other chickens are eating its dust!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5829,
+"en": "The leader is really stepping on the gas!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5830,
+"en": "%s is taking a frenzied run to first place!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5831,
+"en": "Second-place %s is really stepping on the gas!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5832,
+"en": "Second-place %s is speeding up! Can the little clucker take the lead!?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5833,
+"en": "%s has overtaken two birds and is racing ahead!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5834,
+"en": "%s is passing one chicken after another in an explosive run!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5835,
+"en": "%s can't be stopped! It's cock-a-doodle-dominating!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5836,
+"en": "%s has stopped in its tracks!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5837,
+"en": "Is %s worn out or just distracted?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5838,
+"en": "Has %s stopped to take a break?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5839,
+"en": "%s has accelerated after a verbal lash!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5840,
+"en": "%s responds to a fierce verbal lash with a burst of speed!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5841,
+"en": "The verbal lash has renewed its spirits!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5842,
+"en": "Looks like %s ran out of Stamina!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5843,
+"en": "Has %s run out of steam?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5844,
+"en": "It seems %s is tapped out and refusing to move.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5845,
+"en": "Which one of these cheeky chickens will triumph!?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5846,
+"en": "The heroic clucking of the Cochins echoes throughout the venue!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5847,
+"en": "Look at the fire in their eyes! These birds just won't give up.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5848,
+"en": "Bracket %s: %s",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5849,
+"en": "You got %s in prize money.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5850,
+"en": "Name your Nagoya Cochin.\n(Special characters will not be displayed in-game.)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5851,
+"en": "Select a breeder.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5852,
+"en": "Breeders will be retired. Continue?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5853,
+"en": "Enter a name containing at least one character.\n(Special characters will not be displayed in-game.)",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5854,
+"en": "You already have a Cochin with that name.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5855,
+"en": "You earned %sas a title.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5856,
+"en": "Han",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5857,
+"en": "Fu",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5858,
+"en": "Dora",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5859,
+"en": "Ura-Dora",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5860,
+"en": "Your Total Points",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5861,
+"en": "Back: <Action:Button_Circle@Mahjong>",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5862,
+"en": "Hide Window: <Action:Button_Square@Mahjong>",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5863,
+"en": "Current Winning Streak: %2d",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5864,
+"en": "　　Winning Streak: %2d",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5865,
+"en": "Highest Winning Streak: %2d",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5866,
+"en": "List of Hands",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5867,
+"en": "Declare nine terminals and redraw the hand?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5868,
+"en": "Quit game?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5869,
+"en": "Start Game",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5870,
+"en": "Start Ranked Match",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5871,
+"en": "Quit Game",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5872,
+"en": "Change Rules",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5873,
+"en": "Mahjong Basics",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5874,
+"en": "View Rankings",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5875,
+"en": "Game Style",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5876,
+"en": "Kuitan",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5877,
+"en": "Two Han Minimum",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5878,
+"en": "Red Dora",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5879,
+"en": "Pon",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5880,
+"en": "Chi",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5881,
+"en": "Kan",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5882,
+"en": "Tsumo",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5883,
+"en": "Ron",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5884,
+"en": "Riichi",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5885,
+"en": "Sacred Discard",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5886,
+"en": "Foul",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5887,
+"en": "Illegal Riichi",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5888,
+"en": "Four Kan Draw",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5889,
+"en": "Four Riichi Draw",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5890,
+"en": "Triple Ron",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5891,
+"en": "Wind Discard Draw",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5892,
+"en": "Nine Terminal Draw",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5893,
+"en": "East 1",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5894,
+"en": "East 2",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5895,
+"en": "East 3",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5896,
+"en": "East 4",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5897,
+"en": "South 1",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5898,
+"en": "South 2",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5899,
+"en": "South 3",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5900,
+"en": "South 4",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5901,
+"en": "West 1",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5902,
+"en": "West 2",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5903,
+"en": "West 3",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5904,
+"en": "West 4",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5905,
+"en": "North 1",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5906,
+"en": "North 2",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5907,
+"en": "North 3",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5908,
+"en": "North 4",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5909,
+"en": "Mangan",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5910,
+"en": "Haneman",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5911,
+"en": "Baiman",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5912,
+"en": "Sanbaiman",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5913,
+"en": "Yakuman",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5914,
+"en": "Exhaustive Draw",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5915,
+"en": "Double Yakuman",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5916,
+"en": "Triple Yakuman",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5917,
+"en": "4x Yakuman",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5918,
+"en": "5x Yakuman",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5919,
+"en": "6x Yakuman",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5920,
+"en": "7x Yakuman",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5921,
+"en": "No-Points Hand",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5922,
+"en": "East",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5923,
+"en": "Double East",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5924,
+"en": "South",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5925,
+"en": "Double South",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5926,
+"en": "West",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5927,
+"en": "Double West",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5928,
+"en": "North",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5929,
+"en": "Double North",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5930,
+"en": "White Dragon",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5931,
+"en": "Green Dragon",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5932,
+"en": "Red Dragon",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5933,
+"en": "All Simples",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5934,
+"en": "Identical Sequences",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5935,
+"en": "Ippatsu",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5936,
+"en": "Fully Concealed Hand",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5937,
+"en": "Dead Wall Draw",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5938,
+"en": "Last Tile Draw - Tsumo",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5939,
+"en": "Last Tile Discard - Ron",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5940,
+"en": "Mixed Outside Hand",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5941,
+"en": "All Terminals and Honors",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5942,
+"en": "Full Straight",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5943,
+"en": "All Triplet Hand",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5944,
+"en": "Three Concealed Triplets",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5945,
+"en": "Three Consecutive Pons",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5946,
+"en": "Three Quads",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5947,
+"en": "Seven Pairs",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5948,
+"en": "Three Color Straight",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5949,
+"en": "Three Color Triplets",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5950,
+"en": "Little Three Dragons",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5951,
+"en": "Double Riichi",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5952,
+"en": "Pure Outside Hand",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5953,
+"en": "Half Flush",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5954,
+"en": "Double Identical Sequences",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5955,
+"en": "Full Flush",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5956,
+"en": "All Honors",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5957,
+"en": "All Green",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5958,
+"en": "Nine Gates",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5959,
+"en": "Pure Nine Gates",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5960,
+"en": "Four Concealed Triplets",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5961,
+"en": "Four Concealed Triplets w/ Single Wait",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5962,
+"en": "Four Quads",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5963,
+"en": "Big Three Dragons",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5964,
+"en": "Big Four Winds",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5965,
+"en": "Little Four Winds",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5966,
+"en": "All Terminals",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5967,
+"en": "Heavenly Hand",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5968,
+"en": "Earthly Hand",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5969,
+"en": "Thirteen Orphans",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5970,
+"en": "Pure Thirteen Orphans",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5971,
+"en": "Broken Thirteen",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5972,
+"en": "Blessing of Man",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5973,
+"en": "Robbing a Quad",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5974,
+"en": "Big Wheel",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5975,
+"en": "Terminal Discard",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5976,
+"en": "Playing",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5977,
+"en": "Trouble's a-comin'...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5978,
+"en": "What've we got here?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5979,
+"en": "Slow down!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5980,
+"en": "What is there to think about?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5981,
+"en": "You don't stand a chance.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5982,
+"en": "What a boring victory.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5983,
+"en": "Guess it's time to wrap it up.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5984,
+"en": "Exactly how I thought it'd go.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5985,
+"en": "I like how this is going.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5986,
+"en": "This doesn't look good...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5987,
+"en": "You sure about that, junior?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5988,
+"en": "I hate leaving things to luck...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5989,
+"en": "I won. Of course.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5990,
+"en": "I wanna get a new phone.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5991,
+"en": "So this is it, eh?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5992,
+"en": "Don't get cocky.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5993,
+"en": "Hurry it up, will ya?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5994,
+"en": "Time to do you in.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5995,
+"en": "Oh, dammit.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5996,
+"en": "Heh, shit happens.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5997,
+"en": "Looking good now.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5998,
+"en": "Not bad, not bad.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 5999,
+"en": "The hell?",
+"ctx": "menú/texto string_tbl + diálogo uid011302ef"
+},
+{
+"id": 6000,
+"en": "Not long until I win.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6001,
+"en": "I can't lose to you.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6002,
+"en": "What to have for dinner?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6003,
+"en": "Anyone got a smoke?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6004,
+"en": "My, aren't you aggressive?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6005,
+"en": "I've got a date after this.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6006,
+"en": "Think I'm easy? Wrong!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6007,
+"en": "That was close...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6008,
+"en": "Wish I could undo that.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6009,
+"en": "Aw, that's too bad for you.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6010,
+"en": "There we go!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6011,
+"en": "I can't do this.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6012,
+"en": "But my mahjong sticks...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6013,
+"en": "Dunno 'bout these tiles...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6014,
+"en": "This doesn't mean you've won.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6015,
+"en": "Argh! I messed up!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6016,
+"en": "This is why I don't like the people from Tokyo.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6017,
+"en": "So predictable.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6018,
+"en": "Wake me up when he's done.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6019,
+"en": "I'm gonna make ya cry!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6020,
+"en": "Learn some tact, dimwit.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6021,
+"en": "Pick on someone else.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6022,
+"en": "Sweet! Pay up, buddy.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6023,
+"en": "I did it!",
+"ctx": "menú/texto string_tbl + diálogo uid016901c9 …"
+},
+{
+"id": 6024,
+"en": "Think you're all that, huh?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6025,
+"en": "This is how we play in Osaka!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6026,
+"en": "My tsumo's like lightnin'!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6027,
+"en": "What a waste.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6028,
+"en": "I hope my car's not getting a ticket...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6029,
+"en": "Can you order a yakisoba with sauce?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6030,
+"en": "Now we're talking.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6031,
+"en": "Don't keep us waiting.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6032,
+"en": "No mercy.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6033,
+"en": "That can't be right.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6034,
+"en": "Dammit, how could this happen?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6035,
+"en": "I got skill AND luck!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6036,
+"en": "Take that!",
+"ctx": "menú/texto string_tbl + diálogo uid000c06fe"
+},
+{
+"id": 6037,
+"en": "Hey, what gives!?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6038,
+"en": "I got this...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6039,
+"en": "Think you can win with that hand?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6040,
+"en": "You're gonna hate this.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6041,
+"en": "I'll fight till the end!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6042,
+"en": "You guys better not get tsumo...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6043,
+"en": "Oh, I see!",
+"ctx": "menú/texto string_tbl + diálogo uid010c0de4"
+},
+{
+"id": 6044,
+"en": "Cut the crap. Let's go.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6045,
+"en": "This is getting interesting.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6046,
+"en": "Don't fuck with me!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6047,
+"en": "Un-fucking-believable!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6048,
+"en": "Hah! This is nice!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6049,
+"en": "For crap's sake...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6050,
+"en": "Gimme what I need, dammit.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6051,
+"en": "Someone put a stop to this.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6052,
+"en": "I might even win!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6053,
+"en": "Go a little easier on me, eh?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6054,
+"en": "This is so exciting!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6055,
+"en": "Hey, are you asleep?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6056,
+"en": "Hey, pretty good! ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6057,
+"en": "Hmm... Good job.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6058,
+"en": "Aww man... Uh...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6059,
+"en": "That felt good...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6060,
+"en": "Sweet!",
+"ctx": "menú/texto string_tbl + tabla response_roulette|POPUP …"
+},
+{
+"id": 6061,
+"en": "How's that possible!?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6062,
+"en": "I'm starving...",
+"ctx": "menú/texto string_tbl + frase de acompañante/calle STID_ST_NAGOYA"
+},
+{
+"id": 6063,
+"en": "Need a better hand...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6064,
+"en": "I'm gonna win this in one fell swoop.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6065,
+"en": "You got a lot to learn, kid.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6066,
+"en": "I'm just getting started!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6067,
+"en": "This is gonna be a piece of cake.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6068,
+"en": "You're not that bad.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6069,
+"en": "My luck ran out.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6070,
+"en": "You'll never beat me.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6071,
+"en": "I can't accept this...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6072,
+"en": "The tiles I need are close. I can feel it.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6073,
+"en": "Single suit, huh?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6074,
+"en": "What are you waiting for? Hurry up!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6075,
+"en": "Someone tell me a joke.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6076,
+"en": "Haven't gotten a reply back from my daughter...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6077,
+"en": "So what?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6078,
+"en": "We're waitin', dumbass.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6079,
+"en": "That's it!",
+"ctx": "menú/texto string_tbl + frase de acompañante/calle STID_ST_NAGOYA"
+},
+{
+"id": 6080,
+"en": "Y'can't do that...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6081,
+"en": "Time to make you cry.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6082,
+"en": "What a boring game...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6083,
+"en": "Is that all?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6084,
+"en": "It can't end like this.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6085,
+"en": "Heh, that was easy.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6086,
+"en": "Now's not the time to be sleeping!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6087,
+"en": "I can't lose!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6088,
+"en": "Too early to celebrate!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6089,
+"en": "I got skill AND luck.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6090,
+"en": "Crap!",
+"ctx": "menú/texto string_tbl + diálogo uid010c0b96"
+},
+{
+"id": 6091,
+"en": "Don't underestimate us Osakans.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6092,
+"en": "I should get married soon...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6093,
+"en": "Feelin' pretty confident here.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6094,
+"en": "Can't stop me now!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6095,
+"en": "Hurry it up.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6096,
+"en": "I like a good challenge.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6097,
+"en": "That's it! ",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6098,
+"en": "Never gonna get a raise...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6099,
+"en": "My wife'll be home soon.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6100,
+"en": "Got an exam in the new year.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6101,
+"en": "Now that's a good draw.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6102,
+"en": "No way am I giving up.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6103,
+"en": "You're thinking a lot. Good hand?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6104,
+"en": "Gonna win big!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6105,
+"en": "I hate losing!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6106,
+"en": "You can't beat a girl.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6107,
+"en": "Keep it up...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6108,
+"en": "Guess that works.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6109,
+"en": "Don't you make fun of me.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6110,
+"en": "I can do better...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6111,
+"en": "I'm so going to enjoy this.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6112,
+"en": "You should come to my club some time.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6113,
+"en": "Is this table rigged?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6114,
+"en": "This game's all mine.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6115,
+"en": "Time is money, you know.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6116,
+"en": "Getting interesting.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6117,
+"en": "Let's see how it goes.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6118,
+"en": "Tch... Knew this'd happen.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6119,
+"en": "Sorry about the cheap win.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6120,
+"en": "Very good...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6121,
+"en": "Damn...",
+"ctx": "menú/texto string_tbl + diálogo uid01020657 …"
+},
+{
+"id": 6122,
+"en": "I was doin' good though...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6123,
+"en": "Well, it's somethin'.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6124,
+"en": "Gotta take a call.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6125,
+"en": "Don't be so naive.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6126,
+"en": "Hurry it up, yeah?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6127,
+"en": "You're going down.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6128,
+"en": "I'll let you have this one.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6129,
+"en": "This can't be happening...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6130,
+"en": "Sorry for kickin' your ass.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6131,
+"en": "Gotta be careful with this.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6132,
+"en": "Does no one play House anymore?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6133,
+"en": "It's just a game! Geez!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6134,
+"en": "Well that ain't no fun at all.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6135,
+"en": "My mother-in-law's a pain...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6136,
+"en": "Riichi? Seriously?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6137,
+"en": "Hurry it up!",
+"ctx": "menú/texto string_tbl + frase de acompañante/calle STID_ST_SAPPORO"
+},
+{
+"id": 6138,
+"en": "I'm goin' in hard!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6139,
+"en": "Not half bad!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6140,
+"en": "I can't be doin' this!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6141,
+"en": "Billiken-han's blessed me!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6142,
+"en": "Nice, nice!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6143,
+"en": "Why'd ya go n' do that?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6144,
+"en": "But the winds were blowing my way...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6145,
+"en": "Bento for lunch tomorrow.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6146,
+"en": "So immoral...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6147,
+"en": "Time for some fun.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6148,
+"en": "Where'd I go wrong?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6149,
+"en": "This is why I can never quit.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6150,
+"en": "Yes, yes, yes!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6151,
+"en": "Ready fer some fun?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6152,
+"en": "I'll lend ya some cash if ya need it.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6153,
+"en": "Keep goin' at it.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6154,
+"en": "This is why I don't like the people from Tokyo...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6155,
+"en": "Just put somethin' down already!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6156,
+"en": "I want to just cheat!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6157,
+"en": "Don't get ahead of yourself, dummy.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6158,
+"en": "Why ya gettin' all serious?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6159,
+"en": "I'm different from y'all.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6160,
+"en": "Lovin' this.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6161,
+"en": "Should I go for the flashy win?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6162,
+"en": "Think I can make this work.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6163,
+"en": "You're pretty confident, huh?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6164,
+"en": "Wanna get some ramen?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6165,
+"en": "All right, calm down.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6166,
+"en": "Just discard one of your edge tiles.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6167,
+"en": "This might work.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6168,
+"en": "Come on, next.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6169,
+"en": "Say your prayers.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6170,
+"en": "Gonna win it big.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6171,
+"en": "I don't wanna lose this one.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6172,
+"en": "I hate losing...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6173,
+"en": "Calm down, would ya?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6174,
+"en": "Wanna hurry up a little?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6175,
+"en": "Here I go.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6176,
+"en": "Got lucky!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6177,
+"en": "You could've let it slide!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6178,
+"en": "Aww, that was a fluke!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6179,
+"en": "Heh, things're going well.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6180,
+"en": "Gah! This sucks!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6181,
+"en": "I'm 'bout to fly away!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6182,
+"en": "There's this bag I want...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6183,
+"en": "Don't you know a good store?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6184,
+"en": "This ain't workin'...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6185,
+"en": "Thinking won't help.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6186,
+"en": "This is rough...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6187,
+"en": "Idiot!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6188,
+"en": "An email from Akemi?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6189,
+"en": "Let's just end this in a draw.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6190,
+"en": "It's my son's birthday today...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6191,
+"en": "Enough of this.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6192,
+"en": "Are you braindead?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6193,
+"en": "These tiles aren't so great...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6194,
+"en": "Where's my tsumo?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6195,
+"en": "That could've gone better...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6196,
+"en": "All according to my calculations.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6197,
+"en": "Yes, this is good.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6198,
+"en": "You got me...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6199,
+"en": "I'm not giving up.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6200,
+"en": "I do not want to lose.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6201,
+"en": "Gotta find a job.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6202,
+"en": "All right, all right.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6203,
+"en": "This won't do...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6204,
+"en": "Got my luck at least!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6205,
+"en": "Now it's gettin' good!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6206,
+"en": "I don't actually have time to play...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6207,
+"en": "I might be boring, but I'm good.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6208,
+"en": "What the heck?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6209,
+"en": "My bad for the easy win.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6210,
+"en": "Working at a manga café is rough.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6211,
+"en": "Someone find me a part-time job.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6212,
+"en": "But I was doing so well...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6213,
+"en": "Heh. I'll give you a head start.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6214,
+"en": "I have work tomorrow...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6215,
+"en": "Let's not have a draw.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6216,
+"en": "Just need one good tile!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6217,
+"en": "That was pretty good, though.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6218,
+"en": "Gotta have soy sauce with egg rice.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6219,
+"en": "Damn!",
+"ctx": "menú/texto string_tbl + tabla bakuto_en|MSG02 …"
+},
+{
+"id": 6220,
+"en": "Let's just go.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6221,
+"en": "In for another all-nighter!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6222,
+"en": "Here's a freebie for ya.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6223,
+"en": "I don't feel I can lose!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6224,
+"en": "Aw crap!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6225,
+"en": "I got crazy good luck.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6226,
+"en": "Gotta work tomorrow.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6227,
+"en": "Is the lottery even winnable?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6228,
+"en": "Gimme some tea!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6229,
+"en": "My wife's no good...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6230,
+"en": "Got a lot of safe tiles...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6231,
+"en": "I'll teach you some manners.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6232,
+"en": "I'll show you how it's done.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6233,
+"en": "Got to be on my toes...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6234,
+"en": "Trying to make me look bad!?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6235,
+"en": "I'll let you off easy.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6236,
+"en": "Not bad at all!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6237,
+"en": "This isn't fair!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6238,
+"en": "For cryin' out loud!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6239,
+"en": "Time to get serious.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6240,
+"en": "What should I toss?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6241,
+"en": "You're just lucky!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6242,
+"en": "Good!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6243,
+"en": "Time to tighten up.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6244,
+"en": "Gotta get married soon...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6245,
+"en": "Saving money is a hobby of mine.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6246,
+"en": "I'll show you why you'll never beat me.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6247,
+"en": "You're gonna lose, just accept it.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6248,
+"en": "Learn your place.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6249,
+"en": "That was fun.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6250,
+"en": "No tsumo, not now!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6251,
+"en": "I'm so hungry...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6252,
+"en": "I'm damn lucky!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6253,
+"en": "What to do, what to do?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6254,
+"en": "Can't get what I want...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6255,
+"en": "I should probably toss this...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6256,
+"en": "Hehehe. Got it.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6257,
+"en": "Maybe... I can do this.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6258,
+"en": "Let's get started, shall we?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6259,
+"en": "Go easy on me, okay?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6260,
+"en": "Interesting move...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6261,
+"en": "You've got some good strats.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6262,
+"en": "Give up while you still got your pride.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6263,
+"en": "Better prepare yourself.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6264,
+"en": "Think you can beat me?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6265,
+"en": "Thinking isn't going to help.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6266,
+"en": "You're not even close to my level.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6267,
+"en": "Enough already!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6268,
+"en": "You'll regret this!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6269,
+"en": "You're not ready for this.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6270,
+"en": "Whoa, sweet!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6271,
+"en": "Not great...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6272,
+"en": "Luck's a skill, too.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6273,
+"en": "Wanna buy me some cigarettes?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6274,
+"en": "Where's the takoyaki?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6275,
+"en": "Don't think I can lose now.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6276,
+"en": "Man, you're all weak.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6277,
+"en": "Heavens help me!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6278,
+"en": "Time to go.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6279,
+"en": "Got a message.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6280,
+"en": "Just one game.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6281,
+"en": "There goes my pay...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6282,
+"en": "My wife's so annoying.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6283,
+"en": "Maybe I should quit smoking.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6284,
+"en": "I'll play it safe for now.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6285,
+"en": "Aren't you getting too excited?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6286,
+"en": "I'm winning this one.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6287,
+"en": "Don't harsh my groove.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6288,
+"en": "Luck is on my side, baby!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6289,
+"en": "I got work after this...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6290,
+"en": "Hey, that ain't fair!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6291,
+"en": "Didja pass out?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6292,
+"en": "The game's gotta be rigged...",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6293,
+"en": "I love strong guys.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6294,
+"en": "Aw come on!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6295,
+"en": "Oh, no, no!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6296,
+"en": "Woohoo!",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6297,
+"en": "This simply won't do.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6298,
+"en": "Hurry up!",
+"ctx": "menú/texto string_tbl + menú/texto ai_popup"
+},
+{
+"id": 6299,
+"en": "I'm not losing, okay?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6300,
+"en": "That's pretty big.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6301,
+"en": "Wonder who's winning this one?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6302,
+"en": "Can I bum a smoke?",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6303,
+"en": "This sucks.",
+"ctx": "menú/texto string_tbl + frase de acompañante/calle STID_ST_KAMURO"
+},
+{
+"id": 6304,
+"en": "Enough already.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6305,
+"en": "Haven't been eating meat lately.",
+"ctx": "menú/texto string_tbl"
+},
+{
+"id": 6306,
+"en": "Wonder if I can earn a bit of cash.",
+"ctx": "menú/texto string_tbl"
+}
+]

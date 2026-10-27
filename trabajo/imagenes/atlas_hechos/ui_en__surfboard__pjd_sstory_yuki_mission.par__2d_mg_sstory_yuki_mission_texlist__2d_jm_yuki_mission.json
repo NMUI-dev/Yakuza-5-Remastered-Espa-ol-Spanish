@@ -1,0 +1,208 @@
+{
+ "textura": "ui_en/surfboard/pjd_sstory_yuki_mission.par/2d_mg_sstory_yuki_mission_texlist/2d_jm_yuki_mission",
+ "fuente": "segoeuiz.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    344,
+    71,
+    404,
+    92
+   ],
+   "en": "list1",
+   "es": "",
+   "fuente": "segoeuiz.ttf",
+   "alin": "centro",
+   "ancho_max": 56,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 16,
+   "dejar": true
+  },
+  {
+   "caja": [
+    404,
+    71,
+    464,
+    92
+   ],
+   "en": "list2",
+   "es": "",
+   "fuente": "segoeuiz.ttf",
+   "alin": "centro",
+   "ancho_max": 56,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 16,
+   "dejar": true
+  },
+  {
+   "caja": [
+    350,
+    100,
+    396,
+    121
+   ],
+   "en": "list1",
+   "es": "",
+   "fuente": "segoeuiz.ttf",
+   "alin": "centro",
+   "ancho_max": 44,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 16,
+   "fondo": "lama",
+   "dejar": true
+  },
+  {
+   "caja": [
+    410,
+    100,
+    459,
+    121
+   ],
+   "en": "list2",
+   "es": "",
+   "fuente": "segoeuiz.ttf",
+   "alin": "centro",
+   "ancho_max": 47,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 16,
+   "fondo": "lama",
+   "dejar": true
+  },
+  {
+   "caja": [
+    0,
+    84,
+    52,
+    100
+   ],
+   "en": "mission",
+   "es": "Misión",
+   "fuente": "segoeuiz.ttf",
+   "alin": "izq",
+   "ancho_max": 48,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 14
+  },
+  {
+   "caja": [
+    79,
+    74,
+    175,
+    100
+   ],
+   "en": "Select List",
+   "es": "Elegir lista",
+   "fuente": "segoeuii.ttf",
+   "alin": "izq",
+   "ancho_max": 92,
+   "efecto": "nada",
+   "color": [
+    231,
+    231,
+    231
+   ],
+   "alto": 16,
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    177,
+    72,
+    337,
+    96
+   ],
+   "en": "Weapons / Snow Gear",
+   "es": "Armas / Equipo",
+   "fuente": "segoeuiz.ttf",
+   "alin": "izq",
+   "ancho_max": 150,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 18
+  },
+  {
+   "caja": [
+    0,
+    100,
+    64,
+    124
+   ],
+   "en": "Skills",
+   "es": "Técnicas",
+   "fuente": "segoeuiz.ttf",
+   "alin": "izq",
+   "ancho_max": 60,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "alto": 13,
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    64,
+    100,
+    125,
+    124
+   ],
+   "en": "Status",
+   "es": "Estado",
+   "fuente": "segoeuib.ttf",
+   "alin": "izq",
+   "ancho_max": 57,
+   "efecto": "nada",
+   "color": [
+    247,
+    243,
+    247
+   ],
+   "alto": 18,
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    284,
+    102,
+    308,
+    126
+   ],
+   "en": "Done",
+   "es": "",
+   "dejar": true
+  }
+ ]
+}

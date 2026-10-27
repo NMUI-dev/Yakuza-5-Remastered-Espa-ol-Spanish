@@ -1,0 +1,136 @@
+(claude2, 25-10) Revisión a ojo de hojas_ojo2 (522 restantes). «[n] ruta | motivo». Bien: 0-169, 171-184, 186-189, 191-192, 195-198
+[170] pausepar_pause_en/ability/s_sa_001.dds | parche oscuro rectangular sobre el personaje (borrado mal)
+[185] pausepar_pause_en/picture/2d_jm_puri_a3.dds | «Bienvenido a» encima del «Sky Finance» original (se pisan)
+[190] pausepar_pause_en/picture/2d_jm_puri_h3.dds | resto azul del inglés a la izquierda
+[193] pausepar_pause_en/picture/2d_jm_puri_h7.dds | mezcla: «I wish it would rain in Okinawa también.»
+[194] pausepar_pause_en/picture/2d_jm_puri_h8.dds | letra distinta (blanca sin borde rojo) y resto «~(T.T)» del original
+[199] pausepar_pause_en/picture/2d_jm_puri_k5.dds | mezcla: «Love See You ¡para sonreír!»
+[203] pausepar_pause_en/picture/2d_jm_puri_k_kyaba01.dds | «Más fideos / extra duros»: renglones montados y cortados
+[208] pausepar_pause_en/picture/2d_jm_puri_kh03.dds | «Si pones un dedo en» cortado por arriba
+[209] pausepar_pause_en/picture/2d_jm_puri_kh04.dds | mezcla: «Love to S» + «¡Sonríe!» encima
+[210] pausepar_pause_en/picture/2d_jm_puri_kh05.dds | «Es la Haruka Especial...» diminuto + marcas sueltas
+[211] pausepar_pause_en/picture/2d_jm_puri_kh06.dds | mezcla: «The romanc» + «nunca se detiene»
+[212] pausepar_pause_en/picture/2d_jm_puri_kh07.dds | mezcla: «Quiero comer chuletas de miso, too!»
+[220] pausepar_pause_en/picture/2d_jm_puri_sa7.dds | «la montaña» cortado por abajo
+[225] pausepar_pause_en/picture/2d_jm_puri_si3.dds | marcas azules sueltas del inglés
+[227] pausepar_pause_en/picture/2d_jm_puri_si5.dds | mezcla: «Love See You ¡para sonreír!»
+ESTILO (purikura, menor): 201, 219, 221, 228 y 194 en letra blanca SIN el borde de color del original; 207 «Kamurocho» con la letra original
+[235] pausepar_pause_en/picture/2d_yk_map_yukiyama.dds | «Nevado / Montaña» (orden mal): debe ser «Montaña / Nevada»
+[236] pausepar_pause_en/picture/puri_button.dds | «Cerrar Página siguiente» amontonado e ilegible
+[237] pausepar_pause_en/picture/puri_button_bb.dds | «Página anterior / Aceptar» amontonado e ilegible
+[242] pausepar_pause_en/picture/rule_button_bb.dds | «Back» sin traducir (Atrás)
+[243] pausepar_pause_en/picture/rule_chinchiro1.dds | tildes sueltas flotando (restos)
+[247] pausepar_pause_en/picture/rule_cricket_0.dds | «DIANA» encima de la diana; «CLOSE / NO POINT» en inglés
+[249] pausepar_pause_en/picture/rule_darts_cricket_10.dds | etiquetas 1/2/3 aciertos montadas; «1 1 acierto + bono»; «DIANA» encima
+[250] pausepar_pause_en/picture/rule_darts_cricket_11.dds | «DIANA SIMPLE / SINGLE 8 / Cerrado» montados
+menor: [238] rule_01_0 «●Reducir» pegado a la viñeta
+[264] pausepar_pause_en/picture/rule_mjyaku20.dds | «(Kazoe Yakuman)» cortado/montado
+[270] pausepar_pause_en/picture/caption/2d_jm_ac_a1_l_oribie.dds | «OLIVIER» del original cortado bajo «VE A»
+[275] pausepar_pause_en/picture/caption/2d_jm_ac_l_oosakageinou.dds | «OSAKA TALENT» cortado por arriba
+[277] pausepar_pause_en/picture/caption/2d_jm_ac_l_skyfainansuhe.dds | restos del inglés sobre «VE A»
+[313] pausepar_pause_en/picture/mail/2d_yk_kamiyama_tk.dds | bloque negro tapando el mapa arriba a la derecha
+[323] pausepar_taxi_en/taxi/2d_jm_taxi_furumichi.dds | nombre propio redibujado en letra blanca normal: dejar el ORIGINAL
+[324] pausepar_taxi_en/taxi/2d_jm_taxi_kajiwara.dds | ídem (Crash Kajiwara): dejar el ORIGINAL
+[325] pausepar_taxi_en/taxi/2d_jm_taxi_muramatsu.dds | ídem (Tomoaki Muramatsu): dejar el ORIGINAL
+[340] pausepar_tougijyo_en/2d_jm_tougi_okite_ranking.dds | se sale y «a a un rival»: usar la de RESERVA (tres_a_mano.py)
+menor: [330] title_vs_billiards «Billar» en letra lisa (el original «Pool» tiene estilo); [335][339] punto suelto a la derecha
+[418] ui_en/surfboard/pjd_mg_hanafuda01.par/texlist/2d_jm_mg_hanafuda02.dds | «Puntuación combinaciones»: dos tamaños, falta «de» (Combinaciones de puntuación)
+menor: [371] «Acelera» más arriba que el original; [393] «RESULT» sin traducir; [399] «RESULTADOS» en otra letra
+menor: [445][447] taiko «Easy/Normal/Hard» verticales y «1st/2nd Song» sin traducir (en 451/455 sí); [435] doble espacio «Elige la  foto»
+[499] ui_en/surfboard/pjd_sstory_taxi_result.par/texlist_0001/2d_jm_taxi_result.dds | «RESULTS» grande sin traducir (RESULTADOS)
+[504] ui_en/surfboard/pjd_sstory_yakyu_result.par/texlist/2d_yk_yakyu_result.dds | 2.ª «Victory» (grande y desenfocada) sin traducir
+menor: [516] «LEVEL UP»/«Results» sin traducir; [509] «Técnicas» pisa «Misión»; [461] «STRIKE»; [484] «CLOSED»
+FIN hojas_ojo2 (522/522).
+--- hojas_ojo (las 338 de claude1), números de hojas_ojo/lista.json, por el FINAL ---
+[o326] pausepar_taxi_en/taxi/2d_jm_taxi_kiyokawa.dds | nombre redibujado en letra lisa: dejar el ORIGINAL
+[o327] pausepar_tougijyo_en/2d_jm_gp_1sen.dds | «Ronda 1» en letra lisa (debe ser la de pincel como 2d_jm_gp_2sen)
+[o328] pausepar_tougijyo_en/2d_jm_gp_2kaisen.dds | ídem «Ronda 2»
+[o329] pausepar_tougijyo_en/2d_jm_gp_hdeath.dds | ídem «Duelo Mortal 100»
+[o330] pausepar_tougijyo_en/2d_jm_gp_king.dds | ídem «Rey de Reyes»
+[o331] pausepar_tougijyo_en/2d_jm_gp_limited.dds | ídem «Furia Limitada»
+[o332] pausepar_tougijyo_en/2d_jm_gp_ranker.dds | letra lisa + renglones montados y cortados
+[o333] pausepar_tougijyo_en/2d_jm_gp_street.dds | letra lisa + renglones montados y cortados
+[o288] pausepar_pause_en/picture/chact/2d_jm_chact_kyukyoku.dds | «Esencia definitiva» en letra lisa y la copia roja montada (las demás chact van con su letra)
+DUDA (todas igual, coherente): títulos de capítulo con el subtítulo en inglés (THE WANDERER...): ¿decisión de la v1.0? se deja
+[o278] pausepar_pause_en/picture/caption/2d_jm_bc_l_tinpira.dds | rótulo de enemigo ESTIRADO a lo alto (enorme, letra deformada) y se perdió el arco blanco del original
+[o279] pausepar_pause_en/picture/caption/2d_jm_bc_l_yamakasa.dds | rótulo de enemigo ESTIRADO a lo alto (enorme, letra deformada) y se perdió el arco blanco del original
+[o280] pausepar_pause_en/picture/caption/2d_jm_bc_ll_dammy.dds | rótulo de enemigo ESTIRADO a lo alto (enorme, letra deformada) y se perdió el arco blanco del original
+[o281] pausepar_pause_en/picture/caption/2d_jm_bc_s_hosuto.dds | rótulo de enemigo ESTIRADO a lo alto (enorme, letra deformada) y se perdió el arco blanco del original
+[o282] pausepar_pause_en/picture/caption/2d_jm_bc_s_yamanokami.dds | rótulo de enemigo ESTIRADO a lo alto (enorme, letra deformada) y se perdió el arco blanco del original
+[o283] pausepar_pause_en/picture/caption/2d_jm_bc_ss_chinpiramachi.dds | rótulo de enemigo ESTIRADO a lo alto (enorme, letra deformada) y se perdió el arco blanco del original
+[o284] pausepar_pause_en/picture/caption/2d_jm_bc_ss_narikin.dds | rótulo de enemigo ESTIRADO a lo alto (enorme, letra deformada) y se perdió el arco blanco del original
+[o285] pausepar_pause_en/picture/caption/2d_jm_bc_ss_tinpira.dds | rótulo de enemigo ESTIRADO a lo alto (enorme, letra deformada) y se perdió el arco blanco del original
+[o286] pausepar_pause_en/picture/caption/2d_jm_bc_ss_tinpiramachi.dds | rótulo de enemigo ESTIRADO a lo alto (enorme, letra deformada) y se perdió el arco blanco del original
+[o287] pausepar_pause_en/picture/caption/2d_jm_bc_ss_yopparai.dds | rótulo de enemigo ESTIRADO a lo alto (enorme, letra deformada) y se perdió el arco blanco del original
+  (o284 además: «HIJO DE PUTA RICO» suena mal: mejor «RICACHÓN» / término del juego)
+[o255] pausepar_pause_en/picture/caption/2d_jm_bc_boss_yahatabuka.dds | BORROSO (aplastado con desenfoque)
+[o238] pausepar_pause_en/picture/caption/2d_jm_bc_boss_kurosawa.dds | BORROSO (aplastado con desenfoque)
+[o234] pausepar_pause_en/picture/caption/2d_jm_bc_boss_katsuya.dds | «NAOKIKATSUYA» sin espacio
+[o218] pausepar_pause_en/picture/caption/2d_jm_ac_l_tegatawo.dds | BORROSO
+[o219] pausepar_pause_en/picture/caption/2d_jm_ac_oe_saigou.dds | «321» desaparecido y PERSIGUE A SAIGO estirado gigante
+[o203] pausepar_pause_en/picture/caption/2d_jm_ac_321_nigero.dds | «321» desaparecido y ¡HUYE! estirado gigante
+[o204] pausepar_pause_en/picture/caption/2d_jm_ac_321_oe.dds | «321» desaparecido y ¡PERSÍGUELOS! estirado gigante
+[o192] pausepar_pause_en/picture/rule_poker_yaku0.dds | PÁGINA: renglón diminuto + mezcla
+[o193] pausepar_pause_en/picture/rule_poker_yaku1.dds | PÁGINA: renglones diminutos/perdidos
+[o194] pausepar_pause_en/picture/rule_poker_yaku2.dds | PÁGINA: diminuto + «Escalera de color» repetido
+[o195] pausepar_pause_en/picture/rule_poker_yaku3.dds | PÁGINA: diminuto + reglas desplazadas
+[o196] pausepar_pause_en/picture/rule_roulette_kou0.dds | PÁGINA: falta texto (Básica sin descripción)
+[o197] pausepar_pause_en/picture/rule_roulette_kou1.dds | PÁGINA: diminuto + «2 a 1» sueltos
+[o198] pausepar_pause_en/picture/rule_roulette_kou2.dds | PÁGINA: diminuto + sueltos
+[o199] pausepar_pause_en/picture/rule_shougi0.dds | PÁGINA: renglones perdidos/diminutos («Rey» suelto)
+[o200] pausepar_pause_en/picture/rule_shougi1.dds | PÁGINA: diminuto + «Promoted Silver» sin traducir
+[o201] pausepar_pause_en/picture/rule_shougi4.dds | PÁGINA: renglones mal partidos
+[o190] pausepar_pause_en/picture/rule_poker1.dds | PÁGINA: renglón diminuto ilegible
+[o191] pausepar_pause_en/picture/rule_poker_pai1.dds | PÁGINA: renglones diminutos
+[o160] pausepar_pause_en/picture/rule_kabu2.dds | PÁGINA: renglón diminuto
+[o161] pausepar_pause_en/picture/rule_kabu3.dds | PÁGINA: «a» suelta
+[o163] pausepar_pause_en/picture/rule_kabu8.dds | PÁGINA: flechas desplazadas
+[o166] pausepar_pause_en/picture/rule_mjrule11.dds | PÁGINA: rojo de pon/chi/kan mal puesto
+[o167] pausepar_pause_en/picture/rule_mjrule13.dds | PÁGINA: «If Si» mezcla
+[o169] pausepar_pause_en/picture/rule_mjrule17.dds | PÁGINA: «1 1 yaku» + renglón diminuto
+[o170] pausepar_pause_en/picture/rule_mjrule2.dds | PÁGINA: «Nota: El pavo real» -> «El pavo real» mal
+[o171] pausepar_pause_en/picture/rule_mjrule3.dds | PÁGINA: Dragones diminuto + «White, Green, Red» sin traducir
+[o174] pausepar_pause_en/picture/rule_mjyaku02.dds | PÁGINA: Ippatsu diminuto + Trío de dragones repetido
+[o183] pausepar_pause_en/picture/rule_mjyaku15.dds | PÁGINA: «Tsuuiisou» tachado/borroso
+[o185] pausepar_pause_en/picture/rule_mjyaku17.dds | PÁGINA: «Shousuushii» tachado
+[o188] pausepar_pause_en/picture/rule_mjyaku21.dds | PÁGINA: «Suu Ankou Tanki» tachado
+[o189] pausepar_pause_en/picture/rule_mjyaku22.dds | PÁGINA: «Junsei Chuuren» tachado
+[o144] pausepar_pause_en/picture/rule_h_dance_battle3.dds | PÁGINA: título diminuto + falta texto
+[o147] pausepar_pause_en/picture/rule_h_live_battle4.dds | PÁGINA: renglón diminuto + CLIMAX HEAT suelto
+[o149] pausepar_pause_en/picture/rule_hanafuda1.dds | PÁGINA: «If Si» mezcla
+[o142] pausepar_pause_en/picture/rule_h_dance_battle0.dds | PÁGINA: diminuto + renglones perdidos
+[o135] pausepar_pause_en/picture/rule_darts_countup_0.dds | «DAF» suelto bajo el texto
+[o137] pausepar_pause_en/picture/rule_darts_cricket_01.dds | texto encima del marcador (como cricket_05)
+[o141] pausepar_pause_en/picture/rule_darts_cricket_09.dds | texto encima del marcador (como cricket_05)
+[o139] pausepar_pause_en/picture/rule_darts_cricket_06.dds | = cricket_06: usar la de RESERVA
+[o114] pausepar_pause_en/picture/rule_baccarat_s_2.dds | PÁGINA: «1 1.» doble
+[o115] pausepar_pause_en/picture/rule_baccarat_s_3.dds | tabla: «del jugador» se sale de la casilla
+[o116] pausepar_pause_en/picture/rule_baccarat_s_4.dds | tabla: cabecera diminuta y se sale
+[o117] pausepar_pause_en/picture/rule_baccarat_s_5.dds | tabla: «de la banca» se sale
+[o108] pausepar_pause_en/picture/rule_baccarat3.dds | tabla: «del jugador» se sale
+[o109] pausepar_pause_en/picture/rule_baccarat4.dds | tabla: cabecera diminuta y se sale
+[o110] pausepar_pause_en/picture/rule_baccarat5.dds | tabla: «de la banca» se sale
+[o111] pausepar_pause_en/picture/rule_baccarat6.dds | PÁGINA: título diminuto + falta texto
+[o123] pausepar_pause_en/picture/rule_billiards06.dds | PÁGINA: lista diminuta + Carom/Kiss Shot sin traducir
+[o121] pausepar_pause_en/picture/rule_billiards03.dds | PÁGINA: «If Si» + renglones diminutos
+[o97] pausepar_pause_en/picture/2d_yk_sstory_e09_memo01q.dds | nota cortada por la derecha
+[o98] pausepar_pause_en/picture/2d_yk_sstory_e09_memo02a.dds | nota cortada
+[o99] pausepar_pause_en/picture/2d_yk_sstory_e09_memo02q.dds | nota cortada
+[o101] pausepar_pause_en/picture/puri_haruka.dds | «Haruka Sawamur» cortado (y nombres en letra distinta: dejar original)
+[o100] pausepar_pause_en/picture/puri_akiyama.dds | nombre propio redibujado: dejar ORIGINAL
+[o102] pausepar_pause_en/picture/puri_kiryu.dds | ídem
+[o103] pausepar_pause_en/picture/puri_shinada.dds | ídem
+[o104] pausepar_pause_en/picture/puri_text.dds | «Elegir   Foto para reemplazar» separado
+[o57-o95] SERIE pausepar_pause_en/picture/2d_yk_mgs_*.dds (39 guías de controles) | fallos de serie: etiqueta izquierda larga
+  invade la columna del botón («Salir del minijuego» pisa «Botón del panel táctil», «Mover» pisa «Joystick izq.», «Restablecer
+  cámara» bajo «Botón L2» gigante); «Botón» SIN su símbolo (□); «□+con stick» con cuadro vacío (falta glifo); «JUMP» sin
+  traducir (chase2); textos de la derecha que se salen de su barra. REHACER la serie entera con una regla común.
+[o48] pausepar_pause_en/picture/2d_jm_puri_k02.dds | «Kiryu-san ♥ Riku» todo emborronado y montado
+[o44] pausepar_pause_en/picture/2d_jm_puri_a2.dds | letra lisa y sin borde (original: rótulo de pegatina con borde)
+[o45] pausepar_pause_en/picture/2d_jm_puri_h6.dds | «Es la Haruka» encima de restos del inglés «special! Food's up!»
+[o46] pausepar_pause_en/picture/2d_jm_puri_h9.dds | letra lisa con mancha de borde
+[o47] pausepar_pause_en/picture/2d_jm_puri_k8.dds | letra lisa sin borde + restos a la derecha
+[o32-o56] SERIE 2d_jm_mgs_* y 2d_mn_mgs_* (guías de controles): mismos fallos de serie que o57-o95 (etiquetas montadas en la columna del botón)
+[o11] bootpar_boot_en/boot_en/ifc_jimaku_watase_en.dds | nombre propio en letra lisa: dejar ORIGINAL
+[o13-o31] SERIE 2d_jm_mgs_* (guías de controles): mismos fallos de serie
+FIN hojas_ojo (338/338) por claude2. TODO EL Y5 REVISADO A OJO (905/905).
