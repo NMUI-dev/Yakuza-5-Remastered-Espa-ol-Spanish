@@ -2,7 +2,7 @@
 
 ## Para jugar / To play
 
-**No descargues el código (botón verde «Code»): no trae la traducción lista.** Descarga el zip de la última versión en **[Releases](https://github.com/NMUI-dev/Yakuza-5-Remastered-Espa-ol-Spanish/releases/latest)** (`Yakuza 5 - Traduccion al espanol v1.0.1.zip`), descomprímelo en una carpeta, haz doble clic en **`INSTALAR o QUITAR.bat`** y escribe `1` (instalar). El instalador encuentra el juego de Steam solo y guarda una copia de los archivos originales para poder quitarla. Lee el `LEEME.txt` del zip.
+**No descargues el código (botón verde «Code»): no trae la traducción lista.** Descarga el zip de la última versión en **[Releases](https://github.com/NMUI-dev/Yakuza-5-Remastered-Espa-ol-Spanish/releases/latest)** (`Yakuza.5.-.Traduccion.al.espanol.v1.0.1.zip`), descomprímelo en una carpeta, haz doble clic en **`INSTALAR o QUITAR.bat`** y escribe `1` (instalar). El instalador encuentra el juego de Steam solo y guarda una copia de los archivos originales para poder quitarla. Lee el `LEEME.txt` del zip.
 
 *Do not download the source (green «Code» button): it does not contain the ready translation.* Get the zip from **[Releases](https://github.com/NMUI-dev/Yakuza-5-Remastered-Espa-ol-Spanish/releases/latest)**, unzip it into a folder, double-click **`INSTALAR o QUITAR.bat`** and type `1` (install). The installer finds the Steam game by itself and backs up the original files so it can be removed.
 
