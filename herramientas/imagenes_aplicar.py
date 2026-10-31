@@ -9,9 +9,9 @@ aplicar.py lo llama al final, así el orden siempre es textos → imágenes.   p
 import os, re, sys, shutil, subprocess, collections
 R = os.path.dirname(os.path.dirname(os.path.abspath(__file__))); T = os.path.join(R, 'trabajo')
 PT = os.path.join(R, 'herramientas', 'partool', 'ParTool.exe')
-JUEGO = 'D:/SteamLibrary/steamapps/common/Yakuza 5/main/data'
+JUEGO = os.environ.get('Y5_JUEGO', 'D:/SteamLibrary/steamapps/common/Yakuza 5/main/data')   # (30-10) otra carpeta: variable de entorno Y5_JUEGO
 # (21-10) si la traducción está INSTALADA en Steam, el «original» ya no lo es: parar (quitarla antes con el instalador)
-if os.path.exists('D:/SteamLibrary/steamapps/common/Yakuza 5/main/data/traduccion_es_version.txt'):
+if os.path.exists(os.path.join(os.environ.get('Y5_JUEGO', 'D:/SteamLibrary/steamapps/common/Yakuza 5/main/data'), 'traduccion_es_version.txt')):
     sys.exit('La traducción está instalada en Steam: quítala (INSTALAR o QUITAR.bat, opción 2) antes de rearmar.')
 RAICES = {'ui_en': ('2dpar/ui_en.par', os.path.join(T, 'extraido', '2dpar_ui_en')),
           'sprite_en': ('2dpar/sprite_en.par', os.path.join(T, 'extraido', '2dpar_sprite_en')),

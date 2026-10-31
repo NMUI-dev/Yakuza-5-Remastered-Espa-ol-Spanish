@@ -18,9 +18,9 @@ import msg_y5, tabla_y5
 R = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 T = os.path.join(R, 'trabajo'); E = os.path.join(T, 'extraido'); L = os.path.join(T, 'lotes')
 SAL = os.path.join(T, 'salida'); TMP = os.path.join(T, 'salida_tmp')
-JUEGO = 'D:/SteamLibrary/steamapps/common/Yakuza 5/main/data'
+JUEGO = os.environ.get('Y5_JUEGO', 'D:/SteamLibrary/steamapps/common/Yakuza 5/main/data')   # (30-10) otra carpeta: variable de entorno Y5_JUEGO
 # (21-10) si la traducción está INSTALADA en Steam, el «original» ya no lo es: parar (quitarla antes con el instalador)
-if os.path.exists('D:/SteamLibrary/steamapps/common/Yakuza 5/main/data/traduccion_es_version.txt'):
+if os.path.exists(os.path.join(os.environ.get('Y5_JUEGO', 'D:/SteamLibrary/steamapps/common/Yakuza 5/main/data'), 'traduccion_es_version.txt')):
     sys.exit('La traducción está instalada en Steam: quítala (INSTALAR o QUITAR.bat, opción 2) antes de rearmar.')
 PT = os.path.join(R, 'herramientas', 'partool', 'ParTool.exe')
 PRUEBA = '--prueba' in sys.argv

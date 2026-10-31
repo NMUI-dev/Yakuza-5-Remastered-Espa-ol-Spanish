@@ -11,12 +11,12 @@ método «ptr» de aplicar.py: el español se añade al final del archivo y se r
 import json, os, re, struct, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 R = os.path.dirname(os.path.dirname(os.path.abspath(__file__))); T = os.path.join(R, 'trabajo')
-JUEGO = 'D:/SteamLibrary/steamapps/common/Yakuza 5/main/data/db.devil/en'
+JUEGO = os.path.join(os.environ.get('Y5_JUEGO', 'D:/SteamLibrary/steamapps/common/Yakuza 5/main/data'), 'db.devil', 'en')
 # (21-10) mejor la copia de los originales (Steam pudo quedar con la traducción de una prueba)
 if os.path.exists(os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'trabajo', 'originales', 'db.devil', 'en', 'msg.bin')):
     JUEGO = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'trabajo', 'originales', 'db.devil', 'en')
 # (21-10) si la traducción está INSTALADA en Steam, el «original» ya no lo es: parar (quitarla antes con el instalador)
-if os.path.exists('D:/SteamLibrary/steamapps/common/Yakuza 5/main/data/traduccion_es_version.txt'):
+if os.path.exists(os.path.join(os.environ.get('Y5_JUEGO', 'D:/SteamLibrary/steamapps/common/Yakuza 5/main/data'), 'traduccion_es_version.txt')):
     sys.exit('La traducción está instalada en Steam: quítala (INSTALAR o QUITAR.bat, opción 2) antes de rearmar.')
 D = os.path.join(T, 'devil'); TXT = os.path.join(D, 'textos.json'); ES = os.path.join(D, 'es.json')
 # msg_replacer.bin y middle_file_reactor_name.bin = nombres INTERNOS de desarrollo (traducción literal de las etiquetas

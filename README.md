@@ -6,6 +6,8 @@
 
 *Do not download the source (green «Code» button): it does not contain the ready translation.* Get the zip from **[Releases](https://github.com/NMUI-dev/Yakuza-5-Remastered-Espa-ol-Spanish/releases/latest)**, unzip it into a folder, double-click **`INSTALAR o QUITAR.bat`** and type `1` (install). The installer finds the Steam game by itself and backs up the original files so it can be removed.
 
+**Para compilarla tú mismo:** guía paso a paso en español en **[COMPILAR.md](COMPILAR.md)**. **`PREPARAR TODO.bat`** descarga de una vez todo lo necesario (Python, ParTool, reARMP, texconv y las fuentes), comprobando cada archivo.
+
 The rest of this page is the source code, for people who want to rebuild or check the mod.
 
 Source code and translation data for the fan-made Spanish (Latin American neutral) translation of
@@ -71,8 +73,8 @@ entrega/                      installer + optional translation tools, as shipped
 ## How to build
 
 Clone the repository to `C:\Mods\yakuza5` (several scripts have that working folder hard-coded) and run everything
-from there in Git Bash. The game folder is set in `herramientas/aplicar.py` (`JUEGO = .../Yakuza 5/main/data`):
-change it if your Steam library is elsewhere. The game must be the **original** (uninstall the translation first:
+from there in Git Bash. The game's `main/data` folder is read from the environment variable `Y5_JUEGO`
+(e.g. `export Y5_JUEGO="C:/Program Files (x86)/Steam/steamapps/common/Yakuza 5/main/data"`). The game must be the **original** (uninstall the translation first:
 `aplicar.py` refuses to run if it finds it installed).
 
 ### 1. Unpack the original files
