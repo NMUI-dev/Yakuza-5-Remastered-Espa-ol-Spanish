@@ -6,6 +6,8 @@
 
 *Do not download the source (green «Code» button): it does not contain the ready translation.* Get the zip from **[Releases](https://github.com/NMUI-dev/Yakuza-5-Remastered-Espa-ol-Spanish/releases/latest)**, unzip it into a folder, double-click **`INSTALAR o QUITAR.bat`** and type `1` (install). The installer finds the Steam game by itself and backs up the original files so it can be removed.
 
+**¿Vas a traducir otro Yakuza?** Lee **[LECCIONES_PARA_TRADUCTORES.md](LECCIONES_PARA_TRADUCTORES.md)**: dónde guarda texto el juego, las trampas que encontramos y cómo sacar los términos oficiales en español latino de Kiwami, Kiwami 2, Kiwami 3 y Yakuza 0 Director's Cut.
+
 **Para compilarla tú mismo:** guía paso a paso en español en **[COMPILAR.md](COMPILAR.md)**. **`PREPARAR TODO.bat`** descarga de una vez todo lo necesario (Python, ParTool, reARMP, texconv y las fuentes), comprobando cada archivo.
 
 The rest of this page is the source code, for people who want to rebuild or check the mod.
@@ -41,6 +43,7 @@ include ParTool: the user downloads it (see below).
 
 ```
 herramientas/                 our build scripts (Python 3 + a few bash scripts)
+LECCIONES_PARA_TRADUCTORES.md lessons for other translators (Spanish)
 trabajo/lotes/                the translation: lote_NNN.json (English) + lote_NNN_es.json (Spanish), indice.json
                               (where every text lives in the game files), GUIA_TRADUCCION.md, glosario_vivo.md
 trabajo/habilidades_clases.json
