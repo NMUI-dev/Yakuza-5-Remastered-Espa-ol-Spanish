@@ -11,9 +11,17 @@ R = os.path.dirname(os.path.dirname(os.path.abspath(__file__))); T = os.path.joi
 PT = os.path.join(R, 'herramientas', 'partool', 'ParTool.exe')
 S = 'D:/SteamLibrary/steamapps/common'
 # juego: (carpeta data, letra inglés, letra latino, carpeta db inglés, carpeta db latino)
+# (01-11) los juegos se desinstalan después de copiar sus archivos de idioma a trabajo/saga/raw/<juego>
+# (misma estructura que su carpeta data): se usa la copia si existe; si no, el juego instalado
+RAW = os.path.join(T, 'saga', 'raw')
+
+
+def fuente(juego, data):
+    return os.path.join(RAW, juego) if os.path.isdir(os.path.join(RAW, juego)) else data
+
+
 JUEGOS = {
     'kiwami': (S + '/Yakuza Kiwami R/runtime/media/data', 'c', 'l', 'db.nex/en', 'db.nex/ls'),
-    'kiwami2': (S + '/Yakuza Kiwami 2 R/runtime/media/data', 'c', 'l', 'db.nex/en', 'db.nex/ls'),
     'yakuza0': (S + '/Yakuza 0 Directors Cut/runtime/media/data', 'c', 'l', 'db.gld/en', 'db.gld/ls'),   # Kamurocho y Sotenbori
 }
 # motor nuevo (Kiwami 3 & Dark Ties): un .par por idioma; «esl» = español latino («ese» = España)
@@ -71,6 +79,8 @@ def tabla_armp(p):
         if not os.path.exists(c): shutil.copy2(p, c)
         p = c
     j = p + '.json'
+    # (01-11) tablas sin FRASES (sonido, IA, cámaras: claves internas) no se exportan: reARMP tardaba >7 min en una
+    if not os.path.exists(j) and len(re.findall(rb'[A-Za-z]{2,} [A-Za-z]{2,}', open(p, 'rb').read())) < 3: return {}
     if not os.path.exists(j):      # (reARMP deja el .json en la carpeta DESDE la que se ejecuta: cwd = la de la tabla)
         subprocess.run([sys.executable, REARMP, os.path.basename(p)], input=b'\n', capture_output=True, timeout=900,
                        cwd=os.path.dirname(p))
@@ -104,10 +114,12 @@ def main(juego):
         rl = os.path.join(os.path.dirname(raiz), ll)
         fl = {os.path.relpath(os.path.join(dp, f), rl).replace(os.sep, '/'): os.path.join(dp, f) for dp, _, fs in os.walk(rl) for f in fs}
     elif juego in JUEGOS_PAR:
-        fe = {os.path.basename(e).replace('.en.', '.'): e for e, _ in JUEGOS_PAR[juego]}
-        fl = {os.path.basename(e).replace('.en.', '.'): l for e, l in JUEGOS_PAR[juego]}
+        cp = lambda q: os.path.join(RAW, juego, os.path.basename(q)) if os.path.exists(os.path.join(RAW, juego, os.path.basename(q))) else q
+        fe = {os.path.basename(e).replace('.en.', '.'): cp(e) for e, _ in JUEGOS_PAR[juego]}
+        fl = {os.path.basename(e).replace('.en.', '.'): cp(l) for e, l in JUEGOS_PAR[juego]}
     else:
         data, le, ll, de, dl = JUEGOS[juego]
+        data = fuente(juego, data)
         fe, fl = archivos(data, le, de), archivos(data, ll, dl)
     comunes = sorted(set(fe) & set(fl))
     print(juego, 'contenedores en inglés', len(fe), 'en latino', len(fl), 'comunes', len(comunes))

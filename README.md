@@ -2,7 +2,7 @@
 
 ## Para jugar / To play
 
-**No descargues el código (botón verde «Code»): no trae la traducción lista.** Descarga el zip de la última versión en **[Releases](https://github.com/NMUI-dev/Yakuza-5-Remastered-Espa-ol-Spanish/releases/latest)** (`Yakuza.5.-.Traduccion.al.espanol.v1.0.2.zip`), descomprímelo en una carpeta, haz doble clic en **`INSTALAR o QUITAR.bat`** y escribe `1` (instalar). El instalador encuentra el juego de Steam solo y guarda una copia de los archivos originales para poder quitarla. Lee el `LEEME.txt` del zip.
+**No descargues el código (botón verde «Code»): no trae la traducción lista.** Descarga el zip de la última versión en **[Releases](https://github.com/NMUI-dev/Yakuza-5-Remastered-Espa-ol-Spanish/releases/latest)** (`Yakuza.5.-.Traduccion.al.espanol.v1.0.3.zip`), descomprímelo en una carpeta, haz doble clic en **`INSTALAR o QUITAR.bat`** y escribe `1` (instalar). El instalador encuentra el juego de Steam solo y guarda una copia de los archivos originales para poder quitarla. Lee el `LEEME.txt` del zip.
 
 *Do not download the source (green «Code» button): it does not contain the ready translation.* Get the zip from **[Releases](https://github.com/NMUI-dev/Yakuza-5-Remastered-Espa-ol-Spanish/releases/latest)**, unzip it into a folder, double-click **`INSTALAR o QUITAR.bat`** and type `1` (install). The installer finds the Steam game by itself and backs up the original files so it can be removed.
 
@@ -13,7 +13,7 @@
 The rest of this page is the source code, for people who want to rebuild or check the mod.
 
 Source code and translation data for the fan-made Spanish (Latin American neutral) translation of
-*Yakuza 5 Remastered* (Steam, PC). Release v1.0.2.
+*Yakuza 5 Remastered* (Steam, PC). Release v1.0.3.
 
 **This repository contains no game files.** Everything here is our own scripts, the translated text and the
 specifications used to redraw in-image text. To build the mod you need your own copy of the game from Steam.
@@ -156,6 +156,18 @@ Exact English matches are used first; the fuzzy match (tags and spaces ignored) 
 spaces the original line does not have. The translation tools (`entrega/Herramientas para traduccion`) now extract
 and apply these texts too (`datos/textos_extra.json`); with no edits they reproduce the release text exactly
 (`herramientas/comparar_textos.py`: 0 differences in 187,523 texts).
+
+### 5. v1.0.3: official Latin American Spanish terms
+
+```bash
+python herramientas/glosario_saga.py kiwami2 | kiwami | kiwami3 | yakuza0   # read-only: EN <-> official LATAM pairs
+python herramientas/terminos_v103.py     # texts we left in English that the series translates -> trabajo/saga/cambios_v103.json
+python herramientas/aplicar_v103.py      # applies the chosen ones to the lots (31 texts)
+```
+
+The v1.0.3 game files are built with the translation tools themselves (`entrega/Herramientas para traduccion`,
+`herramienta_traduccion.py extraer` + `aplicar --a-archivos`) from the original English files; then
+`comparar_original.py <data>` (0 failures in 35 files). Heat, DEALER and HOME RUN stay as the user decided.
 
 ## Testing
 

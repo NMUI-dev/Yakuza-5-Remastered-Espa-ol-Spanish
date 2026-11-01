@@ -136,6 +136,17 @@ python herramientas/comparar_original.py # comparación con el juego ORIGINAL: n
 
 La v1.0.2 es `entrega_v101/archivos/data` con `trabajo/salida_v102/data` copiado encima.
 
+## 6c. v1.0.3 (términos oficiales de la saga)
+
+```bash
+python herramientas/glosario_saga.py yakuza0     # (y kiwami, kiwami2, kiwami3): pares inglés <-> español latino oficial
+python herramientas/terminos_v103.py              # lo que dejamos en inglés y la saga traduce
+python herramientas/aplicar_v103.py               # aplica los elegidos a los lotes
+```
+
+Los archivos del juego de la v1.0.3 se arman con la propia herramienta para traducir (`EXTRAER` + `APLICAR`) a partir
+de los originales en inglés, y se comprueban con `python herramientas/comparar_original.py <carpeta data>`.
+
 ## 7. Armar el mod
 
 La carpeta `entrega_v101/archivos/data` junto con los archivos de `entrega/` (dentro, `archivos/data`) es el mod:

@@ -1733,7 +1733,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid00xxxxxx/uid000212be.msg",
 "ptr": 2616,
 "t": "Bartender",
-"es": "Bartender"
+"es": "Cantinero"
 },
 {
 "f": "nom",
@@ -7802,7 +7802,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid00xxxxxx/uid000c0c76.msg",
 "ptr": 2820,
 "t": "Hide",
-"es": "Hide"
+"es": "Ocultar"
 },
 {
 "f": "nom",
@@ -16734,7 +16734,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid00xxxxxx/uid00330016.msg",
 "ptr": 2364,
 "t": "Bartender",
-"es": "Bartender"
+"es": "Cantinero"
 },
 {
 "f": "nom",
@@ -18267,7 +18267,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid00xxxxxx/uid00330444.msg",
 "ptr": 4236,
 "t": "Bartender",
-"es": "Bartender"
+"es": "Cantinero"
 },
 {
 "f": "nom",
@@ -21690,7 +21690,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid00xxxxxx/uid0033072f.msg",
 "ptr": 1468,
 "t": "Mama",
-"es": "Mama"
+"es": "Mamá"
 },
 {
 "f": "nom",
@@ -21704,7 +21704,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid00xxxxxx/uid00330764.msg",
 "ptr": 1344,
 "t": "Bartender",
-"es": "Bartender"
+"es": "Cantinero"
 },
 {
 "f": "nom",
@@ -24476,7 +24476,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid00xxxxxx/uid00490126.msg",
 "ptr": 15068,
 "t": "Bartender",
-"es": "Bartender"
+"es": "Cantinero"
 },
 {
 "f": "nom",
@@ -27500,7 +27500,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid00xxxxxx/uid00690560.msg",
 "ptr": 4808,
 "t": "Bartender",
-"es": "Bartender"
+"es": "Cantinero"
 },
 {
 "f": "nom",
@@ -27584,7 +27584,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid00xxxxxx/uid00690575.msg",
 "ptr": 4796,
 "t": "Bartender",
-"es": "Bartender"
+"es": "Cantinero"
 },
 {
 "f": "nom",
@@ -27668,7 +27668,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid00xxxxxx/uid00690589.msg",
 "ptr": 4780,
 "t": "Bartender",
-"es": "Bartender"
+"es": "Cantinero"
 },
 {
 "f": "nom",
@@ -29355,7 +29355,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid01020aff.msg",
 "ptr": 18744,
 "t": "Mama",
-"es": "Mama"
+"es": "Mamá"
 },
 {
 "f": "nom",
@@ -29817,14 +29817,14 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid01020b6c.msg",
 "ptr": 57020,
 "t": "Date",
-"es": "Date"
+"es": "Fecha"
 },
 {
 "f": "nom",
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid01020b6c.msg",
 "ptr": 57652,
 "t": "Mama",
-"es": "Mama"
+"es": "Mamá"
 },
 {
 "f": "nom",
@@ -29859,7 +29859,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid01020b89.msg",
 "ptr": 11864,
 "t": "Mama",
-"es": "Mama"
+"es": "Mamá"
 },
 {
 "f": "nom",
@@ -30622,7 +30622,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid01020d10.msg",
 "ptr": 15396,
 "t": "Bartender",
-"es": "Bartender"
+"es": "Cantinero"
 },
 {
 "f": "nom",
@@ -31014,14 +31014,14 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid01020dff.msg",
 "ptr": 10060,
 "t": "Date",
-"es": "Date"
+"es": "Fecha"
 },
 {
 "f": "nom",
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid01020dff.msg",
 "ptr": 10072,
 "t": "Mama",
-"es": "Mama"
+"es": "Mamá"
 },
 {
 "f": "nom",
@@ -31133,7 +31133,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid010210ff.msg",
 "ptr": 3392,
 "t": "Bartender",
-"es": "Bartender"
+"es": "Cantinero"
 },
 {
 "f": "nom",
@@ -31203,7 +31203,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid01021100.msg",
 "ptr": 3392,
 "t": "Bartender",
-"es": "Bartender"
+"es": "Cantinero"
 },
 {
 "f": "nom",
@@ -31273,7 +31273,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid01021104.msg",
 "ptr": 3392,
 "t": "Bartender",
-"es": "Bartender"
+"es": "Cantinero"
 },
 {
 "f": "nom",
@@ -34031,7 +34031,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid01040274.msg",
 "ptr": 4656,
 "t": "Hide",
-"es": "Hide"
+"es": "Ocultar"
 },
 {
 "f": "nom",
@@ -34248,7 +34248,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid01070988.msg",
 "ptr": 196,
 "t": "Bartender",
-"es": "Bartender"
+"es": "Cantinero"
 },
 {
 "f": "nom",
@@ -34262,7 +34262,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid01070989.msg",
 "ptr": 488,
 "t": "Hide",
-"es": "Hide"
+"es": "Ocultar"
 },
 {
 "f": "nom",
@@ -42046,7 +42046,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid010c0c75.msg",
 "ptr": 19824,
 "t": "Hide",
-"es": "Hide"
+"es": "Ocultar"
 },
 {
 "f": "nom",
@@ -79314,7 +79314,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid0169043b.msg",
 "ptr": 196,
 "t": "Bartender",
-"es": "Bartender"
+"es": "Cantinero"
 },
 {
 "f": "nom",
@@ -79328,7 +79328,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid0169043c.msg",
 "ptr": 488,
 "t": "Hide",
-"es": "Hide"
+"es": "Ocultar"
 },
 {
 "f": "nom",
@@ -79468,14 +79468,14 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid0169043d.msg",
 "ptr": 4656,
 "t": "Hide",
-"es": "Hide"
+"es": "Ocultar"
 },
 {
 "f": "nom",
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid01690467.msg",
 "ptr": 196,
 "t": "Bartender",
-"es": "Bartender"
+"es": "Cantinero"
 },
 {
 "f": "nom",
@@ -79489,7 +79489,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid01690468.msg",
 "ptr": 488,
 "t": "Hide",
-"es": "Hide"
+"es": "Ocultar"
 },
 {
 "f": "nom",
@@ -79629,7 +79629,7 @@
 "a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid01690469.msg",
 "ptr": 4656,
 "t": "Hide",
-"es": "Hide"
+"es": "Ocultar"
 },
 {
 "f": "nom",
@@ -94616,7 +94616,7 @@
 "off": 21093,
 "ptr": 26172,
 "t": "Bartender",
-"es": "Bartender"
+"es": "Cantinero"
 },
 {
 "f": "rep",
@@ -101656,7 +101656,7 @@
 "off": 69865,
 "ptr": 70892,
 "t": "Beginner",
-"es": "Beginner"
+"es": "Principiante"
 },
 {
 "f": "rep",
@@ -113752,7 +113752,7 @@
 "off": 247225,
 "ptr": 254668,
 "t": "M Store Kamurocho",
-"es": "M Store Kamurocho"
+"es": "Tienda M Kamurocho"
 },
 {
 "f": "rep",
@@ -113832,7 +113832,7 @@
 "off": 247380,
 "ptr": 254708,
 "t": "Dragon Palace",
-"es": "Dragon Palace"
+"es": "Palacio del Dragón"
 },
 {
 "f": "rep",
@@ -113848,7 +113848,7 @@
 "off": 247410,
 "ptr": 254716,
 "t": "Mach Bowl",
-"es": "Mach Bowl"
+"es": "Bolos Mach"
 },
 {
 "f": "rep",
@@ -113904,7 +113904,7 @@
 "off": 247520,
 "ptr": 254744,
 "t": "Le Marche",
-"es": "Le Marche"
+"es": "Le Marché"
 },
 {
 "f": "rep",
@@ -113968,7 +113968,7 @@
 "off": 247602,
 "ptr": 254776,
 "t": "Little Asia",
-"es": "Little Asia"
+"es": "Pequeña Asia"
 },
 {
 "f": "rep",
@@ -116600,7 +116600,7 @@
 "off": 253707,
 "ptr": 256100,
 "t": "M Store Sotenbori",
-"es": "M Store Sotenbori"
+"es": "Tienda M Sotenbori"
 },
 {
 "f": "rep",
@@ -116608,7 +116608,7 @@
 "off": 253725,
 "ptr": 256104,
 "t": "M Store Shofukucho",
-"es": "M Store Shofukucho"
+"es": "Tienda M Shofukucho"
 },
 {
 "f": "rep",
@@ -117848,7 +117848,7 @@
 "off": 872211,
 "ptr": 876700,
 "t": "Le Marche",
-"es": "Le Marche"
+"es": "Le Marché"
 },
 {
 "f": "rep",
@@ -117880,7 +117880,7 @@
 "off": 872263,
 "ptr": 876716,
 "t": "Dragon Palace",
-"es": "Dragon Palace"
+"es": "Palacio del Dragón"
 },
 {
 "f": "rep",
@@ -117944,7 +117944,7 @@
 "off": 872415,
 "ptr": 876748,
 "t": "Mach Bowl",
-"es": "Mach Bowl"
+"es": "Bolos Mach"
 },
 {
 "f": "rep",
@@ -118272,7 +118272,7 @@
 "off": 873045,
 "ptr": 876912,
 "t": "M Store Shofukucho",
-"es": "M Store Shofukucho"
+"es": "Tienda M Shofukucho"
 },
 {
 "f": "rep",
@@ -118280,7 +118280,7 @@
 "off": 873064,
 "ptr": 876916,
 "t": "M Store Kamurocho",
-"es": "M Store Kamurocho"
+"es": "Tienda M Kamurocho"
 },
 {
 "f": "rep",
@@ -118288,7 +118288,7 @@
 "off": 873082,
 "ptr": 876920,
 "t": "M Store Sotenbori",
-"es": "M Store Sotenbori"
+"es": "Tienda M Sotenbori"
 },
 {
 "f": "rep",

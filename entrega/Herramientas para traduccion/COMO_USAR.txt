@@ -1,4 +1,4 @@
-﻿HERRAMIENTAS PARA TRADUCCIÓN - YAKUZA 5 REMASTERED (v1.0.2)
+﻿HERRAMIENTAS PARA TRADUCCIÓN - YAKUZA 5 REMASTERED (v1.0.3)
 ==================================================
 
 Con esto puedes ver TODOS los textos del juego (inglés original y español al lado), corregir los que quieras y volver a
@@ -34,7 +34,7 @@ DESDE LA v1.0.2 el CSV también trae (columna «donde» empieza por «extra-»):
 - extra-sub: subtítulos de escena de DOS renglones.
 - extra-rep: frases de db.devil\en\msg.bin y msg_replacer.bin (carteles de zona, objetos, enemigos,
   comentarios de los dardos). Respeta los ${...} y los saltos de línea.
-Si no cambias nada, «APLICAR» deja exactamente los mismos textos que el paquete v1.0.2.
+Si no cambias nada, «APLICAR» deja exactamente los mismos textos que el paquete v1.0.3.
 
 
 Para empezar de cero (otra versión del juego, otro idioma de base): borra la carpeta «trabajo».

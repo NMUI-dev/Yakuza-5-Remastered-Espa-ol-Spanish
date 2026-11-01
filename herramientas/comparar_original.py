@@ -14,13 +14,16 @@ from extraer_extra import nombres_msg
 R = os.path.dirname(os.path.dirname(os.path.abspath(__file__))); T = os.path.join(R, 'trabajo')
 PT = os.path.join(R, 'herramientas', 'partool', 'ParTool.exe')
 JUEGO = os.environ.get('Y5_JUEGO', 'D:/SteamLibrary/steamapps/common/Yakuza 5/main/data')
-RESP = os.path.join(T, 'respaldos', 'respaldo_original_y5_steam_2510')
+RESP = os.path.join(T, 'respaldos', 'respaldo_original_y5_steam_0111')     # (01-11) los 35 originales de la v1.0.2+
+if not os.path.isdir(RESP): RESP = os.path.join(T, 'respaldos', 'respaldo_original_y5_steam_2510')
 V101 = os.path.join(R, 'entrega_v101', 'archivos', 'data'); V102 = os.path.join(T, 'salida_v102', 'data')
 DB_ORIG = os.path.join(T, 'db_en')                                  # msg_replacer.bin original (md5 e150ab5c7625)
+# (01-11) python comparar_original.py <carpeta data de una entrega>: compara esa carpeta entera (p. ej. entrega_v103)
+ENTREGAS = [sys.argv[1]] if len(sys.argv) > 1 else [V102, V101]
 
 
 def entrega(rel):
-    for d in (V102, V101):
+    for d in ENTREGAS:
         if os.path.exists(os.path.join(d, rel)): return os.path.join(d, rel)
 
 
@@ -50,7 +53,7 @@ def borrar(d):          # ParTool deja los archivos extraídos como solo lectura
 
 
 def main():
-    rels = sorted({os.path.relpath(os.path.join(dp, f), d).replace(os.sep, '/') for d in (V101, V102) for dp, _, fs in os.walk(d) for f in fs})
+    rels = sorted({os.path.relpath(os.path.join(dp, f), d).replace(os.sep, '/') for d in ENTREGAS for dp, _, fs in os.walk(d) for f in fs})
     fallos = 0; tmp = tempfile.mkdtemp(prefix='y5cmp_')
     try:
         for rel in rels:

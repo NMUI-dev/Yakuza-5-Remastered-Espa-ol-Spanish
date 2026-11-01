@@ -1,6 +1,15 @@
-﻿YAKUZA 5 REMASTERED - TRADUCCIÓN AL ESPAÑOL v1.0.2 (01-11-2026)
+﻿YAKUZA 5 REMASTERED - TRADUCCIÓN AL ESPAÑOL v1.0.3 (01-11-2026)
 
 Traducción hecha por fans del inglés oficial al español neutro latinoamericano. Gratis, prohibido venderla.
+
+CAMBIOS EN LA v1.0.3
+- Revisada contra el español latinoamericano OFICIAL de la saga (Yakuza 0 Director's Cut, Kiwami, Kiwami 2 y
+  Kiwami 3): traducidos los textos que se habían quedado en inglés y que la saga sí traduce (Principiante,
+  Combate, Ocultar, Cantinero, Expreso, yenes, manos de mahjong, Palacio del Dragón, Pequeña Asia, Tienda M...).
+- Se dejan como en la saga: modos de dardos (Cricket, Count-Up), marcas y nombres propios. Heat, DEALER y HOME RUN
+  se quedan igual.
+- «PRESS ANY BUTTON» (pantalla de título) sigue en inglés: está dentro del ejecutable del juego y cambiarlo
+  obligaría a modificar el .exe (riesgo con la protección de Steam). El mod no toca el .exe.
 
 CAMBIOS EN LA v1.0.2
 - Traducidos 8.492 textos que seguían en inglés: nombres de quien habla, opciones de respuesta y
@@ -41,7 +50,7 @@ QUITAR
 - Si borraste el respaldo: Steam > clic derecho en el juego > Propiedades > Archivos instalados > Verificar integridad.
 - Si Steam actualiza el juego, vuelve a instalar la traducción.
 
-GUÍA Y HERRAMIENTAS (descarga aparte: «Yakuza 5 - Herramientas para traduccion v1.0.2»)
+GUÍA Y HERRAMIENTAS (descarga aparte: «Yakuza 5 - Herramientas para traduccion v1.0.3»)
 - «Herramientas para traduccion\PASO_A_PASO.txt»: qué se hizo, con qué programas y cómo funciona el juego por dentro.
 - «Herramientas para traduccion\COMO_USAR.txt»: programa para sacar todos los textos a una hoja (inglés y español al
   lado), corregirlos y volver a meterlos en el juego.
