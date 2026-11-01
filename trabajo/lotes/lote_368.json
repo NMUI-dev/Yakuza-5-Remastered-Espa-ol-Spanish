@@ -1,0 +1,833 @@
+[
+{
+"id": 80433,
+"en": "DART&RESULT",
+"ctx": "imagen: marcador de dardos; etiqueta corta (modo de juego, RESULT, ROUND). Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 19
+},
+{
+"id": 80434,
+"en": "DART & RESULT",
+"ctx": "imagen: marcador de dardos; etiqueta corta (modo de juego, RESULT, ROUND). Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 80435,
+"en": "Baka",
+"ctx": "imagen: portada de canción de karaoke: título de la canción y créditos («Lyrics by», «Music by»); el título va traducido entre paréntesis solo si es inglés corriente; nombres propios igual. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 80436,
+"en": "Mitai",
+"ctx": "imagen: portada de canción de karaoke: título de la canción y créditos («Lyrics by», «Music by»); el título va traducido entre paréntesis solo si es inglés corriente; nombres propios igual. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 80437,
+"en": "(l've",
+"ctx": "imagen: portada de canción de karaoke: título de la canción y créditos («Lyrics by», «Music by»); el título va traducido entre paréntesis solo si es inglés corriente; nombres propios igual. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 80438,
+"en": "Fool",
+"ctx": "imagen: portada de canción de karaoke: título de la canción y créditos («Lyrics by», «Music by»); el título va traducido entre paréntesis solo si es inglés corriente; nombres propios igual. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 80439,
+"en": "Been",
+"ctx": "imagen: portada de canción de karaoke: título de la canción y créditos («Lyrics by», «Music by»); el título va traducido entre paréntesis solo si es inglés corriente; nombres propios igual. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 80440,
+"en": "Music by Mitsuharu",
+"ctx": "imagen: portada de canción de karaoke: título de la canción y créditos («Lyrics by», «Music by»); el título va traducido entre paréntesis solo si es inglés corriente; nombres propios igual. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 30
+},
+{
+"id": 80441,
+"en": "Fukuyama",
+"ctx": "imagen: portada de canción de karaoke: título de la canción y créditos («Lyrics by», «Music by»); el título va traducido entre paréntesis solo si es inglés corriente; nombres propios igual. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 80442,
+"en": "Get to",
+"ctx": "imagen: portada de canción de karaoke: título de la canción y créditos («Lyrics by», «Music by»); el título va traducido entre paréntesis solo si es inglés corriente; nombres propios igual. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 80443,
+"en": "Top!",
+"ctx": "imagen: portada de canción de karaoke: título de la canción y créditos («Lyrics by», «Music by»); el título va traducido entre paréntesis solo si es inglés corriente; nombres propios igual. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 80444,
+"en": "Music by H",
+"ctx": "imagen: portada de canción de karaoke: título de la canción y créditos («Lyrics by», «Music by»); el título va traducido entre paréntesis solo si es inglés corriente; nombres propios igual. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 18
+},
+{
+"id": 80445,
+"en": "Hidenori Shoji",
+"ctx": "imagen: portada de canción de karaoke: título de la canción y créditos («Lyrics by», «Music by»); el título va traducido entre paréntesis solo si es inglés corriente; nombres propios igual. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 24
+},
+{
+"id": 80446,
+"en": "Lyrics by",
+"ctx": "imagen: portada de canción de karaoke: título de la canción y créditos («Lyrics by», «Music by»); el título va traducido entre paréntesis solo si es inglés corriente; nombres propios igual. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 17
+},
+{
+"id": 80447,
+"en": "Music by Hidenori Shoji",
+"ctx": "imagen: portada de canción de karaoke: título de la canción y créditos («Lyrics by», «Music by»); el título va traducido entre paréntesis solo si es inglés corriente; nombres propios igual. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 37
+},
+{
+"id": 80448,
+"en": "IHave",
+"ctx": "imagen: portada de canción de karaoke: título de la canción y créditos («Lyrics by», «Music by»); el título va traducido entre paréntesis solo si es inglés corriente; nombres propios igual. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 11
+},
+{
+"id": 80449,
+"en": "Because",
+"ctx": "imagen: portada de canción de karaoke: título de la canción y créditos («Lyrics by», «Music by»); el título va traducido entre paréntesis solo si es inglés corriente; nombres propios igual. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 80450,
+"en": "So",
+"ctx": "imagen: portada de canción de karaoke: título de la canción y créditos («Lyrics by», «Music by»); el título va traducido entre paréntesis solo si es inglés corriente; nombres propios igual. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 6
+},
+{
+"id": 80451,
+"en": "Lyrics by Ryosuke Hori",
+"ctx": "imagen: portada de canción de karaoke: título de la canción y créditos («Lyrics by», «Music by»); el título va traducido entre paréntesis solo si es inglés corriente; nombres propios igual. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 35
+},
+{
+"id": 80452,
+"en": "Kiss",
+"ctx": "imagen: portada de canción de karaoke: título de la canción y créditos («Lyrics by», «Music by»); el título va traducido entre paréntesis solo si es inglés corriente; nombres propios igual. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 80453,
+"en": "Machine",
+"ctx": "imagen: portada de canción de karaoke: título de la canción y créditos («Lyrics by», «Music by»); el título va traducido entre paréntesis solo si es inglés corriente; nombres propios igual. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 14
+},
+{
+"id": 80454,
+"en": "Music by Yuri Fukuda",
+"ctx": "imagen: portada de canción de karaoke: título de la canción y créditos («Lyrics by», «Music by»); el título va traducido entre paréntesis solo si es inglés corriente; nombres propios igual. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 33
+},
+{
+"id": 80455,
+"en": "Lyrics by Ryosuke Horif Music by ZENTA",
+"ctx": "imagen: portada de canción de karaoke: título de la canción y créditos («Lyrics by», «Music by»); el título va traducido entre paréntesis solo si es inglés corriente; nombres propios igual. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 80456,
+"en": "Rouge of",
+"ctx": "imagen: portada de canción de karaoke: título de la canción y créditos («Lyrics by», «Music by»); el título va traducido entre paréntesis solo si es inglés corriente; nombres propios igual. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 15
+},
+{
+"id": 80457,
+"en": "Love",
+"ctx": "imagen: portada de canción de karaoke: título de la canción y créditos («Lyrics by», «Music by»); el título va traducido entre paréntesis solo si es inglés corriente; nombres propios igual. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 80458,
+"en": "Music by Chihiro Aoki",
+"ctx": "imagen: portada de canción de karaoke: título de la canción y créditos («Lyrics by», «Music by»); el título va traducido entre paréntesis solo si es inglés corriente; nombres propios igual. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 34
+},
+{
+"id": 80459,
+"en": "I've been a fool, and you've been childish",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 64
+},
+{
+"id": 80460,
+"en": "You fell down, you got hurt chasing sweeter dreams",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 76
+},
+{
+"id": 80461,
+"en": "Never could, hide the truth in your eyes",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 62
+},
+{
+"id": 80462,
+"en": "That's how I knew, that smile was a lie",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 60
+},
+{
+"id": 80463,
+"en": "\"I love you\" is",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 80464,
+"en": "is",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 6
+},
+{
+"id": 80465,
+"en": "Something you never say",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 37
+},
+{
+"id": 80466,
+"en": "Couldn't get it out, always just pulled away",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 67
+},
+{
+"id": 80467,
+"en": "So then why, please won't you tell me why",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 63
+},
+{
+"id": 80468,
+"en": "You could find the words, to say goodbye",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 62
+},
+{
+"id": 80469,
+"en": "I'm such a mess",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 25
+},
+{
+"id": 80470,
+"en": "I'm lost, I'm no good at this",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 46
+},
+{
+"id": 80471,
+"en": "I'm in love, still in love",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 41
+},
+{
+"id": 80472,
+"en": "Stillin love with you",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 34
+},
+{
+"id": 80473,
+"en": "Hard as I try",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 80474,
+"en": "Can't even drink this pain away",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 48
+},
+{
+"id": 80475,
+"en": "Memories of you, twisting my view",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 51
+},
+{
+"id": 80476,
+"en": "I've been a fool",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 27
+},
+{
+"id": 80477,
+"en": "Insincere, indirect",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 31
+},
+{
+"id": 80478,
+"en": "\"Auos os,,\"<snq oS=",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 31
+},
+{
+"id": 80479,
+"en": "Every day, it's the same old craziness",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 59
+},
+{
+"id": 80480,
+"en": "These excuses, they're driving me",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 51
+},
+{
+"id": 80481,
+"en": "Out of my mind",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 24
+},
+{
+"id": 80482,
+"en": "It's always gonna be this way",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 46
+},
+{
+"id": 80483,
+"en": "Overtime, up all night, feel the crunch, feel the bum",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 80
+},
+{
+"id": 80484,
+"en": "Kiss your freedom goodbye, never coming back",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 67
+},
+{
+"id": 80485,
+"en": "If pension's al we have to look forward to",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 64
+},
+{
+"id": 80486,
+"en": "The future's looking bleak ↓ ↓",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 53
+},
+{
+"id": 80487,
+"en": "I don't know who decided, all these rules",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 63
+},
+{
+"id": 80488,
+"en": "Keeping us in the dust",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 35
+},
+{
+"id": 80489,
+"en": "But I'm so over it, push restart and",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 56
+},
+{
+"id": 80490,
+"en": "Try again, it's time to say goodbye",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 54
+},
+{
+"id": 80491,
+"en": "To the trauma and the pain",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 41
+},
+{
+"id": 80492,
+"en": "Tomorrow's looking bright, spread my wings and",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 70
+},
+{
+"id": 80493,
+"en": "Fly away, my hand is reaching out",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 51
+},
+{
+"id": 80494,
+"en": "To that sparkling, shining gate",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 48
+},
+{
+"id": 80495,
+"en": "I'm just a step away",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 33
+},
+{
+"id": 80496,
+"en": "Come on and run with me, together we",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 56
+},
+{
+"id": 80497,
+"en": "reach, a new peak",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 28
+},
+{
+"id": 80498,
+"en": "Wewill",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 12
+},
+{
+"id": 80499,
+"en": "Till the end, you'l be by my side",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 51
+},
+{
+"id": 80500,
+"en": "Me and you, staring at the sky",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 47
+},
+{
+"id": 80501,
+"en": "As a solitary cloud passed by",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 46
+},
+{
+"id": 80502,
+"en": "Someday soon maybe, Illfially be",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 50
+},
+{
+"id": 80503,
+"en": "Used to being alone..",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 34
+},
+{
+"id": 80504,
+"en": "But until that day comes",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 38
+},
+{
+"id": 80505,
+"en": "Ispend my time wishing you were here next to me",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 72
+},
+{
+"id": 80506,
+"en": "gonna make it",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 80507,
+"en": "I'mg",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 80508,
+"en": "Stronger than ever before, you'll see",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 57
+},
+{
+"id": 80509,
+"en": "I don't care how long it'lltake",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 48
+},
+{
+"id": 80510,
+"en": "I wanna show you",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 27
+},
+{
+"id": 80511,
+"en": "How much everything you did means to me",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 60
+},
+{
+"id": 80512,
+"en": "This dream'll come true",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 37
+},
+{
+"id": 80513,
+"en": "No matter how hard I have to try",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 50
+},
+{
+"id": 80514,
+"en": "I don't know where you are,",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 43
+},
+{
+"id": 80515,
+"en": ",butI know youcansee",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 33
+},
+{
+"id": 80516,
+"en": "I'm not crying because",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 35
+},
+{
+"id": 80517,
+"en": "You're always here in my heart",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 47
+},
+{
+"id": 80518,
+"en": "\"ls this what you want?\"",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 38
+},
+{
+"id": 80519,
+"en": "\"Are you good enough?\"",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 35
+},
+{
+"id": 80520,
+"en": "It's allI see when I look in the mirror",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 60
+},
+{
+"id": 80521,
+"en": "I can't escape, my own reflection",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 51
+},
+{
+"id": 80522,
+"en": "When my tears won't dry",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 37
+},
+{
+"id": 80523,
+"en": "Wanna just not even try",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 37
+},
+{
+"id": 80524,
+"en": "I find the strength inside",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 41
+},
+{
+"id": 80525,
+"en": "Hope is all it takes to remake",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 47
+},
+{
+"id": 80526,
+"en": "Your dreams into reality",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 38
+},
+{
+"id": 80527,
+"en": "Are you ready? Go!",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 30
+},
+{
+"id": 80528,
+"en": "It's your time to show",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 35
+},
+{
+"id": 80529,
+"en": "Hold your head up high!",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 37
+},
+{
+"id": 80530,
+"en": "Spread your wings and fly!",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 41
+},
+{
+"id": 80531,
+"en": "Just a bit of hope and you'llbe shining",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 60
+},
+{
+"id": 80532,
+"en": "It's all up to me! Just you wait and see!",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 63
+},
+{
+"id": 80533,
+"en": "This star is gonna shine so bright it hurts",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 66
+},
+{
+"id": 80534,
+"en": "And I wil prove to you, that I can be",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 57
+},
+{
+"id": 80535,
+"en": "So much more than what you see ight now",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 60
+},
+{
+"id": 80536,
+"en": "That's what your twisted love has turned me i",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 69
+},
+{
+"id": 80537,
+"en": "into",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 9
+},
+{
+"id": 80538,
+"en": "I just can't escape",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 31
+},
+{
+"id": 80539,
+"en": "As hard as I try",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 27
+},
+{
+"id": 80540,
+"en": "Your smile it cuts me in two,",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 46
+},
+{
+"id": 80541,
+"en": "in its sorrow",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 80542,
+"en": "What can I do to change myself",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 47
+},
+{
+"id": 80543,
+"en": "So that you'look at me, like you look at her?",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 69
+},
+{
+"id": 80544,
+"en": "So that you'll embrace me",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 40
+},
+{
+"id": 80545,
+"en": "As tightly as you always used to?",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 51
+},
+{
+"id": 80546,
+"en": "Caught up in a loop of loneliness",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 51
+},
+{
+"id": 80547,
+"en": "Never gonna find my way out",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 43
+},
+{
+"id": 80548,
+"en": "I'm trying to catch you in the frame",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 56
+},
+{
+"id": 80549,
+"en": "But you keep slipping away",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 41
+},
+{
+"id": 80550,
+"en": "Accelerate through this old highway city",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 62
+},
+{
+"id": 80551,
+"en": "Into the night, you by my side, your tear-stained eyes",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 82
+},
+{
+"id": 80552,
+"en": "Rouge running down your cheek, but baby",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 60
+},
+{
+"id": 80553,
+"en": "Tonight everything's all right",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 47
+},
+{
+"id": 80554,
+"en": "As long as you're here next to me",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 51
+},
+{
+"id": 80555,
+"en": "My sweet babe",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 22
+},
+{
+"id": 80556,
+"en": "Now let's let go of our",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 37
+},
+{
+"id": 80557,
+"en": "Past and our future",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 31
+},
+{
+"id": 80558,
+"en": "This night has room for only two, you and me",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 67
+},
+{
+"id": 80559,
+"en": "So come and see,Ill show you paradise tonight",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 69
+},
+{
+"id": 80560,
+"en": "Not just 1 kiss, not 2 kisses, not 100",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 59
+},
+{
+"id": 80561,
+"en": "I've got a fullclip of love for you, baby",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 63
+},
+{
+"id": 80562,
+"en": "Hold on to me and I swear I won't let go",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 62
+},
+{
+"id": 80563,
+"en": "I'll never, let you slip away from me",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 57
+},
+{
+"id": 80564,
+"en": "Machine gun kiss, let's just",
+"ctx": "imagen: una línea de la LETRA de una canción de karaoke (traducción inglesa de la letra japonesa); tradúcela al español natural y corta, de longitud parecida; sin comillas. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo",
+"max": 44
+},
+{
+"id": 80632,
+"en": "A year and a half earlier / Morning Glory Orphanage, Okinawa",
+"ctx": "imagen: rótulo de escena con la fecha y el lugar; « / » separa las DOS líneas: deja las mismas líneas (p. ej. «A principios de verano, 2011»); nombres de lugar igual. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 80633,
+"en": "Early summer, 2011 / Okinawa",
+"ctx": "imagen: rótulo de escena con la fecha y el lugar; « / » separa las DOS líneas: deja las mismas líneas (p. ej. «A principios de verano, 2011»); nombres de lugar igual. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 80634,
+"en": "December 2012 / Abashiri Penitentiary",
+"ctx": "imagen: rótulo de escena con la fecha y el lugar; « / » separa las DOS líneas: deja las mismas líneas (p. ej. «A principios de verano, 2011»); nombres de lugar igual. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 80635,
+"en": "Kamurocho, Tokyo",
+"ctx": "imagen: rótulo de escena con la fecha y el lugar; « / » separa las DOS líneas: deja las mismas líneas (p. ej. «A principios de verano, 2011»); nombres de lugar igual. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 80636,
+"en": "December 2010 / Kamurocho",
+"ctx": "imagen: rótulo de escena con la fecha y el lugar; « / » separa las DOS líneas: deja las mismas líneas (p. ej. «A principios de verano, 2011»); nombres de lugar igual. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 80637,
+"en": "Two days later / Nagasugai",
+"ctx": "imagen: rótulo de escena con la fecha y el lugar; « / » separa las DOS líneas: deja las mismas líneas (p. ej. «A principios de verano, 2011»); nombres de lugar igual. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 80638,
+"en": "The next morning",
+"ctx": "imagen: rótulo de escena con la fecha y el lugar; « / » separa las DOS líneas: deja las mismas líneas (p. ej. «A principios de verano, 2011»); nombres de lugar igual. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+},
+{
+"id": 80639,
+"en": "The next day",
+"ctx": "imagen: rótulo de escena con la fecha y el lugar; « / » separa las DOS líneas: deja las mismas líneas (p. ej. «A principios de verano, 2011»); nombres de lugar igual. Texto leído por OCR de una imagen: si parece un error de lectura o es un nombre propio, devuélvelo IGUAL; puede ser un trozo de un párrafo más largo"
+}
+]

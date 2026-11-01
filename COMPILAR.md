@@ -120,6 +120,20 @@ python herramientas/verificar_v101.py   # vuelve a desempaquetar el resultado y 
 
 La traducción está en `trabajo/lotes/lote_NNN_es.json`; `herramientas/validar_lote.py` revisa cada lote.
 
+## 6b. Lo nuevo de la v1.0.2 (encima de la v1.0.1)
+
+```bash
+python herramientas/barrido.py extraer <data del juego> trabajo/barrido_3110   # desempaqueta la v1.0.1 instalada (solo lee)
+python herramientas/extraer_extra.py      # nombres/opciones, subtítulos de dos renglones, msg_replacer
+python -u herramientas/ocr_sin_revisar.py; python herramientas/imagenes_extra.py
+python herramientas/aplicar_extra.py entrega_v101/archivos/data trabajo/salida_v102/data
+python herramientas/telops_es.py; python herramientas/karaoke_letras_es.py
+python herramientas/imagenes_extra_es.py; python herramientas/capitulos_v102.py
+python herramientas/armar_v102.py         # -> trabajo/salida_v102/data
+```
+
+La v1.0.2 es `entrega_v101/archivos/data` con `trabajo/salida_v102/data` copiado encima.
+
 ## 7. Armar el mod
 
 La carpeta `entrega_v101/archivos/data` junto con los archivos de `entrega/` (dentro, `archivos/data`) es el mod:

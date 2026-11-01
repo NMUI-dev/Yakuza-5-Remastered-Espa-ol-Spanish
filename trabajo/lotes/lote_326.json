@@ -1,0 +1,1002 @@
+[
+{
+"id": 72212,
+"en": "Attendant",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72213,
+"en": "Nakajima",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72214,
+"en": "Hirakawa",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72215,
+"en": "I'll go now.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72216,
+"en": "I'll go in a bit.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72217,
+"en": "Not just yet.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72218,
+"en": "Wages",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72219,
+"en": "Friendly Voice",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72220,
+"en": "Wada",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72221,
+"en": "Muramatsu",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72222,
+"en": "Yahata's Lackey",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72223,
+"en": "Lookout",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72224,
+"en": "Oshima",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72225,
+"en": "Listless Inmate",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72226,
+"en": "Sympathetic Inmate",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72227,
+"en": "Scraggy Inmate",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72228,
+"en": "Familiar Inmate",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72229,
+"en": "Old-timer Inmate",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72230,
+"en": "Get the Goods",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72231,
+"en": "Move Everything to the Item Box",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72232,
+"en": "Choose Items for Your Inventory",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72233,
+"en": "All good. Let's go.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72234,
+"en": "Not ready yet.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72235,
+"en": "Go to the Mountain",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72236,
+"en": "Sort Items",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72237,
+"en": "Don't Do Anything Yet",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72238,
+"en": "Baba",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72239,
+"en": "Yup, ready to go.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72240,
+"en": "Need some more time.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72241,
+"en": "New Skill: Spotter",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72242,
+"en": "New Skill: Deadeye",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72243,
+"en": "New Mission",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72244,
+"en": "Mastery Achieved",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72245,
+"en": "Hunting Rifle Acquired",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72246,
+"en": "Go to Town with Baba",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72247,
+"en": "Rescue the Lost Hunter",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72248,
+"en": "Search for Narumi",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72249,
+"en": "Shoot Yama-oroshi with a Transmitter",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72250,
+"en": "Search for Yama-oroshi's Den",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72251,
+"en": "Demonstrate Rifle Skills",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72252,
+"en": "Choose a Rifle",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72253,
+"en": "Head to Tsukimino with Baba",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72254,
+"en": "Not Yet",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72255,
+"en": "No Rifle",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72256,
+"en": "Switching Weapons",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72257,
+"en": "Still getting ready.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72258,
+"en": "Elderly Inmate",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72259,
+"en": "Bored Inmate",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72260,
+"en": "Pale Inmate",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72261,
+"en": "Lanky Inmate",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72262,
+"en": "All taken care of.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72263,
+"en": "The Florist's Underling",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72264,
+"en": "Get Back to Practice",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72265,
+"en": "Ask how Horie is Doing",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72266,
+"en": "Ask for a Little More Time",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72267,
+"en": "Go Now",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72268,
+"en": "Not Just Yet",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72269,
+"en": "Ogita",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72270,
+"en": "Get an Evaluation",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72271,
+"en": "Ask about T-Set",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72272,
+"en": "\"So Much More!\"",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72273,
+"en": "An Easy Lesson",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72274,
+"en": "A Normal Lesson",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72275,
+"en": "A Hard Lesson",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72276,
+"en": "Ready",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72277,
+"en": "Not Quite Yet",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72278,
+"en": "Go to the Princess League",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72279,
+"en": "\"Loneliness Loop\"",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72280,
+"en": "\"Because I Have You\"",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72281,
+"en": "Nishida",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72282,
+"en": "Need more time.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72283,
+"en": "I'm done.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72284,
+"en": "Play a Game",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72285,
+"en": "Not Now",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72286,
+"en": "Man",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72287,
+"en": "Woman",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72288,
+"en": "Play 901",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72289,
+"en": "Don't Play",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72290,
+"en": "Employee",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72291,
+"en": "Play Darts",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72292,
+"en": "Start a New Card",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72293,
+"en": "Customize Darts",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72294,
+"en": "Never Mind",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72295,
+"en": "Play Darts with Riku",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72296,
+"en": "Play Alone",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72297,
+"en": "Play Darts with Kaguya",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72298,
+"en": "Play Darts with Hinata",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72299,
+"en": "Replace Card",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72300,
+"en": "About Overkill",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72301,
+"en": "Snappily Dressed Man",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72302,
+"en": "Play a Pool Game",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72303,
+"en": "Pay 50,000 Yen",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72304,
+"en": "Brush Him Off",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72305,
+"en": "Old Kiyotaka",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72306,
+"en": "Give Him Booze",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72307,
+"en": "Forget It",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72308,
+"en": "Lottery Clerk",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72309,
+"en": "Consecutive",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72310,
+"en": "Scattered",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72311,
+"en": "Losing Tickets",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72312,
+"en": "Winning Tickets",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72313,
+"en": "Three-Year-Old Tickets",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72314,
+"en": "Familiar Homeless Man",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72315,
+"en": "Yahata's Underling",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72316,
+"en": "Young Lad",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72317,
+"en": "Merchant",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72318,
+"en": "Villager",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72319,
+"en": "(I want to find out how Haruka is feeling.)",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72320,
+"en": "Maybe another time.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72321,
+"en": "Domineering and Disappointed",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72322,
+"en": "Submissive and Complacent",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72323,
+"en": "Student Goofing Off",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72324,
+"en": "Student Skipping Class",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72325,
+"en": "Policeman",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72326,
+"en": "Enemy",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72327,
+"en": "Man in White",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72328,
+"en": "Minamida's Assistant",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72329,
+"en": "Not interested.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72330,
+"en": "Play",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72331,
+"en": "Play the Game",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72332,
+"en": "Ask About the Game",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72333,
+"en": "Invest Some Money",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72334,
+"en": "Don't Play the Game",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72335,
+"en": "I can invest.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72336,
+"en": "No thanks.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72337,
+"en": "Sotenbori A",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72338,
+"en": "Sotenbori B",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72339,
+"en": "Hairy Scary Bear",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72340,
+"en": "Beatdown 100",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72341,
+"en": "Not right now.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72342,
+"en": "Energetic Child",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72343,
+"en": "Adorable Child",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72344,
+"en": "Lead Santa Hunter",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72345,
+"en": "Santa Hunter",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72346,
+"en": "Cheerful Child",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72347,
+"en": "Thug",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72348,
+"en": "Large Woman",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72349,
+"en": "Take Her On",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72350,
+"en": "Not Right Now",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72351,
+"en": "Audience",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72352,
+"en": "Bizarrely Dressed Man",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72353,
+"en": "Inari",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72354,
+"en": "Okonomiyaki Vendor",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72355,
+"en": "Yakuza-like Man",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72356,
+"en": "Thuggish Man",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72357,
+"en": "Yasuo",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72358,
+"en": "Foreigner",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72359,
+"en": "Pedro",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72360,
+"en": "Teach Pedro",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72361,
+"en": "Mysterious Old Man",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72362,
+"en": "Man in Lab Coat",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72363,
+"en": "On second thought, maybe not.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72364,
+"en": "Don't Invest",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72365,
+"en": "Professor",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72366,
+"en": "Sorry, but no.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72367,
+"en": "Play a Flashback Battle",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72368,
+"en": "Wary Man",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72369,
+"en": "Underling",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72370,
+"en": "Santa",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72371,
+"en": "I'll give 'em a talkin' to.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72372,
+"en": "Got no time for this.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72373,
+"en": "Precocious Child",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72374,
+"en": "Boisterous Child",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72375,
+"en": "Feisty Child",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72376,
+"en": "Try One More Time",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72377,
+"en": "Give Up",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72378,
+"en": "Daigo",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72379,
+"en": "Buy Mahjong Sticks and Play",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72380,
+"en": "Sakurai",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72381,
+"en": "Male Villager",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72382,
+"en": "Get Involved",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72383,
+"en": "Stay Out of It",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72384,
+"en": "Kimiyo",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72385,
+"en": "Mission Added",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72386,
+"en": "Nearly Frostbitten Man",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72387,
+"en": "Kihachi",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72388,
+"en": "Voice",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72389,
+"en": "Nishina",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72390,
+"en": "Faraway Voice",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72391,
+"en": "Marten Furrier",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72392,
+"en": "Hand Over the Marten Pelts",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72393,
+"en": "Keep the Marten Pelts",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72394,
+"en": "Hand Over the Bear Meat",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72395,
+"en": "Keep the Bear Meat",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72396,
+"en": "Man in Squishy-Looking Coat",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72397,
+"en": "Man from Tsukimino",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72398,
+"en": "Judgmental Woman",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72399,
+"en": "Judgmental Son",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72400,
+"en": "Less Judgmental Woman",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72401,
+"en": "Less Judgmental Son",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72402,
+"en": "Vengeful Daughter-in-Law",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72403,
+"en": "Hand Over the Rabbit Meat",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72404,
+"en": "Keep the Rabbit Meat",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72405,
+"en": "Monster-in-Law",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72406,
+"en": "Man with a Problem",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72407,
+"en": "Hand Over the Antler",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72408,
+"en": "Keep the Antler",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72409,
+"en": "Man Who Had a Problem",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72410,
+"en": "Narumi",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 72411,
+"en": "Leave for the City with Baba",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+}
+]

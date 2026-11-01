@@ -2,7 +2,7 @@
 
 ## Para jugar / To play
 
-**No descargues el código (botón verde «Code»): no trae la traducción lista.** Descarga el zip de la última versión en **[Releases](https://github.com/NMUI-dev/Yakuza-5-Remastered-Espa-ol-Spanish/releases/latest)** (`Yakuza.5.-.Traduccion.al.espanol.v1.0.1.zip`), descomprímelo en una carpeta, haz doble clic en **`INSTALAR o QUITAR.bat`** y escribe `1` (instalar). El instalador encuentra el juego de Steam solo y guarda una copia de los archivos originales para poder quitarla. Lee el `LEEME.txt` del zip.
+**No descargues el código (botón verde «Code»): no trae la traducción lista.** Descarga el zip de la última versión en **[Releases](https://github.com/NMUI-dev/Yakuza-5-Remastered-Espa-ol-Spanish/releases/latest)** (`Yakuza.5.-.Traduccion.al.espanol.v1.0.2.zip`), descomprímelo en una carpeta, haz doble clic en **`INSTALAR o QUITAR.bat`** y escribe `1` (instalar). El instalador encuentra el juego de Steam solo y guarda una copia de los archivos originales para poder quitarla. Lee el `LEEME.txt` del zip.
 
 *Do not download the source (green «Code» button): it does not contain the ready translation.* Get the zip from **[Releases](https://github.com/NMUI-dev/Yakuza-5-Remastered-Espa-ol-Spanish/releases/latest)**, unzip it into a folder, double-click **`INSTALAR o QUITAR.bat`** and type `1` (install). The installer finds the Steam game by itself and backs up the original files so it can be removed.
 
@@ -11,7 +11,7 @@
 The rest of this page is the source code, for people who want to rebuild or check the mod.
 
 Source code and translation data for the fan-made Spanish (Latin American neutral) translation of
-*Yakuza 5 Remastered* (Steam, PC). Release v1.0.1.
+*Yakuza 5 Remastered* (Steam, PC). Release v1.0.2.
 
 **This repository contains no game files.** Everything here is our own scripts, the translated text and the
 specifications used to redraw in-image text. To build the mod you need your own copy of the game from Steam.
@@ -48,6 +48,8 @@ trabajo/imagenes/*.json       texture specs: OCR boxes, translations, fonts, siz
 trabajo/imagenes/atlas_hechos/   per-texture specs for menu atlases (box, English, Spanish, font, effect)
 trabajo/imagenes/GUIA_ATLAS.md   how the texture kit works
 trabajo/imagenes/revision_v101/  v1.0.1 review lists (which textures were redone and why)
+trabajo/extra/textos.json     v1.0.2: speaker names / answer options, two-line subtitles and msg_replacer strings
+trabajo/telop/                v1.0.2: OCR of the textures the v1.0.1 review did not cover, and their text blocks
 entrega/                      installer + optional translation tools, as shipped (without third-party .exe)
 ```
 
@@ -127,6 +129,23 @@ python herramientas/verificar_v101.py   # unpacks the result again and compares 
 fixed-size slots never overflow — if a line does not fit it uses the short version from `cortas.json`) and repacks the
 `.par` archives with `ParTool add`. The folder `entrega_v101/archivos/data` plus the files in `entrega/` is the
 released mod.
+
+### 4. v1.0.2 (on top of v1.0.1)
+
+```bash
+python herramientas/barrido.py extraer <game data> trabajo/barrido_3110   # unpack the installed v1.0.1 (read only)
+python herramientas/barrido.py buscar trabajo/barrido_3110; python herramientas/barrido_msg.py trabajo/barrido_3110/x
+python herramientas/extraer_extra.py      # names/options, 2-line subtitles, msg_replacer -> trabajo/extra/textos.json + lots 326-367
+python -u herramientas/ocr_sin_revisar.py; python herramientas/imagenes_extra.py   # textures left in English -> lots 368-369
+python herramientas/aplicar_extra.py entrega_v101/archivos/data trabajo/salida_v102/data   # the new text
+python herramientas/telops_es.py; python herramientas/karaoke_letras_es.py          # scene captions, karaoke lyrics
+python herramientas/imagenes_extra_es.py; python herramientas/capitulos_v102.py      # darts, chapter subtitles
+python herramientas/armar_v102.py         # packs the textures -> trabajo/salida_v102/data
+```
+
+The v1.0.2 mod is `entrega_v101/archivos/data` with `trabajo/salida_v102/data` copied over it, plus `entrega/`.
+`aplicar_extra.py` only redirects a `msg_replacer.bin` pointer when the text changes and the slot is part of a pointer
+table (one header value happened to equal the offset of the string «Po»; changing it crashed the game at startup).
 
 ## Testing
 

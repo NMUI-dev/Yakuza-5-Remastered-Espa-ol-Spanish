@@ -1,0 +1,1002 @@
+[
+{
+"id": 78812,
+"en": "Kiryu's Taxi:Front Windshield",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78813,
+"en": "Kiryu's Taxi:Rear Windshield",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78814,
+"en": "Kiryu's Taxi:Right Window",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78815,
+"en": "Kiryu's Taxi:Left Window",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78816,
+"en": "Kiryu's Taxi:Right Blinker",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78817,
+"en": "Kiryu's Taxi:Right Blinker (Night)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78818,
+"en": "Kiryu's Taxi:Left Blinker",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78819,
+"en": "Kiryu's Taxi:Left Blinker (Night)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78820,
+"en": "Kiryu's Taxi:Brake Light",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78821,
+"en": "Kiryu's Taxi:Brake Light (Night)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78822,
+"en": "Kiryu's Taxi:Headlight",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78823,
+"en": "Kiryu's Taxi:Headlight (Night)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78824,
+"en": "Snowmobile:Brake Light",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78825,
+"en": "Snare Trap",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78826,
+"en": "Fishing Pole (River)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78827,
+"en": "Bowling:Simple Black",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78828,
+"en": "Bowling:Hat Trick",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78829,
+"en": "Bowling:Geos",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78830,
+"en": "Bowling:Simple Green",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78831,
+"en": "Bowling:Billy the Destroyer",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78832,
+"en": "Bowling:Jupiter",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78833,
+"en": "Bowling:Master Ball",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78834,
+"en": "Bowling:The Hedgeball",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78835,
+"en": "Noodle Ladle",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78836,
+"en": "Boss's Car",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78837,
+"en": "Snare Trap: Marten",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78838,
+"en": "Snare Trap: Rabbit",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78839,
+"en": "Snare Trap: Fox",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78840,
+"en": "Box Trap: Marten",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78841,
+"en": "Box Trap: Rabbit",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78842,
+"en": "Box Trap: Fox",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78843,
+"en": "Leghold Trap: Marten",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78844,
+"en": "Leghold Trap: Rabbit",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78845,
+"en": "Leghold Trap: Fox",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78846,
+"en": "Snowball",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78847,
+"en": "Food Stall Trailer",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78848,
+"en": "Bowl (with Soup)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78849,
+"en": "Boss's Car (Brake Light)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78850,
+"en": "Legendary Racer (Brake Light)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78851,
+"en": "Highway Battle Truck",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78852,
+"en": "Highway Battle Truck (Night)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78853,
+"en": "Container (Red)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78854,
+"en": "Container (Blue)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78855,
+"en": "Container (Green)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78856,
+"en": "Small Container (Red)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78857,
+"en": "Small Container (Blue)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78858,
+"en": "Small Container (Green)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78859,
+"en": "Cart with Railing",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78860,
+"en": "Pile of Wood",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78861,
+"en": "White Wood",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78862,
+"en": "Wooden Crate",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78863,
+"en": "Four Kings Type 2 (Blue)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78864,
+"en": "Four Kings Type 2 (Yellow)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78865,
+"en": "Pool Obstacle (S)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78866,
+"en": "Pool Obstacle (L)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78867,
+"en": "Pricey Wooden Bat",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78868,
+"en": "Pool Obstacle (M)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78869,
+"en": "Pool Obstacle (ML)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78870,
+"en": "Kiryu's Taxi (Motion only, do not use in game)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78871,
+"en": "Vixen Zeroes' Sparkly Car",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78872,
+"en": "Kidnapper's Car",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78873,
+"en": "Kidnapper's Car (Night)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78874,
+"en": "Kidnapper's Car (Brake Light)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78875,
+"en": "Highway Battle Truck (Left Blinker)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78876,
+"en": "Highway Battle Truck (Right Blinker)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78877,
+"en": "Highway Battle Truck (Brake Light)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78878,
+"en": "Four Kings, Kajiwara's Car",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78879,
+"en": "Four Kings, Kajiwara's Car (Night)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78880,
+"en": "Four Kings, Kajiwara's Car (Brake Light)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78881,
+"en": "Four Kings, Yoshimi's Car",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78882,
+"en": "Four Kings, Yoshimi's Car (Night)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78883,
+"en": "Four Kings, Yoshimi's Car (Brake Light)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78884,
+"en": "Four Kings, Nakamura's Car",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78885,
+"en": "Four Kings, Nakamura's Car (Night)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78886,
+"en": "Four Kings, Nakamura's Car (Brake Light)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78887,
+"en": "Four Kings, Takamura's Car",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78888,
+"en": "Four Kings, Takamura's Car (Night)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78889,
+"en": "Four Kings, Takamura's Car (Brake Light)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78890,
+"en": "Devil Killers, Nagata's Car",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78891,
+"en": "Devil Killers, Nagata's Car (Night)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78892,
+"en": "Devil Killers, Nagata's Car (Brake Light)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78893,
+"en": "Devil Killers, Watanabe's Car",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78894,
+"en": "Devil Killers, Watanabe's Car (Night)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78895,
+"en": "Devil Killers, Watanabe's Car (Brake Light)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78896,
+"en": "Punk, Kiyokawa's Car",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78897,
+"en": "Punk, Kiyokawa's Car (Night)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78898,
+"en": "Punk, Kiyokawa's Car (Brake Light)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78899,
+"en": "Wada-san's Car",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78900,
+"en": "Wada-san's Car (Brake Light)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78901,
+"en": "Onisaka's Car",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78902,
+"en": "Onisaka's Car (Night)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78903,
+"en": "Onisaka's Car (Brake Light)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78904,
+"en": "Cop, Furumichi's Car",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78905,
+"en": "Cop, Furumichi's Car (Night)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78906,
+"en": "Cop, Furumichi's Car (Brake Light)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78907,
+"en": "Vixen Zeroes' Car",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78908,
+"en": "Vixen Zeroes' Car (Night)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78909,
+"en": "Vixen Zeroes' Car (Brake Light)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78910,
+"en": "Four Kings, Kajiwara's Car (Left Blinker)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78911,
+"en": "Four Kings, Kajiwara's Car (Right Blinker)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78912,
+"en": "Four Kings, Yoshimi's Car (Left Blinker)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78913,
+"en": "Four Kings, Yoshimi's Car (Right Blinker)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78914,
+"en": "Four Kings, Nakamura's Car (Left Blinker)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78915,
+"en": "Four Kings, Nakamura's Car (Right Blinker)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78916,
+"en": "Four Kings, Takamura's Car (Left Blinker)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78917,
+"en": "Four Kings, Takamura's Car (Right Blinker)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78918,
+"en": "Battle Car, Common (Blinker Left)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78919,
+"en": "Battle Car, Common (Blinker Right)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78920,
+"en": "Box of Tissues",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78921,
+"en": "Coworker's Car (Wada)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78922,
+"en": "Coworker's Car (Wada) (Night)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78923,
+"en": "Coworker's Car (Muramatsu)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78924,
+"en": "Coworker's Car (Muramatsu) (Night)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78925,
+"en": "Coworker's Car (Brake Light)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78926,
+"en": "Coworker's Car (Left Blinker)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78927,
+"en": "Coworker's Car (Right Blinker)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78928,
+"en": "Cedar Lumber",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78929,
+"en": "Police Baton",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78930,
+"en": "Grenade Blast (Normal)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78931,
+"en": "Grenade Blast (Zact)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78932,
+"en": "Molotov Cocktail Burn Zone (Common)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78933,
+"en": "Molotov Cocktail Burn Zone (Zact)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78934,
+"en": "Molotov Cocktail Burn Zone (Effect)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78935,
+"en": "Grenade Blast (Saigo's Training)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78936,
+"en": "Smoking Shotgun Blast",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78937,
+"en": "Fireworks Gun Blast",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78938,
+"en": "Round Table",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78939,
+"en": "Flower Vase",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78940,
+"en": "Extravagant Stool",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78941,
+"en": "Big Purple Sofa",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78942,
+"en": "Purple Sofa",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78943,
+"en": "Sturdy Table",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78944,
+"en": "Table",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78945,
+"en": "Chair",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78946,
+"en": "Ashtray",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78947,
+"en": "Huge Sofa",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78948,
+"en": "Mini Sofa",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78949,
+"en": "Hunting Shotgun (OGREZ)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78950,
+"en": "Path Maker (OGREZ)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78951,
+"en": "Flesh Shredder (OGREZ)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78952,
+"en": "Smoking Shotgun",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78953,
+"en": "Fireworks Gun",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78954,
+"en": "New Balalaika",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78955,
+"en": "Anti-Tank Missile Launcher",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78956,
+"en": "Volcano Banner",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78957,
+"en": "Volcano Banner 2 ",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78958,
+"en": "Replica Machine Gun",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78959,
+"en": "Shoddy Pistol",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78960,
+"en": "Construction Hammer",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78961,
+"en": "Aristocrat's Baton",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78962,
+"en": "Aristocrat's Pole",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78963,
+"en": "Aristocrat's Tonfa",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78964,
+"en": "Flame Spray",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78965,
+"en": "Machine Gun Grenade",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78966,
+"en": "Bicycle (Red)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78967,
+"en": "Bicycle (Orange)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78968,
+"en": "Bicycle (Black)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78969,
+"en": "Bicycle (Blue)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78970,
+"en": "Bicycle (Cream)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78971,
+"en": "Bicycle (Olive)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78972,
+"en": "Trash Basket",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78973,
+"en": "Goldcrest",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78974,
+"en": "Plastic Bucket",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78975,
+"en": "Gas Stove",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78976,
+"en": "Bowling Ball",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78977,
+"en": "Bench",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78978,
+"en": "Pliers",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78979,
+"en": "Fire Hydrant Sign",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78980,
+"en": "Beverage Bottle Recycle Bin",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78981,
+"en": "Beverage Can Recycle Bin",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78982,
+"en": "Beer Keg",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78983,
+"en": "Traffic Cone Connector",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78984,
+"en": "Giant Cone",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78985,
+"en": "777town.net Banner",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78986,
+"en": "777town.net Sign",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78987,
+"en": "Crash Cushion",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78988,
+"en": "Dirty Crash Cushion",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78989,
+"en": "Large Motorcycle (Red)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78990,
+"en": "Large Motorcycle (Red) Front Wheel",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78991,
+"en": "Large Motorcycle (Blue)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78992,
+"en": "Large Motorcycle (Blue) Front Wheel",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78993,
+"en": "Business Scooter",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78994,
+"en": "Business Scooter Front Wheel",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78995,
+"en": "Big Scooter",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78996,
+"en": "Scooter (Black)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78997,
+"en": "Scooter (Silver)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78998,
+"en": "Plank",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 78999,
+"en": "No Littering Sign",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 79000,
+"en": "No Parking Sign (Blue)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 79001,
+"en": "No Parking Sign (White)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 79002,
+"en": "Beer Case (Red)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 79003,
+"en": "Beer Case (Blue)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 79004,
+"en": "Gas Cylinder",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 79005,
+"en": "Convenience Store Trash Can (Cans)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 79006,
+"en": "Convenience Store Trash Can (Beverage Bottles)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 79007,
+"en": "Convenience Store Trash Can (Combustibles)",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 79008,
+"en": "Square Trash Can",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 79009,
+"en": "Long Folding Table",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 79010,
+"en": "Stool",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+},
+{
+"id": 79011,
+"en": "Plastic Case",
+"ctx": "nombre que sale en pantalla: lugar o calle (cartel de zona al entrar), tienda, objeto, arma o enemigo; corto, estilo cartel; nombres propios japoneses y marcas se dejan igual"
+}
+]

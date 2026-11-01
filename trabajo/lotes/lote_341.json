@@ -1,0 +1,1002 @@
+[
+{
+"id": 75212,
+"en": "○Did it go well?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75213,
+"en": "□Not so hot, huh?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75214,
+"en": "○Well, how about that!",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75215,
+"en": "□How did you manage that?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75216,
+"en": "□Don't rest on your laurels.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75217,
+"en": "△You're welcome.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75218,
+"en": "○Do what you've been doing.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75219,
+"en": "□You don't have to do anything.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75220,
+"en": "○That's a relief.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75221,
+"en": "□Go to a clinic right away.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75222,
+"en": "○I hope it's just a joke.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75223,
+"en": "□Are you sure you're all right?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75224,
+"en": "□No. Go see a doctor.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75225,
+"en": "□Don't feel bad.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75226,
+"en": "○That's right.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75227,
+"en": "□That may be unrealistic.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75228,
+"en": "○That's so sweet and innocent!",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75229,
+"en": "□You're kidding.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75230,
+"en": "□You'll get used to it.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75231,
+"en": "△How about now?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75232,
+"en": "○That day is today.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75233,
+"en": "□Don't be so hasty.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75234,
+"en": "○At least you've found the issue.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75235,
+"en": "△Why not practice?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75236,
+"en": "□I'm not as discerning as you.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75237,
+"en": "□Hmm...",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75238,
+"en": "○Simple enough.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75239,
+"en": "□That's discerning.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75240,
+"en": "○I'm a funny man.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75241,
+"en": "□I'm a straight man, too.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75242,
+"en": "○Busted.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75243,
+"en": "□I mean it.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75244,
+"en": "△Now make your joke!",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75245,
+"en": "○Want to give it a shot?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75246,
+"en": "□You're the funny man.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75247,
+"en": "○Hm. Thank you.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75248,
+"en": "□This happens a lot, doesn't it?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75249,
+"en": "○Uh, okay.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75250,
+"en": "□Tell me.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75251,
+"en": "□I can't help but wonder.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75252,
+"en": "□Why don't I believe you?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75253,
+"en": "□Come on, you're lying.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75254,
+"en": "□Does it matter either way?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75255,
+"en": "○That's the point.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75256,
+"en": "□That's going too far.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75257,
+"en": "△You like it, don't you?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75258,
+"en": "○Well, actually...",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75259,
+"en": "□You're reading into it too much.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75260,
+"en": "○Whatever you want to know.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75261,
+"en": "□Okay, but just one more.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75262,
+"en": "△That's a secret.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75263,
+"en": "○I heard you.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75264,
+"en": "△I didn't hear anything.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75265,
+"en": "○Well, I'll be.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75266,
+"en": "□That's hard on Japanese people.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75267,
+"en": "△Can they understand you?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75268,
+"en": "○Well, then.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75269,
+"en": "□Sure you do!",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75270,
+"en": "□That's pretty slow on the uptake!",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75271,
+"en": "○Is it?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75272,
+"en": "□That's not my point.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75273,
+"en": "△I want to dive into it.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75274,
+"en": "○They do stand out.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75275,
+"en": "□They aren't really that unusual.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75276,
+"en": "△They're not just gaudy.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75277,
+"en": "○I could learn from them.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75278,
+"en": "□That isn't all.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75279,
+"en": "△It's like a theme park.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75280,
+"en": "○Sorry.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75281,
+"en": "□It's not just a stereotype.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75282,
+"en": "□It's not just some girls.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75283,
+"en": "△You're just in denial.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75284,
+"en": "○That's true.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75285,
+"en": "□ That logic is odd.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75286,
+"en": "○That is scary.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75287,
+"en": "□Like you?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75288,
+"en": "□Music",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75289,
+"en": "○Can't handle it?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75290,
+"en": "□Fish is good for you.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75291,
+"en": "○That does sound fun.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75292,
+"en": "□Sounds dull.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75293,
+"en": "△Anything else?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75294,
+"en": "○Your ideal date.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75295,
+"en": "□Getting disillusioned with a man.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75296,
+"en": "△How many men have you dated?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75297,
+"en": "○Your strengths.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75298,
+"en": "□Your weaknesses.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75299,
+"en": "△Your favorite part of your body.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75300,
+"en": "○Well...",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75301,
+"en": "□Where can't a man touch you?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75302,
+"en": "○You're in great shape.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75303,
+"en": "□You're skinny!",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75304,
+"en": "So Many Cars",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75305,
+"en": "So Many Cafés",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75306,
+"en": "Nagoya Girls",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75307,
+"en": "Tequila's Popularity with Celebrities",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75308,
+"en": "Watching Baseball in the VIP Room",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75309,
+"en": "Miso's Health and Beauty Effects",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75310,
+"en": "Chicken Wings are Full of Collagen",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75311,
+"en": "Christmas, LA Style",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75312,
+"en": "□Isn't that backwards?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75313,
+"en": "○Must be expensive.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75314,
+"en": "□You have to go see her!",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75315,
+"en": "△So are you half-Japanese?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75316,
+"en": "○Your grandmother sounds nice.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75317,
+"en": "○That's a tough situation.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75318,
+"en": "□That's just an excuse.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75319,
+"en": "○I'm so jealous!",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75320,
+"en": "□You don't look it.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75321,
+"en": "○What do you take pictures of?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75322,
+"en": "□I don't do that.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75323,
+"en": "□What a waste.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75324,
+"en": "△I could take your picture.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75325,
+"en": "○Would I ever!",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75326,
+"en": "□Uh, well...",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75327,
+"en": "○Of course!",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75328,
+"en": "□That was a joke, sorry.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75329,
+"en": "○Hey, you're still young.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75330,
+"en": "□Bet the repair bill's high.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75331,
+"en": "○It must have been terrifying.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75332,
+"en": "□But that's part of the thrill.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75333,
+"en": "○She must be used to it.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75334,
+"en": "□That's harsh.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75335,
+"en": "△\"Again\"?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75336,
+"en": "○Yikes.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75337,
+"en": "□You reap what you sow.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75338,
+"en": "□How much was it?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75339,
+"en": "□I guess?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75340,
+"en": "○Can you drink?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75341,
+"en": "□So you can't drink?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75342,
+"en": "△Are you a mean drunk?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75343,
+"en": "□You'll be okay.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75344,
+"en": "△Come on, you must drink, right?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75345,
+"en": "△What caused it all?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75346,
+"en": "○It's a nice goal.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75347,
+"en": "□What's so great about America?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75348,
+"en": "△Green card?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75349,
+"en": "○Why not get married then?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75350,
+"en": "□That's absurd.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75351,
+"en": "○I hear you.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75352,
+"en": "□C'mon, so what?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75353,
+"en": "□You've really looked into this.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75354,
+"en": "○I think you should.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75355,
+"en": "□Keep at it.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75356,
+"en": "△Is there no other way?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75357,
+"en": "○Oh yeah!",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75358,
+"en": "□And that's it?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75359,
+"en": "□Come on, now.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75360,
+"en": "○I'd have slapped her too.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75361,
+"en": "□You can't do that.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75362,
+"en": "△She's jealous of you.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75363,
+"en": "□Of course not.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75364,
+"en": "△I don't know.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75365,
+"en": "△What do you think?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75366,
+"en": "□I wouldn't have expected that.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75367,
+"en": "□Maybe you shouldn't.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75368,
+"en": "□You should go soon.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75369,
+"en": "△What games would you play?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75370,
+"en": "○Neat!",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75371,
+"en": "△Have you tried pachinko slots?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75372,
+"en": "○Well, yes.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75373,
+"en": "○Well, so what?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75374,
+"en": "□Taking presents from customers?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75375,
+"en": "○It's a hand-me-down?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75376,
+"en": "□You don't buy stuff for yourself?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75377,
+"en": "○So it's an heirloom.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75378,
+"en": "△I could get you something new.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75379,
+"en": "○Oh yeah?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75380,
+"en": "△She beat you to the punch?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75381,
+"en": "○That's incredible!",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75382,
+"en": "□Yeah, that's a pain.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75383,
+"en": "○How Nagoya of them.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75384,
+"en": "□What a dick move.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75385,
+"en": "○That's not so bad.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75386,
+"en": "□Why not complain?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75387,
+"en": "△What do other families do?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75388,
+"en": "○What a dick move.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75389,
+"en": "□I'll take it!",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75390,
+"en": "□What the hell!?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75391,
+"en": "○I did.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75392,
+"en": "○Must be noisy.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75393,
+"en": "□You don't let him outside?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75394,
+"en": "○My bad.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75395,
+"en": "□What do you consider necessary?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75396,
+"en": "○That might be nice.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75397,
+"en": "○Smart dog.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75398,
+"en": "□I don't need that.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75399,
+"en": "△You don't have an alarm?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75400,
+"en": "○Wow, you just do as you please.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75401,
+"en": "□That's rude.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75402,
+"en": "○I'm a nightlife journalist.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75403,
+"en": "○So you're from around here.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75404,
+"en": "○You've had a good upbringing.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75405,
+"en": "□Don't worry about it so much.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75406,
+"en": "○You're stellar!",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75407,
+"en": "□You don't have to hide it.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75408,
+"en": "△What about me?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75409,
+"en": "○Maybe sometimes.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75410,
+"en": "□Not at all.",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+},
+{
+"id": 75411,
+"en": "○What sorts of things?",
+"ctx": "nombre de quien habla (rótulo corto encima del diálogo) u OPCIÓN de respuesta a elegir en una conversación o misión; si empieza por ○ o □ mantener ese signo al principio"
+}
+]
