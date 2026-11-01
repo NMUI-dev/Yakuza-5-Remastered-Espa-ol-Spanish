@@ -1,7 +1,5 @@
-﻿HERRAMIENTAS PARA TRADUCCIÓN - YAKUZA 5 REMASTERED
+﻿HERRAMIENTAS PARA TRADUCCIÓN - YAKUZA 5 REMASTERED (v1.0.2)
 ==================================================
-
->>> ANTES DE NADA: instala ParTool (2 minutos). Guía y enlace: «1 - LEEME PRIMERO - Instalar ParTool.txt»
 
 Con esto puedes ver TODOS los textos del juego (inglés original y español al lado), corregir los que quieras y volver a
 meterlos en el juego. Qué se hizo y cómo funciona por dentro: PASO_A_PASO.txt.
@@ -29,6 +27,15 @@ PASOS
 
 Los mensajes del sistema (data\db.devil\en\msg.bin: guardar partida, regalos, errores) también salen en el CSV y
 se aplican solos.
+
+DESDE LA v1.0.2 el CSV también trae (columna «donde» empieza por «extra-»):
+- extra-nom: nombre de quien habla, OPCIONES de respuesta y PREGUNTAS del concurso de las conversaciones.
+  «(改行)» es un salto de renglón del cuadro: deja el mismo número.
+- extra-sub: subtítulos de escena de DOS renglones.
+- extra-rep: frases de db.devil\en\msg.bin y msg_replacer.bin (carteles de zona, objetos, enemigos,
+  comentarios de los dardos). Respeta los ${...} y los saltos de línea.
+Si no cambias nada, «APLICAR» deja exactamente los mismos textos que el paquete v1.0.2.
+
 
 Para empezar de cero (otra versión del juego, otro idioma de base): borra la carpeta «trabajo».
 

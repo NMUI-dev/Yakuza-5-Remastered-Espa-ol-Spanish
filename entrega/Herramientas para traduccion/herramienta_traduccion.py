@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Yakuza 5 Remastered - herramienta de traducción (Kilo, 21-10-2026).
+"""Yakuza 5 Remastered - herramienta de traducción (Kilo, 21-10-2026; v1.0.2: claude1, 01-11-2026).
 
 Saca TODOS los textos del juego en inglés a una hoja (trabajo\\textos.csv, UTF-8 con BOM) con el inglés original y la
 traducción actual al lado, y después vuelve a meter en el juego lo que cambies en la columna «espanol».
@@ -27,10 +27,6 @@ SALIDA = os.path.join(AQUI, 'salida')
 DATOS = os.path.join(AQUI, 'datos')
 PROGRAMAS = os.path.join(AQUI, 'programas')
 PARTOOL = os.path.join(PROGRAMAS, 'ParTool', 'ParTool.exe')
-if not os.path.isfile(PARTOOL):
-    print('Falta ParTool.exe. Lee «1 - LEEME PRIMERO - Instalar ParTool.txt». Descarga directa:'); print('https://github.com/Kaplas80/ParManager/releases/download/v1.3.4/v1.3.4-windows-x64.zip')
-    print('Descomprímelo y copia ParTool.exe en: ' + os.path.dirname(PARTOOL))
-    input('Pulsa Intro para salir...'); sys.exit(1)
 REARMP = os.path.join(PROGRAMAS, 'reARMP', 'reARMP.py')
 CSV_TEXTOS = os.path.join(TRABAJO, 'textos.csv')
 EXTRAIDO = os.path.join(TRABAJO, 'extraido_en')
@@ -38,6 +34,7 @@ OBRA = os.path.join(TRABAJO, 'obra')
 TRADUCCIONES = os.path.join(DATOS, 'traducciones.json')
 CORTAS = os.path.join(DATOS, 'cortas.json')
 DEVIL_ES = os.path.join(DATOS, 'devil.json')
+EXTRA = os.path.join(DATOS, 'textos_extra.json')          # (v1.0.2) ver aplicar_extra()
 
 # ---------------------------------------------------------------- qué archivos del juego se tocan
 # carpeta extraída -> archivo .par del juego (relativo a data). Los mismos que el proyecto.
@@ -66,7 +63,8 @@ PAR_FILES = {
 # (..\archivos\data), no el original en inglés, para no perderlas. Solo se cambian los textos.
 IMAGE_PARS = {'2dpar/ui_en.par', '2dpar/sprite_en.par', 'pausepar/pause_en.par', 'bootpar/boot_en.par',
               'pausepar/idol_work_en.par', 'pausepar/movie_en.par', 'pausepar/taxi_en.par',
-              'pausepar/title_menu_en.par', 'pausepar/tougijyo_en.par'}
+              'pausepar/title_menu_en.par', 'pausepar/tougijyo_en.par',
+              'auth_telop/auth_telop_en.par'}   # (v1.0.2) rótulos de escena
 # carpetas del juego que no son .par: sus archivos sueltos se cambian y se copian tal cual
 SUELTOS = ('scenario_en', 'minigame_en')
 # la fuente: el paquete ya trae la versión con las tildes, la ñ y el ¿ ¡ bien dibujados
@@ -410,6 +408,8 @@ def extraer():
                 anotar(c['t'], donde); nceldas += 1
     for c in extraer_mensajes_sistema(d_en):
         anotar(c['t'], 'devil | db.devil/en/msg.bin:' + str(c['k'])); nceldas += 1
+    for x in json_leer(EXTRA) or []:              # (v1.0.2) nombres/opciones, subtítulos de 2 renglones, db.devil
+        anotar(x['t'], 'extra-' + x['f'] + ' | ' + x['a']); nceldas += 1
     # rellenar el español con la traducción actual
     tr = json_leer(TRADUCCIONES)
     rellenas = 0
@@ -661,6 +661,7 @@ def aplicar():
     if nuevo:
         out = os.path.join(salida_data, 'db.devil', 'en', 'msg.bin'); os.makedirs(os.path.dirname(out), exist_ok=True)
         open(out, 'wb').write(nuevo); print('  db.devil/en/msg.bin (mensajes del sistema)')
+    aplicar_extra(salida_data, d_en, tr)
     # la fuente con las tildes, la ñ y el ¿ ¡ bien dibujados
     fuente = os.path.join(PAQUETE, 'archivos', 'data', FUENTE)
     if os.path.exists(fuente):
@@ -680,6 +681,130 @@ def aplicar():
         print(f'Copiado encima de {destino}: ahora ejecuta «INSTALAR o QUITAR.bat» y elige 1.')
     else:
         print(f'Para probarlo, copia «salida\\data» encima de la carpeta «archivos\\data» y ejecuta el instalador.')
+
+
+# ---------------------------------------------------------------- v1.0.2: lo que la v1.0.1 no traducía
+# datos\textos_extra.json = lo que sacaron herramientas\extraer_extra.py y extraer_extra2.py del proyecto:
+#   nom  tabla de NOMBRES de quien habla / OPCIONES / preguntas del concurso al final de cada .msg (u16 n en 0x0E,
+#        tabla de u32 big endian en 0x10): la cadena nueva va al final del .msg y se redirige su puntero
+#   sub  subtítulos con salto de línea DENTRO de comillas (auth\subtitle.par)
+#   rep  db.devil\en\msg.bin y msg_replacer.bin: cadena al final y puntero u32 little endian, solo si el texto cambia
+#        y el u32 de al lado también apunta a una cadena (un valor de cabecera igual al offset de «Po» cerraba el juego)
+# RESTOS: inglés que quedó dentro de diálogos ya traducidos; se cambia en su sitio con el mismo número de bytes.
+RESTOS = {' Even chicken or horse.': ' Hasta pollo o caballo.', 'Huy, boy.': 'Ay, Dios.'}
+
+
+def _anadir(b, s):
+    while len(b) % 4: b += b'\0'
+    off = len(b); b += s.encode('utf-8') + b'\0'
+    return off
+
+
+_BASE_TR = {}
+
+
+def _es_extra(x, tr, t=None):
+    """El español de un texto de la v1.0.2: el que escribió el usuario en la hoja si lo cambió; si no, el de la
+    entrega (guardado en textos_extra.json, campo «es»), para que «aplicar» sin cambios dé lo mismo que el paquete."""
+    t = x['t'] if t is None else t
+    if not _BASE_TR: _BASE_TR.update(json_leer(TRADUCCIONES) or {})
+    k = norm(t); u = tr.get(k)
+    r = u if (u and u != _BASE_TR.get(k)) else (x.get('es') if x.get('es') is not None else u)
+    if r is None: return None
+    if PRUEBA: return 'ñ·' + t
+    r = r.replace('\r\n', '\n')
+    if '\r\n' in t: r = r.replace('\n', '\r\n')
+    if t[:1] in '○□△●■' and r[:1] != t[:1]: r = t[0] + r.lstrip('○□△●■')   # signo de opción delante
+    return r.translate(LETRAS)
+
+
+def _cadena(b, q):
+    if not 0 < q < len(b) or b[q - 1] != 0: return False
+    try: t = b[q:b.index(b'\0', q)].decode('utf-8')
+    except (ValueError, UnicodeDecodeError): return False
+    return bool(t) and all(c.isprintable() or c in '\r\n\t' for c in t)
+
+
+def aplicar_extra(salida_data, d_en, tr):
+    xs = json_leer(EXTRA) or []
+    if not xs: return
+    por = collections.defaultdict(list)
+    for x in xs: por[(x['f'], x['a'])].append(x)
+    st = collections.Counter(); tmp = os.path.join(TRABAJO, 'extra_tmp'); rm_tree(tmp)
+
+    def base_de(rel):
+        p = os.path.join(salida_data, rel)
+        return p if os.path.exists(p) else os.path.join(d_en, rel)
+
+    def rearmar(par, base, add, que):
+        out = os.path.join(salida_data, par); nuevo = out + '.nuevo'
+        os.makedirs(os.path.dirname(out), exist_ok=True)
+        partool('add', base, add, nuevo); os.replace(nuevo, out); print('  par', par, que)
+    # --- .msg de wdr.par: tabla de nombres + restos
+    par = 'wdr_par_en/wdr.par'; base = base_de(par); full = os.path.join(tmp, 'wdr'); add = os.path.join(tmp, 'wdr_add')
+    partool('extract', base, full)
+    for (f, a), v in por.items():
+        if f != 'nom' or not a.startswith('wdr_par_en_wdr/'): continue
+        rel = a[len('wdr_par_en_wdr/'):]; p = os.path.join(full, rel)
+        if not os.path.exists(p): continue
+        b = bytearray(open(p, 'rb').read()); cambio = False
+        for x in v:
+            es = _es_extra(x, tr)
+            if es is None or es == x['t']: continue
+            q = struct.unpack('>I', b[x['ptr']:x['ptr'] + 4])[0]
+            if b[q:b.index(b'\0', q)].decode('utf-8', 'replace') != x['t']: st['nom_distinto'] += 1; continue
+            struct.pack_into('>I', b, x['ptr'], _anadir(b, es)); st['nom'] += 1; cambio = True
+        if cambio:
+            while len(b) % 4: b += b'\0'
+            d = os.path.join(add, rel); os.makedirs(os.path.dirname(d), exist_ok=True); open(d, 'wb').write(b)
+    for dp, _, fs in os.walk(full):
+        for fn in fs:
+            if not fn.endswith('.msg'): continue
+            q = os.path.join(dp, fn); d = os.path.join(add, os.path.relpath(q, full))
+            b = open(d if os.path.exists(d) else q, 'rb').read(); b2 = b
+            for viejo, nuevo in RESTOS.items(): b2 = b2.replace(viejo.encode(), nuevo.encode())
+            if b2 != b: os.makedirs(os.path.dirname(d), exist_ok=True); open(d, 'wb').write(b2); st['resto'] += 1
+    if os.path.isdir(add): rearmar(par, base, add, '(nombres, opciones y preguntas)')
+    # --- subtítulos con salto de línea entre comillas
+    subs = {a for (f, a) in por if f == 'sub'}
+    if subs:
+        par = 'auth/subtitle.par'; base = base_de(par); full = os.path.join(tmp, 'sub'); add = os.path.join(tmp, 'sub_add')
+        partool('extract', base, full)
+        for dp, _, fs in os.walk(full):
+            for fn in fs:
+                if fn not in subs: continue
+                p = os.path.join(dp, fn); raw = open(p, 'rb').read(); tx = raw.decode('utf-16'); n0 = st['sub']
+                guardado = {x['t']: x for x in por[('sub', fn)]}
+
+                def cambia(m):
+                    x = guardado.get(m.group(2))
+                    es = _es_extra(x, tr) if x else es_de(m.group(2), tr)
+                    if es is None or es == m.group(2): return m.group(0)
+                    st['sub'] += 1          # comilla de dentro = "" (como en el CSV original)
+                    return m.group(1) + '"' + es.replace('""', '"').replace('"', '""') + '"\t'
+                tx2 = re.sub(r'((?:^|\r\n)\d+\t\d+\t)"(.*?)"\t', cambia, tx, flags=re.S)
+                if st['sub'] > n0 and tx2.count('\r\n') == tx.count('\r\n'):
+                    d = os.path.join(add, os.path.relpath(p, full)); os.makedirs(os.path.dirname(d), exist_ok=True)
+                    open(d, 'wb').write(tx2.encode('utf-16') if raw[:2] in (b'\xff\xfe', b'\xfe\xff') else tx2.encode('utf-16-le'))
+        if os.path.isdir(add): rearmar(par, base, add, '(subtítulos de dos renglones)')
+    # --- tablas de db.devil\en
+    for arch in sorted({a for (f, a) in por if f == 'rep'}):
+        src = base_de(arch)
+        if not os.path.exists(src): continue
+        b = bytearray(open(src, 'rb').read()); b0 = bytes(b); n0 = st['rep']
+        for x in por[('rep', arch)]:
+            es = _es_extra(x, tr)
+            if es is None or es == x['t']: continue
+            p = x['ptr']; vec = [struct.unpack('<I', b0[q:q + 4])[0] for q in (p - 4, p + 4) if 0 <= q <= len(b0) - 4]
+            if not any(_cadena(b0, q) for q in vec): continue
+            if struct.unpack('<I', b[p:p + 4])[0] != x['off']: st['rep_distinto'] += 1; continue
+            struct.pack_into('<I', b, p, _anadir(b, es)); st['rep'] += 1
+        if st['rep'] > n0:
+            while len(b) % 16: b += b'\0'
+            out = os.path.join(salida_data, arch); os.makedirs(os.path.dirname(out), exist_ok=True)
+            open(out, 'wb').write(b); print('  ', arch, '(textos de la v1.0.2)')
+    rm_tree(tmp)
+    print('   v1.0.2:', dict(st))
 
 
 # ---------------------------------------------------------------- main

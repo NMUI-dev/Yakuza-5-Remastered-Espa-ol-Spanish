@@ -12,6 +12,8 @@ L = os.path.join(T, 'lotes'); PT = os.path.join(R, 'herramientas', 'partool', 'P
 TMP = os.path.join(T, 'extra', 'tmp')
 PRUEBA = '--prueba' in sys.argv
 LETRAS = str.maketrans({'¡': '½', 'í': '`', 'Í': '|'})      # = aplicar.py (letra del juego)
+RESTOS = {' Even chicken or horse.': ' Hasta pollo o caballo.', 'Huy, boy.': 'Ay, Dios.'}   # mismo largo en bytes
+EXACTAS = {}   # (01-11) inglés tal cual -> español: se prueba ANTES que la búsqueda sin etiquetas ni espacios
 norm = lambda s: re.sub(r'\s+', ' ', re.sub(r'<[^>]*>', '', s)).strip()
 
 
@@ -23,18 +25,32 @@ def traducciones():
         es = json.load(open(fe, encoding='utf-8'))
         for x in json.load(open(f, encoding='utf-8')):
             t = es.get(str(x['id']))
-            if isinstance(t, str) and t.strip(): gen.setdefault(norm(x['en']), t)
+            if isinstance(t, str) and t.strip():
+                gen.setdefault(norm(x['en']), t)
+                EXACTAS.setdefault(x['en'].replace('\r\n', '\n'), t)
     return gen
 
 
 def es_de(t, gen):
     if PRUEBA: return 'ñ·' + t
-    r = gen.get(norm(t))
-    if r is None: return None
+    # (01-11) primero la frase EXACTA; sin ella, la parecida (sin etiquetas ni espacios) podía traer etiquetas de color
+    # o espacios que el original no lleva («Vine a terminar esto, hermano.» salía coloreado): se quitan
+    r = EXACTAS.get(t.replace('\r\n', '\n'))
+    if r is None:
+        r = gen.get(norm(t))
+        if r is None: return None
+        if not re.search(r'<[^>]*>', t): r = re.sub(r'<[^>]*>', '', r)
+        r = r.strip() + t[len(t.rstrip()):]
     r = r.replace('\r\n', '\n')
     if '\r\n' in t: r = r.replace('\n', '\r\n')
     if t[:1] in '○□△●■' and r[:1] != t[:1]: r = t[0] + r.lstrip('○□△●■')       # signo de opción delante
     return r.translate(LETRAS)
+
+
+def es_crudo(t, gen):
+    """El español que se mete, ANTES de pasar ¡ í Í a las casillas de la letra del juego (para la herramienta)."""
+    r = es_de(t, gen)
+    return None if r is None else r.translate(str.maketrans({'½': '¡', '`': 'í', '|': 'Í'}))
 
 
 def partool(*a):
@@ -75,6 +91,16 @@ def main():
             if cambio:
                 while len(b) % 4: b += b'\0'
                 d = os.path.join(add, rel); os.makedirs(os.path.dirname(d), exist_ok=True); open(d, 'wb').write(b)
+        # (01-11) restos de inglés DENTRO de diálogos ya traducidos (barrido final): se cambian en su sitio, con el
+        # mismo número de bytes (el registro del .msg no se rehace)
+        for q in glob.glob(os.path.join(full, '**', '*.msg'), recursive=True):
+            d = os.path.join(add, os.path.relpath(q, full))
+            b = open(d if os.path.exists(d) else q, 'rb').read(); b2 = b
+            for viejo, nuevo in RESTOS.items():
+                assert len(viejo.encode()) == len(nuevo.encode()), viejo
+                b2 = b2.replace(viejo.encode(), nuevo.encode())
+            if b2 != b:
+                os.makedirs(os.path.dirname(d), exist_ok=True); open(d, 'wb').write(b2); st['resto_en_sitio'] += 1
         if os.path.isdir(add):
             o = os.path.join(sal, par); os.makedirs(os.path.dirname(o), exist_ok=True)
             partool('add', os.path.join(base, par), add, o); print('par', par)
@@ -101,11 +127,11 @@ def main():
         if os.path.isdir(add):
             o = os.path.join(sal, 'auth/subtitle.par'); os.makedirs(os.path.dirname(o), exist_ok=True)
             partool('add', os.path.join(base, 'auth/subtitle.par'), add, o); print('par auth/subtitle.par')
-    # --- msg_replacer.bin ---
-    v = por.get(('rep', 'db.devil/en/msg_replacer.bin'))
-    if v:
-        src = os.path.join(base, 'db.devil/en/msg_replacer.bin')
-        if not os.path.exists(src): src = os.path.join(T, 'db_en', 'msg_replacer.bin')     # la v1.0.1 no lo traía
+    # --- tablas ARMP de db.devil/en: msg_replacer.bin y (01-11, extraer_extra2.py) msg.bin ---
+    for arch in sorted({a for (f, a) in por if f == 'rep'}):
+        v = por[('rep', arch)]
+        src = os.path.join(base, arch)
+        if not os.path.exists(src): src = os.path.join(T, 'db_en', os.path.basename(arch))     # la v1.0.1 no lo traía
         b = bytearray(open(src, 'rb').read()); b0 = bytes(b)
 
         def cadena_en(q):
@@ -125,8 +151,8 @@ def main():
             if struct.unpack('<I', b[x['ptr']:x['ptr'] + 4])[0] != x['off']: st['rep_distinto'] += 1; continue
             struct.pack_into('<I', b, x['ptr'], anadir(b, es)); st['rep'] += 1
         while len(b) % 16: b += b'\0'
-        o = os.path.join(sal, 'db.devil/en/msg_replacer.bin'); os.makedirs(os.path.dirname(o), exist_ok=True)
-        open(o, 'wb').write(b); print('db.devil/en/msg_replacer.bin')
+        o = os.path.join(sal, arch); os.makedirs(os.path.dirname(o), exist_ok=True)
+        open(o, 'wb').write(b); print(arch)
     print('puestos', dict(st), '| sin traducción todavía', dict(sin))
 
 

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""(01-11-2026, claude1) Las 189 líneas de LETRA del karaoke (minigame_en/karaoke_e.par, 2d_jm_ok_*.dds, 512x64): borrar
+"""(01-11-2026, claude1) Las 199 líneas de LETRA del karaoke (minigame_en/karaoke_e.par, 2d_jm_ok_* y 2d_yk_ok_*.dds, 512x64): borrar
 y escribir encima dejaba restos del inglés y cada línea con su tamaño. Se REHACEN enteras: textura vacía y la línea en
 español en blanco con borde negro, a la izquierda (x 3) y a la misma altura que el original; si no cabe en 506 px se
 estrecha. Traducción: la del lote (bloque del OCR); las 11 líneas que el OCR partió en trozos, enteras aquí (A_MANO).
@@ -29,7 +29,18 @@ A_MANO = {   # textura: (inglés entero, español)
     'rain_drops17': ('Coming like rain in the dead of night', 'Llegando como lluvia en plena noche'),
     'rain_drops22': ('Turning into drops of rain falling forever', 'Convirtiéndose en gotas de lluvia que caen sin fin'),
     'rouge_of_love06': ('I\'m so over, men and this "love" business', 'Estoy harta de los hombres y de este rollo del "amor"'),
-    'rouge_of_love07': ("They don't mean a thing to me, throw it all away", 'No significan nada para mí, lo tiro todo por la borda')}
+    'rouge_of_love07': ("They don't mean a thing to me, throw it all away", 'No significan nada para mí, lo tiro todo por la borda'),
+    # (01-11) «Kamurocho Lullaby»: sus líneas se llaman 2d_yk_ok_* (no 2d_jm_ok_) y el OCR de imagenes_extra no las cogió
+    'kamuro_setugekka01': ('Butterflies of the night, how they flutter', 'Mariposas de la noche, cómo revolotean'),
+    'kamuro_setugekka02': ('Bewitching me, leading me on', 'Me hechizan, me van seduciendo'),
+    'kamuro_setugekka03': ('Turning desire, and love', 'Convierten el deseo y el amor'),
+    'kamuro_setugekka04': ('into a pure serenade, Kamurocho', 'en una pura serenata, Kamurocho'),
+    'kamuro_setugekka05': ("Cradled gently by the evening's embrace", 'Acunado suavemente por el abrazo de la noche'),
+    'kamuro_setugekka06': ('Tears rolling down my sullen face', 'Lágrimas corren por mi rostro sombrío'),
+    'kamuro_setugekka07': ('The dancing snow flutters soft to the ground', 'La nieve danza y cae suave hasta el suelo'),
+    'kamuro_setugekka08': ('The whitest of whites even in this dirty town', 'Lo más blanco de lo blanco, aun en esta ciudad sucia'),
+    'kamuro_setugekka09': ('Flowers, they bloom. Petals, they fall', 'Las flores florecen. Los pétalos caen'),
+    'kamuro_setugekka10': ('Your beauty, sees me through it all', 'Tu belleza me acompaña en todo')}
 
 
 def dibujar(texto):
@@ -51,7 +62,8 @@ def main():
     gen = AX.traducciones(); gen_l = {k.lower(): v for k, v in gen.items()}
     atlas_es.TEX, atlas_es.SAL = T, os.path.join(T, 'imagenes', 'es_extra')
     rev = os.path.join(T, 'imagenes', 'revision_extra'); os.makedirs(rev, exist_ok=True)
-    rutas = sorted({k.split('#')[0] for k in bloques if k.startswith(CARP + '2d_jm_ok_')})
+    rutas = sorted({k.split('#')[0] for k in bloques if k.startswith(CARP + '2d_jm_ok_')} |
+                   {CARP + f'2d_yk_ok_{n}.dds' for n in A_MANO if n.startswith('kamuro_setugekka')})
     n = estrechas = 0; falta = []
     for ruta in rutas:
         nom = ruta[len(CARP) + len('2d_jm_ok_'):-4]

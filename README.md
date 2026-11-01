@@ -137,15 +137,22 @@ python herramientas/barrido.py extraer <game data> trabajo/barrido_3110   # unpa
 python herramientas/barrido.py buscar trabajo/barrido_3110; python herramientas/barrido_msg.py trabajo/barrido_3110/x
 python herramientas/extraer_extra.py      # names/options, 2-line subtitles, msg_replacer -> trabajo/extra/textos.json + lots 326-367
 python -u herramientas/ocr_sin_revisar.py; python herramientas/imagenes_extra.py   # textures left in English -> lots 368-369
+python herramientas/extraer_extra2.py     # final sweep: quiz questions, options, multi-line db.devil strings -> lot 370
 python herramientas/aplicar_extra.py entrega_v101/archivos/data trabajo/salida_v102/data   # the new text
 python herramientas/telops_es.py; python herramientas/karaoke_letras_es.py          # scene captions, karaoke lyrics
 python herramientas/imagenes_extra_es.py; python herramientas/capitulos_v102.py      # darts, chapter subtitles
 python herramientas/armar_v102.py         # packs the textures -> trabajo/salida_v102/data
+python herramientas/comparar_original.py # vs the ORIGINAL game: same files in every .par, same texture sizes,
+                                         # same .msg name tables and subtitle rows (0 failures in 35 files)
 ```
 
 The v1.0.2 mod is `entrega_v101/archivos/data` with `trabajo/salida_v102/data` copied over it, plus `entrega/`.
 `aplicar_extra.py` only redirects a `msg_replacer.bin` pointer when the text changes and the slot is part of a pointer
 table (one header value happened to equal the offset of the string «Po»; changing it crashed the game at startup).
+Exact English matches are used first; the fuzzy match (tags and spaces ignored) no longer adds colour tags or
+spaces the original line does not have. The translation tools (`entrega/Herramientas para traduccion`) now extract
+and apply these texts too (`datos/textos_extra.json`); with no edits they reproduce the release text exactly
+(`herramientas/comparar_textos.py`: 0 differences in 187,523 texts).
 
 ## Testing
 

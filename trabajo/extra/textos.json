@@ -105036,5 +105036,645 @@
 "off": 906106,
 "ptr": 906520,
 "t": "We can't let them get away!"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid00xxxxxx/uid00020b5c.msg",
+"ptr": 43724,
+"t": "Ask about the Watami/Watamin-chi Audition"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid00xxxxxx/uid00130339.msg",
+"ptr": 20624,
+"t": "Enhancing Abilities by Eating 1/5"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid00xxxxxx/uid00130339.msg",
+"ptr": 20628,
+"t": "Enhancing Abilities by Eating 2/5"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid00xxxxxx/uid00130339.msg",
+"ptr": 20632,
+"t": "Enhancing Abilities by Eating 3/5"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid00xxxxxx/uid00130339.msg",
+"ptr": 20636,
+"t": "Enhancing Abilities by Eating 4/5"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid00xxxxxx/uid00130339.msg",
+"ptr": 20640,
+"t": "Enhancing Abilities by Eating 5/5"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid00xxxxxx/uid0013033b.msg",
+"ptr": 23116,
+"t": "Enhancing Abilities by Eating 1/5"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid00xxxxxx/uid0013033b.msg",
+"ptr": 23120,
+"t": "Enhancing Abilities by Eating 2/5"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid00xxxxxx/uid0013033b.msg",
+"ptr": 23124,
+"t": "Enhancing Abilities by Eating 3/5"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid00xxxxxx/uid0013033b.msg",
+"ptr": 23128,
+"t": "Enhancing Abilities by Eating 4/5"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid00xxxxxx/uid0013033b.msg",
+"ptr": 23132,
+"t": "Enhancing Abilities by Eating 5/5"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid00xxxxxx/uid0013033c.msg",
+"ptr": 51656,
+"t": "Enhancing Abilities by Eating 1/5"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid00xxxxxx/uid0013033c.msg",
+"ptr": 51660,
+"t": "Enhancing Abilities by Eating 2/5"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid00xxxxxx/uid0013033c.msg",
+"ptr": 51664,
+"t": "Enhancing Abilities by Eating 3/5"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid00xxxxxx/uid0013033c.msg",
+"ptr": 51668,
+"t": "Enhancing Abilities by Eating 4/5"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid00xxxxxx/uid0013033c.msg",
+"ptr": 51672,
+"t": "Enhancing Abilities by Eating 5/5"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid00xxxxxx/uid0013033d.msg",
+"ptr": 28336,
+"t": "Enhancing Abilities by Eating 1/5"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid00xxxxxx/uid0013033d.msg",
+"ptr": 28340,
+"t": "Enhancing Abilities by Eating 2/5"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid00xxxxxx/uid0013033d.msg",
+"ptr": 28344,
+"t": "Enhancing Abilities by Eating 3/5"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid00xxxxxx/uid0013033d.msg",
+"ptr": 28348,
+"t": "Enhancing Abilities by Eating 4/5"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid00xxxxxx/uid0013033d.msg",
+"ptr": 28352,
+"t": "Enhancing Abilities by Eating 5/5"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid010c0da4.msg",
+"ptr": 70220,
+"t": "Four \\50 and three \\80 stamps."
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid010c0da4.msg",
+"ptr": 70224,
+"t": "Three \\50 and three \\80 stamps."
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid010c0da4.msg",
+"ptr": 70228,
+"t": "Five \\50 and two \\80 stamps."
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901c9.msg",
+"ptr": 21764,
+"t": "The name of this town is spelled(改行)\"S-o-t-e-n-h-o-r-i.\" True or false?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901c9.msg",
+"ptr": 21776,
+"t": "There are no parks in Sotenbori.(改行)True or false?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901c9.msg",
+"ptr": 21780,
+"t": "The name of Haruka Sawamura-san's talent agency(改行)is \"Dino Chair.\" True or false?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901c9.msg",
+"ptr": 21792,
+"t": "At Dyna Chair, Haruka Sawamura-san has her(改行)lessons on the fourth floor. True or false?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901c9.msg",
+"ptr": 21796,
+"t": "There are no game arcades in Sotenbori.(改行)True or false?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901c9.msg",
+"ptr": 21800,
+"t": "The name of the popular duo appearing on the(改行)Princess League now is \"T-Set.\"(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901c9.msg",
+"ptr": 21804,
+"t": "There isn't a single karaoke joint in(改行)Sotenbori. True or false?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901c9.msg",
+"ptr": 21812,
+"t": "There is both a takoyaki shop and a taiyaki(改行)shop in Sotenbori. True or false?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901c9.msg",
+"ptr": 21816,
+"t": "What is the famous crab restaurant in(改行)Sotenbori called?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901c9.msg",
+"ptr": 21828,
+"t": "Sotenbori's bustling bridge with the round plaza(改行)is called...?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901cf.msg",
+"ptr": 21964,
+"t": "There is no yakisoba shop in Sotenbori, but(改行)there's a ramen shop. True or false?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901cf.msg",
+"ptr": 21976,
+"t": "The song for round one of the Princess(改行)League finals is \"Much, Much More!\"(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901cf.msg",
+"ptr": 21988,
+"t": "The name of the park in Sotenbori is(改行)\"Ashitama Park.\" True or false?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901cf.msg",
+"ptr": 22000,
+"t": "There is only one \"M Store\" convenience(改行)store in Sotenbori. True or false?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901cf.msg",
+"ptr": 22004,
+"t": "The chairman of the Sotenbori Merchants(改行)Association is Mr. Utah. True or false?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901cf.msg",
+"ptr": 22008,
+"t": "The name of the T-Set member with the bobbed(改行)hair is \"Azusa.\" True or false?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901cf.msg",
+"ptr": 22012,
+"t": "Which one is the popular okonomiyaki restaurant(改行)in Sotenbori?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901cf.msg",
+"ptr": 22024,
+"t": "What's the name of the takoyaki shop in(改行)Sotenbori?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901cf.msg",
+"ptr": 22036,
+"t": "Popular Sotenbori street competitions of(改行)rhythm and skill are called...?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901cf.msg",
+"ptr": 22048,
+"t": "The driving range on Sotenbori Street is called...?(改行)(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901d5.msg",
+"ptr": 22004,
+"t": "Which is the name of a bar in Sotenbori?(改行)(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901d5.msg",
+"ptr": 22016,
+"t": "There's a giant cat figurine at the entrance(改行)to the fried pork skewer restaurant Daruma.(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901d5.msg",
+"ptr": 22028,
+"t": "There are four tecchiri nabe sets at(改行)Zuboraya. The cheapest is the \"Benten.\"(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901d5.msg",
+"ptr": 22036,
+"t": "Magutako's most expensive product is its(改行)twelve-piece takoyaki set.(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901d5.msg",
+"ptr": 22048,
+"t": "At Sotenbori's Ganko Sushi, there is a kaiseki(改行)course that costs more than 10,000 yen.(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901d5.msg",
+"ptr": 22052,
+"t": "There is a hostess club in Sotenbori named(改行)\"Elise.\" True or false?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901d5.msg",
+"ptr": 22064,
+"t": "How many places are there in Sotenbori where(改行)it's easy to grab a taxi?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901d5.msg",
+"ptr": 22076,
+"t": "What is the Princess League's MC's name?(改行)(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901d5.msg",
+"ptr": 22088,
+"t": "What shape is Ashitaba Park in southeast(改行)Sotenbori?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016901d5.msg",
+"ptr": 22100,
+"t": "What beer is advertised on the huge neon(改行)yellow sign you can see from Iwao Bridge?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016904ba.msg",
+"ptr": 21124,
+"t": "In humans, the large intestine is longer(改行)than the small intestine. True or false?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016904ba.msg",
+"ptr": 21136,
+"t": "It's currently the twenty-first century.(改行)Einstein was born in the nineteenth century.(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016904ba.msg",
+"ptr": 21148,
+"t": "What flower does the Japanese imperial(改行)crest depict?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016904ba.msg",
+"ptr": 21160,
+"t": "The hedgehog is the only currently existing(改行)mammal that lays eggs. True or false?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016904ba.msg",
+"ptr": 21168,
+"t": "The symbol of the Olympic Games is five(改行)rings: blue, yellow, black, green, and what?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016904ba.msg",
+"ptr": 21180,
+"t": "What kind of leaves did Adam and Eve use to(改行)hide their nakedness?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016904ba.msg",
+"ptr": 21192,
+"t": "What is the third letter of the Greek(改行)alphabet?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016904ba.msg",
+"ptr": 21204,
+"t": "When telephoning Japan from outside the(改行)country, what country code must you use?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016904ba.msg",
+"ptr": 21216,
+"t": "What organization was established in 1945 to(改行)promote international cooperation?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016904ba.msg",
+"ptr": 21228,
+"t": "What's the largest entertainment and shopping(改行)district in Fukuoka?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016904be.msg",
+"ptr": 21548,
+"t": "\"The quick brown fox jumps over the crazy(改行)log\" contains every letter of the alphabet.(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016904be.msg",
+"ptr": 21560,
+"t": "The greatest prime number under 100 is 89.(改行)True or false?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016904be.msg",
+"ptr": 21568,
+"t": "\"As dry as a bone\" is an example of what(改行)kind of figure of speech?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016904be.msg",
+"ptr": 21580,
+"t": "\"My kingdom for a horse!\" is a quote from(改行)Shakespeare's \"Hamlet.\"(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016904be.msg",
+"ptr": 21592,
+"t": "There is such a thing as both a \"turkey(改行)vulture\" and a \"turkey flamingo.\"(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016904be.msg",
+"ptr": 21604,
+"t": "In English history, the Victorian era was(改行)longer than the Edwardian era.(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016904be.msg",
+"ptr": 21612,
+"t": "Heisei is the current era in Japan. What(改行)year did it start?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016904be.msg",
+"ptr": 21624,
+"t": "What's the name of a popular chain of(改行)izakaya pubs with sexy waitresses?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016904be.msg",
+"ptr": 21636,
+"t": "What's the name of the popular sushi chain(改行)found in Fukuoka, Sapporo, and other places?(改行)"
+},
+{
+"f": "nom",
+"a": "wdr_par_en_wdr/wdr_en/msg/uid01xxxxxx/uid016904be.msg",
+"ptr": 21648,
+"t": "What kind of data storage is used with the(改行)Dreamcast video game console?(改行)"
+},
+{
+"f": "rep",
+"a": "db.devil/en/msg.bin",
+"off": 189,
+"ptr": 10644,
+"t": "Continue the game without saving the System Data?\n(Please be aware that if you do not save the System Data, then you may lose settings and game clear information.)"
+},
+{
+"f": "rep",
+"a": "db.devil/en/msg.bin",
+"off": 353,
+"ptr": 10648,
+"t": "Continue without saving?"
+},
+{
+"f": "rep",
+"a": "db.devil/en/msg.bin",
+"off": 378,
+"ptr": 10652,
+"t": "If you do not save the Clear Data, then the additional menus that appear after a clear will not be saved.\nReturn to title without saving Clear Data?"
+},
+{
+"f": "rep",
+"a": "db.devil/en/msg.bin",
+"off": 557,
+"ptr": 10664,
+"t": "You cannot turn back from this point. It is recommended to not overwrite the Save Data and create a new file.\nDo you want to save?"
+},
+{
+"f": "rep",
+"a": "db.devil/en/msg.bin",
+"off": 688,
+"ptr": 10668,
+"t": "You will create data that will be used for the newly unlocked post-clear mode.\nThis will save all elements, but if you begin a \"New Game using Clear Data,\" then elements such as substory progression will not be saved.\nIt is recommended to create a new Save Data. Please be aware of this when overwriting an existing Save Data.\nSave this Clear Data? "
+},
+{
+"f": "rep",
+"a": "db.devil/en/msg.bin",
+"off": 1496,
+"ptr": 10756,
+"t": "${title}\nPlay time: ${hour}:${min}:${sec}\nNumber of saves: ${save} times\nNumber of continues: ${continue} times\nDifficulty: ${difficulty}\n${hint}"
+},
+{
+"f": "rep",
+"a": "db.devil/en/msg.bin",
+"off": 1642,
+"ptr": 10760,
+"t": "Clear Data\nClear time: ${hour}:${min}:${sec}\nNumber of saves: ${save} times\nNumber of continues: ${continue} times\nDifficulty: ${difficulty}"
+},
+{
+"f": "rep",
+"a": "db.devil/en/msg.bin",
+"off": 1783,
+"ptr": 10764,
+"t": "Premium Adventure\nPlay time: ${hour}:${min}:${sec}\nNumber of saves: ${save} times\nNumber of continues: ${continue} times\n${hint}"
+},
+{
+"f": "rep",
+"a": "db.devil/en/msg.bin",
+"off": 2082,
+"ptr": 10796,
+"t": "To load this Save Data,\nyou will need to wait for the game to be installed first."
+},
+{
+"f": "rep",
+"a": "db.devil/en/msg.bin",
+"off": 2570,
+"ptr": 10888,
+"t": "Installation must complete to proceed.\nTime remaining: ${hour} hour(s), ${min} minute(s)"
+},
+{
+"f": "rep",
+"a": "db.devil/en/msg.bin",
+"off": 2702,
+"ptr": 10896,
+"t": "System Data from Fist of the North Star: Lost Paradise has been found.\nReceived \"Gold Plate\" as a present."
+},
+{
+"f": "rep",
+"a": "db.devil/en/msg.bin",
+"off": 2913,
+"ptr": 10932,
+"t": "System Data from Judgment has been found.\nReceived \"Gold Plate\" as a present."
+},
+{
+"f": "rep",
+"a": "db.devil/en/msg_replacer.bin",
+"off": 50564,
+"ptr": 50872,
+"t": "A 2?\nOr maybe a 3?"
+},
+{
+"f": "rep",
+"a": "db.devil/en/msg_replacer.bin",
+"off": 50639,
+"ptr": 50888,
+"t": "A 4?\nOr maybe a 5?"
+},
+{
+"f": "rep",
+"a": "db.devil/en/msg_replacer.bin",
+"off": 50712,
+"ptr": 50904,
+"t": "A 7?\nOr maybe an 8?"
+},
+{
+"f": "rep",
+"a": "db.devil/en/msg_replacer.bin",
+"off": 50732,
+"ptr": 50908,
+"t": "Gotta be a 7!\nOr is it 8?"
+},
+{
+"f": "rep",
+"a": "db.devil/en/msg_replacer.bin",
+"off": 50758,
+"ptr": 50912,
+"t": "7 or 8...\nWhich is it!?"
+},
+{
+"f": "rep",
+"a": "db.devil/en/msg_replacer.bin",
+"off": 52885,
+"ptr": 53192,
+"t": "A 2?\nOr maybe a 3?"
+},
+{
+"f": "rep",
+"a": "db.devil/en/msg_replacer.bin",
+"off": 52960,
+"ptr": 53208,
+"t": "A 4?\nOr maybe a 5?"
+},
+{
+"f": "rep",
+"a": "db.devil/en/msg_replacer.bin",
+"off": 53033,
+"ptr": 53224,
+"t": "A 7?\nOr maybe an 8?"
+},
+{
+"f": "rep",
+"a": "db.devil/en/msg_replacer.bin",
+"off": 53053,
+"ptr": 53228,
+"t": "Gotta be a 7!\nOr is it 8?"
+},
+{
+"f": "rep",
+"a": "db.devil/en/msg_replacer.bin",
+"off": 53079,
+"ptr": 53232,
+"t": "7 or 8...\nWhich is it!?"
+},
+{
+"f": "rep",
+"a": "db.devil/en/msg_replacer.bin",
+"off": 69927,
+"ptr": 70908,
+"t": "Balance of offense/defense"
+},
+{
+"f": "rep",
+"a": "db.devil/en/msg_replacer.bin",
+"off": 905466,
+"ptr": 906448,
+"t": "Saejima! Looks like you're even\ntougher than I thought!"
+},
+{
+"f": "rep",
+"a": "db.devil/en/msg_replacer.bin",
+"off": 905522,
+"ptr": 906452,
+"t": "But all that hard work's about\nto come to nothing."
+},
+{
+"f": "rep",
+"a": "db.devil/en/msg_replacer.bin",
+"off": 905573,
+"ptr": 906456,
+"t": "My new friends'll be showing\nup any minute now."
+},
+{
+"f": "rep",
+"a": "db.devil/en/msg_replacer.bin",
+"off": 905621,
+"ptr": 906460,
+"t": "You can try to break out,\nbut you'll never escape us."
+},
+{
+"f": "rep",
+"a": "db.devil/en/msg_replacer.bin",
+"off": 905706,
+"ptr": 906468,
+"t": "We need to get through this\nstorm as fast as possible!"
 }
 ]

@@ -14,8 +14,8 @@ YAKUZA 5 REMASTERED - TRADUCCION AL ESPANOL - REGISTRO PASO A PASO
    como CSV en UTF-16.
 6. Formato .msg descifrado a mano (big endian): registros de 12 bytes con largo, posicion del texto y "funciones"
    (pausas, colores, fin) que guardan posiciones de letra. Lector: herramientas/msg_y5.py.
-7. Laboratorio D:\Y5_lab (para probar sin tocar el juego de Steam): copia aparte del juego;
-   carpetas de datos enlazadas (uniones y enlaces
+7. Laboratorio D:\Y5_lab (para probar sin tocar el juego de Steam ni sumar logros/horas): Yakuza5.exe sin SteamStub
+   (Steamless) + steam_appid.txt = 480 (Steam lo ve como "Spacewar"); carpetas de datos enlazadas (uniones y enlaces
    duros) al juego real; un archivo modificado se pone con "y5lab.sh poner" (borra el enlace y copia, nunca escribe encima).
    Ajustes del laboratorio aparte (AppData\SEGA\Yakuza5 se guarda y se devuelve al cerrar). Ventana 1280x720.
 8. PRUEBA 1 (20-10): subtitle.par rearmado con ParTool "add" y un CSV cambiado -> el juego muestra el español con tildes
@@ -114,3 +114,23 @@ YAKUZA 5 REMASTERED - TRADUCCION AL ESPANOL - REGISTRO PASO A PASO
 3. Hallazgo 2: el compresor DXT de Pillow estropea el texto fino (fantasmas, letras rotas). Ahora se guarda con texconv
    (BC1/BC2/BC3) y, fuera de lo editado, se devuelven los bloques DXT originales.
 4. Armado, comprobado (todas las .dds abren y son identicas a las revisadas), probado en el juego y en Steam.
+
+01-11-2026 - v1.0.2 (textos que quedaban en inglés + imágenes)
+1. Barrido del juego INSTALADO (herramientas/barrido.py + barrido_msg.py): se buscó inglés en TODOS los archivos.
+   Aparecieron tres sitios que el programa de la v1.0 no leía:
+   - la tabla de NOMBRES al final de cada .msg (u16 en 0x0E, punteros big endian en 0x10): quién habla, opciones de
+     respuesta y las preguntas del concurso;
+   - los subtítulos con salto de línea DENTRO de las comillas (se partían en dos filas y no se traducían);
+   - db.devil/en/msg_replacer.bin (carteles de zona, objetos, enemigos) y las frases con salto de línea de msg.bin.
+   8.492 textos nuevos (lotes 326-370), traducidos por los ayudantes gratuitos y revisados.
+2. Cierre del juego al arrancar: un «puntero» buscado por su VALOR era en realidad un dato de la cabecera de una
+   subtabla que valía igual que la posición del texto «Po». Ahora solo se cambia un puntero si el texto cambia y si el
+   de al lado también apunta a un texto. Se encontró partiendo la lista por la mitad (12 arranques).
+3. Imágenes: rótulos de fecha y lugar de las escenas (rehechos enteros, letra Candara), 199 líneas de letra del
+   karaoke (Arial negrita), subtítulo de los 32 títulos de capítulo y «PREDICCIÓN» de los dardos.
+   Se dejan como el original: portadas del karaoke, créditos, contrato de SEGA, marcas y premios, y lo dibujado dentro
+   de los vídeos (presentaciones de personaje: van en el vídeo .usm, no son imágenes).
+4. Comprobación final contra el ORIGINAL (herramientas/comparar_original.py): mismos archivos dentro de cada .par,
+   mismas imágenes y del mismo tamaño, los mismos nombres en cada .msg y las mismas filas de subtítulos: 0 fallos en 35
+   archivos. Esta herramienta, con los datos de la v1.0.2, reproduce el mismo texto que el paquete (0 diferencias en
+   187.523 textos).
