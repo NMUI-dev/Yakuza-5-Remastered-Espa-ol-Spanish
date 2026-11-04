@@ -1,0 +1,121 @@
+# Al publicar un Release en GitHub, sube el zip de la traducción a Nexus Mods como versión nueva.
+# Prueba sin subir nada: Actions > Subir a Nexus > Run workflow, con "simulacro" marcado.
+# Hace falta el secreto NEXUSMODS_API_KEY (Settings > Secrets and variables > Actions).
+name: Subir a Nexus
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Release que se sube (por ejemplo v1.0.4)
+        required: true
+      simulacro:
+        description: Solo comprobar, sin subir nada
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+
+concurrency: subir-a-nexus
+
+env:
+  JUEGO: Yakuza 5
+  NEXUS_FILE_ID: "8236512"
+  NEXUS_MOD_ID: "15646565859673"
+  NEXUS_GAME_ID: "3643"
+  NEXUS_MOD_NUM: "345"
+
+jobs:
+  subir:
+    if: github.event_name != 'release' || !github.event.release.prerelease
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      TAG: ${{ github.event.release.tag_name || inputs.tag }}
+      SIMULACRO: ${{ github.event_name == 'workflow_dispatch' && inputs.simulacro || false }}
+      NEXUS_KEY: ${{ secrets.NEXUSMODS_API_KEY }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - name: Mirar si esta versión ya está en Nexus
+        id: previo
+        run: |
+          VERSION="${TAG#[vV]}"
+          [[ "$VERSION" =~ ^[0-9]+(\.[0-9]+)+$ ]] || { echo "::error::Tag no válido: $TAG"; exit 1; }
+          consulta=$(jq -nc --arg q "{ modFiles(modId:$NEXUS_MOD_NUM, gameId:$NEXUS_GAME_ID){ version } }" '{query:$q}')
+          curl -sS --fail-with-body -m 30 -H 'Content-Type: application/json' -H 'User-Agent: subir-a-nexus' \
+            https://api.nexusmods.com/v2/graphql -d "$consulta" > versiones.json
+          jq -e '.data.modFiles | type == "array"' versiones.json > /dev/null
+          echo "Versiones en Nexus: $(jq -r '[.data.modFiles[].version] | join(", ")' versiones.json)"
+          if jq -e --arg v "$VERSION" 'any(.data.modFiles[]; (.version | ascii_downcase | ltrimstr("v")) == $v)' versiones.json > /dev/null; then
+            echo "ya_subida=true" >> "$GITHUB_OUTPUT"
+            echo "::notice::La versión $VERSION ya está en Nexus: no se vuelve a subir."
+          else
+            echo "ya_subida=false" >> "$GITHUB_OUTPUT"
+          fi
+          echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+
+      - name: Descargar y revisar el zip
+        id: zip
+        run: |
+          VERSION="${{ steps.previo.outputs.version }}"
+          mkdir paquete
+          gh release download "$TAG" -R "$GITHUB_REPOSITORY" -D paquete --pattern '*Traduccion*.zip'
+          [ "$(ls paquete | wc -l)" = 1 ] || { echo "::error::Tiene que haber un solo zip de traducción"; ls paquete; exit 1; }
+          ORIGEN="paquete/$(ls paquete)"
+          [[ "$ORIGEN" == *"v$VERSION.zip" ]] || { echo "::error::El zip no es de la versión $VERSION: $ORIGEN"; exit 1; }
+          unzip -tq "$ORIGEN"
+          unzip -Z1 "$ORIGEN" > lista.txt
+          grep -qi 'LEEME' lista.txt || { echo "::error::El zip no trae LEEME"; exit 1; }
+          grep -qi '\.bat$' lista.txt || { echo "::error::El zip no trae instalador .bat"; exit 1; }
+          ! grep -qiE '\.(exe|pyc)$' lista.txt || { echo "::error::El zip trae .exe o .pyc"; exit 1; }
+          NOMBRE="$JUEGO - Traduccion al espanol v$VERSION"
+          mv "$ORIGEN" "$NOMBRE.zip"
+          sha256sum "$NOMBRE.zip"
+          echo "nombre=$NOMBRE" >> "$GITHUB_OUTPUT"
+          gh release view "$TAG" -R "$GITHUB_REPOSITORY" --json body --jq .body | tr -d '' > notas.txt
+          CAMBIOS=$(awk '/^- /{e=1; print; next} e{exit}' notas.txt | sed 's/\*\*//g')
+          [ -n "$CAMBIOS" ] || CAMBIOS="Version $VERSION"
+          echo "$CAMBIOS"
+          { echo "cambios<<FIN_CAMBIOS"; echo "$CAMBIOS"; echo "FIN_CAMBIOS"; } >> "$GITHUB_OUTPUT"
+
+      - name: Comprobar la clave y el archivo en Nexus
+        run: |
+          if [ -z "$NEXUS_KEY" ]; then
+            if [ "$SIMULACRO" = true ]; then
+              echo "::warning::Falta el secreto NEXUSMODS_API_KEY: sin él no se puede subir."
+              exit 0
+            fi
+            echo "::error::Falta el secreto NEXUSMODS_API_KEY"
+            exit 1
+          fi
+          curl -sS --fail-with-body -m 30 -H "apikey: $NEXUS_KEY" -H 'User-Agent: subir-a-nexus' \
+            "https://api.nexusmods.com/v3/mods/$NEXUS_MOD_ID/files" > archivos.json
+          jq -e --arg id "$NEXUS_FILE_ID" 'any(.. | objects | .id?; . == $id)' archivos.json > /dev/null \
+            || { echo "::error::El File ID $NEXUS_FILE_ID no es de este mod"; exit 1; }
+          echo "Clave válida y File ID $NEXUS_FILE_ID dentro del mod $NEXUS_MOD_ID"
+
+      - name: Subir a Nexus
+        if: env.SIMULACRO != 'true' && steps.previo.outputs.ya_subida != 'true'
+        uses: Nexus-Mods/upload-action@98532f7670c27cbecc78fae03fa3e278147827e2 # v1.0.0-beta.11
+        with:
+          api_key: ${{ secrets.NEXUSMODS_API_KEY }}
+          file_id: ${{ env.NEXUS_FILE_ID }}
+          mod_id: ${{ env.NEXUS_MOD_ID }}
+          filename: ${{ steps.zip.outputs.nombre }}.zip
+          display_name: ${{ steps.zip.outputs.nombre }}
+          version: ${{ steps.previo.outputs.version }}
+          description: Traduccion al espanol latino neutro. Instrucciones en el LEEME incluido.
+          category: main
+          archive_existing_version: true
+          update_mod_version: true
+          changelog: ${{ steps.zip.outputs.cambios }}
+
+      - name: Resultado
+        run: |
+          if [ "$SIMULACRO" = true ]; then echo "SIMULACRO: no se subió nada."
+          elif [ "${{ steps.previo.outputs.ya_subida }}" = true ]; then echo "Ya estaba en Nexus: no se subió nada."
+          else echo "Subida a Nexus: ${{ steps.zip.outputs.nombre }}"
+          fi
