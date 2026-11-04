@@ -75,7 +75,7 @@ jobs:
           mv "$ORIGEN" "$NOMBRE.zip"
           sha256sum "$NOMBRE.zip"
           echo "nombre=$NOMBRE" >> "$GITHUB_OUTPUT"
-          gh release view "$TAG" -R "$GITHUB_REPOSITORY" --json body --jq .body | tr -d '' > notas.txt
+          gh release view "$TAG" -R "$GITHUB_REPOSITORY" --json body --jq .body | sed 's/[[:cntrl:]]//g' > notas.txt
           CAMBIOS=$(awk '/^- /{e=1; print; next} e{exit}' notas.txt | sed 's/\*\*//g')
           [ -n "$CAMBIOS" ] || CAMBIOS="Version $VERSION"
           echo "$CAMBIOS"
