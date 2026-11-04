@@ -19,7 +19,7 @@ import atlas_es
 import paginas_es as P
 from ocr_imagenes import origen
 R = os.path.dirname(os.path.dirname(os.path.abspath(__file__))); T = os.path.join(R, 'trabajo')
-TR = json.load(open(os.path.join(R, 'entrega', 'Herramientas para traduccion', 'datos', 'traducciones.json'), encoding='utf-8'))
+TR = json.load(open(os.path.join(R, 'trabajo', 'datos', 'traducciones.json'), encoding='utf-8'))
 RV = os.path.join(T, 'imagenes', 'revision_v101')
 SAL = os.path.join(T, 'imagenes', 'es_v101'); REV = os.path.join(RV, 'rehechas')
 EXTRA = os.path.join(RV, 'frases_extra.json')   # inglés -> español que no está en el juego (traducido aparte / a mano)

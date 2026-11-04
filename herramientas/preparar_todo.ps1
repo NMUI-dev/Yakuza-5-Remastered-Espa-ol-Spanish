@@ -58,7 +58,7 @@ if (-not ((Test-Path $pt) -and ((Get-FileHash $pt -Algorithm SHA256).Hash -eq "B
 Write-Host "   listo: herramientas\partool\ParTool.exe"
 
 Paso "4/5 reARMP (Ret-HZ) y texconv (Microsoft DirectXTex may2026)"
-$ra = Join-Path $repo "entrega\Herramientas para traduccion\programas\reARMP"
+$ra = Join-Path $repo "terceros\reARMP"
 New-Item -ItemType Directory -Force (Join-Path $h "reARMP") | Out-Null
 Copy-Item (Join-Path $ra "*") (Join-Path $h "reARMP") -Force
 Write-Host "   listo: herramientas\reARMP\reARMP.py (copia incluida en el repositorio)"

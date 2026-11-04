@@ -3,7 +3,7 @@
 # (junto a este instalador); «Quitar» los devuelve. No toca partidas, logros ni horas de Steam.
 param([string]$Accion = "")
 $ErrorActionPreference = "Stop"
-$VERSION = "1.0.3"
+$VERSION = "1.0.4"
 $aqui = Split-Path -Parent $MyInvocation.MyCommand.Path
 $arch = Join-Path $aqui "archivos\data"
 $resp = Join-Path $aqui "respaldo_original"

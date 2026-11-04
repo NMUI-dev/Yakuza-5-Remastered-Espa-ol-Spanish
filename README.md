@@ -6,14 +6,14 @@
 
 *Do not download the source (green «Code» button): it does not contain the ready translation.* Get the zip from **[Releases](https://github.com/NMUI-dev/Yakuza-5-Remastered-Espa-ol-Spanish/releases/latest)**, unzip it into a folder, double-click **`INSTALAR o QUITAR.bat`** and type `1` (install). The installer finds the Steam game by itself and backs up the original files so it can be removed.
 
-**¿Vas a traducir otro Yakuza?** Lee **[LECCIONES_PARA_TRADUCTORES.md](LECCIONES_PARA_TRADUCTORES.md)**: dónde guarda texto el juego, las trampas que encontramos y cómo sacar los términos oficiales en español latino de Kiwami, Kiwami 2, Kiwami 3 y Yakuza 0 Director's Cut.
+**¿Quieres corregir esta traducción, pasarla a otro idioma o traducir otro Yakuza?** Usa las **[herramientas y la guía paso a paso](https://github.com/NMUI-dev/Yakuza-5-Herramientas-de-traduccion)**, con todos los `.exe`: dónde guarda texto el juego, las trampas que encontramos y cómo sacar los términos oficiales en español latino de Kiwami, Kiwami 2, Kiwami 3 y Yakuza 0 Director's Cut.
 
 **Para compilarla tú mismo:** guía paso a paso en español en **[COMPILAR.md](COMPILAR.md)**. **`PREPARAR TODO.bat`** descarga de una vez todo lo necesario (Python, ParTool, reARMP, texconv y las fuentes), comprobando cada archivo.
 
 The rest of this page is the source code, for people who want to rebuild or check the mod.
 
 Source code and translation data for the fan-made Spanish (Latin American neutral) translation of
-*Yakuza 5 Remastered* (Steam, PC). Release v1.0.3.
+*Yakuza 5 Remastered* (Steam, PC). Release v1.0.4.
 
 **This repository contains no game files.** Everything here is our own scripts, the translated text and the
 specifications used to redraw in-image text. To build the mod you need your own copy of the game from Steam.
@@ -27,7 +27,7 @@ modified and no `.exe`/`.dll` is shipped.
 | Part | Built by | From |
 |---|---|---|
 | Dialogue `.msg`, subtitles, tables, menus, mails, scripts | `herramientas/aplicar.py` | `trabajo/lotes/lote_NNN_es.json` |
-| System messages (`db.devil/en/msg.bin`, ARMP) | `herramientas/devil.py aplicar` | translation in `entrega/Herramientas para traduccion/datos/devil.json` |
+| System messages (`db.devil/en/msg.bin`, ARMP) | `herramientas/devil.py aplicar` | translation in `datos/devil.json` of the [translation tools](https://github.com/NMUI-dev/Yakuza-5-Herramientas-de-traduccion) |
 | Font (`fontpar/font_hd_en.par`) | `herramientas/aplicar.py`, `letra_i.py` | game font + redrawn `¿ ¡ í Í` cells |
 | Textures with text (`pausepar/*.par`, `2dpar/*.par`, ...) | `herramientas/imagenes_*.py`, `atlas_*.py`, `paginas_*.py`, `*_v101.py` | specs in `trabajo/imagenes/` |
 
@@ -35,9 +35,7 @@ The installer (`entrega/instalar.ps1`, started by `entrega/INSTALAR o QUITAR.bat
 finds the game through Steam's `libraryfolders.vdf`, backs up the original files and copies the translated ones;
 option 2 restores the backup. It downloads nothing and runs nothing else.
 
-`entrega/Herramientas para traduccion/` is the optional "translation tools" package for people who want to edit the
-texts (`herramienta_traduccion.py extraer|aplicar`, all translations in `datos/traducciones.json`). It does **not**
-include ParTool: the user downloads it (see below).
+The translation tools and the step-by-step guide are in a [separate repository](https://github.com/NMUI-dev/Yakuza-5-Herramientas-de-traduccion), which includes ParTool and texconv.
 
 ## Repository layout
 
@@ -53,7 +51,9 @@ trabajo/imagenes/GUIA_ATLAS.md   how the texture kit works
 trabajo/imagenes/revision_v101/  v1.0.1 review lists (which textures were redone and why)
 trabajo/extra/textos.json     v1.0.2: speaker names / answer options, two-line subtitles and msg_replacer strings
 trabajo/telop/                v1.0.2: OCR of the textures the v1.0.1 review did not cover, and their text blocks
-entrega/                      installer + optional translation tools, as shipped (without third-party .exe)
+entrega/                      installer, as shipped
+terceros/reARMP/              reARMP (Ret-HZ, GPL-2.0), copied to herramientas/reARMP by PREPARAR TODO.bat
+trabajo/datos/traducciones.json   all translations, used by herramientas/paginas_v101.py
 ```
 
 ## Requirements
@@ -67,7 +67,7 @@ entrega/                      installer + optional translation tools, as shipped
     <https://github.com/Kaplas80/ParManager/releases/download/v1.3.4/v1.3.4-windows-x64.zip>
     (SHA-256 of ParTool.exe: `b798027a243229c04741e491abb1f92ae4cc7a379c0cba31b81446f9be4e5b3f`)
   - **reARMP** (Ret-HZ, GPL-2.0) — `herramientas/reARMP/reARMP.py` <https://github.com/Ret-HZ/reARMP>
-    (a copy with its LICENSE is in `entrega/Herramientas para traduccion/programas/reARMP/`)
+    (a copy with its LICENSE is in `terceros/reARMP/`)
   - **texconv** (Microsoft DirectXTex, MIT, for BC7 textures) — `herramientas/texconv/texconv.exe`
     <https://github.com/microsoft/DirectXTex/releases>
   - Fonts for redrawn textures (Google Fonts, OFL/Apache) — `herramientas/fuentes_img/`:
@@ -153,7 +153,7 @@ The v1.0.2 mod is `entrega_v101/archivos/data` with `trabajo/salida_v102/data` c
 `aplicar_extra.py` only redirects a `msg_replacer.bin` pointer when the text changes and the slot is part of a pointer
 table (one header value happened to equal the offset of the string «Po»; changing it crashed the game at startup).
 Exact English matches are used first; the fuzzy match (tags and spaces ignored) no longer adds colour tags or
-spaces the original line does not have. The translation tools (`entrega/Herramientas para traduccion`) now extract
+spaces the original line does not have. The [translation tools](https://github.com/NMUI-dev/Yakuza-5-Herramientas-de-traduccion) now extract
 and apply these texts too (`datos/textos_extra.json`); with no edits they reproduce the release text exactly
 (`herramientas/comparar_textos.py`: 0 differences in 187,523 texts).
 
@@ -165,9 +165,13 @@ python herramientas/terminos_v103.py     # texts we left in English that the ser
 python herramientas/aplicar_v103.py      # applies the chosen ones to the lots (31 texts)
 ```
 
-The v1.0.3 game files are built with the translation tools themselves (`entrega/Herramientas para traduccion`,
+The game files since v1.0.3 are built with the [translation tools](https://github.com/NMUI-dev/Yakuza-5-Herramientas-de-traduccion) themselves (
 `herramienta_traduccion.py extraer` + `aplicar --a-archivos`) from the original English files; then
 `comparar_original.py <data>` (0 failures in 35 files). Heat, DEALER and HOME RUN stay as the user decided.
+
+### 6. v1.0.4: last short sentences
+
+`trabajo/lotes/lote_371*` translates «I'm...» and «I...» (6 texts). The tool accepts them through `CORTAS_SI`.
 
 ## Testing
 

@@ -1,3 +1,3 @@
 @echo off
-rem Yakuza 5 - Traduccion al espanol v1.0.3: instalar o quitar
+rem Yakuza 5 - Traduccion al espanol v1.0.4: instalar o quitar
 powershell -NoProfile -ExecutionPolicy Bypass -File "%~dp0instalar.ps1"

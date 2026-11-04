@@ -33,7 +33,7 @@ Doble clic en **`PREPARAR TODO.bat`**. Hace esto solo, comprobando la SHA-256 de
 | Python 3.12 (si no lo tienes, te pregunta si lo instala con winget) | python.org | el sistema |
 | Paquetes de Python: numpy; y si dices que sí, los de imágenes (pillow, opencv, rapidocr, simple-lama-inpainting; unos 3 GB) | PyPI | el sistema |
 | ParTool 1.3.4 (Kaplas80) | GitHub de ParManager | `herramientas/partool/` |
-| reARMP (Ret-HZ, GPL-2.0) | copia incluida en `entrega/.../programas/reARMP` | `herramientas/reARMP/` |
+| reARMP (Ret-HZ, GPL-2.0) | copia incluida en `terceros/reARMP` | `herramientas/reARMP/` |
 | texconv may2026 (Microsoft DirectXTex, MIT) | GitHub de DirectXTex | `herramientas/texconv/` |
 | 16 fuentes (Bangers, Oswald, Permanent Marker...) | Google Fonts | `herramientas/fuentes_img/` |
 
@@ -144,7 +144,7 @@ python herramientas/terminos_v103.py              # lo que dejamos en inglés y 
 python herramientas/aplicar_v103.py               # aplica los elegidos a los lotes
 ```
 
-Los archivos del juego de la v1.0.3 se arman con la propia herramienta para traducir (`EXTRAER` + `APLICAR`) a partir
+Los archivos del juego desde la v1.0.3 se arman con la [herramienta para traducir](https://github.com/NMUI-dev/Yakuza-5-Herramientas-de-traduccion) (`EXTRAER` + `APLICAR`) a partir
 de los originales en inglés, y se comprueban con `python herramientas/comparar_original.py <carpeta data>`.
 
 ## 7. Armar el mod
