@@ -1,6 +1,22 @@
-﻿YAKUZA 5 REMASTERED - TRADUCCIÓN AL ESPAÑOL v1.0.4 (01-11-2026)
+﻿YAKUZA 5 REMASTERED - TRADUCCIÓN AL ESPAÑOL v1.0.5 (05-11-2026)
 
 Traducción hecha por fans del inglés oficial al español neutro latinoamericano. Gratis, prohibido venderla.
+
+CAMBIOS EN LA v1.0.5 (revisión tras un comentario en Steam: «género mal en algunos diálogos» y «diálogos sin traducir»)
+- 589 frases corregidas:
+  · 24 con el GÉNERO equivocado: Kiryu, Akiyama, Shinada o Saejima hablando o tratados en femenino («¿Eres hija
+    única, Kiryu-san?», «No estoy segura», «estoy preocupada por ti») y al revés (Haruka «para ser honesto»;
+    «Dueño de Dyna Chair» para Mirei Park). Comprobado con quién habla en cada conversación y con las fotos de
+    los personajes.
+  · 94 frases de las citas de cabaret (Honoka, Shion, Hinata) que estaban corridas una línea: cada respuesta salía
+    en el momento equivocado.
+  · 132 con restos de inglés dentro del español («Puedes(show yourself out)», «absolutely», «me hayas invited»...).
+  · 112 con «Uncle Kaz» puesto como «Soberano Kaz» o «Kaz-nee»: ahora «viejo Kaz», como en el resto del juego.
+  · 227 faltas y palabras inexistentes («invitearme», «Lárdate», «consiges», «Jugemos»...).
+- 7 imágenes que tenían restos en inglés, rehechas: medallas de la carrera de gallos (Novato, Retador...), concurso y
+  tutoriales de idol, «Next» del karaoke y la web de Macsiv.
+- Actualizar desde la v1.0.4 o anterior: PRIMERO quita la anterior (su «INSTALAR o QUITAR.bat», opción 2) y luego
+  instala esta.
 
 CAMBIOS EN LA v1.0.4
 - Traducidas las dos últimas frases cortas que seguían en inglés: «I'm...» en una escena del capítulo final y
@@ -54,10 +70,10 @@ QUITAR
 - Si borraste el respaldo: Steam > clic derecho en el juego > Propiedades > Archivos instalados > Verificar integridad.
 - Si Steam actualiza el juego, vuelve a instalar la traducción.
 
-GUÍA Y HERRAMIENTAS PARA TRADUCIR (repositorio aparte)
-- https://github.com/NMUI-dev/Yakuza-5-Herramientas-de-traduccion
-  Guía paso a paso, cifras, errores que tuvimos y el programa para sacar todos los textos a una hoja (inglés y
-  español al lado), corregirlos y volver a meterlos en el juego.
+GUÍA Y HERRAMIENTAS (descarga aparte: «Yakuza 5 - Herramientas para traduccion v1.0.5»)
+- «Herramientas para traduccion\PASO_A_PASO.txt»: qué se hizo, con qué programas y cómo funciona el juego por dentro.
+- «Herramientas para traduccion\COMO_USAR.txt»: programa para sacar todos los textos a una hoja (inglés y español al
+  lado), corregirlos y volver a meterlos en el juego.
 - «capturas»: 5 imágenes del juego traducido.
 
 Probado con la versión de Steam (appid 1105510). Si algo falla, avisa dónde lo descargaste diciendo qué estabas haciendo.
