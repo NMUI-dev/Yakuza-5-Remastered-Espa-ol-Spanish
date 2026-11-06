@@ -1,6 +1,27 @@
-﻿YAKUZA 5 REMASTERED - TRADUCCIÓN AL ESPAÑOL v1.0.5 (05-11-2026)
+﻿YAKUZA 5 REMASTERED - TRADUCCIÓN AL ESPAÑOL v1.0.6 (06-11-2026)
 
 Traducción hecha por fans del inglés oficial al español neutro latinoamericano. Gratis, prohibido venderla.
+
+CAMBIOS EN LA v1.0.6 (revisión por escenas: los casos dudosos de todo el juego leídos con toda su conversación)
+- 1.153 frases corregidas:
+  · 219 con el trato TÚ/USTED mezclado: la misma persona pasaba de «usted» a «tú» en la misma conversación.
+    Ahora dependientes, camareros, crupieres y recepcionistas tratan de usted al cliente en todas sus frases
+    («Vuelva pronto», «¿Desea jugar?»), y cada personaje mantiene el trato de principio a fin.
+  · 99 con errores de SENTIDO: trozos que faltaban («Es la mejor hermana del mundo», «Reconozco una pelota
+    trucada...»), negaciones perdidas («Me aseguraré de que no vuelva a pasar»), números cambiados (máquina 86, no
+    70) y preguntas que no lo eran o al revés.
+  · 17 de GÉNERO: Kuwabara (presidente de Watamin-chi) tratado de «presidenta», Christina (hombre) como «esa»,
+    Kiryu «He trabajado como anfitriona», Shinada «Me enredo sola»...
+  · 295 nombres de objetos, platos y técnicas que en los diálogos se llamaban distinto que en el menú
+    («Conversor de gravedad» / «Convertidor de gravedad», «Plumas y vástago» / «Aleta y caña»...): ahora iguales.
+  · 83 nombres propios unificados: Orfanato Morning Glory (antes también «Campanilla» y «gloria matutina»),
+    Empresas Ousaka, Palacio del Dragón, Pequeña Asia, Tienda M, Devil Killers, Kamurocho Hills y «viejo Kaz»
+    (quedaban 5 «tío Kaz»).
+  · 22 expresiones de España cambiadas a español latino («os», «teníais», «soñad», «patata», «¡Venga!»).
+  · 388 signos de pregunta y exclamación mal abiertos o cerrados («¿Piensas mucho, ¿verdad?», «¡En serio!?»).
+  · 30 erratas, frases rotas e inglés colado («AMAZADOR», «beaucoup», «Prono», «Garlandshireán», «me parece_Name»).
+- Actualizar desde la v1.0.5 o anterior: PRIMERO quita la anterior (su «INSTALAR o QUITAR.bat», opción 2) y luego
+  instala esta.
 
 CAMBIOS EN LA v1.0.5 (revisión tras un comentario en Steam: «género mal en algunos diálogos» y «diálogos sin traducir»)
 - 589 frases corregidas:
@@ -70,7 +91,7 @@ QUITAR
 - Si borraste el respaldo: Steam > clic derecho en el juego > Propiedades > Archivos instalados > Verificar integridad.
 - Si Steam actualiza el juego, vuelve a instalar la traducción.
 
-GUÍA Y HERRAMIENTAS (descarga aparte: «Yakuza 5 - Herramientas para traduccion v1.0.5»)
+GUÍA Y HERRAMIENTAS (descarga aparte: «Yakuza 5 - Herramientas para traduccion v1.0.6»)
 - «Herramientas para traduccion\PASO_A_PASO.txt»: qué se hizo, con qué programas y cómo funciona el juego por dentro.
 - «Herramientas para traduccion\COMO_USAR.txt»: programa para sacar todos los textos a una hoja (inglés y español al
   lado), corregirlos y volver a meterlos en el juego.
