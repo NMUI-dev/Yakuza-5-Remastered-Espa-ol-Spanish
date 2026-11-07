@@ -1,6 +1,18 @@
-﻿YAKUZA 5 REMASTERED - TRADUCCIÓN AL ESPAÑOL v1.0.7 (06-11-2026)
+﻿YAKUZA 5 REMASTERED - TRADUCCIÓN AL ESPAÑOL v1.0.8 (06-11-2026)
 
 Traducción hecha por fans del inglés oficial al español neutro latinoamericano. Gratis, prohibido venderla.
+
+CAMBIOS EN LA v1.0.8 (velocidad de lectura y términos únicos)
+- 26 subtítulos de escena que pedían leer demasiado rápido (más de 20 letras por segundo) acortados sin perder el sentido;
+  de paso, «Suselegantes» y «the force» (la policía, no «este juego»).
+- Un término, una traducción: «health» es siempre «salud», como en la saga oficial (antes también «vida»), y «hostess
+  club» es «club de anfitrionas» (antes también «club de cabaré»; un globo lo conserva porque no cabe).
+- Pesca: el aviso «¡Atrapaste...!» tenía el tamaño y el nombre del pez en orden cambiado respecto al juego (%d/%s), lo
+  que podía mostrar basura o cerrar el juego al pescar. Arreglado.
+- Falsos amigos: «eventualmente» por «eventually» (al final, tarde o temprano), «asumir» por «assume» (suponer, dar por
+  hecho), «simpatía» por «sympathy» (compasión); y una ficha de personaje a la que le faltaba una frase.
+- Actualizar desde la v1.0.7 o anterior: PRIMERO quita la anterior (su «INSTALAR o QUITAR.bat», opción 2) y luego
+  instala esta.
 
 CAMBIOS EN LA v1.0.7 (revisión con las reglas de los traductores profesionales y la regla NUNCA CENSURAR)
 - 2.010 textos corregidos:
@@ -109,7 +121,7 @@ QUITAR
 - Si borraste el respaldo: Steam > clic derecho en el juego > Propiedades > Archivos instalados > Verificar integridad.
 - Si Steam actualiza el juego, vuelve a instalar la traducción.
 
-GUÍA Y HERRAMIENTAS (descarga aparte: «Yakuza 5 - Herramientas para traduccion v1.0.7»)
+GUÍA Y HERRAMIENTAS (descarga aparte: «Yakuza 5 - Herramientas para traduccion v1.0.8»)
 - «Herramientas para traduccion\PASO_A_PASO.txt»: qué se hizo, con qué programas y cómo funciona el juego por dentro.
 - «Herramientas para traduccion\COMO_USAR.txt»: programa para sacar todos los textos a una hoja (inglés y español al
   lado), corregirlos y volver a meterlos en el juego.
