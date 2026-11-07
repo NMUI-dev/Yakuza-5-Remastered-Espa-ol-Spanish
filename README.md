@@ -13,7 +13,7 @@
 The rest of this page is the source code, for people who want to rebuild or check the mod.
 
 Source code and translation data for the fan-made Spanish (Latin American neutral) translation of
-*Yakuza 5 Remastered* (Steam, PC). Release v1.0.8.
+*Yakuza 5 Remastered* (Steam, PC). Release v1.0.9.
 
 **This repository contains no game files.** Everything here is our own scripts, the translated text and the
 specifications used to redraw in-image text. To build the mod you need your own copy of the game from Steam.
@@ -168,6 +168,12 @@ python herramientas/aplicar_v103.py      # applies the chosen ones to the lots (
 The game files since v1.0.3 are built with the [translation tools](https://github.com/NMUI-dev/Yakuza-5-Herramientas-de-traduccion) themselves (
 `herramienta_traduccion.py extraer` + `aplicar --a-archivos`) from the original English files; then
 `comparar_original.py <data>` (0 failures in 35 files). Heat, DEALER and HOME RUN stay as the user decided.
+
+### 11. v1.0.9: punctuation outside quotes
+
+151 texts: the closing period or comma now goes outside the quotation marks, as the RAE asks. Final round of
+questions to the free AIs: nothing else to fix. Data: trabajo/revision_v109/correcciones.json; tools: separate
+repository (programas/revision_v109).
 
 ### 10. v1.0.8: reading speed, one term one translation, variable order
 

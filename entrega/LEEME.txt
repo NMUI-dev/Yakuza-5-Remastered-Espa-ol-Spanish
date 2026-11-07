@@ -1,6 +1,13 @@
-﻿YAKUZA 5 REMASTERED - TRADUCCIÓN AL ESPAÑOL v1.0.8 (06-11-2026)
+﻿YAKUZA 5 REMASTERED - TRADUCCIÓN AL ESPAÑOL v1.0.9 (07-11-2026)
 
 Traducción hecha por fans del inglés oficial al español neutro latinoamericano. Gratis, prohibido venderla.
+
+CAMBIOS EN LA v1.0.9 (07-11-2026)
+- 151 textos con el punto o la coma de cierre DENTRO de las comillas pasan a ponerlo fuera, como pide la RAE
+  (la canción "Machine Gun Kiss". Puede...).
+- Ronda final de preguntas a las IA: nada más que corregir (escala de cifras y códigos de casilleros, comprobados).
+- Actualizar desde la v1.0.8 o anterior: PRIMERO quita la anterior (su «INSTALAR o QUITAR.bat», opción 2) y luego
+  instala esta.
 
 CAMBIOS EN LA v1.0.8 (velocidad de lectura y términos únicos)
 - 26 subtítulos de escena que pedían leer demasiado rápido (más de 20 letras por segundo) acortados sin perder el sentido;
@@ -121,7 +128,7 @@ QUITAR
 - Si borraste el respaldo: Steam > clic derecho en el juego > Propiedades > Archivos instalados > Verificar integridad.
 - Si Steam actualiza el juego, vuelve a instalar la traducción.
 
-GUÍA Y HERRAMIENTAS (descarga aparte: «Yakuza 5 - Herramientas para traduccion v1.0.8»)
+GUÍA Y HERRAMIENTAS (descarga aparte: «Yakuza 5 - Herramientas para traduccion v1.0.9»)
 - «Herramientas para traduccion\PASO_A_PASO.txt»: qué se hizo, con qué programas y cómo funciona el juego por dentro.
 - «Herramientas para traduccion\COMO_USAR.txt»: programa para sacar todos los textos a una hoja (inglés y español al
   lado), corregirlos y volver a meterlos en el juego.
